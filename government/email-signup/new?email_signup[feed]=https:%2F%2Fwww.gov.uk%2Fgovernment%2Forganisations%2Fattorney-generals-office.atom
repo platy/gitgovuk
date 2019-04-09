@@ -1,0 +1,26 @@
+<div id="page" class="email-signup-show">
+      
+<header class="block email-header">
+  <div class="inner-block">
+    <h1>Email alert subscription</h1>
+  </div>
+</header>
+
+<div class="block">
+  <div class="inner-block">
+      <form class="signup-form" id="new_email_signup" action="/government/email-signup" accept-charset="UTF-8" method="post">
+<input name="utf8" type="hidden" value="✓"></input><input type="hidden" name="authenticity_token" value="qb9vS2gY2/kSXFR/QIZLEp1Hlw28Py/UoDdamD48pJtotfQnmG/9+f7sU4EbWjtB+Le2Av5EaI+IYzTs139TBA=="></input>
+  <input type="hidden" value="https://www.gov.uk/government/organisations/attorney-generals-office.atom" name="email_signup[feed]" id="email_signup_feed"></input>
+
+  <p>You're signing up to all alerts for <strong>Attorney General's Office</strong></p>
+
+  <div class="submit">
+    <button name="button" type="submit">Create subscription</button>
+    <p>You can enter your email address on the next page to complete the subscription</p>
+  </div>
+</form>
+  </div>
+</div>
+
+      
+    </div>

@@ -1,0 +1,26 @@
+<div id="page" class="email-signup-show">
+      
+<header class="block email-header">
+  <div class="inner-block">
+    <h1>Email alert subscription</h1>
+  </div>
+</header>
+
+<div class="block">
+  <div class="inner-block">
+      <form class="signup-form" id="new_email_signup" action="/government/email-signup" accept-charset="UTF-8" method="post">
+<input name="utf8" type="hidden" value="✓"></input><input type="hidden" name="authenticity_token" value="HmS6feq3Tp6H6dQ591opsGy7H1uJmV/vXL2CE4WR9F1tvkjanYG23JU7JZM/uqR/yY8pv1oYml8B2M+4BEWdCA=="></input>
+  <input type="hidden" value="https://www.gov.uk/government/organisations/home-office.atom" name="email_signup[feed]" id="email_signup_feed"></input>
+
+  <p>You're signing up to all alerts for <strong>Home Office</strong></p>
+
+  <div class="submit">
+    <button name="button" type="submit">Create subscription</button>
+    <p>You can enter your email address on the next page to complete the subscription</p>
+  </div>
+</form>
+  </div>
+</div>
+
+      
+    </div>

@@ -1,0 +1,107 @@
+<div class="gem-c-breadcrumbs govuk-breadcrumbs " data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/contact" data-track-options="{"dimension28":"2","dimension29":"Contact"}" class="govuk-breadcrumbs__link" aria-current="false" href="/contact">Contact</a>
+      </li>
+  </ol>
+</div>
+
+
+
+        <header class="page-header group">
+          <div class="full-width">
+            <h1>Contact GOV.UK</h1>
+          </div>
+        </header>
+
+        <div class="contact-container full-width group">
+          
+<div class="inner">
+  <form class="contact-form" action="/contact/govuk" accept-charset="UTF-8" method="post">
+<input name="utf8" type="hidden" value="✓"></input>
+    <input type="hidden" name="contact[url]" id="contact_url" value="https://www.gov.uk/contact/govuk"></input>
+
+    <p>This form is for issues to do with the GOV.UK website.</p>
+    <p>You can use it to ask a question, report a problem or suggest an improvement to the GOV.UK team.</p>
+    <p>We can’t reply to you with advice. We don’t have access to information about you held by government departments.</p>
+    <p>If you have a question about a government service or policy, check the <a href="/help">help pages</a> or contact the <a hef="/government/organisations">government department</a> directly.</p>
+
+    <div class="visually-hidden" aria-hidden="true">
+  <label for="val">Ignore if you're not a robot</label>
+  <input type="text" tabindex="-1" autocomplete="off" id="val" name="contact[val]"></input>
+</div>
+
+
+    
+
+    <fieldset id="location">
+      <legend>What's it to do with?</legend>
+        <label class="selectable">
+          <input type="radio" name="contact[location]" id="location-all" value="all" checked></input> The whole site
+        </label>
+
+        <p>
+
+      <label class="selectable">
+        <input type="radio" name="contact[location]" id="location-specific" value="specific"></input> A specific page
+      </label>
+
+        <label for="link" class="visuallyhidden">Enter URL or name of page</label>
+        <input type="text" name="contact[link]" id="link" placeholder="Enter URL or name of page" value></input>
+        </p>
+    </fieldset>
+
+    <fieldset>
+      <legend>What are the details?</legend>
+      <div class="group">
+        <p>For example if you were searching for something, what did you type into the search box?</p>
+
+        
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+          <div class="application-notice help-notice">
+            <p class="warning-message">
+              Don’t include personal or financial information, for example your National Insurance number or credit card details.
+            </p>
+          </div>
+
+</div>
+
+
+        <label for="textdetails" class="visuallyhidden">Detail</label>
+        <textarea name="contact[textdetails]" class="full-size counted" id="textdetails" required aria-required="true"></textarea>
+
+
+        <p id="textdetailscounter" class="hint" aria-live="polite" aria-atomic="false">(Limit is 1200 characters)</p>
+      </div>
+    </fieldset>
+
+    <fieldset id="contact-details">
+      <legend>Do you want a reply?</legend>
+      <p>If you'd like us to get back to you, please leave your details below.</p>
+
+        <p class="group">
+
+        <label for="name">Your name</label>
+        <input name="contact[name]" id="name" type="text" class="full-name" value></input>
+      </p>
+
+        <p class="group">
+
+        <label for="email">Your email address</label>
+        <input name="contact[email]" id="email" type="email" class="email" value></input>
+        <span class="hint">We'll only use this to reply to your message.</span>
+
+      </p>
+    </fieldset>
+
+    <p class="action group">
+      <button type="submit" class="button">Send message</button>
+    </p>
+</form>
+</div>
+
+        </div>

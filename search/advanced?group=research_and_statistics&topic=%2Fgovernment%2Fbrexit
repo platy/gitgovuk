@@ -1,0 +1,249 @@
+<div id="finder-frontend" class="advanced-search">
+          
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--full-width  gem-c-inverse-header--padding-top ">
+    
+  <div class="govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--inverse" data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+  </ol>
+</div>
+
+
+      </div>
+    </div>
+
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <a class="taxon-link" href="/government/brexit">Brexit</a>
+        <div class="gem-c-title
+  gem-c-title--inverse
+  gem-c-title--margin-bottom-5">
+  <h1 class="gem-c-title__text ">
+    Research and statistics
+  </h1>
+</div>
+
+
+      </div>
+
+
+    </div>
+  </div>
+
+  </header>
+
+<div class="govuk-width-container">
+  <form method="get" action="/search/advanced" class="js-live-search-form">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-third">
+        <div class="filter-form">
+    <div id="keywords">
+      
+<div class="govuk-form-group">
+    
+<label for="finder-keyword-search" class="gem-c-label govuk-label">
+          Search <span class="govuk-visually-hidden">Latest on GOV.UK</span>
+
+</label>
+
+
+
+
+  <input name="keywords" value class="gem-c-input govuk-input" id="finder-keyword-search" type="text" aria-controls="js-search-results-info"></input>
+</div>
+    </div>
+
+  <div data-module="track-click" data-track-category="filterClicked" data-track-action="skip-Link" data-track-label>
+    <a class="gem-c-skip-link govuk-skip-link" href="#js-results">Skip to results</a>
+
+  </div>
+
+    <div data-module="gem-toggle" data-toggle-class="facet-toggle__content--hide" class="facet-toggle--only-on-mobile">
+      <a href="#" class="facet-toggle" data-controls="facet-wrapper" data-expanded="false" data-track-category="filterClicked" data-track-action="accordion" data-toggled-text="- Show fewer search options">
+        + Show more search options
+      </a>
+
+      <div id="facet-wrapper" class="facet-toggle__content facet-toggle__content--hide">
+          
+
+<div class="app-c-option-select" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-publication-type">
+      Publication type
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-publication-type" class="app-c-option-select__container js-options-container" id="subgroup">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-b8099ead" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Publication type</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-research" value="research" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Research" data-controls="js-search-results-info"></input><label for="subgroup-research" class="govuk-label govuk-checkboxes__label">Research</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-statistics" value="statistics" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Statistics" data-controls="js-search-results-info"></input><label for="subgroup-statistics" class="govuk-label govuk-checkboxes__label">Statistics</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  <div class="app-c-date-filter" id="public_timestamp" data-module="enable-aria-controls">
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[from]" class="gem-c-label govuk-label">
+  Publication date after
+</label>
+
+
+    
+<span id="hint-23564e14" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[from]" value class="gem-c-input govuk-input" id="public_timestamp[from]" type="text" aria-describedby="hint-23564e14" aria-controls="js-search-results-info"></input>
+</div>
+
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[to]" class="gem-c-label govuk-label">
+  Publication date before
+</label>
+
+
+    
+<span id="hint-faf095ff" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[to]" value class="gem-c-input govuk-input" id="public_timestamp[to]" type="text" aria-describedby="hint-faf095ff" aria-controls="js-search-results-info"></input>
+</div>
+  </div>
+
+  <input type="hidden" name="topic" id="topic" value="/government/brexit"></input>
+  <input type="hidden" name="group" id="group" value="research_and_statistics"></input>
+  <input type="hidden" name="organisations" id="organisations"></input>
+
+      </div>
+    </div>
+
+  <div class="js-live-search-fallback button__wrapper">
+    
+  <button class="gem-c-button govuk-button gem-c-button--bottom-margin" type="submit">Filter results</button>
+
+
+  </div>
+</div>
+
+      </div>
+
+      <div class="govuk-grid-column-two-thirds">
+        <div class="js-live-search-results-block">
+          <div class="filtered-results">
+            <div aria-live="assertive" id="js-search-results-info">
+              <p class="result-info">
+  <strong>4 results in research and statistics</strong>
+</p>
+
+            </div>
+            <div id="js-results">
+              
+<ul data-module="track-click" class="finder-results">
+    <li class="document">
+      <a href="/government/statistics/european-union-finances-2017" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.1" data-track-label="/government/statistics/european-union-finances-2017" data-track-options="{"dimension28":"4","dimension29":"European Union Finances 2017"}">European Union Finances 2017</a>
+        <p>This document describes the EU Budget for 2017.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2018-03-16">16 March 2018</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          HM Treasury
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Official statistics
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/renal-cancer-and-occupational-exposure-to-trichloroethylene-iiac-position-paper-39" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.2" data-track-label="/government/publications/renal-cancer-and-occupational-exposure-to-trichloroethylene-iiac-position-paper-39" data-track-options="{"dimension28":"4","dimension29":"Renal cancer and occupational exposure to trichloroethylene: IIAC position paper 39"}">Renal cancer and occupational exposure to trichloroethylene: IIAC position paper 39</a>
+        <p>This is the council’s note about renal cancer and occupational exposure to trichloroethylene (TCE). </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2017-09-12">12 September 2017</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Work and Pensions, Industrial Injuries Advisory Council
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Independent report
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/summary-of-issues-raised-by-british-citizens-in-the-netherlands" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.3" data-track-label="/government/publications/summary-of-issues-raised-by-british-citizens-in-the-netherlands" data-track-options="{"dimension28":"4","dimension29":"Summary of Issues Raised by British Citizens in the Netherlands"}">Summary of Issues Raised by British Citizens in the Netherlands</a>
+        <p>A summary account of themes raised by British citizens in the Netherlands during open forums hosted by the British Embassy</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2017-07-03">3 July 2017</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Foreign & Commonwealth Office
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Research
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/statistics/what-information-is-there-on-british-migrants-living-in-europe" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.4" data-track-label="/government/statistics/what-information-is-there-on-british-migrants-living-in-europe" data-track-options="{"dimension28":"4","dimension29":"What information is there on British migrants living in Europe?"}">What information is there on British migrants living in Europe?</a>
+        <p>This article discusses the available statistics for estimating UK citizens in the EU.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2017-01-27">27 January 2017</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Office for National Statistics
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Official statistics
+        </li>
+      </ul>
+    </li>
+</ul>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+
+        </div>

@@ -1,0 +1,36 @@
+<div id="finder-frontend">
+          
+
+<div class="outer-block">
+  <div class="signup-content">
+    <form class="signup-choices form" action="/search/guidance-and-regulation/email-signup" accept-charset="UTF-8" method="post">
+<input name="utf8" type="hidden" value="✓"></input><input type="hidden" name="authenticity_token" value="a0y/E805T7HskIVL7chAuni8t4kr6uw7vfD6Pdo0IR/abFYeuDNaglnl/6NZA28w7hUjPeKw0kGx6xAAZQDP1g=="></input>
+        <div class="gem-c-title
+  
+  gem-c-title--margin-bottom-5">
+    <p class="gem-c-title__context">
+      Email alert subscription
+    </p>
+  <h1 class="gem-c-title__text ">
+    Guidance and regulation
+  </h1>
+</div>
+
+
+        <div class="govspeak-wrapper">
+          
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+      You'll get an email when guidance and regulation is published.
+</div>
+
+        </div>
+
+      
+  <button class="gem-c-button govuk-button gem-c-button--bottom-margin" type="submit">Create subscription</button>
+
+
+</form>
+  </div>
+</div>
+
+        </div>

@@ -1,0 +1,36 @@
+<div id="finder-frontend">
+          
+
+<div class="outer-block">
+  <div class="signup-content">
+    <form class="signup-choices form" action="/search/news-and-communications/email-signup" accept-charset="UTF-8" method="post">
+<input name="utf8" type="hidden" value="✓"></input><input type="hidden" name="authenticity_token" value="kmrCxsPDxx9pFCjwazupSyD5clEHwvdWduvpPbeyxDLgbhkAl5upWUWcSanp1os5OJQXEOr6jNa2RXcKbk0zfg=="></input>
+        <div class="gem-c-title
+  
+  gem-c-title--margin-bottom-5">
+    <p class="gem-c-title__context">
+      Email alert subscription
+    </p>
+  <h1 class="gem-c-title__text ">
+    News and communications
+  </h1>
+</div>
+
+
+        <div class="govspeak-wrapper">
+          
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+      You'll get an email each time news or communications are published.
+</div>
+
+        </div>
+
+      
+  <button class="gem-c-button govuk-button gem-c-button--bottom-margin" type="submit">Create subscription</button>
+
+
+</form>
+  </div>
+</div>
+
+        </div>

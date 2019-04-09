@@ -1,0 +1,515 @@
+<div id="finder-frontend" class="advanced-search">
+          
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--full-width  gem-c-inverse-header--padding-top ">
+    
+  <div class="govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--inverse" data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+  </ol>
+</div>
+
+
+      </div>
+    </div>
+
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <a class="taxon-link" href="/government/brexit">Brexit</a>
+        <div class="gem-c-title
+  gem-c-title--inverse
+  gem-c-title--margin-bottom-5">
+  <h1 class="gem-c-title__text ">
+    News and communications
+  </h1>
+</div>
+
+
+      </div>
+
+
+    </div>
+  </div>
+
+  </header>
+
+<div class="govuk-width-container">
+  <form method="get" action="/search/advanced" class="js-live-search-form">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-third">
+        <div class="filter-form">
+    <div id="keywords">
+      
+<div class="govuk-form-group">
+    
+<label for="finder-keyword-search" class="gem-c-label govuk-label">
+          Search <span class="govuk-visually-hidden">Latest on GOV.UK</span>
+
+</label>
+
+
+
+
+  <input name="keywords" value class="gem-c-input govuk-input" id="finder-keyword-search" type="text" aria-controls="js-search-results-info"></input>
+</div>
+    </div>
+
+  <div data-module="track-click" data-track-category="filterClicked" data-track-action="skip-Link" data-track-label>
+    <a class="gem-c-skip-link govuk-skip-link" href="#js-results">Skip to results</a>
+
+  </div>
+
+    <div data-module="gem-toggle" data-toggle-class="facet-toggle__content--hide" class="facet-toggle--only-on-mobile">
+      <a href="#" class="facet-toggle" data-controls="facet-wrapper" data-expanded="false" data-track-category="filterClicked" data-track-action="accordion" data-toggled-text="- Show fewer search options">
+        + Show more search options
+      </a>
+
+      <div id="facet-wrapper" class="facet-toggle__content facet-toggle__content--hide">
+          
+
+<div class="app-c-option-select" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-publication-type">
+      Publication type
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-publication-type" class="app-c-option-select__container js-options-container" id="subgroup">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-85981203" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Publication type</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-updates_and_alerts" value="updates_and_alerts" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Updates and alerts" data-controls="js-search-results-info"></input><label for="subgroup-updates_and_alerts" class="govuk-label govuk-checkboxes__label">Updates and alerts</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-news" value="news" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="News" data-controls="js-search-results-info"></input><label for="subgroup-news" class="govuk-label govuk-checkboxes__label">News</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-speeches_and_statements" value="speeches_and_statements" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Speeches and statements" data-controls="js-search-results-info"></input><label for="subgroup-speeches_and_statements" class="govuk-label govuk-checkboxes__label">Speeches and statements</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-decisions" value="decisions" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Decisions" data-controls="js-search-results-info"></input><label for="subgroup-decisions" class="govuk-label govuk-checkboxes__label">Decisions</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  <div class="app-c-date-filter" id="public_timestamp" data-module="enable-aria-controls">
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[from]" class="gem-c-label govuk-label">
+  Publication date after
+</label>
+
+
+    
+<span id="hint-7404e7a1" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[from]" value class="gem-c-input govuk-input" id="public_timestamp[from]" type="text" aria-describedby="hint-7404e7a1" aria-controls="js-search-results-info"></input>
+</div>
+
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[to]" class="gem-c-label govuk-label">
+  Publication date before
+</label>
+
+
+    
+<span id="hint-59c9e163" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[to]" value class="gem-c-input govuk-input" id="public_timestamp[to]" type="text" aria-describedby="hint-59c9e163" aria-controls="js-search-results-info"></input>
+</div>
+  </div>
+
+  <input type="hidden" name="topic" id="topic" value="/government/brexit"></input>
+  <input type="hidden" name="group" id="group" value="news_and_communications"></input>
+  <input type="hidden" name="organisations" id="organisations"></input>
+
+      </div>
+    </div>
+
+  <div class="js-live-search-fallback button__wrapper">
+    
+  <button class="gem-c-button govuk-button gem-c-button--bottom-margin" type="submit">Filter results</button>
+
+
+  </div>
+</div>
+
+      </div>
+
+      <div class="govuk-grid-column-two-thirds">
+        <div class="js-live-search-results-block">
+          <div class="filtered-results">
+            <div aria-live="assertive" id="js-search-results-info">
+              <p class="result-info">
+  <strong>640 results in updates and alerts, news, speeches and statements, and decisions</strong>
+</p>
+
+            </div>
+            <div id="js-results">
+              
+<ul data-module="track-click" class="finder-results">
+    <li class="document">
+      <a href="/government/news/information-for-uk-nationals-living-in-ireland" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.1" data-track-label="/government/news/information-for-uk-nationals-living-in-ireland" data-track-options="{"dimension28":"20","dimension29":"Information for UK nationals living in Ireland"}">Information for UK nationals living in Ireland</a>
+        <p>The British Embassy in Dublin is providing updated information to UK nationals living in Ireland on the UK’s exit from the European Union. </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-08">8 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          
+        </li>
+        <li class="gem-c-document-list__attribute">
+          World news story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/speeches/pms-words-on-brexit-negotiations-6-april-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.2" data-track-label="/government/speeches/pms-words-on-brexit-negotiations-6-april-2019" data-track-options="{"dimension28":"20","dimension29":"PM’s words on Brexit negotiations: 6 April 2019"}">PM’s words on Brexit negotiations: 6 April 2019</a>
+        <p>PM Theresa May’s words on the current Brexit negotiations.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-06">6 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Prime Minister's Office, 10 Downing Street
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Speech
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/portugal-approves-no-deal-legislation-protecting-rights-of-uk-nationals" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.3" data-track-label="/government/news/portugal-approves-no-deal-legislation-protecting-rights-of-uk-nationals" data-track-options="{"dimension28":"20","dimension29":"Portugal approves no deal legislation protecting rights of UK nationals"}">Portugal approves no deal legislation protecting rights of UK nationals</a>
+        <p>Portuguese Government publishes legislation setting out measures protecting UK nationals in Portugal if the UK leaves the EU without an agreed deal.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-05">5 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          
+        </li>
+        <li class="gem-c-document-list__attribute">
+          World news story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/information-and-events-for-british-citizens-in-germany" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.4" data-track-label="/government/news/information-and-events-for-british-citizens-in-germany" data-track-options="{"dimension28":"20","dimension29":"Information and events for British citizens in Germany"}">Information and events for British citizens in Germany</a>
+        <p>Since June 2017, the British Embassy, Consulates and our partners have run over 35 information events across the Germany, for UK nationals living and working here.  </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-05">5 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          
+        </li>
+        <li class="gem-c-document-list__attribute">
+          World news story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/information-and-events-for-british-citizens-in-spain" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.5" data-track-label="/government/news/information-and-events-for-british-citizens-in-spain" data-track-options="{"dimension28":"20","dimension29":"Information and events for British citizens in Spain"}">Information and events for British citizens in Spain</a>
+        <p>The British Embassy and Consulates regularly hold events across Spain to update British citizens on the UK’s departure from the European Union.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-05">5 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          
+        </li>
+        <li class="gem-c-document-list__attribute">
+          World news story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/prime-ministers-letter-to-president-tusk-5-april-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.6" data-track-label="/government/publications/prime-ministers-letter-to-president-tusk-5-april-2019" data-track-options="{"dimension28":"20","dimension29":"Prime Minister's letter to President Tusk: 5 April 2019"}">Prime Minister's letter to President Tusk: 5 April 2019</a>
+        <p>Prime Minister Theresa May has written to European Council President Donald Tusk. </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-05">5 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Prime Minister's Office, 10 Downing Street
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Correspondence
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/pm-meeting-with-the-first-minister-of-wales-3-april-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.7" data-track-label="/government/news/pm-meeting-with-the-first-minister-of-wales-3-april-2019" data-track-options="{"dimension28":"20","dimension29":"PM meeting with the First Minister of Wales: 3 April 2019"}">PM meeting with the First Minister of Wales: 3 April 2019</a>
+        <p>Prime Minister Theresa May met with the First Minister of Wales, Mark Drakeford.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-03">3 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Prime Minister's Office, 10 Downing Street
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Press release
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/speeches/pm-statement-on-brexit-2-april-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.8" data-track-label="/government/speeches/pm-statement-on-brexit-2-april-2019" data-track-options="{"dimension28":"20","dimension29":"PM statement on Brexit: 2 April 2019"}">PM statement on Brexit: 2 April 2019</a>
+        <p>Prime Minister Theresa May made a statement in Downing Street on Brexit.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-02">2 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Prime Minister's Office, 10 Downing Street
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Speech
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/uk-and-eea-efta-states-sign-agreement-to-protect-citizens-rights" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.9" data-track-label="/government/news/uk-and-eea-efta-states-sign-agreement-to-protect-citizens-rights" data-track-options="{"dimension28":"20","dimension29":"UK and EEA EFTA states sign agreement to protect citizens’ rights"}">UK and EEA EFTA states sign agreement to protect citizens’ rights</a>
+        <p>The UK and Norway, Iceland and Liechtenstein have signed an agreement to protect the rights of citizens in each other’s countries in the event that a withdrawal agreement is not reached with the EU.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-02">2 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          News story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/british-embassy-outreach-events-in-slovakia" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.10" data-track-label="/government/news/british-embassy-outreach-events-in-slovakia" data-track-options="{"dimension28":"20","dimension29":"British Embassy outreach events in Slovakia"}">British Embassy outreach events in Slovakia</a>
+        <p>The British Embassy in Bratislava and senior Slovak officials will be holding a series of meetings to inform UK nationals living in Slovakia about their rights as the UK leaves the EU.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-02">2 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          
+        </li>
+        <li class="gem-c-document-list__attribute">
+          World news story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/eu-exit-guidance-for-food-drink-and-farming-sector-stakeholders" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.11" data-track-label="/government/news/eu-exit-guidance-for-food-drink-and-farming-sector-stakeholders" data-track-options="{"dimension28":"20","dimension29":"EU Exit guidance for food, drink and farming sector stakeholders"}">EU Exit guidance for food, drink and farming sector stakeholders</a>
+        <p>The Agri-Food chain stakeholder team at Defra has shared guidance to ensure that businesses are ready for a potential ‘no deal’ scenario</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-02">2 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Government Chemist
+        </li>
+        <li class="gem-c-document-list__attribute">
+          News story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/chancellor-of-the-duchy-of-lancasters-letter-to-the-electoral-commission-1-april-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.12" data-track-label="/government/publications/chancellor-of-the-duchy-of-lancasters-letter-to-the-electoral-commission-1-april-2019" data-track-options="{"dimension28":"20","dimension29":"Chancellor of the Duchy of Lancaster's letter to the Electoral Commission: 1 April 2019"}">Chancellor of the Duchy of Lancaster's letter to the Electoral Commission: 1 April 2019</a>
+        <p>Chancellor of the Duchy of Lancaster David Lidington has written to the Electoral Commission</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-01">1 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Cabinet Office
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Correspondence
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/eu-exit-local-government-delivery-board-march-2019-update" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.13" data-track-label="/government/news/eu-exit-local-government-delivery-board-march-2019-update" data-track-options="{"dimension28":"20","dimension29":"EU Exit Local Government Delivery Board: March 2019 update"}">EU Exit Local Government Delivery Board: March 2019 update</a>
+        <p>Update from meetings held on 26 February and 18 March.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-01">1 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Ministry of Housing, Communities & Local Government
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Press release
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/information-and-events-for-uk-nationals-living-in-greece" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.14" data-track-label="/government/news/information-and-events-for-uk-nationals-living-in-greece" data-track-options="{"dimension28":"20","dimension29":"Information and events for UK nationals living in Greece"}">Information and events for UK nationals living in Greece</a>
+        <p>The British Embassy and Consulate Network are holding a series of meetings with UK nationals across Greece.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-01">1 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          
+        </li>
+        <li class="gem-c-document-list__attribute">
+          World news story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/speeches/britain-has-been-shaping-the-world-for-centuries-that-wont-change-with-brexit-article-by-jeremy-hunt" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.15" data-track-label="/government/speeches/britain-has-been-shaping-the-world-for-centuries-that-wont-change-with-brexit-article-by-jeremy-hunt" data-track-options="{"dimension28":"20","dimension29":"Britain has been shaping the world for centuries. That won’t change with Brexit: article by Jeremy Hunt"}">Britain has been shaping the world for centuries. That won’t change with Brexit: article by Jeremy Hunt</a>
+        <p>Writing in the Washington Post, the Foreign Secretary says there is no doubt that Britain will retain all the capabilities of a global power after Brexit.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-29">29 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Foreign & Commonwealth Office
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Authored article
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/open-letter-to-britons-resident-in-the-north-of-cyprus" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.16" data-track-label="/government/news/open-letter-to-britons-resident-in-the-north-of-cyprus" data-track-options="{"dimension28":"20","dimension29":"Open letter to Britons resident in the north of Cyprus"}">Open letter to Britons resident in the north of Cyprus</a>
+        <p>British High Commissioner Stephen Lillie gives a Brexit update for UK nationals living in the northern part of Cyprus.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-29">29 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          
+        </li>
+        <li class="gem-c-document-list__attribute">
+          World news story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/latest-brexit-updates-for-british-nationals-in-slovenia" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.17" data-track-label="/government/news/latest-brexit-updates-for-british-nationals-in-slovenia" data-track-options="{"dimension28":"20","dimension29":"Latest Brexit updates for British nationals in Slovenia"}">Latest Brexit updates for British nationals in Slovenia</a>
+        <p>Information for UK nationals living in Slovenia and some essential steps for everyone to take before the exit deadline (April 12).</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-28">28 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          
+        </li>
+        <li class="gem-c-document-list__attribute">
+          World news story
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/costa-amendment-letter-to-the-eu-institutions" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.18" data-track-label="/government/publications/costa-amendment-letter-to-the-eu-institutions" data-track-options="{"dimension28":"20","dimension29":"Costa Amendment: Correspondence with the EU Institutions"}">Costa Amendment: Correspondence with the EU Institutions</a>
+        <p>Secretary of State Steve Barclay and European Chief Negotiator Michel Barnier have exchanged letters on ring-fencing the citizens' rights part of the Withdrawal Agreement whatever the outcome of negotiations.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-28">28 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Correspondence
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/speeches/pm-statement-on-european-council-25-march-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.19" data-track-label="/government/speeches/pm-statement-on-european-council-25-march-2019" data-track-options="{"dimension28":"20","dimension29":"PM statement on European Council: 25 March 2019"}">PM statement on European Council: 25 March 2019</a>
+        <p>Prime Minister Theresa May gives a statement to the House of Commons following European Council.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-25">25 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Prime Minister's Office, 10 Downing Street
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Speech
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/news/information-and-events-for-british-citizens-in-france" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.20" data-track-label="/government/news/information-and-events-for-british-citizens-in-france" data-track-options="{"dimension28":"20","dimension29":"Information and events for British citizens in France"}">Information and events for British citizens in France</a>
+        <p>The British Embassy in Paris has been holding meetings across France to update British citizens working and living in the country and answering their questions regarding Britain's departure from the European Union. </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-25">25 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          
+        </li>
+        <li class="gem-c-document-list__attribute">
+          World news story
+        </li>
+      </ul>
+    </li>
+</ul>
+
+<nav class="gem-c-pagination" role="navigation" aria-label="Pagination">
+  <ul class="gem-c-pagination__list" data-module="track-click">
+      <li class="gem-c-pagination__item gem-c-pagination__item--next">
+        <a href="/search/advanced?group=news_and_communications&page=2&topic=%2Fgovernment%2Fbrexit" class="gem-c-pagination__link" rel="next" data-track-category="contentsClicked" data-track-action="next" data-track-label="/search/advanced?group=news_and_communications&page=2&topic=%2Fgovernment%2Fbrexit" data-track-dimension="next" data-track-dimension-index="29">
+          <span class="gem-c-pagination__link-title">
+            <svg class="gem-c-pagination__link-icon" xmlns="http://www.w3.org/2000/svg" height="13" width="17" viewbox="0 0 17 13">
+              <path fill="currentColor" d="m10.107-0.0078125-1.4136 1.414 4.2926 4.293h-12.986v2h12.896l-4.1855 3.9766 1.377 1.4492 6.7441-6.4062-6.7246-6.7266z"></path>
+            </svg>
+            <span class="gem-c-pagination__link-text">
+              Next page
+            </span>
+          </span>
+            <span class="gem-c-pagination__link-divider visually-hidden">:</span>
+            <span class="gem-c-pagination__link-label">2 of 32</span>
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+
+        </div>

@@ -1,0 +1,511 @@
+<div id="finder-frontend" class="advanced-search">
+          
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--full-width  gem-c-inverse-header--padding-top ">
+    
+  <div class="govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--inverse" data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+  </ol>
+</div>
+
+
+      </div>
+    </div>
+
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <a class="taxon-link" href="/government/brexit">Brexit</a>
+        <div class="gem-c-title
+  gem-c-title--inverse
+  gem-c-title--margin-bottom-5">
+  <h1 class="gem-c-title__text ">
+    Guidance and regulation
+  </h1>
+</div>
+
+
+      </div>
+
+
+    </div>
+  </div>
+
+  </header>
+
+<div class="govuk-width-container">
+  <form method="get" action="/search/advanced" class="js-live-search-form">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-third">
+        <div class="filter-form">
+    <div id="keywords">
+      
+<div class="govuk-form-group">
+    
+<label for="finder-keyword-search" class="gem-c-label govuk-label">
+          Search <span class="govuk-visually-hidden">Latest on GOV.UK</span>
+
+</label>
+
+
+
+
+  <input name="keywords" value class="gem-c-input govuk-input" id="finder-keyword-search" type="text" aria-controls="js-search-results-info"></input>
+</div>
+    </div>
+
+  <div data-module="track-click" data-track-category="filterClicked" data-track-action="skip-Link" data-track-label>
+    <a class="gem-c-skip-link govuk-skip-link" href="#js-results">Skip to results</a>
+
+  </div>
+
+    <div data-module="gem-toggle" data-toggle-class="facet-toggle__content--hide" class="facet-toggle--only-on-mobile">
+      <a href="#" class="facet-toggle" data-controls="facet-wrapper" data-expanded="false" data-track-category="filterClicked" data-track-action="accordion" data-toggled-text="- Show fewer search options">
+        + Show more search options
+      </a>
+
+      <div id="facet-wrapper" class="facet-toggle__content facet-toggle__content--hide">
+          
+
+<div class="app-c-option-select" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-publication-type">
+      Publication type
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-publication-type" class="app-c-option-select__container js-options-container" id="subgroup">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-217d141e" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Publication type</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-guidance" value="guidance" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Guidance" data-controls="js-search-results-info"></input><label for="subgroup-guidance" class="govuk-label govuk-checkboxes__label">Guidance</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-regulation" value="regulation" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Regulation" data-controls="js-search-results-info"></input><label for="subgroup-regulation" class="govuk-label govuk-checkboxes__label">Regulation</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-business_support" value="business_support" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Business funds and grants" data-controls="js-search-results-info"></input><label for="subgroup-business_support" class="govuk-label govuk-checkboxes__label">Business funds and grants</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  <div class="app-c-date-filter" id="public_timestamp" data-module="enable-aria-controls">
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[from]" class="gem-c-label govuk-label">
+  Publication date after
+</label>
+
+
+    
+<span id="hint-a81069df" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[from]" value class="gem-c-input govuk-input" id="public_timestamp[from]" type="text" aria-describedby="hint-a81069df" aria-controls="js-search-results-info"></input>
+</div>
+
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[to]" class="gem-c-label govuk-label">
+  Publication date before
+</label>
+
+
+    
+<span id="hint-286eacf7" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[to]" value class="gem-c-input govuk-input" id="public_timestamp[to]" type="text" aria-describedby="hint-286eacf7" aria-controls="js-search-results-info"></input>
+</div>
+  </div>
+
+  <input type="hidden" name="topic" id="topic" value="/government/brexit"></input>
+  <input type="hidden" name="group" id="group" value="guidance_and_regulation"></input>
+  <input type="hidden" name="organisations" id="organisations"></input>
+
+      </div>
+    </div>
+
+  <div class="js-live-search-fallback button__wrapper">
+    
+  <button class="gem-c-button govuk-button gem-c-button--bottom-margin" type="submit">Filter results</button>
+
+
+  </div>
+</div>
+
+      </div>
+
+      <div class="govuk-grid-column-two-thirds">
+        <div class="js-live-search-results-block">
+          <div class="filtered-results">
+            <div aria-live="assertive" id="js-search-results-info">
+              <p class="result-info">
+  <strong>752 results in guidance, regulation, and business funds and grants</strong>
+</p>
+
+            </div>
+            <div id="js-results">
+              
+<ul data-module="track-click" class="finder-results">
+    <li class="document">
+      <a href="/guidance/international-driving-permits-for-uk-drivers-from-28-march-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.1" data-track-label="/guidance/international-driving-permits-for-uk-drivers-from-28-march-2019" data-track-options="{"dimension28":"20","dimension29":"International driving permits for UK drivers from 28 March 2019"}">International driving permits for UK drivers from 28 March 2019</a>
+        <p>The rules for international driving permits have changed.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-28">28 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Transport, Driver and Vehicle Licensing Agency
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/eu-settlement-scheme-application-processing-times" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.2" data-track-label="/government/publications/eu-settlement-scheme-application-processing-times" data-track-options="{"dimension28":"20","dimension29":"EU Settlement Scheme: application processing times"}">EU Settlement Scheme: application processing times</a>
+        <p>Current expected processing times for applications to the EU Settlement Scheme.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-30">30 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Home Office, UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Guidance
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/prepare-to-drive-in-the-eu-after-brexit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.3" data-track-label="/guidance/prepare-to-drive-in-the-eu-after-brexit" data-track-options="{"dimension28":"20","dimension29":"Prepare to drive in the EU after Brexit"}">Prepare to drive in the EU after Brexit</a>
+        <p>What all drivers from the UK may need to do to drive in the EU and EEA if the UK leaves the EU without a deal on 12 April 2019.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-21">21 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Transport, Driver and Vehicle Licensing Agency, Driver and Vehicle Standards Agency
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/eu-settlement-scheme-evidence-of-uk-residence" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.4" data-track-label="/guidance/eu-settlement-scheme-evidence-of-uk-residence" data-track-options="{"dimension28":"20","dimension29":"EU Settlement Scheme: evidence of UK residence"}">EU Settlement Scheme: evidence of UK residence</a>
+        <p>How to provide evidence that you’ve been living here if we can’t confirm this through an automated check of UK tax and some benefits records.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-29">29 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/passport-rules-for-travel-to-europe-after-brexit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.5" data-track-label="/guidance/passport-rules-for-travel-to-europe-after-brexit" data-track-options="{"dimension28":"20","dimension29":"Passport rules for travel to Europe after Brexit"}">Passport rules for travel to Europe after Brexit</a>
+        <p>Advice for British passport holders if the UK leaves the EU without a deal.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2018-12-04">4 December 2018</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          HM Passport Office
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/eu-settlement-scheme-id-document-scanner-locations" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.6" data-track-label="/government/publications/eu-settlement-scheme-id-document-scanner-locations" data-track-options="{"dimension28":"20","dimension29":"EU Settlement Scheme: ID document scanner locations"}">EU Settlement Scheme: ID document scanner locations</a>
+        <p>Locations where you can go to get your biometric ID document scanned if you do not have an Android device with near field communication (NFC).</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-29">29 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Home Office, UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Guidance
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/using-the-eu-exit-id-document-check-app" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.7" data-track-label="/guidance/using-the-eu-exit-id-document-check-app" data-track-options="{"dimension28":"20","dimension29":"Using the ‘EU Exit: ID Document Check’ app"}">Using the ‘EU Exit: ID Document Check’ app</a>
+        <p>Information for EU citizens and their families applying to the EU Settlement Scheme. </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-06">6 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Home Office, UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/living-in-spain" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.8" data-track-label="/guidance/living-in-spain" data-track-options="{"dimension28":"20","dimension29":"Living in Spain"}">Living in Spain</a>
+        <p>Official information for British people moving to or living in Spain, including guidance on EU Exit, residency, passports and healthcare.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-02">2 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Foreign & Commonwealth Office
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/living-in-france" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.9" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"20","dimension29":"Living in France"}">Living in France</a>
+        <p>Official information British people moving to and living in France need to know, including EU Exit guidance, residency, healthcare and driving.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-21">21 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Foreign & Commonwealth Office
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/pet-travel-to-europe-after-brexit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.10" data-track-label="/guidance/pet-travel-to-europe-after-brexit" data-track-options="{"dimension28":"20","dimension29":"Pet travel to Europe after Brexit"}">Pet travel to Europe after Brexit</a>
+        <p>How to prepare for travel with your pet to any EU country after EU Exit whether the UK leaves the EU with or without a deal.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-25">25 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Environment, Food & Rural Affairs, Animal and Plant Health Agency
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/living-in-germany" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.11" data-track-label="/guidance/living-in-germany" data-track-options="{"dimension28":"20","dimension29":"Living in Germany"}">Living in Germany</a>
+        <p>Official information British people moving to and living in Germany need to know, including EU Exit guidance, residency, healthcare and driving.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-04">4 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Foreign & Commonwealth Office
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/visiting-the-uk-after-brexit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.12" data-track-label="/guidance/visiting-the-uk-after-brexit" data-track-options="{"dimension28":"20","dimension29":"Visiting the UK after Brexit"}">Visiting the UK after Brexit</a>
+        <p>What you'll need to do to visit the UK after the UK leaves the EU, including whether you'll need to apply for a visa.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-29">29 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Digital, Culture, Media & Sport, Department for Environment, Food & Rural Affairs, Department for Transport, Border Force, UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/settled-status-for-eu-citizens-and-their-families-translations" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.13" data-track-label="/guidance/settled-status-for-eu-citizens-and-their-families-translations" data-track-options="{"dimension28":"20","dimension29":"Settled status for EU citizens and their families: translations"}">Settled status for EU citizens and their families: translations</a>
+        <p>Translations of the settled status for EU citizens and their families guidance in European languages.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-03">3 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Home Office, UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/transport-goods-out-of-the-uk-by-road-if-the-uk-leaves-the-eu-without-a-deal-checklist-for-hauliers" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.14" data-track-label="/guidance/transport-goods-out-of-the-uk-by-road-if-the-uk-leaves-the-eu-without-a-deal-checklist-for-hauliers" data-track-options="{"dimension28":"20","dimension29":"Transport goods out of the UK by road if the UK leaves the EU without a deal: checklist for hauliers"}">Transport goods out of the UK by road if the UK leaves the EU without a deal: checklist for hauliers</a>
+        <p>A checklist of documents that haulage drivers must carry to pass through customs if the UK leaves the EU without a deal on 12 April 2019.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-28">28 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Transport, HM Revenue & Customs, Driver and Vehicle Licensing Agency, Driver and Vehicle Standards Agency
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/advice-for-british-nationals-travelling-and-living-in-europe" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.15" data-track-label="/guidance/advice-for-british-nationals-travelling-and-living-in-europe" data-track-options="{"dimension28":"20","dimension29":"UK nationals living in the EU: essential information"}">UK nationals living in the EU: essential information</a>
+        <p>Information on the rights and status of UK nationals living in the European Union, European Economic Area (EEA) and European Free Trade Area (EFTA), and Switzerland. </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-01">1 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Foreign & Commonwealth Office, Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/eu-settlement-scheme-application-fee-refunds" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.16" data-track-label="/guidance/eu-settlement-scheme-application-fee-refunds" data-track-options="{"dimension28":"20","dimension29":"EU Settlement Scheme: application fee refunds"}">EU Settlement Scheme: application fee refunds</a>
+        <p>Information for applicants to the EU Settlement Scheme on how refunds are processed if you paid an application fee.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-28">28 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Home Office, UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/leaving-the-eu-advice-for-smes" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.17" data-track-label="/government/publications/leaving-the-eu-advice-for-smes" data-track-options="{"dimension28":"20","dimension29":"Leaving the EU: advice for businesses"}">Leaving the EU: advice for businesses</a>
+        <p>Use this information to help you prepare your business for leaving the EU.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-18">18 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Business, Energy & Industrial Strategy
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Promotional
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/living-in-italy" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.18" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"20","dimension29":"Living in Italy"}">Living in Italy</a>
+        <p>Official information British people moving to and living in Italy need to know, including EU Exit guidance, residency, healthcare and driving.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-28">28 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Foreign & Commonwealth Office
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/guidance/eu-settlement-scheme-evidence-of-relationship-to-an-eu-citizen" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.19" data-track-label="/guidance/eu-settlement-scheme-evidence-of-relationship-to-an-eu-citizen" data-track-options="{"dimension28":"20","dimension29":"EU Settlement Scheme: evidence of relationship to an EU citizen"}">EU Settlement Scheme: evidence of relationship to an EU citizen</a>
+        <p>How to provide evidence that you're a non-EU citizen family member of an EU citizen.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-22">22 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Home Office, UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Detailed guide
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/eu-settlement-scheme-view-and-prove-your-rights-in-the-uk" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.20" data-track-label="/government/publications/eu-settlement-scheme-view-and-prove-your-rights-in-the-uk" data-track-options="{"dimension28":"20","dimension29":"EU Settlement Scheme: view and prove your rights in the UK"}">EU Settlement Scheme: view and prove your rights in the UK</a>
+        <p>Information for EU citizens applying to the EU Settlement Scheme.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2018-08-30">30 August 2018</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Home Office, UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Guidance
+        </li>
+      </ul>
+    </li>
+</ul>
+
+<nav class="gem-c-pagination" role="navigation" aria-label="Pagination">
+  <ul class="gem-c-pagination__list" data-module="track-click">
+      <li class="gem-c-pagination__item gem-c-pagination__item--next">
+        <a href="/search/advanced?group=guidance_and_regulation&page=2&topic=%2Fgovernment%2Fbrexit" class="gem-c-pagination__link" rel="next" data-track-category="contentsClicked" data-track-action="next" data-track-label="/search/advanced?group=guidance_and_regulation&page=2&topic=%2Fgovernment%2Fbrexit" data-track-dimension="next" data-track-dimension-index="29">
+          <span class="gem-c-pagination__link-title">
+            <svg class="gem-c-pagination__link-icon" xmlns="http://www.w3.org/2000/svg" height="13" width="17" viewbox="0 0 17 13">
+              <path fill="currentColor" d="m10.107-0.0078125-1.4136 1.414 4.2926 4.293h-12.986v2h12.896l-4.1855 3.9766 1.377 1.4492 6.7441-6.4062-6.7246-6.7266z"></path>
+            </svg>
+            <span class="gem-c-pagination__link-text">
+              Next page
+            </span>
+          </span>
+            <span class="gem-c-pagination__link-divider visually-hidden">:</span>
+            <span class="gem-c-pagination__link-label">2 of 38</span>
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+
+        </div>

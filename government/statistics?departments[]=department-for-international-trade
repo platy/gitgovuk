@@ -1,0 +1,1749 @@
+<div id="page" class="statistics-index">
+      
+<header class="block headings-block">
+  <div class="inner-block floated-children">
+    <div class="heading-big">
+  <div class="inner-heading">
+    
+    <h1>Statistics</h1>
+  </div>
+</div>
+
+  </div>
+</header>
+
+<p class="stats-impartiality">Official Statistics are produced impartially and free from political influence.</p>
+
+
+<nav class="activity-navigation"><ul>
+<li><a class="current" href="/government/statistics">Published</a></li>
+<li><a href="/government/statistics/announcements">Upcoming</a></li>
+</ul></nav>
+
+
+<div class="filtered-index">
+  <div class="filter-form-block">
+  <div class="inner-block">
+    <h2>You can use the filters to show only results that match your interests</h2>
+    <form method="get" action="/government/statistics" id="document-filter" class="js-document-filter filter-form">
+      <fieldset>
+        <legend class="visuallyhidden">Filter statistics</legend>
+
+          <div id="keyword-filter" class="filter">
+            <label class="title" for="keywords">Contains</label>
+            <input type="text" name="keywords" id="keywords" value placeholder="keywords"></input>
+          </div>
+
+          <div class="filter">
+            <label for="taxons">Topic</label>
+            <select name="taxons[]" id="taxons" class="single-row-select"><option selected value="all">All topics</option>
+<option value="495afdb6-47be-4df1-8b38-91c8adb1eefc">Business and industry</option>
+<option value="a544d48b-1e9e-47fb-b427-7a987c658c14">Corporate information</option>
+<option value="ba951b09-5146-43be-87af-44075eac3ae9">Crime, justice and law</option>
+<option value="e491505c-77ae-45b2-84be-8c94b94f6a2b">Defence and armed forces</option>
+<option value="c58fdadd-7743-46d6-9629-90bb3ccc4ef0">Education, training and skills</option>
+<option value="ba3a9702-da22-487f-86c1-8334a730e559">Entering and staying in the UK</option>
+<option value="3cf97f69-84de-41ae-bc7b-7e2cc238fa58">Environment</option>
+<option value="9597c30a-605a-4e36-8bc1-47e5cdae41b3">Going and being abroad</option>
+<option value="e48ab80a-de80-4e83-bf59-26316856a5f9">Government</option>
+<option value="8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8">Health and social care</option>
+<option value="4794066e-e3cc-425e-8cc4-e7ff3edb4c39">Housing, local and community</option>
+<option value="37d0fa26-abed-4c74-8835-b3b51ae1c8b2">International</option>
+<option value="20086ead-41fc-49cf-8a62-d4e1126f41fc">Life circumstances</option>
+<option value="6acc9db4-780e-4a46-92b4-1812e3c2c48a">Money</option>
+<option value="206b7f3a-49b5-476f-af0f-fd27e2a68473">Parenting, childcare and children's services </option>
+<option value="503c5bc7-809a-47b9-83e2-bd0c212dbabb">Regional and local government</option>
+<option value="e2ca2f1a-0ff3-43ce-b813-16645ff27904">Society and culture</option>
+<option value="a4038b29-b332-4f13-98b1-1c9709e216bc">Transport</option>
+<option value="dded88e2-f92e-424f-b73e-6ad24a839c51">Welfare</option>
+<option value="d0f1e5a3-c8f4-4780-8678-994f19104b21">Work</option></select>
+          </div>
+
+
+
+
+          <div class="filter">
+            <label for="departments">Department</label>
+            <select name="departments[]" id="departments" class="single-row-select"><option value="all">All departments</option>
+<optgroup label="Ministerial departments">
+<option value="attorney-generals-office">Attorney General's Office</option>
+<option value="cabinet-office">Cabinet Office</option>
+<option value="department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</option>
+<option value="department-for-digital-culture-media-sport">Department for Digital, Culture, Media & Sport</option>
+<option value="department-for-education">Department for Education</option>
+<option value="department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</option>
+<option value="department-for-exiting-the-european-union">Department for Exiting the European Union</option>
+<option value="department-for-international-development">Department for International Development</option>
+<option selected value="department-for-international-trade">Department for International Trade</option>
+<option value="department-for-transport">Department for Transport</option>
+<option value="department-for-work-pensions">Department for Work and Pensions</option>
+<option value="department-of-health-and-social-care">Department of Health and Social Care</option>
+<option value="foreign-commonwealth-office">Foreign & Commonwealth Office</option>
+<option value="hm-treasury">HM Treasury</option>
+<option value="home-office">Home Office</option>
+<option value="ministry-of-defence">Ministry of Defence</option>
+<option value="ministry-of-housing-communities-and-local-government">Ministry of Housing, Communities & Local Government</option>
+<option value="ministry-of-justice">Ministry of Justice</option>
+<option value="northern-ireland-office">Northern Ireland Office</option>
+<option value="office-of-the-advocate-general-for-scotland">Office of the Advocate General for Scotland</option>
+<option value="the-office-of-the-leader-of-the-house-of-commons">Office of the Leader of the House of Commons</option>
+<option value="office-of-the-leader-of-the-house-of-lords">Office of the Leader of the House of Lords</option>
+<option value="office-of-the-secretary-of-state-for-scotland">Office of the Secretary of State for Scotland</option>
+<option value="office-of-the-secretary-of-state-for-wales">Office of the Secretary of State for Wales</option>
+<option value="uk-export-finance">UK Export Finance</option>
+</optgroup>
+<optgroup label="Other departments & public bodies">
+<option value="academy-for-social-justice">Academy for Social Justice</option>
+<option value="accelerated-access-review">Accelerated Access Review</option>
+<option value="the-adjudicator-s-office">The Adjudicator’s Office</option>
+<option value="administration-of-radioactive-substances-advisory-committee">Administration of Radioactive Substances Advisory Committee</option>
+<option value="administrative-court">Administrative Court</option>
+<option value="admiralty-court">Admiralty Court</option>
+<option value="advisory-committee-on-animal-feedingstuffs">Advisory Committee on Animal Feedingstuffs</option>
+<option value="advisory-committee-on-business-appointments">Advisory Committee on Business Appointments</option>
+<option value="advisory-committee-on-clinical-excellence-awards">Advisory Committee on Clinical Excellence Awards</option>
+<option value="advisory-committee-on-conscientious-objectors">Advisory Committee on Conscientious Objectors</option>
+<option value="advisory-committee-on-novel-foods-and-processes">Advisory Committee on Novel Foods and Processes</option>
+<option value="advisory-committee-on-releases-to-the-environment">Advisory Committee on Releases to the Environment</option>
+<option value="advisory-committee-on-the-microbiological-safety-of-food">Advisory Committee on the Microbiological Safety of Food</option>
+<option value="advisory-committees-on-justices-of-the-peace">Advisory Committees on Justices of the Peace</option>
+<option value="the-advisory-council-on-national-records-and-archives">The Advisory Council on National Records and Archives</option>
+<option value="advisory-council-on-the-misuse-of-drugs">Advisory Council on the Misuse of Drugs</option>
+<option value="advisory-group-on-military-medicine">Advisory Group on Military Medicine</option>
+<option value="acas">Advisory, Conciliation and Arbitration Service</option>
+<option value="agri-food-and-biosciences-institute">Agri-Food and Biosciences Institute (Northern Ireland)</option>
+<option value="agriculture-and-horticulture-development-board">Agriculture and Horticulture Development Board</option>
+<option value="air-accidents-investigation-branch">Air Accidents Investigation Branch</option>
+<option value="animal-and-plant-health-agency">Animal and Plant Health Agency</option>
+<option value="animals-in-science-committee">Animals in Science Committee</option>
+<option value="architects-registration-board">Architects Registration Board</option>
+<option value="armed-forces-pay-review-body">Armed Forces' Pay Review Body</option>
+<option value="arts-council-england">Arts Council England</option>
+<option value="arts-council-of-northern-ireland">Arts Council of Northern Ireland</option>
+<option value="arts-council-of-wales">Arts Council of Wales</option>
+<option value="arts-and-humanities-research-council">Arts and Humanities Research Council</option>
+<option value="bbc">BBC</option>
+<option value="bbc-world-service">BBC World Service</option>
+<option value="bpdts-ltd">BPDTS Ltd</option>
+<option value="bank-of-england">Bank of England</option>
+<option value="big-lottery-fund">Big Lottery Fund</option>
+<option value="biometrics-commissioner">Biometrics Commissioner</option>
+<option value="biometrics-and-forensics-ethics-group">Biometrics and Forensics Ethics Group</option>
+<option value="biotechnology-biological-sciences-research-council">Biotechnology and Biological Sciences Research Council</option>
+<option value="board-of-trustees-of-the-royal-botanic-gardens-kew">Board of Trustees of the Royal Botanic Gardens Kew</option>
+<option value="bona-vacantia">Bona Vacantia</option>
+<option value="border-force">Border Force</option>
+<option value="boundary-commission-for-england">Boundary Commission for England</option>
+<option value="boundary-commission-for-northern-ireland">Boundary Commission for Northern Ireland</option>
+<option value="boundary-commission-for-scotland">Boundary Commission for Scotland</option>
+<option value="boundary-commission-for-wales">Boundary Commission for Wales</option>
+<option value="british-cattle-movement-service">British Cattle Movement Service</option>
+<option value="british-council">British Council</option>
+<option value="british-film-institute">British Film Institute</option>
+<option value="british-hallmarking-council">British Hallmarking Council</option>
+<option value="british-library">British Library</option>
+<option value="british-museum">British Museum</option>
+<option value="british-pharmacopoeia">British Pharmacopoeia Commission</option>
+<option value="british-transport-police-authority">British Transport Police Authority</option>
+<option value="broads-authority">Broads Authority</option>
+<option value="building-regulations-advisory-committee">Building Regulations Advisory Committee</option>
+<option value="the-business-list">The Business List</option>
+<option value="the-business-and-property-courts">The Business and Property Courts</option>
+<option value="cabinet-office-board">Cabinet Office Board</option>
+<option value="children-and-family-court-advisory-and-support-service">Cafcass</option>
+<option value="care-quality-commission">Care Quality Commission</option>
+<option value="careers-wales">Careers Wales</option>
+<option value="central-advisory-committee-on-compensation">Central Advisory Committee on Compensation</option>
+<option value="central-arbitration-committee">Central Arbitration Committee</option>
+<option value="centre-for-connected-and-autonomous-vehicles">Centre for Connected and Autonomous Vehicles </option>
+<option value="centre-for-environment-fisheries-and-aquaculture-science">Centre for Environment, Fisheries and Aquaculture Science</option>
+<option value="centre-for-the-protection-of-national-infrastructure">Centre for the Protection of National Infrastructure</option>
+<option value="certification-officer">Certification Officer</option>
+<option value="chancery-division-of-the-high-court">Chancery Division of the High Court</option>
+<option value="channel-4">Channel 4</option>
+<option value="charity-commission">The Charity Commission</option>
+<option value="chevening-foundation">Chevening Scholarship Programme </option>
+<option value="chief-fire-and-rescue-adviser-unit">Chief Fire and Rescue Adviser</option>
+<option value="child-safeguarding-practice-review-panel">Child Safeguarding Practice Review Panel</option>
+<option value="commercial-circuit-court">Circuit Commercial Court</option>
+<option value="civil-aviation-authority">Civil Aviation Authority</option>
+<option value="civil-justice-council">Civil Justice Council</option>
+<option value="civil-nuclear-constabulary">Civil Nuclear Constabulary</option>
+<option value="civil-nuclear-police-authority">Civil Nuclear Police Authority</option>
+<option value="civil-procedure-rules-committee">Civil Procedure Rule Committee</option>
+<option value="civil-service">Civil Service</option>
+<option value="civil-service-board">Civil Service Board</option>
+<option value="civil-service-commission">Civil Service Commission</option>
+<option value="civil-service-fast-stream">Civil Service Fast Stream</option>
+<option value="civil-service-fast-track-apprenticeship">Civil Service Fast Track Apprenticeship</option>
+<option value="civil-service-reform">Civil Service Reform</option>
+<option value="civil-service-resourcing">Civil Service Resourcing</option>
+<option value="the-coal-authority">Coal Authority</option>
+<option value="college-of-policing">College of Policing</option>
+<option value="commercial-court">Commercial Court</option>
+<option value="commission-for-countering-extremism">Commission for Countering Extremism</option>
+<option value="commission-on-human-medicines">Commission on Human Medicines</option>
+<option value="commissioner-for-public-appointments">Commissioner for Public Appointments</option>
+<option value="shale-commissioner">Commissioner for Shale Gas</option>
+<option value="committee-on-climate-change">Committee on Climate Change</option>
+<option value="committee-on-fuel-poverty">Committee on Fuel Poverty</option>
+<option value="committee-on-mutagenicity-of-chemicals-in-food-consumer-products-and-the-environment">Committee on Mutagenicity of Chemicals in Food, Consumer Products and the Environment</option>
+<option value="committee-on-radioactive-waste-management">Committee on Radioactive Waste Management</option>
+<option value="the-committee-on-standards-in-public-life">Committee on Standards in Public Life</option>
+<option value="committee-on-toxicity-of-chemicals-in-food-consumer-products-and-the-environment">Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment</option>
+<option value="commonwealth-scholarship-commission-in-the-uk">Commonwealth Scholarship Commission in the UK</option>
+<option value="companies-house">Companies House </option>
+<option value="companies-list">Companies List</option>
+<option value="company-names-tribunal">Company Names Tribunal</option>
+<option value="competition-appeal-tribunal">Competition Appeal Tribunal</option>
+<option value="the-competition-list">The Competition List</option>
+<option value="competition-service">Competition Service</option>
+<option value="competition-and-markets-authority">Competition and Markets Authority</option>
+<option value="construction-industry-training-board">Construction Industry Training Board</option>
+<option value="consumer-council-for-water">Consumer Council for Water</option>
+<option value="copyright-tribunal">Copyright Tribunal</option>
+<option value="council-for-science-and-technology">Council for Science and Technology</option>
+<option value="court-of-appeal-civil-division">Court of Appeal Civil Division</option>
+<option value="court-of-appeal-criminal-division">Court of Appeal Criminal Division</option>
+<option value="court-of-protection">Court of Protection</option>
+<option value="covent-garden-market-authority">Covent Garden Market Authority</option>
+<option value="criminal-cases-review-commission">Criminal Cases Review Commission</option>
+<option value="criminal-injuries-compensation-authority">Criminal Injuries Compensation Authority</option>
+<option value="criminal-procedure-rule-committee">Criminal Procedure Rule Committee</option>
+<option value="crown-commercial-service">Crown Commercial Service</option>
+<option value="the-crown-estate">The Crown Estate</option>
+<option value="crown-prosecution-service">Crown Prosecution Service</option>
+<option value="dartmoor-national-park-authority">Dartmoor National Park Authority</option>
+<option value="defence-academy">Defence Academy of the United Kingdom</option>
+<option value="defence-electronics-and-components-agency">Defence Electronics and Components Agency</option>
+<option value="defence-equipment-and-support">Defence Equipment and Support</option>
+<option value="defence-infrastructure-organisation">Defence Infrastructure Organisation</option>
+<option value="defence-nuclear-organisation">Defence Nuclear Organisation</option>
+<option value="defence-nuclear-safety-committee">Defence Nuclear Safety Committee</option>
+<option value="defence-safety-authority">Defence Safety Authority</option>
+<option value="defence-science-and-technology-laboratory">Defence Science and Technology Laboratory</option>
+<option value="defence-sixth-form-college">Defence Sixth Form College</option>
+<option value="defence-and-security-accelerator">Defence and Security Accelerator</option>
+<option value="defence-and-security-media-advisory-committee">Defence and Security Media Advisory Committee</option>
+<option value="department-for-communities-northern-ireland">Department for Communities (Northern Ireland)</option>
+<option value="department-for-infrastructure-northern-ireland">Department for Infrastructure (Northern Ireland)</option>
+<option value="department-for-international-trade-defence-and-security-organisation">Department for International Trade Defence & Security Organisation</option>
+<option value="department-for-the-economy-northern-ireland">Department for the Economy (Northern Ireland)</option>
+<option value="department-of-agriculture-environment-and-rural-affairs-northern-ireland">Department of Agriculture, Environment and Rural Affairs (Northern Ireland)</option>
+<option value="department-of-education">Department of Education (Northern Ireland)</option>
+<option value="department-of-finance-northern-ireland">Department of Finance (Northern Ireland)</option>
+<option value="department-of-health-northern-ireland">Department of Health (Northern Ireland)</option>
+<option value="department-of-justice-northern-ireland">Department of Justice (Northern Ireland)</option>
+<option value="dft-olr-holdings-limited">DfT OLR Holdings Limited</option>
+<option value="digital-data-and-technology-profession">Digital, Data and Technology Profession</option>
+<option value="directly-operated-railways-limited">Directly Operated Railways Limited</option>
+<option value="disabled-peoples-employment-corporation">Disabled People’s Employment Corporation (GB) Ltd</option>
+<option value="disabled-persons-transport-advisory-committee">Disabled Persons Transport Advisory Committee</option>
+<option value="disclosure-and-barring-service">Disclosure and Barring Service</option>
+<option value="district-valuer-services-dvs">District Valuer Services (DVS)</option>
+<option value="dounreay">Dounreay </option>
+<option value="drinking-water-inspectorate">Drinking Water Inspectorate</option>
+<option value="driver-and-vehicle-licensing-agency">Driver and Vehicle Licensing Agency</option>
+<option value="driver-and-vehicle-standards-agency">Driver and Vehicle Standards Agency</option>
+<option value="east-west-railway-company">East West Railway Company Limited</option>
+<option value="ebbsfleet-development-corporation">Ebbsfleet Development Corporation</option>
+<option value="economic-and-social-research-council">Economic and Social Research Council</option>
+<option value="education-and-skills-funding-agency">Education and Skills Funding Agency</option>
+<option value="the-electoral-commission">The Electoral Commission</option>
+<option value="employment-agency-standards-inspectorate">Employment Agency Standards Inspectorate</option>
+<option value="employment-appeal-tribunal">Employment Appeal Tribunal</option>
+<option value="employment-tribunal">Employment Tribunal</option>
+<option value="engineering-construction-industry-training-board">Engineering Construction Industry Training Board</option>
+<option value="engineering-and-physical-sciences-research-council">Engineering and Physical Sciences Research Council</option>
+<option value="english-institute-of-sport">English Institute of Sport</option>
+<option value="environment-agency">Environment Agency</option>
+<option value="equality-and-human-rights-commission">Equality and Human Rights Commission</option>
+<option value="estyn">Estyn</option>
+<option value="the-executive-office-northern-ireland">The Executive Office (Northern Ireland)</option>
+<option value="exmoor-national-park-authority">Exmoor National Park Authority</option>
+<option value="export-control-organisation">Export Control Joint Unit</option>
+<option value="export-guarantees-advisory-council">Export Guarantees Advisory Council</option>
+<option value="fco-services">FCO Services</option>
+<option value="family-division-of-the-high-court">Family Division of the High Court</option>
+<option value="family-justice-council">Family Justice Council</option>
+<option value="family-procedure-rule-committee">Family Procedure Rule Committee</option>
+<option value="financial-conduct-authority">Financial Conduct Authority</option>
+<option value="the-financial-list">The Financial List</option>
+<option value="financial-reporting-council">Financial Reporting Council</option>
+<option value="financial-services-trade-and-investment-board">Financial Services Trade and Investment Board</option>
+<option value="fire-service-college">Fire Service College</option>
+<option value="first-tier-tribunal-asylum-support">First-tier Tribunal (Asylum Support)</option>
+<option value="first-tier-tribunal-care-standards">First-tier Tribunal (Care Standards)</option>
+<option value="first-tier-tribunal-criminal-injuries-compensation">First-tier Tribunal (Criminal Injuries Compensation)</option>
+<option value="first-tier-tribunal-general-regulatory-chamber">First-tier Tribunal (General Regulatory Chamber)</option>
+<option value="first-tier-tribunal-immigration-and-asylum">First-tier Tribunal (Immigration and Asylum)</option>
+<option value="first-tier-tribunal-mental-health">First-tier Tribunal (Mental Health)</option>
+<option value="first-tier-tribunal-property-chamber">First-tier Tribunal (Property Chamber)</option>
+<option value="first-tier-tribunal-social-security-and-child-support">First-tier Tribunal (Social Security and Child Support)</option>
+<option value="first-tier-tribunal-special-educational-needs-and-disability">First-tier Tribunal (Special Educational Needs and Disability)</option>
+<option value="first-tier-tribunal-tax">First-tier Tribunal (Tax)</option>
+<option value="first-tier-tribunal-war-pensions-and-armed-forces-compensation">First-tier Tribunal (War Pensions and Armed Forces Compensation)</option>
+<option value="fleet-air-arm-museum">Fleet Air Arm Museum </option>
+<option value="food-standards-agency">Food Standards Agency</option>
+<option value="forensic-science-regulator">Forensic Science Regulator</option>
+<option value="forest-research">Forest Research</option>
+<option value="forestry-commission">Forestry Commission</option>
+<option value="forest-enterprise-england">Forestry England</option>
+<option value="gambling-commission">Gambling Commission</option>
+<option value="gangmasters-licensing-appeals">Gangmasters Licensing Appeals</option>
+<option value="gangmasters-and-labour-abuse-authority">Gangmasters and Labour Abuse Authority</option>
+<option value="geffrye-museum">Geffrye Museum</option>
+<option value="general-advisory-committee-on-science">General Advisory Committee on Science</option>
+<option value="geospatial-commission">Geospatial Commission</option>
+<option value="government-actuarys-department">Government Actuary's Department</option>
+<option value="government-chemist">Government Chemist</option>
+<option value="government-commercial-function">Government Commercial Function</option>
+<option value="civil-service-government-communication-service">Government Communication Service</option>
+<option value="government-communications-headquarters">Government Communications Headquarters</option>
+<option value="civil-service-corporate-finance-profession-cfp">Government Corporate Finance Profession</option>
+<option value="government-digital-service">Government Digital Service</option>
+<option value="civil-service-government-economic-service">Government Economic Service</option>
+<option value="government-equalities-office">Government Equalities Office  </option>
+<option value="government-estates-management">Government Estates Management</option>
+<option value="civil-service-government-finance-profession">Government Finance Profession</option>
+<option value="government-internal-audit-agency">Government Internal Audit Agency</option>
+<option value="civil-service-government-knowledge-information-management-profession">Government Knowledge & Information Management Profession</option>
+<option value="government-legal-department">Government Legal Department</option>
+<option value="civil-service-government-legal-profession">Government Legal Profession</option>
+<option value="civil-service-government-occupational-psychology-profession">Government Occupational Psychology Profession </option>
+<option value="government-office-for-science">Government Office for Science</option>
+<option value="civil-service-government-operational-research-service">Government Operational Research Service</option>
+<option value="civil-service-government-planning-inspectors">Government Planning Inspectors</option>
+<option value="civil-service-the-government-planning-profession">Government Planning Profession</option>
+<option value="government-property-agency">Government Property Agency</option>
+<option value="civil-service-government-property-profession">Government Property Profession</option>
+<option value="civil-service-government-science-engineering">Government Science & Engineering Profession</option>
+<option value="government-security-profession">Government Security Profession</option>
+<option value="civil-service-government-social-research-profession">Government Social Research Profession</option>
+<option value="civil-service-government-statistical-service">Government Statistical Service</option>
+<option value="civil-service-government-tax-profession">Government Tax Profession</option>
+<option value="civil-service-government-veterinary-services">Government Veterinary Services </option>
+<option value="great-britain-china-centre">Great Britain-China Centre</option>
+<option value="groceries-code-adjudicator">Groceries Code Adjudicator</option>
+<option value="hm-courts-and-tribunals-service">HM Courts & Tribunals Service</option>
+<option value="hm-crown-prosecution-service-inspectorate">HM Crown Prosecution Service Inspectorate</option>
+<option value="hm-inspectorate-of-constabulary-and-fire-rescue-services">HM Inspectorate of Constabulary and Fire & Rescue Services</option>
+<option value="hm-inspectorate-of-prisons">HM Inspectorate of Prisons</option>
+<option value="hm-inspectorate-of-probation">HM Inspectorate of Probation</option>
+<option value="land-registry">HM Land Registry</option>
+<option value="hm-nautical-almanac-office">HM Nautical Almanac Office</option>
+<option value="hm-passport-office">HM Passport Office</option>
+<option value="hm-prison-service">HM Prison Service</option>
+<option value="hm-revenue-customs">HM Revenue & Customs</option>
+<option value="health-education-england">Health Education England</option>
+<option value="health-research-authority">Health Research Authority</option>
+<option value="health-and-safety-executive">Health and Safety Executive</option>
+<option value="healthcare-uk">Healthcare UK</option>
+<option value="her-majestys-government-communications-centre">Her Majesty's Government Communications Centre</option>
+<option value="her-majestys-prison-and-probation-service">Her Majesty’s Prison and Probation Service</option>
+<option value="heritage-lottery-fund">Heritage Lottery Fund (administered by the NHMF)</option>
+<option value="high-speed-two-limited">High Speed Two (HS2) Limited</option>
+<option value="higher-education-statistical-agency">Higher Education Statistics Agency</option>
+<option value="highways-england">Highways England</option>
+<option value="historic-england">Historic England</option>
+<option value="historic-royal-palaces">Historic Royal Palaces</option>
+<option value="homes-england">Homes England</option>
+<option value="horniman-museum">Horniman Public Museum and Public Park Trust</option>
+<option value="horserace-betting-levy-board">Horserace Betting Levy Board</option>
+<option value="house-of-lords-appointments-commission">House of Lords Appointments Commission</option>
+<option value="housing-ombudsman">Housing Ombudsman</option>
+<option value="human-fertilisation-and-embryology-authority">Human Fertilisation and Embryology Authority</option>
+<option value="civil-service-human-resources-profession">Human Resources Profession</option>
+<option value="human-tissue-authority">Human Tissue Authority</option>
+<option value="immigration-enforcement">Immigration Enforcement</option>
+<option value="imperial-war-museum">Imperial War Museum</option>
+<option value="independent-advisory-panel-on-deaths-in-custody">Independent Advisory Panel on Deaths in Custody</option>
+<option value="independent-agricultural-appeals-panel">Independent Agricultural Appeals Panel</option>
+<option value="independent-anti-slavery-commissioner">Independent Anti-slavery Commissioner</option>
+<option value="independent-case-examiner">Independent Case Examiner</option>
+<option value="independent-chief-inspector-of-borders-and-immigration">Independent Chief Inspector of Borders and Immigration </option>
+<option value="independent-commission-for-aid-impact">Independent Commission for Aid Impact</option>
+<option value="independent-commission-on-civil-aviation-noise">Independent Commission on Civil Aviation Noise</option>
+<option value="independent-commission-on-freedom-of-information">Independent Commission on Freedom of Information</option>
+<option value="independent-complaints-reviewer">Independent Complaints Reviewer</option>
+<option value="dormant-assets-commission">Independent Dormant Assets Commission </option>
+<option value="independent-family-returns-panel">Independent Family Returns Panel</option>
+<option value="independent-medical-expert-group">Independent Medical Expert Group</option>
+<option value="independent-monitoring-boards-of-prisons-immigration-removal-centres-and-short-term-holding-rooms">Independent Monitoring Boards</option>
+<option value="independent-office-for-police-conduct">Independent Office for Police Conduct</option>
+<option value="independent-reconfiguration-panel">Independent Reconfiguration Panel</option>
+<option value="independent-review-mechanism">Independent Review Mechanism</option>
+<option value="independent-reviewer-of-terrorism-legislation">Independent Reviewer of Terrorism Legislation</option>
+<option value="industrial-development-advisory-board">Industrial Development Advisory Board</option>
+<option value="industrial-injuries-advisory-council">Industrial Injuries Advisory Council</option>
+<option value="information-commissioner-s-office">Information Commissioner's Office</option>
+<option value="infrastructure-and-projects-authority">Infrastructure and Projects Authority</option>
+<option value="innovate-uk">Innovate UK</option>
+<option value="insolvency-list">Insolvency List</option>
+<option value="insolvency-rules-committee">Insolvency Rules Committee</option>
+<option value="insolvency-service">The Insolvency Service</option>
+<option value="institute-for-apprenticeships-and-technical-education">Institute for Apprenticeships and Technical Education</option>
+<option value="intellectual-property-enterprise-court">Intellectual Property Enterprise Court</option>
+<option value="the-intellectual-property-list">The Intellectual Property List</option>
+<option value="intellectual-property-office">Intellectual Property Office</option>
+<option value="civil-service-intelligence-analysis-profession">Intelligence Analysis </option>
+<option value="intelligence-services-commissioner">Intelligence Services Commissioner</option>
+<option value="civil-service-internal-audit-profession">Internal Audit Profession</option>
+<option value="investigatory-powers-commissioners-office">Investigatory Powers Commissioner's Office</option>
+<option value="investigatory-powers-tribunal">Investigatory Powers Tribunal</option>
+<option value="iraq-inquiry">Iraq Inquiry</option>
+<option value="joint-forces-command">Joint Forces Command</option>
+<option value="joint-nature-conservation-committee">Joint Nature Conservation Committee</option>
+<option value="judicial-appointments-commission">Judicial Appointments Commission</option>
+<option value="judicial-appointments-and-conduct-ombudsman">Judicial Appointments and Conduct Ombudsman</option>
+<option value="judicial-office">Judicial Office</option>
+<option value="lake-district-national-park-authority">Lake District National Park Authority</option>
+<option value="lammy-review">Lammy Review</option>
+<option value="land-registration-rule-committee">Land Registration Rule Committee</option>
+<option value="law-commission">Law Commission</option>
+<option value="leasehold-advisory-service">Leasehold Advisory Service</option>
+<option value="legal-aid-agency">Legal Aid Agency</option>
+<option value="the-legal-ombudsman">The Legal Ombudsman</option>
+<option value="legal-services-board">Legal Services Board</option>
+<option value="life-sciences-organisation">Life Sciences Organisation</option>
+<option value="livestock-and-meat-commission-for-northern-ireland">Livestock and Meat Commission for Northern Ireland</option>
+<option value="local-government-ombudsman">Local Government and Social Care Ombudsman</option>
+<option value="located">LocatED</option>
+<option value="london-and-continental-railways-ltd">London and Continental Railways Limited</option>
+<option value="low-level-waste-repository-ltd">Low Level Waste Repository Ltd </option>
+<option value="low-pay-commission">Low Pay Commission</option>
+<option value="macur-review">Macur Review</option>
+<option value="magnox-ltd">Magnox Ltd</option>
+<option value="marine-accident-investigation-branch">Marine Accident Investigation Branch</option>
+<option value="marine-management-organisation">Marine Management Organisation</option>
+<option value="maritime-and-coastguard-agency">Maritime and Coastguard Agency</option>
+<option value="marshall-aid-commemoration-commission">Marshall Aid Commemoration Commission</option>
+<option value="civil-service-medical-profession">Medical Profession</option>
+<option value="medical-research-council">Medical Research Council</option>
+<option value="medicines-and-healthcare-products-regulatory-agency">Medicines and Healthcare products Regulatory Agency</option>
+<option value="met-office">Met Office</option>
+<option value="migration-advisory-committee">Migration Advisory Committee</option>
+<option value="military-aviation-authority">Military Aviation Authority</option>
+<option value="morecambe-bay-investigation">Morecambe Bay Investigation</option>
+<option value="nhs-blood-and-transplant">NHS Blood and Transplant</option>
+<option value="nhs-business-services-authority">NHS Business Services Authority</option>
+<option value="nhs-counter-fraud-authority">NHS Counter Fraud Authority</option>
+<option value="nhs-digital">NHS Digital</option>
+<option value="nhs-commissioning-board">NHS England</option>
+<option value="nhs-improvement">NHS Improvement</option>
+<option value="nhs-litigation-authority">NHS Litigation Authority</option>
+<option value="nhs-pay-review-body">NHS Pay Review Body</option>
+<option value="nhs-wales-informatics-service">NHS Wales Informatics Service</option>
+<option value="ns-i">NS&I</option>
+<option value="the-national-archives">The National Archives</option>
+<option value="national-army-museum">National Army Museum</option>
+<option value="national-counter-terrorism-security-office">National Counter Terrorism Security Office</option>
+<option value="national-crime-agency">National Crime Agency</option>
+<option value="national-crime-agency-remuneration-review-body">National Crime Agency Remuneration Review Body </option>
+<option value="national-cyber-security-centre">National Cyber Security Centre</option>
+<option value="national-data-guardian">National Data Guardian</option>
+<option value="national-employment-savings-trust">National Employment Savings Trust (NEST) Corporation</option>
+<option value="national-forest-company">National Forest Company</option>
+<option value="national-gallery">National Gallery</option>
+<option value="national-heritage-memorial-fund">National Heritage Memorial Fund</option>
+<option value="national-information-board">National Information Board</option>
+<option value="national-infrastructure-commission">National Infrastructure Commission</option>
+<option value="national-institute-for-clinical-excellence">National Institute for Health and Care Excellence</option>
+<option value="royal-naval-museum">National Museum of the Royal Navy</option>
+<option value="national-museums-liverpool">National Museums Liverpool</option>
+<option value="national-portrait-gallery">National Portrait Gallery</option>
+<option value="national-probation-service">National Probation Service</option>
+<option value="national-security">National security and intelligence</option>
+<option value="natural-england">Natural England</option>
+<option value="natural-environment-research-council">Natural Environment Research Council</option>
+<option value="natural-history-museum">Natural History Museum</option>
+<option value="natural-resources-wales">Natural Resources Wales</option>
+<option value="network-rail">Network Rail</option>
+<option value="new-forest-national-park-authority">New Forest National Park Authority</option>
+<option value="north-york-moors-national-park">North York Moors National Park Authority</option>
+<option value="northampton-county-court-business-centre">Northampton County Court Business Centre</option>
+<option value="northern-ireland-council-for-the-curriculum-examinations-and-assessment">Northern Ireland Council for the Curriculum, Examinations and Assessment</option>
+<option value="northern-ireland-executive">Northern Ireland Executive </option>
+<option value="northern-ireland-housing-executive">Northern Ireland Housing Executive</option>
+<option value="northern-ireland-human-rights-commission">Northern Ireland Human Rights Commission</option>
+<option value="northern-ireland-policing-board">Northern Ireland Policing Board</option>
+<option value="northern-ireland-statistics-and-research-agency">Northern Ireland Statistics and Research Agency</option>
+<option value="northern-lighthouse-board">Northern Lighthouse Board</option>
+<option value="northumberland-national-park-authority">Northumberland National Park Authority</option>
+<option value="nuclear-decommissioning-authority">Nuclear Decommissioning Authority</option>
+<option value="nuclear-liabilities-financing-assurance-board">Nuclear Liabilities Financing Assurance Board</option>
+<option value="nuclear-research-advisory-council">Nuclear Research Advisory Council</option>
+<option value="ofcom">Ofcom</option>
+<option value="office-for-budget-responsibility">Office for Budget Responsibility</option>
+<option value="office-for-civil-society">Office for Civil Society</option>
+<option value="office-for-disability-issues">Office for Disability Issues</option>
+<option value="office-for-life-sciences">Office for Life Sciences</option>
+<option value="office-for-low-emission-vehicles">Office for Low Emission Vehicles</option>
+<option value="office-for-national-statistics">Office for National Statistics</option>
+<option value="office-for-nuclear-regulation">Office for Nuclear Regulation</option>
+<option value="office-for-product-safety-and-standards">Office for Product Safety and Standards</option>
+<option value="office-for-students">Office for Students</option>
+<option value="office-of-financial-sanctions-implementation">Office of Financial Sanctions Implementation</option>
+<option value="office-of-manpower-economics">Office of Manpower Economics</option>
+<option value="office-of-rail-and-road">Office of Rail and Road</option>
+<option value="office-of-tax-simplification">Office of Tax Simplification</option>
+<option value="office-of-the-children-s-commissioner">Office of the Children's Commissioner</option>
+<option value="office-of-the-immigration-services-commissioner">Office of the Immigration Services Commissioner</option>
+<option value="office-of-the-parliamentary-counsel">Office of the Parliamentary Counsel</option>
+<option value="office-of-the-police-ombudsman-for-northern-ireland">Office of the Police Ombudsman for Northern Ireland</option>
+<option value="office-of-the-public-guardian">Office of the Public Guardian</option>
+<option value="office-of-the-registrar-of-consultant-lobbyists">Office of the Registrar of Consultant Lobbyists</option>
+<option value="office-of-the-regulator-of-community-interest-companies">Office of the Regulator of Community Interest Companies</option>
+<option value="office-of-the-schools-adjudicator">Office of the Schools Adjudicator</option>
+<option value="official-solicitor-and-public-trustee">Official Solicitor and Public Trustee</option>
+<option value="offshore-petroleum-regulator-for-environment-and-decommissioning">Offshore Petroleum Regulator for Environment and Decommissioning</option>
+<option value="ofgem">Ofgem</option>
+<option value="ofqual">Ofqual</option>
+<option value="ofsted">Ofsted</option>
+<option value="oil-and-gas-authority">Oil and Gas Authority</option>
+<option value="oil-and-pipelines-agency">The Oil and Pipelines Agency</option>
+<option value="open-public-services">Open Public Services</option>
+<option value="civil-service-operational-delivery-profession">Operational Delivery Profession</option>
+<option value="ordnance-survey">Ordnance Survey</option>
+<option value="parades-commission-for-northern-ireland">Parades Commission for Northern Ireland</option>
+<option value="the-parliamentary-and-health-service-ombudsman">The Parliamentary and Health Service Ombudsman </option>
+<option value="parole-board">Parole Board</option>
+<option value="patents-court">Patents Court</option>
+<option value="payment-systems-regulator">Payment Systems Regulator</option>
+<option value="peak-district-national-park">Peak District National Park Authority</option>
+<option value="pension-protection-fund">Pension Protection Fund</option>
+<option value="pension-protection-fund-ombudsman">The Pension Protection Fund Ombudsman</option>
+<option value="the-pensions-advisory-service">The Pensions Advisory Service</option>
+<option value="pensions-ombudsman">The Pensions Ombudsman</option>
+<option value="the-pensions-regulator">The Pensions Regulator</option>
+<option value="planning-court">Planning Court</option>
+<option value="planning-inspectorate">Planning Inspectorate</option>
+<option value="plant-varieties-and-seeds-tribunal">Plant Varieties and Seeds Tribunal</option>
+<option value="police-advisory-board-for-england-and-wales">Police Advisory Board for England and Wales</option>
+<option value="police-discipline-appeals-tribunal">Police Discipline Appeals Tribunal</option>
+<option value="police-remuneration-review-body">Police Remuneration Review Body</option>
+<option value="police-service-of-northern-ireland">Police Service of Northern Ireland</option>
+<option value="civil-service-policy-profession">Policy Profession</option>
+<option value="porton-biopharma-limited">Porton Biopharma Limited</option>
+<option value="preventing-sexual-violence-initiative">Preventing Sexual Violence Initiative</option>
+<option value="prime-ministers-office-10-downing-street">Prime Minister's Office, 10 Downing Street</option>
+<option value="prison-services-pay-review-body">Prison Service Pay Review Body</option>
+<option value="prisons-and-probation-ombudsman">Prisons and Probation Ombudsman</option>
+<option value="privy-council-office">Privy Council Office</option>
+<option value="probation-board-for-northern-ireland">Probation Board for Northern Ireland</option>
+<option value="civil-service-procurement-profession">Procurement profession</option>
+<option value="professional-standards-authority-for-health-and-social-care">Professional Standards Authority for Health and Social Care</option>
+<option value="civil-service-project-delivery-profession">Project Delivery Profession</option>
+<option value="the-property-trusts-and-probate-list">The Property, Trusts and Probate List</option>
+<option value="public-health-agency-northern-ireland">Public Health Agency (Northern Ireland)</option>
+<option value="public-health-england">Public Health England</option>
+<option value="public-health-wales">Public Health Wales</option>
+<option value="public-prosecution-service-for-northern-ireland">Public Prosecution Service for Northern Ireland</option>
+<option value="pubs-code-adjudicator">Pubs Code Adjudicator</option>
+<option value="queen-elizabeth-ii-conference-centre">Queen Elizabeth II Conference Centre</option>
+<option value="queens-bench-division-of-the-high-court">Queen's Bench Division of the High Court</option>
+<option value="queens-harbour-master">Queen's Harbour Master</option>
+<option value="race-disparity-unit">Race Disparity Unit</option>
+<option value="radioactive-waste-management">Radioactive Waste Management</option>
+<option value="rail-accident-investigation-branch">Rail Accident Investigation Branch</option>
+<option value="rail-safety-and-standards-board">Rail Safety and Standards Board</option>
+<option value="regulator-of-social-housing">Regulator of Social Housing</option>
+<option value="regulatory-policy-committee">Regulatory Policy Committee</option>
+<option value="remploy-pension-scheme-trustees-ltd">Remploy Pension Scheme Trustees Ltd </option>
+<option value="reserve-forces-appeal-tribunal">Reserve Forces Appeal Tribunal</option>
+<option value="reserve-forces-and-cadets-associations">Reserve Forces' and Cadets' Associations</option>
+<option value="the-revenue-list">The Revenue List</option>
+<option value="review-body-on-doctors-and-dentists-remuneration">Review Body on Doctors' and Dentists' Remuneration</option>
+<option value="the-reviewing-committee-on-the-export-of-works-of-art-and-objects-of-cultural-interest">The Reviewing Committee on the Export of Works of Art and Objects of Cultural Interest</option>
+<option value="royal-air-force-museum">Royal Air Force Museum</option>
+<option value="royal-armouries-museum">Royal Armouries Museum</option>
+<option value="royal-marines-museum">Royal Marines Museum</option>
+<option value="royal-mint">Royal Mint</option>
+<option value="royal-mint-advisory-committee">Royal Mint Advisory Committee</option>
+<option value="royal-museums-greenwich">Royal Museums Greenwich</option>
+<option value="royal-navy-submarine-museum">Royal Navy Submarine Museum</option>
+<option value="rural-development-programme-for-england-network">Rural Development Programme for England Network</option>
+<option value="rural-payments-agency">Rural Payments Agency</option>
+<option value="s4c">S4C</option>
+<option value="school-teachers-review-body">School Teachers' Review Body</option>
+<option value="schools-commissioners-group">Schools Commissioners Group</option>
+<option value="science-advisory-council">Science Advisory Council</option>
+<option value="science-museum-group">Science Museum Group</option>
+<option value="science-and-technology-facilities-council">Science and Technology Facilities Council</option>
+<option value="science-advisory-committee-on-the-medical-implications-of-less-lethal-weapons">Scientific Advisory Committee on the Medical Implications of Less-Lethal Weapons</option>
+<option value="the-scottish-government">The Scottish Government</option>
+<option value="sea-fish-industry-authority">Sea Fish Industry Authority</option>
+<option value="secret-intelligence-service">Secret Intelligence Service</option>
+<option value="security-industry-authority">Security Industry Authority</option>
+<option value="the-security-service-mi5">The Security Service</option>
+<option value="security-vetting-appeals-panel">Security Vetting Appeals Panel</option>
+<option value="sellafield-ltd">Sellafield Ltd</option>
+<option value="senior-courts-costs-office">Senior Courts Costs Office</option>
+<option value="review-body-on-senior-salaries">Senior Salaries Review Body </option>
+<option value="the-sentencing-council-for-england-and-wales">Sentencing Council for England and Wales</option>
+<option value="serious-fraud-office">Serious Fraud Office</option>
+<option value="service-complaints-ombudsman">Service Complaints Ombudsman </option>
+<option value="service-prosecuting-authority">Service Prosecuting Authority</option>
+<option value="single-financial-guidance-body">Single Financial Guidance Body</option>
+<option value="single-source-regulations-office">Single Source Regulations Office</option>
+<option value="sir-john-soane-s-museum">Sir John Soane's Museum</option>
+<option value="small-business-commissioner">Small Business Commissioner</option>
+<option value="social-mobility-commission">Social Mobility Commission</option>
+<option value="social-science-research-committee">Social Science Research Committee</option>
+<option value="social-security-advisory-committee">Social Security Advisory Committee</option>
+<option value="south-downs-national-park-authority">South Downs National Park Authority</option>
+<option value="sport-england">Sport England</option>
+<option value="sports-council-for-wales">Sports Council for Wales</option>
+<option value="sports-grounds-safety-authority">Sports Grounds Safety Authority</option>
+<option value="stabilisation-unit">Stabilisation Unit</option>
+<option value="standards-and-testing-agency">Standards and Testing Agency</option>
+<option value="student-loans-company">Student Loans Company</option>
+<option value="supreme-court-of-the-united-kingdom">Supreme Court of the United Kingdom</option>
+<option value="surveillance-camera-commissioner">Surveillance Camera Commissioner</option>
+<option value="tate">Tate</option>
+<option value="teaching-regulation-agency">Teaching Regulation Agency</option>
+<option value="technical-advisory-board">Technical Advisory Board</option>
+<option value="technology-and-construction-court">Technology and Construction Court</option>
+<option value="the-theatres-trust">The Theatres Trust</option>
+<option value="traffic-commissioners">Traffic Commissioners for Great Britain</option>
+<option value="transport-focus">Transport Focus</option>
+<option value="treasure-valuation-committee">Treasure Valuation Committee</option>
+<option value="tribunal-procedure-committee">Tribunal Procedure Committee</option>
+<option value="trinity-house">Trinity House</option>
+<option value="uk-anti-doping">UK Anti-Doping</option>
+<option value="uk-atomic-energy-authority">UK Atomic Energy Authority</option>
+<option value="uk-co-ordinating-body">UK Co-ordinating Body</option>
+<option value="uk-council-for-internet-safety">UK Council for Internet Safety</option>
+<option value="uk-debt-management-office">UK Debt Management Office</option>
+<option value="uk-financial-investments-limited">UK Financial Investments Limited</option>
+<option value="uk-government-investments">UK Government Investments</option>
+<option value="uk-holocaust-memorial-foundation">UK Holocaust Memorial Foundation</option>
+<option value="uk-hydrographic-office">UK Hydrographic Office</option>
+<option value="uk-research-and-innovation">UK Research and Innovation</option>
+<option value="uk-space-agency">UK Space Agency</option>
+<option value="uk-sport">UK Sport</option>
+<option value="uk-statistics-authority">UK Statistics Authority</option>
+<option value="uk-visas-and-immigration">UK Visas and Immigration</option>
+<option value="united-kingdom-reserve-forces-association">United Kingdom Reserve Forces Association</option>
+<option value="upper-tribunal-administrative-appeals-chamber">Upper Tribunal (Administrative Appeals Chamber)</option>
+<option value="upper-tribunal-immigration-and-asylum-chamber">Upper Tribunal (Immigration and Asylum Chamber)</option>
+<option value="upper-tribunal-lands-chamber">Upper Tribunal (Lands Chamber)</option>
+<option value="upper-tribunal-tax-and-chancery-chamber">Upper Tribunal (Tax and Chancery Chamber)</option>
+<option value="valuation-office-agency">Valuation Office Agency</option>
+<option value="valuation-tribunal-service-for-england-valuation-tribunal-service">Valuation Tribunal Service</option>
+<option value="valuation-tribunal-for-england">Valuation Tribunal for England </option>
+<option value="vehicle-certification-agency">Vehicle Certification Agency</option>
+<option value="veterans-advisory-and-pensions-committees-x13">Veterans Advisory and Pensions Committees</option>
+<option value="veterans-uk">Veterans UK</option>
+<option value="veterinary-medicines-directorate">Veterinary Medicines Directorate</option>
+<option value="veterinary-products-committee">Veterinary Products Committee</option>
+<option value="victims-commissioner">Victims' Commissioner</option>
+<option value="victoria-and-albert-museum">Victoria and Albert Museum</option>
+<option value="visitbritain">VisitBritain</option>
+<option value="visitengland">VisitEngland</option>
+<option value="wales-audit-office">Wales Audit Office</option>
+<option value="wallace-collection">Wallace Collection</option>
+<option value="the-water-services-regulation-authority">The Water Services Regulation Authority </option>
+<option value="welsh-government">Welsh Government</option>
+<option value="welsh-language-commissioner">Welsh Language Commissioner</option>
+<option value="westminster-foundation-for-democracy">Westminster Foundation for Democracy</option>
+<option value="wilton-park">Wilton Park</option>
+<option value="yorkshire-dales-national-park-authority">Yorkshire Dales National Park Authority</option>
+<option value="youth-justice-board-for-england-and-wales">Youth Justice Board for England and Wales</option>
+<option value="jhub-defence-innovation">jHub Defence Innovation</option>
+</optgroup>
+<optgroup label="Closed organisations">
+<option value="academy-for-justice-commissioning">Academy for Justice Commissioning</option>
+<option value="academy-for-social-justice-commissioning">Academy for Social Justice Commissioning</option>
+<option value="administrative-justice-and-tribunals-council">Administrative Justice and Tribunals Council</option>
+<option value="administrative-justice-and-tribunals-council-welsh-committee">Administrative Justice and Tribunals Council Welsh Committee</option>
+<option value="adult-learning-inspectorate">Adult Learning Inspectorate</option>
+<option value="advantage-west-midlands">Advantage West Midlands</option>
+<option value="advisory-committee-on-pesticides">Advisory Committee on Pesticides</option>
+<option value="advisory-panel-on-public-sector-information">Advisory Panel on Public Sector Information</option>
+<option value="agricultural-dwelling-house-advisory-committees-x16">Agricultural Dwelling House Advisory Committees (x16)</option>
+<option value="agricultural-wages-committee-x13">Agricultural Wages Committee</option>
+<option value="airports-commission">Airports Commission</option>
+<option value="alcohol-education-and-research-council">Alcohol Education and Research Council</option>
+<option value="ancient-monuments-board-for-scotland">Ancient Monuments Board for Scotland</option>
+<option value="animal-health">Animal Health</option>
+<option value="animal-health-and-veterinary-laboratories-agency">Animal Health and Veterinary Laboratories Agency</option>
+<option value="animal-procedures-committee">Animal Procedures Committee</option>
+<option value="appeals-service-agency">Appeals Service Agency</option>
+<option value="armagh-observatory-and-planetarium">Armagh Observatory and Planetarium</option>
+<option value="armed-forces-personnel-administration-agency">Armed Forces Personnel Administration Agency</option>
+<option value="army-base-repair-organisation">Army Base Repair Organisation</option>
+<option value="ashington-education-action-zone">Ashington Education Action Zone</option>
+<option value="asset-protection-agency">Asset Protection Agency</option>
+<option value="assets-recovery-agency">Assets Recovery Agency</option>
+<option value="audit-commission">Audit Commission</option>
+<option value="azelle-rodney-inquiry">Azelle Rodney Inquiry</option>
+<option value="brb-residuary-ltd">BRB (Residuary) Ltd</option>
+<option value="baha-mousa-inquiry">Baha Mousa Inquiry</option>
+<option value="barker-review-of-land-use-planning">Barker Review of Land Use Planning</option>
+<option value="barrow-education-action-zone">Barrow Education Action Zone</option>
+<option value="bedford-education-action-zone">Bedford Education Action Zone</option>
+<option value="behavioural-insights-team">Behavioural Insights Team</option>
+<option value="better-regulation-delivery-office">Better Regulation Delivery Office</option>
+<option value="billy-wright-inquiry">Billy Wright Inquiry</option>
+<option value="bloody-sunday-inquiry">Bloody Sunday Inquiry</option>
+<option value="board-of-banking-supervision">Board of Banking Supervision</option>
+<option value="board-of-inland-revenue">Board of Inland Revenue</option>
+<option value="bolton-education-action-zone">Bolton Education Action Zone</option>
+<option value="bridgwater-education-action-zone">Bridgwater Education Action Zone</option>
+<option value="bristol-education-action-zone">Bristol Education Action Zone</option>
+<option value="british-educational-communications-and-technology-agency">British Educational Communications and Technology Agency</option>
+<option value="british-forces-post-office">British Forces Post Office</option>
+<option value="british-potato-council">British Potato Council</option>
+<option value="broadcasting-standards-commission">Broadcasting Standards Commission</option>
+<option value="investigation-into-the-role-of-jimmy-savile-at-broadmoor-hospital">Broadmoor Hospital investigation</option>
+<option value="building-research-establishment">Building Research Establishment</option>
+<option value="business-development-service">Business Development Service</option>
+<option value="buying-solutions">Buying Solutions</option>
+<option value="cesg">CESG</option>
+<option value="co2sense">CO2Sense</option>
+<option value="camborne-pool-and-redruth-education-action-zone">Camborne, Pool and Redruth Education Action Zone</option>
+<option value="capacitybuilders">Capacitybuilders</option>
+<option value="capital-for-enterprise-ltd">Capital for Enterprise Limited</option>
+<option value="central-advisory-committee-on-pensions-and-compensation">Central Advisory Committee on Pensions and Compensation </option>
+<option value="central-office-of-information">Central Office of Information</option>
+<option value="central-police-training-and-development-authority">Central Police Training and Development Authority</option>
+<option value="central-science-laboratory">Central Science Laboratory</option>
+<option value="centre-for-defence-enterprise">Centre for Defence Enterprise</option>
+<option value="chemical-and-biological-defence-establishment">Chemical and Biological Defence Establishment</option>
+<option value="child-maintenance-and-enforcement-commission">Child Maintenance and Enforcement Commission</option>
+<option value="childrens-workforce-development-council">Children's Workforce Development Council</option>
+<option value="clacton-and-harwich-education-action-zone">Clacton and Harwich Education Action Zone</option>
+<option value="commission-for-architecture-and-the-built-environment-cabe">Commission for Architecture and the Built Environment (CABE)</option>
+<option value="commission-for-health-improvement">Commission for Health Improvement</option>
+<option value="commission-for-patient-and-public-involvement-in-health">Commission for Patient and Public Involvement in Health</option>
+<option value="commission-for-racial-equality">Commission for Racial Equality</option>
+<option value="commission-for-rural-communities">Commission for Rural Communities</option>
+<option value="commission-for-social-care-inspection">Commission for Social Care Inspection</option>
+<option value="commission-for-the-compact">Commission for the Compact</option>
+<option value="community-development-foundation">Community Development Foundation</option>
+<option value="community-fund">Community Fund</option>
+<option value="compensation-agency">Compensation Agency</option>
+<option value="competition-commission">Competition Commission</option>
+<option value="consumer-council-for-postal-services">Consumer Council for Postal Services</option>
+<option value="consumer-focus">Consumer Futures</option>
+<option value="cooksey-review">Cooksey Review</option>
+<option value="corby-education-action-zone">Corby Education Action Zone</option>
+<option value="council-for-catholic-maintained-schools">Council for Catholic Maintained Schools</option>
+<option value="council-for-healthcare-regulatory-excellence">Council for Healthcare Regulatory Excellence</option>
+<option value="council-for-the-central-laboratory-of-the-research-councils">Council for the Central Laboratory of the Research Councils</option>
+<option value="council-on-tribunals">Council on Tribunals</option>
+<option value="counter-fraud-and-security-management-service">Counter Fraud and Security Management Service</option>
+<option value="countryside-agency">Countryside Agency</option>
+<option value="court-of-judicature-of-northern-ireland">Court of Judicature of Northern Ireland</option>
+<option value="coventry-education-action-zone">Coventry Education Action Zone</option>
+<option value="creative-scotland">Creative Scotland</option>
+<option value="criminal-injuries-compensation-appeals-panel">Criminal Injuries Compensation Appeals Panel</option>
+<option value="criminal-injuries-compensation-appeals-panel-for-northern-ireland">Criminal Injuries Compensation Appeals Panel for Northern Ireland</option>
+<option value="criminal-justice-inspection-northern-ireland">Criminal Justice Inspection Northern Ireland</option>
+<option value="criminal-records-bureau">Criminal Records Bureau</option>
+<option value="crown-agents-holding-and-realisation-board">Crown Agents Holding and Realisation Board</option>
+<option value="deepcut-review">Deepcut Review</option>
+<option value="defence-analytical-services-agency">Defence Analytical Services Agency</option>
+<option value="defence-aviation-repair-agency">Defence Aviation Repair Agency</option>
+<option value="defence-bills-agency">Defence Bills Agency</option>
+<option value="defence-communication-services-agency">Defence Communication Services Agency</option>
+<option value="defence-estates">Defence Estates</option>
+<option value="defence-intelligence-and-security-centre">Defence Intelligence and Security Centre</option>
+<option value="defence-medical-education-and-training-agency">Defence Medical Education and Training Agency</option>
+<option value="defence-procurement-agency">Defence Procurement Agency</option>
+<option value="defence-scientific-advisory-council">Defence Scientific Advisory Council</option>
+<option value="defence-storage-and-distribution-agency">Defence Storage and Distribution Agency</option>
+<option value="defence-support-group">Defence Support Group</option>
+<option value="defence-transport-and-movements-agency">Defence Transport and Movements Agency</option>
+<option value="defence-vetting-agency">Defence Vetting Agency</option>
+<option value="defence-press-and-broadcasting-advisory-committee">Defence, Press and Broadcasting Advisory Committee</option>
+<option value="dental-practice-board">Dental Practice Board</option>
+<option value="dental-vocational-training-authority">Dental Vocational Training Authority</option>
+<option value="department-for-business-enterprise-and-regulatory-reform">Department for Business, Enterprise and Regulatory Reform</option>
+<option value="department-for-business-innovation-skills">Department for Business, Innovation & Skills</option>
+<option value="department-for-children-schools-and-families">Department for Children, Schools and Families</option>
+<option value="department-for-constitutional-affairs">Department for Constitutional Affairs</option>
+<option value="department-for-education-and-skills">Department for Education and Skills</option>
+<option value="department-for-employment-and-learning">Department for Employment and Learning</option>
+<option value="department-for-innovation-universities-and-skills">Department for Innovation, Universities and Skills</option>
+<option value="department-for-regional-development">Department for Regional Development</option>
+<option value="department-for-social-development">Department for Social Development</option>
+<option value="department-of-agriculture-and-rural-development">Department of Agriculture and Rural Development</option>
+<option value="department-of-constitutional-affairs">Department of Constitutional Affairs</option>
+<option value="department-of-culture-arts-and-leisure">Department of Culture, Arts and Leisure</option>
+<option value="department-of-energy-climate-change">Department of Energy & Climate Change</option>
+<option value="department-of-enterprise-trade-and-investment">Department of Enterprise, Trade and Investment</option>
+<option value="department-of-finance-and-personnel-for-northern-ireland">Department of Finance and Personnel for Northern Ireland</option>
+<option value="department-of-health-social-services-and-public-safety">Department of Health, Social Services and Public Safety</option>
+<option value="department-of-inland-revenue">Department of Inland Revenue</option>
+<option value="department-of-national-heritage">Department of National Heritage</option>
+<option value="department-of-social-security">Department of Social Security</option>
+<option value="department-of-trade-and-industry">Department of Trade and Industry</option>
+<option value="department-of-the-environment">Department of the Environment (Northern Ireland)</option>
+<option value="department-of-the-environment-transport-and-the-regions">Department of the Environment, Transport and the Regions</option>
+<option value="deputy-prime-ministers-office">Deputy Prime Minister's Office</option>
+<option value="derby-north-east-education-action-zone">Derby North East Education Action Zone</option>
+<option value="design-council">Design Council</option>
+<option value="dingle-granby-toxteth-education-action-zone">Dingle Granby Toxteth Education Action Zone</option>
+<option value="disability-rights-commission">Disability Rights Commission</option>
+<option value="disability-and-carers-service">Disability and Carers Service</option>
+<option value="disposal-services-agency">Disposal Services Agency</option>
+<option value="downham-and-bellingham-education-action-zone">Downham and Bellingham Education Action Zone</option>
+<option value="driver-and-vehicle-testing-agency">Driver and Vehicle Testing Agency</option>
+<option value="driving-standards-agency">Driving Standards Agency</option>
+<option value="dudley-education-action-zone">Dudley Education Action Zone</option>
+<option value="easington-and-seaham-education-action-zone">Easington and Seaham Education Action Zone</option>
+<option value="east-cleveland-education-action-zone">East Cleveland Education Action Zone</option>
+<option value="east-manchester-education-action-zone">East Manchester Education Action Zone</option>
+<option value="east-midlands-development-agency-emda">East Midlands Development Agency (emda)</option>
+<option value="east-of-england-development-agency">East of England Development Agency</option>
+<option value="eastern-health-and-social-services-board">Eastern Health and Social Services Board</option>
+<option value="education-funding-agency">Education Funding Agency</option>
+<option value="efficiency-and-reform-group">Efficiency and Reform Group</option>
+<option value="eliasch-review">Eliasch Review</option>
+<option value="ellesmere-port-education-action-zone">Ellesmere Port Education Action Zone</option>
+<option value="english-heritage">English Heritage</option>
+<option value="english-nature">English Nature</option>
+<option value="english-partnerships">English Partnerships</option>
+<option value="english-sports-council">English Sports Council</option>
+<option value="enterprise-ulster">Enterprise Ulster</option>
+<option value="environment-and-heritage-service">Environment and Heritage Service</option>
+<option value="equal-opportunities-commission">Equal Opportunities Commission</option>
+<option value="equality-2025">Equality 2025</option>
+<option value="equality-commission-for-northern-ireland">Equality Commission for Northern Ireland</option>
+<option value="equitable-life-inquiry">Equitable Life Inquiry</option>
+<option value="examination-team-on-child-care-procedures-and-practice-in-north-wales">Examination team on child care procedures and practice in North Wales</option>
+<option value="exchequer-and-audit-department">Exchequer and Audit Department</option>
+<option value="family-health-services-appeal-authority">Family Health Services Appeal Authority</option>
+<option value="financial-services-organisation">Financial Services Organisation</option>
+<option value="fire-authority-for-northern-ireland">Fire Authority for Northern Ireland</option>
+<option value="firearms-consultative-committee">Firearms Consultative Committee</option>
+<option value="firebuy">Firebuy</option>
+<option value="fisheries-conservancy-board-for-northern-ireland">Fisheries Conservancy Board for Northern Ireland</option>
+<option value="food-safety-promotion-board">Food Safety Promotion Board</option>
+<option value="the-food-and-environment-research-agency">The Food and Environment Research Agency</option>
+<option value="food-from-britain">Food from Britain</option>
+<option value="football-licensing-authority">Football Licensing Authority</option>
+<option value="foreign-compensation-commission">Foreign Compensation Commission</option>
+<option value="forensic-science-northern-ireland">Forensic Science Northern Ireland</option>
+<option value="forensic-science-service">Forensic Science Service</option>
+<option value="forest-service">Forest Service</option>
+<option value="the-fuel-poverty-advisory-group">Fuel Poverty Advisory Group</option>
+<option value="further-and-higher-education-funding-councils-for-wales">Further and Higher Education Funding Councils for Wales</option>
+<option value="gaming-board-for-great-britain">Gaming Board for Great Britain</option>
+<option value="gangmasters-licensing-authority">Gangmasters Licensing Authority</option>
+<option value="gas-and-electricity-consumer-council-energywatch">Gas and Electricity Consumer Council (Energywatch)</option>
+<option value="general-consumer-council-for-northern-ireland">General Consumer Council for Northern Ireland</option>
+<option value="general-social-care-council">General Social Care Council</option>
+<option value="general-teaching-council-for-england">General Teaching Council for England</option>
+<option value="gloucester-education-action-zone">Gloucester Education Action Zone</option>
+<option value="government-car-and-despatch-agency">Government Car and Despatch Agency</option>
+<option value="civil-service-government-legal-service">Government Legal Service</option>
+<option value="government-procurement-service">Government Procurement Service</option>
+<option value="gowers-review-of-intellectual-property">Gowers Review of Intellectual Property</option>
+<option value="great-yarmouth-education-action-zone">Great Yarmouth Education Action Zone</option>
+<option value="greenwich-education-action-zone">Greenwich Education Action Zone</option>
+<option value="hm-customs-and-excise">H.M. Customs and Excise</option>
+<option value="hm-inspectorate-of-court-administration">H.M. Inspectorate of Court Administration</option>
+<option value="hm-inspectorate-of-explosives-for-northern-ireland">H.M. Inspectorate of Explosives for Northern Ireland</option>
+<option value="hm-court-service">HM Courts Service</option>
+<option value="hm-inspectorate-of-constabulary">HM Inspectorate of Constabulary</option>
+<option value="hackney-education-action-zone">Hackney Education Action Zone</option>
+<option value="hamilton-oxford-education-action-zone">Hamilton Oxford Education Action Zone</option>
+<option value="hastings-and-st-leonards-education-action-zone">Hastings and St Leonards Education Action Zone</option>
+<option value="health-protection-agency">Health Protection Agency</option>
+<option value="health-and-social-care-information-centre">Health and Social Care Information Centre</option>
+<option value="healthcare-commission">Healthcare Commission</option>
+<option value="hearing-aid-council">Hearing Aid Council</option>
+<option value="heart-of-slough-education-action-zone">Heart of Slough Education Action Zone</option>
+<option value="her-majestys-magistrates-courts-service-inspectorate">Her Majesty's Magistrates Courts Service Inspectorate</option>
+<option value="higher-education-funding-council-for-england">Higher Education Funding Council for England</option>
+<option value="highways-agency">Highways Agency</option>
+<option value="hillsborough-independent-panel">Hillsborough Independent Panel</option>
+<option value="home-grown-cereals-authority">Home-Grown Cereals Authority</option>
+<option value="homes-and-communities-agency">Homes and Communities Agency</option>
+<option value="horticultural-development-council">Horticultural Development Council</option>
+<option value="housing-corporation">Housing Corporation</option>
+<option value="hybu-cig-cymru-meat-promotion-wales">Hybu Cig Cymru - Meat Promotion Wales</option>
+<option value="icl-inquiry">ICL Inquiry</option>
+<option value="identity-and-passport-service">Identity and Passport Service</option>
+<option value="independent-living-fund">Independent Living Fund</option>
+<option value="independent-monitoring-commission">Independent Monitoring Commission</option>
+<option value="independent-police-complaint-commission">Independent Police Complaints Commission</option>
+<option value="independent-review-of-police-officer-and-staff-remuneration-and-conditions">Independent Review of Police Officer and Staff Remuneration and Conditions</option>
+<option value="independent-review-of-the-uk-postal-services-sector">Independent Review of the UK Postal Services Sector</option>
+<option value="independent-safeguarding-authority">Independent Safeguarding Authority</option>
+<option value="independent-television-commission">Independent Television Commission</option>
+<option value="information-services-division-scotland">Information Services Division (Scotland)</option>
+<option value="infrastructure-planning-commission">Infrastructure Planning Commission</option>
+<option value="infrastructure-uk">Infrastructure UK</option>
+<option value="inquiry-into-the-supervision-of-the-bank-of-credit-and-commerce-international">Inquiry into the supervision of the Bank of Credit and Commerce International</option>
+<option value="insolvency-practitioners-tribunal">Insolvency Practitioners Tribunal</option>
+<option value="institute-for-apprenticeships">Institute for Apprenticeships </option>
+<option value="interception-of-communications-commissioner">Interception of Communications Commissioner</option>
+<option value="investors-in-people-uk">Investors in People UK</option>
+<option value="jeffrey-review">The Jeffrey Review</option>
+<option value="kent-and-somerset-education-action-zone">Kent and Somerset Education Action Zone</option>
+<option value="kerr-haslam-inquiry">Kerr / Haslam Inquiry</option>
+<option value="kitts-green-and-shard-end-education-action-zone">Kitts Green and Shard End Education Action Zone</option>
+<option value="labour-relations-agency">Labour Relations Agency</option>
+<option value="land-registers-of-northern-ireland">Land Registers of Northern Ireland</option>
+<option value="learning-and-skills-council">Learning and Skills Council</option>
+<option value="legal-aid-board">Legal Aid Board</option>
+<option value="legal-services-commission">Legal Services Commission</option>
+<option value="leigh-park-education-action-zone">Leigh Park Education Action Zone</option>
+<option value="leitch-review-of-skills">Leitch Review of Skills</option>
+<option value="leveson-inquiry">Leveson Inquiry</option>
+<option value="life-sentence-review-commissioners">Life Sentence Review Commissioners</option>
+<option value="local-better-regulation-office">Local Better Regulation Office</option>
+<option value="london-thames-gateway-development-corporation">London Thames Gateway Development Corporation</option>
+<option value="lord-chancellors-department">Lord Chancellor's Department</option>
+<option value="loughs-agency">Loughs Agency</option>
+<option value="lyons-inquiry-into-local-government">Lyons Inquiry into Local Government</option>
+<option value="marine-fisheries-agency">Marine Fisheries Agency</option>
+<option value="mckay-commission">The McKay Commission</option>
+<option value="meat-hygiene-service">Meat Hygiene Service</option>
+<option value="meat-and-livestock-commission">Meat and Livestock Commission</option>
+<option value="medical-supplies-agency">Medical Supplies Agency</option>
+<option value="mental-health-act-commission">Mental Health Act Commission</option>
+<option value="mid-staffordshire-nhs-foundation-trust-public-inquiry-2010">Mid Staffordshire NHS Foundation Trust Public Inquiry 2010</option>
+<option value="mid-staffordshire-nhs-foundation-trust-public-inquiry">Mid Staffordshire NHS Foundation Trust Public Inquiry 2013</option>
+<option value="milk-development-council">Milk Development Council</option>
+<option value="millennium-commission">Millennium Commission</option>
+<option value="ministry-of-defence-police-and-guarding-agency">Ministry of Defence Police and Guarding Agency</option>
+<option value="monitor">Monitor</option>
+<option value="monopolies-and-mergers-commission">Monopolies and Mergers Commission</option>
+<option value="mull-of-kintyre-review">Mull of Kintyre Review</option>
+<option value="museums-libraries-and-archives-council">Museums, Libraries and Archives Council</option>
+<option value="nhs-appointments-commission">NHS Appointments Commission</option>
+<option value="nhs-direct-national-health-service-trust">NHS Direct National Health Service Trust</option>
+<option value="nhs-estates">NHS Estates</option>
+<option value="nhs-information-centre">NHS Information Centre</option>
+<option value="nhs-institute-for-innovation-and-improvement">NHS Institute for Innovation and Improvement</option>
+<option value="nhs-logistics-authority">NHS Logistics Authority</option>
+<option value="nhs-pensions-agency">NHS Pensions Agency</option>
+<option value="nhs-professionals">NHS Professionals</option>
+<option value="nhs-purchasing-and-supply-agency">NHS Purchasing and Supply Agency</option>
+<option value="nhs-trust-development-authority">NHS Trust Development Authority</option>
+<option value="national-biological-standards-board">National Biological Standards Board</option>
+<option value="national-blood-authority">National Blood Authority</option>
+<option value="national-care-standards-commission">National Care Standards Commission</option>
+<option value="national-college-for-school-leadership">National College for School Leadership</option>
+<option value="national-college-for-teaching-and-leadership">National College for Teaching and Leadership</option>
+<option value="national-crime-squad">National Crime Squad</option>
+<option value="national-criminal-intelligence-service">National Criminal Intelligence Service</option>
+<option value="national-dna-database-ethics-group">National DNA Database Ethics Group</option>
+<option value="national-employer-advisory-board">National Employer Advisory Board</option>
+<option value="national-endowment-for-science-technology-and-the-arts">National Endowment for Science, Technology and the Arts</option>
+<option value="national-fraud-authority">National Fraud Authority</option>
+<option value="national-measurement-office">National Measurement Office</option>
+<option value="national-measurement-and-regulation-office">National Measurement and Regulation Office</option>
+<option value="national-museums-and-galleries-of-northern-ireland">National Museums and Galleries of Northern Ireland</option>
+<option value="national-museums-of-scotland">National Museums of Scotland</option>
+<option value="national-offender-management-service">National Offender Management Service</option>
+<option value="national-patient-safety-agency">National Patient Safety Agency</option>
+<option value="national-policing-improvement-agency">National Policing Improvement Agency</option>
+<option value="national-radiological-protection-board">National Radiological Protection Board</option>
+<option value="national-records-of-scotland">National Records of Scotland</option>
+<option value="national-school-of-government">National School of Government</option>
+<option value="national-treatment-agency-for-substance-misuse">National Treatment Agency for Substance Misuse</option>
+<option value="national-weights-and-measures-laboratory">National Weights and Measures Laboratory</option>
+<option value="natural-resources-institute">Natural Resources Institute</option>
+<option value="nature-conservancy-council">Nature Conservancy Council</option>
+<option value="new-opportunities-fund">New Opportunities Fund</option>
+<option value="nimrod-review">Nimrod Review</option>
+<option value="north-east-derbyshire-coalfields-education-action-zone">North East Derbyshire Coalfields Education Action Zone</option>
+<option value="north-east-education-and-library-board">North East Education and Library Board</option>
+<option value="north-gillingham-education-action-zone">North Gillingham Education Action Zone</option>
+<option value="north-islington-education-action-zone">North Islington Education Action Zone</option>
+<option value="north-stockton-education-action-zone">North Stockton Education Action Zone</option>
+<option value="north-west-development-agency">North West Development Agency</option>
+<option value="north-west-shropshire-education-action-zone">North West Shropshire Education Action Zone</option>
+<option value="northern-health-and-social-services-board">Northern Health and Social Services Board</option>
+<option value="northern-ireland-audit-office">Northern Ireland Audit Office</option>
+<option value="northern-ireland-authority-for-energy-regulation">Northern Ireland Authority for Energy Regulation</option>
+<option value="northern-ireland-child-support-agency">Northern Ireland Child Support Agency</option>
+<option value="northern-ireland-commissioner-for-children-and-young-people">Northern Ireland Commissioner for Children and Young People</option>
+<option value="northern-ireland-court-service">Northern Ireland Court Service</option>
+<option value="northern-ireland-health-and-social-services-estates-agency">Northern Ireland Health and Social Services Estates Agency</option>
+<option value="northern-ireland-judicial-appointments-commission">Northern Ireland Judicial Appointments Commission</option>
+<option value="northern-ireland-judicial-appointments-ombudsman">Northern Ireland Judicial Appointments Ombudsman</option>
+<option value="northern-ireland-law-commission">Northern Ireland Law Commission</option>
+<option value="northern-ireland-legal-services-commission">Northern Ireland Legal Services Commission</option>
+<option value="northern-ireland-local-government-officers-superannuation-committee">Northern Ireland Local Government Officers' Superannuation Committee</option>
+<option value="northern-ireland-ombudsman">Northern Ireland Ombudsman</option>
+<option value="northern-ireland-police-fund">Northern Ireland Police Fund</option>
+<option value="northern-ireland-practice-and-education-council">Northern Ireland Practice and Education Council</option>
+<option value="northern-ireland-prison-service">Northern Ireland Prison Service</option>
+<option value="northern-ireland-social-care-council">Northern Ireland Social Care Council</option>
+<option value="northern-ireland-social-security-agency">Northern Ireland Social Security Agency</option>
+<option value="northern-ireland-tourist-board">Northern Ireland Tourist Board</option>
+<option value="northwest-business-link">Northwest Business Link</option>
+<option value="northwest-regional-development-agency">Northwest Regional Development Agency</option>
+<option value="ogcbuyingsolutions">OGCbuyingsolutions</option>
+<option value="office-for-criminal-justice-reform">Office for Criminal Justice Reform</option>
+<option value="office-for-fair-access">Office for Fair Access</option>
+<option value="office-for-tenants-and-social-landlords">Office for Tenants and Social Landlords</option>
+<option value="office-of-fair-trading">Office of Fair Trading</option>
+<option value="office-of-hm-paymaster-general">Office of HM Paymaster General</option>
+<option value="office-of-rail-regulation">Office of Rail Regulation</option>
+<option value="office-of-surveillance-commissioners">Office of Surveillance Commissioners</option>
+<option value="office-of-telecommunications">Office of Telecommunications</option>
+<option value="office-of-the-chief-electoral-officer-for-northern-ireland">Office of the Chief Electoral Officer for Northern Ireland</option>
+<option value="office-of-the-commissioner-for-protection-against-unlawful-industrial-action">Office of the Commissioner for Protection Against Unlawful Industrial Action</option>
+<option value="office-of-the-commissioner-for-the-rights-of-trade-union-members">Office of the Commissioner for the Rights of Trade Union Members</option>
+<option value="office-of-the-data-protection-registrar">Office of the Data Protection Registrar</option>
+<option value="office-of-the-first-minister-and-deputy-first-minister">Office of the First Minister and Deputy First Minister</option>
+<option value="office-of-the-health-professions-adjudicator">Office of the Health Professions Adjudicator</option>
+<option value="office-of-the-identity-commissioner">Office of the Identity Commissioner</option>
+<option value="office-of-the-lay-observer">Office of the Lay Observer</option>
+<option value="office-of-the-legal-services-complaints-commissioner">Office of the Legal Services Complaints Commissioner</option>
+<option value="office-of-the-legal-services-ombudsman">Office of the Legal Services Ombudsman</option>
+<option value="office-of-the-oversight-commissioner">Office of the Oversight Commissioner</option>
+<option value="oftel">Oftel</option>
+<option value="olympic-delivery-authority">Olympic Delivery Authority</option>
+<option value="one-north-east">One North East</option>
+<option value="ordnance-survey-of-northern-ireland">Ordnance Survey of Northern Ireland</option>
+<option value="parliamentary-contributory-pension-fund">Parliamentary Contributory Pension Fund</option>
+<option value="parole-commissioners-for-northern-ireland">Parole Commissioners for Northern Ireland</option>
+<option value="particle-physics-and-astronomy-research-council">Particle Physics and Astronomy Research Council</option>
+<option value="passenger-focus">Passenger Focus</option>
+<option value="patrick-finucane-review">Patrick Finucane Review</option>
+<option value="pension-service">Pension Service</option>
+<option value="pension-disability-and-carers-service">Pension, Disability and Carers Service</option>
+<option value="people-pay-and-pensions-agency">People, Pay and Pensions Agency</option>
+<option value="personal-accounts-delivery-authority">Personal Accounts Delivery Authority</option>
+<option value="pesticides-safety-directorate">Pesticides Safety Directorate</option>
+<option value="peterlee-education-action-zone">Peterlee Education Action Zone</option>
+<option value="phoenix-sports">Phoenix Sports</option>
+<option value="planning-service">Planning Service</option>
+<option value="plymouth-education-action-zone">Plymouth Education Action Zone</option>
+<option value="police-arbitration-tribunal">Police Arbitration Tribunal</option>
+<option value="police-complaints-authority">Police Complaints Authority</option>
+<option value="police-information-technology-organisation">Police Information Technology Organisation</option>
+<option value="police-negotiating-board">Police Negotiating Board</option>
+<option value="polytechnics-and-colleges-funding-council">Polytechnics and Colleges Funding Council</option>
+<option value="postal-services-commission">Postal Services Commission</option>
+<option value="postgraduate-medical-education-and-training-board">Postgraduate Medical Education and Training Board</option>
+<option value="prescription-pricing-authority">Prescription Pricing Authority</option>
+<option value="professional-oversight-board">Professional Oversight Board</option>
+<option value="public-accounts-commission">Public Accounts Commission</option>
+<option value="public-health-laboratory-service-board">Public Health Laboratory Service Board</option>
+<option value="public-lending-right-office">Public Lending Right Office</option>
+<option value="qualifications-and-curriculum-authority">Qualifications and Curriculum Authority</option>
+<option value="qualifications-and-curriculum-development-agency">Qualifications and Curriculum Development Agency</option>
+<option value="railway-heritage-committee">Railway Heritage Committee</option>
+<option value="redfern-inquiry">Redfern Inquiry</option>
+<option value="regeneration-investment-organisation">Regeneration Investment Organisation</option>
+<option value="regulatory-delivery">Regulatory Delivery</option>
+<option value="remploy-ltd">Remploy Ltd</option>
+<option value="renewable-fuels-agency">Renewable Fuels Agency</option>
+<option value="rent-service">Rent Service</option>
+<option value="revenue-and-customs-prosecutions-office">Revenue and Customs Prosecutions Office</option>
+<option value="review-board-for-government-contracts">Review Board for Government Contracts</option>
+<option value="review-body-for-nursing-and-other-health-professions">Review Body for Nursing and Other Health Professions</option>
+<option value="rivers-agency">Rivers Agency</option>
+<option value="roads-service">Roads Service</option>
+<option value="rosemary-nelson-inquiry">Rosemary Nelson Inquiry</option>
+<option value="royal-commission-on-criminal-justice">Royal Commission on Criminal Justice</option>
+<option value="royal-commission-on-environmental-pollution">Royal Commission on Environmental Pollution</option>
+<option value="royal-liverpool-childrens-inquiry">Royal Liverpool Childrens Inquiry</option>
+<option value="royal-mail">Royal Mail</option>
+<option value="royal-parks">Royal Parks</option>
+<option value="royal-trustees-office">Royal Trustees' Office</option>
+<option value="sitpro">SITPRO</option>
+<option value="school-food-trust">School Food Trust</option>
+<option value="scottish-arts-council">Scottish Arts Council</option>
+<option value="scottish-hospital-trust">Scottish Hospital Trust</option>
+<option value="scottish-law-commission">Scottish Law Commission</option>
+<option value="scottish-office">Scottish Office</option>
+<option value="scottish-screen">Scottish Screen</option>
+<option value="scottish-sports-council">Scottish Sports Council</option>
+<option value="sentence-review-commissioners">Sentence Review Commissioners</option>
+<option value="serious-organised-crime-agency">Serious Organised Crime Agency</option>
+<option value="service-children-s-education">Service Children's Education</option>
+<option value="service-complaints-commissioner">Service Complaints Commissioner</option>
+<option value="service-personnel-and-veterans-agency">Service Personnel and Veterans Agency</option>
+<option value="the-shareholder-executive">The Shareholder Executive</option>
+<option value="shipman-inquiry">Shipman Inquiry</option>
+<option value="skills-funding-agency">Skills Funding Agency</option>
+<option value="social-mobility-and-child-poverty-commission">Social Mobility and Child Poverty Commission</option>
+<option value="social-security-agency">Social Security Agency</option>
+<option value="south-bradford-education-action-zone">South Bradford Education Action Zone</option>
+<option value="south-east-england-development-agency">South East England Development Agency</option>
+<option value="south-east-england-virtual-education-action-zone">South East England Virtual Education Action Zone</option>
+<option value="south-east-sheffield-education-action-zone">South East Sheffield Education Action Zone</option>
+<option value="south-eastern-education-and-library-board">South Eastern Education and Library Board</option>
+<option value="south-west-of-england-regional-development-agency">South West of England Regional Development Agency</option>
+<option value="southend-education-action-zone">Southend Education Action Zone</option>
+<option value="southern-health-and-social-services-board">Southern Health and Social Services Board</option>
+<option value="special-eu-programmes-body">Special EU Programmes Body</option>
+<option value="speke-garston-education-action-zone">Speke Garston Education Action Zone</option>
+<option value="sports-council-for-northern-ireland">Sports Council for Northern Ireland</option>
+<option value="staff-commission-for-education-and-library-boards">Staff Commission for Education and Library Boards</option>
+<option value="standards-board-for-england">Standards Board for England</option>
+<option value="state-veterinary-service">State Veterinary Service</option>
+<option value="statistics-commission">Statistics Commission</option>
+<option value="stoke-education-action-zone">Stoke Education Action Zone</option>
+<option value="strategic-rail-authority">Strategic Rail Authority</option>
+<option value="sunderland-education-action-zone">Sunderland Education Action Zone</option>
+<option value="sutherland-inquiry">Sutherland Inquiry</option>
+<option value="technology-strategy-board">Technology Strategy Board</option>
+<option value="telford-and-wrekin-education-action-zone">Telford and Wrekin Education Action Zone</option>
+<option value="tenant-services-authority">Tenant Services Authority</option>
+<option value="third-party-campaigning-review">Third Party Campaigning Review</option>
+<option value="thurrock-thames-gateway-development-corporation">Thurrock Thames Gateway Development Corporation</option>
+<option value="training-and-development-agency-for-schools">Training and Development Agency for Schools</option>
+<option value="treasury-solicitor-s-department">Treasury Solicitor’s Department</option>
+<option value="trust-ports">Trust ports</option>
+<option value="uk-border-agency">UK Border Agency</option>
+<option value="uk-commission-for-employment-and-skills">UK Commission for Employment and Skills</option>
+<option value="uk-film-council">UK Film Council</option>
+<option value="uk-government-decontamination-service">UK Government Decontamination Service</option>
+<option value="uk-green-investment-bank">UK Green Investment Bank</option>
+<option value="uk-passport-service">UK Passport Service</option>
+<option value="uk-trade-investment">UK Trade & Investment</option>
+<option value="uk-transplant">UK Transplant</option>
+<option value="ukti-education">UKTI Education</option>
+<option value="ukti-life-sciences-organisation">UKTI Life Sciences Organisation</option>
+<option value="united-kingdom-blood-transfusion-services">United Kingdom Blood Transfusion Services</option>
+<option value="valuation-and-lands-agency">Valuation and Lands Agency</option>
+<option value="varney-review">Varney Review</option>
+<option value="vehicle-and-operator-services-agency">Vehicle and Operator Services Agency</option>
+<option value="veterinary-laboratories-agency">Veterinary Laboratories Agency</option>
+<option value="veterinary-residues-committee">Veterinary Residues Committee</option>
+<option value="victim-s-advisory-panel">Victims' Advisory Panel</option>
+<option value="victoria-climbi_-inquiry">Victoria Climbié Inquiry</option>
+<option value="wakefield-education-action-zone">Wakefield Education Action Zone</option>
+<option value="warship-support-agency">Warship Support Agency</option>
+<option value="water-service-northern-ireland">Water Service (Northern Ireland)</option>
+<option value="waterways-ireland">Waterways Ireland</option>
+<option value="wave-hub">Wave Hub</option>
+<option value="wednesbury-education-action-zone">Wednesbury Education Action Zone</option>
+<option value="welsh-development-agency">Welsh Development Agency</option>
+<option value="welsh-office">Welsh Office</option>
+<option value="the-west-northamptonshire-development-corporation">West Northamptonshire Development Corporation</option>
+<option value="western-education-and-library-board">Western Education and Library Board</option>
+<option value="western-health-and-social-services-board">Western Health and Social Services Board</option>
+<option value="westminster-education-action-zone">Westminster Education Action Zone</option>
+<option value="withernsea-and-southern-holderness-education-action-zone">Withernsea and Southern Holderness Education Action Zone</option>
+<option value="wolverhampton-education-action-zone">Wolverhampton Education Action Zone</option>
+<option value="working-ventures-uk">Working Ventures UK</option>
+<option value="wythenshawe-education-action-zone">Wythenshawe Education Action Zone</option>
+<option value="yorkshire-forward">Yorkshire Forward</option>
+<option value="young-peoples-learning-agency">Young People's Learning Agency</option>
+<option value="youth-justice-agency-of-northern-ireland">Youth Justice Agency of Northern Ireland</option>
+<option value="zahid-mubarek-inquiry">Zahid Mubarek Inquiry</option>
+</optgroup></select>
+          </div>
+
+
+
+
+
+          <div class="filter date-range-filter">
+            <label for="from_date">Published after</label>
+            <input type="text" name="from_date" id="from_date" placeholder="e.g. 01/01/2013"></input>
+            <label for="to_date">Published before</label>
+            <input type="text" name="to_date" id="to_date" placeholder="e.g. 28/02/2013"></input>
+          </div>
+
+        <input type="submit" name="commit" value="Refresh results" class="button" data-disable-with="Refresh results"></input>
+      </fieldset>
+    </form>
+  </div>
+</div>
+
+
+  <div class="filter-results-block">
+    <div class="inner-block">
+        <div class="filter-results-summary">
+  <span class="count">59</span> <strong>statistics</strong>
+<span class="taxons-selections">
+</span>
+<span class="topics-selections">
+</span>
+<span class="departments-selections">
+    by <strong>Department for International Trade</strong> <a href="/government/statistics?publication_filter_option=statistics" data-field="departments" data-val="department-for-international-trade" title="Remove Department for International Trade filter">×</a> 
+</span>
+<span class="people-selections">
+</span>
+
+
+
+
+
+
+</div>
+
+
+        <div class="feeds">
+    <span>Get updates to this list</span>
+    <a class="govdelivery" href="/government/email-signup/new?email_signup%5Bfeed%5D=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fstatistics.atom%3Fdepartments%255B%255D%3Ddepartment-for-international-trade%26publication_filter_option%3Dstatistics">email</a> <a class="feed js-feed" href="https://www.gov.uk/government/statistics.atom?departments%5B%5D=department-for-international-trade&publication_filter_option=statistics">feed</a>
+    <div class="feed-panel js-feed-panel">
+      <h3>Copy and paste this URL in to your feed reader</h3>
+      <input value="https://www.gov.uk/government/statistics.atom?departments%5B%5D=department-for-international-trade&publication_filter_option=statistics"></input>
+    </div>
+  </div>
+
+      <div class="filter-results js-filter-results" aria-live="polite">
+          <ol class="js-document-list document-list" data-module="track-click">
+      <li id="publication_944275" class="document-row">
+        <h3>
+          <a href="/government/statistics/trade-and-investment-core-statistics-book" data-category="navStatisticLinkClicked" data-action="1" data-label="/government/statistics/trade-and-investment-core-statistics-book" data-options="{"dimension28":"40","dimension29":"Trade and investment core statistics book"}">Trade and investment core statistics book</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-04-04T09:30:01+01:00"> 4 April 2019</time></li>
+          <li class="organisations"><abbr title="Department for International Trade">DIT</abbr></li>
+          <li class="display-type">Official Statistics</li>
+        </ul>
+      </li>
+      <li id="publication_943931" class="document-row">
+        <h3>
+          <a href="/government/statistics/uk-trade-in-numbers" data-category="navStatisticLinkClicked" data-action="2" data-label="/government/statistics/uk-trade-in-numbers" data-options="{"dimension28":"40","dimension29":"UK trade in numbers"}">UK trade in numbers</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-04-02T16:21:12+01:00"> 2 April 2019</time></li>
+          <li class="organisations"><abbr title="Department for International Trade">DIT</abbr></li>
+          <li class="display-type">Official Statistics</li>
+        </ul>
+      </li>
+      <li id="publication_938101" class="document-row">
+        <h3>
+          <a href="/government/statistics/greatgovuk-performance-dashboard" data-category="navStatisticLinkClicked" data-action="3" data-label="/government/statistics/greatgovuk-performance-dashboard" data-options="{"dimension28":"40","dimension29":"great.gov.uk performance dashboard"}">great.gov.uk performance dashboard</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-03-21T09:31:39+00:00">21 March 2019</time></li>
+          <li class="organisations"><abbr title="Department for International Trade">DIT</abbr></li>
+          <li class="display-type">Official Statistics</li>
+        </ul>
+      </li>
+      <li id="publication_915497" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-2014" data-category="navStatisticLinkClicked" data-action="4" data-label="/government/statistics/strategic-export-controls-licensing-statistics-2014" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 2014"}">Strategic export controls: licensing statistics, 2014</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_915526" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2016" data-category="navStatisticLinkClicked" data-action="5" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2016" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 October to 31 December 2016"}">Strategic export controls: licensing statistics, 1 October to 31 December 2016</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_915542" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2017" data-category="navStatisticLinkClicked" data-action="6" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2017" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 October to 31 December 2017"}">Strategic export controls: licensing statistics, 1 October to 31 December 2017</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_915436" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2018" data-category="navStatisticLinkClicked" data-action="7" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2018" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 July to 30 September 2018"}">Strategic export controls: licensing statistics, 1 July to 30 September 2018</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_915513" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-2016" data-category="navStatisticLinkClicked" data-action="8" data-label="/government/statistics/strategic-export-controls-licensing-statistics-2016" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 2016"}">Strategic export controls: licensing statistics, 2016</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_915539" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2017" data-category="navStatisticLinkClicked" data-action="9" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2017" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 July to 30 September 2017"}">Strategic export controls: licensing statistics, 1 July to 30 September 2017</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_915519" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2016" data-category="navStatisticLinkClicked" data-action="10" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2016" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 January to 31 March 2016"}">Strategic export controls: licensing statistics, 1 January to 31 March 2016</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_915557" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2018" data-category="navStatisticLinkClicked" data-action="11" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2018" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 April to 30 June 2018"}">Strategic export controls: licensing statistics, 1 April to 30 June 2018</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_915532" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-2017" data-category="navStatisticLinkClicked" data-action="12" data-label="/government/statistics/strategic-export-controls-licensing-statistics-2017" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 2017"}">Strategic export controls: licensing statistics, 2017</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_915502" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2014" data-category="navStatisticLinkClicked" data-action="13" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2014" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 July to 30 September 2014"}">Strategic export controls: licensing statistics, 1 July to 30 September 2014</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2019-01-15T09:30:10+00:00">15 January 2019</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_888632" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2017" data-category="navStatisticLinkClicked" data-action="14" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2017" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 April to 30 June 2017"}">Strategic export controls: licensing statistics, 1 April to 30 June 2017</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-10-16T09:30:21+01:00">16 October 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_888579" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2015" data-category="navStatisticLinkClicked" data-action="15" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2015" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 April to 30 June 2015"}">Strategic export controls: licensing statistics, 1 April to 30 June 2015</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-10-16T09:30:21+01:00">16 October 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_888588" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2015" data-category="navStatisticLinkClicked" data-action="16" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2015" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 July to 30 September 2015"}">Strategic export controls: licensing statistics, 1 July to 30 September 2015</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-10-16T09:30:21+01:00">16 October 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_888549" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-data-report-1-april-to-30-june-2013" data-category="navStatisticLinkClicked" data-action="17" data-label="/government/statistics/strategic-export-controls-licensing-data-report-1-april-to-30-june-2013" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 April to 30 June 2013"}">Strategic export controls: licensing statistics, 1 April to 30 June 2013</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-10-16T09:30:21+01:00">16 October 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_888539" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-data-report-2013" data-category="navStatisticLinkClicked" data-action="18" data-label="/government/statistics/strategic-export-controls-licensing-data-report-2013" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 2013"}">Strategic export controls: licensing statistics, 2013</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-10-16T09:30:21+01:00">16 October 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_888626" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2017" data-category="navStatisticLinkClicked" data-action="19" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2017" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 January to 31 March 2017"}">Strategic export controls: licensing statistics, 1 January to 31 March 2017</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-10-16T09:30:21+01:00">16 October 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_888647" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2018" data-category="navStatisticLinkClicked" data-action="20" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2018" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 January to 31 March 2018"}">Strategic export controls: licensing statistics, 1 January to 31 March 2018</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-10-16T09:30:21+01:00">16 October 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_888575" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-2015" data-category="navStatisticLinkClicked" data-action="21" data-label="/government/statistics/strategic-export-controls-licensing-statistics-2015" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 2015"}">Strategic export controls: licensing statistics, 2015</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-10-16T09:30:21+01:00">16 October 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_861277" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2016" data-category="navStatisticLinkClicked" data-action="22" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2016" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 July to 30 September 2016"}">Strategic export controls: licensing statistics, 1 July to 30 September 2016</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-07-17T09:30:02+01:00">17 July 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_861267" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2016" data-category="navStatisticLinkClicked" data-action="23" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2016" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 April to 30 June 2016"}">Strategic export controls: licensing statistics, 1 April to 30 June 2016</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-07-17T09:30:01+01:00">17 July 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_861243" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2015" data-category="navStatisticLinkClicked" data-action="24" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2015" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 October to 31 December 2015"}">Strategic export controls: licensing statistics, 1 October to 31 December 2015</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-07-17T09:30:01+01:00">17 July 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_801384" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-data-report-1-july-to-30-september-2013" data-category="navStatisticLinkClicked" data-action="25" data-label="/government/statistics/strategic-export-controls-licensing-data-report-1-july-to-30-september-2013" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 July to 30 September 2013"}">Strategic export controls: licensing statistics, 1 July to 30 September 2013</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-07-17T09:30:01+01:00">17 July 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_876768" class="document-row">
+        <h3>
+          <a href="/government/statistics/department-for-international-trade-inward-investment-results-2017-to-2018" data-category="navStatisticLinkClicked" data-action="26" data-label="/government/statistics/department-for-international-trade-inward-investment-results-2017-to-2018" data-options="{"dimension28":"40","dimension29":"Department for International Trade inward investment results 2017 to 2018"}">Department for International Trade inward investment results 2017 to 2018</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-06-26T09:30:00+01:00">26 June 2018</time></li>
+          <li class="organisations"><abbr title="Department for International Trade">DIT</abbr></li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/dit-inward-investment-results">DIT inward investment results</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_849439" class="document-row">
+        <h3>
+          <a href="/government/statistics/dit-national-survey-of-registered-businesses-exporting-behaviours-attitudes-and-needs-2017" data-category="navStatisticLinkClicked" data-action="27" data-label="/government/statistics/dit-national-survey-of-registered-businesses-exporting-behaviours-attitudes-and-needs-2017" data-options="{"dimension28":"40","dimension29":"DIT national survey of registered businesses’ exporting behaviours, attitudes and needs 2017"}">DIT national survey of registered businesses’ exporting behaviours, attitudes and needs 2017</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-06-07T09:30:00+01:00"> 7 June 2018</time></li>
+          <li class="organisations"><abbr title="Department for International Trade">DIT</abbr></li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/dit-national-survey-of-registered-businesses-exporting-behaviours-attitudes-and-needs">DIT national survey of registered businesses’ exporting behaviours, attitudes and needs</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_801454" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2015" data-category="navStatisticLinkClicked" data-action="28" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-january-to-31-march-2015" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 January to 31 March 2015"}">Strategic export controls: licensing statistics, 1 January to 31 March 2015</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-01-16T09:30:32+00:00">16 January 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_801406" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-data-report-1-january-to-31-march-2013" data-category="navStatisticLinkClicked" data-action="29" data-label="/government/statistics/strategic-export-controls-licensing-data-report-1-january-to-31-march-2013" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 January to 31 March 2013"}">Strategic export controls: licensing statistics, 1 January to 31 March 2013</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-01-16T09:30:29+00:00">16 January 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_801356" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2014" data-category="navStatisticLinkClicked" data-action="30" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-april-to-30-june-2014" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 April to 30 June 2014"}">Strategic export controls: licensing statistics, 1 April to 30 June 2014</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-01-16T09:30:28+00:00">16 January 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_801374" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-data-report-1-october-to-31-december-2013" data-category="navStatisticLinkClicked" data-action="31" data-label="/government/statistics/strategic-export-controls-licensing-data-report-1-october-to-31-december-2013" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 October to 31 December 2013"}">Strategic export controls: licensing statistics, 1 October to 31 December 2013</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-01-16T09:30:28+00:00">16 January 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_801363" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-data-report-1-january-to-31-march-2014" data-category="navStatisticLinkClicked" data-action="32" data-label="/government/statistics/strategic-export-controls-licensing-data-report-1-january-to-31-march-2014" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 January to 31 March 2014"}">Strategic export controls: licensing statistics, 1 January to 31 March 2014</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-01-16T09:30:28+00:00">16 January 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_801340" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2014" data-category="navStatisticLinkClicked" data-action="33" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2014" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 October to 31 December 2014"}">Strategic export controls: licensing statistics, 1 October to 31 December 2014</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2018-01-16T09:30:26+00:00">16 January 2018</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_774522" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2011" data-category="navStatisticLinkClicked" data-action="34" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2011" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 October to 31 December 2011"}">Strategic export controls: licensing statistics, 1 October to 31 December 2011</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2017-10-17T09:30:08+01:00">17 October 2017</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_774514" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-2011" data-category="navStatisticLinkClicked" data-action="35" data-label="/government/statistics/strategic-export-controls-licensing-statistics-2011" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 2011"}">Strategic export controls: licensing statistics, 2011</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2017-10-17T09:30:07+01:00">17 October 2017</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_854109" class="document-row">
+        <h3>
+          <a href="/government/statistics/department-for-international-trade-inward-investment-results-2016-to-2017" data-category="navStatisticLinkClicked" data-action="36" data-label="/government/statistics/department-for-international-trade-inward-investment-results-2016-to-2017" data-options="{"dimension28":"40","dimension29":"Department for International Trade inward investment results 2016 to 2017"}">Department for International Trade inward investment results 2016 to 2017</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2017-07-06T09:30:00+01:00"> 6 July 2017</time></li>
+          <li class="organisations"><abbr title="Department for International Trade">DIT</abbr></li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/dit-inward-investment-results">DIT inward investment results</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_668375" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-data-report-2012" data-category="navStatisticLinkClicked" data-action="37" data-label="/government/statistics/strategic-export-controls-licensing-data-report-2012" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 2012"}">Strategic export controls: licensing statistics, 2012</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2016-10-18T09:30:30+01:00">18 October 2016</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_668328" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2010" data-category="navStatisticLinkClicked" data-action="38" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-july-to-30-september-2010" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 July to 30 September 2010"}">Strategic export controls: licensing statistics, 1 July to 30 September 2010</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2016-10-18T09:30:29+01:00">18 October 2016</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_668335" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2010" data-category="navStatisticLinkClicked" data-action="39" data-label="/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2010" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 1 October to 31 December 2010"}">Strategic export controls: licensing statistics, 1 October to 31 December 2010</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2016-10-18T09:30:29+01:00">18 October 2016</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+      <li id="publication_668303" class="document-row">
+        <h3>
+          <a href="/government/statistics/strategic-export-controls-licensing-statistics-2010" data-category="navStatisticLinkClicked" data-action="40" data-label="/government/statistics/strategic-export-controls-licensing-statistics-2010" data-options="{"dimension28":"40","dimension29":"Strategic export controls: licensing statistics, 2010"}">Strategic export controls: licensing statistics, 2010</a>
+        </h3>
+        <ul class="attributes">
+          <li><time class="public_timestamp" datetime="2016-10-18T09:30:27+01:00">18 October 2016</time></li>
+          <li class="organisations">
+<abbr title="Export Control Joint Unit">ECJU</abbr> and <abbr title="Department for International Trade">DIT</abbr>
+</li>
+          <li class="display-type">Official Statistics</li>
+            <li class="document-collections">Part of a collection: <a href="/government/collections/strategic-export-controls-licensing-data">Strategic export controls: licensing data</a>
+</li>
+        </ul>
+      </li>
+  </ol>
+    <nav id="show-more-documents" role="navigation">
+      <ul class="previous-next-navigation">
+          <li class="next">
+            <a href="/government/statistics?departments%5B%5D=department-for-international-trade&page=2&publication_filter_option=statistics" rel="next">Next <span class="visuallyhidden">page</span> <span class="page-numbers">2 of 2</span></a>
+          </li>
+      </ul>
+    </nav>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+    </div>

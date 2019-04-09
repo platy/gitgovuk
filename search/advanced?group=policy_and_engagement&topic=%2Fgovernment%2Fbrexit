@@ -1,0 +1,507 @@
+<div id="finder-frontend" class="advanced-search">
+          
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--full-width  gem-c-inverse-header--padding-top ">
+    
+  <div class="govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--inverse" data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+  </ol>
+</div>
+
+
+      </div>
+    </div>
+
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <a class="taxon-link" href="/government/brexit">Brexit</a>
+        <div class="gem-c-title
+  gem-c-title--inverse
+  gem-c-title--margin-bottom-5">
+  <h1 class="gem-c-title__text ">
+    Policy papers and consultations
+  </h1>
+</div>
+
+
+      </div>
+
+
+    </div>
+  </div>
+
+  </header>
+
+<div class="govuk-width-container">
+  <form method="get" action="/search/advanced" class="js-live-search-form">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-third">
+        <div class="filter-form">
+    <div id="keywords">
+      
+<div class="govuk-form-group">
+    
+<label for="finder-keyword-search" class="gem-c-label govuk-label">
+          Search <span class="govuk-visually-hidden">Latest on GOV.UK</span>
+
+</label>
+
+
+
+
+  <input name="keywords" value class="gem-c-input govuk-input" id="finder-keyword-search" type="text" aria-controls="js-search-results-info"></input>
+</div>
+    </div>
+
+  <div data-module="track-click" data-track-category="filterClicked" data-track-action="skip-Link" data-track-label>
+    <a class="gem-c-skip-link govuk-skip-link" href="#js-results">Skip to results</a>
+
+  </div>
+
+    <div data-module="gem-toggle" data-toggle-class="facet-toggle__content--hide" class="facet-toggle--only-on-mobile">
+      <a href="#" class="facet-toggle" data-controls="facet-wrapper" data-expanded="false" data-track-category="filterClicked" data-track-action="accordion" data-toggled-text="- Show fewer search options">
+        + Show more search options
+      </a>
+
+      <div id="facet-wrapper" class="facet-toggle__content facet-toggle__content--hide">
+          
+
+<div class="app-c-option-select" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-publication-type">
+      Publication type
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-publication-type" class="app-c-option-select__container js-options-container" id="subgroup">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-7802743b" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Publication type</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-policy" value="policy" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Policy papers" data-controls="js-search-results-info"></input><label for="subgroup-policy" class="govuk-label govuk-checkboxes__label">Policy papers</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="subgroup[]" id="subgroup-consultations" value="consultations" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Publication type" data-track-label="Consultations" data-controls="js-search-results-info"></input><label for="subgroup-consultations" class="govuk-label govuk-checkboxes__label">Consultations</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  <div class="app-c-date-filter" id="public_timestamp" data-module="enable-aria-controls">
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[from]" class="gem-c-label govuk-label">
+  Publication date after
+</label>
+
+
+    
+<span id="hint-1b9da765" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[from]" value class="gem-c-input govuk-input" id="public_timestamp[from]" type="text" aria-describedby="hint-1b9da765" aria-controls="js-search-results-info"></input>
+</div>
+
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[to]" class="gem-c-label govuk-label">
+  Publication date before
+</label>
+
+
+    
+<span id="hint-c34d2586" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[to]" value class="gem-c-input govuk-input" id="public_timestamp[to]" type="text" aria-describedby="hint-c34d2586" aria-controls="js-search-results-info"></input>
+</div>
+  </div>
+
+  <input type="hidden" name="topic" id="topic" value="/government/brexit"></input>
+  <input type="hidden" name="group" id="group" value="policy_and_engagement"></input>
+  <input type="hidden" name="organisations" id="organisations"></input>
+
+      </div>
+    </div>
+
+  <div class="js-live-search-fallback button__wrapper">
+    
+  <button class="gem-c-button govuk-button gem-c-button--bottom-margin" type="submit">Filter results</button>
+
+
+  </div>
+</div>
+
+      </div>
+
+      <div class="govuk-grid-column-two-thirds">
+        <div class="js-live-search-results-block">
+          <div class="filtered-results">
+            <div aria-live="assertive" id="js-search-results-info">
+              <p class="result-info">
+  <strong>123 results in policy papers and consultations</strong>
+</p>
+
+            </div>
+            <div id="js-results">
+              
+<ul data-module="track-click" class="finder-results">
+    <li class="document">
+      <a href="/government/publications/policy-paper-on-the-rights-of-uk-nationals-in-the-eu" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.1" data-track-label="/government/publications/policy-paper-on-the-rights-of-uk-nationals-in-the-eu" data-track-options="{"dimension28":"20","dimension29":"Policy paper on the rights of UK nationals in the EU"}">Policy paper on the rights of UK nationals in the EU</a>
+        <p>Policy paper outlining the UK Government's action to protect the rights of UK nationals living in the EU.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-04-04">4 April 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/policy-paper-on-citizens-rights-in-the-event-of-a-no-deal-brexit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.2" data-track-label="/government/publications/policy-paper-on-citizens-rights-in-the-event-of-a-no-deal-brexit" data-track-options="{"dimension28":"20","dimension29":"Policy paper on citizens' rights in the event of a no deal Brexit"}">Policy paper on citizens' rights in the event of a no deal Brexit</a>
+        <p>Policy paper outlining the UK Government's action to protect citizens' rights in the event that the UK leaves the EU without a deal.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-28">28 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/hmrc-impact-assessment-for-vat-and-services-if-the-uk-leaves-the-eu-without-a-deal" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.3" data-track-label="/government/publications/hmrc-impact-assessment-for-vat-and-services-if-the-uk-leaves-the-eu-without-a-deal" data-track-options="{"dimension28":"20","dimension29":"HMRC impact assessment for VAT and services if the UK leaves the EU without a deal"}">HMRC impact assessment for VAT and services if the UK leaves the EU without a deal</a>
+        <p>Leaving the EU without a negotiated settlement is not the government’s preferred outcome, but it's essential that the UK is prepared for all possible eventualities on customs, VAT and excise arrangements.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-27">27 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          HM Revenue & Customs
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Impact assessment
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/tax-information-and-impact-note-for-the-uk-tariff-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.4" data-track-label="/government/publications/tax-information-and-impact-note-for-the-uk-tariff-2019" data-track-options="{"dimension28":"20","dimension29":"Tax Information and Impact Note for the UK Tariff 2019"}">Tax Information and Impact Note for the UK Tariff 2019</a>
+        <p>This Tax Information and Impact Note sets out the rules governing the classification of goods if the UK leaves the EU without an agreement.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-13">13 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          HM Revenue & Customs
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/11-march-withdrawal-agreement-and-political-declaration-laid-before-parliament-following-political-agreement" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.5" data-track-label="/government/publications/11-march-withdrawal-agreement-and-political-declaration-laid-before-parliament-following-political-agreement" data-track-options="{"dimension28":"20","dimension29":"11 March Withdrawal Agreement and Political Declaration laid before Parliament following political agreement."}">11 March Withdrawal Agreement and Political Declaration laid before Parliament following political agreement.</a>
+        <p>A Government statement confirming that political agreement has been reached on the withdrawal agreement, and the framework for the future relationship between the UK and the EU, laying these documents before Parliament.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-11">11 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/critical-goods-for-government-secured-freight-capacity" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.6" data-track-label="/government/publications/critical-goods-for-government-secured-freight-capacity" data-track-options="{"dimension28":"20","dimension29":"Critical goods for government-secured freight capacity"}">Critical goods for government-secured freight capacity</a>
+        <p>The list of critical goods that can be transported on government-secured freight capacity.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-11">11 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Environment, Food & Rural Affairs, Department for Transport, Department of Health and Social Care, Ministry of Defence, Department for Exiting the European Union, Department for Business, Energy & Industrial Strategy
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/protecting-and-enhancing-worker-rights-after-the-uk-withdrawal-from-the-european-union" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.7" data-track-label="/government/publications/protecting-and-enhancing-worker-rights-after-the-uk-withdrawal-from-the-european-union" data-track-options="{"dimension28":"20","dimension29":"Protecting and enhancing worker rights after the UK withdrawal from the European Union"}">Protecting and enhancing worker rights after the UK withdrawal from the European Union</a>
+        <p>This document sets out draft legislation regarding worker rights after the UK withdrawal from the EU.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-03-06">6 March 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Business, Energy & Industrial Strategy
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/processes-for-making-free-trade-agreements-once-the-uk-has-left-the-eu" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.8" data-track-label="/government/publications/processes-for-making-free-trade-agreements-once-the-uk-has-left-the-eu" data-track-options="{"dimension28":"20","dimension29":"Processes for making free trade agreements once the UK has left the EU"}">Processes for making free trade agreements once the UK has left the EU</a>
+        <p>This paper details processes for making free trade agreements after the United Kingdom has left the European Union.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-02-28">28 February 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for International Trade
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/ministerial-forum-communique-25-february-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.9" data-track-label="/government/publications/ministerial-forum-communique-25-february-2019" data-track-options="{"dimension28":"20","dimension29":"Ministerial Forum communiqué : 25 February 2019"}">Ministerial Forum communiqué : 25 February 2019</a>
+        <p>This summarises the eighth meeting of the Ministerial Forum (EU Negotiations), which was held in Cardiff.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-02-26">26 February 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Cabinet Office, Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/consultations/call-for-evidence-to-identify-uk-interest-in-existing-eu-trade-remedy-measures" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.10" data-track-label="/government/consultations/call-for-evidence-to-identify-uk-interest-in-existing-eu-trade-remedy-measures" data-track-options="{"dimension28":"20","dimension29":"Call for evidence to identify UK interest in existing EU trade remedy measures"}">Call for evidence to identify UK interest in existing EU trade remedy measures</a>
+        <p>A call for evidence from the Department for International Trade (DIT) to UK producers and product users. </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-02-25">25 February 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for International Trade
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Consultation outcome
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/hmrc-impact-assessment-for-the-movement-of-goods-if-the-uk-leaves-the-eu-without-a-deal" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.11" data-track-label="/government/publications/hmrc-impact-assessment-for-the-movement-of-goods-if-the-uk-leaves-the-eu-without-a-deal" data-track-options="{"dimension28":"20","dimension29":"HMRC impact assessment for the movement of goods if the UK leaves the EU without a deal"}">HMRC impact assessment for the movement of goods if the UK leaves the EU without a deal</a>
+        <p>Leaving the EU without a negotiated settlement is not the government’s preferred outcome, but it's essential that the UK is prepared for all possible eventualities on customs, VAT and excise arrangements. </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-02-25">25 February 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          HM Revenue & Customs
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Impact assessment
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/consultations/the-nutrition-amendment-eu-exit-regulations-2018" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.12" data-track-label="/government/consultations/the-nutrition-amendment-eu-exit-regulations-2018" data-track-options="{"dimension28":"20","dimension29":"The Nutrition (Amendment) (EU Exit) Regulations 2018"}">The Nutrition (Amendment) (EU Exit) Regulations 2018</a>
+        <p>Consultation seeking views on changes to nutrition regulations in the event of the UK leaving the EU with no deal.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-02-25">25 February 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department of Health and Social Care
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Consultation outcome
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/hmrc-impact-assessment-for-the-vat-treatment-of-low-value-parcels" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.13" data-track-label="/government/publications/hmrc-impact-assessment-for-the-vat-treatment-of-low-value-parcels" data-track-options="{"dimension28":"20","dimension29":"HMRC impact assessment for the VAT treatment of low value parcels"}">HMRC impact assessment for the VAT treatment of low value parcels</a>
+        <p>Leaving the EU without a negotiated settlement is not the government’s preferred outcome, but it is essential that the UK is prepared for all possible eventualities on customs, VAT and excise arrangements.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-02-25">25 February 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          HM Revenue & Customs
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Impact assessment
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/consultations/tobacco-products-and-nicotine-inhaling-products-amendment-eu-exit-regulations-2018" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.14" data-track-label="/government/consultations/tobacco-products-and-nicotine-inhaling-products-amendment-eu-exit-regulations-2018" data-track-options="{"dimension28":"20","dimension29":"Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2018"}">Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2018</a>
+        <p>The government is seeking feedback on practical changes that will affect the tobacco and e-cigarette industries if the UK leaves the EU with no deal.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-02-21">21 February 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department of Health and Social Care
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Consultation outcome
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/eea-efta-no-deal-citizens-rights-agreement-and-explainer" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.15" data-track-label="/government/publications/eea-efta-no-deal-citizens-rights-agreement-and-explainer" data-track-options="{"dimension28":"20","dimension29":"EEA EFTA No Deal Citizens' Rights Agreement and Explainer"}">EEA EFTA No Deal Citizens' Rights Agreement and Explainer</a>
+        <p>No Deal Citizens’ Rights Agreement text as agreed between the UK and the EEA EFTA states, and Explainer.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-02-08">8 February 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/communique-from-the-jmcen-07-february-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.16" data-track-label="/government/publications/communique-from-the-jmcen-07-february-2019" data-track-options="{"dimension28":"20","dimension29":"Joint Ministerial Committee (EU Negotiations) communiqué: 07 February 2019"}">Joint Ministerial Committee (EU Negotiations) communiqué: 07 February 2019</a>
+        <p>Communiqué from the JMC(EN) meeting that took place in the Cabinet Office, London.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-02-07">7 February 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Cabinet Office
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/ministerial-forum-communique-31-january-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.17" data-track-label="/government/publications/ministerial-forum-communique-31-january-2019" data-track-options="{"dimension28":"20","dimension29":"Ministerial Forum communiqué : 31 January 2019"}">Ministerial Forum communiqué : 31 January 2019</a>
+        <p>This summarises the seventh meeting of the Ministerial Forum (EU Negotiations), which was held in Edinburgh.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-01-31">31 January 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Cabinet Office, Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/eu-immigration-after-free-movement-ends-if-theres-no-deal" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.18" data-track-label="/government/publications/eu-immigration-after-free-movement-ends-if-theres-no-deal" data-track-options="{"dimension28":"20","dimension29":"EU immigration after free movement ends if there's no deal"}">EU immigration after free movement ends if there's no deal</a>
+        <p>This explains the transitional immigration arrangements for EU citizens arriving in the UK after free movement has ended if the UK leaves the EU without a deal.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-01-28">28 January 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Home Office, UK Visas and Immigration
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/consultations/rail-markets-implementing-the-market-pillar" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.19" data-track-label="/government/consultations/rail-markets-implementing-the-market-pillar" data-track-options="{"dimension28":"20","dimension29":"Rail markets: implementing the market pillar"}">Rail markets: implementing the market pillar</a>
+        <p>Implementing the market pillar, European Union directive (2016/2370/EU), plus preparing rail markets legislation for EU Exit. </p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-01-23">23 January 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Transport
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Consultation outcome
+        </li>
+      </ul>
+    </li>
+    <li class="document">
+      <a href="/government/publications/uk-government-commitments-to-northern-ireland-and-its-integral-place-in-the-united-kingdom" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.20" data-track-label="/government/publications/uk-government-commitments-to-northern-ireland-and-its-integral-place-in-the-united-kingdom" data-track-options="{"dimension28":"20","dimension29":"UK Government commitments to Northern Ireland and its integral place in the United Kingdom"}">UK Government commitments to Northern Ireland and its integral place in the United Kingdom</a>
+        <p>Publication of the UK Government commitments to Northern Ireland and its integral place in the United Kingdom.</p>
+      <ul>
+        <li class="gem-c-document-list__attribute">
+          <time datetime="2019-01-09">9 January 2019</time>
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Department for Exiting the European Union
+        </li>
+        <li class="gem-c-document-list__attribute">
+          Policy paper
+        </li>
+      </ul>
+    </li>
+</ul>
+
+<nav class="gem-c-pagination" role="navigation" aria-label="Pagination">
+  <ul class="gem-c-pagination__list" data-module="track-click">
+      <li class="gem-c-pagination__item gem-c-pagination__item--next">
+        <a href="/search/advanced?group=policy_and_engagement&page=2&topic=%2Fgovernment%2Fbrexit" class="gem-c-pagination__link" rel="next" data-track-category="contentsClicked" data-track-action="next" data-track-label="/search/advanced?group=policy_and_engagement&page=2&topic=%2Fgovernment%2Fbrexit" data-track-dimension="next" data-track-dimension-index="29">
+          <span class="gem-c-pagination__link-title">
+            <svg class="gem-c-pagination__link-icon" xmlns="http://www.w3.org/2000/svg" height="13" width="17" viewbox="0 0 17 13">
+              <path fill="currentColor" d="m10.107-0.0078125-1.4136 1.414 4.2926 4.293h-12.986v2h12.896l-4.1855 3.9766 1.377 1.4492 6.7441-6.4062-6.7246-6.7266z"></path>
+            </svg>
+            <span class="gem-c-pagination__link-text">
+              Next page
+            </span>
+          </span>
+            <span class="gem-c-pagination__link-divider visually-hidden">:</span>
+            <span class="gem-c-pagination__link-label">2 of 7</span>
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+
+        </div>

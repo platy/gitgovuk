@@ -1,0 +1,787 @@
+<div id="finder-frontend">
+          
+
+
+  
+<div class="gem-c-contextual-breadcrumbs">
+    
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs " data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+  </ol>
+</div>
+
+
+</div>
+
+
+
+<form method="get" action="/find-eu-exit-guidance-business" class="js-live-search-form">
+  <input type="hidden" name="parent" value></input>
+
+  <header class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+        <div class="gem-c-title
+  
+  gem-c-title--margin-bottom-5">
+  <h1 class="gem-c-title__text ">
+    Find EU Exit guidance for your organisation
+  </h1>
+</div>
+
+
+
+        <div class="summary">
+          
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+      This is the information that has been published so far for your organisation to prepare for EU exit. You can change what information you get using the checkboxes. Come back to this page regularly or sign up to receive emails when new information is published.
+</div>
+
+        </div>
+    </div>
+
+
+  </header>
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-one-third" role="search" aria-label="Find EU Exit guidance for your organisation">
+      <div class="filter-form">
+    <div id="keywords">
+      
+<div class="govuk-form-group">
+    
+<label for="finder-keyword-search" class="gem-c-label govuk-label">
+          Search <span class="govuk-visually-hidden">Find EU Exit guidance for your organisation</span>
+
+</label>
+
+
+
+
+  <input name="keywords" value class="gem-c-input govuk-input" id="finder-keyword-search" type="text" aria-controls="js-search-results-info"></input>
+</div>
+    </div>
+
+  <div data-module="track-click" data-track-category="filterClicked" data-track-action="skip-Link" data-track-label>
+    <a class="gem-c-skip-link govuk-skip-link" href="#js-results">Skip to results</a>
+
+  </div>
+
+    <div data-module="gem-toggle" data-toggle-class="facet-toggle__content--hide" class="facet-toggle--only-on-mobile">
+      <a href="#" class="facet-toggle" data-controls="facet-wrapper" data-expanded="false" data-track-category="filterClicked" data-track-action="accordion" data-toggled-text="- Show fewer search options">
+        + Show more search options
+      </a>
+
+      <div id="facet-wrapper" class="facet-toggle__content facet-toggle__content--hide">
+          
+
+<div class="app-c-option-select" data-closed-on-load="true" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-sector-organisation-area">
+      Sector / Organisation Area
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-sector-organisation-area" class="app-c-option-select__container js-options-container" id="sector_business_area">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-7701cd12" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Sector / Organisation Area</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-accommodation" value="accommodation" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Accommodation" data-controls="js-search-results-info"></input><label for="sector_business_area-accommodation" class="govuk-label govuk-checkboxes__label">Accommodation</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-aerospace" value="aerospace" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Aerospace" data-controls="js-search-results-info"></input><label for="sector_business_area-aerospace" class="govuk-label govuk-checkboxes__label">Aerospace</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-agriculture" value="agriculture" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Agriculture and forestry (including wholesale)" data-controls="js-search-results-info"></input><label for="sector_business_area-agriculture" class="govuk-label govuk-checkboxes__label">Agriculture and forestry (including wholesale)</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-air-freight-air-passenger-services" value="air-freight-air-passenger-services" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Air freight and air passenger services" data-controls="js-search-results-info"></input><label for="sector_business_area-air-freight-air-passenger-services" class="govuk-label govuk-checkboxes__label">Air freight and air passenger services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-arts-culture-heritage" value="arts-culture-heritage" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Arts, culture and heritage" data-controls="js-search-results-info"></input><label for="sector_business_area-arts-culture-heritage" class="govuk-label govuk-checkboxes__label">Arts, culture and heritage</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-automotive" value="automotive" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Automotive" data-controls="js-search-results-info"></input><label for="sector_business_area-automotive" class="govuk-label govuk-checkboxes__label">Automotive</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-auxiliary-activities" value="auxiliary-activities" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Auxiliary activities" data-controls="js-search-results-info"></input><label for="sector_business_area-auxiliary-activities" class="govuk-label govuk-checkboxes__label">Auxiliary activities</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-charities" value="charities" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Charities" data-controls="js-search-results-info"></input><label for="sector_business_area-charities" class="govuk-label govuk-checkboxes__label">Charities</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-chemicals" value="chemicals" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Chemicals" data-controls="js-search-results-info"></input><label for="sector_business_area-chemicals" class="govuk-label govuk-checkboxes__label">Chemicals</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-clothing-consumer-goods" value="clothing-consumer-goods" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Clothing and consumer goods" data-controls="js-search-results-info"></input><label for="sector_business_area-clothing-consumer-goods" class="govuk-label govuk-checkboxes__label">Clothing and consumer goods</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-clothing-consumer-goods-manufacturing" value="clothing-consumer-goods-manufacturing" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Clothing and consumer goods manufacture" data-controls="js-search-results-info"></input><label for="sector_business_area-clothing-consumer-goods-manufacturing" class="govuk-label govuk-checkboxes__label">Clothing and consumer goods manufacture</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-construction-contracting" value="construction-contracting" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Construction" data-controls="js-search-results-info"></input><label for="sector_business_area-construction-contracting" class="govuk-label govuk-checkboxes__label">Construction</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-computer-services" value="computer-services" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Digital, technology and computer services" data-controls="js-search-results-info"></input><label for="sector_business_area-computer-services" class="govuk-label govuk-checkboxes__label">Digital, technology and computer services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-creative-industries" value="creative-industries" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Creative industries" data-controls="js-search-results-info"></input><label for="sector_business_area-creative-industries" class="govuk-label govuk-checkboxes__label">Creative industries</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-defence" value="defence" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Defence" data-controls="js-search-results-info"></input><label for="sector_business_area-defence" class="govuk-label govuk-checkboxes__label">Defence</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-education" value="education" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Education" data-controls="js-search-results-info"></input><label for="sector_business_area-education" class="govuk-label govuk-checkboxes__label">Education</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-electricity" value="electricity" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Electricity" data-controls="js-search-results-info"></input><label for="sector_business_area-electricity" class="govuk-label govuk-checkboxes__label">Electricity</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-electronics-parts-machinery" value="electronics-parts-machinery" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Electronics, parts and machinery" data-controls="js-search-results-info"></input><label for="sector_business_area-electronics-parts-machinery" class="govuk-label govuk-checkboxes__label">Electronics, parts and machinery</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-environmental-services" value="environmental-services" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Environmental services" data-controls="js-search-results-info"></input><label for="sector_business_area-environmental-services" class="govuk-label govuk-checkboxes__label">Environmental services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-financial-services" value="financial-services" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Financial services" data-controls="js-search-results-info"></input><label for="sector_business_area-financial-services" class="govuk-label govuk-checkboxes__label">Financial services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-fisheries" value="fisheries" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Fisheries (including wholesale)" data-controls="js-search-results-info"></input><label for="sector_business_area-fisheries" class="govuk-label govuk-checkboxes__label">Fisheries (including wholesale)</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-food-and-drink" value="food-and-drink" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Food, drink and tobacco (retail and wholesale)" data-controls="js-search-results-info"></input><label for="sector_business_area-food-and-drink" class="govuk-label govuk-checkboxes__label">Food, drink and tobacco (retail and wholesale)</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-food-drink-tobacco" value="food-drink-tobacco" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Food, drink and tobacco (processing)" data-controls="js-search-results-info"></input><label for="sector_business_area-food-drink-tobacco" class="govuk-label govuk-checkboxes__label">Food, drink and tobacco (processing)</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-furniture-manufacture" value="furniture-manufacture" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Furniture manufacture" data-controls="js-search-results-info"></input><label for="sector_business_area-furniture-manufacture" class="govuk-label govuk-checkboxes__label">Furniture manufacture</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-gambling" value="gambling" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Gambling" data-controls="js-search-results-info"></input><label for="sector_business_area-gambling" class="govuk-label govuk-checkboxes__label">Gambling</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-health-social-care-services" value="health-social-care-services" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Health and social care services" data-controls="js-search-results-info"></input><label for="sector_business_area-health-social-care-services" class="govuk-label govuk-checkboxes__label">Health and social care services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-installation-servicing-repair" value="installation-servicing-repair" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Installation, servicing and repair" data-controls="js-search-results-info"></input><label for="sector_business_area-installation-servicing-repair" class="govuk-label govuk-checkboxes__label">Installation, servicing and repair</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-insurance" value="insurance" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Insurance" data-controls="js-search-results-info"></input><label for="sector_business_area-insurance" class="govuk-label govuk-checkboxes__label">Insurance</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-justice-prisons" value="justice-prisons" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Justice including prisons" data-controls="js-search-results-info"></input><label for="sector_business_area-justice-prisons" class="govuk-label govuk-checkboxes__label">Justice including prisons</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-marine" value="marine" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Marine" data-controls="js-search-results-info"></input><label for="sector_business_area-marine" class="govuk-label govuk-checkboxes__label">Marine</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-marine-transport" value="marine-transport" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Marine transport" data-controls="js-search-results-info"></input><label for="sector_business_area-marine-transport" class="govuk-label govuk-checkboxes__label">Marine transport</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-broadcasting" value="broadcasting" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Media and broadcasting" data-controls="js-search-results-info"></input><label for="sector_business_area-broadcasting" class="govuk-label govuk-checkboxes__label">Media and broadcasting</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-medical-technology" value="medical-technology" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Medical technology" data-controls="js-search-results-info"></input><label for="sector_business_area-medical-technology" class="govuk-label govuk-checkboxes__label">Medical technology</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-metals-manufacture" value="metals-manufacture" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Metals manufacture" data-controls="js-search-results-info"></input><label for="sector_business_area-metals-manufacture" class="govuk-label govuk-checkboxes__label">Metals manufacture</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-mining" value="mining" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Mining" data-controls="js-search-results-info"></input><label for="sector_business_area-mining" class="govuk-label govuk-checkboxes__label">Mining</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-motor-trades" value="motor-trades" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Motor trade" data-controls="js-search-results-info"></input><label for="sector_business_area-motor-trades" class="govuk-label govuk-checkboxes__label">Motor trade</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-non-metal-materials-manufacture" value="non-metal-materials-manufacture" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Non-metal materials manufacture" data-controls="js-search-results-info"></input><label for="sector_business_area-non-metal-materials-manufacture" class="govuk-label govuk-checkboxes__label">Non-metal materials manufacture</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-nuclear" value="nuclear" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Nuclear" data-controls="js-search-results-info"></input><label for="sector_business_area-nuclear" class="govuk-label govuk-checkboxes__label">Nuclear</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-oil-gas-coal" value="oil-gas-coal" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Oil, gas and coal" data-controls="js-search-results-info"></input><label for="sector_business_area-oil-gas-coal" class="govuk-label govuk-checkboxes__label">Oil, gas and coal</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-other-advanced-manufacturing" value="other-advanced-manufacturing" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Other advanced manufacturing" data-controls="js-search-results-info"></input><label for="sector_business_area-other-advanced-manufacturing" class="govuk-label govuk-checkboxes__label">Other advanced manufacturing</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-other-energy" value="other-energy" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Other energy" data-controls="js-search-results-info"></input><label for="sector_business_area-other-energy" class="govuk-label govuk-checkboxes__label">Other energy</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-other-manufacturing" value="other-manufacturing" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Other manufacturing" data-controls="js-search-results-info"></input><label for="sector_business_area-other-manufacturing" class="govuk-label govuk-checkboxes__label">Other manufacturing</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-personal-services" value="personal-services" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Personal services" data-controls="js-search-results-info"></input><label for="sector_business_area-personal-services" class="govuk-label govuk-checkboxes__label">Personal services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-pharmaceuticals" value="pharmaceuticals" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Pharmaceuticals" data-controls="js-search-results-info"></input><label for="sector_business_area-pharmaceuticals" class="govuk-label govuk-checkboxes__label">Pharmaceuticals</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-ports-airports" value="ports-airports" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Ports and airports" data-controls="js-search-results-info"></input><label for="sector_business_area-ports-airports" class="govuk-label govuk-checkboxes__label">Ports and airports</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-postal-courier-services" value="postal-courier-services" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Postal and courier services" data-controls="js-search-results-info"></input><label for="sector_business_area-postal-courier-services" class="govuk-label govuk-checkboxes__label">Postal and courier services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-professional-and-business-services" value="professional-and-business-services" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Professional and business services" data-controls="js-search-results-info"></input><label for="sector_business_area-professional-and-business-services" class="govuk-label govuk-checkboxes__label">Professional and business services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-public-administration" value="public-administration" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Public administration" data-controls="js-search-results-info"></input><label for="sector_business_area-public-administration" class="govuk-label govuk-checkboxes__label">Public administration</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-rail" value="rail" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Rail" data-controls="js-search-results-info"></input><label for="sector_business_area-rail" class="govuk-label govuk-checkboxes__label">Rail</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-rail-passenger-freight" value="rail-passenger-freight" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Rail (passengers and freight)" data-controls="js-search-results-info"></input><label for="sector_business_area-rail-passenger-freight" class="govuk-label govuk-checkboxes__label">Rail (passengers and freight)</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-real-estate-excl-imputed-rent" value="real-estate-excl-imputed-rent" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Real estate" data-controls="js-search-results-info"></input><label for="sector_business_area-real-estate-excl-imputed-rent" class="govuk-label govuk-checkboxes__label">Real estate</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-repair-of-computers-consumer-goods" value="repair-of-computers-consumer-goods" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Repair of computers and consumer goods" data-controls="js-search-results-info"></input><label for="sector_business_area-repair-of-computers-consumer-goods" class="govuk-label govuk-checkboxes__label">Repair of computers and consumer goods</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-research" value="research" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Research" data-controls="js-search-results-info"></input><label for="sector_business_area-research" class="govuk-label govuk-checkboxes__label">Research</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-restaurants-bars-catering" value="restaurants-bars-catering" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Restaurants, bars and catering" data-controls="js-search-results-info"></input><label for="sector_business_area-restaurants-bars-catering" class="govuk-label govuk-checkboxes__label">Restaurants, bars and catering</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-retail" value="retail" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Retail and wholesale (excluding motor trade, food and drink)" data-controls="js-search-results-info"></input><label for="sector_business_area-retail" class="govuk-label govuk-checkboxes__label">Retail and wholesale (excluding motor trade, food and drink)</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-road-passengers-freight" value="road-passengers-freight" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Road (passengers and freight)" data-controls="js-search-results-info"></input><label for="sector_business_area-road-passengers-freight" class="govuk-label govuk-checkboxes__label">Road (passengers and freight)</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-space" value="space" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Space" data-controls="js-search-results-info"></input><label for="sector_business_area-space" class="govuk-label govuk-checkboxes__label">Space</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-sports-recreation" value="sports-recreation" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Sports and recreation" data-controls="js-search-results-info"></input><label for="sector_business_area-sports-recreation" class="govuk-label govuk-checkboxes__label">Sports and recreation</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-telecoms" value="telecoms" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Telecoms and information services" data-controls="js-search-results-info"></input><label for="sector_business_area-telecoms" class="govuk-label govuk-checkboxes__label">Telecoms and information services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-tourism" value="tourism" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Tourism" data-controls="js-search-results-info"></input><label for="sector_business_area-tourism" class="govuk-label govuk-checkboxes__label">Tourism</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-veterinary" value="veterinary" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Veterinary" data-controls="js-search-results-info"></input><label for="sector_business_area-veterinary" class="govuk-label govuk-checkboxes__label">Veterinary</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-voluntary-community-organisations" value="voluntary-community-organisations" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Voluntary and community organisations" data-controls="js-search-results-info"></input><label for="sector_business_area-voluntary-community-organisations" class="govuk-label govuk-checkboxes__label">Voluntary and community organisations</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="sector_business_area[]" id="sector_business_area-warehouses-services-pipelines" value="warehouses-services-pipelines" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Sector / Organisation Area" data-track-label="Warehouses, services and pipelines" data-controls="js-search-results-info"></input><label for="sector_business_area-warehouses-services-pipelines" class="govuk-label govuk-checkboxes__label">Warehouses, services and pipelines</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  
+
+<div class="app-c-option-select" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-organisation-activity">
+      Organisation activity
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-organisation-activity" class="app-c-option-select__container js-options-container" id="business_activity">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-b5f90276" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Organisation activity</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="business_activity[]" id="business_activity-products-or-goods" value="products-or-goods" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Organisation activity" data-track-label="Sell products or goods in the UK" data-controls="js-search-results-info"></input><label for="business_activity-products-or-goods" class="govuk-label govuk-checkboxes__label">Sell products or goods in the UK</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="business_activity[]" id="business_activity-buying" value="buying" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Organisation activity" data-track-label="Buy products or goods from abroad" data-controls="js-search-results-info" checked></input><label for="business_activity-buying" class="govuk-label govuk-checkboxes__label">Buy products or goods from abroad</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="business_activity[]" id="business_activity-selling" value="selling" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Organisation activity" data-track-label="Sell products or goods abroad" data-controls="js-search-results-info" checked></input><label for="business_activity-selling" class="govuk-label govuk-checkboxes__label">Sell products or goods abroad</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="business_activity[]" id="business_activity-other-eu" value="other-eu" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Organisation activity" data-track-label="Do other types of business in the EU" data-controls="js-search-results-info"></input><label for="business_activity-other-eu" class="govuk-label govuk-checkboxes__label">Do other types of business in the EU</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="business_activity[]" id="business_activity-transporting" value="transporting" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Organisation activity" data-track-label="Transport goods abroad" data-controls="js-search-results-info" checked></input><label for="business_activity-transporting" class="govuk-label govuk-checkboxes__label">Transport goods abroad</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  
+
+<div class="app-c-option-select" data-closed-on-load="true" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-who-you-employ">
+      Who you employ
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-who-you-employ" class="app-c-option-select__container js-options-container" id="employ_eu_citizens">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-767af0a0" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Who you employ</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="employ_eu_citizens[]" id="employ_eu_citizens-yes" value="yes" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Who you employ" data-track-label="EU citizens" data-controls="js-search-results-info"></input><label for="employ_eu_citizens-yes" class="govuk-label govuk-checkboxes__label">EU citizens</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="employ_eu_citizens[]" id="employ_eu_citizens-no" value="no" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Who you employ" data-track-label="No EU citizens" data-controls="js-search-results-info"></input><label for="employ_eu_citizens-no" class="govuk-label govuk-checkboxes__label">No EU citizens</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  
+
+<div class="app-c-option-select" data-closed-on-load="true" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-personal-data">
+      Personal data
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-personal-data" class="app-c-option-select__container js-options-container" id="personal_data">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-ca4795a3" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Personal data</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="personal_data[]" id="personal_data-processing-personal-data" value="processing-personal-data" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Personal data" data-track-label="Processing personal data from Europe" data-controls="js-search-results-info"></input><label for="personal_data-processing-personal-data" class="govuk-label govuk-checkboxes__label">Processing personal data from Europe</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="personal_data[]" id="personal_data-interacting-with-eea-website" value="interacting-with-eea-website" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Personal data" data-track-label="Using websites or services hosted in Europe" data-controls="js-search-results-info"></input><label for="personal_data-interacting-with-eea-website" class="govuk-label govuk-checkboxes__label">Using websites or services hosted in Europe</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="personal_data[]" id="personal_data-digital-service-provider" value="digital-service-provider" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Personal data" data-track-label="Providing digital services available to Europe" data-controls="js-search-results-info"></input><label for="personal_data-digital-service-provider" class="govuk-label govuk-checkboxes__label">Providing digital services available to Europe</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  
+
+<div class="app-c-option-select" data-closed-on-load="true" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-intellectual-property">
+      Intellectual property
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-intellectual-property" class="app-c-option-select__container js-options-container" id="intellectual_property">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-ea504cd5" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Intellectual property</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="intellectual_property[]" id="intellectual_property-copyright" value="copyright" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Intellectual property" data-track-label="Copyright" data-controls="js-search-results-info"></input><label for="intellectual_property-copyright" class="govuk-label govuk-checkboxes__label">Copyright</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="intellectual_property[]" id="intellectual_property-trademarks" value="trademarks" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Intellectual property" data-track-label="Trade marks" data-controls="js-search-results-info"></input><label for="intellectual_property-trademarks" class="govuk-label govuk-checkboxes__label">Trade marks</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="intellectual_property[]" id="intellectual_property-designs" value="designs" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Intellectual property" data-track-label="Designs" data-controls="js-search-results-info"></input><label for="intellectual_property-designs" class="govuk-label govuk-checkboxes__label">Designs</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="intellectual_property[]" id="intellectual_property-patents" value="patents" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Intellectual property" data-track-label="Patents" data-controls="js-search-results-info"></input><label for="intellectual_property-patents" class="govuk-label govuk-checkboxes__label">Patents</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="intellectual_property[]" id="intellectual_property-exhaustion-of-rights" value="exhaustion-of-rights" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Intellectual property" data-track-label="Exhaustion of rights" data-controls="js-search-results-info"></input><label for="intellectual_property-exhaustion-of-rights" class="govuk-label govuk-checkboxes__label">Exhaustion of rights</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  
+
+<div class="app-c-option-select" data-closed-on-load="true" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-eu-or-uk-government-funding">
+      EU or UK government funding
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-eu-or-uk-government-funding" class="app-c-option-select__container js-options-container" id="eu_uk_government_funding">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-e958a73d" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">EU or UK government funding</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="eu_uk_government_funding[]" id="eu_uk_government_funding-receiving-eu-funding" value="receiving-eu-funding" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="EU or UK government funding" data-track-label="EU funding" data-controls="js-search-results-info"></input><label for="eu_uk_government_funding-receiving-eu-funding" class="govuk-label govuk-checkboxes__label">EU funding</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="eu_uk_government_funding[]" id="eu_uk_government_funding-receiving-uk-government-funding" value="receiving-uk-government-funding" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="EU or UK government funding" data-track-label="UK government funding" data-controls="js-search-results-info"></input><label for="eu_uk_government_funding-receiving-uk-government-funding" class="govuk-label govuk-checkboxes__label">UK government funding</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+  
+
+<div class="app-c-option-select" data-closed-on-load="true" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-public-sector-procurement">
+      Public sector procurement
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-public-sector-procurement" class="app-c-option-select__container js-options-container" id="public_sector_procurement">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-f484e6a7" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Public sector procurement</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="public_sector_procurement[]" id="public_sector_procurement-civil-government-contracts" value="civil-government-contracts" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Public sector procurement" data-track-label="Civil government contracts" data-controls="js-search-results-info"></input><label for="public_sector_procurement-civil-government-contracts" class="govuk-label govuk-checkboxes__label">Civil government contracts</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="public_sector_procurement[]" id="public_sector_procurement-defence-contracts" value="defence-contracts" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Public sector procurement" data-track-label="Defence contracts" data-controls="js-search-results-info"></input><label for="public_sector_procurement-defence-contracts" class="govuk-label govuk-checkboxes__label">Defence contracts</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+
+      </div>
+    </div>
+
+  <div class="js-live-search-fallback button__wrapper">
+    
+  <button class="gem-c-button govuk-button gem-c-button--bottom-margin" type="submit">Filter results</button>
+
+
+  </div>
+</div>
+
+    </div>
+
+    <div class="govuk-grid-column-two-thirds js-live-search-results-block filtered-results" role="region" aria-label="Find EU Exit guidance for your organisation search results">
+      <div aria-live="assertive" id="js-search-results-info" data-module="remove-filter">
+        <div class="result-info">
+          <div class="govuk-grid-row">
+            <div class="govuk-grid-column-one-third">
+              <h2 class="result-region-header__counter">
+  120 publications
+</h2>
+
+            </div>
+              <div class="govuk-grid-column-two-thirds">
+                  <section class="gem-c-subscription-links ">
+    <ul class="gem-c-subscription-links__list gem-c-subscription-links__list--small">
+        <li class="gem-c-subscription-links__list-item gem-c-subscription-links__list-item--small">
+          <a class="gem-c-subscription-links__link gem-c-subscription-links__link--email-alerts " href="https://www.gov.uk/find-eu-exit-guidance-business/email-signup?business_activity%5B%5D=buying&business_activity%5B%5D=selling&business_activity%5B%5D=transporting">Get email alerts</a>
+        </li>
+
+    </ul>
+
+</section>
+              </div>
+          </div>
+          <div class="js-facet-tag-wrapper">
+  <div class="facet-tags" data-module="track-click">
+      <div class="facet-tags__group">
+        <div class="facet-tags__wrapper">
+          <p class="facet-tags__preposition">You</p>
+          <div class="facet-tag">
+            <p class="facet-tag__text">Buy products or goods from abroad</p>
+            <button type="button" class="facet-tag__remove" aria-label="Remove filter Buy products or goods from abroad" data-module="remove-filter-link" data-facet="business_activity" data-value="buying" data-name>✕</button>
+          </div>
+        </div>
+        <div class="facet-tags__wrapper">
+          <p class="facet-tags__preposition"> or </p>
+          <div class="facet-tag">
+            <p class="facet-tag__text">Sell products or goods abroad</p>
+            <button type="button" class="facet-tag__remove" aria-label="Remove filter Sell products or goods abroad" data-module="remove-filter-link" data-facet="business_activity" data-value="selling" data-name>✕</button>
+          </div>
+        </div>
+        <div class="facet-tags__wrapper">
+          <p class="facet-tags__preposition"> or </p>
+          <div class="facet-tag">
+            <p class="facet-tag__text">Transport goods abroad</p>
+            <button type="button" class="facet-tag__remove" aria-label="Remove filter Transport goods abroad" data-module="remove-filter-link" data-facet="business_activity" data-value="transporting" data-name>✕</button>
+          </div>
+        </div>
+      </div>
+  </div>
+  <span class="visually-hidden">sorted by Topic</span>
+</div>
+        </div>
+      </div>
+
+      <div class="govuk-caption-l live-search-loading-message" id="js-loading-message"></div>
+
+        <div class="govuk-form-group">
+          <label class="result-region-header__sort-label govuk-label" for="order">Sort by</label>
+          <select name="order" id="order" class="js-order-results govuk-select" aria-controls="js-search-results-info" data-default-sort-option="topic" data-relevance-sort-option="relevance" data-module="track-select-change"><option data-track-category="dropDownClicked" data-track-action="clicked" data-track-label="Topic" selected value="topic">Topic</option>
+<option data-track-category="dropDownClicked" data-track-action="clicked" data-track-label="Most viewed" value="most-viewed">Most viewed</option>
+<option data-track-category="dropDownClicked" data-track-action="clicked" data-track-label="Relevance" disabled value="relevance">Relevance</option>
+<option data-track-category="dropDownClicked" data-track-action="clicked" data-track-label="Most recent" value="most-recent">Most recent</option>
+<option data-track-category="dropDownClicked" data-track-action="clicked" data-track-label="A to Z" value="a-to-z">A to Z</option></select>
+        </div>
+
+      <div id="js-results">
+        <ul class="finder-results" data-module="track-click">
+
+      <li class="filtered-results__group">
+        <h2 class="filtered-results__facet-heading">All businesses</h2>
+        <ul class="finder-results">
+            <li class="document">
+              <a href="/government/publications/accounting-and-audit-if-theres-no-brexit-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.39" data-track-label="/government/publications/accounting-and-audit-if-theres-no-brexit-deal" data-track-options="{"dimension28":"120","dimension29":"Accounting and audit if there’s no Brexit deal"}">Accounting and audit if there’s no Brexit deal</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/accounting-for-import-vat" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.24" data-track-label="/guidance/accounting-for-import-vat" data-track-options="{"dimension28":"120","dimension29":"Accounting for import VAT if the UK leaves the EU without a deal"}">Accounting for import VAT if the UK leaves the EU without a deal</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/grants-for-businesses-that-complete-customs-declarations" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.32" data-track-label="/guidance/grants-for-businesses-that-complete-customs-declarations" data-track-options="{"dimension28":"120","dimension29":"Apply for grants if your business completes customs declarations"}">Apply for grants if your business completes customs declarations</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/reliefs-from-import-duty-on-goods-brought-into-the-united-kingdom" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.68" data-track-label="/government/publications/reliefs-from-import-duty-on-goods-brought-into-the-united-kingdom" data-track-options="{"dimension28":"120","dimension29":"Authorised Use: Reliefs from import duty on goods brought into the United Kingdom for specified uses"}">Authorised Use: Reliefs from import duty on goods brought into the United Kingdom for specified uses</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/changes-to-your-customs-authorisations-if-the-uk-leaves-the-eu-without-a-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.37" data-track-label="/guidance/changes-to-your-customs-authorisations-if-the-uk-leaves-the-eu-without-a-deal" data-track-options="{"dimension28":"120","dimension29":"Changes to your customs authorisations if the UK leaves the EU without a deal"}">Changes to your customs authorisations if the UK leaves the EU without a deal</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/check-temporary-rates-of-customs-duty-on-imports-after-eu-exit" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.7" data-track-label="/guidance/check-temporary-rates-of-customs-duty-on-imports-after-eu-exit" data-track-options="{"dimension28":"120","dimension29":"Check temporary rates of customs duty (tariffs) on imports after EU Exit"}">Check temporary rates of customs duty (tariffs) on imports after EU Exit</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/consumer-rights-if-theres-no-brexit-deal--2" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.50" data-track-label="/government/publications/consumer-rights-if-theres-no-brexit-deal--2" data-track-options="{"dimension28":"120","dimension29":"Consumer rights if there's no Brexit deal"}">Consumer rights if there's no Brexit deal</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/declaring-your-goods-at-customs-if-the-uk-leaves-the-eu-with-no-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.13" data-track-label="/guidance/declaring-your-goods-at-customs-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"120","dimension29":"Declaring your goods at customs if the UK leaves the EU without a deal"}">Declaring your goods at customs if the UK leaves the EU without a deal</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/exporting-and-importing-goods-if-the-uk-leaves-the-eu-with-no-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.21" data-track-label="/guidance/exporting-and-importing-goods-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"120","dimension29":"Exporting and importing goods if the UK leaves the EU without a deal"}">Exporting and importing goods if the UK leaves the EU without a deal</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/geo-blocking-of-online-content-if-theres-no-brexit-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.48" data-track-label="/government/publications/geo-blocking-of-online-content-if-theres-no-brexit-deal" data-track-options="{"dimension28":"120","dimension29":"Geo-blocking of online content if there’s no Brexit deal"}">Geo-blocking of online content if there’s no Brexit deal</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/get-a-uk-eori-number-to-trade-within-the-eu" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.6" data-track-label="/guidance/get-a-uk-eori-number-to-trade-within-the-eu" data-track-options="{"dimension28":"120","dimension29":"Get a UK EORI number to trade goods into and out of the UK"}">Get a UK EORI number to trade goods into and out of the UK</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/international-driving-permits-for-uk-drivers-from-28-march-2019" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.1" data-track-label="/guidance/international-driving-permits-for-uk-drivers-from-28-march-2019" data-track-options="{"dimension28":"120","dimension29":"International driving permits for UK drivers from 28 March 2019"}">International driving permits for UK drivers from 28 March 2019</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/merger-review-and-anti-competitive-activity-if-theres-no-brexit-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.105" data-track-label="/government/publications/merger-review-and-anti-competitive-activity-if-theres-no-brexit-deal" data-track-options="{"dimension28":"120","dimension29":"Merger review and anti-competitive activity if there's no Brexit deal"}">Merger review and anti-competitive activity if there's no Brexit deal</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/moving-and-declaring-excise-goods-in-the-event-the-uk-leaves-the-eu-with-no-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.43" data-track-label="/guidance/moving-and-declaring-excise-goods-in-the-event-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"120","dimension29":"Moving and declaring excise goods if the UK leaves the EU without a deal"}">Moving and declaring excise goods if the UK leaves the EU without a deal</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/moving-goods-to-and-from-the-eu-through-roll-on-roll-off-locations-including-eurotunnel" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.29" data-track-label="/guidance/moving-goods-to-and-from-the-eu-through-roll-on-roll-off-locations-including-eurotunnel" data-track-options="{"dimension28":"120","dimension29":"Moving goods to and from the EU through roll on roll off ports or the Channel Tunnel"}">Moving goods to and from the EU through roll on roll off ports or the Channel Tunnel</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/partnership-pack-preparing-for-a-no-deal-eu-exit" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.23" data-track-label="/government/publications/partnership-pack-preparing-for-a-no-deal-eu-exit" data-track-options="{"dimension28":"120","dimension29":"Partnership pack: preparing for changes at the UK border after a no deal EU exit"}">Partnership pack: preparing for changes at the UK border after a no deal EU exit</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/passenger-consumer-rights-when-travelling-to-the-eu-after-brexit" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.47" data-track-label="/guidance/passenger-consumer-rights-when-travelling-to-the-eu-after-brexit" data-track-options="{"dimension28":"120","dimension29":"Passenger consumer rights when travelling to the EU after Brexit"}">Passenger consumer rights when travelling to the EU after Brexit</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/passport-rules-for-travel-to-europe-after-brexit" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.3" data-track-label="/guidance/passport-rules-for-travel-to-europe-after-brexit" data-track-options="{"dimension28":"120","dimension29":"Passport rules for travel to Europe after Brexit"}">Passport rules for travel to Europe after Brexit</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/register-for-simplified-import-procedures-if-the-uk-leaves-the-eu-without-a-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.5" data-track-label="/guidance/register-for-simplified-import-procedures-if-the-uk-leaves-the-eu-without-a-deal" data-track-options="{"dimension28":"120","dimension29":"Register for simplified import procedures if the UK leaves the EU without a deal"}">Register for simplified import procedures if the UK leaves the EU without a deal</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/sanctions-policy-if-theres-no-brexit-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.82" data-track-label="/government/publications/sanctions-policy-if-theres-no-brexit-deal" data-track-options="{"dimension28":"120","dimension29":"Sanctions policy if there's no Brexit deal"}">Sanctions policy if there's no Brexit deal</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/structuring-your-business-if-theres-no-brexit-deal--2" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.58" data-track-label="/government/publications/structuring-your-business-if-theres-no-brexit-deal--2" data-track-options="{"dimension28":"120","dimension29":"Structuring your business if there’s no Brexit deal"}">Structuring your business if there’s no Brexit deal</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/temporary-rates-of-customs-duty-on-imports-after-eu-exit" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.8" data-track-label="/government/publications/temporary-rates-of-customs-duty-on-imports-after-eu-exit" data-track-options="{"dimension28":"120","dimension29":"Temporary rates of customs duty (tariffs) on imports after EU Exit"}">Temporary rates of customs duty (tariffs) on imports after EU Exit</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/trading-and-moving-goods-from-the-eu-to-the-uk-if-the-uk-leaves-the-eu-with-no-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.18" data-track-label="/guidance/trading-and-moving-goods-from-the-eu-to-the-uk-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"120","dimension29":"Trading and moving goods from the EU to the UK if the UK leaves the EU with no deal"}">Trading and moving goods from the EU to the UK if the UK leaves the EU with no deal</a>
+            </li>
+            <li class="document">
+              <a href="/guidance/trading-and-moving-goods-from-the-uk-to-the-eu-if-the-uk-leaves-the-eu-with-no-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.14" data-track-label="/guidance/trading-and-moving-goods-from-the-uk-to-the-eu-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"120","dimension29":"Trading and moving goods from the UK to the EU if the UK leaves the EU with no deal"}">Trading and moving goods from the UK to the EU if the UK leaves the EU with no deal</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/travelling-in-the-common-travel-area-if-theres-no-brexit-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.17" data-track-label="/government/publications/travelling-in-the-common-travel-area-if-theres-no-brexit-deal" data-track-options="{"dimension28":"120","dimension29":"Travelling in the Common Travel Area if there’s no Brexit deal"}">Travelling in the Common Travel Area if there’s no Brexit deal</a>
+            </li>
+            <li class="document">
+              <a href="/government/collections/uk-sanctions-regimes-if-theres-no-brexit-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.33" data-track-label="/government/collections/uk-sanctions-regimes-if-theres-no-brexit-deal" data-track-options="{"dimension28":"120","dimension29":"UK sanctions regimes if there’s no Brexit deal"}">UK sanctions regimes if there’s no Brexit deal</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/vat-for-businesses-if-theres-no-brexit-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.30" data-track-label="/government/publications/vat-for-businesses-if-theres-no-brexit-deal" data-track-options="{"dimension28":"120","dimension29":"VAT for businesses if there's no Brexit deal"}">VAT for businesses if there's no Brexit deal</a>
+            </li>
+            <li class="document">
+              <a href="/government/publications/workplace-rights-if-theres-no-brexit-deal" class=" document__link" data-track-category="navFinderLinkClicked" data-track-action="Find EU Exit guidance for your organisation.11" data-track-label="/government/publications/workplace-rights-if-theres-no-brexit-deal" data-track-options="{"dimension28":"120","dimension29":"Workplace rights if there’s no Brexit deal"}">Workplace rights if there’s no Brexit deal</a>
+            </li>
+        </ul>
+      </li>
+
+
+</ul>
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</form>
+
+        </div>

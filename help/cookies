@@ -1,0 +1,405 @@
+<div class="grid-row">
+  <div class="column-two-thirds">
+    <div class="gem-c-title
+  
+  gem-c-title--margin-bottom-5">
+  <h1 class="gem-c-title__text ">
+    Cookies
+  </h1>
+</div>
+
+  </div>
+</div>
+
+<div class="grid-row responsive-bottom-margin">
+  <div class="column-two-thirds">
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr disable-youtube" data-module="govspeak">
+    
+      <p>GOV.UK puts small files (known as ‘cookies’) onto your computer to collect information about how you browse the site.</p>
+
+<p>Cookies are used to:</p>
+
+<ul>
+  <li>measure how you use the website so it can be updated and improved based on your needs</li>
+  <li>remember the notifications you’ve seen so we do not show them to you again</li>
+  <li>remember you while you’re changing your GOV.UK email subscriptions</li>
+</ul>
+
+<p>Find out more about <a rel="external" href="https://ico.org.uk/for-the-public/online/cookies/">how to manage cookies</a>.</p>
+
+<h2 id="how-cookies-are-used-on-govuk">How cookies are used on GOV.UK</h2>
+
+<h3 id="email-subscriptions">Email subscriptions</h3>
+
+<p>We use a cookie to remember you while you’re changing your email subscriptions. The cookie is deleted when you close your browser.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>email-alert-frontend_session</td>
+      <td>This remembers you as you change your email subscriptions</td>
+      <td>When you close your browser</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="measuring-website-usage-google-analytics">Measuring website usage (Google Analytics)</h3>
+
+<p>We use Google Analytics software (Universal Analytics) to collect information about how you use GOV.UK. We do this to help make sure the site is meeting the needs of its users and to help us make improvements, for example <a rel="external" href="https://insidegovuk.blog.gov.uk/2015/03/26/new-tool-to-see-trending-searches/">improving site search</a>.</p>
+
+<p>Google Analytics stores information about:</p>
+
+<ul>
+  <li>the pages you visit on GOV.UK</li>
+  <li>how long you spend on each GOV.UK page</li>
+  <li>how you got to the site</li>
+  <li>what you click on while you’re visiting the site</li>
+</ul>
+
+<p>We do not collect or store your personal information (for example your name or address) so this information cannot be used to identify who you are.</p>
+
+<div role="note" aria-label="Information" class="application-notice info-notice">
+<p>We do not allow Google to use or share our analytics data.</p>
+</div>
+
+<p>Google Analytics sets the following cookies.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>_ga</td>
+      <td>This helps us count how many people visit GOV.UK by tracking if you’ve visited before</td>
+      <td>2 years</td>
+    </tr>
+    <tr>
+      <td>_gid</td>
+      <td>This helps us count how many people visit GOV.UK by tracking if you’ve visited before</td>
+      <td>24 hours</td>
+    </tr>
+    <tr>
+      <td>_gat</td>
+      <td>Used to manage the rate at which page view requests are made</td>
+      <td>10 minutes</td>
+    </tr>
+  </tbody>
+</table>
+
+<div role="note" aria-label="Information" class="application-notice info-notice">
+<p>You can <a rel="external" href="https://tools.google.com/dlpage/gaoptout">opt out of Google Analytics cookies</a>.</p>
+</div>
+
+<h3 id="govuk-events">GOV.UK events</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>analytics_next_page_call</td>
+      <td>This lets us know the next page you visit on GOV.UK, so we can make journeys better</td>
+      <td>When you close your browser</td>
+    </tr>
+    <tr>
+      <td>govuk_contact_referrer</td>
+      <td>This lets us know the last page you visited before using the contact GOV.UK form</td>
+      <td>1 day</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="javascript-detection">JavaScript detection</h3>
+
+<p>We measure how many people visiting GOV.UK are using JavaScript. We’re re-running <a rel="external" href="https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/">a test we first used in 2013</a>.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>JS-Detection</td>
+      <td>This tells us if you are browsing GOV.UK while running JavaScript</td>
+      <td>1 year</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="our-introductory-message">Our introductory message</h3>
+
+<p>You may see a pop-up welcome message when you visit GOV.UK. We’ll store a cookie so that your computer knows you’ve seen it and knows not to show it again.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>seen_cookie_message</td>
+      <td>Saves a message to let us know that you’ve seen our cookie message</td>
+      <td>1 month</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="messages-across-govuk">Messages across GOV.UK</h3>
+
+<p>We might display a message on all GOV.UK pages to tell you about an important event or situation. We’ll save a cookie that will let us know how many times you’ve seen it, or if you’ve dismissed it.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Name</td>
+      <td>Purpose</td>
+      <td>Expires</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>global_bar_seen</td>
+      <td>Remembers the number of times you’ve seen the message, or if you’ve dismissed it</td>
+      <td>12 weeks</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="making-secure-connections-to-websites">Making secure connections to websites</h3>
+
+<p>Your browser uses cookies to make secure connections to websites with a ‘https’ URL. There are different versions for different levels of security.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TLSVersion</td>
+      <td>Tells us the highest version of TLS your browser uses so we can decide which versions to keep supporting</td>
+      <td>When you close your browser</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="your-progress-when-applying-for-a-licence">Your progress when applying for a licence</h3>
+
+<p>When you apply for a licence using the ‘apply for a licence’ service, we’ll set a cookie to remember your progress through the forms. These cookies do not store your personal data and are deleted once you’ve completed the transaction.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>licensing_session</td>
+      <td>Set to remember information you’ve entered into a form when applying for a licence</td>
+      <td>When you close your browser</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="youtube-videos">YouTube videos</h3>
+
+<p>We use YouTube to provide videos on some pages of the site. YouTube sets cookies when you visit one of these pages.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>_use_hitbox</td>
+      <td>This is a randomly generated number that identifies your browser</td>
+      <td>When you close your browser</td>
+    </tr>
+    <tr>
+      <td>VISITOR_INFO1_LIVE</td>
+      <td>Lets Youtube count the views of embedded Youtube videos</td>
+      <td>9 months</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="government-services">Government services</h3>
+
+<p>Most services we link to are run by different government departments, for example HM Revenue and Customs (<abbr title="HM Revenue and Customs">HMRC</abbr>) or the Home Office. These services may set additional cookies and, if so, will have their own cookies policy.</p>
+
+<h3 id="browser-upgrade-prompt">Browser upgrade prompt</h3>
+
+<p>We log a cookie the first time you visit GOV.UK to let us know you’ve visited once.</p>
+
+<p>If you’re using an out-of-date browser the next time you visit, we’ll show you a message suggesting you upgrade.</p>
+
+<p>We’ll also save a cookie that lets us know you do not want to see the prompt if you dismiss it.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>govuk_not_first_visit</td>
+      <td>Stops us prompting you to upgrade an out-of-date browser until after your first visit</td>
+      <td>28 days</td>
+    </tr>
+    <tr>
+      <td>govuk_browser_upgrade_dismissed</td>
+      <td>Saves a message to let us know you’ve seen and dismissed the browser upgrade prompt</td>
+      <td>28 days</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="our-performance-survey">Our performance survey</h3>
+
+<p>We select some users to take part in a performance survey. If you take part, or dismiss the survey, we’ll save a cookie that lets us know you’ve seen the message so that we do not show it to you again.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+      <th>Expires</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>govuk_takenUserSatisfactionSurvey</td>
+      <td>Saves a message to remember if you’ve taken the survey or dismissed it</td>
+      <td>4 months</td>
+    </tr>
+    <tr>
+      <td>govuk_surveySeenUserSatisfactionSurvey</td>
+      <td>Saves a message to remember how many times you’ve seen the survey</td>
+      <td>2 years</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>We use <a rel="external" href="https://www.smartsurvey.co.uk/">SmartSurvey</a> to collect responses to the survey. If you take part, SmartSurvey <a rel="external" href="https://www.smartsurvey.co.uk/how-we-use-cookies">will save extra cookies</a> to your computer to track your progress through it.</p>
+
+<h3 id="multivariate-testing">Multivariate testing</h3>
+
+<p>We sometimes test different versions of pages with different users to see which work better. We’ll save a cookie so that you consistently see the same version when browsing GOV.UK.</p>
+
+<p>The cookie name will change but will be in the form ‘ABTest-[Test name]’ where the ‘Test name’ describes which part of GOV.UK is being tested.</p>
+
+<p>This type of cookie will usually expire after between 1 and 4 weeks, but this may be longer for more in-depth tests.</p>
+
+<h3 id="web-chat">Web chat</h3>
+
+<p>Some government departments (for example <abbr title="HM Revenue and Customs">HMRC</abbr>) use web chat to help you with problems you might have with their content and services.</p>
+
+<p>They will save cookies in order to:</p>
+
+<ul>
+  <li>remember information you’ve entered during a web chat</li>
+  <li>track how you interact with web chat</li>
+</ul>
+
+<p>This type of cookie will expire when you close your browser.</p>
+
+
+
+</div>
+
+      <div class="app-c-published-dates ">
+    Last updated 19 March 2019
+</div>
+
+  </div>
+
+  
+<div class="column-one-third">
+  
+<div class="gem-c-contextual-sidebar">
+
+    
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-754efe43" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-754efe43" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/help/about-govuk" data-track-options="{"dimension28":"3","dimension29":"About GOV.UK"}" href="/help/about-govuk">About GOV.UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/help/terms-conditions" data-track-options="{"dimension28":"3","dimension29":"Terms and conditions"}" href="/help/terms-conditions">Terms and conditions</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/help/privacy-policy" data-track-options="{"dimension28":"3","dimension29":"Privacy notice"}" href="/help/privacy-policy">Privacy notice</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
+
+</div>
+
+</div>
+
+</div>
+
+
+  <div class="grid-row">
+    <div class="column-two-thirds">
+        
+  <div class="gem-c-contextual-footer">
+    
+
+  </div>
+
+
+    </div>
+  </div>

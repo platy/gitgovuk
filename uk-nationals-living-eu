@@ -1,0 +1,332 @@
+<div id="finder-frontend">
+          
+
+
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs " data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+  </ol>
+</div>
+
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+
+    <form action method="get">
+
+      <div class="gem-c-title
+  
+  gem-c-title--margin-bottom-4">
+  <h1 class="gem-c-title__text ">
+    Where do you live?
+  </h1>
+</div>
+
+      
+<span id="hint-db63046b" class="gem-c-hint govuk-hint govuk-!-margin-bottom-7">
+  Choose your country or <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">check the guidance for all UK nationals living in the EU</a>.
+
+</span>
+      <div class="govuk-form-group">
+  <fieldset class="govuk-fieldset">
+
+
+
+
+    <div class="govuk-radios">
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-0" value="/guidance/living-in-austria" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-0" class="gem-c-label govuk-label govuk-radios__label">
+  Austria
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-1" value="/guidance/living-in-belgium" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-1" class="gem-c-label govuk-label govuk-radios__label">
+  Belgium
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-2" value="/guidance/living-in-bulgaria" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-2" class="gem-c-label govuk-label govuk-radios__label">
+  Bulgaria
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-3" value="/guidance/living-in-croatia" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-3" class="gem-c-label govuk-label govuk-radios__label">
+  Croatia
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-4" value="/guidance/living-in-cyprus" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-4" class="gem-c-label govuk-label govuk-radios__label">
+  Cyprus
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-5" value="/guidance/living-in-the-czech-republic" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-5" class="gem-c-label govuk-label govuk-radios__label">
+  Czech Republic
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-6" value="/guidance/living-in-denmark" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-6" class="gem-c-label govuk-label govuk-radios__label">
+  Denmark
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-7" value="/guidance/living-in-estonia" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-7" class="gem-c-label govuk-label govuk-radios__label">
+  Estonia
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-8" value="/guidance/living-in-finland" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-8" class="gem-c-label govuk-label govuk-radios__label">
+  Finland
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-9" value="/guidance/living-in-france" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-9" class="gem-c-label govuk-label govuk-radios__label">
+  France
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-10" value="/guidance/living-in-germany" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-10" class="gem-c-label govuk-label govuk-radios__label">
+  Germany
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-11" value="/guidance/living-in-greece" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-11" class="gem-c-label govuk-label govuk-radios__label">
+  Greece
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-12" value="/guidance/living-in-hungary" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-12" class="gem-c-label govuk-label govuk-radios__label">
+  Hungary
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-13" value="/guidance/living-in-iceland" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-13" class="gem-c-label govuk-label govuk-radios__label">
+  Iceland
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-14" value="/guidance/living-in-ireland" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-14" class="gem-c-label govuk-label govuk-radios__label">
+  Ireland
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-15" value="/guidance/living-in-italy" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-15" class="gem-c-label govuk-label govuk-radios__label">
+  Italy
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-16" value="/guidance/living-in-latvia" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-16" class="gem-c-label govuk-label govuk-radios__label">
+  Latvia
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-17" value="/guidance/living-in-liechtenstein" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-17" class="gem-c-label govuk-label govuk-radios__label">
+  Liechtenstein
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-18" value="/guidance/living-in-lithuania" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-18" class="gem-c-label govuk-label govuk-radios__label">
+  Lithuania
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-19" value="/guidance/living-in-luxembourg" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-19" class="gem-c-label govuk-label govuk-radios__label">
+  Luxembourg
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-20" value="/guidance/living-in-malta" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-20" class="gem-c-label govuk-label govuk-radios__label">
+  Malta
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-21" value="/guidance/living-in-the-netherlands" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-21" class="gem-c-label govuk-label govuk-radios__label">
+  Netherlands
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-22" value="/guidance/living-in-norway" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-22" class="gem-c-label govuk-label govuk-radios__label">
+  Norway
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-23" value="/guidance/living-in-poland" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-23" class="gem-c-label govuk-label govuk-radios__label">
+  Poland
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-24" value="/guidance/living-in-portugal" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-24" class="gem-c-label govuk-label govuk-radios__label">
+  Portugal
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-25" value="/guidance/living-in-romania" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-25" class="gem-c-label govuk-label govuk-radios__label">
+  Romania
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-26" value="/guidance/living-in-slovakia" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-26" class="gem-c-label govuk-label govuk-radios__label">
+  Slovakia
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-27" value="/guidance/living-in-slovenia" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-27" class="gem-c-label govuk-label govuk-radios__label">
+  Slovenia
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-28" value="/guidance/living-in-spain" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-28" class="gem-c-label govuk-label govuk-radios__label">
+  Spain
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-29" value="/guidance/living-in-sweden" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-29" class="gem-c-label govuk-label govuk-radios__label">
+  Sweden
+</label>
+
+</div>
+
+          <div class="gem-c-radio govuk-radios__item">
+            <input type="radio" name="where_do_you_live" id="radio-786a86b9-30" value="/guidance/living-in-switzerland" class="govuk-radios__input"></input>
+            
+<label for="radio-786a86b9-30" class="gem-c-label govuk-label govuk-radios__label">
+  Switzerland
+</label>
+
+</div>
+
+</div>
+</fieldset>
+</div>
+      
+  <button class="gem-c-button govuk-button" type="submit">Next</button>
+
+
+    </form>
+
+  </div>
+</div>
+
+        </div>

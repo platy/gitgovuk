@@ -1,0 +1,378 @@
+<div id="finder-frontend">
+          
+
+
+  
+<div class="gem-c-contextual-breadcrumbs">
+    
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs " data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/prepare-eu-exit" data-track-options="{"dimension28":"2","dimension29":"Prepare for Brexit if you live in the UK"}" class="govuk-breadcrumbs__link" aria-current="false" href="/prepare-eu-exit">Prepare for Brexit if you live in the UK</a>
+      </li>
+  </ol>
+</div>
+
+
+</div>
+
+
+
+<form method="get" action="/prepare-eu-exit/all" class="js-live-search-form">
+  <input type="hidden" name="parent" value></input>
+
+  <header class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+        <div class="gem-c-title
+  
+  gem-c-title--margin-bottom-5">
+  <h1 class="gem-c-title__text ">
+    Detailed Brexit guidance
+  </h1>
+</div>
+
+
+
+        <div class="summary">
+          
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+      <p>Detailed information about Brexit changes if you live in the UK.</p>
+</div>
+
+        </div>
+    </div>
+
+
+  </header>
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-one-third" role="search" aria-label="Detailed Brexit guidance">
+      <div class="filter-form">
+    <div id="keywords">
+      
+<div class="govuk-form-group">
+    
+<label for="finder-keyword-search" class="gem-c-label govuk-label">
+          Search <span class="govuk-visually-hidden">Detailed Brexit guidance</span>
+
+</label>
+
+
+
+
+  <input name="keywords" value class="gem-c-input govuk-input" id="finder-keyword-search" type="text" aria-controls="js-search-results-info"></input>
+</div>
+    </div>
+
+  <div data-module="track-click" data-track-category="filterClicked" data-track-action="skip-Link" data-track-label>
+    <a class="gem-c-skip-link govuk-skip-link" href="#js-results">Skip to results</a>
+
+  </div>
+
+    <div data-module="gem-toggle" data-toggle-class="facet-toggle__content--hide" class="facet-toggle--only-on-mobile">
+      <a href="#" class="facet-toggle" data-controls="facet-wrapper" data-expanded="false" data-track-category="filterClicked" data-track-action="accordion" data-toggled-text="- Show fewer search options">
+        + Show more search options
+      </a>
+
+      <div id="facet-wrapper" class="facet-toggle__content facet-toggle__content--hide">
+          
+
+<div class="app-c-option-select" data-input-aria-controls="js-search-results-info">
+  <div class="app-c-option-select__container-head js-container-head">
+    <div class="app-c-option-select__label" id="option-select-title-topic">
+      Topic
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--up"><path d="m798.16 609.84l-256-256c-16.683-16.683-43.691-16.683-60.331 0l-256 256c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l225.84-225.84 225.84 225.84c16.683 16.683 43.691 16.683 60.331 0s16.683-43.691 0-60.331z"></path></svg>
+      <svg version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="app-c-option-select__icon app-c-option-select__icon--down"><path d="m225.84 414.16l256 256c16.683 16.683 43.691 16.683 60.331 0l256-256c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0l-225.84 225.84-225.84-225.84c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z"></path></svg>
+    </div>
+  </div>
+  <div role="group" aria-labelledby="option-select-title-topic" class="app-c-option-select__container js-options-container" id="any_part_of_taxonomy_tree">
+    <div class="app-c-option-select__container-inner js-auto-height-inner">
+      
+<div id="checkboxes-387acc61" class="gem-c-checkboxes govuk-form-group" data-module="checkboxes">
+      <fieldset class="govuk-fieldset">
+        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m gem-c-checkboxes__legend--hidden">Topic</legend>
+
+
+
+        <ul class="govuk-checkboxes gem-c-checkboxes__list">
+            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="any_part_of_taxonomy_tree[]" id="any_part_of_taxonomy_tree-495afdb6-47be-4df1-8b38-91c8adb1eefc" value="495afdb6-47be-4df1-8b38-91c8adb1eefc" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Topic" data-track-label="Business and industry" data-controls="js-search-results-info"></input><label for="any_part_of_taxonomy_tree-495afdb6-47be-4df1-8b38-91c8adb1eefc" class="govuk-label govuk-checkboxes__label">Business and industry</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="any_part_of_taxonomy_tree[]" id="any_part_of_taxonomy_tree-ba951b09-5146-43be-87af-44075eac3ae9" value="ba951b09-5146-43be-87af-44075eac3ae9" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Topic" data-track-label="Crime, justice and law" data-controls="js-search-results-info"></input><label for="any_part_of_taxonomy_tree-ba951b09-5146-43be-87af-44075eac3ae9" class="govuk-label govuk-checkboxes__label">Crime, justice and law</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="any_part_of_taxonomy_tree[]" id="any_part_of_taxonomy_tree-c58fdadd-7743-46d6-9629-90bb3ccc4ef0" value="c58fdadd-7743-46d6-9629-90bb3ccc4ef0" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Topic" data-track-label="Education, training and skills" data-controls="js-search-results-info"></input><label for="any_part_of_taxonomy_tree-c58fdadd-7743-46d6-9629-90bb3ccc4ef0" class="govuk-label govuk-checkboxes__label">Education, training and skills</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="any_part_of_taxonomy_tree[]" id="any_part_of_taxonomy_tree-3cf97f69-84de-41ae-bc7b-7e2cc238fa58" value="3cf97f69-84de-41ae-bc7b-7e2cc238fa58" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Topic" data-track-label="Environment" data-controls="js-search-results-info"></input><label for="any_part_of_taxonomy_tree-3cf97f69-84de-41ae-bc7b-7e2cc238fa58" class="govuk-label govuk-checkboxes__label">Environment</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="any_part_of_taxonomy_tree[]" id="any_part_of_taxonomy_tree-9597c30a-605a-4e36-8bc1-47e5cdae41b3" value="9597c30a-605a-4e36-8bc1-47e5cdae41b3" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Topic" data-track-label="Going and being abroad" data-controls="js-search-results-info"></input><label for="any_part_of_taxonomy_tree-9597c30a-605a-4e36-8bc1-47e5cdae41b3" class="govuk-label govuk-checkboxes__label">Going and being abroad</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="any_part_of_taxonomy_tree[]" id="any_part_of_taxonomy_tree-8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8" value="8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Topic" data-track-label="Health and social care" data-controls="js-search-results-info"></input><label for="any_part_of_taxonomy_tree-8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8" class="govuk-label govuk-checkboxes__label">Health and social care</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="any_part_of_taxonomy_tree[]" id="any_part_of_taxonomy_tree-206b7f3a-49b5-476f-af0f-fd27e2a68473" value="206b7f3a-49b5-476f-af0f-fd27e2a68473" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Topic" data-track-label="Parenting, childcare and children's services" data-controls="js-search-results-info"></input><label for="any_part_of_taxonomy_tree-206b7f3a-49b5-476f-af0f-fd27e2a68473" class="govuk-label govuk-checkboxes__label">Parenting, childcare and children's services</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="any_part_of_taxonomy_tree[]" id="any_part_of_taxonomy_tree-a4038b29-b332-4f13-98b1-1c9709e216bc" value="a4038b29-b332-4f13-98b1-1c9709e216bc" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Topic" data-track-label="Transport" data-controls="js-search-results-info"></input><label for="any_part_of_taxonomy_tree-a4038b29-b332-4f13-98b1-1c9709e216bc" class="govuk-label govuk-checkboxes__label">Transport</label>
+
+
+</li>            <li class="govuk-checkboxes__item">
+              <input type="checkbox" name="any_part_of_taxonomy_tree[]" id="any_part_of_taxonomy_tree-d0f1e5a3-c8f4-4780-8678-994f19104b21" value="d0f1e5a3-c8f4-4780-8678-994f19104b21" class="govuk-checkboxes__input" data-track-category="filterClicked" data-uncheck-track-category="filterRemoved" data-track-action="Topic" data-track-label="Work" data-controls="js-search-results-info"></input><label for="any_part_of_taxonomy_tree-d0f1e5a3-c8f4-4780-8678-994f19104b21" class="govuk-label govuk-checkboxes__label">Work</label>
+
+
+</li>
+</ul>
+</fieldset>
+</div>
+    </div>
+  </div>
+</div>
+
+
+      </div>
+    </div>
+
+  <div class="js-live-search-fallback button__wrapper">
+    
+  <button class="gem-c-button govuk-button gem-c-button--bottom-margin" type="submit">Filter results</button>
+
+
+  </div>
+</div>
+
+    </div>
+
+    <div class="govuk-grid-column-two-thirds js-live-search-results-block filtered-results" role="region" aria-label="Detailed Brexit guidance search results">
+      <div aria-live="assertive" id="js-search-results-info" data-module="remove-filter">
+        <div class="result-info">
+          <div class="govuk-grid-row">
+            <div class="govuk-grid-column-one-third">
+              <h2 class="result-region-header__counter">
+  75 results
+</h2>
+
+            </div>
+              <div class="govuk-grid-column-two-thirds">
+                  <section class="gem-c-subscription-links ">
+    <ul class="gem-c-subscription-links__list gem-c-subscription-links__list--small">
+        <li class="gem-c-subscription-links__list-item gem-c-subscription-links__list-item--small">
+          <a class="gem-c-subscription-links__link gem-c-subscription-links__link--email-alerts " href="/email-signup/?topic=/government/brexit-guidance-for-uk-citizens">Get email alerts</a>
+        </li>
+
+        <li class="gem-c-subscription-links__list-item gem-c-subscription-links__list-item--small">
+          <a class="gem-c-subscription-links__link gem-c-subscription-links__link--feed " href="/prepare-eu-exit/all.atom">Subscribe to feed</a>
+        </li>
+    </ul>
+
+</section>
+              </div>
+          </div>
+          <div class="js-facet-tag-wrapper">
+  <div class="facet-tags" data-module="track-click">
+  </div>
+  <span class="visually-hidden">sorted by Updated (newest)</span>
+</div>
+        </div>
+      </div>
+
+      <div class="govuk-caption-l live-search-loading-message" id="js-loading-message"></div>
+
+        <div class="govuk-form-group">
+          <label class="result-region-header__sort-label govuk-label" for="order">Sort by</label>
+          <select name="order" id="order" class="js-order-results govuk-select" aria-controls="js-search-results-info" data-default-sort-option="updated-newest" data-relevance-sort-option="relevance" data-module="track-select-change"><option data-track-category="dropDownClicked" data-track-action="clicked" data-track-label="Most viewed" value="most-viewed">Most viewed</option>
+<option data-track-category="dropDownClicked" data-track-action="clicked" data-track-label="Relevance" disabled value="relevance">Relevance</option>
+<option data-track-category="dropDownClicked" data-track-action="clicked" data-track-label="Updated (newest)" selected value="updated-newest">Updated (newest)</option>
+<option data-track-category="dropDownClicked" data-track-action="clicked" data-track-label="Updated (oldest)" value="updated-oldest">Updated (oldest)</option></select>
+        </div>
+
+      <div id="js-results">
+        <ul class="finder-results" data-module="track-click">
+
+
+      <li class="document">
+          
+        <a href="/guidance/mobile-roaming-after-eu-exit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.1" data-track-label="/guidance/mobile-roaming-after-eu-exit" data-track-options="{"dimension28":"20","dimension29":"Mobile roaming after EU Exit"}">Mobile roaming after EU Exit</a>
+          <p>How leaving the EU will affect mobile roaming in EU and EEA countries</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/register-to-claim-erasmus-and-esc-funding-from-the-government-guarantee" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.2" data-track-label="/guidance/register-to-claim-erasmus-and-esc-funding-from-the-government-guarantee" data-track-options="{"dimension28":"20","dimension29":"Register to claim Erasmus+ and ESC funding from the government guarantee"}">Register to claim Erasmus+ and ESC funding from the government guarantee</a>
+          <p>Organisations in receipt of funds or those who have submitted a bid to Erasmus+ and the European Solidarity Corps (ESC) should follow this process to register ahead of making a claim against the HMG guarantee.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/government/news/information-for-uk-nationals-living-in-ireland" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.3" data-track-label="/government/news/information-for-uk-nationals-living-in-ireland" data-track-options="{"dimension28":"20","dimension29":"Information for UK nationals living in Ireland"}">Information for UK nationals living in Ireland</a>
+          <p>The British Embassy in Dublin is providing updated information to UK nationals living in Ireland on the UK’s exit from the European Union. </p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/living-in-romania" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.4" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"20","dimension29":"Living in Romania"}">Living in Romania</a>
+          <p>Official information British people moving to and living in Romania need to know, including EU Exit guidance,  residency, healthcare and driving.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/government/news/portugal-approves-no-deal-legislation-protecting-rights-of-uk-nationals" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.5" data-track-label="/government/news/portugal-approves-no-deal-legislation-protecting-rights-of-uk-nationals" data-track-options="{"dimension28":"20","dimension29":"Portugal approves no deal legislation protecting rights of UK nationals"}">Portugal approves no deal legislation protecting rights of UK nationals</a>
+          <p>Portuguese Government publishes legislation setting out measures protecting UK nationals in Portugal if the UK leaves the EU without an agreed deal.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/government/news/british-embassy-outreach-events-in-slovakia" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.6" data-track-label="/government/news/british-embassy-outreach-events-in-slovakia" data-track-options="{"dimension28":"20","dimension29":"British Embassy outreach events in Slovakia"}">British Embassy outreach events in Slovakia</a>
+          <p>The British Embassy in Bratislava and senior Slovak officials will be holding a series of meetings to inform UK nationals living in Slovakia about their rights as the UK leaves the EU.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/government/collections/eu-exit-regulatory-position-statements" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.7" data-track-label="/government/collections/eu-exit-regulatory-position-statements" data-track-options="{"dimension28":"20","dimension29":"EU Exit regulatory position statements"}">EU Exit regulatory position statements</a>
+          <p>Environmental permitting and licensing: when we will not take action if you cannot comply because of EU Exit.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/government/publications/accumulating-radioactive-waste-that-you-cannot-transfer-because-of-eu-exit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.8" data-track-label="/government/publications/accumulating-radioactive-waste-that-you-cannot-transfer-because-of-eu-exit" data-track-options="{"dimension28":"20","dimension29":"Accumulating radioactive waste that you cannot transfer because of EU Exit"}">Accumulating radioactive waste that you cannot transfer because of EU Exit</a>
+          <p>When you can accumulate radioactive waste over the limits in your permit (or EPR exemption) because you cannot transfer it overseas due to EU Exit.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/government/publications/exceeding-permit-limits-when-you-obtain-additional-radioactive-materials" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.9" data-track-label="/government/publications/exceeding-permit-limits-when-you-obtain-additional-radioactive-materials" data-track-options="{"dimension28":"20","dimension29":"Exceeding permit limits when you obtain additional radioactive materials"}">Exceeding permit limits when you obtain additional radioactive materials</a>
+          <p>Holding additional radioactive materials, and managing the resulting wastes, when routine supplies are likely to be interrupted as a result of EU Exit.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/prepare-to-drive-in-the-eu-after-brexit-bus-and-coach-drivers" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.10" data-track-label="/guidance/prepare-to-drive-in-the-eu-after-brexit-bus-and-coach-drivers" data-track-options="{"dimension28":"20","dimension29":"Prepare to drive in the EU after Brexit: bus and coach drivers"}">Prepare to drive in the EU after Brexit: bus and coach drivers</a>
+          <p>What bus and coach drivers from the UK may need to do to drive in the EU and EEA if the UK leaves the EU without a deal on 12 April 2019.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/government/publications/temporary-rates-of-customs-duty-on-imports-after-eu-exit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.11" data-track-label="/government/publications/temporary-rates-of-customs-duty-on-imports-after-eu-exit" data-track-options="{"dimension28":"20","dimension29":"Temporary rates of customs duty (tariffs) on imports after EU Exit"}">Temporary rates of customs duty (tariffs) on imports after EU Exit</a>
+          <p>The temporary rates of customs duty (tariffs) on imports if the UK leaves the EU with no deal.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/government/news/latest-brexit-updates-for-british-nationals-in-slovenia" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.12" data-track-label="/government/news/latest-brexit-updates-for-british-nationals-in-slovenia" data-track-options="{"dimension28":"20","dimension29":"Latest Brexit updates for British nationals in Slovenia"}">Latest Brexit updates for British nationals in Slovenia</a>
+          <p>Information for UK nationals living in Slovenia and some essential steps for everyone to take before the exit deadline (April 12).</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/international-driving-permits-for-uk-drivers-from-28-march-2019" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.13" data-track-label="/guidance/international-driving-permits-for-uk-drivers-from-28-march-2019" data-track-options="{"dimension28":"20","dimension29":"International driving permits for UK drivers from 28 March 2019"}">International driving permits for UK drivers from 28 March 2019</a>
+          <p>The rules for international driving permits have changed.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/trailer-registration" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.14" data-track-label="/guidance/trailer-registration" data-track-options="{"dimension28":"20","dimension29":"Check if you need to register a trailer before towing it abroad"}">Check if you need to register a trailer before towing it abroad</a>
+          <p>You must register commercial trailers over 750kg and all trailers over 3,500kg before towing them through some mainland European countries.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/uk-nationals-living-in-the-eueea-and-switzerland-healthcare" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.15" data-track-label="/guidance/uk-nationals-living-in-the-eueea-and-switzerland-healthcare" data-track-options="{"dimension28":"20","dimension29":"UK nationals living in the EU, EFTA and Switzerland: Healthcare"}">UK nationals living in the EU, EFTA and Switzerland: Healthcare</a>
+          <p>Information on healthcare for UK nationals living in the European Union (EU) or the European Free Trade Area (EFTA) if the UK leaves the EU without a deal.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/pet-travel-to-europe-after-brexit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.16" data-track-label="/guidance/pet-travel-to-europe-after-brexit" data-track-options="{"dimension28":"20","dimension29":"Pet travel to Europe after Brexit"}">Pet travel to Europe after Brexit</a>
+          <p>How to prepare for travel with your pet to any EU country after EU Exit whether the UK leaves the EU with or without a deal.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/government/news/no-deal-eu-exit-government-issues-reminder-to-waste-industry" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.17" data-track-label="/government/news/no-deal-eu-exit-government-issues-reminder-to-waste-industry" data-track-options="{"dimension28":"20","dimension29":"'No deal' EU exit: Government issues reminder to waste industry"}">'No deal' EU exit: Government issues reminder to waste industry</a>
+          <p>Waste industry should review contingency plans in case of disruption should the UK leaves the EU without a deal.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/foreign-travel-insurance" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.18" data-track-label="/guidance/foreign-travel-insurance" data-track-options="{"dimension28":"20","dimension29":"Foreign travel insurance"}">Foreign travel insurance</a>
+          <p>It is important to take out comprehensive travel insurance before travelling abroad</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/prepare-to-drive-in-the-eu-after-brexit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.19" data-track-label="/guidance/prepare-to-drive-in-the-eu-after-brexit" data-track-options="{"dimension28":"20","dimension29":"Prepare to drive in the EU after Brexit"}">Prepare to drive in the EU after Brexit</a>
+          <p>What all drivers from the UK may need to do to drive in the EU and EEA if the UK leaves the EU without a deal on 12 April 2019.</p>
+        <dl>
+        </dl>
+      </li>
+      <li class="document">
+          
+        <a href="/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Detailed Brexit guidance.20" data-track-label="/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers" data-track-options="{"dimension28":"20","dimension29":"Prepare to drive in the EU after Brexit: lorry and goods vehicle drivers"}">Prepare to drive in the EU after Brexit: lorry and goods vehicle drivers</a>
+          <p>What truck and lorry drivers from the UK may need to do to drive in the EU and EEA if the UK leaves the EU without a deal on 12 April 2019.</p>
+        <dl>
+        </dl>
+      </li>
+
+</ul>
+
+
+<nav class="gem-c-pagination" role="navigation" aria-label="Pagination">
+  <ul class="gem-c-pagination__list" data-module="track-click">
+      <li class="gem-c-pagination__item gem-c-pagination__item--next">
+        <a href="/prepare-eu-exit/all?page=2" class="gem-c-pagination__link" rel="next" data-track-category="contentsClicked" data-track-action="next" data-track-label="/prepare-eu-exit/all?page=2" data-track-dimension="next" data-track-dimension-index="29">
+          <span class="gem-c-pagination__link-title">
+            <svg class="gem-c-pagination__link-icon" xmlns="http://www.w3.org/2000/svg" height="13" width="17" viewbox="0 0 17 13">
+              <path fill="currentColor" d="m10.107-0.0078125-1.4136 1.414 4.2926 4.293h-12.986v2h12.896l-4.1855 3.9766 1.377 1.4492 6.7441-6.4062-6.7246-6.7266z"></path>
+            </svg>
+            <span class="gem-c-pagination__link-text">
+              Next page
+            </span>
+          </span>
+            <span class="gem-c-pagination__link-divider visually-hidden">:</span>
+            <span class="gem-c-pagination__link-label">2 of 4</span>
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+      </div>
+
+    </div>
+  </div>
+</form>
+
+        </div>

@@ -1,0 +1,26 @@
+<div id="page" class="email-signup-show">
+      
+<header class="block email-header">
+  <div class="inner-block">
+    <h1>Email alert subscription</h1>
+  </div>
+</header>
+
+<div class="block">
+  <div class="inner-block">
+      <form class="signup-form" id="new_email_signup" action="/government/email-signup" accept-charset="UTF-8" method="post">
+<input name="utf8" type="hidden" value="✓"></input><input type="hidden" name="authenticity_token" value="pobGpT3Tf4MH/0SdozFZtSKBXG9tGWeblkBzzHXVPJ8aApx3ia+QwKgkxvdkRfYS42+htR2euYv1RHikHN7QUg=="></input>
+  <input type="hidden" value="https://www.gov.uk/government/organisations/department-for-transport.atom" name="email_signup[feed]" id="email_signup_feed"></input>
+
+  <p>You're signing up to all alerts for <strong>Department for Transport</strong></p>
+
+  <div class="submit">
+    <button name="button" type="submit">Create subscription</button>
+    <p>You can enter your email address on the next page to complete the subscription</p>
+  </div>
+</form>
+  </div>
+</div>
+
+      
+    </div>

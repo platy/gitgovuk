@@ -1,0 +1,206 @@
+<div id="finder-frontend" class="advanced-search">
+          
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--full-width  gem-c-inverse-header--padding-top ">
+    
+  <div class="govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--inverse" data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+  </ol>
+</div>
+
+
+      </div>
+    </div>
+
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <a class="taxon-link" href="/government/brexit">Brexit</a>
+        <div class="gem-c-title
+  gem-c-title--inverse
+  gem-c-title--margin-bottom-5">
+  <h1 class="gem-c-title__text ">
+    Services
+  </h1>
+</div>
+
+
+      </div>
+
+
+    </div>
+  </div>
+
+  </header>
+
+<div class="govuk-width-container">
+  <form method="get" action="/search/advanced" class="js-live-search-form">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-third">
+        <div class="filter-form">
+    <div id="keywords">
+      
+<div class="govuk-form-group">
+    
+<label for="finder-keyword-search" class="gem-c-label govuk-label">
+          Search <span class="govuk-visually-hidden">Latest on GOV.UK</span>
+
+</label>
+
+
+
+
+  <input name="keywords" value class="gem-c-input govuk-input" id="finder-keyword-search" type="text" aria-controls="js-search-results-info"></input>
+</div>
+    </div>
+
+  <div data-module="track-click" data-track-category="filterClicked" data-track-action="skip-Link" data-track-label>
+    <a class="gem-c-skip-link govuk-skip-link" href="#js-results">Skip to results</a>
+
+  </div>
+
+    <div data-module="gem-toggle" data-toggle-class="facet-toggle__content--hide" class="facet-toggle--only-on-mobile">
+      <a href="#" class="facet-toggle" data-controls="facet-wrapper" data-expanded="false" data-track-category="filterClicked" data-track-action="accordion" data-toggled-text="- Show fewer search options">
+        + Show more search options
+      </a>
+
+      <div id="facet-wrapper" class="facet-toggle__content facet-toggle__content--hide">
+          <input type="hidden" name="subgroup" id="subgroup"></input>
+  <div class="app-c-date-filter" id="public_timestamp" data-module="enable-aria-controls">
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[from]" class="gem-c-label govuk-label">
+  Publication date after
+</label>
+
+
+    
+<span id="hint-e6275a03" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[from]" value class="gem-c-input govuk-input" id="public_timestamp[from]" type="text" aria-describedby="hint-e6275a03" aria-controls="js-search-results-info"></input>
+</div>
+
+    
+<div class="govuk-form-group">
+    
+<label for="public_timestamp[to]" class="gem-c-label govuk-label">
+  Publication date before
+</label>
+
+
+    
+<span id="hint-cac68140" class="gem-c-hint govuk-hint govuk-!-margin-bottom-3">
+  For example, 2005 or 21/11/2014
+</span>
+
+
+  <input name="public_timestamp[to]" value class="gem-c-input govuk-input" id="public_timestamp[to]" type="text" aria-describedby="hint-cac68140" aria-controls="js-search-results-info"></input>
+</div>
+  </div>
+
+  <input type="hidden" name="topic" id="topic" value="/government/brexit"></input>
+  <input type="hidden" name="group" id="group" value="services"></input>
+  <input type="hidden" name="organisations" id="organisations"></input>
+
+      </div>
+    </div>
+
+  <div class="js-live-search-fallback button__wrapper">
+    
+  <button class="gem-c-button govuk-button gem-c-button--bottom-margin" type="submit">Filter results</button>
+
+
+  </div>
+</div>
+
+      </div>
+
+      <div class="govuk-grid-column-two-thirds">
+        <div class="js-live-search-results-block">
+          <div class="filtered-results">
+            <div aria-live="assertive" id="js-search-results-info">
+              <p class="result-info">
+  <strong>13 results in transactions</strong>
+</p>
+
+            </div>
+            <div id="js-results">
+              
+<ul data-module="track-click" class="finder-results">
+    <li class="document">
+      <a href="/settled-status-eu-citizens-families" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.1" data-track-label="/settled-status-eu-citizens-families" data-track-options="{"dimension28":"13","dimension29":"Apply to the EU Settlement Scheme (settled and pre-settled status)"}">Apply to the EU Settlement Scheme (settled and pre-settled status)</a>
+        <p>The EU Settlement Scheme for EU citizens and their families to remain in the UK after it leaves the EU ('Brexit'): who's eligible, how to apply, how much it costs. </p>
+    </li>
+    <li class="document">
+      <a href="/visit-europe-brexit" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.2" data-track-label="/visit-europe-brexit" data-track-options="{"dimension28":"13","dimension29":"Visit Europe after Brexit"}">Visit Europe after Brexit</a>
+        <p>From 12 April, there may be changes to passports, driving, EHIC cards, pet travel and more - check if you need to act now.</p>
+    </li>
+    <li class="document">
+      <a href="/staying-uk-eu-citizen" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.3" data-track-label="/staying-uk-eu-citizen" data-track-options="{"dimension28":"13","dimension29":"Continue to live in the UK after it leaves the EU"}">Continue to live in the UK after it leaves the EU</a>
+        <p>Most EU citizens will need to apply to continue living in the UK after it leaves the EU.</p>
+    </li>
+    <li class="document">
+      <a href="/driving-abroad" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.4" data-track-label="/driving-abroad" data-track-options="{"dimension28":"13","dimension29":"Driving abroad"}">Driving abroad</a>
+        <p>Check if you need an international driving permit (IDP) to drive abroad on holiday and how to exchange your licence if you move abroad - including driving in the EU after Brexit.</p>
+    </li>
+    <li class="document">
+      <a href="/eusettledstatus" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.5" data-track-label="/eusettledstatus" data-track-options="{"dimension28":"13","dimension29":"Stay in the UK after it leaves the EU ('settled status'): step by step"}">Stay in the UK after it leaves the EU ('settled status'): step by step</a>
+        <p>Find out how and when to apply for settled status after the UK leaves the EU.</p>
+    </li>
+    <li class="document">
+      <a href="/government/publications/import-and-export-cash-declaration-c9011" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.6" data-track-label="/government/publications/import-and-export-cash-declaration-c9011" data-track-options="{"dimension28":"13","dimension29":"Declare cash amounts of 10,000 euros or more when leaving or entering EU (C9011)"}">Declare cash amounts of 10,000 euros or more when leaving or entering EU (C9011)</a>
+        <p>Use form C9011 to declare cash amounts of 10,000 euros or more when entering or leaving the EU.</p>
+    </li>
+    <li class="document">
+      <a href="/government/publications/approval-of-premises-as-place-of-first-arrival-application" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.7" data-track-label="/government/publications/approval-of-premises-as-place-of-first-arrival-application" data-track-options="{"dimension28":"13","dimension29":"Approval of premises as Place of First Arrival if there's no Brexit deal: application"}">Approval of premises as Place of First Arrival if there's no Brexit deal: application</a>
+        <p>Get approval for inspection of plant health controlled commodities imported into UK through RoRo (roll-on roll-off) terminals if the UK leaves the EU with no deal.</p>
+    </li>
+    <li class="document">
+      <a href="/government/publications/national-list-application-to-add-a-plant-variety" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.8" data-track-label="/government/publications/national-list-application-to-add-a-plant-variety" data-track-options="{"dimension28":"13","dimension29":"National List: application to add a plant variety"}">National List: application to add a plant variety</a>
+        <p>Form to apply for an agricultural or vegetable plant variety to be added to the UK National List.</p>
+    </li>
+    <li class="document">
+      <a href="/government/publications/national-list-application-to-maintain-a-plant-variety" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.9" data-track-label="/government/publications/national-list-application-to-maintain-a-plant-variety" data-track-options="{"dimension28":"13","dimension29":"National List: application to maintain a plant variety"}">National List: application to maintain a plant variety</a>
+        <p>Form to apply to be a maintainer of a plant variety on the UK National List.</p>
+    </li>
+    <li class="document">
+      <a href="/government/publications/plant-varieties-technical-questionnaires" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.10" data-track-label="/government/publications/plant-varieties-technical-questionnaires" data-track-options="{"dimension28":"13","dimension29":"Plant varieties: technical questionnaires"}">Plant varieties: technical questionnaires</a>
+        <p>TQs to be completed with an application for plant breeder's rights and National Listing.</p>
+    </li>
+    <li class="document">
+      <a href="/government/publications/contingency-plan-template-for-type-2-transporters" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.11" data-track-label="/government/publications/contingency-plan-template-for-type-2-transporters" data-track-options="{"dimension28":"13","dimension29":"Type 2 animal transporters: contingency plan template"}">Type 2 animal transporters: contingency plan template</a>
+        <p>Template for animal transporters to document contingency plan in the event of an emergency.</p>
+    </li>
+    <li class="document">
+      <a href="/government/publications/grain-for-export-application-for-certification" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.12" data-track-label="/government/publications/grain-for-export-application-for-certification" data-track-options="{"dimension28":"13","dimension29":"Grain for export: application for certification"}">Grain for export: application for certification</a>
+        <p>Forms to apply for inspection and certification of consignments of grain for export, and record details of treatment. </p>
+    </li>
+    <li class="document">
+      <a href="/government/publications/plant-breeders-rights-application" class="document__link" data-track-category="navFinderLinkClicked" data-track-action="Latest on GOV.UK.13" data-track-label="/government/publications/plant-breeders-rights-application" data-track-options="{"dimension28":"13","dimension29":"Plant breeders' rights: application"}">Plant breeders' rights: application</a>
+        <p>Form to apply for plant breeders' rights of a new variety of plant.</p>
+    </li>
+</ul>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+
+        </div>

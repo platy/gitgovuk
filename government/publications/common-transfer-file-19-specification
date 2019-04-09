@@ -1,0 +1,224 @@
+<div class="grid-row">
+  <div class="column-two-thirds">
+    <div class="gem-c-title
+  
+  gem-c-title--margin-bottom-5">
+    <p class="gem-c-title__context">
+      Guidance
+    </p>
+  <h1 class="gem-c-title__text gem-c-title__text--long">
+    Common transfer file 19: specification
+  </h1>
+</div>
+
+  </div>
+  
+
+  <div class="column-two-thirds">
+    
+  <p class="gem-c-lead-paragraph ">
+    Technical information to help software suppliers use the common transfer file (CTF) 19. 
+  </p>
+
+  </div>
+</div>
+
+<div class="grid-row">
+  <div class="metadata-logo-wrapper">
+    <div class="column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata">
+    <div class="app-c-published-dates ">
+    Published 18 March 2019
+    <br></br>Last updated 8 April 2019
+      — <a href="#history">see all updates</a>
+</div>
+
+      <div class="app-c-publisher-metadata__other">
+        <dl data-module="track-click">
+            <dt class="app-c-publisher-metadata__term">
+              From:
+            </dt>
+            <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
+                <span class="app-c-publisher-metadata__definition-sentence">
+                  <a href="/government/organisations/department-for-education">Department for Education</a>
+                </span>
+            </dd>
+        </dl>
+      </div>
+  </div>
+
+    </div>
+    <div class="column-one-third">
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="grid-row">
+  <div class="column-two-thirds responsive-bottom-margin">
+      <div class="app-c-important-metadata app-c-important-metadata--bottom-margin">
+    <dl data-module="track-click">
+      <dt class="app-c-important-metadata__term">Applies to: </dt>
+      <dd class="app-c-important-metadata__definition">England</dd>
+    </dl>
+  </div>
+
+    <div class="responsive-bottom-margin">
+       <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="documents-title">Documents</h2>
+
+
+<div aria-labelledby="documents-title">
+  
+<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
+      <section class="attachment embedded" id="attachment_3329372">
+  <div class="attachment-thumb">
+      <a aria-hidden="true" class="thumbnail" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/786502/CTF_19_technical_specification_v_1-0.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/786502/thumbnail_CTF_19_technical_specification_v_1-0.pdf.png"></img></a>
+  </div>
+  <div class="attachment-details">
+    <h2 class="title"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/786502/CTF_19_technical_specification_v_1-0.pdf">Common transfer file 19: specification </a></h2>
+    <p class="metadata">
+        <span class="references">
+          Ref: <span class="unique_reference">DFE-00063-2019</span>
+        </span>
+        <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">1.59MB</span>, <span class="page-length">62 pages</span>
+    </p>
+
+
+  </div>
+</section><section class="attachment embedded" id="attachment_3329374">
+  <div class="attachment-thumb">
+      <a aria-hidden="true" class="thumbnail" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/793569/CTF_19.zip"><img alt src="/government/assets/pub-cover-a380604bb953dc22ac9dcfbf3cc65598327f493c37b09ac497c45148cbaa21b1.png"></img></a>
+  </div>
+  <div class="attachment-details">
+    <h2 class="title"><a aria-describedby="attachment-3329374-accessibility-help" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/793569/CTF_19.zip">Common transfer file 19: schema</a></h2>
+    <p class="metadata">
+        <span class="type"><abbr title="Zip archive">ZIP</abbr></span>, <span class="file-size">24.9KB</span>
+    </p>
+
+
+      <div data-module="toggle" class="accessibility-warning" id="attachment-3329374-accessibility-help">
+        <h2>This file may not be suitable for users of assistive technology.
+          <a class="toggler" href="#attachment-3329374-accessibility-request" data-controls="attachment-3329374-accessibility-request" data-expanded="false">Request an accessible format.</a>
+        </h2>
+        <p id="attachment-3329374-accessibility-request" class="js-hidden">
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email <a href="mailto:alternative.formats@education.gov.uk%20?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Common%20transfer%20file%2019%3A%20schema%0A%20%20Original%20format%3A%20zip%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&subject=Request%20for%20%27Common%20transfer%20file%2019%3A%20schema%27%20in%20an%20alternative%20format">alternative.formats@education.gov.uk </a>.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+        </p>
+      </div>
+  </div>
+</section>
+</div>
+
+</div>
+
+<h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="details-title">Details</h2>
+
+
+<div aria-labelledby="details-title">
+  
+<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
+      <div class="govspeak">
+<p>This technical specification and xml schema are for software suppliers developing and maintaining <abbr title="common transfer file">CTF</abbr> files in school and local authority management information systems (<abbr title="management information systems">MIS</abbr>).</p>
+
+<p>Schools and local authorities use the <abbr title="common transfer file">CTF</abbr> to send pupil data when a pupil transfers from one school to another.
+The <abbr title="common transfer file">CTF</abbr> 19 will be valid for use from September 2019.</p>
+
+<p>You should also refer to the <a href="https://www.gov.uk/government/publications/common-basic-data-set-cbds-database">common basic data set</a> (CBDS). This defines common data items that schools and local authorities use in <abbr title="management information systems">MIS</abbr> software, and that we use in our data collections.</p>
+
+</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+    Published 18 March 2019
+    <br></br>Last updated 8 April 2019
+      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-08T14:13:40.000+01:00">8 April 2019</time>
+              XML schema added.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-18T11:53:00.000+00:00">18 March 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
+</div>
+
+  </div>
+  
+<div class="column-one-third">
+  
+<div class="gem-c-contextual-sidebar">
+
+    
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-ce10fa44" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-ce10fa44" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-ce10fa44" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/common-transfer-file" data-track-options="{"dimension28":"1","dimension29":"Common transfer file (CTF) and co-ordinated admissions data"}" href="/government/collections/common-transfer-file">Common transfer file (CTF) and co-ordinated admissions data</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
+
+</div>
+
+</div>
+
+</div>
+
+
+  <div class="grid-row">
+    <div class="column-two-thirds">
+        
+  <div class="gem-c-contextual-footer">
+    
+  <div class="gem-c-related-navigation">
+
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-14faedb8" data-module="gem-toggle">
+
+    <h2 id="related-nav-topics-14faedb8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/education/data-collection-and-censuses-for-schools" data-track-options="{"dimension28":"1","dimension29":"Data collection and censuses for schools"}" href="/education/data-collection-and-censuses-for-schools">Data collection and censuses for schools</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
+  </div>
+
+
+    </div>
+  </div>

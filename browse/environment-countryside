@@ -1,0 +1,106 @@
+<div class="browse-panes section" data-state="section" data-module="track-click">
+  <div id="section" class="section-pane pane with-sort">
+    <div class="pane-inner alphabetical">
+  <h1 tabindex="-1">Environment and countryside</h1>
+    <p class="sort-order">A to Z</p>
+  <ul>
+      <li class>
+        <a data-track-category="secondLevelBrowseLinkClicked" data-track-action="1" data-track-label="/browse/environment-countryside/boats-waterways" data-track-options="{"dimension28":"8","dimension29":"Boats and waterways"}" href="/browse/environment-countryside/boats-waterways">
+          <h3>Boats and waterways</h3>
+          <p>Boat registration, boat safety and river levels</p>
+</a>      </li>
+      <li class>
+        <a data-track-category="secondLevelBrowseLinkClicked" data-track-action="2" data-track-label="/browse/environment-countryside/coasts" data-track-options="{"dimension28":"8","dimension29":"Coasts"}" href="/browse/environment-countryside/coasts">
+          <h3>Coasts</h3>
+          <p>Coastal erosion, flood defences, bathing water quality</p>
+</a>      </li>
+      <li class>
+        <a data-track-category="secondLevelBrowseLinkClicked" data-track-action="3" data-track-label="/browse/environment-countryside/countryside" data-track-options="{"dimension28":"8","dimension29":"Countryside"}" href="/browse/environment-countryside/countryside">
+          <h3>Countryside</h3>
+          <p>Countryside Code, access to the countryside, landscape</p>
+</a>      </li>
+      <li class>
+        <a data-track-category="secondLevelBrowseLinkClicked" data-track-action="4" data-track-label="/browse/environment-countryside/fishing-hunting" data-track-options="{"dimension28":"8","dimension29":"Fishing and hunting"}" href="/browse/environment-countryside/fishing-hunting">
+          <h3>Fishing and hunting</h3>
+          <p>Fishing rod licences, permission and byelaws, lawful hunting</p>
+</a>      </li>
+      <li class>
+        <a data-track-category="secondLevelBrowseLinkClicked" data-track-action="5" data-track-label="/browse/environment-countryside/flooding-extreme-weather" data-track-options="{"dimension28":"8","dimension29":"Flooding and extreme weather"}" href="/browse/environment-countryside/flooding-extreme-weather">
+          <h3>Flooding and extreme weather</h3>
+          <p>Flood warnings and getting help</p>
+</a>      </li>
+      <li class>
+        <a data-track-category="secondLevelBrowseLinkClicked" data-track-action="6" data-track-label="/browse/environment-countryside/recycling-waste-management" data-track-options="{"dimension28":"8","dimension29":"Recycling and waste management"}" href="/browse/environment-countryside/recycling-waste-management">
+          <h3>Recycling and waste management</h3>
+          <p>Business and commercial waste, environmental permits, report an incident</p>
+</a>      </li>
+      <li class>
+        <a data-track-category="secondLevelBrowseLinkClicked" data-track-action="7" data-track-label="/browse/environment-countryside/treasure-wrecks" data-track-options="{"dimension28":"8","dimension29":"Treasure and wrecks"}" href="/browse/environment-countryside/treasure-wrecks">
+          <h3>Treasure and wrecks</h3>
+          <p>Report wreck material and treasure finds</p>
+</a>      </li>
+      <li class>
+        <a data-track-category="secondLevelBrowseLinkClicked" data-track-action="8" data-track-label="/browse/environment-countryside/wildlife-biodiversity" data-track-options="{"dimension28":"8","dimension29":"Wildlife and biodiversity"}" href="/browse/environment-countryside/wildlife-biodiversity">
+          <h3>Wildlife and biodiversity</h3>
+          <p>Protected species, report a sighting</p>
+</a>      </li>
+  </ul>
+</div>
+
+  </div>
+
+  <div id="root" class="pane root-pane">
+  <h1 class="visuallyhidden" tabindex="-1">All categories</h1>
+  <ul>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="1" data-track-label="/browse/benefits" data-track-options="{"dimension28":"16","dimension29":"Benefits"}" href="/browse/benefits">Benefits</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="2" data-track-label="/browse/births-deaths-marriages" data-track-options="{"dimension28":"16","dimension29":"Births, deaths, marriages and care"}" href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="3" data-track-label="/browse/business" data-track-options="{"dimension28":"16","dimension29":"Business and self-employed"}" href="/browse/business">Business and self-employed</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="4" data-track-label="/browse/childcare-parenting" data-track-options="{"dimension28":"16","dimension29":"Childcare and parenting"}" href="/browse/childcare-parenting">Childcare and parenting</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="5" data-track-label="/browse/citizenship" data-track-options="{"dimension28":"16","dimension29":"Citizenship and living in the UK"}" href="/browse/citizenship">Citizenship and living in the UK</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="6" data-track-label="/browse/justice" data-track-options="{"dimension28":"16","dimension29":"Crime, justice and the law"}" href="/browse/justice">Crime, justice and the law</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="7" data-track-label="/browse/disabilities" data-track-options="{"dimension28":"16","dimension29":"Disabled people"}" href="/browse/disabilities">Disabled people</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="8" data-track-label="/browse/driving" data-track-options="{"dimension28":"16","dimension29":"Driving and transport"}" href="/browse/driving">Driving and transport</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="9" data-track-label="/browse/education" data-track-options="{"dimension28":"16","dimension29":"Education and learning"}" href="/browse/education">Education and learning</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="10" data-track-label="/browse/employing-people" data-track-options="{"dimension28":"16","dimension29":"Employing people"}" href="/browse/employing-people">Employing people</a>
+      </li>
+      <li class="active">
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="11" data-track-label="/browse/environment-countryside" data-track-options="{"dimension28":"16","dimension29":"Environment and countryside"}" href="/browse/environment-countryside">Environment and countryside</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="12" data-track-label="/browse/housing-local-services" data-track-options="{"dimension28":"16","dimension29":"Housing and local services"}" href="/browse/housing-local-services">Housing and local services</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="13" data-track-label="/browse/tax" data-track-options="{"dimension28":"16","dimension29":"Money and tax"}" href="/browse/tax">Money and tax</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="14" data-track-label="/browse/abroad" data-track-options="{"dimension28":"16","dimension29":"Passports, travel and living abroad"}" href="/browse/abroad">Passports, travel and living abroad</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="15" data-track-label="/browse/visas-immigration" data-track-options="{"dimension28":"16","dimension29":"Visas and immigration"}" href="/browse/visas-immigration">Visas and immigration</a>
+      </li>
+      <li class>
+        <a data-track-category="firstLevelBrowseLinkClicked" data-track-action="16" data-track-label="/browse/working" data-track-options="{"dimension28":"16","dimension29":"Working, jobs and pensions"}" href="/browse/working">Working, jobs and pensions</a>
+      </li>
+  </ul>
+</div>
+
+</div>
