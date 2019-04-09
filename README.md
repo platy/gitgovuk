@@ -1,4 +1,4 @@
-# UK Government advise and publications
+# UK Government advice and publications
 
 This is a mirror in git of publications and guidance from the UK government provided at www.gov.uk. The files are generally those related to Brexit and the purpose is to enable usr to see haw the advise has changed using diffs.
 
