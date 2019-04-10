@@ -28,7 +28,7 @@
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 6 November 2018
-    <br></br>Last updated 25 March 2019
+    <br></br>Last updated 10 April 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -99,6 +99,8 @@
       <div class="govspeak">
 <div class="call-to-action">
 <p>To make sure your pet is able to travel from the UK to the EU after EU Exit in any scenario, you should contact your vet at least 4 months before travelling to get the latest advice.</p>
+
+<p>If the UK leaves the EU with no deal, you should not try to enter an EU country with your pet after 11pm (UK time) on 12 April unless you’ve made the necessary preparations. Your pet must have had the <a href="#unlisted">required health checks and you need correct documentation</a>.</p>
 </div>
 
 <p>Read about the <a href="https://www.gov.uk/government/collections/how-to-prepare-if-the-uk-leaves-the-eu-with-no-deal">UK government’s preparations for a no-deal scenario</a>.</p>
@@ -115,7 +117,7 @@
 
 <h2 id="pet-travel-if-the-uk-is-an-unlisted-country">Pet travel if the UK is an unlisted country</h2>
 
-<p>A current EU pet passport issued in the UK will not be valid for travel to the EU.</p>
+<p id="unlisted">A current EU pet passport issued in the UK will not be valid for travel to the EU.</p>
 
 <p>You’ll need to take the following steps:</p>
 
@@ -256,8 +258,6 @@
 
 <p>Speak to your vet to find your nearest official vet in Great Britain. Many veterinary practices will have one in their team.</p>
 
-<p>Contact the Pet Travel Scheme helpline if you need more information.</p>
-
 <h2 id="pet-travel-from-northern-ireland">Pet travel from Northern Ireland</h2>
 
 <p>For information on the Pet Travel Scheme in Northern Ireland, read <a rel="external" href="https://www.nidirect.gov.uk/articles/taking-your-pets-abroad">pet travel guidance from the Department of Agriculture, Environment and Rural Affairs (DAERA)</a>.</p>
@@ -307,10 +307,14 @@ CA3 8DX</span>
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 6 November 2018
-    <br></br>Last updated 25 March 2019
+    <br></br>Last updated 10 April 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-10T08:18:40.000+01:00">10 April 2019</time>
+              Added a line about Day 1.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-25T15:41:38.000+00:00">25 March 2019</time>
               EU Exit rewrite to include listed status information.
@@ -350,16 +354,16 @@ CA3 8DX</span>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-c6fe6dd5" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-e5c616a4" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-c6fe6dd5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-e5c616a4" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-c6fe6dd5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-e5c616a4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -391,9 +395,9 @@ CA3 8DX</span>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-af73e5d4" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-227cd59b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-af73e5d4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-227cd59b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
