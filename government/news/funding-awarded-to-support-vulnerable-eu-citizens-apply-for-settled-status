@@ -28,6 +28,8 @@
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 10 April 2019
+    <br></br>Last updated 12 April 2019
+      — <a href="#history">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -95,6 +97,8 @@
 <p>They only need to complete 3 key steps - prove their identity, show that they live in the UK, and declare any criminal convictions. Deal or no deal, EU citizens will have until at least 31 December 2020 to apply.</p>
 
 <p>Full details of all the organisations receiving funding will be published on GOV.UK in due course.</p>
+
+<p>The Home Office will be publishing a full report on the public beta test phase shortly. Further information will be published in statistical updates and a more detailed quarterly official statistics publication from August 2019.</p>
 </div>
 </div>
 
@@ -130,8 +134,22 @@
 
     </div>
 
-    <div class="app-c-published-dates ">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 10 April 2019
+    <br></br>Last updated 12 April 2019
+      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-12T16:56:55.000+01:00">12 April 2019</time>
+              Information on public beta test phase added. 
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-10T16:56:00.000+01:00">10 April 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -162,9 +180,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-eecf541a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b96a4886" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-eecf541a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-b96a4886" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
