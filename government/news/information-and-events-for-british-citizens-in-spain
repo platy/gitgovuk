@@ -1,5 +1,5 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title
   
   gem-c-title--margin-bottom-5">
@@ -13,7 +13,7 @@
 
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     The British Embassy and Consulates regularly hold events across Spain to update British citizens on the UK’s departure from the European Union.
@@ -22,13 +22,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
+    <div class="govuk-grid-column-two-thirds metadata-column">
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 20 November 2018
-    <br></br>Last updated 11 April 2019
+    <br></br>Last updated 30 April 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +47,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +55,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds content-bottom-margin">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
       <figure class="app-c-figure">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81176/s300_Outreach_page3.png" alt="Spain outreach events"></img>
@@ -77,14 +77,19 @@
 <table>
   <tbody>
     <tr>
-      <td>Tuesday 23 April, 12:00pm</td>
-      <td>Fuengirola (Malaga)</td>
-      <td>Casa de la Cultura, Av. Juan Gómez Juanito, 12</td>
+      <td>Wednesday 8 May, 6:00pm</td>
+      <td>Las Palmas de Gran Canaria</td>
+      <td>The British Club, Calle León y Castillo, 274</td>
     </tr>
     <tr>
       <td>Thursday 9 May, 12:00pm</td>
       <td>Puerto de la Cruz (Tenerife)</td>
       <td>The English Library, Calle Irlanda, 5</td>
+    </tr>
+    <tr>
+      <td>Tuesday 21 May, 12:30pm</td>
+      <td>San Juan (Alicante)</td>
+      <td>Instituto Alicantino de la Familia Pedro Herrero, Calle Ramón de Campoamor, 25</td>
     </tr>
     <tr>
       <td>Date to be confirmed</td>
@@ -148,6 +153,10 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>23 April</td>
+      <td>Fuengirola (Malaga)</td>
+    </tr>
     <tr>
       <td>5 April</td>
       <td>Can Pastilla (Mallorca)</td>
@@ -777,10 +786,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 20 November 2018
-    <br></br>Last updated 11 April 2019
+    <br></br>Last updated 30 April 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-30T15:24:56.000+01:00">30 April 2019</time>
+              EU Exit update: new information on citizens outreach meetings across Spain
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-11T14:09:23.000+01:00">11 April 2019</time>
               EU Exit update: new information on citizens outreach meetings across Spain and added information about the Facebook Live readout
@@ -853,7 +866,7 @@
   </div>
 
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
@@ -867,8 +880,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -878,9 +891,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e10d1e18" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ed647ced" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-e10d1e18" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-ed647ced" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -894,9 +907,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-e10d1e18" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-ed647ced" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-e10d1e18" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-ed647ced" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
