@@ -1,5 +1,5 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title
   
   gem-c-title--margin-bottom-5">
@@ -13,7 +13,7 @@
 
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     Official information British people moving to and living in Denmark need to know, including EU Exit guidance,  residency, healthcare and driving.
@@ -22,13 +22,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
+    <div class="govuk-grid-column-two-thirds metadata-column">
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 21 November 2013
-    <br></br>Last updated 16 April 2019
+    <br></br>Last updated 3 May 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +47,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +55,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -327,7 +327,7 @@
 
 <h2 id="driving-in-denmark">Driving in Denmark</h2>
 
-<p>If you are resident in Denmark, you should <a rel="external" href="https://lifeindenmark.borger.dk/Coming-to-Denmark/Foreign-driving-licences">exchange your UK licence for a Danish one</a>. You can still use your Danish licence in the UK for short visits, or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+<p>If you are a UK licence holder living in Denmark, you should <a rel="external" href="https://lifeindenmark.borger.dk/Coming-to-Denmark/Foreign-driving-licences">exchange your UK licence for a Danish one</a> before the UK leaves the EU. If the UK leaves the EU without a deal on 31 October 2019, you will have to pass a controlling driving test to be able to carry on driving in Denmark. You can still use your Danish licence in the UK for short visits, or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
 <p>If you have an old UK licence that does not have a 10 year validity period, you must renew or exchange it for a Danish licence once you’ve been resident in Denmark for 2 years.</p>
 
@@ -339,7 +339,8 @@
   <li><a rel="external" href="https://lifeindenmark.borger.dk/Coming-to-Denmark/Foreign-driving-licences">driving licence exchange and renewals</a></li>
   <li>what you need to <a href="https://www.gov.uk/driving-abroad">drive abroad</a>
 </li>
-  <li><a rel="external" href="https://www.visitdenmark.com/a-z/6245/2914">driving rules in Denmark</a></li>
+  <li>
+<a rel="external" href="https://www.trafikstyrelsen.dk/DA/Om-Trafik-Bygge-og-Boligstyrelsen/Vejledning-om-Brexit/Spoergsmaal-og-svar-borgere.aspx">driving rules in Denmark</a> (In Danish)</li>
 </ul>
 
 <h2 id="bringing-a-uk-registered-vehicle-to-denmark">Bringing a UK-registered vehicle to Denmark</h2>
@@ -354,7 +355,7 @@
 
 <p>If the UK leaves the EU with a deal, driving licence rules will stay the same until the end of the implementation period.</p>
 
-<p>If the UK leaves the EU without a deal and you are already resident in Denmark, you should <a rel="external" href="https://lifeindenmark.borger.dk/Coming-to-Denmark/Foreign-driving-licences">exchange your UK licence for a Danish one</a>. You can still use your Danish licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+<p>If you are a UK license holder living in Denmark, you should <a rel="external" href="https://lifeindenmark.borger.dk/Coming-to-Denmark/Foreign-driving-licences">exchange your UK licence for a Danish one</a> before the UK leaves the EU. If the UK leaves the EU without a deal on 31 October, you will have to pass a controlling driving test to be able to carry on driving in Denmark. You can still use your Danish licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
 <p>If you arrive after EU Exit and your driving licence was issued before the day the UK leaves the EU, you will be able to exchange your driving licence without having to pass a controlling driving test. If your driving licence was issued after the day the UK leaves the EU, you will have to pass a controlled driving test.</p>
 
@@ -453,10 +454,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 21 November 2013
-    <br></br>Last updated 16 April 2019
+    <br></br>Last updated 3 May 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-03T09:40:58.000+01:00">3 May 2019</time>
+              EU Exit update: Change of information on driving licences in Denmark
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-16T15:35:18.000+01:00">16 April 2019</time>
               EU Exit update: EU Exit information updated - specifically on Passports and travel after the UK leaves the EU, pensions and returning to the UK 
@@ -537,23 +542,23 @@
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-48f1e508" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-2825af53" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-48f1e508" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-2825af53" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-48f1e508" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-2825af53" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -565,9 +570,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-48f1e508" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2825af53" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-48f1e508" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-2825af53" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -587,8 +592,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -598,9 +603,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e82f527d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-369b5fdd" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-e82f527d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-369b5fdd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
