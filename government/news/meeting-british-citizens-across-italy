@@ -1,5 +1,5 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title
   
   gem-c-title--margin-bottom-5">
@@ -13,7 +13,7 @@
 
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     The British Embassy in Rome is holding meetings across Italy to update British citizens working and living in the country. 
@@ -22,13 +22,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
+    <div class="govuk-grid-column-two-thirds metadata-column">
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 8 November 2018
-    <br></br>Last updated 26 April 2019
+    <br></br>Last updated 7 May 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +47,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +55,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds content-bottom-margin">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
       <figure class="app-c-figure">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81079/s300_UK_ITA.jpg" alt="Union Jack and Italian Tricolour"></img>
@@ -75,12 +75,15 @@
 <h4 id="upcoming-british-citizens-outreach-meetings">Upcoming British citizens outreach meetings:</h4>
 
 <ul>
-  <li>2 May 2019 - Lucca</li>
+  <li>9 May 2019 - Venice</li>
 </ul>
 
 <h4 id="previous-british-citizens-outreach-meetings-across-italy">Previous British citizens outreach meetings across Italy:</h4>
 
 <ul>
+  <li>
+    <p>2 May 2019 - Lucca</p>
+  </li>
   <li>
     <p>11 April 2019 - Turin</p>
   </li>
@@ -222,10 +225,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 8 November 2018
-    <br></br>Last updated 26 April 2019
+    <br></br>Last updated 7 May 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-07T14:07:42.000+01:00">7 May 2019</time>
+              New town hall meeting in Venice  - updated 7 May 2019
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-26T11:36:30.000+01:00">26 April 2019</time>
               New meeting with British nationals scheduled for Lucca.
@@ -278,7 +285,7 @@
   </div>
 
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
@@ -292,8 +299,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -303,9 +310,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dc1a2c58" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dfffefc0" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-dc1a2c58" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-dfffefc0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -320,9 +327,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-dc1a2c58" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-dfffefc0" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-dc1a2c58" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-dfffefc0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
