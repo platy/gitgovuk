@@ -1,5 +1,5 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title
   
   gem-c-title--margin-bottom-5">
@@ -13,7 +13,7 @@
 
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     The British Embassy in Lisbon are holding meetings across Portugal to update UK nationals working and living in the country. 
@@ -22,13 +22,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
+    <div class="govuk-grid-column-two-thirds metadata-column">
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 22 November 2018
-    <br></br>Last updated 17 April 2019
+    <br></br>Last updated 7 May 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +47,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +55,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds content-bottom-margin">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
       <figure class="app-c-figure">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81496/s300_outreach_general_SITE.png" alt="Outreach events Portugal"></img>
@@ -79,24 +79,31 @@
 <table>
   <tbody>
     <tr>
-      <td>3 May 2019</td>
-      <td>10h00</td>
-      <td>Tábua (by Skype video)</td>
-      <td>Câmara Municipal de Tábua, Praça da República 3420-308</td>
-      <td>Register for this event <a rel="external" href="https://www.eventbrite.co.uk/e/british-community-event-in-tabua-tickets-60521454299">here</a>
+      <td>16 May 2019</td>
+      <td>17h30</td>
+      <td>Coimbra</td>
+      <td>Casa Municipal da Cultura, Rua Pedro Monteiro 64 300-329 Coimbra</td>
+      <td>Register for this event <a rel="external" href="https://www.eventbrite.co.uk/e/british-consul-in-coimbra-tickets-61500061339">here</a>
 </td>
     </tr>
     <tr>
-      <td>May 2019</td>
-      <td>Coimbra</td>
-      <td>TBC</td>
+      <td>27 May 2019</td>
+      <td>Ask the Embassy - Facebook Q&A session</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>May / June 2019</td>
-      <td>Live Facebook Q&A thematic sessions</td>
-      <td>TBC</td>
+      <td>17 June 2019</td>
+      <td>Live thematic Facebook Q&A session</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>24 June 2019</td>
+      <td>Live thematic Facebook Q&A session</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -135,6 +142,10 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>May 2019</td>
+      <td>Tábua</td>
+    </tr>
     <tr>
       <td>March 2019</td>
       <td>Funchal</td>
@@ -274,10 +285,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 22 November 2018
-    <br></br>Last updated 17 April 2019
+    <br></br>Last updated 7 May 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-07T16:38:21.000+01:00">7 May 2019</time>
+              We've updated with new outreach events in Portugal.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-17T16:44:39.000+01:00">17 April 2019</time>
               We've added information about next outreach events.
@@ -333,7 +348,7 @@
   </div>
 
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
@@ -347,8 +362,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -358,9 +373,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a7956fcd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-34101abd" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a7956fcd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-34101abd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -372,9 +387,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-a7956fcd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-34101abd" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-a7956fcd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-34101abd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
