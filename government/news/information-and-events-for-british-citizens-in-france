@@ -28,7 +28,7 @@
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 20 September 2018
-    <br></br>Last updated 3 May 2019
+    <br></br>Last updated 10 May 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -76,6 +76,8 @@
   <li>Limoges: 16 May 2019 - You can <a rel="external" href="http://bit.ly/2GBlFtJ">register for this event here</a>
 </li>
   <li>Laval: 16 May 2019 - You can <a rel="external" href="http://bit.ly/2UZW3Mi">register for this event here</a>
+</li>
+  <li>Grenoble: 27 May 2019 - You can <a rel="external" href="http://bit.ly/2E1AqFJ">register for this event here</a>
 </li>
 </ul>
 
@@ -383,10 +385,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 20 September 2018
-    <br></br>Last updated 3 May 2019
+    <br></br>Last updated 10 May 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-10T14:04:28.000+01:00">10 May 2019</time>
+              New Citizens Outreach meeting announced - Grenoble 27 May 2019
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-03T17:00:22.000+01:00">3 May 2019</time>
               New citizens outreach meeting announced in Laval (Mayenne) on 16 May 2019. 
@@ -479,9 +485,9 @@ Nantes 25/02
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-af1db75e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-97ba22eb" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-af1db75e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-97ba22eb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -495,9 +501,9 @@ Nantes 25/02
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-af1db75e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-97ba22eb" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-af1db75e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-97ba22eb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
