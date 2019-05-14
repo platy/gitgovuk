@@ -28,7 +28,7 @@
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 20 November 2018
-    <br></br>Last updated 7 May 2019
+    <br></br>Last updated 14 May 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -77,19 +77,19 @@
 <table>
   <tbody>
     <tr>
-      <td>Wednesday 8 May, 6:00pm</td>
-      <td>Las Palmas de Gran Canaria</td>
-      <td>The British Club, Calle León y Castillo, 274</td>
-    </tr>
-    <tr>
-      <td>Thursday 9 May, 12:00pm</td>
-      <td>Puerto de la Cruz (Tenerife)</td>
-      <td>The English Library, Calle Irlanda, 5</td>
-    </tr>
-    <tr>
       <td>Tuesday 21 May, 1:15pm</td>
       <td>San Juan (Alicante)</td>
       <td>Instituto Alicantino de la Familia Pedro Herrero, Calle Ramón de Campoamor, 25</td>
+    </tr>
+    <tr>
+      <td>Friday 24 May, 2:00pm</td>
+      <td>Puerto Santiago (Santa Cruz de Tenerife)</td>
+      <td>Santiago’s Diner, Calle Las Rosas</td>
+    </tr>
+    <tr>
+      <td>Friday 21 June, 10:30am</td>
+      <td>Orgiva (Granada)</td>
+      <td>Orgiva Tea Garden, Ctjo Las Chimeneas</td>
     </tr>
     <tr>
       <td>Date to be confirmed</td>
@@ -153,6 +153,14 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>9 May</td>
+      <td>Puerto de la Cruz (Tenerife)</td>
+    </tr>
+    <tr>
+      <td>8 May</td>
+      <td>Las Palmas de Gran Canaria</td>
+    </tr>
     <tr>
       <td>23 April</td>
       <td>Fuengirola (Malaga)</td>
@@ -786,10 +794,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 20 November 2018
-    <br></br>Last updated 7 May 2019
+    <br></br>Last updated 14 May 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-14T11:44:03.000+01:00">14 May 2019</time>
+              EU Exit update: new information on citizens outreach meetings across Spain
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-07T13:20:59.000+01:00">7 May 2019</time>
               EU Exit update: Alicante event start time change  21 May 
@@ -895,9 +907,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4a0e3de3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1774e85e" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-4a0e3de3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-1774e85e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -911,9 +923,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-4a0e3de3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-1774e85e" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-4a0e3de3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-1774e85e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
