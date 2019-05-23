@@ -1,5 +1,5 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title
   
   gem-c-title--margin-bottom-5">
@@ -13,7 +13,7 @@
 
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     Official information for UK nationals moving to or living in Portugal, including guidance on EU Exit, residency, passports and healthcare.
@@ -22,13 +22,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
+    <div class="govuk-grid-column-two-thirds metadata-column">
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 22 March 2013
-    <br></br>Last updated 12 April 2019
+    <br></br>Last updated 23 May 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +47,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +55,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -138,7 +138,7 @@ EU Exit: what you should do</a>
 <ul>
   <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-portugal">email alerts on Living in Portugal</a>
 </li>
-  <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe"><abbr title="United Kingdom">UK</abbr> nationals living in the <abbr title="European Union">EU</abbr>: essential information</a>
+  <li>read <a rel="external" href="https://www.portugal.gov.pt/download-ficheiros/ficheiro.aspx?v=d045bbca-a911-48a8-962c-600103db8fe8ce/advice-for-british-nationals-travelling-and-living-in-europe"><abbr title="United Kingdom">UK</abbr> nationals living in the <abbr title="European Union">EU</abbr>: essential information</a>
 </li>
   <li>follow the <a rel="external" href="https://www.facebook.com/britishembassylisbon">British Embassy in Portugal</a> and <a rel="external" href="https://www.facebook.com/BritsInPortugal">Brits in Portugal</a> on Facebook and <a rel="external" href="https://twitter.com/ukinportugal">Twitter</a>
 </li>
@@ -173,11 +173,15 @@ EU Exit: what you should do</a>
 
 <p>You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, there will be new travel rules. You must have at least 6 months left on your passport from the date of travel.</p>
+<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, new travel rules will apply. You should have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland).</p>
 
-<p>The European Commission has said you <a rel="external" href="http://europa.eu/rapid/press-release_IP-18-6402_en.htm">may not need a visa for short stays</a> elsewhere in the Schengen area or the <abbr title="European Union">EU</abbr>. You may be able to stay for up to 90 days in an <abbr title="European Union">EU</abbr> country, within a 180 day period.</p>
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your <abbr title="United Kingdom">UK</abbr> passport. What happens after 2020 will form part of the next stage of the negotiations.</p>
+<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+
+<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/"><abbr title="United Kingdom">UK</abbr> nationals will not need visas for short stays elsewhere in the <abbr title="European Union">EU</abbr></a>. You will be able to stay up to 90 days in another <abbr title="European Union">EU</abbr> country, within any 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an <abbr title="European Union">EU</abbr> Member State, you will be able to transit through other <abbr title="European Union">EU</abbr> Member States to reach your country of residence. We will update this guidance as more information becomes available.</p>
+
+<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your <abbr title="United Kingdom">UK</abbr> passport. What happens after 2020 will form the next part of negotiations.</p>
 
 <h2 id="healthcare">Healthcare</h2>
 
@@ -259,7 +263,7 @@ EU Exit: what you should do</a>
 
 <ul>
   <li>
-<a rel="external" href="http://www.dges.gov.pt/pt/pagina/declaracoes-naric">National Academic Recognition Information Centre</a> for honours, masters and <abbr title="doctor of philosophy">PhD</abbr> degrees</li>
+<a rel="external" href="https://www.dges.gov.pt/en/pagina/naric-statements">National Academic Recognition Information Centre</a> for honours, masters and <abbr title="doctor of philosophy">PhD</abbr> degrees</li>
   <li>
 <a rel="external" href="http://www.dge.mec.pt/equivalencias-estrangeiras">Direção-Geral da Educação</a> for primary, secondary, further education or similar school certificates or diplomas</li>
 </ul>
@@ -398,8 +402,6 @@ EU Exit: what you should do</a>
 
 <p>When you exchange your driving licence, <a rel="external" href="http://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx">Instituto da Mobilidade e de Transportes (<abbr title="Instituto da Mobilidade e de Transportes">IMT</abbr>)</a> will issue a temporary permit (guia) as a replacement until your new Portuguese driving licence arrives. You can only drive in Portugal with this temporary permit (guia).</p>
 
-<p>If you want to drive in the <abbr title="United Kingdom">UK</abbr> during this time, <a rel="external" href="http://www.imt-ip.pt/sites/IMTT/Portugues/Condutores/CartaConducao/licenainternacionalconducao/Paginas/Paginaparalistagemdesubmenu.aspx">apply for an International Driving Permit (IDP) 1968</a></p>
-
 <p>If you are visiting Portugal you will not need an International Driving Permit (IDP) to be able to drive here, if you stay less than 185 consecutive days. You may need to hold an IDP to drive through other <abbr title="European Union">EU</abbr> member states.</p>
 
 <p>Find more information on recognition and exchange of driving licences in the <a rel="external" href="http://www.imt-ip.pt/sites/IMTT/Portugues/Noticias/Paginas/Brexit-Cartas-Conducao-DrivingLicences.aspx">Instituto da Mobilidade e de Transportes (<abbr title="Instituto da Mobilidade e de Transportes">IMT</abbr>) guidance on the <abbr title="United Kingdom">UK</abbr>’s exit</a>(available in Portuguese and English).</p>
@@ -414,7 +416,7 @@ EU Exit: what you should do</a>
 
 <p>If you are thinking of buying a coastal, river or lakeside property, ensure it’s not affected by the <a rel="external" href="https://dre.pt/web/guest/legislacao-consolidada/-/lc/34543575/view?p_p_state=maximized">2005 water resources law</a>.</p>
 
-<p>If you buy rural property, make sure you comply with the <a rel="external" href="https://www.portugal.gov.pt/download-ficheiros/ficheiro.aspx?v=d045bbca-a911-48a8-962c-600103db8fe8">law on preventing forest fires</a>.</p>
+<p>If you buy rural property, make sure you comply with the <a rel="external" href="https://www.portugal.gov.pt/download-ficheiros/ficheiro.aspx?v=d045bbca-a911-48a8-962c-600103db8fe8">law on preventing forest fires</a> (in Portuguese).</p>
 
 <h2 id="voting">Voting</h2>
 
@@ -489,11 +491,35 @@ EU Exit: what you should do</a>
 
 <p>Tell the <abbr title="United Kingdom">UK</abbr> and Portuguese authorities if you are returning to the <abbr title="United Kingdom">UK</abbr> permanently.</p>
 
+<p>You should read our guidance on:</p>
+
+<ul>
+  <li>
+    <p><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#what-this-could-mean-for-you">returning to live in the <abbr title="United Kingdom">UK</abbr></a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal">returning to live in the <abbr title="United Kingdom">UK</abbr> in the case of no-deal</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#bringing-your-family-to-the-uk">bringing your family to the <abbr title="United Kingdom">UK</abbr></a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal#access-to-higher-education-19-further-education-and-apprenticeship-funding-in-the-uk">access to higher education, 19+ further education and apprenticeship funding</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/importing-vehicles-into-the-uk">importing vehicles to the <abbr title="United Kingdom">UK</abbr></a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/take-pet-abroad">bringing your pet to the <abbr title="United Kingdom">UK</abbr></a> and <a href="https://www.gov.uk/importing-vehicles-into-the-uk">importing vehicles to the <abbr title="United Kingdom">UK</abbr></a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/tax-return-uk">checking your tax status after returning to the <abbr title="United Kingdom">UK</abbr></a></p>
+  </li>
+</ul>
+
 <p>To move your pension to the <abbr title="United Kingdom">UK</abbr>, contact the <a href="https://www.gov.uk/international-pension-centre">International Pension Centre</a>.</p>
 
 <p>Check if your <a href="https://www.gov.uk/tax-return-uk">tax status will change if you return to the <abbr title="United Kingdom">UK</abbr></a>.</p>
-
-<p>Read our guidance on <a href="https://www.gov.uk/take-pet-abroad">bringing your pet to the <abbr title="United Kingdom">UK</abbr></a> and <a href="https://www.gov.uk/importing-vehicles-into-the-uk">importing vehicles to the <abbr title="United Kingdom">UK</abbr></a>.</p>
 
 <p>If you get healthcare in Portugal through the S1 form, you must contact the Overseas Healthcare Team on +44 (0)191 218 1999 to make sure your S1 is cancelled at the right time.</p>
 
@@ -508,10 +534,18 @@ EU Exit: what you should do</a>
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 22 March 2013
-    <br></br>Last updated 12 April 2019
+    <br></br>Last updated 23 May 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-23T15:13:08.000+01:00">23 May 2019</time>
+              We've updated the section on driving in Portugal.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-15T11:01:48.000+01:00">15 April 2019</time>
+              EU Exit update: new information about validity added to passports section
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-12T15:06:41.000+01:00">12 April 2019</time>
               EU Exit update: added in EU Exit information in healthcare, visas and residency, driving and working sections 
@@ -618,23 +652,23 @@ In addition: Updated information on subject access request - amended website lin
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-0b2b99d1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-efdd0e98" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-0b2b99d1" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-efdd0e98" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-0b2b99d1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-efdd0e98" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -646,9 +680,9 @@ In addition: Updated information on subject access request - amended website lin
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-0b2b99d1" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-efdd0e98" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-0b2b99d1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-efdd0e98" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -668,8 +702,8 @@ In addition: Updated information on subject access request - amended website lin
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -679,9 +713,9 @@ In addition: Updated information on subject access request - amended website lin
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d0d77b85" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-71849743" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d0d77b85" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-71849743" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
