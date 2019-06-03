@@ -1,5 +1,5 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title
   
   gem-c-title--margin-bottom-5">
@@ -13,7 +13,7 @@
 
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     Official information British people moving to and living in Malta need to know, including EU Exit guidance,  residency, healthcare and driving.
@@ -22,13 +22,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
+    <div class="govuk-grid-column-two-thirds metadata-column">
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 28 April 2016
-    <br></br>Last updated 29 April 2019
+    <br></br>Last updated 3 June 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +47,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +55,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -188,15 +188,17 @@ This residency document will be:</p>
 
 <h3 id="passports-and-travel-after-eu-exit">Passports and travel after EU exit</h3>
 
-<p>You must <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check you have enough time left on your passport to travel</a>.</p>
-
-<p>If the UK leaves the EU without a deal, you will need at least 6 months left on your passport to travel to most countries in Europe. If you renewed your passport early, you may need more than 6 months left.</p>
-
-<p>You can find out more about <a href="https://www.gov.uk/guidance/passport-rules-for-travel-to-europe-after-brexit">passport rules for travel to Europe after the UK leaves the EU</a>.</p>
-
-<p>If the UK leaves the EU without a deal, the European Commission has said you may not need visas for short stays elsewhere in the Schengen area or the EU. You may be able to stay for up to 90 days in any EU country, within a 180 day period.</p>
+<h4 id="passport-validity-6-month-rule-and-eu-visa-free-travel">Passport validity (6 Month Rule) and EU visa-free travel</h4>
 
 <p>If the UK leaves the EU with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your UK passport. What happens after 2020 will form the next part of negotiations.</p>
+
+<p>If the UK leaves the EU without a deal, new travel rules will apply. You should have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland).</p>
+
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
+
+<p>You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+
+<p>If the UK leaves the EU without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/">UK nationals will not need visas for short stays elsewhere in the EU</a>. You will be able to stay up to 90 days in another EU, EEA or EFTA country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an EU, EEA or EFTA country, you will be able to transit through other EU, EEA or EFTA countries to reach your country of residence. We will update this guidance as more information becomes available.</p>
 
 <p>If you are legally resident in Malta, you should carry your residency permit with you when exiting or entering Malta after the UK leaves the EU.</p>
 
@@ -476,10 +478,14 @@ This residency document will be:</p>
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 28 April 2016
-    <br></br>Last updated 29 April 2019
+    <br></br>Last updated 3 June 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-03T11:27:37.000+01:00">3 June 2019</time>
+              EU Exit update: added changes to 'Passport Validity (6 Month Rule)  and EU Visa-Free Travel' section
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-29T11:28:12.000+01:00">29 April 2019</time>
               EU Exit update: updated information in pensions, healthcare, passports and returning to the UK sections
@@ -562,23 +568,23 @@ This residency document will be:</p>
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-2ae06d7d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-d36a61b6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2ae06d7d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d36a61b6" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-2ae06d7d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-d36a61b6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -598,8 +604,8 @@ This residency document will be:</p>
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -609,9 +615,9 @@ This residency document will be:</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d7c75f88" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-eff7ab14" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d7c75f88" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-eff7ab14" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
