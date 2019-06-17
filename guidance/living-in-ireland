@@ -1,5 +1,5 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title
   
   gem-c-title--margin-bottom-5">
@@ -13,7 +13,7 @@
 
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     Official information British people moving to and living in Ireland need to know, including EU Exit guidance, residency, healthcare and driving.
@@ -22,13 +22,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
+    <div class="govuk-grid-column-two-thirds metadata-column">
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 14 May 2013
-    <br></br>Last updated 15 April 2019
+    <br></br>Last updated 17 June 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +47,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +55,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -160,17 +160,19 @@
 
 <h3 id="passports-and-travel-after-eu-exit">Passports and travel after EU Exit</h3>
 
+<p>If the UK leaves the EU with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your UK passport. What happens after 2020 will form the next part of negotiations.</p>
+
 <p>If the UK leaves the EU without a deal, under the CTA the rules for travelling or working in Ireland will not change and you will not require a visa. However there will be changes for living and working in other EU countries.</p>
+
+<p>If the UK leaves the EU without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/">UK nationals will not need visas for short stays elsewhere in the EU</a>. You will be able to stay up to 90 days in another EU, EEA or EFTA country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an EU, EEA or EFTA country, you will be able to transit through other EU, EEA or EFTA countries to reach your country of residence.</p>
+
+<p>This does not apply to UK nationals in Ireland. Please see <a href="https://www.gov.uk/government/publications/common-travel-area-guidance">Common Travel Area</a> We will update this guidance as more information becomes available.</p>
 
 <p>If the UK leaves the EU without a deal, new travel rules will apply. You should have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland).</p>
 
 <p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
 <p>You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
-
-<p>If the UK leaves the EU without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/">UK nationals will not need visas for short stays elsewhere in the EU</a>. You will be able to stay up to 90 days in another EU country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an EU Member State, you will be able to transit through other EU Member States to reach your country of residence. We will update this guidance as more information becomes available.</p>
-
-<p>If the UK leaves the EU with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your UK passport. What happens after 2020 will form the next part of negotiations.</p>
 
 <h2 id="healthcare">Healthcare</h2>
 
@@ -372,10 +374,14 @@ Read more about <a href="https://www.gov.uk/guidance/foreign-travel-insurance">w
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 14 May 2013
-    <br></br>Last updated 15 April 2019
+    <br></br>Last updated 17 June 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-17T11:26:04.000+01:00">17 June 2019</time>
+              EU Exit update: added information on travel in EU, EEA and EFTA countries in the event of a no deal exit.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-15T13:13:24.000+01:00">15 April 2019</time>
               EU Exit update: added in new information in passports and travel and returning to the UK sections
@@ -448,23 +454,23 @@ Read more about <a href="https://www.gov.uk/guidance/foreign-travel-insurance">w
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-36a13049" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-8df7c23a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-36a13049" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-8df7c23a" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-36a13049" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-8df7c23a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -484,8 +490,8 @@ Read more about <a href="https://www.gov.uk/guidance/foreign-travel-insurance">w
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -495,9 +501,9 @@ Read more about <a href="https://www.gov.uk/guidance/foreign-travel-insurance">w
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-05af1b30" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-378a0346" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-05af1b30" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-378a0346" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
