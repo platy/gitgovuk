@@ -29,7 +29,7 @@
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 15 November 2018
-    <br></br>Last updated 19 June 2019
+    <br></br>Last updated 21 June 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -66,7 +66,7 @@
 <div aria-labelledby="documents-title">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3464031">
+      <section class="attachment embedded" id="attachment_3473408">
   <div class="attachment-thumb">
       <a aria-hidden="true" class="thumbnail" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations/locations-offering-chip-checker-services"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
@@ -145,10 +145,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 15 November 2018
-    <br></br>Last updated 19 June 2019
+    <br></br>Last updated 21 June 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-21T12:55:40.000+01:00">21 June 2019</time>
+              Location in Bristol added.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-19T14:59:09.000+01:00">19 June 2019</time>
               Locations in Lewisham and Truro added.
@@ -274,16 +278,16 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-a21e7452" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-a198ca80" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-a21e7452" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-a198ca80" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-a21e7452" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-a198ca80" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -314,14 +318,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-294a36d0" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3e6a499d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-294a36d0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-3e6a499d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"1","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/entering-staying-uk/rights-eu-eea-citizens" data-track-options="{"dimension28":"2","dimension29":"Rights of EU and EEA citizens"}" href="/entering-staying-uk/rights-eu-eea-citizens">Rights of EU and EEA citizens</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
 
   </ul>
 </nav>
