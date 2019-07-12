@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,25 +8,24 @@
     Export horses and ponies: special rules
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
-    Rules for exporting horses and other equines, including ponies and donkeys, and what you’ll need to do if there’s no Brexit deal.
+    Rules for exporting horses and other equines, including ponies and donkeys, and what you need to do if if the UK leaves the EU without a deal.
   </p>
 
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
+    <div class="govuk-grid-column-two-thirds metadata-column">
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 7 November 2016
-    <br></br>Last updated 10 April 2019
+    <br></br>Last updated 10 July 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +44,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +52,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -66,7 +63,8 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#if-youre-planning-to-move-a-horse-or-other-equine-to-the-eu-after-11pm-uk-time-on-12-april" data-track-options="{"dimension29":"If you’re planning to move a horse or other equine to the EU after 11pm (UK time) on 12 April"}" href="#if-youre-planning-to-move-a-horse-or-other-equine-to-the-eu-after-11pm-uk-time-on-12-april">If you’re planning to move a horse or other equine to the EU after 11pm (UK time) on 12 April</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#moving-equines-to-the-eu-after-the-uk-leaves-the-eu" data-track-options="{"dimension29":"Moving equines to the EU after the UK leaves the EU\n"}" href="#moving-equines-to-the-eu-after-the-uk-leaves-the-eu">Moving equines to the EU after the UK leaves the EU
+</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
           <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#moving-equines-within-the-eu-current-rules" data-track-options="{"dimension29":"Moving equines within the EU: current rules"}" href="#moving-equines-within-the-eu-current-rules">Moving equines within the EU: current rules</a>
@@ -85,11 +83,16 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>Most countries may have import rules for live animals, including horses and other equines. You can check by talking to your importer or <a href="https://www.gov.uk/research-export-markets">researching your export market</a>.</p>
+<p>Most countries may have import rules for live animals, including horses and other equines. Check by talking to your importer or <a href="https://www.gov.uk/research-export-markets">researching your export market</a>.</p>
 
-<h2 id="if-youre-planning-to-move-a-horse-or-other-equine-to-the-eu-after-11pm-uk-time-on-12-april">If you’re planning to move a horse or other equine to the <abbr title="European Union">EU</abbr> after 11pm (UK time) on 12 April</h2>
+<h2 id="moving-equines-to-the-eu-after-the-uk-leaves-the-eu">Moving equines to the <abbr title="European Union">EU</abbr> after the UK leaves the <abbr title="European Union">EU</abbr>
+</h2>
 
-<p>You should:</p>
+<div class="call-to-action">
+<p>The UK must be listed as a third country by the <abbr title="European Union">EU</abbr> for the export of equines from the UK to the <abbr title="European Union">EU</abbr> to continue.</p>
+</div>
+
+<p>If the UK is listed as a third country and leaves the <abbr title="European Union">EU</abbr> without a deal, you should:</p>
 
 <ul>
   <li>contact your official vet to book an appointment so you can get blood tests taken in time</li>
@@ -104,40 +107,31 @@
 <ul>
   <li><a href="#Tests-for-equines">get equines tested for certain diseases</a></li>
   <li><a href="#Isolation-residency">meet isolation and residency requirements</a></li>
-  <li><a href="#EHC">apply for an export health certificate (<abbr title="Export Health Certificate">EHC</abbr>)</a></li>
+  <li><a href="#EHC">apply for an export health certificate (<abbr title="export health certificate">EHC</abbr>)</a></li>
   <li><a href="#Equine-ID">check you have the right equine identification (ID)</a></li>
   <li><a href="#welfare-declaration">check if you need an export welfare declaration</a></li>
 </ul>
 
 <h3 id="Tests-for-equines">Tests for equines before export</h3>
 
-<p>You’ll need to get your equines tested and found free of certain diseases.</p>
+<p>You’ll need to get your equines tested so they’re free of certain diseases.</p>
 
 <p>You’ll need tests for:</p>
 
 <ul>
-  <li>equine infectious anaemia within 30 days before travel for permanent exports</li>
-  <li>equine infectious anaemia within 90 days before travel for temporary exports of under 90 days for horses registered with a national branch of an international body for sporting and competition purposes</li>
-  <li>equine viral arteritis within 21 days of travel for uncastrated male equines older than 180 days, unless they meet vaccination requirements</li>
+  <li>equine infectious anaemia - within 30 days before travel for permanent exports, or 90 days before travel for temporary exports of under 90 days (for horses registered with a national branch of an international body for sporting and competition purposes)</li>
+  <li>equine viral arteritis - within 21 days of travel for uncastrated male equines older than 180 days, unless they meet vaccination requirements</li>
 </ul>
 
 <h3 id="Isolation-residency">Isolation and residency requirements before export</h3>
 
 <p>You’ll need to keep horses and other equines in certain conditions before export.</p>
 
-<p>Before you export a registered horse for fewer than 90 days you’ll need to keep the animal for 40 days in one of the following:</p>
-
-<ul>
-  <li>a holding in the UK</li>
-  <li>an <abbr title="European Union">EU</abbr> country</li>
-  <li>a country with a similar health status</li>
-</ul>
-
 <p>Before you export a horse registered with a national branch of an international body for sporting or competition purposes for less than 90 days, you will need to keep it on a holding in the UK or a country with a similar health status:</p>
 
 <ul>
   <li>for 40 days</li>
-  <li>since entry to the UK, if the animal was imported directly from the <abbr title="European Union">EU</abbr> or a country with a similar health status to the UK fewer than 40 days before you export</li>
+  <li>since entry to the UK, if the animal was imported directly from the <abbr title="European Union">EU</abbr> or a country with a similar health status to the UK less than 40 days before you export</li>
 </ul>
 
 <p>Before permanent export, or temporary export of any other equine, you’ll need to keep the animal on a holding in the UK under veterinary supervision, or a country with similar health status:</p>
@@ -145,23 +139,23 @@
 <ul>
   <li>for 90 days</li>
   <li>since birth if the animal is less than 90 days old</li>
-  <li>since entry to the UK if the animal was imported directly from the <abbr title="European Union">EU</abbr> fewer than 90 days before you export</li>
+  <li>since entry to the UK if the animal was imported directly from the <abbr title="European Union">EU</abbr> less than 90 days before you export</li>
 </ul>
 
 <p>You’ll need to keep the animal separate from other equines that don’t have equivalent health status for at least 30 days before export.</p>
 
 <p>Your supervising vet does not need to be an official vet. However, an official vet must confirm that you’ve met these requirements before you export the equine.</p>
 
-<h3 id="EHC">Apply for an export health certificate (<abbr title="Export Health Certificate">EHC</abbr>)</h3>
+<h3 id="EHC">Apply for an export health certificate (<abbr title="export health certificate">EHC</abbr>)</h3>
 
-<p>You need to complete an <abbr title="Export Health Certificate">EHC</abbr> and some supporting documents to export a live animal.</p>
+<p>You need to complete an <abbr title="export health certificate">EHC</abbr> and some supporting documents to export a live animal.</p>
 
-<p>The <abbr title="Export Health Certificate">EHC</abbr> will replace the Intra Trade Animal Health Certificate (<abbr title="Intra Trade Animal Health Certificate">ITAHC</abbr>) for exports to countries in the <abbr title="European Union">EU</abbr>.</p>
+<p>The <abbr title="export health certificate">EHC</abbr> will replace the Intra Trade Animal Health Certificate (<abbr title="Intra Trade Animal Health Certificate">ITAHC</abbr>) for exports to countries in the <abbr title="European Union">EU</abbr>.</p>
 
-<p>To apply for an <abbr title="Export Health Certificate">EHC</abbr> you’ll need to:</p>
+<p>To apply for an <abbr title="export health certificate">EHC</abbr> you’ll need to:</p>
 
 <ol>
-  <li>Find the <abbr title="Export Health Certificate">EHC</abbr> and other forms you need on the <a href="https://www.gov.uk/export-health-certificates">export health certificate form finder</a>. If you’re exporting from Northern Ireland, contact your local <a rel="external" href="https://www.daera-ni.gov.uk/contact"><abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr> office</a>. Most EHCs have guidance documents telling you how to fill out the certificate.</li>
+  <li>Find the <abbr title="export health certificate">EHC</abbr> and other forms you need on the <a href="https://www.gov.uk/export-health-certificates">export health certificate form finder</a>. If you’re exporting from Northern Ireland, contact your local <a rel="external" href="https://www.daera-ni.gov.uk/contact">Department of Agriculture, Environment and Rural Affairs (<abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr>) office</a>. Most EHCs have guidance documents telling you how to fill out the certificate.</li>
   <li>
     <p>Nominate an official vet to inspect your horse or other equines. There are various ways you can find one:</p>
 
@@ -173,12 +167,12 @@
 </li>
     </ul>
   </li>
-  <li>Fill in the <abbr title="Export Health Certificate">EHC</abbr> and supporting forms and email them to the <abbr title="Animal and Plant Health Agency">APHA</abbr> address on the forms.</li>
+  <li>Fill in the <abbr title="export health certificate">EHC</abbr> and supporting forms and email them to the Animal Plant and Health Agency (<abbr title="Animal and Plant Health Agency">APHA</abbr>) address on the forms.</li>
   <li>
-<abbr title="Animal and Plant Health Agency">APHA</abbr> will send your <abbr title="Export Health Certificate">EHC</abbr> to your official vet within 7 working days, or within one working day if you plan to export in the next 7 working days. They’ll provide copies in the languages of the destination country and the country where the horse or other equine first enters the <abbr title="European Union">EU</abbr>.</li>
-  <li>Arrange for the official vet to check the horse or other equine meets the health requirements of the destination country within 48 hours of travel. The official vet will complete and sign the <abbr title="Export Health Certificate">EHC</abbr> and send a copy to <abbr title="Animal and Plant Health Agency">APHA</abbr>.</li>
-  <li>The official vet must give you the <abbr title="Export Health Certificate">EHC</abbr> on the same day that you load the animals for travel.</li>
-  <li>Keep the completed <abbr title="Export Health Certificate">EHC</abbr> and other documents with the animal during travel.</li>
+<abbr title="Animal and Plant Health Agency">APHA</abbr> will send your <abbr title="export health certificate">EHC</abbr> to your official vet within 7 working days, or within one working day if you plan to export in the next 7 working days. They’ll provide copies in the languages of the destination country and the country where the horse or other equine first enters the <abbr title="European Union">EU</abbr>.</li>
+  <li>Arrange for the official vet to check the horse or other equine meets the health requirements of the destination country within 48 hours of travel. The official vet will complete and sign the <abbr title="export health certificate">EHC</abbr> and send a copy to <abbr title="Animal and Plant Health Agency">APHA</abbr>.</li>
+  <li>The official vet must give you the <abbr title="export health certificate">EHC</abbr> on the same day that you load the animals for travel.</li>
+  <li>Keep the completed <abbr title="export health certificate">EHC</abbr> and other documents with the animal during travel.</li>
 </ol>
 
 <p>There’s no fee for the certificate, but you’ll need to pay for your vet’s services.</p>
@@ -190,21 +184,23 @@
 <p>You’ll be able to use the horse passport (industry-issued equine ID) to export equines registered with one of the following:</p>
 
 <ul>
-  <li>an <abbr title="European Union">EU</abbr> recognised studbook or pedigree register</li>
+  <li>an <abbr title="European Union">EU</abbr>-recognised studbook or pedigree register</li>
   <li>a national branch of an international racing or competition organisation</li>
 </ul>
 
 <p>To export all other equines, apply for a government-issued equine ID from the:</p>
 
 <ul>
-  <li>Animal and Plant Health Agency (<abbr title="Animal and Plant Health Agency">APHA</abbr>) if you’re in Great Britain - find the application form on the <a href="https://www.gov.uk/export-health-certificates">form finder</a>
+  <li>
+<abbr title="Animal and Plant Health Agency">APHA</abbr> if you’re in Great Britain - find the application form on the <a href="https://www.gov.uk/export-health-certificates">form finder</a>
 </li>
-  <li>Department of Agriculture, Environment and Rural Affairs (<abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr>) if you’re in Northern Ireland</li>
+  <li>
+<abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr> if you’re in Northern Ireland</li>
 </ul>
 
-<p><abbr title="Animal and Plant Health Agency">APHA</abbr> will tell you when they have sent your equine ID form to your official vet. Your official vet will give you the equine ID with the <abbr title="Export Health Certificate">EHC</abbr> when they check the animal before travel.</p>
+<p><abbr title="Animal and Plant Health Agency">APHA</abbr> will tell you when they have sent your equine ID form to your official vet. Your official vet will give you the equine ID with the <abbr title="export health certificate">EHC</abbr> when they check the animal before travel.</p>
 
-<p>You’ll need to keep the equine ID together with the horse passport and the <abbr title="Export Health Certificate">EHC</abbr> with the animal during travel.</p>
+<p>You’ll need to keep the equine ID together with the horse passport and the <abbr title="export health certificate">EHC</abbr> with the animal during travel.</p>
 
 <p>The equine ID will be valid for a single journey to the <abbr title="European Union">EU</abbr> and return to the UK. You’ll need to apply for a government-issued equine ID every time you move an unregistered horse to the <abbr title="European Union">EU</abbr>.</p>
 
@@ -216,11 +212,17 @@
 
 <h3 id="recognition-of-uk-studbooks">Recognition of UK studbooks</h3>
 
-<p>The UK has applied to the <abbr title="European Union">EU</abbr> for the recognition of UK studbooks. We do not expect the <abbr title="European Union">EU</abbr> to recognise the UK’s studbooks before 12 April 2019. If recognition is granted, horses in recognised UK studbooks will be able to use export health certificates that are only available to registered horses.</p>
+<p>The UK has applied to the <abbr title="European Union">EU</abbr> for the recognition of UK studbooks. <abbr title="Animal and Plant Health Agency">APHA</abbr> does not expect the <abbr title="European Union">EU</abbr> to recognise the UK’s studbooks before the UK leaves the <abbr title="European Union">EU</abbr>. If recognition is granted, horses in recognised UK studbooks can use export health certificates that are only available to registered horses.</p>
 
-<p>This means these horses would be able to follow the same rules for blood testing, residency and isolation as horses registered with a national branch of international body for racing or competition when moving to the <abbr title="European Union">EU</abbr> for under 90 days.</p>
+<p>This means these horses can follow the same rules for blood testing, residency and isolation as horses registered with a national branch of international body for racing or competition when moving to the <abbr title="European Union">EU</abbr> for under 90 days.</p>
 
-<p>They would also no longer require a government-issued equine ID to move from the UK to the <abbr title="European Union">EU</abbr>.</p>
+<p>Horses would also no longer require a government-issued equine ID to move from the UK to the <abbr title="European Union">EU</abbr>.</p>
+
+<h3 id="uk-application-for-third-country-status-and-listing-for-exporting-horses-and-other-equines">UK application for third country status and listing for exporting horses and other equines</h3>
+
+<p>If the UK leaves the <abbr title="European Union">EU</abbr> without a deal, the European Commission will vote again on whether to list the UK as a ‘third country’ and allow exports of horses and other equines to continue from the UK.</p>
+
+<p>Because the <abbr title="European Union">EU</abbr> has previously accepted the UK as a listed third country, the UK expects to continue to meet the requirements for ‘third country’ status.</p>
 
 <h3 id="other-export-requirements">Other export requirements</h3>
 
@@ -236,19 +238,27 @@
   <li>consider applying for an <a href="https://www.gov.uk/taking-goods-out-uk-temporarily/get-an-ata-carnet">ATA carnet</a> to streamline customs processes</li>
   <li>check the wider <a href="https://www.gov.uk/business-uk-leaving-eu">HMRC guidance for exporters</a>
 </li>
-  <li>read the <a rel="external" href="https://www.agriculture.gov.ie/brexit/preparingforbrexit/">no deal information from the Department of Agriculture Food and the Marine</a> in the Republic of Ireland (ROI) if you regularly move horses or other equines between the UK and ROI</li>
+  <li>read the <a rel="external" href="https://www.agriculture.gov.ie/brexit/preparingforbrexit/">no deal information from the Department of Agriculture Food and the Marine</a> in the Republic of Ireland (<abbr title="Republic of Ireland">ROI</abbr>) if you regularly move horses or other equines between the UK and <abbr title="Republic of Ireland">ROI</abbr>
+</li>
 </ul>
 
-<p>Find out more about <a href="https://www.gov.uk/guidance/exporting-animals-animal-products-fish-and-fishery-products-to-the-eu-after-eu-exit">exporting animals, animal products, fish and fishery products to the <abbr title="European Union">EU</abbr> after <abbr title="European Union">EU</abbr> Exit</a>.</p>
+<p>Find out more about <a href="https://www.gov.uk/guidance/exporting-animals-animal-products-fish-and-fishery-products-to-the-eu-after-eu-exit">exporting animals and animal products if the UK leaves the <abbr title="European Union">EU</abbr> with no deal</a>.</p>
 
 <h3 id="import-requirements">Import requirements</h3>
-<p>If the UK leaves the <abbr title="European Union">EU</abbr> without a deal, from 11pm on 12 April 2019, exporters in the <abbr title="European Union">EU</abbr> can continue to use the <abbr title="European Union">EU</abbr>’s <abbr title="Trade Control and Expert System">TRACES</abbr> (Trade Control and Expert System) to notify the UK of imports from the <abbr title="European Union">EU</abbr>.</p>
+<p>If the UK is listed as a third country and leaves the <abbr title="European Union">EU</abbr> without a deal, the rules relating to the import of equines from the <abbr title="European Union">EU</abbr> to the UK will not change in principle.</p>
 
-<p>For horses which currently enter the UK from France using a Commercial Document (<abbr title="Commercial Document">DOCOM</abbr>), or travel from Ireland without any animal health documentation, there will be no immediate change to the current entry documentation. Registered horses travelling from the <abbr title="European Union">EU</abbr> with health attestations will also continue to be able to do so.</p>
+<p>There will be no immediate change to the current entry documentation for horses which enter the UK:</p>
 
-<p>Importers in the UK will still need to notify UK authorities of certain consignments. If you’re importing a horse or other equine using an <abbr title="Intra Trade Animal Health Certificate">ITAHC</abbr> or <abbr title="Commercial Document">DOCOM</abbr>, you’ll need to notify <abbr title="Animal and Plant Health Agency">APHA</abbr> using the <a href="https://www.gov.uk/government/publications/eu-import-of-animals-and-products-food-feed-notify-authorities">IV66 Import Notification Form</a>. Find out more about the <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">notification processes for importing live animals from non-<abbr title="European Union">EU</abbr> countries and <abbr title="European Union">EU</abbr> countries</a>.</p>
+<ul>
+  <li>from France using a Commercial Document (<abbr title="Commercial Document">DOCOM</abbr>)</li>
+  <li>from Ireland without any animal health documentation</li>
+</ul>
+
+<p>Registered horses travelling from the <abbr title="European Union">EU</abbr> will also continue to be able to do so using health attestations.</p>
 
 <p>Equines originating in the <abbr title="European Union">EU</abbr> will not have to enter the UK via a Border Inspection Post.</p>
+
+<p>Find out about the <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">rules and processes for importing animals and animal products if the UK leaves the <abbr title="European Union">EU</abbr> without a deal</a>.</p>
 
 <h2 id="moving-equines-within-the-eu-current-rules">Moving equines within the <abbr title="European Union">EU</abbr>: current rules</h2>
 <p>To move horses, ponies or donkeys within the <abbr title="European Union">EU</abbr> (or to Switzerland, Liechtenstein, Norway and Iceland) you must:</p>
@@ -273,11 +283,11 @@
   <li>Include the certificate when you export your consignment.</li>
 </ol>
 
-<p>Instead of using <abbr title="Trade Control and Expert System">TRACES</abbr>, you can fill in form <span id="attachment_3332095" class="attachment-inline">
+<p>Instead of using <abbr title="Trade Control and Expert System">TRACES</abbr>, you can fill in form <span id="attachment_3517921" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/720522/form-exa31-equidae.pdf">form EXA31 equidae</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">841KB</span>, <span class="page-length">7 pages</span>)
 </span>
-, using the <span id="attachment_3332096" class="attachment-inline">
+, using the <span id="attachment_3517922" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/592912/notes-exa31-equidae.pdf">guidance notes</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">119KB</span>, <span class="page-length">5 pages</span>)
 </span>
@@ -290,34 +300,34 @@
 <p>There’s no fee for the certificate but you’ll be charged for your vet’s services.</p>
 
 <h2 id="moving-equines-outside-the-eu-current-rules">Moving equines outside the <abbr title="European Union">EU</abbr>: current rules</h2>
-<p>You usually need to complete an export health certificate (<abbr title="Export Health Certificate">EHC</abbr>) and some supporting documents to be able to export a live animal from the UK to a non-<abbr title="European Union">EU</abbr> country.</p>
+<p>You usually need to complete an <abbr title="export health certificate">EHC</abbr> and some supporting documents to be able to export a live animal from the UK to a non-<abbr title="European Union">EU</abbr> country.</p>
 
-<p>To find out if you need an <abbr title="Export Health Certificate">EHC</abbr> and apply, follow these steps.</p>
+<p>To find out if you need an <abbr title="export health certificate">EHC</abbr> and apply, follow these steps.</p>
 
 <ol>
-  <li>Find the <abbr title="Export Health Certificate">EHC</abbr> and other forms you need on the <a href="https://www.gov.uk/export-health-certificates">export health certificate form finder</a>. If you’re exporting from Northern Ireland, contact your local <a rel="external" href="https://www.daera-ni.gov.uk/contact"><abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr> office</a>. Most EHCs will have guidance on how to fill out the certificate.</li>
-  <li>Fill in the <abbr title="Export Health Certificate">EHC</abbr> and supporting forms and email them to the <abbr title="Animal and Plant Health Agency">APHA</abbr> address on the forms.</li>
+  <li>Find the <abbr title="export health certificate">EHC</abbr> and other forms you need on the <a href="https://www.gov.uk/export-health-certificates">export health certificate form finder</a>. If you’re exporting from Northern Ireland, contact your local <a rel="external" href="https://www.daera-ni.gov.uk/contact"><abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr> office</a>. Most EHCs will have guidance on how to fill in the certificate.</li>
+  <li>Fill in the <abbr title="export health certificate">EHC</abbr> and supporting forms and email them to the <abbr title="Animal and Plant Health Agency">APHA</abbr> address on the forms.</li>
   <li>In most cases you’ll need to <a href="link%20to%20vet%20list">find an official vet</a> to inspect your animal and sign the certificate. If you’re in Northern Ireland contact <a rel="external" href="https://www.daera-ni.gov.uk/contact"><abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr></a>.</li>
   <li>
-<abbr title="Animal and Plant Health Agency">APHA</abbr> will send your <abbr title="Export Health Certificate">EHC</abbr> to your official vet within one working day of your application.</li>
-  <li>The official vet will check the horse or other equine meets the health requirements of the destination country, and complete and sign the <abbr title="Export Health Certificate">EHC</abbr>. The completed <abbr title="Export Health Certificate">EHC</abbr> will go with the animal, and the official vet will send a copy to <abbr title="Animal and Plant Health Agency">APHA</abbr>.</li>
+<abbr title="Animal and Plant Health Agency">APHA</abbr> will send your <abbr title="export health certificate">EHC</abbr> to your official vet within one working day of your application.</li>
+  <li>The official vet will check the horse or other equine meets the health requirements of the destination country, and complete and sign the <abbr title="export health certificate">EHC</abbr>. The completed <abbr title="export health certificate">EHC</abbr> will go with the animal, and the official vet will send a copy to <abbr title="Animal and Plant Health Agency">APHA</abbr>.</li>
 </ol>
 
-<p>There is no fee for processing the <abbr title="Export Health Certificate">EHC</abbr> but you’ll need to pay for the official vet’s services.</p>
+<p>There is no fee for processing the <abbr title="export health certificate">EHC</abbr> but you’ll need to pay for the official vet’s services.</p>
 
-<p>If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you need, contact <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening"><abbr title="Animal and Plant Health Agency">APHA</abbr></a>.</p>
+<p>If you cannot find the <abbr title="export health certificate">EHC</abbr> you need, contact <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening"><abbr title="Animal and Plant Health Agency">APHA</abbr></a>.</p>
 
 <p>In some cases you:</p>
 
 <ul>
   <li>cannot export your type of horse or pony - for example, there’s a ban on exporting pure-bred horses to Syria and North Korea</li>
-  <li>do not need an <abbr title="Export Health Certificate">EHC</abbr> - contact the <abbr title="Animal and Plant Health Agency">APHA</abbr> <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc">Centre for International Trade Carlisle</a> to check</li>
+  <li>do not need an <abbr title="export health certificate">EHC</abbr> - contact the <abbr title="Animal and Plant Health Agency">APHA</abbr> <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc">Centre for International Trade Carlisle</a> to check</li>
 </ul>
 
-<h3 id="use-the-most-up-to-date-ehc">Use the most up-to-date <abbr title="Export Health Certificate">EHC</abbr>
+<h3 id="use-the-most-up-to-date-ehc">Use the most up-to-date <abbr title="export health certificate">EHC</abbr>
 </h3>
 
-<p>EHCs are sometimes updated when import agreements change. So make sure you’re using the latest version of a certificate. The <abbr title="Export Health Certificate">EHC</abbr> form finder will always have the latest version.</p>
+<p>EHCs are sometimes updated when import agreements change. So make sure you’re using the latest version of a certificate. The <a href="https://www.gov.uk/export-health-certificates"><abbr title="export health certificate">EHC</abbr> form finder</a> will always have the latest version.</p>
 
 <p>Applications on out-of-date forms will be rejected and cause delays to your exports.</p>
 
@@ -350,22 +360,22 @@
 
 <ul>
   <li>
-    <p><span id="attachment_3332097" class="attachment-inline">
+    <p><span id="attachment_3517923" class="attachment-inline">
 <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/581183/exh6.pdf">horses taller than 147cm (14.2 hands) - form EXH6</a>
 (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">55.7KB</span>, <span class="page-length">2 pages</span>)
 </span></p>
   </li>
   <li>
-    <p><span id="attachment_3332098" class="attachment-inline">
+    <p><span id="attachment_3517924" class="attachment-inline">
 <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/581184/exh7.pdf">horses or ponies 147cm or less - form EXH7</a>
 (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">57.4KB</span>, <span class="page-length">2 pages</span>)
 </span></p>
   </li>
 </ul>
 
-<p>You can use the <span id="attachment_3332100" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/581185/exh12.pdf">guidance notes</a>
-  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">77.2KB</span>, <span class="page-length">4 pages</span>)
+<p>You can use the <span id="attachment_3517926" class="attachment-inline">
+  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/815769/exh12.pdf">guidance notes</a>
+  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">84.1KB</span>, <span class="page-length">4 pages</span>)
 </span>
  to help you.</p>
 
@@ -401,10 +411,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 7 November 2016
-    <br></br>Last updated 10 April 2019
+    <br></br>Last updated 10 July 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-10T10:34:55.000+01:00">10 July 2019</time>
+              Export declaration guidance notes updated
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-10T11:06:09.000+01:00">10 April 2019</time>
               Updated guidance following the EU’s decision to list the UK as a third country for the export of equines. 
@@ -457,45 +471,151 @@
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
-
-    
-  <div class="gem-c-related-navigation">
-
-      <h2 id="related-nav-related_items-d9aee9b2" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
-        Related content
-      </h2>
-
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d9aee9b2" data-module="gem-toggle">
+      <div class="gem-c-step-nav-related gem-c-step-nav-related--singular" data-module="track-click">
+    <h2 class="gem-c-step-nav-related__heading">
+      <span class="gem-c-step-nav-related__pretitle">Part of</span>
+          <a href="/prepare-export-from-uk-after-brexit" class="gem-c-step-nav-related__link" data-track-category="stepNavPartOfClicked" data-track-action="Part of" data-track-label="/prepare-export-from-uk-after-brexit" data-track-dimension="Get your business ready to export from the UK to the EU after Brexit" data-track-dimension-index="29" data-track-options="{"dimension96" : "e169b2ac-8c90-4789-8e6c-3657729e21b2" }">
+            Get your business ready to export from the UK to the EU after Brexit
+          </a>
+        </h2>
+  </div>
 
 
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+      <div data-module="gemstepnav" class="gem-c-step-nav js-hidden " data-id="e169b2ac-8c90-4789-8e6c-3657729e21b2" data-show-text="show" data-hide-text="hide" data-show-all-text="Show all" data-hide-all-text="Hide all">
+    <ol class="gem-c-step-nav__steps">
+        <li class="gem-c-step-nav__step js-step
+          " id="get-a-uk-eori-number-for-your-business" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="1">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 1<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
 
+              <span class="js-step-title">
+                Get a UK EORI number for your business
+              </span>
+</h3>          </div>
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/starting-to-export" data-track-options="{"dimension28":"1","dimension29":"Exporting and doing business abroad"}" href="/starting-to-export">Exporting and doing business abroad</a></li>
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-get-a-uk-eori-number-for-your-business-1">
+              <p class="gem-c-step-nav__paragraph">Your business will already have a UK Economic Operator Registration and Identification (EORI) number if you’ve traded with countries outside the EU. UK EORI numbers start with GB.</p>
 
-  </ul>
-</nav>
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="1.1" class="gem-c-step-nav__link js-link" href="/guidance/get-a-uk-eori-number-to-trade-within-the-eu?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Get a UK EORI number </a></li></ol>
 
+          </div>
 
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="decide-who-will-make-the-customs-declarations" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="2">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 2<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-d9aee9b2" data-module="gem-toggle">
+              <span class="js-step-title">
+                Decide who will make the customs declarations
+              </span>
+</h3>          </div>
 
-    <h3 id="related-nav-related_guides-d9aee9b2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-decide-who-will-make-the-customs-declarations-2">
+              <p class="gem-c-step-nav__paragraph">Contact the organisation that transports your goods out of the country to find out if they can make customs declarations for your goods.</p>
 
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+              <p class="gem-c-step-nav__paragraph">If they cannot, you can either hire an agent to make the declarations, or make the declarations yourself. </p>
 
+              <ol class="gem-c-step-nav__list " data-length="2">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.1" class="gem-c-step-nav__link js-link" href="/guidance/declaring-your-goods-at-customs-if-the-uk-leaves-the-eu-with-no-deal?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how to make customs declarations yourself </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.2" class="gem-c-step-nav__link js-link" href="/guidance/export-declarations-and-the-national-export-system-export-procedures?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Register to use the National Export System if you decide to make them yourself </a></li>
+</ol>
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"1","dimension29":"Exporting animals, animal products, fish and fishery products if the UK leaves the EU with no deal"}" href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals, animal products, fish and fishery products if the UK leaves the EU with no deal</a></li>
+          </div>
 
-  </ul>
-</nav>
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="apply-to-make-exporting-easier" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="3">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 3<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
 
+              <span class="js-step-title">
+                Apply to make exporting easier
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-apply-to-make-exporting-easier-3">
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="3.1" class="gem-c-step-nav__link js-link" href="/guidance/customs-procedures-if-the-uk-leaves-the-eu-without-a-deal?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Decide which customs procedures to apply for to make exporting easier </a></li></ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="check-what-your-customers-will-need-to-pay" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="4">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 4<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check what your customers will need to pay
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-what-your-customers-will-need-to-pay-4">
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="4.1" class="gem-c-step-nav__link js-link" href="/government/collections/exporting-after-eu-exit-country-by-country?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2#europe">Check what your customers will need to pay in the countries you’re exporting to </a></li></ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="check-what-you-need-to-do-for-the-type-of-goods-you-export" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="5">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 5<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check what you need to do for the type of goods you export
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-what-you-need-to-do-for-the-type-of-goods-you-export-5">
+              <p class="gem-c-step-nav__paragraph">Depending on what you're exporting, there might be other things you'll need to do to get your business ready. For example, you might need to change the labelling on the packaging for your goods, or apply for licences. </p>
+
+              <ol class="gem-c-step-nav__list " data-length="2">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="5.1" class="gem-c-step-nav__link js-link" href="/starting-to-export/licences?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Check if you'll need to apply for an export licence </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="5.2" class="gem-c-step-nav__link js-link" href="/business-uk-leaving-eu?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Check what else you need to do for the type of goods you export </a></li>
+</ol>
+
+          </div>
+
+        </li>
+    </ol>
   </div>
 
 
@@ -504,36 +624,3 @@
 </div>
 
 </div>
-
-
-  <div class="grid-row">
-    <div class="column-two-thirds">
-        
-  <div class="gem-c-contextual-footer">
-    
-  <div class="gem-c-related-navigation">
-
-
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dfd76343" data-module="gem-toggle">
-
-    <h2 id="related-nav-topics-dfd76343" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/browse/business/exports" data-track-options="{"dimension28":"2","dimension29":"Exporting and doing business abroad"}" href="/browse/business/exports">Exporting and doing business abroad</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/topic/keeping-farmed-animals/animal-welfare" data-track-options="{"dimension28":"2","dimension29":"Animal welfare"}" href="/topic/keeping-farmed-animals/animal-welfare">Animal welfare</a></li>
-
-  </ul>
-</nav>
-
-  </div>
-
-  </div>
-
-
-    </div>
-  </div>
