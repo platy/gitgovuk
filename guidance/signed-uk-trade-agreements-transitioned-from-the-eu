@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,7 +8,6 @@
     Signed UK trade agreements transitioned from the EU
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
@@ -25,10 +22,10 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 21 February 2019
-    <br></br>Last updated 9 June 2019
+    <br></br>Last updated 18 July 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -81,7 +78,9 @@
       <div class="govspeak">
 <p>The UK has signed continuity trade agreements with non-EU countries so that trade can continue with minimal disruption after the UK leaves the EU.</p>
 
-<p>These agreements have replicated the EU trade agreements as far as possible. However, there may be some changes to ensure that new agreements work for both countries.</p>
+<p>These countries account for 63% of trade currently covered by EU agreements for which the UK is seeking continuity.</p>
+
+<p>The agreements have replicated the EU trade agreements as far as possible. However, there may be some changes to ensure that new agreements work for both countries.</p>
 
 <div role="note" aria-label="Information" class="application-notice info-notice">
 <p>When the UK signs further agreements this page will be updated.</p>
@@ -94,9 +93,10 @@
 <p>The UK has signed trade agreements with:</p>
 
 <ul>
-  <li>Andean countries</li>
+  <li><a href="https://www.gov.uk/government/collections/uk-andean-countries-trade-agreement">Andean countries</a></li>
   <li>
 <a href="https://www.gov.uk/government/collections/cariforum-uk-economic-partnership-agreement">CARIFORUM</a> trade bloc</li>
+  <li>Central America</li>
   <li><a href="https://www.gov.uk/government/collections/uk-chile-association-agreement">Chile</a></li>
   <li>
 <a href="https://www.gov.uk/government/collections/esa-uk-economic-partnership-agreement-epa--2">Eastern and Southern Africa (<abbr title="Eastern and Southern Africa">ESA</abbr>)</a> trade bloc </li>
@@ -110,7 +110,7 @@
   <li><a href="https://www.gov.uk/government/collections/uk-switzerland-trade-agreement">Switzerland</a></li>
 </ul>
 
-<p>The countries which will be covered by the UK-Andean Countries Trade Agreement are:</p>
+<p>The countries covered by the UK-Andean countries trade agreement are:</p>
 
 <ul>
   <li>Colombia</li>
@@ -118,11 +118,11 @@
   <li>Peru</li>
 </ul>
 
-<p>The countries which will be covered by the UK-CARIFORUM Economic Partnership Agreement are:</p>
+<p>The countries covered by the UK-CARIFORUM economic partnership agreement are:</p>
 
 <ul>
-  <li>Antigua and Barbuda*</li>
-  <li>The Commonwealth of the Bahamas*</li>
+  <li>Antigua and Barbuda</li>
+  <li>The Commonwealth of the Bahamas</li>
   <li>Barbados</li>
   <li>Belize</li>
   <li>The Commonwealth of Dominica</li>
@@ -133,24 +133,35 @@
   <li>Saint Christopher and Nevis</li>
   <li>Saint Lucia</li>
   <li>Saint Vincent and the Grenadines</li>
-  <li>The Republic of Suriname*</li>
+  <li>The Republic of Suriname</li>
   <li>The Republic of Trinidad and Tobago</li>
 </ul>
 
-<p>*Approved in principle and expected to sign shortly</p>
+<p>The Commonwealth of the Bahamas and The Republic of Suriname are approved in principle and expected to sign shortly.</p>
 
-<p>The countries which will be covered by the <abbr title="Eastern and Southern Africa">ESA</abbr>-UK Economic Partnership Agreement are: </p>
+<p>The countries covered by the UK-Central America trade agreement are:</p>
 
 <ul>
-  <li>Madagascar*</li>
+  <li>Costa Rica</li>
+  <li>El Salvador</li>
+  <li>Guatemala</li>
+  <li>Honduras</li>
+  <li>Nicaragua</li>
+  <li>Panama</li>
+</ul>
+
+<p>The countries which will be covered by the <abbr title="Eastern and Southern Africa">ESA</abbr>-UK economic partnership agreement are: </p>
+
+<ul>
+  <li>Madagascar</li>
   <li>Mauritius </li>
   <li>Seychelles </li>
   <li>Zimbabwe</li>
 </ul>
 
-<p>*Approved in principle and expected to sign shortly</p>
+<p>Madagascar is approved in principle and expected to sign shortly</p>
 
-<p>The countries which will be covered by the UK-Pacific Economic Partnership Agreement are:</p>
+<p>The countries which will be covered by the UK-Pacific economic partnership agreement are:</p>
 
 <ul>
   <li>Papua New Guinea</li>
@@ -172,12 +183,16 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 21 February 2019
-    <br></br>Last updated 9 June 2019
+    <br></br>Last updated 18 July 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-18T19:12:30.000+01:00">18 July 2019</time>
+              Added Central America (Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama) to the list of signed trade agreements.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-09T22:30:09.000+01:00">9 June 2019</time>
               A free trade agreement with South Korea is now agreed in principle and expected to be signed shortly.
@@ -231,6 +246,31 @@
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-65d46b44" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-65d46b44" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/uk-us-mutual-recognition-agreement" data-track-options="{"dimension28":"5","dimension29":"UK-US Mutual Recognition Agreement"}" href="/government/collections/uk-us-mutual-recognition-agreement">UK-US Mutual Recognition Agreement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/uk-pacific-economic-partnership-agreement" data-track-options="{"dimension28":"5","dimension29":"UK-Pacific Economic Partnership Agreement"}" href="/government/collections/uk-pacific-economic-partnership-agreement">UK-Pacific Economic Partnership Agreement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/collections/uk-australia-mutual-recognition-agreement" data-track-options="{"dimension28":"5","dimension29":"UK-Australia Mutual Recognition Agreement"}" href="/government/collections/uk-australia-mutual-recognition-agreement">UK-Australia Mutual Recognition Agreement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/statistics/european-union-finances-2018" data-track-options="{"dimension28":"5","dimension29":"European Union Finances 2018"}" href="/government/statistics/european-union-finances-2018">European Union Finances 2018</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/uk-israel-trade-and-partnership-agreement" data-track-options="{"dimension28":"5","dimension29":"UK-Israel Trade and Partnership Agreement"}" href="/government/collections/uk-israel-trade-and-partnership-agreement">UK-Israel Trade and Partnership Agreement</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -251,9 +291,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-bf788ce9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-59280723" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-bf788ce9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-59280723" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
