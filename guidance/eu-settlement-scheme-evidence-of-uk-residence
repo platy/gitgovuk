@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,10 +8,9 @@
     EU Settlement Scheme: evidence of UK residence
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     How to provide evidence that you’ve been living here if we can’t confirm this through an automated check of UK tax and some benefits records.
@@ -22,13 +19,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 22 October 2018
-    <br></br>Last updated 29 March 2019
+    <br></br>Last updated 18 July 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +44,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +52,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -91,12 +88,12 @@
 <div class="call-to-action">
 <p>You can provide your <a href="https://www.gov.uk/national-insurance/your-national-insurance-number">National Insurance number</a> during your application to help us <a href="https://www.gov.uk/guidance/eu-settlement-scheme-uk-tax-and-benefits-records-automated-check">confirm your UK residence using an automated check</a>.
 <br></br><br></br>
-If you do not agree with the result of this check, you can upload further evidence of your UK residence to your application. These can be photos or scans of documents.</p>
+If you do not agree with the result of this check, you should upload further evidence of your UK residence to your application. These should be photos or scans of documents – please do not post them.</p>
 </div>
 
 <h2 id="submitting-documents-as-evidence-of-residence">Submitting documents as evidence of residence</h2>
 
-<p>You will not need to provide evidence for your entire UK residence – just enough to show whether you qualify for settled or pre-settled status. You should only need to provide 1 document dated in the last 6 months to be granted pre-settled status.</p>
+<p>When you <a rel="external" href="https://apply-for-eu-settled-status.homeoffice.gov.uk/?qitq=f6a2d7e2-d71b-4d20-8991-d2cc2e12f65d&qitp=6a49c599-909f-4044-9923-8d9c429ed545&qitts=1563449979&qitc=homeoffice&qite=prod&qitrt=Safetynet&qith=dc856e1c5cd368d239b7e56385159e23">apply to the EU settlement scheme</a> you will not need to provide evidence for your entire UK residence – just enough to show whether you qualify for settled or pre-settled status. You should only need to provide 1 document dated in the last 6 months to be granted pre-settled status.</p>
 
 <p>All the documents you submit as evidence must be dated and have your name on them.</p>
 
@@ -169,12 +166,16 @@ If you do not agree with the result of this check, you can upload further eviden
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 October 2018
-    <br></br>Last updated 29 March 2019
+    <br></br>Last updated 18 July 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-18T13:07:45.000+01:00">18 July 2019</time>
+              Added link to the application start page
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-29T11:00:00.000+00:00">29 March 2019</time>
               Updated to add link to the automated check page
@@ -219,28 +220,44 @@ If you do not agree with the result of this check, you can upload further eviden
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-594cbeec" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-9a024ac4" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-594cbeec" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-9a024ac4" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-594cbeec" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-settlement-scheme-application-processing-times" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: application processing times"}" href="/government/publications/eu-settlement-scheme-application-processing-times">EU Settlement Scheme: application processing times</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/using-the-eu-exit-id-document-check-app" data-track-options="{"dimension28":"4","dimension29":"Using the ‘EU Exit: ID Document Check’ app"}" href="/guidance/using-the-eu-exit-id-document-check-app">Using the ‘EU Exit: ID Document Check’ app</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/eu-settlement-scheme-view-and-prove-your-rights-in-the-uk" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: view and prove your rights in the UK"}" href="/government/publications/eu-settlement-scheme-view-and-prove-your-rights-in-the-uk">EU Settlement Scheme: view and prove your rights in the UK</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-9a024ac4" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-9a024ac4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
 
   </ul>
 </nav>
@@ -255,8 +272,8 @@ If you do not agree with the result of this check, you can upload further eviden
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -266,9 +283,9 @@ If you do not agree with the result of this check, you can upload further eviden
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-45f4af85" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-00c2f89d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-45f4af85" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-00c2f89d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
