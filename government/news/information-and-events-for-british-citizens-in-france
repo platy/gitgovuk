@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       World news story
     </p>
@@ -10,7 +8,6 @@
     Information and events for British citizens in France
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
@@ -25,10 +22,10 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 20 September 2018
-    <br></br>Last updated 28 June 2019
+    <br></br>Last updated 19 July 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -58,7 +55,7 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
-      <figure class="app-c-figure">
+      <figure class="app-c-figure" lang="en">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/79352/s300_Graphic.jpg" alt="Information for British citizens in France"></img>
     <figcaption class="app-c-figure__figcaption">
 
@@ -73,28 +70,11 @@
 <h3 id="upcoming-citizens-outreach-meetings-across-france">Upcoming citizens outreach meetings across France</h3>
 
 <ul>
-  <li>Gouarec: 4 July 2019 - You can <a rel="external" href="http://bit.ly/2IMGm8g">register for this event here</a>
-</li>
-  <li>Brest: 5 July 2019 - You can <a rel="external" href="http://bit.ly/2J6gNy8">register for this event here</a>
-</li>
-  <li>Perpignan: 10 July 2019 - You can <a rel="external" href="http://bit.ly/2FzDCt7">register for this event here</a>
-</li>
-  <li>Montpellier: 11 July 2019 - You can <a rel="external" href="http://bit.ly/2KAYLqZ">register for this event here</a>
-</li>
-  <li>Avignon: 13 July 2019 - You can <a rel="external" href="http://bit.ly/31Y1vDU">register for this event here</a>
-</li>
-  <li>Aix-en-Provence: 15 July 2019 - You can <a rel="external" href="http://bit.ly/2X7D1tq">register for this event here</a>
-</li>
-  <li>Nice: 16 July 2019 - You can <a rel="external" href="http://bit.ly/2LlV3AU">register for this event here</a>
+  <li>Alençon: 25 July 2019 - You can <a rel="external" href="https://bit.ly/32C6tqA">register for this event here</a>
 </li>
 </ul>
 
 <h4 id="facebook-qa">Facebook Q&A</h4>
-
-<ul>
-  <li>Next Facebook Q&A: Monday 1 July from 8:00am to 10:00am - <a rel="external" href="http://bit.ly/2ZLMy68">Read more information here</a>
-</li>
-</ul>
 
 <p>We are running regular Q&As on <a rel="external" href="https://www.facebook.com/ukinfrance/">our Facebook page</a>. Follow us for updates.</p>
 
@@ -104,6 +84,38 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>16 July</td>
+      <td>Nice</td>
+    </tr>
+    <tr>
+      <td>15 July</td>
+      <td>Aix-en-Provence</td>
+    </tr>
+    <tr>
+      <td>13 July</td>
+      <td>Avignon</td>
+    </tr>
+    <tr>
+      <td>11 July</td>
+      <td>Montpellier</td>
+    </tr>
+    <tr>
+      <td>10 July</td>
+      <td>Perpignan</td>
+    </tr>
+    <tr>
+      <td>5 July</td>
+      <td>Brest</td>
+    </tr>
+    <tr>
+      <td>4 July</td>
+      <td>Gouarec</td>
+    </tr>
+    <tr>
+      <td>1 July</td>
+      <td><a rel="external" href="http://bit.ly/2BgFaDM">Facebook Q&A</a></td>
+    </tr>
     <tr>
       <td>25 June</td>
       <td>Périgueux</td>
@@ -130,7 +142,7 @@
     </tr>
     <tr>
       <td>22 April</td>
-      <td>Facebook Q&A</td>
+      <td><a rel="external" href="http://bit.ly/2BgFaDM">Facebook Q&A</a></td>
     </tr>
     <tr>
       <td>25 March</td>
@@ -416,12 +428,16 @@
 
     </div>
 
-    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 September 2018
-    <br></br>Last updated 28 June 2019
+    <br></br>Last updated 19 July 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-19T15:40:31.000+01:00">19 July 2019</time>
+              New meeting in Alençon
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-28T08:45:11.000+01:00">28 June 2019</time>
               New citizens outreach meeting announced in Nice on 16 July 2019
@@ -518,6 +534,31 @@ Nantes 25/02
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-e9592707" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e9592707" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france" data-track-options="{"dimension28":"5","dimension29":"France: Voisins Voices - newsletter for the British community in France"}" href="/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france">France: Voisins Voices - newsletter for the British community in France</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/how-to-buy-property-in-france" data-track-options="{"dimension28":"5","dimension29":"France: buying property"}" href="/guidance/how-to-buy-property-in-france">France: buying property</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union" data-track-options="{"dimension28":"5","dimension29":"Progress on the UK’s exit from, and future relationship with, the European Union"}" href="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union">Progress on the UK’s exit from, and future relationship with, the European Union</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/germany-residence-information-after-eu-exit" data-track-options="{"dimension28":"5","dimension29":"Germany: residence information after Brexit"}" href="/government/publications/germany-residence-information-after-eu-exit">Germany: residence information after Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/france-list-of-lawyers" data-track-options="{"dimension28":"5","dimension29":"France: lawyers"}" href="/government/publications/france-list-of-lawyers">France: lawyers</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -538,9 +579,9 @@ Nantes 25/02
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-08db03cb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5cbf0013" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-08db03cb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-5cbf0013" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -554,9 +595,9 @@ Nantes 25/02
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-08db03cb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-5cbf0013" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-08db03cb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-5cbf0013" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
