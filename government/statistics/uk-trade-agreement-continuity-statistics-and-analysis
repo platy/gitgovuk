@@ -1,16 +1,13 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
-      National Statistics
+      Official Statistics
     </p>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     UK trade agreement continuity: statistics and analysis
   </h1>
 </div>
-
   </div>
   
 
@@ -24,11 +21,13 @@
 </div>
 
 <div class="govuk-grid-row">
-  <div class="metadata-logo-wrapper responsive-bottom-margin">
+  <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 10 June 2019
+    <br></br>Last updated 23 July 2019
+      — <a href="#history">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -47,7 +46,6 @@
 
     </div>
     <div class="govuk-grid-column-one-third">
-        <img alt="National Statistics" class="metadata-logo" src="https://assets.publishing.service.gov.uk/government-frontend/national-statistics-9d4411fe33f1b52027366b278edb879dba187f48883dc8ed6be8df817513d3ca.png"></img>
     </div>
   </div>
 </div>
@@ -65,28 +63,17 @@
 <div aria-labelledby="documents-title">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3441260">
+      <section class="attachment embedded" id="attachment_3541261">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807619/UK_Trade_with_the_Trade_Agreement_Continuity_Countries_-_the_statistics__1_.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807619/thumbnail_UK_Trade_with_the_Trade_Agreement_Continuity_Countries_-_the_statistics__1_.pdf.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" href="/government/publications/uk-trade-agreement-continuity-statistics-and-analysis/uk-trade-with-trade-agreement-continuity-tac-countries-statistical-ad-hoc-release"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
   <div class="attachment-details">
-    <h2 class="title"><a aria-describedby="attachment-3441260-accessibility-help" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807619/UK_Trade_with_the_Trade_Agreement_Continuity_Countries_-_the_statistics__1_.pdf">UK trade with trade agreement continuity (TAC) countries – the statistics</a></h2>
+    <h2 class="title"><a href="/government/publications/uk-trade-agreement-continuity-statistics-and-analysis/uk-trade-with-trade-agreement-continuity-tac-countries-statistical-ad-hoc-release">UK trade with Trade Agreement Continuity (TAC) countries: statistical ad hoc release </a></h2>
     <p class="metadata">
-        <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">300KB</span>, <span class="page-length">6 pages</span>
+        <span class="type">HTML</span>
     </p>
 
 
-      <div data-module="toggle" class="accessibility-warning" id="attachment-3441260-accessibility-help">
-        <h2>This file may not be suitable for users of assistive technology.
-          <a class="toggler" href="#attachment-3441260-accessibility-request" data-controls="attachment-3441260-accessibility-request" data-expanded="false">Request an accessible format.</a>
-        </h2>
-        <p id="attachment-3441260-accessibility-request" class="js-hidden">
-          If you use assistive technology (such as a screen reader) and need a
-version of this document in a more accessible format, please email <a href="mailto:digital@trade.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20UK%20trade%20with%20trade%20agreement%20continuity%20%28TAC%29%20countries%20%E2%80%93%20the%20statistics%0A%20%20Original%20format%3A%20pdf%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&subject=Request%20for%20%27UK%20trade%20with%20trade%20agreement%20continuity%20%28TAC%29%20countries%20%E2%80%93%20the%20statistics%27%20in%20an%20alternative%20format">digital@trade.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-
-        </p>
-      </div>
   </div>
 </section>
 </div>
@@ -103,6 +90,7 @@ Please tell us what format you need. It will help us if you say what assistive t
 <p>The government is seeking continuity for our existing EU trade agreements as we leave the European Union.</p>
 
 <p>This document provides figures on UK continuity trade agreements. The statistics do not estimate the value or impact of the trade agreements themselves. They provide the overall value of the UK’s trade with countries covered by these agreements.</p>
+
 </div>
 </div>
 
@@ -110,8 +98,22 @@ Please tell us what format you need. It will help us if you say what assistive t
 
     </div>
 
-    <div class="app-c-published-dates ">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 June 2019
+    <br></br>Last updated 23 July 2019
+      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-23T16:21:35.000+01:00">23 July 2019</time>
+              Statistics updated on 18 July. Added Central America (Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama) to the list of signed trade agreements. 
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-10T12:30:00.000+01:00">10 June 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -121,6 +123,31 @@ Please tell us what format you need. It will help us if you say what assistive t
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-268ca0e7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-268ca0e7" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/statistics/european-union-finances-2018" data-track-options="{"dimension28":"5","dimension29":"European Union Finances 2018"}" href="/government/statistics/european-union-finances-2018">European Union Finances 2018</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/statistics/trade-and-investment-core-statistics-book" data-track-options="{"dimension28":"5","dimension29":"Trade and investment core statistics book"}" href="/government/statistics/trade-and-investment-core-statistics-book">Trade and investment core statistics book</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/statistics/greatgovuk-performance-dashboard" data-track-options="{"dimension28":"5","dimension29":"great.gov.uk performance dashboard"}" href="/government/statistics/greatgovuk-performance-dashboard">great.gov.uk performance dashboard</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/collections/eu-annual-statement" data-track-options="{"dimension28":"5","dimension29":"HMT EU Annual Statement"}" href="/government/collections/eu-annual-statement">HMT EU Annual Statement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/organisations/department-for-international-trade/about/statistics" data-track-options="{"dimension28":"5","dimension29":"Statistics at DIT"}" href="/government/organisations/department-for-international-trade/about/statistics">Statistics at DIT</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -141,9 +168,9 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c46279c9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8c33ca2e" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-c46279c9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8c33ca2e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
