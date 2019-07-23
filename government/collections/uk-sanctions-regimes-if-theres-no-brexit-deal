@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Collection
     </p>
@@ -10,10 +8,9 @@
     UK sanctions regimes if there’s no Brexit deal
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     This page provides links to legislation and guidance on implementing UK and UN sanctions if the UK leaves the EU without a deal. 
@@ -24,13 +21,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 31 January 2019
-    <br></br>Last updated 15 April 2019
+    <br></br>Last updated 23 July 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -49,14 +46,14 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body">
@@ -82,7 +79,7 @@
 </li>
   <li>further information on transport sanctions: contact the Department for Transport: <a href="mailto:sanctions.enquiries@dft.gov.uk">sanctions.enquiries@dft.gov.uk</a>
 </li>
-  <li>general information on sanctions: contact the Foreign and Commonwealth Office’s Sanctions Unit on <a href="mailto:sanctions@fco.gov.uk">sanctions@fco.gov.uk</a>
+  <li>general information on sanctions: contact the Foreign & Commonwealth Office’s Sanctions Unit on <a href="mailto:sanctions@fco.gov.uk">sanctions@fco.gov.uk</a>
 </li>
 </ul>
 
@@ -91,9 +88,11 @@
 <p>These are the latest regulations made under the Sanctions and Anti-Money Laundering Act (2018) by country or theme (to come into force when the UK leaves the EU) and associated documents.</p>
 
 <h2 id="b">B</h2>
-<p><a href="https://www.gov.uk/government/collections/uk-sanctions-on-burma">Burma</a></p>
-
 <p><a href="https://www.gov.uk/government/collections/uk-sanctions-on-the-republic-of-belarus">Belarus</a></p>
+
+<p><a href="https://www.gov.uk/government/collections/uk-sanctions-on-burma">Burma (Myanmar)</a></p>
+
+<p><a href="https://www.gov.uk/government/collections/uk-sanctions-on-burundi">Burundi</a></p>
 
 <h2 id="c">C</h2>
 
@@ -110,6 +109,8 @@
 <p><a href="https://www.gov.uk/government/collections/uk-sanctions-on-the-democratic-republic-of-the-congo">Democratic Republic of the Congo</a></p>
 
 <h2 id="g">G</h2>
+
+<p><a href="https://www.gov.uk/government/collections/uk-sanctions-on-guinea">Guinea</a></p>
 
 <p><a href="https://www.gov.uk/government/collections/uk-sanctions-on-the-republic-of-guinea-bissau">Guinea-Bissau</a></p>
 
@@ -141,12 +142,16 @@
 
       </div>
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 31 January 2019
-    <br></br>Last updated 15 April 2019
+    <br></br>Last updated 23 July 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-23T16:54:17.000+01:00">23 July 2019</time>
+              New links have been added to the legislation under the Burundi sanctions regime and the Guinea sanctions regime.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-15T14:21:55.000+01:00">15 April 2019</time>
               Link added to Russia sanctions regime.
@@ -192,11 +197,50 @@
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+      <div class="gem-c-step-nav-related " data-module="track-click">
+    <h2 class="gem-c-step-nav-related__heading">
+      <span class="gem-c-step-nav-related__pretitle">Part of</span>
+        </h2>
+        <ul class="gem-c-step-nav-related__links">
+            <li class="gem-c-step-nav-related__link-item">
+              <a href="/prepare-import-to-uk-after-brexit" class="gem-c-step-nav-related__link" data-track-category="stepNavPartOfClicked" data-track-action="Part of" data-track-label="/prepare-import-to-uk-after-brexit" data-track-dimension="Get your business ready to import from the EU to the UK after Brexit" data-track-dimension-index="29" data-track-options="{"dimension96" : "db1149f5-f60a-4d02-be0c-9c9db2828665" }">
+                Get your business ready to import from the EU to the UK after Brexit
+              </a>
+            </li>
+            <li class="gem-c-step-nav-related__link-item">
+              <a href="/prepare-export-from-uk-after-brexit" class="gem-c-step-nav-related__link" data-track-category="stepNavPartOfClicked" data-track-action="Part of" data-track-label="/prepare-export-from-uk-after-brexit" data-track-dimension="Get your business ready to export from the UK to the EU after Brexit" data-track-dimension-index="29" data-track-options="{"dimension96" : "e169b2ac-8c90-4789-8e6c-3657729e21b2" }">
+                Get your business ready to export from the UK to the EU after Brexit
+              </a>
+            </li>
+        </ul>
+  </div>
+
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-1ae80372" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1ae80372" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -206,8 +250,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -217,9 +261,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f30ef56c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-fc4966b4" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-f30ef56c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-fc4966b4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
