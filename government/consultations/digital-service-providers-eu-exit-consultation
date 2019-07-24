@@ -1,26 +1,25 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
-      Open consultation
+      Closed consultation
     </p>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Digital Service Providers (EU Exit) Consultation
+    NIS Regulations: Digital Service Providers (EU Exit) Call for Views
   </h1>
 </div>
-
   </div>
   
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 16 April 2019
+    <br></br>Last updated 24 July 2019
+      — <a href="#history">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -38,7 +37,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -46,24 +45,35 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
+        <section class="gem-c-notice govuk-!-margin-bottom-0" aria-label="Notice" role="region">
+        <h2 class="gem-c-notice__title">We are analysing your feedback</h2>
+
+    <p class="gem-c-notice__description">        Visit this page again soon to download the outcome to this public feedback.
+</p>
+
+    
+
+    
+</section>
 
 
 
 
 
-    <section class="app-c-banner app-c-banner--grid" aria-label="Notice">
+
+    <section class="app-c-banner app-c-banner--aside" aria-label="Notice" lang="en">
       <h2 class="app-c-banner__title">Summary</h2>
   <p class="app-c-banner__desc">
-          A call for views on the UK’s proposed approach to regulating non-UK based digital service providers operating in this country under the NIS Regulations.
+          Following EU Exit, the UK proposes to introduce a requirement for non-UK based DSPs offering services in the UK to comply with the NIS Regulations.
 
   </p>
 
-    <p class="app-c-banner__desc">        This consultation closes at<br></br>
-        <span class="consultation-date"><time datetime="2019-06-11T23:45:00.000+01:00">11:45pm on 11 June 2019</time></span>
+    <p class="app-c-banner__desc">        This consultation ran from<br></br><span class="consultation-date"><time datetime="2019-04-16T16:00:00.000+01:00">4pm on 16 April 2019</time> to
+        <time datetime="2019-06-11T23:45:00.000+01:00">11:45pm on 11 June 2019</time></span>
 </p>
 </section>
 
@@ -76,37 +86,43 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>Following the UK’s departure from the EU, the UK proposes to introduce a requirement in the <a href="https://www.gov.uk/government/collections/nis-directive-and-nis-regulations-2018">NIS Regulations</a> for specified non-UK based Digital Service Providers (DSPs) operating in the UK to designate a representative in this country that will be subject to the regulatory authority of the ICO.</p>
+<h3 id="background">Background</h3>
+<p>The <a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.194.01.0001.01.ENG&toc=OJ:L:2016:194:TOC">Directive on security of network and information systems</a> (the NIS Directive) provide legal measures to boost the overall level of security (both cyber and physical resilience) of network and information systems that are critical for the provision of essential services and relevant digital services (online marketplaces, online search engines, cloud computing services). The NIS Directive was adopted by the European Parliament on 6 July 2016 and entered into force in August 2016.</p>
 
-<h4 id="background">Background</h4>
+<p>The NIS Directive was transposed into UK domestic legislation on 10 May 2018 via the <a rel="external" href="https://www.legislation.gov.uk/uksi/2018/506/made">Networks and Information Systems Regulations 2018</a> (NIS Regulations). The NIS Regulations define digital service providers (DSPs) as organisations that provide online marketplace services, online search engine services, and/or cloud computing services. DSPs are in scope of the NIS Regulations if they have 50 or more staff, or a turnover or balance sheet of more than €10m per year. In the UK, the competent authority regulating digital service providers for the purpose of the NIS Regulations is the <a rel="external" href="https://ico.org.uk/for-organisations/the-guide-to-nis/">Information Commissioner’s Office</a> (ICO).</p>
 
-<p>The NIS Directive is EU-wide legislation that requires critical infrastructure organisations to implement stronger cyber security. The Directive was adopted by the European Parliament on 6 July 2016 and entered into force in August 2016. The NIS Directive was transposed into UK domestic legislation on 10 May 2018 via the Networks and Information Systems Regulations 2018 (NIS Regulations). The Regulations apply to operators of essential services in the energy, transport, health, water, and digital infrastructure sectors, as well as to digital service providers (DSPs).</p>
+<h3 id="designation-of-representatives">Designation of representatives</h3>
+<p>Under the NIS Directive, DSPs whose head office is outside of the EU are required to designate a representative in one of the EU Member States in which they offer services. When a digital service provider designates a representative in an EU Member State it will need to comply with the domestic legislation implementing the NIS Directive in that Member State.</p>
 
-<p>The NIS Regulations define DSPs as organisations that provide online marketplace services, online search engine services, and/or cloud computing services. DSPs are in scope of the NIS Regulations if they have 50 or more staff, or a turnover of more than €10m per year.</p>
+<p>While the United Kingdom is a member of the EU, this requirement doesn’t apply to UK-based digital service providers. When the UK departs the EU, DPSs established in the UK that offer services in another EU Member State will be required to designate a representative in an EU Member State.</p>
 
-<h4 id="designation-of-representatives">Designation of representatives</h4>
+<p>There is currently no requirement set out in the UK’s NIS Regulations for non-UK based DSPs that offer services in the UK to designate a representative in the UK.</p>
 
-<p>Under the NIS Directive, a DSP that is not established in the EU but offers digital services within the EU, must designate a representative in a Member State in which it operates, to be regulated by the relevant Competent Authority in that country.</p>
+<h3 id="proposed-approach">Proposed approach</h3>
+<p>The Government is therefore proposing to introduce a requirement in the NIS Regulations, following the UK’s departure from the EU, for non-UK established DSPs offering services in the UK, whose size and activities would render them in scope of the NIS Regulations, to designate a representative in this country. The DSPs would then be required to comply with the NIS Regulations in the UK, and would be regulated by the ICO.</p>
 
-<p>When the UK leaves the EU it will become a third country under the NIS Directive. Therefore, UK established DSPs wishing to operate in the EU will be required to designate a representative in a Member State. They must comply with the regulations in that Member State and will be regulated by its relevant Competent Authority.</p>
+<p>In line with existing requirements for DSPs already in scope of the NIS Regulations, non-UK based DSPs would be allowed three months in which to provide contact details of the designated representative and register with the ICO.</p>
 
-<p>There is currently no requirement set out in the UK’s NIS Regulations for DSPs not headquartered in the UK to designate a representative here. This means that the ICO (as the relevant Competent Authority) would be unable to exercise the enforcement powers provided for in the NIS Regulations with regard to non-UK based DSPs operating here.</p>
-
-<h4 id="proposed-approach">Proposed approach</h4>
-
-<p>The Government is therefore proposing to introduce a requirement in the NIS Regulations, following the UK’s departure from the EU, for non-UK established DSPs operating in the UK, whose size and activities would render them in scope of the NIS Regulations, to designate a representative in this country.</p>
-
-<p>The representative would be required to comply with the NIS Regulations in the UK, and would be regulated by the ICO.</p>
-
-<p>In line with existing requirements for UK based DSPs coming into scope of the NIS Regulations, in scope non-UK based DSPs would be allowed three months in which to provide contact details of the designated representative and register with the ICO.</p>
-
-<h4 id="call-for-views">Call for views</h4>
-
+<h3 id="call-for-views">Call for views</h3>
 <p>The Government is seeking views on the proposed introduction of this requirement when the UK exits the EU.</p>
 
 <p>We would welcome views and any supporting evidence on the costs and benefits of this proposal, as well as any views on the proposed three month timeframe to designate a representative and register with the ICO.</p>
 
 <p>Please respond by 11.45pm on Tuesday 11 June.</p>
+
+<h3 id="detail-of-outcome">Detail of outcome</h3>
+<p>The Government received a small number of positive responses which were used to inform the development of the Government’s approach. The proposed requirement will be introduced through an amendment to the NIS Regulations, which will come into effect the twentieth day after Exit day. Under this new requirement,  non-UK based DSPs that offer services in the UK must nominate a representative in the United Kingdom where the representative</p>
+
+<ul>
+  <li>can be any natural or legal person established in the United Kingdom, who is able to act on behalf of a digital service provider with regard to its obligations under the NIS Regulations;</li>
+  <li>must be nominated in writing;</li>
+  <li>must be contactable by the Information Commissioner or GCHQ for the purposes of ensuring compliance with the NIS Regulations;</li>
+  <li>is nominated without prejudice to any legal action which could be initiated against the nominating digital service provider; and</li>
+  <li>must be nominated within three months of the amendment coming into force, or within three months after the date on which a digital service providers falls in scope.</li>
+</ul>
+
+<p>Digital service providers that nominate a representative in the UK will have to comply the NIS Regulations.</p>
+
 </div>
 </div>
 
@@ -116,12 +132,24 @@
         <div class="consultation-documents">
           
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3347020">
+      <section class="attachment embedded" id="attachment_3548032">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/795960/DSP__EU_Exit__Targeted_Consultation.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/795960/thumbnail_DSP__EU_Exit__Targeted_Consultation.pdf.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/820561/Government_s_response_to_DSP__EU_Exit__call_for_views.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/820561/thumbnail_Government_s_response_to_DSP__EU_Exit__call_for_views.pdf.png"></img></a>
   </div>
   <div class="attachment-details">
-    <h2 class="title"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/795960/DSP__EU_Exit__Targeted_Consultation.pdf">Digital Service Providers (EU Exit) Consultation</a></h2>
+    <h2 class="title"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/820561/Government_s_response_to_DSP__EU_Exit__call_for_views.pdf">Government's response to DSP (EU Exit) Call for Views </a></h2>
+    <p class="metadata">
+        <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">133KB</span>, <span class="page-length">7 pages</span>
+    </p>
+
+
+  </div>
+</section><section class="attachment embedded" id="attachment_3548035">
+  <div class="attachment-thumb">
+      <a aria-hidden="true" class="thumbnail" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/820565/Digital_Service_Providers__EU_Exit__Call_for_Views.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/820565/thumbnail_Digital_Service_Providers__EU_Exit__Call_for_Views.pdf.png"></img></a>
+  </div>
+  <div class="attachment-details">
+    <h2 class="title"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/820565/Digital_Service_Providers__EU_Exit__Call_for_Views.pdf">Digital Service Providers (EU Exit) Call for Views </a></h2>
     <p class="metadata">
         <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">118KB</span>, <span class="page-length">4 pages</span>
     </p>
@@ -134,32 +162,6 @@
         </div>
     </div>
 
-      <div class="consultation-ways-to-respond">
-        <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  ">Ways to respond</h2>
-
-
-        
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      
-
-              <h3>Email to:</h3>
-              <p><a href="mailto:nis@culture.gov.uk">nis@culture.gov.uk</a></p>
-
-              <h3>Write to:</h3>
-              <div class="contact">
-                <div class="content">
-                  <p>NIS Directive Team
-<br></br>Department for Digital, Culture, Media & Sport
-<br></br>4th Floor
-<br></br>100 Parliament Street
-<br></br>London
-<br></br>SW1A 2BQ</p>
-                </div>
-              </div>
-
-</div>
-
-      </div>
 
     <div class="content-bottom-margin">
       <div class="dont-print responsive-bottom-margin">
@@ -178,7 +180,7 @@
             </span><span class="visually-hidden">Share on </span>Facebook</a>
         </li>
         <li class="gem-c-share-links__list-item">
-          <a target="_blank" rel="noopener noreferrer external" data-track-category="social media" data-track-action="twitter" data-track-options="{"socialAction":"share","socialNetwork":"twitter","socialTarget":"https://twitter.com/share?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fconsultations%2Fdigital-service-providers-eu-exit-consultation\u0026text=Digital%20Service%20Providers%20%28EU%20Exit%29%20Consultation"}" class="gem-c-share-links__link " href="https://twitter.com/share?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fconsultations%2Fdigital-service-providers-eu-exit-consultation&text=Digital%20Service%20Providers%20%28EU%20Exit%29%20Consultation">
+          <a target="_blank" rel="noopener noreferrer external" data-track-category="social media" data-track-action="twitter" data-track-options="{"socialAction":"share","socialNetwork":"twitter","socialTarget":"https://twitter.com/share?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fconsultations%2Fdigital-service-providers-eu-exit-consultation\u0026text=NIS%20Regulations%3A%20Digital%20Service%20Providers%20%28EU%20Exit%29%20Call%20for%20Views"}" class="gem-c-share-links__link " href="https://twitter.com/share?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fconsultations%2Fdigital-service-providers-eu-exit-consultation&text=NIS%20Regulations%3A%20Digital%20Service%20Providers%20%28EU%20Exit%29%20Call%20for%20Views">
             <span class="gem-c-share-links__link-icon">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
                   <path fill="currentColor" d="M31.007 0H.993A.999.999 0 0 0 0 .993v30.014c0 .55.452.993.993.993h30.014a.997.997 0 0 0 .993-.993V.993A.998.998 0 0 0 31.007 0z"></path>
@@ -192,18 +194,57 @@
 
       </div>
 
-    <div class="app-c-published-dates ">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 16 April 2019
+    <br></br>Last updated 24 July 2019
+      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-24T16:50:39.000+01:00">24 July 2019</time>
+              We have published the Call for Views on the NIS Regulation 
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-16T16:27:27.000+01:00">16 April 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
     </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-51905ca6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-51905ca6" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/nis-regulations-impact-assessment" data-track-options="{"dimension28":"5","dimension29":"NIS Regulations: Impact Assessment"}" href="/government/publications/nis-regulations-impact-assessment">NIS Regulations: Impact Assessment</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/nis-regulations-guidance-for-competent-authorities" data-track-options="{"dimension28":"5","dimension29":"NIS Regulations: Guidance for Competent Authorities"}" href="/government/publications/nis-regulations-guidance-for-competent-authorities">NIS Regulations: Guidance for Competent Authorities</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/interim-cyber-security-science-and-technology-strategy" data-track-options="{"dimension28":"5","dimension29":"Interim cyber security science and technology strategy"}" href="/government/publications/interim-cyber-security-science-and-technology-strategy">Interim cyber security science and technology strategy</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/speeches/uk-cyber-security-strategy-statement-on-the-final-annual-report" data-track-options="{"dimension28":"5","dimension29":"UK Cyber Security Strategy: statement on the final annual report"}" href="/government/speeches/uk-cyber-security-strategy-statement-on-the-final-annual-report">UK Cyber Security Strategy: statement on the final annual report</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/speeches/speech-on-second-anniversary-of-the-cyber-security-strategy" data-track-options="{"dimension28":"5","dimension29":"Speech on second anniversary of the Cyber Security Strategy"}" href="/government/speeches/speech-on-second-anniversary-of-the-cyber-security-strategy">Speech on second anniversary of the Cyber Security Strategy</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -213,8 +254,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -224,9 +265,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1a16f973" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-11fad421" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1a16f973" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-11fad421" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
