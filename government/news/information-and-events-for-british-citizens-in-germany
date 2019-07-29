@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       World news story
     </p>
@@ -10,7 +8,6 @@
     Information and events for British citizens in Germany
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
@@ -25,10 +22,10 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 8 May 2018
-    <br></br>Last updated 19 June 2019
+    <br></br>Last updated 29 July 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -58,7 +55,7 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
-      <figure class="app-c-figure">
+      <figure class="app-c-figure" lang="en">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/74508/s300_s960_GOV_UK2__1_.jpg" alt="British citizens outreach meetings"></img>
     <figcaption class="app-c-figure__figcaption">
 
@@ -73,8 +70,8 @@
 <h3 id="upcoming-events-across-germany">Upcoming events across Germany</h3>
 
 <ul>
-  <li>Berlin: Friday 21 June 4-6 pm - <a rel="external" href="https://www.facebook.com/events/463920700847577/">event details</a>.
-Embassy representatives will run an information stand from 4-6pm to answer questions on citizens’ rights at this event at The Castle.</li>
+  <li>
+<a rel="external" href="https://www.facebook.com/BritsInGermany/photos/a.1766537726970112/2182998841990663/?type=3&theater">Q&A on BritsInGermany Facebook page</a>: 6 August 2019, from 1 to 2 pm</li>
 </ul>
 
 <p>These events offer UK nationals a forum to raise the questions that affect them directly.</p>
@@ -86,7 +83,7 @@ Embassy representatives will run an information stand from 4-6pm to answer quest
 <p><a href="#previous">View the previous events we have held across Germany</a></p>
 
 <div class="call-to-action">
-<h3 id="for-the-latest-updates-on-eu-exit-issues-and-information-events-in-your-area">For the latest updates on EU Exit issues and information events in your area:</h3>
+<h3 id="for-the-latest-updates-on-brexit-issues-and-information-events-in-your-area">For the latest updates on Brexit issues and information events in your area:</h3>
 
 <ul>
   <li>
@@ -113,6 +110,11 @@ Embassy representatives will run an information stand from 4-6pm to answer quest
 </li>
   <li>German <a rel="external" href="https://www.bmas.de/DE/Themen/Soziales-Europa-und-Internationales/Europa/Brexit/Fragen-und-Antworten/faq-brexit.html?fbclid=IwAR2UVdOSGKffGN-uhr6yZNlkzDvDU98DX0VsFHhP7O72r0AaLE3hMVDGfR8">Federal Ministry for Labour & Social Affairs’ Brexit FAQs</a>
 </li>
+  <li>our handout for UK nationals on <span id="attachment_3553977" class="attachment-inline">
+<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/821151/practical_steps_to_take_in_preparation_for_Brexit_handout_.pdf">practical steps to take in preparation for Brexit</a>
+(<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">629KB</span>, <span class="page-length">2 pages</span>)
+</span>
+</li>
 </ul>
 
 <h3 id="previous">Previous events across Germany</h3>
@@ -125,6 +127,10 @@ Embassy representatives will run an information stand from 4-6pm to answer quest
 
 <table>
   <tbody>
+    <tr>
+      <td>21 June</td>
+      <td>Berlin - Information stand at summer party at The Castle</td>
+    </tr>
     <tr>
       <td>17 May</td>
       <td>Hanover</td>
@@ -321,12 +327,16 @@ Embassy representatives will run an information stand from 4-6pm to answer quest
 
     </div>
 
-    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 May 2018
-    <br></br>Last updated 19 June 2019
+    <br></br>Last updated 29 July 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-29T11:27:41.000+01:00">29 July 2019</time>
+              Brexit update: New event - Facebook Q&A, 6. August, 1-2 pm on @BritsInGermany Facebook page
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-19T12:56:40.000+01:00">19 June 2019</time>
               EU Exit update: New event in Berlin on Friday 21 June
@@ -411,6 +421,31 @@ Embassy representatives will run an information stand from 4-6pm to answer quest
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-65962d91" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-65962d91" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/germany-residence-information-after-eu-exit" data-track-options="{"dimension28":"5","dimension29":"Germany: residence information after Brexit"}" href="/government/publications/germany-residence-information-after-eu-exit">Germany: residence information after Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/exiting-the-european-union" data-track-options="{"dimension28":"5","dimension29":"Exiting the European Union"}" href="/guidance/exiting-the-european-union">Exiting the European Union</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/germany-list-of-translators-and-interpreters" data-track-options="{"dimension28":"5","dimension29":"Germany: translators and interpreters"}" href="/government/publications/germany-list-of-translators-and-interpreters">Germany: translators and interpreters</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/germany-list-of-medical-practitionersfacilities" data-track-options="{"dimension28":"5","dimension29":"Germany: doctors"}" href="/government/publications/germany-list-of-medical-practitionersfacilities">Germany: doctors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/germany-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Germany: funeral directors"}" href="/government/publications/germany-list-of-funeral-directors">Germany: funeral directors</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -431,9 +466,9 @@ Embassy representatives will run an information stand from 4-6pm to answer quest
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-93c6a5d7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5432978a" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-93c6a5d7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-5432978a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -447,9 +482,9 @@ Embassy representatives will run an information stand from 4-6pm to answer quest
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-93c6a5d7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-5432978a" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-93c6a5d7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-5432978a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
