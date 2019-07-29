@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,25 +8,24 @@
     Living in Germany
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
-    Official information British people moving to and living in Germany need to know, including EU Exit guidance, residency, healthcare and driving.
+    Official information British people moving to and living in Germany need to know, including Brexit guidance, residency, healthcare and driving.
   </p>
 
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 17 May 2013
-    <br></br>Last updated 24 April 2019
+    <br></br>Last updated 29 July 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +44,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +52,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -66,15 +63,13 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#eu-exit-what-you-should-do" data-track-options="{"dimension29":"\nEU Exit: what you should do"}" href="#eu-exit-what-you-should-do">
-EU Exit: what you should do</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#eu-exit-updates" data-track-options="{"dimension29":"\nEU Exit updates"}" href="#eu-exit-updates">
-EU Exit updates</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#brexit-updates" data-track-options="{"dimension29":"Brexit updates"}" href="#brexit-updates">Brexit updates</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#residency-and-visas" data-track-options="{"dimension29":"Residency and visas"}" href="#residency-and-visas">Residency and visas</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
           <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#applying-for-german-citizenship" data-track-options="{"dimension29":"Applying for German citizenship"}" href="#applying-for-german-citizenship">Applying for German citizenship</a>
@@ -128,8 +123,7 @@ EU Exit updates</a>
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="eu-exit-what-you-should-do">
-<abbr title="European Union">EU</abbr> Exit: what you should do</h2>
+<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
 
 <p>You should:</p>
 
@@ -143,15 +137,14 @@ EU Exit updates</a>
 </ul>
 </div>
 
-<div class="call-to-action">
-<h2 id="eu-exit-updates">
-<abbr title="European Union">EU</abbr> Exit updates</h2>
-<p>To keep up to date with information about <abbr title="European Union">EU</abbr> Exit you should:</p>
+<h2 id="brexit-updates">Brexit updates</h2>
+
+<p>To keep up to date with information about Brexit you should:</p>
 
 <ul>
   <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">essential information about <abbr title="United Kingdom">UK</abbr> nationals in the <abbr title="European Union">EU</abbr></a>
 </li>
-  <li>read the <a rel="external" href="https://www.auswaertiges-amt.de/en/aussenpolitik/europa/german-government-brexit/2153676">German Ministry of Foreign Affairs’ <abbr title="European Union">EU</abbr> Exit information</a>
+  <li>read the <a rel="external" href="https://www.bundesregierung.de/breg-en/search/brexit-q-a-your-questions-answered-1569656">German Government’s FAQs on Brexit</a>
 </li>
   <li>
 <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-germany">sign up for email alerts</a> to this guidance</li>
@@ -159,9 +152,8 @@ EU Exit updates</a>
 </li>
   <li><a href="https://www.gov.uk/government/news/information-and-events-for-british-citizens-in-germany">attend one of our citizens outreach meetings</a></li>
 </ul>
-</div>
 
-<h2 id="residency-and-visas">Residency and visas</h2>
+<h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>You may want to check the <a href="https://www.gov.uk/foreign-travel-advice/germany/entry-requirements">entry requirements for Germany</a>.</p>
 
@@ -169,7 +161,7 @@ EU Exit updates</a>
 
 <p>Whenever you move home in Germany, you must register at your new address.</p>
 
-<h3 id="residency-and-visas-after-the-uk-leaves-the-eu">Residency and visas after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
+<h3 id="visas-and-residency-after-the-uk-leaves-the-eu">Visas and residency after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
 </h3>
 
 <p>After the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, <abbr title="United Kingdom">UK</abbr> nationals living in Germany will need to <a href="https://www.gov.uk/government/publications/germany-residence-information-after-eu-exit/foreigners-authorities-in-germany">apply for a residence permit from their local Foreigners Authority (Ausländerbehörde)</a>.</p>
@@ -189,7 +181,7 @@ EU Exit updates</a>
 <p>The <abbr title="United Kingdom">UK</abbr> has no restrictions on dual nationality. Germany only allows dual nationality in exceptional cases.For more information, see the <a rel="external" href="https://www.bmi.bund.de/SharedDocs/faqs/EN/themen/migration/brexit/faqs-brexit.html?fbclid=IwAR3UcH9fqGS_o9yU5Hzmam5llvq_UZk9YistYdxv9pkdJTzkI2aAMTrphXg">Federal Ministry of the Interior’s FAQs on residency and citizenship</a>.</p>
 
 <h2 id="Passports-and-travel">Passports and travel</h2>
-<p>You can <a href="https://www.gov.uk/overseas-passports">apply for or renew your British passport from Germany</a>. If you cannot get a passport in time for your trip, you may need to <a href="https://www.gov.uk/emergency-travel-document">get an emergency travel document or ‘emergency passport’</a>.</p>
+<p>You can <a href="https://www.gov.uk/overseas-passports">apply for or renew your British passport from Germany</a>.</p>
 
 <h3 id="passports-and-travel-after-the-uk-leaves-the-eu">Passports and travel after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
 </h3>
@@ -201,7 +193,7 @@ EU Exit updates</a>
 
 <p>You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/"><abbr title="United Kingdom">UK</abbr> nationals will not need visas for short stays elsewhere in the <abbr title="European Union">EU</abbr></a>. You will be able to stay up to 90 days in another <abbr title="European Union">EU</abbr> country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an <abbr title="European Union">EU</abbr> Member State, you will be able to transit through other <abbr title="European Union">EU</abbr> Member States to reach your country of residence. We will update this guidance as more information becomes available.</p>
+<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/"><abbr title="United Kingdom">UK</abbr> nationals will not need visas for short stays elsewhere in the <abbr title="European Union">EU</abbr></a>. You will be able to stay up to 90 days in another <abbr title="European Union">EU</abbr>, EEA or EFTA country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an <abbr title="European Union">EU</abbr>, EEA or EFTA country, you will be able to transit through other <abbr title="European Union">EU</abbr>, EEA or EFTA countries to reach your country of residence. We will update this guidance as more information becomes available.</p>
 
 <p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, the German government has said that you should allow plenty of time when re-entering Germany and make sure that have you have documentation to hand that proves that you are a long term resident, such as your residence permit, Meldebescheinigung, correspondence concerning social insurance contributions and work or rental contracts.</p>
 
@@ -275,7 +267,7 @@ EU Exit updates</a>
 <p>You may need a:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/dbs-check-applicant-criminal-record"><abbr title="United Kingdom">UK</abbr> police certificate</a></li>
+  <li><a rel="external" href="https://www.acro.police.uk/acro_std.aspx?id=2379"><abbr title="United Kingdom">UK</abbr> police certificate</a></li>
   <li>
 <a rel="external" href="https://www.bundesjustizamt.de/DE/Themen/Buergerdienste/BZR/Inland/FAQ_node.html">German criminal record check (Führungszeugnis)</a> (in German) which can be ordered from your local registry office (Meldebehörde)</li>
 </ul>
@@ -314,7 +306,7 @@ EU Exit updates</a>
   <li>read our guidance on <a href="https://www.gov.uk/guidance/studying-in-the-european-union-after-brexit">studying in the European Union after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr></a>
 </li>
   <li>read <a rel="external" href="https://www.bmbf.de/de/was-bedeutet-ein-no-deal-brexit-fuer-bildung-und-forschung-7826.html">the German Federal Ministry for Education and Research’s FAQs</a> (in German)</li>
-  <li>read the <a rel="external" href="https://www.baf%C3%B6g.de/de/617.php">German Government’s FAQs on Bafög funding</a> (in German)</li>
+  <li>read the <a rel="external" href="https://www.baf%C3%B6g.de/de/617.php">German government’s FAQs on Bafög funding</a> (in German)</li>
 </ul>
 
 <h2 id="money-and-tax">Money and tax</h2>
@@ -369,9 +361,9 @@ EU Exit updates</a>
   <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm">pensions from working abroad, if you’ve worked in other <abbr title="European Union">EU</abbr> countries</a></li>
 </ul>
 
-<p>For more information on how pension entitlements are calculated, please read the <a rel="external" href="https://www.deutsche-rentenversicherung.de/Allgemein/de/Inhalt/Allgemeines/FAQ/International/zusammenrechnung_zeiten_rentenanspruch/00_faq_liste_zusammenrechnung_von_zeiten_fuer_rentenanspruch.html">German Pensions’ Authority’s guidance</a> (in German).</p>
+<p>For more information on how pension entitlements are calculated, please read the <a rel="external" href="https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Ausland/Europarecht/europarecht_detailseite.html">German Pensions’ Authority’s guidance</a> (in German).</p>
 
-<h3 id="life-certificates-for-uk-state-pensions">Life certificates for <abbr title="United Kingdom">UK</abbr> State pensions</h3>
+<h3 id="life-certificates-for-uk-state-pensions">Life certificates for <abbr title="United Kingdom">UK</abbr> State Pensions</h3>
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances">‘life certificate’ from the <abbr title="United Kingdom">UK</abbr> Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
 
 <h3 id="pensions-after-the-uk-leaves-the-eu">Pensions after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
@@ -412,7 +404,7 @@ EU Exit updates</a>
 
 <h2 id="driving-in-germany">Driving in Germany</h2>
 
-<p>If you are a resident in Germany, you should exchange your <abbr title="United Kingdom">UK</abbr> licence for a German one before the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, as your <abbr title="United Kingdom">UK</abbr> licence may no longer be valid once the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>. You can still use your German licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
+<p>If you are a resident in Germany, you should exchange your <abbr title="United Kingdom">UK</abbr> licence for a German one. You can still use your German licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
 
 <p>You must exchange your <abbr title="United Kingdom">UK</abbr> licence for a German driving licence within 6 months of moving to Germany.</p>
 
@@ -433,7 +425,7 @@ EU Exit updates</a>
 
 <p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, driving licence rules will stay the same during the implementation period.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, your <abbr title="United Kingdom">UK</abbr> licence may no longer be valid in Germany. Therefore, you should ensure that you have exchanged your licence for a German one before the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>. You can still use your German licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
+<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, your <abbr title="United Kingdom">UK</abbr> licence may no longer be valid in Germany. You should ensure that you have exchanged your licence for a German one before the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>. You can still use your German licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
 
 <p>Find out more:</p>
 
@@ -525,8 +517,7 @@ EU Exit updates</a>
 <p>You should read our guidance on:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#what-this-could-mean-for-you">returning to live in the <abbr title="United Kingdom">UK</abbr></a></li>
-  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal">returning to live in the <abbr title="United Kingdom">UK</abbr> in the case of no-deal</a></li>
+  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal">access to benefits and services in the <abbr title="United Kingdom">UK</abbr> if there is a no deal</a></li>
   <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#bringing-your-family-to-the-uk">bringing your family to the <abbr title="United Kingdom">UK</abbr></a></li>
   <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#access-to-higher-education-19-further-education-and-apprenticeship-funding-in-the-uk">access to higher education, 19+ further education and apprenticeship funding</a></li>
   <li><a href="https://www.gov.uk/importing-vehicles-into-the-uk">importing vehicles back to the <abbr title="United Kingdom">UK</abbr></a></li>
@@ -567,12 +558,16 @@ EU Exit updates</a>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 May 2013
-    <br></br>Last updated 24 April 2019
+    <br></br>Last updated 29 July 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-29T13:49:14.000+01:00">29 July 2019</time>
+              Brexit Update: New event: Facebook Q&A, 6 August 1-2pm. See our events page (click on "attend one of our citizens outreach meetings") or visit www.facebook.com/BritsInGermany
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-24T17:11:13.000+01:00">24 April 2019</time>
               EU Exit update: 2 Information events for UK nationals in Berlin on Tuesday 30 April 2019. For event details and registration instructions see "EU Exit updates" and click on "attend one of our citizens outreach meetings".
@@ -681,42 +676,59 @@ Information about importing a UK-registered vehicle added to driving in Germany 
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-bbd19bee" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-e4cb0d71" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-bbd19bee" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e4cb0d71" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-bbd19bee" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-germany" data-track-options="{"dimension28":"1","dimension29":"Germany: notarial and documentary services guide"}" href="/guidance/notarial-and-documentary-services-guide-for-germany">Germany: notarial and documentary services guide</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-ireland" data-track-options="{"dimension28":"5","dimension29":"Living in Ireland"}" href="/guidance/living-in-ireland">Living in Ireland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"5","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-greece" data-track-options="{"dimension28":"5","dimension29":"Living in Greece"}" href="/guidance/living-in-greece">Living in Greece</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-bbd19bee" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-e4cb0d71" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-bbd19bee" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-related_guides-e4cb0d71" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-germany" data-track-options="{"dimension28":"1","dimension29":"Germany: notarial and documentary services guide"}" href="/guidance/notarial-and-documentary-services-guide-for-germany">Germany: notarial and documentary services guide</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-e4cb0d71" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-e4cb0d71" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
 
   </ul>
 </nav>
@@ -731,8 +743,8 @@ Information about importing a UK-registered vehicle added to driving in Germany 
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -742,9 +754,9 @@ Information about importing a UK-registered vehicle added to driving in Germany 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b1047c80" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c27ed465" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-b1047c80" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-c27ed465" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
