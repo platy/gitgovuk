@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,10 +8,9 @@
     Moving prohibited plants, plant pests, pathogens and soil
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     How to apply for a scientific licence to import, move or keep material that's usually prohibited, fees you must pay and how to move it.
@@ -22,13 +19,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 29 July 2015
-    <br></br>Last updated 23 April 2019
+    <br></br>Last updated 5 August 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +44,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +52,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -361,7 +358,7 @@
 
 <p>You must make all licensed material available for inspection by your local <abbr title="Animal and Plant Health Agency">APHA</abbr> inspector.</p>
 
-<p>You must allow the inspector to check how you’re keeping the material - they may take samples of material or any associated organisms, eg invertebrates.</p>
+<p>You must allow the inspector to check how you’re keeping the material - they may take samples of material or any associated organisms, e.g. invertebrates.</p>
 
 <p>You must <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate">contact <abbr title="Animal and Plant Health Agency">APHA</abbr></a> on the first working day after the consignment arrives to inform them of any plants you’ve received under licence.</p>
 
@@ -375,19 +372,19 @@
 
 <p>The first inspector who visits your site will tell you how often you need to be reinspected.</p>
 
-<p>If you fail an inspection you must pay for any further inspections, at a cost of £42.75 per hour or part of an hour.</p>
+<p>If you fail an inspection you must pay for any further inspections, at a cost of £17.50 for each 15 minutes (or part thereof), subject to a minimum fee of £35.00.</p>
 
 <h2 id="change-an-existing-licence">Change an existing licence</h2>
 
-<p>You can <a rel="external" href="http://edomero.defra.gov.uk/">apply to change your licence</a> using eDomero - eg to add new facilities or material.</p>
+<p>You can <a rel="external" href="http://edomero.defra.gov.uk/">apply to change your licence</a> using eDomero - e.g. to add new facilities or material.</p>
 
 <p><abbr title="Animal and Plant Health Agency">APHA</abbr> may re-inspect your facilities as part of this application process.</p>
 
 <h3 id="licence-amendment-fees">Licence amendment fees</h3>
 
-<p>Licence amendments that require a Defra scientific or technical assessment cost £265.21.</p>
+<p>Licence amendments that require a Defra scientific or technical assessment cost £380.25</p>
 
-<p>Amendments that don’t need an assessment cost £31.86.</p>
+<p>Amendments that don’t need an assessment cost £42.50.</p>
 
 <p><abbr title="Animal and Plant Health Agency">APHA</abbr> will send you an invoice after you apply to change a licence through the eDomero system.</p>
 
@@ -406,12 +403,16 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 29 July 2015
-    <br></br>Last updated 23 April 2019
+    <br></br>Last updated 5 August 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-05T15:48:53.000+01:00">5 August 2019</time>
+              Increase in fee's - content updated.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-23T14:57:47.000+01:00">23 April 2019</time>
               Application fees updated
@@ -448,11 +449,36 @@
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-58ace3ef" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-58ace3ef" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/fruit-propagation-certification-scheme" data-track-options="{"dimension28":"5","dimension29":"Fruit Propagation Certification Scheme"}" href="/guidance/fruit-propagation-certification-scheme">Fruit Propagation Certification Scheme</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/plant-health-plant-passporting-updates" data-track-options="{"dimension28":"5","dimension29":"Plant Health: plant passporting updates"}" href="/government/publications/plant-health-plant-passporting-updates">Plant Health: plant passporting updates</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/plant-species-by-import-category" data-track-options="{"dimension28":"5","dimension29":"Plant species by import category"}" href="/government/publications/plant-species-by-import-category">Plant species by import category</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/plant-imports-external-temporary-storage-facilities-etsf" data-track-options="{"dimension28":"5","dimension29":"Plant imports: external temporary storage facilities (ETSF)"}" href="/government/publications/plant-imports-external-temporary-storage-facilities-etsf">Plant imports: external temporary storage facilities (ETSF)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/importing-plant-material-record-of-details" data-track-options="{"dimension28":"5","dimension29":"Importing plant material: record of details"}" href="/government/publications/importing-plant-material-record-of-details">Importing plant material: record of details</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -462,8 +488,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -473,9 +499,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2cf5848b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-654a43d8" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2cf5848b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-654a43d8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
