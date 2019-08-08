@@ -9,7 +9,20 @@
   </h1>
 </div>
   </div>
-  
+    <div class="govuk-grid-column-third">
+      <nav role="navigation" class="gem-c-translation-nav  " aria-label="Translations">
+    <ul class="gem-c-translation-nav__list">
+        <li class="gem-c-translation-nav__list-item">
+            <span lang="en">English</span>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="cy" lang="cy" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/exporting-gm-food-and-animal-feed-products-if-there-is-a-no-deal-brexit.cy">Cymraeg</a>
+        </li>
+    </ul>
+  </nav>
+
+  </div>
+
   <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
@@ -25,6 +38,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 7 August 2019
+    <br></br>Last updated 8 August 2019
+      — <a href="#history">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -126,8 +141,22 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 7 August 2019
+    <br></br>Last updated 8 August 2019
+      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-08T11:46:05.000+01:00">8 August 2019</time>
+              Added Welsh language translation
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-07T11:43:00.000+01:00">7 August 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -151,6 +180,41 @@
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-aa60675c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-aa60675c" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-aa60675c" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-aa60675c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/official-sensitive-data-and-it" data-track-options="{"dimension28":"1","dimension29":"'OFFICIAL-SENSITIVE' data and IT"}" href="/guidance/official-sensitive-data-and-it">'OFFICIAL-SENSITIVE' data and IT</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -171,9 +235,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-123d8f2d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-05b01386" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-123d8f2d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-05b01386" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
