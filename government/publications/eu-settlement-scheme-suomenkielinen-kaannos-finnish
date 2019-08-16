@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Promotional material
     </p>
@@ -10,11 +8,10 @@
     EU Settlement Scheme: suomenkielinen käännös (Finnish)
   </h1>
 </div>
-
   </div>
   
 
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     Apupaketti sisältää tietoa EU Settlement Scheme EU-kansalaisille ja heidän perheilleen.
@@ -23,11 +20,11 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 30 March 2019
     <br></br>Last updated 24 April 2019
       — <a href="#history">see all updates</a>
@@ -48,7 +45,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -56,8 +53,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds responsive-bottom-margin">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds responsive-bottom-margin">
     
     <div class="responsive-bottom-margin">
        <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="documents-title">Documents</h2>
@@ -136,7 +133,7 @@ Please tell us what format you need. It will help us if you say what assistive t
 
     </div>
 
-    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 30 March 2019
     <br></br>Last updated 24 April 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
@@ -156,28 +153,45 @@ Please tell us what format you need. It will help us if you say what assistive t
 
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-ed2c57c2" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-4c688afd" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-ed2c57c2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-4c688afd" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-ed2c57c2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/eu-settlement-scheme-translated-information-materials" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: translated information materials"}" href="/government/collections/eu-settlement-scheme-translated-information-materials">EU Settlement Scheme: translated information materials</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-settlement-scheme-toolkit-deutsche-ubersetzung-german" data-track-options="{"dimension28":"5","dimension29":"„EU Settlement Scheme“ Toolkit: Deutsche Übersetzung (German)"}" href="/government/publications/eu-settlement-scheme-toolkit-deutsche-ubersetzung-german">„EU Settlement Scheme“ Toolkit: Deutsche Übersetzung (German)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/guide-du-dispositif-denregistrement-pour-les-citoyennes-europeennes-eu-settlement-scheme-la-traduction-francaise-french" data-track-options="{"dimension28":"5","dimension29":"Guide du dispositif d’enregistrement pour les citoyen(ne)s européen(ne)s (EU Settlement Scheme): la traduction française (French)"}" href="/government/publications/guide-du-dispositif-denregistrement-pour-les-citoyennes-europeennes-eu-settlement-scheme-la-traduction-francaise-french">Guide du dispositif d’enregistrement pour les citoyen(ne)s européen(ne)s (EU Settlement Scheme): la traduction française (French)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/safn-hjalpargagna-adsetursaaetlunarinnar-fyrir-esb-borgara-islensk-thyding-icelandic" data-track-options="{"dimension28":"5","dimension29":"Safn hjálpargagna aðsetursáætlunarinnar fyrir ESB-borgara: Íslensk þýðing (Icelandic)"}" href="/government/publications/safn-hjalpargagna-adsetursaaetlunarinnar-fyrir-esb-borgara-islensk-thyding-icelandic">Safn hjálpargagna aðsetursáætlunarinnar fyrir ESB-borgara: Íslensk þýðing (Icelandic)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/zbirka-navodil-o-shemi-za-pridobitev-statusa-za-drzavljane-eu-prevod-v-slovenscino-slovenian" data-track-options="{"dimension28":"5","dimension29":"Zbirka navodil o shemi za pridobitev statusa za državljane EU: prevod v slovenščino (Slovenian)"}" href="/government/publications/zbirka-navodil-o-shemi-za-pridobitev-statusa-za-drzavljane-eu-prevod-v-slovenscino-slovenian">Zbirka navodil o shemi za pridobitev statusa za državljane EU: prevod v slovenščino (Slovenian)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/tacar-uirlisi-do-sceim-lonnaiochta-an-ae-eu-settlement-scheme-aistriuchan-gaeilge-irish" data-track-options="{"dimension28":"5","dimension29":"Tacar Uirlisí do Scéim Lonnaíochta an AE (EU Settlement Scheme): Aistriúchán Gaeilge (Irish)"}" href="/government/publications/tacar-uirlisi-do-sceim-lonnaiochta-an-ae-eu-settlement-scheme-aistriuchan-gaeilge-irish">Tacar Uirlisí do Scéim Lonnaíochta an AE (EU Settlement Scheme): Aistriúchán Gaeilge (Irish)</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-4c688afd" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-4c688afd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/eu-settlement-scheme-translated-information-materials" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: translated information materials"}" href="/government/collections/eu-settlement-scheme-translated-information-materials">EU Settlement Scheme: translated information materials</a></li>
 
   </ul>
 </nav>
@@ -192,8 +206,8 @@ Please tell us what format you need. It will help us if you say what assistive t
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -203,9 +217,9 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d48baa4b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-477df5a5" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d48baa4b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-477df5a5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
