@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,7 +8,6 @@
     Importing live animals or animal products from non-EU countries
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
@@ -25,8 +22,8 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 12 September 2014
     <br></br>Last updated 20 May 2019
       — <a href="#history">see all updates</a>
@@ -66,7 +63,7 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#if-the-uk-leaves-the-eu-without-a-deal" data-track-options="{"dimension29":"If the UK leaves the EU without a deal"}" href="#if-the-uk-leaves-the-eu-without-a-deal">If the UK leaves the EU without a deal</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#if-theres-a-no-deal-brexit" data-track-options="{"dimension29":"If there’s a no deal Brexit"}" href="#if-theres-a-no-deal-brexit">If there’s a no deal Brexit</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
           <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#commercial-imports" data-track-options="{"dimension29":"Commercial imports"}" href="#commercial-imports">Commercial imports</a>
@@ -105,11 +102,11 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<h2 id="if-the-uk-leaves-the-eu-without-a-deal">If the UK leaves the EU without a deal</h2>
+<h2 id="if-theres-a-no-deal-brexit">If there’s a no deal Brexit</h2>
 
-<p>After the UK leaves the EU, you’ll still be able to import animals and animal products from outside the EU. However, the process for notifying the UK authorities of these imports will change.</p>
+<p>You’ll still be able to import animals and animal products from non-EU countires after Brexit. But the process for notifying the UK authorities of these imports will change.</p>
 
-<p>Find out what will and will not change if you’re importing to the UK from the guidance on <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">importing animals, animal products and high-risk food and feed not of animal origin if the UK leaves the EU with no deal</a>.</p>
+<p>Find out about <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">importing animals, animal products and high-risk food and feed not of animal origin if the UK leaves the EU with no deal</a>.</p>
 
 <h2 id="commercial-imports">Commercial imports</h2>
 
@@ -122,11 +119,11 @@
 <p>To satisfy yourself that you can comply with the trade, welfare and animal health rules, you may also wish to contact the <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle"><abbr title="Animal and Plant Health Agency">APHA</abbr> Centre for International Trade Carlisle</a> for further guidance.</p>
 
 <div class="call-to-action">
-<p>You should also <a href="https://www.gov.uk/guidance/imports-and-exports-of-animals-and-animal-products-topical-issues">check our topical issues page</a> for current issues relating to imports and exports of animals and animal products.</p>
+<p>You should also <a href="https://www.gov.uk/guidance/imports-and-exports-of-animals-and-animal-products-topical-issues">check the topical issues page</a> for current issues relating to imports and exports of animals and animal products.</p>
 </div>
 
 <div class="call-to-action">
-<p>If you wish to receive information on changes or updates to imports of animals and animal products rules via email, you should complete and return the <a href="https://www.gov.uk/government/publications/imports-of-animals-or-animal-products-request-for-information">request for information form</a>.</p>
+<p>If you want information on changes or updates to imports of animals and animal products rules by email, you should complete and return the <a href="https://www.gov.uk/government/publications/imports-of-animals-or-animal-products-request-for-information">request for information form</a>.</p>
 </div>
 
 <h2 id="checking-if-you-need-a-licence">Checking if you need a licence</h2>
@@ -274,7 +271,7 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 September 2014
     <br></br>Last updated 20 May 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
@@ -347,36 +344,53 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-87318cd7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-8e3ad827" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-87318cd7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-8e3ad827" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-87318cd7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations" data-track-options="{"dimension28":"2","dimension29":"Importing live animals or animal products from non-EU countries: general licences and authorisations"}" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations">Importing live animals or animal products from non-EU countries: general licences and authorisations</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.2 Detailed guidance" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" data-track-options="{"dimension28":"2","dimension29":"Importing animals, animal products and high-risk food and feed not of animal origin if the UK leaves the EU with no deal"}" href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">Importing animals, animal products and high-risk food and feed not of animal origin if the UK leaves the EU with no deal</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products" data-track-options="{"dimension28":"5","dimension29":"Guidance on importing and exporting live animals or animal products"}" href="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products">Guidance on importing and exporting live animals or animal products</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations" data-track-options="{"dimension28":"5","dimension29":"Importing live animals or animal products from non-EU countries: general licences and authorisations"}" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations">Importing live animals or animal products from non-EU countries: general licences and authorisations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/animal-products-and-pathogens-application-for-import-licence" data-track-options="{"dimension28":"5","dimension29":"Animal pathogens and products: application for import licence"}" href="/government/publications/animal-products-and-pathogens-application-for-import-licence">Animal pathogens and products: application for import licence</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/uk-border-inspection-posts-contact-details" data-track-options="{"dimension28":"5","dimension29":"UK border inspection posts: contact details"}" href="/government/publications/uk-border-inspection-posts-contact-details">UK border inspection posts: contact details</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/eu-import-of-animals-and-products-notify-authorities" data-track-options="{"dimension28":"5","dimension29":"EU import of animals and animal products: notify authorities"}" href="/government/publications/eu-import-of-animals-and-products-notify-authorities">EU import of animals and animal products: notify authorities</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-87318cd7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-8e3ad827" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-87318cd7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-related_guides-8e3ad827" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products" data-track-options="{"dimension28":"1","dimension29":"Guidance on importing and exporting live animals or animal products"}" href="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products">Guidance on importing and exporting live animals or animal products</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations" data-track-options="{"dimension28":"2","dimension29":"Importing live animals or animal products from non-EU countries: general licences and authorisations"}" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations">Importing live animals or animal products from non-EU countries: general licences and authorisations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" data-track-options="{"dimension28":"2","dimension29":"Importing animals, animal products and high-risk food and feed not of animal origin if there's a no-deal Brexit"}" href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">Importing animals, animal products and high-risk food and feed not of animal origin if there's a no-deal Brexit</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-8e3ad827" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-8e3ad827" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products" data-track-options="{"dimension28":"1","dimension29":"Guidance on importing and exporting live animals or animal products"}" href="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products">Guidance on importing and exporting live animals or animal products</a></li>
 
   </ul>
 </nav>
@@ -402,9 +416,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-cea0b841" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-835be129" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-cea0b841" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-835be129" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
