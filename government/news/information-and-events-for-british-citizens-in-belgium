@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       World news story
     </p>
@@ -10,10 +8,9 @@
     Information and events for British citizens in Belgium
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
     The British Embassy in Brussels has been holding meetings across Belgium to update UK citizens working and living in the country regarding the UK's departure from the European Union.
@@ -22,13 +19,13 @@
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 21 December 2018
-    <br></br>Last updated 16 April 2019
+    <br></br>Last updated 22 August 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -47,7 +44,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,10 +52,10 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds content-bottom-margin">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
-      <figure class="app-c-figure">
+      <figure class="app-c-figure" lang="en">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/84141/s300_outreach_2.gif" alt="UK and Belgium flags with the words Information for British Citizens in Belgium"></img>
     <figcaption class="app-c-figure__figcaption">
 
@@ -72,19 +69,26 @@
 
 <h2 id="upcoming-uk-citizens-outreach-meetings-across-belgium">Upcoming UK citizens’ outreach meetings across Belgium</h2>
 
-<table>
-  <tbody>
-    <tr>
-      <td>Ostend</td>
-      <td>16 May 2019: 6:00pm - 8:00pm</td>
-      <td><a rel="external" href="https://www.eventbrite.co.uk/e/ostend-open-forum-for-british-nationals-on-the-uks-exit-from-the-eu-tickets-60390936918">register here for this event</a></td>
-    </tr>
-  </tbody>
-</table>
+<ul>
+  <li>
+    <p>Brussels, 23 September 2019, 6-8 p.m. - <a rel="external" href="https://docs.google.com/forms/d/e/1FAIpQLSfMc3IDoGN2zHEcvuAM8Jazp18vtNKl7qR1ceAyxyFouk6C1Q/viewform?usp=send_form">register here</a></p>
+  </li>
+  <li>
+    <p>Antwerp, 8 October 2019, 6-8 p.m. - <a rel="external" href="https://www.eventbrite.co.uk/e/antwerp-open-forum-for-british-nationals-on-the-uks-exit-from-the-eu-tickets-69729461697">register here</a></p>
+  </li>
+</ul>
+
+<p>We are currently also planning a Facebook Q&A and events in Bruges, Liège and Tervuren. We are finalising those dates and will publish them here.</p>
 
 <h3 id="previous-uk-citizens-outreach-meetings-across-belgium">Previous UK citizens’ outreach meetings across Belgium</h3>
 
 <ul>
+  <li>
+    <p>Brussels, 5 June 2019</p>
+  </li>
+  <li>
+    <p>Ostend, 16 May 2019</p>
+  </li>
   <li>
     <p>Woluwe-Saint-Pierre, 21 March 2019</p>
   </li>
@@ -187,12 +191,16 @@
 
     </div>
 
-    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 21 December 2018
-    <br></br>Last updated 16 April 2019
+    <br></br>Last updated 22 August 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-22T15:08:48.000+01:00">22 August 2019</time>
+              Brexit update: We are holding new citizens' rights meetings in Brussels and Antwerp. Register via our website. 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-16T10:04:12.000+01:00">16 April 2019</time>
               EU Exit update: Added a new outreach meeting in Ostend, on Thursday 16 May, from 6:00pm - 8:00pm
@@ -212,11 +220,36 @@
   </div>
 
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-9a369b96" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-9a369b96" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/the-netherlands-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Netherlands: doctors"}" href="/government/publications/the-netherlands-list-of-medical-facilitiespractitioners">Netherlands: doctors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/netherlands-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Netherlands: funeral directors"}" href="/government/publications/netherlands-list-of-funeral-directors">Netherlands: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/cyprus-list-of-hospitals" data-track-options="{"dimension28":"5","dimension29":"Cyprus: hospitals"}" href="/government/publications/cyprus-list-of-hospitals">Cyprus: hospitals</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/switzerland-and-liechtenstein-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Switzerland and Liechtenstein: doctors"}" href="/government/publications/switzerland-and-liechtenstein-list-of-medical-facilitiespractitioners">Switzerland and Liechtenstein: doctors</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -226,8 +259,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -237,9 +270,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f1c97882" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-98380ea5" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-f1c97882" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-98380ea5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -254,9 +287,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-f1c97882" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-98380ea5" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-f1c97882" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-98380ea5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
