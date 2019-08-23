@@ -363,7 +363,7 @@ If you cannot find the <abbr title="Export health certificate">EHC</abbr> you ne
       <div data-module="gemstepnav" class="gem-c-step-nav js-hidden " data-id="e169b2ac-8c90-4789-8e6c-3657729e21b2" data-show-text="show" data-hide-text="hide" data-show-all-text="Show all" data-hide-all-text="Hide all">
     <ol class="gem-c-step-nav__steps">
         <li class="gem-c-step-nav__step js-step
-          " id="get-a-uk-eori-number-for-your-business" data-track-count="stepNavSection">
+          " id="check-if-your-business-has-a-uk-eori-number" data-track-count="stepNavSection">
           <div class="gem-c-step-nav__header js-toggle-panel" data-position="1">
             <h3 class="gem-c-step-nav__title">
               <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
@@ -375,12 +375,14 @@ If you cannot find the <abbr title="Export health certificate">EHC</abbr> you ne
               </span>
 
               <span class="js-step-title">
-                Get a UK EORI number for your business
+                Check if your business has a UK EORI number
               </span>
 </h3>          </div>
 
-          <div class="gem-c-step-nav__panel js-panel" id="step-panel-get-a-uk-eori-number-for-your-business-1">
-              <p class="gem-c-step-nav__paragraph">Your business will already have a UK Economic Operator Registration and Identification (EORI) number if you’ve traded with countries outside the EU. UK EORI numbers start with GB.</p>
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-if-your-business-has-a-uk-eori-number-1">
+              <p class="gem-c-step-nav__paragraph">Your business will have a UK Economic Operator Registration and Identification (EORI) number if you’ve traded with countries outside the EU. UK EORI numbers start with GB.</p>
+
+              <p class="gem-c-step-nav__paragraph">You'll need to get a UK EORI number if you do not have one. </p>
 
               <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="1.1" class="gem-c-step-nav__link js-link" href="/eori?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Get a UK EORI number </a></li></ol>
 
@@ -410,8 +412,8 @@ If you cannot find the <abbr title="Export health certificate">EHC</abbr> you ne
               <p class="gem-c-step-nav__paragraph">If they cannot, you can either hire an agent to make the declarations, or make the declarations yourself. </p>
 
               <ol class="gem-c-step-nav__list " data-length="2">
-<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.1" class="gem-c-step-nav__link js-link" href="/guidance/declaring-your-goods-at-customs-if-the-uk-leaves-the-eu-with-no-deal?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how to make customs declarations yourself </a></li>
-<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.2" class="gem-c-step-nav__link js-link" href="/guidance/export-declarations-and-the-national-export-system-export-procedures?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Register to use the National Export System if you decide to make them yourself </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.1" class="gem-c-step-nav__link js-link" href="/guidance/customs-declarations-for-goods-taken-out-of-the-eu?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how to make customs declarations yourself </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.2" class="gem-c-step-nav__link js-link" href="/guidance/appoint-someone-to-deal-with-customs-on-your-behalf?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how to hire an agent to make customs declarations for you </a></li>
 </ol>
 
           </div>
