@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,23 +8,22 @@
     Living in Austria
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
-    Official information British people moving to and living in Austria need to know, including EU Exit guidance, residency, healthcare and driving.
+    Official information for British people moving to and living in Austria, including Brexit guidance, residency, healthcare and driving.
   </p>
 
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 10 May 2013
     <br></br>Last updated 16 April 2019
       — <a href="#history">see all updates</a>
@@ -47,7 +44,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +52,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -66,15 +63,13 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#eu-exit-what-you-should-do" data-track-options="{"dimension29":"\nEU Exit: what you should do"}" href="#eu-exit-what-you-should-do">
-EU Exit: what you should do</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#eu-exit-updates" data-track-options="{"dimension29":"\nEU Exit updates"}" href="#eu-exit-updates">
-EU Exit updates</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date-on-brexit" data-track-options="{"dimension29":"Stay up to date on Brexit"}" href="#stay-up-to-date-on-brexit">Stay up to date on Brexit</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#residency-and-visas" data-track-options="{"dimension29":"Residency and visas"}" href="#residency-and-visas">Residency and visas</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
           <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
@@ -86,44 +81,37 @@ EU Exit updates</a>
           <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-austria" data-track-options="{"dimension29":"Working in Austria"}" href="#working-in-austria">Working in Austria</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-austria-after-the-uk-leaves-the-eu" data-track-options="{"dimension29":"Working in Austria after the UK leaves the EU\n"}" href="#working-in-austria-after-the-uk-leaves-the-eu">Working in Austria after the UK leaves the EU
-</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#life-certificates-for-uk-state-pensions" data-track-options="{"dimension29":"Life certificates for UK State pensions"}" href="#life-certificates-for-uk-state-pensions">Life certificates for UK State pensions</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#driving-in-austria" data-track-options="{"dimension29":"Driving in Austria"}" href="#driving-in-austria">Driving in Austria</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#driving-in-austria" data-track-options="{"dimension29":"Driving in Austria"}" href="#driving-in-austria">Driving in Austria</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
 </a>
         </li>
     </ol>
@@ -134,9 +122,10 @@ EU Exit updates</a>
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
+<p>This page tells you what to do ahead of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>. It will be updated if anything changes, including if a deal is agreed.</p>
+
 <div class="call-to-action">
-<h2 id="eu-exit-what-you-should-do">
-<abbr title="European Union">EU</abbr> Exit: what you should do</h2>
+<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
 <p>You should:</p>
 
 <ul>
@@ -144,115 +133,113 @@ EU Exit updates</a>
   <li><a rel="external" href="https://www.federal-chancellery.gv.at/driving">exchange your <abbr title="United Kingdom">UK</abbr> driving licence for an Austrian one</a></li>
   <li><a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a></li>
 </ul>
+</div>
 
-<h2 id="eu-exit-updates">
-<abbr title="European Union">EU</abbr> Exit updates</h2>
-<p>To keep up to date with information about <abbr title="European Union">EU</abbr> Exit:</p>
+<div class="call-to-action">
+<h2 id="stay-up-to-date-on-brexit">Stay up to date on Brexit</h2>
 
 <ul>
-  <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">essential information about <abbr title="United Kingdom">UK</abbr> nationals in the <abbr title="European Union">EU</abbr></a>
-</li>
   <li>
 <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-austria">sign up for email alerts</a> to this guidance</li>
   <li>follow the British Embassy in Austria on <a rel="external" href="https://www.facebook.com/ukinaustria/">Facebook</a> and <a rel="external" href="https://twitter.com/UKinAustria">Twitter</a>
 </li>
-  <li>read the Austrian government’s website on <a rel="external" href="https://www.federal-chancellery.gv.at/brexit">how to prepare for <abbr title="European Union">EU</abbr> Exit</a> if the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal</li>
 </ul>
 </div>
 
-<h2 id="residency-and-visas">Residency and visas</h2>
-<p>You may want to <a href="https://www.gov.uk/foreign-travel-advice/austria/entry-requirements">check the entry requirements for Austria</a>.</p>
+<p>You can also:</p>
+
+<ul>
+  <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">essential information about <abbr title="United Kingdom">UK</abbr> nationals in the <abbr title="European Union">EU</abbr></a>
+</li>
+  <li>read the Austrian government’s website on <a rel="external" href="https://www.federal-chancellery.gv.at/brexit">how to prepare for Brexit</a> if the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal</li>
+</ul>
+
+<h2 id="visas-and-residency">Visas and residency</h2>
+
+<p>Check the <a href="https://www.gov.uk/foreign-travel-advice/austria/entry-requirements">entry requirements for Austria</a>.</p>
 
 <p>You must register with the Austrian authorities if you want to stay in Austria. You need to:</p>
 
 <ul>
-  <li>get a residence registration Form (Meldezettel) within 3 days of moving into your new home</li>
   <li>get a registration certificate (Anmeldbescheinigung) within 4 months of arriving in Austria</li>
+  <li>get a residence registration form (Meldezettel) within 3 days of moving into your new home</li>
 </ul>
 
 <p>For more information you can:</p>
 
 <ul>
-  <li>
-    <p>read the Austrian Government’s <a rel="external" href="https://www.help.gv.at/Portal.Node/hlpd/public/content/118/Seite.11802001.html">guidance on residence registration</a> and <a rel="external" href="https://www.migration.gv.at/en/types-of-immigration/mobility-within-the-eu/">guidance on registration certificates</a></p>
-  </li>
-  <li>
-    <p>read the Austrian Government’s <abbr title="European Union">EU</abbr> Exit guidance for <a rel="external" href="https://www.federal-chancellery.gv.at/residency-and-access-to-the-labour-market">residency in the event of a no-deal <abbr title="European Union">EU</abbr> Exit</a></p>
-  </li>
-</ul>
-
-<p>In the event of changes to residency rules or registration processes after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, we will update this guidance as soon as information is available.</p>
-
-<h2 id="passports-and-travel">Passports and travel</h2>
-
-<p>You can <a href="https://www.gov.uk/overseas-passports">apply for or renew your British passport from Austria</a>. If you cannot get a passport in time for your trip, you may need to <a href="https://www.gov.uk/emergency-travel-document">get an emergency travel document</a>.</p>
-
-<p>See our <a href="https://www.gov.uk/foreign-travel-advice/austria">travel advice for Austria</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
-
-<h3 id="passports-and-travel-after-the-uk-leaves-the-eu">Passports and travel after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, new travel rules will apply. You should have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland).</p>
-
-<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
-
-<p>You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
-
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/"><abbr title="United Kingdom">UK</abbr> nationals will not need visas for short stays elsewhere in the <abbr title="European Union">EU</abbr></a>. You will be able to stay up to 90 days in another <abbr title="European Union">EU</abbr> country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an <abbr title="European Union">EU</abbr> Member State, you will be able to transit through other <abbr title="European Union">EU</abbr> Member States to reach your country of residence. We will update this guidance as more information becomes available.</p>
-
-<p>If you are a <abbr title="United Kingdom">UK</abbr> national resident in Austria and the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, the Austrian Government strongly advise that you <a rel="external" href="https://www.federal-chancellery.gv.at/travelling">start your application for new residency documents</a> before you travel outside the country. After you apply, you will be issued with an A4 application certificate which you can show as proof of residence when re-entering Austria. These application certificates will only be issued from the day the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal.</p>
-
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your <abbr title="United Kingdom">UK</abbr> passport. What happens after 2020 will form the next part of negotiations.</p>
-
-<h2 id="healthcare">Healthcare</h2>
-
-<p>You must make sure you are correctly <a rel="external" href="https://www.migration.gv.at/en/living-and-working-in-austria/health/health-insurance/">registered for healthcare</a> as a resident in Austria. Unless you have private insurance or your healthcare is paid for by the <abbr title="United Kingdom">UK</abbr>, you should pay contributions for medical care to a <a rel="external" href="https://www.sozialversicherung.at/cdscontent/?portal=esvportal&contentid=10007.754316&viewmode=content#MainAssociationofAustrianSocialSecurityInstitutions754316">local social insurance organisation</a>(Sozialversicherungsträger). Your employer will normally deduct health insurance contributions from your salary and make the payments on your behalf.</p>
-
-<p>You can read the <abbr title="National Health Service">NHS</abbr> guidance on who is able to <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-austria/">access healthcare in Austria and how to register</a>.</p>
-
-<p>If you live in Austria and receive an exportable <abbr title="United Kingdom">UK</abbr> pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the <abbr title="United Kingdom">UK</abbr>. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
-
-<p>If you are resident in Austria, you should not be using a European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>) from the <abbr title="United Kingdom">UK</abbr> to access healthcare in Austria.</p>
-
-<ul>
-  <li>you may use an <abbr title="European Health Insurance Card">EHIC</abbr> to access state-provided healthcare during a temporary stay in another European Economic Area (<abbr title="European Economic Area">EEA</abbr>) country or Switzerland</li>
-  <li>the <abbr title="European Health Insurance Card">EHIC</abbr> covers treatment that is medically necessary until your planned return home</li>
-  <li>an <abbr title="European Health Insurance Card">EHIC</abbr> is not a replacement for comprehensive travel insurance</li>
-  <li>for more information you can <a href="https://www.gov.uk/foreign-travel-advice">read our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#eu-exit-update">advice on foreign travel insurance</a>
+  <li>read the Austrian government’s <a rel="external" href="https://www.help.gv.at/Portal.Node/hlpd/public/content/118/Seite.11802001.html">guidance on residence registration</a> and <a rel="external" href="https://www.migration.gv.at/en/types-of-immigration/mobility-within-the-eu/">guidance on registration certificates</a>
+</li>
+  <li>read the Austrian government’s Brexit guidance for <a rel="external" href="https://www.federal-chancellery.gv.at/residency-and-access-to-the-labour-market">residency in the event of a no-deal Brexit</a>
 </li>
 </ul>
 
-<p>You can read <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/">the <abbr title="National Health Service">NHS</abbr> guidance on healthcare and studying abroad</a>.</p>
+<p>If there are changes to residency rules or registration processes after Brexit, we will update this guidance as soon as information is available.</p>
 
-<p>You can <a rel="external" href="https://www.aerztekammer.at/arztsuche">find an English-speaking doctor</a> by region in Austria. You can <a rel="external" href="https://www.praxisplan.at/">search for an English-speaking doctor in Vienna</a>.</p>
+<h2 id="passports-and-travel">Passports and travel</h2>
 
-<p>Find a list of <a href="https://www.gov.uk/government/publications/austria-list-of-medical-facilitiespractitioners">English-speaking medical facilities and practitioners in Austria</a>.</p>
+<p>You can <a href="https://www.gov.uk/overseas-passports">apply for or renew your British passport from Austria</a>.</p>
+
+<p>See our <a href="https://www.gov.uk/foreign-travel-advice/austria">travel advice for Austria</a> and <a href="https://www.gov.uk/foreign-travel-advice/austria/email-signup">sign up to email alerts for up-to-date travel information</a> on local laws and customs, safety and emergencies.</p>
+
+<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+
+<p>After Brexit, the rules on travel will change. <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">Check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+
+<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, nothing will change until the end of 2020. During this time you can continue to travel freely in the Schengen area with your <abbr title="United Kingdom">UK</abbr> passport. What happens after 2020 will form the next part of negotiations.</p>
+
+<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
+
+<p>If you are a <abbr title="United Kingdom">UK</abbr> national resident in Austria and there’s no deal, the Austrian government strongly advise that you <a rel="external" href="https://www.federal-chancellery.gv.at/travelling">start your application for new residency documents</a> before you travel outside the country. After you apply, you will receive an A4 application certificate to use as proof of residence when re-entering Austria. These application certificates will only be issued from the day the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal.</p>
+
+<p>If there’s no deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/"><abbr title="United Kingdom">UK</abbr> nationals will not need visas for short stays elsewhere in the <abbr title="European Union">EU</abbr></a>. You will be able to stay up to 90 days in another <abbr title="European Union">EU</abbr>, <abbr title="European Economic Area">EEA</abbr> or EFTA country, within a 180-day period. You must retain evidence of travel (such as train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an <abbr title="European Union">EU</abbr>, <abbr title="European Economic Area">EEA</abbr> or EFTA country, you will be able to transit through other <abbr title="European Union">EU</abbr>, <abbr title="European Economic Area">EEA</abbr> or EFTA countries to reach your country of residence.</p>
+
+<h2 id="healthcare">Healthcare</h2>
+
+<p>You must <a rel="external" href="https://www.migration.gv.at/en/living-and-working-in-austria/health/health-insurance/">register for healthcare</a> as a resident in Austria. Unless you have private insurance or your healthcare is paid for by the <abbr title="United Kingdom">UK</abbr>, you should pay contributions for medical care to a <a rel="external" href="https://www.sozialversicherung.at/cdscontent/?portal=esvportal&contentid=10007.754316&viewmode=content#MainAssociationofAustrianSocialSecurityInstitutions754316">local social insurance organisation</a> (Sozialversicherungsträger). Your employer will normally deduct health insurance contributions from your salary and make the payments on your behalf.</p>
+
+<p>Read the <abbr title="National Health Service">NHS</abbr> guidance on who can <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-austria/">access healthcare in Austria and how to register</a>.</p>
+
+<p>If you live in Austria and receive an exportable <abbr title="United Kingdom">UK</abbr> pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the <abbr title="United Kingdom">UK</abbr>. You must apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>If you are resident in Austria, you should not use a European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>) from the <abbr title="United Kingdom">UK</abbr> for healthcare in Austria.</p>
+
+<p>When you travel from Austria for a temporary stay in another European Economic Area (<abbr title="European Economic Area">EEA</abbr>) country or Switzerland, you can use an <abbr title="European Health Insurance Card">EHIC</abbr> to access state-provided healthcare in that country. During that short stay:</p>
+
+<ul>
+  <li>the <abbr title="European Health Insurance Card">EHIC</abbr> covers treatment that is medically necessary until your planned return home</li>
+  <li>an <abbr title="European Health Insurance Card">EHIC</abbr> is not a replacement for comprehensive travel insurance</li>
+  <li>for more information <a href="https://www.gov.uk/foreign-travel-advice">read our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#brexit-update">advice on foreign travel insurance</a>
+</li>
+</ul>
+
+<p>If you are a student, read <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/">the <abbr title="National Health Service">NHS</abbr> guidance on healthcare and studying abroad</a>.</p>
+
+<p>You can <a rel="external" href="https://www.aerztekammer.at/arztsuche">find an English-speaking doctor</a> by region in Austria. You can <a rel="external" href="https://www.praxisplan.at/">search for an English-speaking doctor in Vienna</a>. Find a list of <a href="https://www.gov.uk/government/publications/austria-list-of-medical-facilitiespractitioners">English-speaking medical facilities and practitioners in Austria</a>.</p>
 
 <p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs">check your prescriptions are legal</a>.</p>
 
 <p>Mountain rescue is not covered by standard Austrian health insurance.</p>
 
-<h3 id="healthcare-after-the-uk-leaves-the-eu">Healthcare after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, your current rights on access to healthcare in Austria will remain the same until 31 December 2020, as long as you remain a resident in Austria.</p>
+<p>If there is a deal, your current rights on access to healthcare in Austria will remain the same until the end of the implementation period, as long as you remain a resident in Austria.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, your access to healthcare may change. If you are a permanent or temporary resident you should review the status of your healthcare cover.</p>
+<p>If there’s no deal, your access to healthcare may change. If you are a permanent or temporary resident you should review your healthcare cover.</p>
 
-<p>The <abbr title="United Kingdom">UK</abbr> has proposed maintaining current healthcare cooperation with Austria for S1 form holders until the end of December 2020.  If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, and there is no arrangement with Austria to continue reciprocal healthcare, those receiving coverage through the S1 form will not be covered.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> has proposed maintaining current healthcare cooperation with Austria for S1 form holders until the end of December 2020. If there’s no deal, and there is no arrangement with Austria to continue reciprocal healthcare, those receiving coverage through the S1 form will not be covered.</p>
 
-<p>You should take action now to confirm your residency status and decide what steps you need to take to ensure access to healthcare if the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal. <abbr title="United Kingdom">UK</abbr> nationals will be able to return to the <abbr title="United Kingdom">UK</abbr> for treatment.</p>
+<p>You must confirm your residency status and decide how you will ensure access to healthcare if there’s no deal. <abbr title="United Kingdom">UK</abbr> nationals will be able to return to the <abbr title="United Kingdom">UK</abbr> for treatment.</p>
 
-<p>Your <abbr title="European Health Insurance Card">EHIC</abbr> may not be valid in the event the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal. The <abbr title="United Kingdom">UK</abbr> has offered to maintain the <abbr title="European Health Insurance Card">EHIC</abbr> scheme should the <abbr title="United Kingdom">UK</abbr> leave the <abbr title="European Union">EU</abbr> without a deal, however this is reliant on Austria continuing to accept <abbr title="United Kingdom">UK</abbr> EHICs.</p>
+<p>Your <abbr title="European Health Insurance Card">EHIC</abbr> may not be valid if there’s no deal. The <abbr title="United Kingdom">UK</abbr> has offered to maintain the <abbr title="European Health Insurance Card">EHIC</abbr> scheme if there’s no deal, however this is reliant on Austria continuing to accept <abbr title="United Kingdom">UK</abbr> EHICs.</p>
 
-<p>For a full list of recommendations and more information, please see the <a rel="external" href="https://www.federal-chancellery.gv.at/at.gv.bka.liferay-app/documents/333672/1210272/consequences_for_social_security.pdf/a0ff624c-6445-4817-8739-31feb4537db6">Austrian Government’s presentation on healthcare if the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal</a> (pdf).</p>
+<p>For a full list of recommendations and more information, read the <a rel="external" href="https://www.bundeskanzleramt.gv.at/dam/jcr:643f929d-f1c6-49a1-99b5-723c7d61a7de/consequences_for_social_security.pdf?lang=en">Austrian government’s presentation on healthcare if there’s no deal</a>.</p>
 
-<p>You should read the <abbr title="National Health Service">NHS</abbr> guidance on <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-austria/">healthcare for <abbr title="United Kingdom">UK</abbr> nationals living in Austria and how it may change after <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr></a>.</p>
+<p>You should read the <abbr title="National Health Service">NHS</abbr> guidance on <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-austria/">healthcare for <abbr title="United Kingdom">UK</abbr> nationals living in Austria and how it may change after Brexit</a>.</p>
 
 <h2 id="working-in-austria">Working in Austria</h2>
 
-<p>If you are registered as a resident in Austria, you have the right to work in Austria. Read our guidance on <a href="https://www.gov.uk/working-abroad">working in another <abbr title="European Union">EU</abbr> country</a>.</p>
-
-<p>You may need to apply for a:</p>
+<p>If you are registered as a resident in Austria, you have the right to work in Austria. Read our guidance on <a href="https://www.gov.uk/working-abroad">working in another <abbr title="European Union">EU</abbr> country</a>. To apply for a job you may need to provide a:</p>
 
 <ul>
   <li><a rel="external" href="https://www.acro.police.uk/acro_std.aspx?id=2379"><abbr title="United Kingdom">UK</abbr> police certificate</a></li>
@@ -260,25 +247,27 @@ EU Exit updates</a>
 <a rel="external" href="https://www.help.gv.at/Portal.Node/hlpd/public/content/30/Seite.3000201.html">Austrian criminal records certificate</a> (Strafregisterbescheinigung)</li>
 </ul>
 
-<h2 id="working-in-austria-after-the-uk-leaves-the-eu">Working in Austria after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h2>
-<p>If you’re planning to start a business, provide a service, or do a job in a regulated profession after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, <a href="https://www.gov.uk/guidance/austria-providing-services-after-eu-exit">further guidance can be found here</a>.</p>
+<h3 id="working-in-austria-after-brexit">Working in Austria after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, your right to work will stay the same until the end of the implementation Period.</p>
+<p>Read the <a href="https://www.gov.uk/guidance/austria-providing-services-after-eu-exit">guidance on providing services after Brexit</a> if you’re planning to start a business, provide a service, or do a job in a regulated profession after Brexit.</p>
+
+<p>If there is a deal, your right to work will stay the same until the end of the implementation period.</p>
 
 <h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
-<p>The European Commission has published <a rel="external" href="https://ec.europa.eu/info/sites/info/files/slides_professional-qualifications-ip-justice-consumers_en.pdf">guidance on professional qualifications</a>. Where <abbr title="United Kingdom">UK</abbr> nationals have already been recognised by an <abbr title="European Union">EU</abbr> country as holding valid professional qualifications, these will remain valid after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>. If you hold qualifications obtained in the <abbr title="United Kingdom">UK</abbr> before the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, you should get recognition in a EU27 Member State before <abbr title="European Union">EU</abbr> Exit day.</p>
 
-<p>Find information on <a rel="external" href="https://www.berufsanerkennung.at/en/professional-recognition/overview/">where to request a recognition of your qualifications in Austria</a>.</p>
+<p>For information on education, read <a href="https://www.gov.uk/guidance/studying-in-the-european-union-after-brexit">studying in the European Union after Brexit</a>.</p>
 
-<p>For more information see <a href="https://www.gov.uk/guidance/studying-in-the-european-union-after-brexit">studying in the European Union after Brexit</a>.</p>
+<p>The European Commission has published <a rel="external" href="https://ec.europa.eu/info/sites/info/files/slides_professional-qualifications-ip-justice-consumers_en.pdf">guidance on professional qualifications</a>. If you have already been recognised by an <abbr title="European Union">EU</abbr> country as holding valid professional qualifications, this will remain valid after Brexit. If you hold qualifications obtained in the <abbr title="United Kingdom">UK</abbr> before the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, you should obtain recognition in a EU27 Member State before Brexit day.</p>
+
+<p>Find out <a rel="external" href="https://www.berufsanerkennung.at/en/professional-recognition/overview/">where to request a recognition of your qualifications in Austria</a>.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
+
 <p>The <abbr title="United Kingdom">UK</abbr> has a double-taxation agreement with Austria to make sure that people do not pay tax on the same income in both countries.</p>
 
-<p>If you are an Austrian resident, you must declare your global income to the Austrian authorities, no matter which country it came from. You can ask the relevant tax authority about double taxation relief.</p>
+<p>As an Austrian resident, you must declare your global income to the Austrian authorities, no matter which country it came from. You can ask the relevant tax authority about double taxation relief.</p>
 
-<p>You should read guidance about:</p>
+<p>Read guidance about:</p>
 
 <ul>
   <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk">telling HMRC if you leave the <abbr title="United Kingdom">UK</abbr> to live abroad</a></li>
@@ -287,19 +276,21 @@ EU Exit updates</a>
   <li><a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea">financial services if there is no Brexit deal</a></li>
 </ul>
 
-<p>We recommend you get professional advice on paying tax in Austria. You can find a tax adviser (Steuerberater) or accountant at <a rel="external" href="http://www.ksw.or.at/desktopdefault.aspx/tabid-2/">Kammer der Wirtschaftstreuhänder</a> (German language) or find an <a href="https://www.gov.uk/government/publications/austria-list-of-lawyers">English-speaking lawyer</a>.</p>
+<p>You should get professional advice on paying tax in Austria. You can find a tax adviser (Steuerberater) or accountant at <a rel="external" href="http://www.ksw.or.at/desktopdefault.aspx/tabid-2/">Kammer der Wirtschaftstreuhänder</a> or find an <a href="https://www.gov.uk/government/publications/austria-list-of-lawyers">English-speaking lawyer</a>.</p>
 
 <h3 id="national-insurance">National Insurance</h3>
-<p>You may be able to <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while abroad</a>  so that you protect your State Pension and entitlement to other benefits and allowances.</p>
 
-<h3 id="money-and-tax-after-the-uk-leaves-the-eu">Money and tax after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
-<p>The <abbr title="United Kingdom">UK</abbr> leaving the European Union will not change existing double taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Austria. You should direct individual taxpayer questions about double taxation to the relevant tax authority.</p>
+<p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while abroad</a> so that you protect your State Pension and entitlement to other benefits and allowances.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, it may become more expensive to use your <abbr title="United Kingdom">UK</abbr> bank card in the <abbr title="European Union">EU</abbr>. Read more about <a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea">using a bank card, insurance or other financial service in the <abbr title="European Union">EU</abbr></a>.</p>
+<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
+
+<p>Brexit will not change existing double taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Austria. Send your questions about double taxation to the relevant tax authority.</p>
+
+<p>If there’s no deal, it may become more expensive to use your <abbr title="United Kingdom">UK</abbr> bank card in the <abbr title="European Union">EU</abbr>. Read more about <a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea">using a bank card, insurance or other financial service in the <abbr title="European Union">EU</abbr></a>.</p>
 
 <h2 id="pensions">Pensions</h2>
-<p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad">moving or retiring abroad</a> .</p>
+
+<p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad">moving or retiring abroad</a>.</p>
 
 <p>If you retire in Austria, you can claim:</p>
 
@@ -309,20 +300,19 @@ EU Exit updates</a>
   <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm">pensions from working abroad, if you’ve worked in other <abbr title="European Union">EU</abbr> countries</a></li>
 </ul>
 
-<h2 id="life-certificates-for-uk-state-pensions">Life certificates for <abbr title="United Kingdom">UK</abbr> State pensions</h2>
-<p>If you get a life certificate from the <abbr title="United Kingdom">UK</abbr> Pension Service, <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances">you need to respond as soon as possible</a> – your payments may be suspended if you don’t.</p>
+<h3 id="life-certificates-for-uk-state-pensions">Life certificates for <abbr title="United Kingdom">UK</abbr> state pensions</h3>
 
-<h3 id="pensions-after-the-uk-leaves-the-eu">Pensions after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
-<p>The <abbr title="United Kingdom">UK</abbr> Government will continue to pay a state pension to those eligible in the <abbr title="European Union">EU</abbr> after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>.</p>
+<p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances">life certificate from the <abbr title="United Kingdom">UK</abbr> Pension Service</a>, you need to report changes as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<p>The <abbr title="United Kingdom">UK</abbr> government will uprate your <abbr title="United Kingdom">UK</abbr> state pension for the fiscal year 2019/2020 in any scenario.</p>
+<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal and you work and pay social security contributions in Austria, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Austrian pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> government will continue to pay a state pension to those eligible in the <abbr title="European Union">EU</abbr> after Brexit and will uprate your <abbr title="United Kingdom">UK</abbr> state pension for the fiscal year 2019/2020 in all Brexit scenarios.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, the Austrian government has proposed that they will continue to take periods of work in the <abbr title="United Kingdom">UK</abbr> before the <abbr title="United Kingdom">UK</abbr> left the <abbr title="European Union">EU</abbr> into account when claiming Austrian contributions-based benefits. We will update this guidance when there is a formal agreement on this.</p>
+<p>If there is a deal, and you work and pay social security contributions in Austria, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Austrian pension. This will happen even if you claim your pension after the end of the implementation period.</p>
 
-<p>You can read our <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on pensions if the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal</a>.</p>
+<p>If there’s no deal, the Austrian government has proposed that they will continue to take into account periods of work in the <abbr title="United Kingdom">UK</abbr> before Brexit when you claim Austrian contributions-based benefits. We will update this guidance when there is a formal agreement on this.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on pensions if the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal</a>.</p>
 
 <h2 id="benefits">Benefits</h2>
 
@@ -335,24 +325,25 @@ EU Exit updates</a>
 </li>
 </ul>
 
-<p>If you’re abroad for more than 4 weeks, many income-related benefits such as pension credit and housing benefit cannot be paid to you.</p>
+<p>Many income-related benefits such as pension credit and housing benefit cannot be paid to you if you’re abroad for more than 4 weeks.</p>
 
 <p>You may be eligible to claim some <a rel="external" href="http://ec.europa.eu/social/main.jsp?catId=1101&langId=en">Austrian social security benefits</a>.</p>
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals">request proof of the time you’ve worked in the <abbr title="United Kingdom">UK</abbr></a> from HMRC if you are asked for this.</p>
 
-<h3 id="benefits-after-the-uk-leaves-the-eu">Benefits after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
-<p>The <abbr title="United Kingdom">UK</abbr> government will continue to pay the <abbr title="United Kingdom">UK</abbr> state pension, child benefits, and disability benefits to eligible people living in the <abbr title="European Union">EU</abbr> after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>.</p>
+<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal and you work and pay social security contributions in Austria, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Austrian contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period</p>
+<p>The <abbr title="United Kingdom">UK</abbr> government will continue to pay the <abbr title="United Kingdom">UK</abbr> state pension, child benefits, and disability benefits to eligible people living in the <abbr title="European Union">EU</abbr> after Brexit.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, the Austrian government has proposed that they will continue to take periods of work in the <abbr title="United Kingdom">UK</abbr> before the <abbr title="United Kingdom">UK</abbr> left the <abbr title="European Union">EU</abbr> into account when claiming Austrian contributions-based benefits. We will update this guidance when there is a formal agreement on this.</p>
+<p>If there is a deal and you work and pay social security contributions in Austria, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Austrian contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, you can <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">read our guidance on benefits and pensions in a no deal scenario</a>.</p>
+<p>If there’s no deal, the Austrian government has proposed that they will continue to take periods of work in the <abbr title="United Kingdom">UK</abbr> before Brexit into account when claiming Austrian contributions-based benefits. We will update this guidance when there is a formal agreement on this.</p>
+
+<p>Read the <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on benefits and pensions if there’s no deal</a>.</p>
 
 <h2 id="driving-in-austria">Driving in Austria</h2>
-<p>If you are resident in Austria, you should <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/austria/index_en.htm">exchange your <abbr title="United Kingdom">UK</abbr> licence for an Austrian one</a> before the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, as your licence may no longer be valid after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>. You can still use your Austrian licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
+
+<p>If you are resident in Austria, you should <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/austria/index_en.htm">exchange your <abbr title="United Kingdom">UK</abbr> licence for an Austrian one</a> before the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>. You can still use your Austrian licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
 
 <p>For information on driving in Austria, read our guidance on:</p>
 
@@ -362,25 +353,28 @@ EU Exit updates</a>
   <li><a href="https://www.gov.uk/foreign-travel-advice/austria/safety-and-security#road-travel">driving rules in Austria</a></li>
 </ul>
 
-<p>If you are in Austria and your <abbr title="United Kingdom">UK</abbr> driving licence is lost, stolen or expires you will not be able to renew it with the <abbr title="United Kingdom">UK</abbr> Driver and Vehicle Licensing Agency (DVLA). You will need to apply to the DVLA for a ‘certificate of entitlement’ in German to be able to apply for an Austrian driving licence.</p>
+<p>If you are in Austria and your <abbr title="United Kingdom">UK</abbr> driving licence is lost, stolen or expires, you will not be able to renew it with the <abbr title="United Kingdom">UK</abbr> Driver and Vehicle Licensing Agency (DVLA). You will need to apply to the DVLA for a ‘certificate of entitlement’ in German to be able to apply for an Austrian driving licence.</p>
 
 <h3 id="bringing-a-uk-registered-vehicle-to-austria">Bringing a <abbr title="United Kingdom">UK</abbr>-registered vehicle to Austria</h3>
+
 <p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk">taking a vehicle out of the <abbr title="United Kingdom">UK</abbr></a>.</p>
 
-<p>If you have your main residence in Austria, you may use your car with foreign number plates for one month in Austria. You must register your car, pay a one-off fuel consumption tax called NoVA (Normverbrauchsabgabe) at your <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/austria/index_en.htm">local tax office</a> and exchange your <abbr title="United Kingdom">UK</abbr> number plates for Austrian plates at your nearest vehicle registration office (Kfz-Zulassungsstelle). You can read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/austria/index_en.htm">car registration rules and taxes</a> in Austria.
-Third-party car insurance (Haftpflichtversicherung) is compulsory.</p>
+<p>If you have your main residence in Austria, you may use your car with foreign number plates for 1 month in Austria. You must register your car, pay a one-off fuel consumption tax called NoVA (Normverbrauchsabgabe) at your <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/austria/index_en.htm">local tax office</a> and exchange your <abbr title="United Kingdom">UK</abbr> number plates for Austrian plates at your nearest vehicle registration office (Kfz-Zulassungsstelle). Read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/austria/index_en.htm">car registration rules and taxes</a> in Austria.</p>
 
-<p>You need proof of insurance before you can be issued with your number plates (Autokennzeichen) and car registration document (Zulassungsschein). Your insurer can advise you how to get these.</p>
+<p>Third-party car insurance (Haftpflichtversicherung) is compulsory.</p>
 
-<h3 id="driving-after-the-uk-leaves-the-eu">Driving after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, driving licence rules will stay the same during the implementation period.</p>
+<p>You need proof of insurance before you can get your number plates (Autokennzeichen) and car registration document (Zulassungsschein). Your insurer can advise you how to get these.</p>
 
-<p>Please read our guidance on <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit">driving in the <abbr title="European Union">EU</abbr> after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr></a>.</p>
+<h3 id="driving-after-brexit">Driving after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, you have 6 months from the <abbr title="European Union">EU</abbr> Exit date to <a rel="external" href="https://www.federal-chancellery.gv.at/driving">exchange your <abbr title="United Kingdom">UK</abbr> licence for an Austrian one</a>.</p>
+<p>If there is a deal, driving licence rules will stay the same during the implementation period.</p>
+
+<p>If there’s no deal, you must <a rel="external" href="https://www.federal-chancellery.gv.at/driving">exchange your <abbr title="United Kingdom">UK</abbr> licence for an Austrian one</a> within 6 months from the day the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>.</p>
+
+<p>Read our guidance on <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit">driving in the <abbr title="European Union">EU</abbr> after Brexit</a>.</p>
 
 <h2 id="voting">Voting</h2>
+
 <p>You may be able to vote in some <abbr title="United Kingdom">UK</abbr> elections. You can:</p>
 
 <ul>
@@ -393,9 +387,9 @@ Third-party car insurance (Haftpflichtversicherung) is compulsory.</p>
 
 <p>You cannot vote in general or regional elections in Austria.</p>
 
-<h3 id="voting-after-the-uk-leaves-the-eu">Voting after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
-<p>Once the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, <abbr title="United Kingdom">UK</abbr> nationals will no longer be eligible to vote in local and European elections.</p>
+<h3 id="voting-after-brexit">Voting after Brexit</h3>
+
+<p><abbr title="United Kingdom">UK</abbr> nationals resident in Austria will no longer be eligible to vote in local and European elections after Brexit.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 <p>If your child is born in Austria, you will need to <a href="https://www.gov.uk/register-a-birth">register a birth abroad</a>.</p>
@@ -415,13 +409,11 @@ Third-party car insurance (Haftpflichtversicherung) is compulsory.</p>
 
 <p>Find out about <a href="https://www.gov.uk/guidance/notarial-and-documentary-services-guide-for-austria">notarial and documentary services</a> for British nationals in Austria.</p>
 
-<p>You may also need:</p>
+<p>You may also need to find:</p>
 
 <ul>
-  <li>to find <a href="https://www.gov.uk/government/publications/austria-list-of-lawyers">English-speaking lawyers in Austria</a>
-</li>
-  <li>to find <a href="https://www.gov.uk/government/publications/austria-list-of-translators-and-interpreters">translators and interpreters in Austria</a>
-</li>
+  <li><a href="https://www.gov.uk/government/publications/austria-list-of-lawyers">English-speaking lawyers in Austria</a></li>
+  <li><a href="https://www.gov.uk/government/publications/austria-list-of-translators-and-interpreters">translators and interpreters in Austria</a></li>
 </ul>
 
 <h2 id="accommodation-and-buying-property">Accommodation and buying property</h2>
@@ -431,17 +423,19 @@ Third-party car insurance (Haftpflichtversicherung) is compulsory.</p>
 <p>Property ownership laws in Austria vary by province.</p>
 
 <h2 id="pets">Pets</h2>
-<p>When the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, you will still be able to travel to and from the <abbr title="United Kingdom">UK</abbr> with a cat, dog or ferret. But the rules will change. You can read <a href="https://www.gov.uk/guidance/pet-travel-to-europe-after-brexit">guidance on pet travel to Europe if there is no deal</a>.</p>
 
-<p>While the <abbr title="United Kingdom">UK</abbr> is still an <abbr title="European Union">EU</abbr> Member State you’ll be able to travel with your pet to the <abbr title="European Union">EU</abbr> under the current pet travel rules using your current <abbr title="European Union">EU</abbr> pet passport.</p>
+<p>When the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, you will still be able to travel to and from the <abbr title="United Kingdom">UK</abbr> with a cat, dog or ferret, but the rules will change. You can read <a href="https://www.gov.uk/guidance/pet-travel-to-europe-after-brexit">guidance on pet travel to Europe</a>.</p>
 
-<p>If you’re travelling with your pet for the first time you’ll have to visit your vet to get a pet passport.</p>
+<p>While the <abbr title="United Kingdom">UK</abbr> is still an <abbr title="European Union">EU</abbr> Member State, you’ll be able to travel with your pet to the <abbr title="European Union">EU</abbr> under the current pet travel rules using your current <abbr title="European Union">EU</abbr> pet passport.</p>
+
+<p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
 <p>Read guidance on <a href="https://www.gov.uk/take-pet-abroad">returning your cat, dog or ferret to the <abbr title="United Kingdom">UK</abbr></a>.</p>
 
 <p>For moving pet horses and other equines read <a href="https://www.gov.uk/guidance/export-horses-and-ponies-special-rules">guidance on export horses and ponies: special rules</a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
+
 <p>As well as the European emergency number 112, Austria also has:</p>
 
 <ul>
@@ -461,11 +455,12 @@ Third-party car insurance (Haftpflichtversicherung) is compulsory.</p>
 
 <h2 id="returning-to-the-uk">Returning to the <abbr title="United Kingdom">UK</abbr>
 </h2>
-<p>You should read our guidance on:</p>
+
+<p>Read our guidance on:</p>
 
 <ul>
+  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal#access-to-benefits-and-services-in-the-uk">access to benefits and services in the <abbr title="United Kingdom">UK</abbr> if there’s no deal</a></li>
   <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#bringing-your-family-to-the-uk">bringing your family to the <abbr title="United Kingdom">UK</abbr></a></li>
-  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal">returning to live in the <abbr title="United Kingdom">UK</abbr> in the case of no-deal</a></li>
   <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal#access-to-higher-education-19-further-education-and-apprenticeship-funding-in-the-uk">access to higher education, 19+ further education and apprenticeship funding</a></li>
   <li><a href="https://www.gov.uk/importing-vehicles-into-the-uk">importing vehicles back to the <abbr title="United Kingdom">UK</abbr></a></li>
   <li><a href="https://www.gov.uk/take-pet-abroad">bringing your pet back to the <abbr title="United Kingdom">UK</abbr></a></li>
@@ -494,7 +489,7 @@ Third-party car insurance (Haftpflichtversicherung) is compulsory.</p>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 May 2013
     <br></br>Last updated 16 April 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
@@ -597,42 +592,59 @@ Notary search website address added - update requested by BE Vienna Consular Sec
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-04ed23df" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-682a0482" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-04ed23df" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-682a0482" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-04ed23df" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-austria" data-track-options="{"dimension28":"1","dimension29":"Austria: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-austria">Austria: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-belgium" data-track-options="{"dimension28":"5","dimension29":"Living in Belgium"}" href="/guidance/living-in-belgium">Living in Belgium</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-04ed23df" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-682a0482" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-04ed23df" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-related_guides-682a0482" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-austria" data-track-options="{"dimension28":"1","dimension29":"Austria: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-austria">Austria: notarial and documentary services</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-682a0482" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-682a0482" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
 
   </ul>
 </nav>
@@ -647,8 +659,8 @@ Notary search website address added - update requested by BE Vienna Consular Sec
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -658,9 +670,9 @@ Notary search website address added - update requested by BE Vienna Consular Sec
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a65f1a1a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4cb3db0b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a65f1a1a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-4cb3db0b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
