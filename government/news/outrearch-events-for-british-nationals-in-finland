@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       World news story
     </p>
@@ -10,7 +8,6 @@
     Outreach events for British nationals in Finland
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
@@ -25,8 +22,8 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 7 February 2019
     <br></br>Last updated 20 May 2019
       — <a href="#history">see all updates</a>
@@ -58,7 +55,7 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
-      <figure class="app-c-figure">
+      <figure class="app-c-figure" lang="en">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/84022/s300_UK_EU_flag.jpg" alt="UK and EU flags"></img>
     <figcaption class="app-c-figure__figcaption">
 
@@ -74,17 +71,9 @@
 
 <h2 id="upcoming-events-in-finland">Upcoming events in Finland</h2>
 
-<h3 id="lahti">Lahti</h3>
-
-<p>Date and time: Wednesday 5 June 2019, at 4.30pm - 5.30pm</p>
-
-<p>Address: Sokos Hotel Lahden Seurahuone, Aleksanterinkatu 14, 15110 Lahti (meeting room Tiirismaa)</p>
-
-<p>Please see more information and <a rel="external" href="https://www.lyyti.fi/reg/BritsInLahti">register for the event here</a>.</p>
-
 <h3 id="joensuu">Joensuu</h3>
 
-<p>Date and time: TBC July 2019</p>
+<p>Date and time: TBC August/September 2019</p>
 
 <h3 id="turku">Turku</h3>
 
@@ -102,6 +91,11 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>Lahti</td>
+      <td>5 June 2019</td>
+      <td> </td>
+    </tr>
     <tr>
       <td>Helsinki</td>
       <td>24 April 2019</td>
@@ -185,7 +179,7 @@
 
     </div>
 
-    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 7 February 2019
     <br></br>Last updated 20 May 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
@@ -223,6 +217,31 @@
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-7d2a4938" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7d2a4938" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/lithuania-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Lithuania: funeral directors"}" href="/government/publications/lithuania-list-of-funeral-directors">Lithuania: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/slovakia-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Slovakia: funeral directors"}" href="/government/publications/slovakia-list-of-funeral-directors">Slovakia: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/lithuania-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Lithuania: doctors"}" href="/government/publications/lithuania-list-of-medical-facilitiespractitioners">Lithuania: doctors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/belgium-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Belgium: doctors"}" href="/government/publications/belgium-list-of-medical-facilitiespractitioners">Belgium: doctors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/hungary-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Hungary: doctors"}" href="/government/publications/hungary-list-of-medical-facilitiespractitioners">Hungary: doctors</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -243,9 +262,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ac319d4c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-fb82425f" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-ac319d4c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-fb82425f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -259,9 +278,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-ac319d4c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-fb82425f" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-ac319d4c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-fb82425f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
