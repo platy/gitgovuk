@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,13 +8,12 @@
     Living in Finland
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
-    Official information British people moving to and living in Finland need to know, including EU Exit guidance,   residency, healthcare and driving.
+    Official information for British people moving to and living in Finland, including Brexit guidance, residency, healthcare and driving.
   </p>
 
   </div>
@@ -25,10 +22,10 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 15 November 2013
-    <br></br>Last updated 11 June 2019
+    <br></br>Last updated 3 September 2019
       — <a href="#history">see all updates</a>
 </div>
 
@@ -66,15 +63,13 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#eu-exit-what-you-should-do" data-track-options="{"dimension29":"\nEU Exit: what you should do"}" href="#eu-exit-what-you-should-do">
-EU Exit: what you should do</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#eu-exit-updates" data-track-options="{"dimension29":"\nEU Exit updates"}" href="#eu-exit-updates">
-EU Exit updates</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date-on-brexit" data-track-options="{"dimension29":"Stay up to date on Brexit"}" href="#stay-up-to-date-on-brexit">Stay up to date on Brexit</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#residency-and-visas" data-track-options="{"dimension29":"Residency and visas"}" href="#residency-and-visas">Residency and visas</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
           <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
@@ -124,9 +119,10 @@ EU Exit updates</a>
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
+<p>This page tells you what to do ahead of Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+
 <div class="call-to-action">
-<h2 id="eu-exit-what-you-should-do">
-<abbr title="European Union">EU</abbr> Exit: what you should do</h2>
+<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
 
 <p>You should:</p>
 
@@ -136,17 +132,21 @@ EU Exit updates</a>
 </ul>
 </div>
 
-<h2 id="eu-exit-updates">
-<abbr title="European Union">EU</abbr> Exit updates</h2>
-
-<p>To keep up to date with information about <abbr title="European Union">EU</abbr> Exit:</p>
+<div class="call-to-action">
+<h2 id="stay-up-to-date-on-brexit">Stay up to date on Brexit</h2>
 
 <ul>
-  <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe"><abbr title="United Kingdom">UK</abbr> nationals in the <abbr title="European Union">EU</abbr>: essential information</a>
-</li>
   <li>sign up to <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-finland">email alerts on living in Finland</a>
 </li>
   <li>follow the local British Embassy on <a rel="external" href="https://www.facebook.com/BritishEmbassyHelsinki/">Facebook</a> and <a rel="external" href="https://twitter.com/ukinfinland">Twitter</a>
+</li>
+</ul>
+</div>
+
+<p>You can also:</p>
+
+<ul>
+  <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe"><abbr title="United Kingdom">UK</abbr> nationals in the <abbr title="European Union">EU</abbr>: essential information</a>
 </li>
   <li>follow <a rel="external" href="https://vnk.fi/en/information-about-brexit">the Finnish government’s official website on Brexit</a>
 </li>
@@ -154,71 +154,72 @@ EU Exit updates</a>
 </li>
 </ul>
 
-<h2 id="residency-and-visas">Residency and visas</h2>
+<h2 id="visas-and-residency">Visas and residency</h2>
 
-<p>You may want to check the <a href="https://www.gov.uk/foreign-travel-advice/finland/entry-requirements">entry requirements for Finland</a>  in our travel advice.</p>
+<p>Check the <a href="https://www.gov.uk/foreign-travel-advice/finland/entry-requirements">entry requirements for Finland</a>  in our travel advice.</p>
 
-<p>If you plan to stay for more than 90 days in Finland, you must contact the <a rel="external" href="http://migri.fi/en/i-want-to-apply">Finnish Immigration Service</a>.</p>
+<p>If you plan to stay for more than 90 days in Finland, you must contact the <a rel="external" href="https://migri.fi/en/i-want-to-apply">Finnish Immigration Service</a>.</p>
 
-<h3 id="residency-and-visas-after-the-uk-leaves-the-eu">Residency and visas after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, the Finnish government has drafted <a rel="external" href="https://intermin.fi/en/article/-/asset_publisher/brittien-oleskeluoikeus-brexitin-jalkeen-turvataan-erillislailla">a special act</a> extending the right of residence for <abbr title="United Kingdom">UK</abbr> nationals in Finland. It states that <abbr title="United Kingdom">UK</abbr> nationals who are currently living in Finland and have registered their <abbr title="European Union">EU</abbr> right of residence, can continue to live in Finland without any separate measures for a fixed time period. The act was approved by the Finnish Parliament on 5 March 2019.</p>
+<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, the Finnish government has drafted <a rel="external" href="https://intermin.fi/en/article/-/asset_publisher/brittien-oleskeluoikeus-brexitin-jalkeen-turvataan-erillislailla">a special act</a> extending the right of residence for <abbr title="United Kingdom">UK</abbr> nationals in Finland. It states that <abbr title="United Kingdom">UK</abbr> nationals who are currently living in Finland and have registered their <abbr title="European Union">EU</abbr> right of residence can continue to live in Finland without any separate measures for a fixed time period. The act was approved by the Finnish Parliament on 5 March 2019.</p>
 
-<p>In the event of changes to residency rules or registration processes after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, we will update this guidance as soon as information is available. You should sign up to our <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-finland">email alerts</a>.</p>
+<p>If there are changes to residency rules or registration processes after Brexit, we will update this guidance as soon as information is available.</p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your <abbr title="United Kingdom">UK</abbr> passport. What happens after 2020 will form the next part of negotiations.</p>
+<p>If there’s no deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your <abbr title="United Kingdom">UK</abbr> passport. What happens after 2020 will form the next part of negotiations.</p>
 
-<p>You can <a href="https://www.gov.uk/overseas-passports">apply for or renew your British passport from Finland</a>.  If you cannot get a passport in time for your trip, you may need to get an <a href="https://www.gov.uk/emergency-travel-document">emergency travel document</a> or ‘emergency passport’.</p>
+<p>You can <a href="https://www.gov.uk/overseas-passports">apply for or renew your British passport from Finland</a>.</p>
 
 <p>Read our <a href="https://www.gov.uk/foreign-travel-advice/finland">travel advice for Finland</a> and sign up for the latest information on local laws and customs, safety and emergencies.</p>
 
-<h3 id="passports-and-travel-after-the-uk-leaves-the-eu">Passports and travel after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, new travel rules will apply. You should have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland).</p>
+<p>If there’s no deal, new travel rules will apply. You must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland).</p>
 
-<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed</p>
+<p><a href="https://www.gov.uk/check-a-passport-for-travel-to-europe">Check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
 
-<p>You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/"><abbr title="United Kingdom">UK</abbr> nationals will not need visas for short stays elsewhere in the <abbr title="European Union">EU</abbr></a>. You will be able to stay up to 90 days in another <abbr title="European Union">EU</abbr>, EEA or EFTA country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an <abbr title="European Union">EU</abbr>, EEA or EFTA country, you will be able to transit through other <abbr title="European Union">EU</abbr>, EEA or EFTA to reach your country of residence. We will update this guidance as more information becomes available.</p>
+<p>If there’s no deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/"><abbr title="United Kingdom">UK</abbr> nationals will not need visas for short stays elsewhere in the <abbr title="European Union">EU</abbr></a>. You will be able to stay up to 90 days in another <abbr title="European Union">EU</abbr>, EEA or EFTA country, within a 180 day period. You must retain evidence of travel (such as train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an <abbr title="European Union">EU</abbr>, EEA or EFTA country, you will be able to transit through other <abbr title="European Union">EU</abbr>, EEA or EFTA countries to reach your country of residence.</p>
 
 <h2 id="healthcare">Healthcare</h2>
 
-<p>You should ensure you are properly registered for healthcare as a resident in Finland, as well as registering, where necessary, with a health insurer. The <abbr title="National Health Service">NHS</abbr> has more information about who is able <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-finland/">to access healthcare in Finland and how to register</a>.</p>
+<p>You must register for healthcare as a resident in Finland, as well as registering, where necessary, with a health insurer. Read the <abbr title="National Health Service">NHS</abbr> guidance on who can <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-finland/">access healthcare in Finland and how to register</a>.</p>
 
 <p>Medical treatment, medicine and hospital stays are rarely completely free of charge in Finland.</p>
 
 <p>If you live in Finland and receive an exportable <abbr title="United Kingdom">UK</abbr> pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the <abbr title="United Kingdom">UK</abbr>. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
 
+<p>If you are resident in Finland, you must not use a European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>) from the <abbr title="United Kingdom">UK</abbr> to access healthcare in Finland.</p>
+
+<p>When you travel from Finland for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an <abbr title="European Health Insurance Card">EHIC</abbr> to access state-provided healthcare in that country. During that short stay:</p>
+
 <ul>
-  <li>if you are resident in Finland, you should not be using a European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>) from the <abbr title="United Kingdom">UK</abbr> to access healthcare in Finland</li>
-  <li>you may use an <abbr title="European Health Insurance Card">EHIC</abbr> to access state-provided healthcare during a temporary stay in another European Economic Area (EEA) country or Switzerland</li>
   <li>the <abbr title="European Health Insurance Card">EHIC</abbr> covers treatment that is medically necessary until your planned return home</li>
   <li>an <abbr title="European Health Insurance Card">EHIC</abbr> is not a replacement for comprehensive travel insurance</li>
-  <li>for more information you can read <a href="https://www.gov.uk/foreign-travel-advice">our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#eu-exit-update">advice on foreign travel insurance</a>
+  <li>Read <a href="https://www.gov.uk/foreign-travel-advice">our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#eu-exit-update">advice on foreign travel insurance</a>
 </li>
 </ul>
 
-<p>You should read the <abbr title="National Health Service">NHS</abbr> guidance on <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/">healthcare and studying abroad</a>.</p>
+<p>If you are a student, read the <abbr title="National Health Service">NHS</abbr> guidance on <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/">healthcare and studying abroad</a>.</p>
 
-<p>You can <a rel="external" href="https://www.choosehealthcare.fi/contact-information/public-healthcare/hospital-districts/">find English-speaking doctors</a> in all Finnish hospitals. You should also <a href="https://www.gov.uk/travelling-controlled-drugs">check your prescriptions are legal</a> in Finland.</p>
+<p>You can <a rel="external" href="https://www.choosehealthcare.fi/contact-information/public-healthcare/hospital-districts/">find English-speaking doctors</a> in all Finnish hospitals.</p>
 
-<h3 id="healthcare-after-the-uk-leaves-the-eu">Healthcare after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<p><a href="https://www.gov.uk/travelling-controlled-drugs">Check your prescriptions are legal</a> in Finland.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, your current rights of access to healthcare in Finland will remain the same until 31 December 2020, as long as you remain a resident in Finland.</p>
+<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, your access to healthcare may change. f you are a permanent or temporary resident you should review the status of your healthcare cover.</p>
+<p>If there is a deal, your current rights of access to healthcare in Finland will remain the same until the end of the implementation period, as long as you remain a resident in Finland.</p>
 
-<p>The <abbr title="United Kingdom">UK</abbr> has proposed maintaining current healthcare cooperation with Finland for S1 form holders until the end of December 2020.  If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, and there is no arrangement with Finland to continue reciprocal healthcare, those receiving coverage through the S1 form will not be covered.</p>
+<p>If there’s no deal, your access to healthcare may change. If you are a permanent or temporary resident you must review your healthcare cover.</p>
 
-<p>You should take action now to confirm your residency status and decide what steps you need to take to ensure access to healthcare if the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal. <abbr title="United Kingdom">UK</abbr> nationals will be able to return to <abbr title="United Kingdom">UK</abbr> for treatment.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> has proposed maintaining current healthcare cooperation with Finland for S1 form holders until the end of December 2020. If there’s no deal, and there is no arrangement with Finland to continue reciprocal healthcare, those receiving coverage through the S1 form will not be covered.</p>
 
-<p>Your <abbr title="European Health Insurance Card">EHIC</abbr> may not be valid in the event the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal. The <abbr title="United Kingdom">UK</abbr> has offered to maintain the <abbr title="European Health Insurance Card">EHIC</abbr> scheme should the <abbr title="United Kingdom">UK</abbr> leave the <abbr title="European Union">EU</abbr> without a deal, however this is reliant on Finland continuing to accept <abbr title="United Kingdom">UK</abbr> <abbr title="European Health Insurance Card">EHIC</abbr> cards.</p>
+<p>You must confirm your residency status and decide how you will ensure access to healthcare if there’s no deal. <abbr title="United Kingdom">UK</abbr> nationals will be able to return to <abbr title="United Kingdom">UK</abbr> for treatment.</p>
+
+<p>Your <abbr title="European Health Insurance Card">EHIC</abbr> may not be valid if the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal. The <abbr title="United Kingdom">UK</abbr> has offered to maintain the <abbr title="European Health Insurance Card">EHIC</abbr> scheme if there’s no deal. However this is reliant on Finland continuing to accept <abbr title="United Kingdom">UK</abbr> <abbr title="European Health Insurance Card">EHIC</abbr> cards.</p>
 
 <h2 id="working-in-finland">Working in Finland</h2>
 
@@ -226,18 +227,17 @@ EU Exit updates</a>
 
 <p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/acro_std.aspx?id=2379"><abbr title="United Kingdom">UK</abbr> criminal records check</a> (known as a <abbr title="Disclosure and Barring Service">DBS</abbr> check).</p>
 
-<h3 id="working-in-finland-after-the-uk-leaves-the-eu">Working in Finland after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<h3 id="working-in-finland-after-brexit">Working in Finland after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, your right to work will stay the same until the end of the implementation period.</p>
+<p>If there is a deal, your right to work will stay the same until the end of the implementation period.</p>
 
-<p>If you’re planning to start a business, provide a service, or do a job in a regulated profession, after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, <a href="https://www.gov.uk/guidance/finland-providing-services-after-eu-exit">further guidance can be found here</a>.</p>
+<p><a href="https://www.gov.uk/guidance/finland-providing-services-after-eu-exit">Read the guidance on providing services after Brexit</a> if you’re planning to start a business, provide a service, or do a job in a regulated profession, after Brexit.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
 <p>The <abbr title="United Kingdom">UK</abbr> has a double-taxation agreement with Finland to ensure people do not pay tax on the same income in both countries.</p>
 
-<p>You should read the guidance on:</p>
+<p>Read the guidance on:</p>
 
 <ul>
   <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk">tax if you leave the <abbr title="United Kingdom">UK</abbr> to live abroad</a></li>
@@ -245,18 +245,17 @@ EU Exit updates</a>
   <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/finland/index_en.htm">paying income tax in Finland</a></li>
 </ul>
 
-<p>We recommend you get professional advice on paying tax in Finland.</p>
+<p>You should get professional advice on paying tax in Finland.</p>
 
 <h3 id="national-insurance">National Insurance</h3>
 
-<p>You may be able to <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
+<p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
 
-<h3 id="money-and-tax-after-the-uk-leaves-the-eu">Money and tax after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, it may become more expensive to use your <abbr title="United Kingdom">UK</abbr> bank card in the <abbr title="European Union">EU</abbr>. Read our guidance on <a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea">using a bank card, insurance or other financial service in the <abbr title="European Union">EU</abbr></a>.</p>
+<p>If there’s no deal, it may become more expensive to use your <abbr title="United Kingdom">UK</abbr> bank card in the <abbr title="European Union">EU</abbr>. Read more about <a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea">using a bank card, insurance or other financial service in the <abbr title="European Union">EU</abbr></a>.</p>
 
-<p>The <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr> will not change existing double taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Finland. You should direct individual taxpayer questions about double taxation to the relevant tax authority.</p>
+<p>Brexit will not change existing double taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Finland. Send taxpayer questions about double taxation to the relevant tax authority.</p>
 
 <h2 id="pensions">Pensions</h2>
 
@@ -270,22 +269,23 @@ EU Exit updates</a>
   <li>pensions <a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm">from working abroad</a>, if you’ve worked in other <abbr title="European Union">EU</abbr> countries</li>
 </ul>
 
-<h3 id="life-certificates-for-uk-state-pensions">Life certificates for <abbr title="United Kingdom">UK</abbr> State Pensions</h3>
+<h3 id="life-certificates-for-uk-state-pensions">Life certificates for <abbr title="United Kingdom">UK</abbr> state pensions</h3>
 
-<p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances">‘life certificate’ from the <abbr title="United Kingdom">UK</abbr> Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
+<p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances">‘life certificate’ from the <abbr title="United Kingdom">UK</abbr> Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-the-uk-leaves-the-eu">Pensions after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
 
-<p>The <abbr title="United Kingdom">UK</abbr> government will continue to pay State Pension, child benefits and disability benefits to those eligible in the <abbr title="European Union">EU</abbr> after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> in any scenario. For more information you should read our <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on pensions in a no deal scenario</a>.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> government will continue to pay a State Pension to those eligible in the <abbr title="European Union">EU</abbr> after Brexit. Your <abbr title="United Kingdom">UK</abbr> State Pension will be uprated in April 2020, 2021 and 2022 if you live in the <abbr title="European Union">EU</abbr>, EEA or Switzerland.</p>
 
-<p>The <abbr title="United Kingdom">UK</abbr> government will uprate your <abbr title="United Kingdom">UK</abbr> state pension for the fiscal year 2019/2020 in any scenario.</p>
+<p>Read our <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on pensions if there’s no deal</a>.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal and you work and pay social security contributions in Finland, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Finnish pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> government will uprate your <abbr title="United Kingdom">UK</abbr> State Pension for the fiscal year 2019/2020 in all Brexit scenarios.</p>
+
+<p>If there is a deal and you work and pay social security contributions in Finland, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Finnish pension. This will happen even if you claim your pension after the end of the implementation period.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>You may still be able to claim some <abbr title="United Kingdom">UK</abbr> benefits like child and disability benefits if you live in Finland. You should:</p>
+<p>You may still be able to claim some <abbr title="United Kingdom">UK</abbr> benefits like child and disability benefits if you live in Finland.</p>
 
 <ul>
   <li>read our guidance on <a href="https://www.gov.uk/claim-benefits-abroad">claiming benefits if you live, move or travel abroad</a>
@@ -293,26 +293,25 @@ EU Exit updates</a>
   <li>use our tool to check <a href="https://www.gov.uk/uk-benefits-abroad">which <abbr title="United Kingdom">UK</abbr> benefits you might be able to get while you’re abroad</a> and how to claim them</li>
 </ul>
 
-<p>If you’re abroad for more than 4 weeks, many income-related benefits such as Pension Credit and Housing Benefit cannot be paid to you.</p>
+<p>Many income-related benefits such as Pension Credit and Housing Benefit cannot be paid to you if you’re abroad for more than 4 weeks.</p>
 
 <p>You may be eligible to claim some <a rel="external" href="http://ec.europa.eu/social/main.jsp?catId=1109&langId=en">Finnish social security benefits</a>.</p>
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals">request proof of time you’ve worked in the <abbr title="United Kingdom">UK</abbr></a> from HMRC if you are asked for this.</p>
 
-<h3 id="benefits-after-the-uk-leaves-the-eu">Benefits after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
 
-<p>The <abbr title="United Kingdom">UK</abbr> Government will continue to pay child benefits, and disability benefits to those eligible in the <abbr title="European Union">EU</abbr> after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> government will continue to pay child benefits, and disability benefits to those eligible in the <abbr title="European Union">EU</abbr> after Brexit.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal and you work and pay social security contributions in Finland, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Finnish contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If there is a deal and you work and pay social security contributions in Finland, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Finnish contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> without a deal, you can read our <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on benefits and pensions in a no deal scenario</a>.</p>
+<p>Read our <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on benefits and pensions if there’s no deal</a>.</p>
 
-<p>If you have questions on how the <abbr title="United Kingdom">UK</abbr>’s exit from the <abbr title="European Union">EU</abbr> might affect your Finnish social security benefits, please contact <a rel="external" href="https://www.kela.fi/web/en/centre-for-international-affairs">Kela’s Centre for International Affairs</a>.</p>
+<p>If you have questions on how Brexit might affect your Finnish social security benefits, please contact <a rel="external" href="https://www.kela.fi/web/en/centre-for-international-affairs">Kela’s Centre for International Affairs</a>.</p>
 
 <h2 id="driving-in-finland">Driving in Finland</h2>
 
-<p>If you are a resident in Finland, you should <a rel="external" href="https://ajokortti-info.fi/en/basic-information-about-a-driving-licence/validity-of-foreign-driving-licences-in-finland/exchanging-a-foreign-driving-licence-for-a-finnish-licence">exchange your <abbr title="United Kingdom">UK</abbr> licence for a Finnish driving licence</a> before the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, as your <abbr title="United Kingdom">UK</abbr> licence may no longer be valid after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>. You can still use your Finnish licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
+<p>If you are a resident in Finland, you must <a rel="external" href="https://ajokortti-info.fi/en/basic-information-about-a-driving-licence/validity-of-foreign-driving-licences-in-finland/exchanging-a-foreign-driving-licence-for-a-finnish-licence">exchange your <abbr title="United Kingdom">UK</abbr> licence for a Finnish driving licence</a> before Brexit. You can still use your Finnish licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
 
 <p>Read the guidance on:</p>
 
@@ -326,18 +325,19 @@ EU Exit updates</a>
 
 <p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk">taking a vehicle out of the <abbr title="United Kingdom">UK</abbr></a>.</p>
 
-<p>You should read the <abbr title="European Union">EU</abbr>’s <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/finland/index_en.htm">guidance on car registration and taxes</a> in Finland. You may be exempt from some of these taxes. If so you will need certificates of exemption.</p>
+<p>Read the <abbr title="European Union">EU</abbr>’s <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/finland/index_en.htm">guidance on car registration and taxes</a> in Finland.</p>
 
-<h3 id="driving-after-the-uk-leaves-the-eu">Driving after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<p>You may be exempt from some of these taxes. If so you will need certificates of exemption.</p>
 
-<p>If the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> with a deal, driving licence rules will stay the same during the implementation period.</p>
+<h3 id="driving-after-brexit">Driving after Brexit</h3>
 
-<p>Please read our <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit">guidance on driving in the <abbr title="European Union">EU</abbr> after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr></a>.</p>
+<p>If there is a deal, driving licence rules will stay the same during the implementation period.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit">guidance on driving in the <abbr title="European Union">EU</abbr> after Brexit</a>.</p>
 
 <h2 id="voting">Voting</h2>
 
-<p>You may be able to vote in some <abbr title="United Kingdom">UK</abbr> elections. You can:</p>
+<p>You may be able to vote in some <abbr title="United Kingdom">UK</abbr> elections.</p>
 
 <ul>
   <li><a rel="external" href="https://www.yourvotematters.co.uk/can-i-vote/overseas">check if you are able to vote</a></li>
@@ -345,18 +345,17 @@ EU Exit updates</a>
 <a href="https://www.gov.uk/voting-when-abroad">register as an overseas voter</a> if you would like to vote</li>
 </ul>
 
-<p>If you are resident in Finland, you can <a rel="external" href="https://vaalit.fi/en/municipal-elections">vote in local municipal elections</a>  and European Parliamentary elections.</p>
+<p>If you are resident in Finland, you can <a rel="external" href="https://vaalit.fi/en/municipal-elections">vote in local municipal elections</a> and European Parliamentary elections.</p>
 
-<h3 id="voting-after-the-uk-leaves-the-eu">Voting after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>
-</h3>
+<h3 id="voting-after-brexit">Voting after Brexit</h3>
 
-<p>Once the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, <abbr title="United Kingdom">UK</abbr> nationals who are permanent residents in Finland will continue to be able to vote and stand in local elections. <abbr title="United Kingdom">UK</abbr> nationals will no longer be eligible to vote in European Parliament elections.</p>
+<p>After Brexit, <abbr title="United Kingdom">UK</abbr> nationals who are permanent residents in Finland will continue to be able to vote and stand in local elections. <abbr title="United Kingdom">UK</abbr> nationals will no longer be eligible to vote in European Parliament elections.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths, and getting married</h2>
 
 <p>If your child is born in Finland, you will need to <a href="https://www.gov.uk/register-a-birth">register the birth abroad</a>.</p>
 
-<p>If someone dies in Finland you can:</p>
+<p>If someone dies in Finland:</p>
 
 <ul>
   <li>read our guidance on <a href="https://www.gov.uk/after-a-death/death-abroad">what to do after someone dies abroad</a>
@@ -377,11 +376,15 @@ EU Exit updates</a>
 
 <h2 id="pets">Pets</h2>
 
-<p>When the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, you will still be able to travel to and from the <abbr title="United Kingdom">UK</abbr> with a cat, dog, or ferret but the rules will change. You can read <a href="https://www.gov.uk/guidance/pet-travel-to-europe-after-brexit">guidance on pet travel to Europe after the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr></a> for more information.</p>
+<p>You will still be able to travel to and from the <abbr title="United Kingdom">UK</abbr> with a cat, dog, or ferret when the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr>, but the rules will change. Read <a href="https://www.gov.uk/guidance/pet-travel-to-europe-after-brexit">guidance on pet travel to Europe</a>.</p>
 
-<p>While the <abbr title="United Kingdom">UK</abbr> is still an <abbr title="European Union">EU</abbr> Member State you’ll be able to travel with your pet to the <abbr title="European Union">EU</abbr> under the current pet travel rules using your current <abbr title="European Union">EU</abbr> pet passport.  If you’re travelling with your pet for the first time you’ll have to visit your vet to get a pet passport.</p>
+<p>While the <abbr title="United Kingdom">UK</abbr> is still an <abbr title="European Union">EU</abbr> Member State you’ll be able to travel with your pet to the <abbr title="European Union">EU</abbr> under the current pet travel rules using your current <abbr title="European Union">EU</abbr> pet passport.</p>
 
-<p>Read guidance on <a href="https://www.gov.uk/take-pet-abroad">returning your cat, dog or ferret to the <abbr title="United Kingdom">UK</abbr></a>. For moving pet horses and other equines read <a href="https://www.gov.uk/guidance/export-horses-and-ponies-special-rules">guidance on export horses and ponies: special rules</a>.</p>
+<p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
+
+<p>Read guidance on <a href="https://www.gov.uk/take-pet-abroad">returning your cat, dog or ferret to the <abbr title="United Kingdom">UK</abbr></a>.</p>
+
+<p>For moving pet horses and other equines read <a href="https://www.gov.uk/guidance/export-horses-and-ponies-special-rules">guidance on export horses and ponies: special rules</a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -394,10 +397,10 @@ EU Exit updates</a>
 
 <p>Tell the <abbr title="United Kingdom">UK</abbr> and Finnish authorities if you are returning to the <abbr title="United Kingdom">UK</abbr> permanently.</p>
 
-<p>You should read our guidance on:</p>
+<p>Read our guidance on:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal">returning to live in the <abbr title="United Kingdom">UK</abbr> in the case of no-deal</a></li>
+  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal#access-to-benefits-and-services-in-the-uk">access to benefits and services in the <abbr title="United Kingdom">UK</abbr> if there’s no deal</a></li>
   <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#bringing-your-family-to-the-uk">bringing your family to the <abbr title="United Kingdom">UK</abbr></a></li>
   <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal#access-to-higher-education-19-further-education-and-apprenticeship-funding-in-the-uk">access to higher education, 19+ further education and apprenticeship funding</a></li>
   <li><a href="https://www.gov.uk/importing-vehicles-into-the-uk">importing vehicles back to the <abbr title="United Kingdom">UK</abbr></a></li>
@@ -418,12 +421,16 @@ EU Exit updates</a>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 November 2013
-    <br></br>Last updated 11 June 2019
+    <br></br>Last updated 3 September 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-03T17:35:55.000+01:00">3 September 2019</time>
+              Brexit update: Pensions section updated to include further details on State Pension uprating.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-11T13:25:24.000+01:00">11 June 2019</time>
               EU Exit update: updated information regarding EU visa-free travel.
@@ -511,35 +518,52 @@ EU Exit updates</a>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-f1b4b8fa" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-cacbc92c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-f1b4b8fa" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-cacbc92c" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-f1b4b8fa" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-finland--2" data-track-options="{"dimension28":"1","dimension29":"Finland: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-finland--2">Finland: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-latvia" data-track-options="{"dimension28":"5","dimension29":"Living in Latvia"}" href="/guidance/living-in-latvia">Living in Latvia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-lithuania" data-track-options="{"dimension28":"5","dimension29":"Living in Lithuania"}" href="/guidance/living-in-lithuania">Living in Lithuania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-f1b4b8fa" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-cacbc92c" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-f1b4b8fa" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-related_guides-cacbc92c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-finland--2" data-track-options="{"dimension28":"1","dimension29":"Finland: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-finland--2">Finland: notarial and documentary services</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-cacbc92c" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-cacbc92c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
 
   </ul>
 </nav>
@@ -565,9 +589,9 @@ EU Exit updates</a>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-63d3341e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-80c49c60" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-63d3341e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-80c49c60" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
