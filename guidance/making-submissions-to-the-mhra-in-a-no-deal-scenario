@@ -1,35 +1,32 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Making submissions to the MHRA in a no deal scenario
+    Register to make submissions to the MHRA if there is a no-deal Brexit
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph ">
-    If the UK leaves the EU without a deal, submissions related to human medicines would need to be submitted directly to the MHRA.
+    Submissions related to human medicines would need to be submitted directly to the MHRA.
   </p>
 
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 4 March 2019
-    <br></br>Last updated 10 April 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 6 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -47,7 +44,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,8 +52,8 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
@@ -79,10 +76,9 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>Leaving the EU with a deal remains the Government’s top priority. This has not changed.
-However a responsible government must plan for every eventuality, including a no deal scenario. We are continuing with our no deal planning to ensure we are fully prepared.</p>
+<p>The Agency is making preparations to ensure that you can continue to submit regulatory and notification information to the UK.</p>
 
-<p>The Agency is making preparations to ensure that in the event we leave the EU with no deal, you can continue to submit regulatory and notification information to the UK.</p>
+<p>For applications that you plan to submit to both the EU and the UK (for example, a Marketing Authorisation for both EU and UK markets), you would need to submit the information separately through EU systems and our portals.</p>
 
 <p>The following groups will need to ensure they follow the steps to gain access to MHRA Submissions, so they can make submissions from day one:</p>
 
@@ -115,12 +111,12 @@ However a responsible government must plan for every eventuality, including a no
 
 <p>There are two user reference guides which contain step by step guidance on the processes:</p>
 
-<p>User Reference Guide – <span id="attachment_3334188" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/783371/URG_-_Gaining_Access_to_MHRA_Submissions.pdf">Gaining Access to MHRA Submissions</a>
-  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">661KB</span>, <span class="page-length">11 pages</span>)
+<p>User Reference Guide – <span id="attachment_3646301" class="attachment-inline">
+  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/830001/210819_Gaining_Access_to_MHRA_Submissions.pdf">Gaining Access to MHRA Submissions</a>
+  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">888KB</span>, <span class="page-length">15 pages</span>)
 </span></p>
 
-<p>User Reference Guide – <span id="attachment_3334187" class="attachment-inline">
+<p>User Reference Guide – <span id="attachment_3646300" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/783370/URG_-_Managing_users_on_MHRA_Submissions.pdf">Managing users on MHRA Submissions</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">770KB</span>, <span class="page-length">12 pages</span>)
 </span></p>
@@ -147,6 +143,8 @@ However a responsible government must plan for every eventuality, including a no
 
 <p>A “company administrator” has the ability to add, edit and disable other users.  A company administrator will also be able to see records of submissions made by users.</p>
 
+<p>A “company administrator” has the ability to register multiple companies under their account.</p>
+
 <p>A “user” cannot add other users and can only make submissions for the organisation they are registered to. They can be added to multiple legal entities if required. A user will not see records of submissions made by other users.</p>
 
 <p>The initial company administrator will have the same permissions as any subsequent company administrators. However, they will be responsible for completing the user access steps for the organisation and setting up the first set of additional company administrators and users.</p>
@@ -157,13 +155,13 @@ However a responsible government must plan for every eventuality, including a no
 
 <h3 id="setting-up-access-for-multiple-legal-entities-in-pharmaceutical-companies">Setting up access for multiple legal entities in pharmaceutical companies</h3>
 
-<p>A unique email address is required when registering an organisation for the first time.  It is recommended that if you have multiple legal entities under your organisation, you should appoint an appropriate company administrator to register for each of these entities.</p>
+<p>The User Reference Guide – Gaining Access to MHRA Submissions details the step by step instructions on how to do this.</p>
+
+<p>It is recommended that if you have multiple legal entities under your organisation, you should appoint an appropriate company administrator to register for these entities.</p>
 
 <p>For pharmaceutical companies, this relates to the unique 5 digit MHRA company number.</p>
 
-<p>However, it is recognised that larger organisations may have a significant number of legal entities and setting up individual company administrators for each 5 digit number would be complex and time consuming.  If an organisation chooses to only create a company administrator for one or few legal entities, there is one area that requires consideration.</p>
-
-<p>Marketing Authorisation Holders will have the ability to automatically generate a new Product Licensing (<abbr title="Product Licensing">PL</abbr>) number in MHRA Submissions. As the 5 digit number is part of the <abbr title="Product Licensing">PL</abbr> Number, the organisation must ensure this legal entity is set up with a company administrator prior to performing the generation of the new <abbr title="Product Licensing">PL</abbr> Number. This will allow the company administrator to select the correct 5 digit number from a drop down menu during the process.</p>
+<p>MA Holders will have the ability to automatically generate a new Product Licensing (<abbr title="Product Licensing">PL</abbr>) number in MHRA Submissions. As the 5 digit number is part of the <abbr title="Product Licensing">PL</abbr> Number, the organisation must ensure this legal entity is set up with a company administrator prior to performing the generation of the new <abbr title="Product Licensing">PL</abbr> Number. This will allow the company administrator to select the correct 5 digit number from a drop down menu during the process.</p>
 
 <p>Submission types such as initial applications and variations require a drop down company name/number to be selected. There would be no impact on these submissions being successfully sent via MHRA Submissions, if you use any of your registered numbers. The correct Marketing Authorisation Holder information is contained within the application itself and is not dependent on the drop downs selected. For any future changes, we will aim to ensure there is no dependency on this data when submitting applications.</p>
 
@@ -218,12 +216,12 @@ However a responsible government must plan for every eventuality, including a no
 
 <p>There are two user reference guides which contain step by step guidance on the processes:</p>
 
-<p><span id="attachment_3334189" class="attachment-inline">
+<p><span id="attachment_3646302" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/785057/URG_-_Registration_for_ICSR_Submissions.pdf">Registration for ICSR Submissions</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">167KB</span>, <span class="page-length">4 pages</span>)
 </span></p>
 
-<p><span id="attachment_3334190" class="attachment-inline">
+<p><span id="attachment_3646303" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/785059/URG_-_Registration_for_MHRA_Gateway.pdf">Registration for MHRA Gateway</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">271KB</span>, <span class="page-length">4 pages</span>)
 </span></p>
@@ -252,7 +250,7 @@ However a responsible government must plan for every eventuality, including a no
 
 <h3 id="transition-between-reporting-to-eu-and-uk-systems">Transition between reporting to EU and UK systems</h3>
 
-<p>In a no deal scenario, from 11pm on exit day, Marketing Authorisation Holders (<abbr title="Marketing Authorisation Holders">MAHs</abbr>) will be required to submit <abbr title="individual case safety reports">ICSRs</abbr> to the UK directly, using the systems described above.</p>
+<p>In a no-deal scenario, on exit day Marketing Authorisation Holders (<abbr title="Marketing Authorisation Holders">MAHs</abbr>) will be required to submit <abbr title="individual case safety reports">ICSRs</abbr> to the UK directly, using the systems described above.</p>
 
 <p>Under current reporting modalities, the European Medicines Agency (<abbr title="European Medicines Agency">EMA</abbr>) forwards UK <abbr title="individual case safety reports">ICSRs</abbr> (individual case safety reports) to the MHRA at the time that they are processed through the EudraVigilance system.</p>
 
@@ -268,7 +266,7 @@ However a responsible government must plan for every eventuality, including a no
 
 <p>MHRA will communicate at the earliest opportunity if systems are down, including planned downtime. Please use the following guidance with regards to ICSR reporting unless communications from the MHRA advise otherwise.</p>
 
-<p><span id="attachment_3334341" class="attachment-inline">
+<p><span id="attachment_3646304" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/794639/BCP_ICSR_Submissions.pdf">Business Continuity Plan</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">15.9KB</span>, <span class="page-length">2 pages</span>)
 </span></p>
@@ -281,17 +279,29 @@ However a responsible government must plan for every eventuality, including a no
 
 <p>Any queries around setting up the gateway company administrator on MHRA Submissions please email <a href="mailto:submissions@mhra.gov.uk">submissions@mhra.gov.uk</a>.</p>
 
+<div class="call-to-action">
+<h3 id="stay-up-to-date">Stay up to date</h3>
+
+<p>This page tells you what to do if the UK leaves the EU without a deal. It will be updated if anything changes, including if a deal is agreed.</p>
+
+<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up to email alerts</a> to get the latest information</p>
+</div>
+
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 4 March 2019
-    <br></br>Last updated 10 April 2019
+    <br></br>Last updated 6 September 2019
       <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-06T15:10:42.000+01:00">6 September 2019</time>
+              Updated text and link to User Reference Guide on this page for gaining access to MHRA submissions
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-10T15:34:36.000+01:00">10 April 2019</time>
               Added information on the transition between reporting to EU and UK systems in the event of a no deal scenario, and the Business Continuity Plan for MHRA Gateway and ICSR Submissions.
@@ -324,28 +334,44 @@ However a responsible government must plan for every eventuality, including a no
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-0924d92c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-a615f05f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-0924d92c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a615f05f" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-0924d92c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario" data-track-options="{"dimension28":"1","dimension29":"MHRA guidance and publications on a possible no deal scenario"}" href="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario">MHRA guidance and publications on a possible no deal scenario</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/guidance-note-on-new-assessment-routes-in-a-no-deal-scenario" data-track-options="{"dimension28":"4","dimension29":"Guidance note on new assessment routes in a no-deal Brexit"}" href="/guidance/guidance-note-on-new-assessment-routes-in-a-no-deal-scenario">Guidance note on new assessment routes in a no-deal Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/guidance-on-registration-of-clinical-trials-for-investigational-medicinal-products-and-publication-of-summary-results" data-track-options="{"dimension28":"4","dimension29":"Guidance on registration of clinical trials for investigational medicinal products and publication of summary results in a no-deal Brexit"}" href="/guidance/guidance-on-registration-of-clinical-trials-for-investigational-medicinal-products-and-publication-of-summary-results">Guidance on registration of clinical trials for investigational medicinal products and publication of summary results in a no-deal Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/medicines-apply-for-a-variation-to-your-marketing-authorisation" data-track-options="{"dimension28":"4","dimension29":"Medicines: apply for a variation to your marketing authorisation"}" href="/guidance/medicines-apply-for-a-variation-to-your-marketing-authorisation">Medicines: apply for a variation to your marketing authorisation</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/updates-to-packaging-components-and-instructions-on-submissions-if-the-uk-leaves-the-eu-without-a-deal-for-those-marketing-authorisations-ma-issued" data-track-options="{"dimension28":"4","dimension29":"Updates to packaging components and instructions on submissions if the UK leaves the EU without a deal for those marketing authorisations (MA) issued following conversion of EU MA"}" href="/guidance/updates-to-packaging-components-and-instructions-on-submissions-if-the-uk-leaves-the-eu-without-a-deal-for-those-marketing-authorisations-ma-issued">Updates to packaging components and instructions on submissions if the UK leaves the EU without a deal for those marketing authorisations (MA) issued following conversion of EU MA</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-a615f05f" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-a615f05f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario" data-track-options="{"dimension28":"1","dimension29":"MHRA guidance and publications about a possible no-deal Brexit"}" href="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario">MHRA guidance and publications about a possible no-deal Brexit</a></li>
 
   </ul>
 </nav>
@@ -360,8 +386,8 @@ However a responsible government must plan for every eventuality, including a no
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -371,15 +397,15 @@ However a responsible government must plan for every eventuality, including a no
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ee033efd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-97c04809" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-ee033efd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-97c04809" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/health-and-social-care/medicines-medical-devices-blood" data-track-options="{"dimension28":"2","dimension29":"Medicines, medical devices"}" href="/health-and-social-care/medicines-medical-devices-blood">Medicines, medical devices</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/health-and-social-care/medicines-medical-devices-blood" data-track-options="{"dimension28":"2","dimension29":"Medicines, medical devices"}" href="/health-and-social-care/medicines-medical-devices-blood">Medicines, medical devices</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
