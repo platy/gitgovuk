@@ -27,7 +27,7 @@
     <div class="app-c-published-dates " lang="en">
     Published 15 November 2018
     <br></br>Last updated 30 August 2019
-      — <a href="#history">see all updates</a>
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -37,7 +37,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/home-office">Home Office</a> and <a href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
+                  <a class="govuk-link" href="/government/organisations/home-office">Home Office</a> and <a class="govuk-link" href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
                 </span>
             </dd>
         </dl>
@@ -143,7 +143,7 @@
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 November 2018
     <br></br>Last updated 30 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
@@ -291,14 +291,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-6b04e591" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-4db2b0c2" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6b04e591" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-4db2b0c2" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -308,16 +308,16 @@
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/eu-settlement-scheme-how-we-use-your-personal-information" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: how we use your personal information"}" href="/guidance/eu-settlement-scheme-how-we-use-your-personal-information">EU Settlement Scheme: how we use your personal information</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-application-processing-times" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: application processing times"}" href="/government/publications/eu-settlement-scheme-application-processing-times">EU Settlement Scheme: application processing times</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/eu-settlement-scheme-view-and-prove-your-rights-in-the-uk" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: view and prove your rights in the UK"}" href="/government/publications/eu-settlement-scheme-view-and-prove-your-rights-in-the-uk">EU Settlement Scheme: view and prove your rights in the UK</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/using-the-eu-exit-id-document-check-app" data-track-options="{"dimension28":"5","dimension29":"Using the ‘EU Exit: ID Document Check’ app"}" href="/guidance/using-the-eu-exit-id-document-check-app">Using the ‘EU Exit: ID Document Check’ app</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/using-the-eu-exit-id-document-check-app" data-track-options="{"dimension28":"5","dimension29":"Using the ‘EU Exit: ID Document Check’ app"}" href="/guidance/using-the-eu-exit-id-document-check-app">Using the ‘EU Exit: ID Document Check’ app</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-6b04e591" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-4db2b0c2" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-6b04e591" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-4db2b0c2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -348,9 +348,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-562c4d17" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-973464c9" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-562c4d17" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-973464c9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
