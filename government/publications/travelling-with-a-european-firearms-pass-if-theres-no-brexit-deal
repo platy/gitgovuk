@@ -26,8 +26,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 13 September 2018
-    <br></br>Last updated 7 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 12 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -37,7 +37,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/home-office">Home Office</a>
+                  <a class="govuk-link" href="/government/organisations/home-office">Home Office</a>
                 </span>
             </dd>
         </dl>
@@ -63,12 +63,24 @@
 <div aria-labelledby="documents-title">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3577265">
+      <section class="attachment embedded" id="attachment_3659557">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" href="/government/publications/travelling-with-a-european-firearms-pass-if-theres-no-brexit-deal/travelling-with-a-european-firearms-pass-if-theres-no-brexit-deal"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/travelling-with-a-european-firearms-pass-if-theres-no-brexit-deal/travelling-with-a-european-firearms-pass-if-theres-no-brexit-deal"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
   <div class="attachment-details">
     <h2 class="title"><a href="/government/publications/travelling-with-a-european-firearms-pass-if-theres-no-brexit-deal/travelling-with-a-european-firearms-pass-if-theres-no-brexit-deal">European firearms requirements if there’s no Brexit deal</a></h2>
+    <p class="metadata">
+        <span class="type">HTML</span>
+    </p>
+
+
+  </div>
+</section><section class="attachment embedded" id="attachment_3659558">
+  <div class="attachment-thumb">
+      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/travelling-with-a-european-firearms-pass-if-theres-no-brexit-deal/gofynion-drylliau-ewropeaidd-os-na-fydd-cytundeb-brexit"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
+  </div>
+  <div class="attachment-details">
+    <h2 class="title"><a href="/government/publications/travelling-with-a-european-firearms-pass-if-theres-no-brexit-deal/gofynion-drylliau-ewropeaidd-os-na-fydd-cytundeb-brexit">Gofynion drylliau Ewropeaidd os na fydd cytundeb Brexit</a></h2>
     <p class="metadata">
         <span class="type">HTML</span>
     </p>
@@ -88,6 +100,8 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <p>UK residents who want to travel to the EU with their firearms or shotguns will no longer be able to apply for a European Firearms Pass (EFP) if the UK leaves the EU without a deal.</p>
+
+<p>Ni fydd preswylwyr y DU sy’n dymuno teithio i’r UE gyda’u drylliau neu ynnau saethu yn gallu gwneud cais am Bas Drylliau Ewropeaidd (EFP) os bydd y DU yn gadael yr UE heb gytundeb.</p>
 </div>
 </div>
 
@@ -97,10 +111,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 13 September 2018
-    <br></br>Last updated 7 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 12 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-12T10:58:56.000+01:00">12 September 2019</time>
+              Updated to add Welsh language translation
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-07T10:40:08.000+01:00">7 August 2019</time>
               Guidance updated.
@@ -130,33 +148,30 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-6dbd6fa0" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-4b91455e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6dbd6fa0" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-4b91455e" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/your-consumer-rights-after-brexit" data-track-options="{"dimension28":"5","dimension29":"Your consumer rights after Brexit"}" href="/government/publications/your-consumer-rights-after-brexit">Your consumer rights after Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/eu-exit-regulatory-position-statements" data-track-options="{"dimension28":"5","dimension29":"Brexit regulatory position statements"}" href="/government/collections/eu-exit-regulatory-position-statements">Brexit regulatory position statements</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/collections/how-to-prepare-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"5","dimension29":"How to prepare if the UK leaves the EU with no deal"}" href="/government/collections/how-to-prepare-if-the-uk-leaves-the-eu-with-no-deal">How to prepare if the UK leaves the EU with no deal</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/providing-services-to-any-country-in-the-eu-iceland-liechtenstein-norway-or-switzerland-after-eu-exit" data-track-options="{"dimension28":"5","dimension29":"Providing services to any country in the EU, Iceland, Liechtenstein, Norway or Switzerland after Brexit"}" href="/guidance/providing-services-to-any-country-in-the-eu-iceland-liechtenstein-norway-or-switzerland-after-eu-exit">Providing services to any country in the EU, Iceland, Liechtenstein, Norway or Switzerland after Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/leaving-the-eu-advice-for-smes" data-track-options="{"dimension28":"5","dimension29":"Leaving the EU: advice for businesses"}" href="/government/publications/leaving-the-eu-advice-for-smes">Leaving the EU: advice for businesses</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/eu-withdrawal-act-2018-statutory-instruments/the-european-union-withdrawal-act-2018-consequential-modifications-and-repeals-eu-exit-regulations-2019" data-track-options="{"dimension28":"2","dimension29":"The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals) (EU Exit) Regulations 2019"}" href="/eu-withdrawal-act-2018-statutory-instruments/the-european-union-withdrawal-act-2018-consequential-modifications-and-repeals-eu-exit-regulations-2019">The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals) (EU Exit) Regulations 2019</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/cross-border-parental-responsibility-cases-after-brexit-guidance-for-public" data-track-options="{"dimension28":"2","dimension29":"Cross-border parental responsibility cases after Brexit: guidance for public"}" href="/government/publications/cross-border-parental-responsibility-cases-after-brexit-guidance-for-public">Cross-border parental responsibility cases after Brexit: guidance for public</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-6dbd6fa0" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-4b91455e" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-6dbd6fa0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-4b91455e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -187,9 +202,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-34fbb7c5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e4b45851" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-34fbb7c5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-e4b45851" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
