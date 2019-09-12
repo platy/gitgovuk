@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,7 +8,6 @@
     Visiting the UK after Brexit
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
@@ -25,11 +22,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 5 March 2019
     <br></br>Last updated 1 May 2019
-      — <a href="#history">see all updates</a>
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +36,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>, <a href="/government/organisations/department-for-digital-culture-media-sport">Department for Digital, Culture, Media & Sport</a>, <a href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>, <a href="/government/organisations/department-for-transport">Department for Transport</a>, and <a href="/government/organisations/border-force">Border Force</a>
+                  <a class="govuk-link" href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>, <a class="govuk-link" href="/government/organisations/department-for-digital-culture-media-sport">Department for Digital, Culture, Media & Sport</a>, <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>, <a class="govuk-link" href="/government/organisations/department-for-transport">Department for Transport</a>, and <a class="govuk-link" href="/government/organisations/border-force">Border Force</a>
                 </span>
             </dd>
         </dl>
@@ -134,7 +131,7 @@
 
 <p>This applies if the UK leaves the EU with a deal and if the UK leaves the EU without a deal.</p>
 
-<p>What you need to show at the border will not change. Pupils without their own travel document must have photographic ID or a recent photograph attached to the List of Travellers form. The form must be authenticated by the responsible authority in the appropriate member state to confirm the pupil’s residence status and their right to re-entry.</p>
+<p>What you need to show at the border will not change. Pupils without their own travel document must have photographic ID or a recent photograph attached to the List of Travellers form. The form must also be authenticated by the responsible authority in the appropriate member state to confirm the pupil’s residence status and their right to re-entry to be acceptable as a travel document.</p>
 
 <h2 id="driving-in-the-uk">Driving in the UK</h2>
 
@@ -146,20 +143,13 @@
 
 <h3 id="if-your-vehicle-is-not-insured-in-the-uk">If your vehicle is not insured in the UK</h3>
 
-<p>You’ll need to carry an insurance ‘green card’ if all of the following apply:</p>
+<p>You may need an insurance ‘green card’ or other valid proof of insurance, if your vehicle is insured in an EU or <abbr title="European Economic Area">EEA</abbr> country. Contact your vehicle insurer before you travel.</p>
 
-<ul>
-  <li>your vehicle is insured in an <a href="https://www.gov.uk/eu-eea">EU or <abbr title="European Economic Area">EEA</abbr> country</a>
-</li>
-  <li>the UK leaves the EU without a deal</li>
-  <li>the UK leaves the EU with no agreement in place on driving without a green card</li>
-</ul>
-
-<p>Check back here for updates on whether there’s an agreement on driving without a green card.</p>
+<p>Check this page for updates about whether you will need to carry a green card or other proof of insurance after Brexit.</p>
 
 <p>If your vehicle is insured in a country that’s not in the EU or <abbr title="European Economic Area">EEA</abbr>, what you’ll need to do will depend on <a rel="external" href="https://www.cobx.org/article/45/gc-system-composed-green-card-bureaux-48-countries-participating-system">if your country is a member of the green card system</a>.</p>
 
-<p>If your country is a member, you’ll need to carry a green card.</p>
+<p>If your country is a member, you will need to carry a green card.</p>
 
 <p>If your country is not a member, your vehicle will need <a href="https://www.gov.uk/vehicle-insurance">UK vehicle insurance</a>.</p>
 
@@ -228,10 +218,10 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 5 March 2019
     <br></br>Last updated 1 May 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
@@ -266,7 +256,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -283,6 +273,31 @@
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-a3be3bcd" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a3be3bcd" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/visitor-visa-guide-to-supporting-documents" data-track-options="{"dimension28":"5","dimension29":"Visit visa: guide to supporting documents"}" href="/government/publications/visitor-visa-guide-to-supporting-documents">Visit visa: guide to supporting documents</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/application-for-uk-visa-to-visit-or-for-short-term-stay-form-vaf1a" data-track-options="{"dimension28":"5","dimension29":"Application for UK visa to visit or for short-term stay: form VAF1A"}" href="/government/publications/application-for-uk-visa-to-visit-or-for-short-term-stay-form-vaf1a">Application for UK visa to visit or for short-term stay: form VAF1A</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/visit-guidance" data-track-options="{"dimension28":"5","dimension29":"Visit guidance"}" href="/government/publications/visit-guidance">Visit guidance</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/apply-for-a-uk-visa-in-china" data-track-options="{"dimension28":"5","dimension29":"Apply for a UK visa in China"}" href="/government/publications/apply-for-a-uk-visa-in-china">Apply for a UK visa in China</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/visa-documents-returned" data-track-options="{"dimension28":"5","dimension29":"Get your visa, immigration or citizenship documents back"}" href="/visa-documents-returned">Get your visa, immigration or citizenship documents back</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -303,9 +318,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4d3212fc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7a1e7984" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-4d3212fc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-7a1e7984" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
