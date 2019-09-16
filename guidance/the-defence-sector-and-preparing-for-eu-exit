@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    There may be changes that affect your business, if the UK leaves the EU without a deal. 
-  </p>
+  <p class="gem-c-lead-paragraph">There may be changes that affect your business, if the UK leaves the EU without a deal. </p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 23 May 2019
-    <br></br>Last updated 6 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 16 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/ministry-of-defence">Ministry of Defence</a>
+                  <a class="govuk-link" href="/government/organisations/ministry-of-defence">Ministry of Defence</a>
                 </span>
             </dd>
         </dl>
@@ -58,45 +56,49 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#importing-and-exporting" data-track-options="{"dimension29":"Importing and exporting"}" href="#importing-and-exporting">Importing and exporting</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#importing-and-exporting" data-track-options="{"dimension29":"Importing and exporting"}" href="#importing-and-exporting">Importing and exporting</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#your-employees" data-track-options="{"dimension29":"Your employees"}" href="#your-employees">Your employees</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#your-employees" data-track-options="{"dimension29":"Your employees"}" href="#your-employees">Your employees</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#regulation-and-standards" data-track-options="{"dimension29":"Regulation and standards"}" href="#regulation-and-standards">Regulation and standards</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#regulation-and-standards" data-track-options="{"dimension29":"Regulation and standards"}" href="#regulation-and-standards">Regulation and standards</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#personal-data" data-track-options="{"dimension29":"Personal data"}" href="#personal-data">Personal data</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#personal-data" data-track-options="{"dimension29":"Personal data"}" href="#personal-data">Personal data</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#operating-in-the-eu" data-track-options="{"dimension29":"Operating in the EU"}" href="#operating-in-the-eu">Operating in the EU</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#operating-in-the-eu" data-track-options="{"dimension29":"Operating in the EU"}" href="#operating-in-the-eu">Operating in the EU</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#trade-associations" data-track-options="{"dimension29":"Trade associations"}" href="#trade-associations">Trade associations</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#trade-associations" data-track-options="{"dimension29":"Trade associations"}" href="#trade-associations">Trade associations</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>It’s important that your business plans for changes ahead of the UK leaving the EU. Please visit <a rel="external" href="https://euexit.campaign.gov.uk/">Prepare for Brexit</a> to find more detailed guidance on policy changes relevant to your sector and to sign up for updates.</p>
-
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>This page tells you what do if the UK leaves the EU without a deal. It will be updated if anything changes, including if a deal is agreed.</p>
+<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
 
 <p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
 </div>
@@ -185,6 +187,8 @@
 
 <p>Businesses with UK-issued certificates for aircraft registered in the EU should check the European Commission’s notice and with the relevant EU authorities.</p>
 
+<p>The Military Aviation Authority (MAA) has also issued guidance on the implications of leaving the European Union without a deal on compliance with the MAA’s Regulatory Publications <a rel="external" href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fgovernment%2Fuploads%2Fsystem%2Fuploads%2Fattachment_data%2Ffile%2F831388%2FMAA_RN_2019_11.pdf&data=02%7C01%7CDDC-MODInternet%40mod.gov.uk%7C0979933d5b554165243908d737995536%7Cbe7760ed5953484bae95d0a16dfa09e5%7C0%7C0%7C637039004003447266&sdata=2c0TTFPLN%2FRWMYpKRH8eEMdyd270dntrNbLZYeIl%2FsU%3D&reserved=0">MAA Regulatory Notice MAA/RN/2019/11</a>.</p>
+
 <p>Further guidance is available on <a href="https://www.gov.uk/guidance/prepare-to-work-and-operate-in-the-european-aviation-sector-after-brexit">preparing to work and operate in the European aviation sector after Brexit</a>.</p>
 
 <h3 id="importing-or-using-chemicals">Importing or using chemicals</h3>
@@ -260,6 +264,10 @@
 
 <p><a rel="external" href="https://www.adsgroup.org.uk/">Aerospace, Defence, Security and Space (<abbr title="Aerospace, Defence, Security and Space">ADS</abbr>)</a> <br></br><a rel="external" href="https://www.makeuk.org/ndi">NDI/MakeUK</a> <br></br><a rel="external" href="https://www.techuk.org/">techUK</a> <br></br> <a rel="external" href="https://www.fsb.org.uk/">Federation of Small Businesses (<abbr title="Federation of Small Businesses">FSB</abbr>)</a> <br></br><a rel="external" href="https://www.fac.org.uk/">Farnborough Aerospace Consortium (<abbr title="Farnborough Aerospace Consortium">FAC</abbr>)</a> <br></br> <a rel="external" href="http://www.weaf.co.uk/">West of England Aerospace Consortium (<abbr title="West of England Aerospace Consortium">WEAF</abbr>)</a> <br></br><a rel="external" href="http://www.aerospace.co.uk/">North West Aerospace Alliance (<abbr title="North West Aerospace Alliance">NWAA</abbr>)</a></p>
 
+<div class="call-to-action">
+<p>It’s important that your business plans for changes ahead of the UK leaving the EU. Please visit <a rel="external" href="https://euexit.campaign.gov.uk/">Prepare for Brexit</a> to find more detailed guidance on policy changes relevant to your sector and to sign up for updates.</p>
+</div>
+
 </div>
 </div>
 
@@ -267,10 +275,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 23 May 2019
-    <br></br>Last updated 6 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 16 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-16T16:08:04.000+01:00">16 September 2019</time>
+              Added guidance issued by MAA to the Defence Sector on EU certification. 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-06T12:31:09.000+01:00">6 August 2019</time>
               Updated the content in line withe latest EU Exit information. 
@@ -287,7 +299,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -306,14 +318,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-3b61ceb3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-e98acc7b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3b61ceb3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e98acc7b" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -326,9 +338,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-3b61ceb3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-e98acc7b" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-3b61ceb3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-e98acc7b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -360,9 +372,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-186fab52" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d3d605be" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-186fab52" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d3d605be" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
