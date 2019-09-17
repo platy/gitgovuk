@@ -1,23 +1,18 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Businesses supplying medicines and medical devices – what to expect on day one of a ‘no deal’ scenario
+    Businesses supplying medicines and medical devices: preparing for Brexit
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    If the UK leaves the EU without a deal, people should be reassured and have confidence in the government’s plans for continuity of medicines supply.
-  </p>
+  <p class="gem-c-lead-paragraph">Guidance for businesses supplying medicines and medical devices about plans for a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -25,11 +20,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 6 February 2019
-    <br></br>Last updated 27 June 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 17 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-of-health-and-social-care">Department of Health and Social Care</a>
+                  <a class="govuk-link" href="/government/organisations/department-of-health-and-social-care">Department of Health and Social Care</a>
                 </span>
             </dd>
         </dl>
@@ -61,143 +56,257 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#medical-devices-and-clinical-consumables" data-track-options="{"dimension29":"Medical devices and clinical consumables"}" href="#medical-devices-and-clinical-consumables">Medical devices and clinical consumables</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#medical-radio-isotopes" data-track-options="{"dimension29":"Medical radio-isotopes"}" href="#medical-radio-isotopes">Medical radio-isotopes</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#actions-for-businesses" data-track-options="{"dimension29":"Actions for businesses"}" href="#actions-for-businesses">Actions for businesses</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#batch-testing-and-clinical-trials" data-track-options="{"dimension29":"Batch testing and clinical trials"}" href="#batch-testing-and-clinical-trials">Batch testing and clinical trials</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#medicines" data-track-options="{"dimension29":"Medicines"}" href="#medicines">Medicines</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#manufacturers-authorisation-licences" data-track-options="{"dimension29":"Manufacturer’s Authorisation licences"}" href="#manufacturers-authorisation-licences">Manufacturer’s Authorisation licences</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#medical-devices-and-clinical-consumables" data-track-options="{"dimension29":"Medical devices and clinical consumables"}" href="#medical-devices-and-clinical-consumables">Medical devices and clinical consumables</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#actions-you-can-take-now" data-track-options="{"dimension29":"Actions you can take now"}" href="#actions-you-can-take-now">Actions you can take now</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#batch-testing-and-clinical-trials" data-track-options="{"dimension29":"Batch testing and clinical trials"}" href="#batch-testing-and-clinical-trials">Batch testing and clinical trials</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#government-actions-to-ensure-supply-continues" data-track-options="{"dimension29":"Government actions to ensure supply continues"}" href="#government-actions-to-ensure-supply-continues">Government actions to ensure supply continues</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#manufacturers-authorisation-licences" data-track-options="{"dimension29":"Manufacturer’s Authorisation licences"}" href="#manufacturers-authorisation-licences">Manufacturer’s Authorisation licences</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#reporting-supply-issues" data-track-options="{"dimension29":"Reporting supply issues"}" href="#reporting-supply-issues">Reporting supply issues</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>If the UK leaves the <abbr title="European Union">EU</abbr> without a deal, people should be reassured and have confidence in the government’s plans for continuity of medicines supply.</p>
+<div class="call-to-action">
+<h2 id="stay-up-to-date">Stay up to date</h2>
+<p>The UK will leave the <abbr title="European Union">EU</abbr> on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
 
-<p>If you’re a pharmaceutical company supplying the UK with medicines from, or through the <abbr title="European Union">EU</abbr> or European Economic Area (<abbr title="European Economic Area">EEA</abbr>), the Department of Health and Social Care (<abbr title="Department of Health and Social Care">DHSC</abbr>) is asking you to make sure you have a minimum of 6 weeks’ additional supply in the UK, over and above your business as usual operational buffer stocks, by 31 October 2019. Read <abbr title="Department of Health and Social Care">DHSC</abbr>’s letter to <a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/735745/brexit-medicines-letter.pdf">pharmaceutical companies</a>.</p>
+<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
+</div>
 
-<p><abbr title="Department of Health and Social Care">DHSC</abbr> has also asked suppliers to indicate how they propose to ensure continuity of supply of their products to the NHS as part of the contingency programme.</p>
+<p>The Department of Health and Social Care (<abbr title="Department of Health and Social Care">DHSC</abbr>) is working with industry on plans to minimise any medical supply disruption following a no-deal Brexit. This guidance summaries that approach. More information about it is in the <a href="https://www.gov.uk/government/publications/medicines-and-medical-products-continuity-of-supply-update">letter to suppliers of medicines and medical products that come to the UK from or through the <abbr title="European Union">EU</abbr>, Iceland, Lichtenstein or Norway</a>.</p>
 
-<p>Since writing to pharmaceutical companies, <abbr title="Department of Health and Social Care">DHSC</abbr> has received good engagement and we know that, as an industry, you share the UK government’s aim of ensuring and maintaining the continued supply of medicines for patients.</p>
+<h2 id="actions-for-businesses">Actions for businesses</h2>
 
-<p>If you’re a pharmaceutical company, <abbr title="Department of Health and Social Care">DHSC</abbr> will continue to work closely with you to ensure that your UK stockpiles of medicines are sufficient to cope with any potential delays at the border that may arise in the short term.</p>
+<p><abbr title="Department of Health and Social Care">DHSC</abbr> is asking companies supplying the UK with medicines or medical products from or through the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein or Norway to include the actions set out here in their Brexit planning. Companies can now determine for themselves the right mix of these actions for their specific situation, to most effectively ensure the continued flow of supplies.</p>
 
-<h2 id="medical-devices-and-clinical-consumables">Medical devices and clinical consumables</h2>
+<h2 id="medicines">Medicines</h2>
 
-<p>The UK will continue to recognise medical devices approved for the <abbr title="European Union">EU</abbr> market – in other words, those that carry a CE mark and, where required, have appropriate certification from an <abbr title="European Union">EU</abbr> notified body.</p>
-
-<p>If you are a supplier of medical devices and clinical consumables, <abbr title="Department of Health and Social Care">DHSC</abbr> is asking you to continue to review your supply chains and assess the implications of a ‘no deal’ scenario upon your product ranges, and the potential contingencies that might be required. <a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/735746/brexit-medical-devices-letter.pdf">Read <abbr title="Department of Health and Social Care">DHSC</abbr>’s letter to suppliers of medical devices and clinical consumables</a>.</p>
-
-<p><abbr title="Department of Health and Social Care">DHSC</abbr> has adopted a contingency planning approach that will help ensure the continued supply of medical devices and clinical consumables in the event of a ‘no deal’ scenario.</p>
-
-<p>As part of that approach, <abbr title="Department of Health and Social Care">DHSC</abbr> has undertaken an analysis of supply chains for medical devices and clinical consumables, identifying those products routinely imported into the UK from other countries in the <abbr title="European Union">EU</abbr>.</p>
-
-<p>One of <abbr title="Department of Health and Social Care">DHSC</abbr>’s contingency measures is to increase stock held at national level, and its NHS Supply Chain colleagues are working with suppliers who import from the <abbr title="European Union">EU</abbr> to establish the action required to achieve this.</p>
-
-<p>In addition, arrangements are being made to facilitate the continued movement of medical devices and clinical consumables that are routinely supplied from other <abbr title="European Union">EU</abbr> countries directly to NHS organisations. In conjunction with representatives from industry and trade associations, <abbr title="Department of Health and Social Care">DHSC</abbr> has set up a working group to test and refine its contingency plans, and the mechanisms by which suppliers will interact with these processes.</p>
-
-<p>Read more about how medicines and medical devices will be regulated in a ‘no deal’ scenario on <a href="https://www.gov.uk/government/publications/how-medicines-medical-devices-and-clinical-trials-would-be-regulated-if-theres-no-brexit-deal/how-medicines-medical-devices-and-clinical-trials-would-be-regulated-if-theres-no-brexit-deal">GOV.UK</a>.</p>
-
-<h2 id="medical-radio-isotopes">Medical radio-isotopes</h2>
-
-<p>The government considers the continuity of supply of medical radio-isotopes to be a high priority matter following UK’s withdrawal from the <abbr title="European Union">EU</abbr> and Euratom. The government’s approach to <a href="https://www.gov.uk/guidance/medicines-supply-contingency-planning-programme">medicine supply contingency planning</a> in the event of a ‘no deal’ <abbr title="European Union">EU</abbr> Exit recognises that there are some products, such as medical radio-isotopes, that have short shelf lives and cannot be stockpiled.</p>
-
-<p>If you’re a supplier of medical radio-isotopes, the government will consider how to support you in making arrangements to avoid any border delays that may arise.</p>
-
-<h2 id="batch-testing-and-clinical-trials">Batch testing and clinical trials</h2>
-
-<p>If the UK leaves the <abbr title="European Union">EU</abbr> without a deal, we will no longer be a member of the European Medicines Agency (<abbr title="European Medicines Agency">EMA</abbr>). We will continue to recognise batch testing of human medicines carried out in:</p>
+<p>Actions for companies supplying the UK with medicines from or through the <a href="https://www.gov.uk/eu-eea"><abbr title="European Union">EU</abbr></a>, Iceland, Liechtenstein or Norway, should, as appropriate, include:</p>
 
 <ul>
   <li>
-<abbr title="European Union">EU</abbr> and <abbr title="European Economic Area">EEA</abbr> states</li>
-  <li>third countries with which the <abbr title="European Union">EU</abbr> has a Mutual Recognition Agreement (MRA)</li>
+    <p>securing capacity for rerouting freight away from Dover and Folkstone after 31 October 2019 – to avoid the disruption expected to follow a no-deal Brexit</p>
+  </li>
+  <li>
+    <p>stockpiling a minimum of 6 weeks’ additional supply in the UK by 31 October – on top of your business-as-usual buffer stocks</p>
+  </li>
+  <li>
+    <p>preparing logistics and supply chains to meet the new customs and border requirement for both importing and exporting - sometimes called ‘trader readiness’</p>
+  </li>
+  <li>
+    <p>ensuring continued supply to the NHS as part of the contingency programme</p>
+  </li>
+  <li>
+    <p>making alternative air freight plans for products with a short shelf-life or where production constraints mean stockpiling is not possible – for example, medical radioisotopes</p>
+  </li>
+  <li>
+    <p>notifying <abbr title="Department of Health and Social Care">DHSC</abbr> of your company’s plans</p>
+  </li>
 </ul>
 
-<p>Read the <a href="https://www.gov.uk/government/publications/list-of-approved-countries-for-authorised-human-medicines-in-a-no-deal-scenario/list-of-approved-countries-for-authorised-human-medicines-on-exit-day#list-of-countries-approved-for-batch-testing"><abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>’s list of countries approved for batch testing after the UK leaves the <abbr title="European Union">EU</abbr></a> for more information.</p>
+<p><abbr title="Department of Health and Social Care">DHSC</abbr> will keep working with companies to ensure that plans will lead to the continuity of medical supplies after Brexit.</p>
 
-<p>Before human medicines can be sold or supplied in the UK, we will continue to require a UK-based Qualified Person (<abbr title="Qualified Person">QP</abbr>) to certify the batch testing, and to ensure compliance with the Marketing Authorisation (<abbr title="Marketing Authorisation">MA</abbr>) and Good Manufacturing Practice (<abbr title="Good Manufacturing Practice">GMP</abbr>) guidelines, if they are:</p>
+<p>To contact <abbr title="Department of Health and Social Care">DHSC</abbr> about planning actions, suppliers can email <a href="mailto:medicinescontingencyplanning@dhsc.gov.uk">medicinescontingencyplanning@dhsc.gov.uk</a>.</p>
+
+<h2 id="medical-devices-and-clinical-consumables">Medical devices and clinical consumables</h2>
+
+<p>In planning for Brexit, companies supplying the UK with medical products from or through the <a href="https://www.gov.uk/eu-eea"><abbr title="European Union">EU</abbr></a>, Iceland, Liechtenstein or Norway should:</p>
 
 <ul>
-  <li>manufactured in the UK</li>
-  <li>manufactured in a third country and directly imported into the UK</li>
+  <li>
+    <p>review supply chains, assess how leaving the <abbr title="European Union">EU</abbr> without a deal would impact product ranges and then make contingency plans</p>
+  </li>
+  <li>
+    <p>read <a href="https://www.gov.uk/government/publications/medicines-and-medical-products-continuity-of-supply-update"><abbr title="Department of Health and Social Care">DHSC</abbr>’s letter to suppliers of medical devices and clinical consumables</a></p>
+  </li>
 </ul>
 
-<p>We will continue to recognise certification, release and assurance of compliance with the <abbr title="Marketing Authorisation">MA</abbr> and with <abbr title="Good Manufacturing Practice">GMP</abbr> guidelines, if conducted by a <abbr title="Qualified Person">QP</abbr> based in <a href="https://www.gov.uk/government/publications/list-of-approved-countries-for-authorised-human-medicines-in-a-no-deal-scenario/list-of-approved-countries-for-authorised-human-medicines-on-exit-day#approved-country-for-import-list">a listed country</a>, for human medicines that are:</p>
+<h2 id="batch-testing-and-clinical-trials">Batch testing and clinical trials</h2>
+
+<h3 id="certification-of-medicines">Certification of medicines</h3>
+
+<p>You must still get a UK-based Qualified Person (<abbr title="Qualified Person">QP</abbr>) to certify the batch testing and ensure compliance with the Marketing Authorisation (<abbr title="Marketing Authorisation">MA</abbr>) and Good Manufacturing Practice (<abbr title="Good Manufacturing Practice">GMP</abbr>) guidelines for any medicines:</p>
 
 <ul>
-  <li>manufactured in a country on the <a href="https://www.gov.uk/government/publications/list-of-approved-countries-for-authorised-human-medicines-in-a-no-deal-scenario/list-of-approved-countries-for-authorised-human-medicines-on-exit-day#approved-country-for-import-list"><abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>’s approved country for import list</a> that have the relevant <abbr title="Qualified Person">QP</abbr> certification</li>
-  <li>manufactured in a third country, but imported into the UK from a country on the <a href="https://www.gov.uk/government/publications/list-of-approved-countries-for-authorised-human-medicines-in-a-no-deal-scenario/list-of-approved-countries-for-authorised-human-medicines-on-exit-day#approved-country-for-import-list"><abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>’s approved country for import list</a>, after <abbr title="Qualified Person">QP</abbr> certification in one of these countries</li>
+  <li>
+    <p>manufactured in the UK</p>
+  </li>
+  <li>
+    <p>manufactured in a third country and directly imported into the UK (a third country is one with which we do not have any reciprocal arrangements)</p>
+  </li>
+</ul>
+
+<p>A <abbr title="Qualified Person">QP</abbr> based in a <a href="https://www.gov.uk/government/publications/list-of-approved-countries-for-authorised-human-medicines-in-a-no-deal-scenario/list-of-approved-countries-for-authorised-human-medicines-on-exit-day#approved-country-for-import-list">country approved for import</a> can still certify, release and assure compliance with the <abbr title="Marketing Authorisation">MA</abbr> and <abbr title="Good Manufacturing Practice">GMP</abbr> guidelines for any medicines:</p>
+
+<ul>
+  <li>
+    <p>manufactured in a country on the <a href="https://www.gov.uk/government/publications/list-of-approved-countries-for-authorised-human-medicines-in-a-no-deal-scenario/list-of-approved-countries-for-authorised-human-medicines-on-exit-day#approved-country-for-import-list"><abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>’s approved country for import list</a></p>
+  </li>
+  <li>
+    <p>manufactured in a third country but imported into the UK from a country on the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>’s approved country for import list</p>
+  </li>
 </ul>
 
 <p>This won’t require any further certification.</p>
 
-<p>These arrangements will continue until the government considers any further change is necessary. We are committed to working with industry ahead of any changes to these arrangements that might impact supply chains and manufacturing processes. We’ll give at least 2 years’ notice of the introduction of any changes, to allow industry to fully prepare for their implementation.</p>
+<p>These arrangements will continue until the government thinks any further change is necessary. We’ll work with industry ahead of any changes that might impact suppliers. We’ll give at least 2 years’ notice of any changes to allow industry to fully prepare.</p>
 
-<h3 id="investigational-medicinal-products-imps-supplies-for-clinical-trials">Investigational Medicinal Products (<abbr title="Investigational Medicinal Products">IMPs</abbr>) supplies for clinical trials</h3>
+<h3 id="supplies-for-clinical-trials-including-investigational-medicinal-products-imps">Supplies for clinical trials, including Investigational Medicinal Products (<abbr title="Investigational Medicinal Products">IMPs</abbr>)</h3>
 
-<p>If you’re an organisation running clinical trials in the UK, <abbr title="Department of Health and Social Care">DHSC</abbr> encourages you to consider your supply chains for Investigational Medicinal Products (<abbr title="Investigational Medicinal Products">IMPs</abbr>) – medicines used in medical trials – in the event of a no-deal scenario.</p>
+<p>Sponsors of clinical trials or investigations running in the UK should:</p>
 
-<p>The UK will continue to accept batch testing and <abbr title="Qualified Person">QP</abbr> certification of <abbr title="Investigational Medicinal Products">IMPs</abbr> manufactured in <abbr title="European Union">EU</abbr> and <abbr title="European Economic Area">EEA</abbr> states.</p>
+<p>•	review supply chains</p>
 
-<p>There will be no change to the current arrangements for batch testing of <abbr title="Investigational Medicinal Products">IMPs</abbr> manufactured in third countries.</p>
+<p>•	put in place any necessary arrangements to assure supplies after Brexit</p>
 
-<p>Read more about <a href="https://www.gov.uk/government/publications/guidance-on-importation-of-investigational-medicinal-products-from-approval-countries/importing-investigational-medicinal-products-imp-from-eea-to-uk">importing investigational medicinal products if the UK leaves the <abbr title="European Union">EU</abbr> without a deal</a>.</p>
+<p>This includes supply chains relating to Investigational Medicinal Products (<abbr title="Investigational Medicinal Products">IMPs</abbr>), as well as in-vitro diagnostic and other medical devices, advanced therapy medicinal products, radioisotopes and other clinical consumables.</p>
+
+<h2 id="government-actions-to-ensure-supply-continues">Government actions to ensure supply continues</h2>
+
+<h3 id="summary-of-government-actions">Summary of government actions</h3>
+
+<p>In preparation for Brexit, the UK government is:</p>
+
+<ul>
+  <li>
+    <p>supporting suppliers to secure alternative supply routes (away from the Dover and Folkestone crossings, where delays are expected)</p>
+  </li>
+  <li>
+    <p>encouraging buffer stocks and stockpiling (where this is practical) or asking industry or NHS Supply Chain to build up buffer stocks in the UK</p>
+  </li>
+  <li>
+    <p>adding to normal shortage management procedures, enabling ministers to issue serious shortage protocols to pharmacists</p>
+  </li>
+  <li>
+    <p>securing additional warehouse space for stockpiled medicines, including ambient, refrigerated and controlled drug storage</p>
+  </li>
+  <li>
+    <p>working with industry to improve trader readiness in preparation for the new customs procedures that will come into force on day 1 of a no-deal Brexit</p>
+  </li>
+  <li>
+    <p>changing or clarifying regulatory requirements so that companies can continue to sell their products in the UK</p>
+  </li>
+</ul>
+
+<p><abbr title="Department of Health and Social Care">DHSC</abbr> is working on these plans with trade bodies, product suppliers and the health and care system in England. <abbr title="Department of Health and Social Care">DHSC</abbr> is doing this in consultation with the devolved administrations (DAs). The DAs have also been working closely on Brexit planning with their health and social care systems.</p>
+
+<p>People can be reassured by the government’s plans for continued supply to the whole of the UK, Jersey, Guernsey and the Isle of Man following Brexit.</p>
+
+<h3 id="re-routing-supplies">Re-routing supplies</h3>
+
+<p><abbr title="Department of Health and Social Care">DHSC</abbr> is procuring an express freight service able to deliver small batches within 24 hours and a 2 to 4-day pallet delivery service.</p>
+
+<p>The Department for Transport is procuring roll-on, roll-off freight capacity on which medicines and medical products would be prioritised.</p>
+
+<h3 id="medical-devices-and-clinical-consumables-1">Medical devices and clinical consumables</h3>
+
+<p>Part of <abbr title="Department of Health and Social Care">DHSC</abbr>’s contingency planning involved analysing the supply chains of medical devices and clinical consumables. This identified the products routinely imported into the UK from other countries in the <a href="https://www.gov.uk/eu-eea"><abbr title="European Union">EU</abbr></a>.</p>
+
+<p>NHS Supply Chain colleagues are now working with suppliers who import from the <abbr title="European Union">EU</abbr> to increase stock held at national level.</p>
+
+<p><abbr title="Department of Health and Social Care">DHSC</abbr> is also facilitating the continued movement of products that go directly to NHS organisations from other <abbr title="European Union">EU</abbr> countries.</p>
+
+<p><abbr title="Department of Health and Social Care">DHSC</abbr> has set up a working group to test and refine its contingency plans and how suppliers will interact with these processes.</p>
+
+<h3 id="batch-testing-and-clinical-trials-1">Batch testing and clinical trials</h3>
+
+<h4 id="certification-of-medicines-1">Certification of medicines</h4>
+
+<p>Without a deal, after Brexit, the UK will no longer be a member of the European Medicines Agency (<abbr title="European Medicines Agency">EMA</abbr>).</p>
+
+<p>We will continue to recognise batch testing of human medicines carried out in:</p>
+
+<ul>
+  <li>
+    <p>the <a href="https://www.gov.uk/eu-eea"><abbr title="European Union">EU</abbr></a>, Iceland, Lichtenstein and Norway</p>
+  </li>
+  <li>
+    <p>third countries with which the <abbr title="European Union">EU</abbr> has a Mutual Recognition Agreement</p>
+  </li>
+</ul>
+
+<p>For more information, read the <a href="https://www.gov.uk/government/publications/list-of-approved-countries-for-authorised-human-medicines-in-a-no-deal-scenario/list-of-approved-countries-for-authorised-human-medicines-on-exit-day#list-of-countries-approved-for-batch-testing">list of countries approved for batch testing after the UK leaves the <abbr title="European Union">EU</abbr></a> by the Medicines and Healthcare products Regulatory Agency (<abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>).</p>
+
+<h4 id="supplies-for-clinical-trials-including-investigational-medicinal-products-imps-1">Supplies for clinical trials, including Investigational Medicinal Products (<abbr title="Investigational Medicinal Products">IMPs</abbr>)</h4>
+
+<p>The UK will continue to accept batch testing and <abbr title="Qualified Person">QP</abbr> certification of <abbr title="Investigational Medicinal Products">IMPs</abbr> manufactured in the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein and Norway.</p>
+
+<p>There will be no change to the current arrangements for batch testing of <abbr title="Investigational Medicinal Products">IMPs</abbr> manufactured in third countries subject to UK oversight, as set out in the <a href="https://www.gov.uk/government/publications/guidance-on-importation-of-investigational-medicinal-products-from-approval-countries/importing-investigational-medicinal-products-imp-from-eea-to-uk">guidance about importing investigational medicinal products if the UK leaves the <abbr title="European Union">EU</abbr> without a deal</a>.</p>
+
+<p>Read more about <a href="https://www.gov.uk/government/publications/further-guidance-note-on-the-regulation-of-medicines-medical-devices-and-clinical-trials-if-theres-no-brexit-deal/further-guidance-note-on-the-regulation-of-medicines-medical-devices-and-clinical-trials-if-theres-no-brexit-deal">the regulation of medicines, medical devices and clinical trials in a no-deal Brexit</a>.</p>
 
 <h2 id="manufacturers-authorisation-licences">Manufacturer’s Authorisation licences</h2>
 
-<p>Currently there are 2 Manufacturer’s Authorisation (<abbr title="Manufacturer’s Authorisation">MIA</abbr>) licences, issued by the Medicines and Healthcare products Regulatory Agency (<abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>), that relate to importing licensed medicines into the UK. These are:</p>
+<p>Currently there are 2 Manufacturer’s Authorisation licences issued by the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> for importing licensed medicines into the UK: manufacturer and wholesaler. These would remain the same should the UK leave the <abbr title="European Union">EU</abbr> without a deal.</p>
 
 <h3 id="manufacturer-licences">Manufacturer licences</h3>
 
-<p>To qualify for a manufacturer licence to make, assemble or import human medicines, you need to show the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> that you comply with <abbr title="European Union">EU</abbr> good manufacturing practice and pass regular inspections of your site.</p>
+<p>To qualify for a manufacturer licence to make, assemble or import human medicines, you must show the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> that you comply with <abbr title="European Union">EU</abbr> good manufacturing practice and pass regular inspections of your site.</p>
 
 <h3 id="wholesaler-licences">Wholesaler licences</h3>
 
-<p>To sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence – also known as a wholesale dealer licence or wholesale distribution authorisation. To qualify, you must comply with good distribution practice and pass regular inspections of your site.</p>
+<p>To sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence. This is also known as a wholesale dealer licence or wholesale distribution authorisation. To qualify, you must comply with good distribution practice and pass regular inspections of your site.</p>
 
-<p>The <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> has launched a consultation on the implications of a ‘no deal’ scenario for these licences, as this would mean <abbr title="European Union">EU</abbr>/<abbr title="European Economic Area">EEA</abbr>-based operations would be considered to be within a third country. The <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> has been clear that they will work pragmatically with suppliers to ensure medicines adhere to appropriate regulatory safety standards in a ‘no deal’ scenario.</p>
+<p>Read more about <a href="https://www.gov.uk/government/publications/importing-medicines-from-an-eea-state-which-is-on-an-approved-country-for-import-list">importing medicinal products from the <abbr title="European Union">EU</abbr>, Iceland, Lichtenstein or Norway if the UK leaves the <abbr title="European Union">EU</abbr> without a deal</a>.</p>
 
-<h2 id="actions-you-can-take-now">Actions you can take now</h2>
+<h2 id="reporting-supply-issues">Reporting supply issues</h2>
 
-<ol>
-  <li>If you’re a pharmaceutical company supplying the UK with medicines from, or via, the <abbr title="European Union">EU</abbr> or European Economic Area (<abbr title="European Economic Area">EEA</abbr>), you should make sure you have a minimum of 6 weeks’ additional supply in the UK, over and above your business as usual operational buffer stocks, by 31 October 2019.</li>
-  <li>If you are a supplier of medical devices and clinical consumables, you should review your supply chains and assess the implications of a ‘no deal’ scenario upon your product ranges, and the potential contingencies that might be required.</li>
-  <li>If you’re an organisation running clinical trials in the UK, you should consider your supply chains for Investigational Medicinal Products (<abbr title="Investigational Medicinal Products">IMPs</abbr>) in the event of a ‘no deal’ scenario.</li>
-  <li>Read the government’s technical notice on <a href="https://www.gov.uk/government/publications/how-medicines-medical-devices-and-clinical-trials-would-be-regulated-if-theres-no-brexit-deal/how-medicines-medical-devices-and-clinical-trials-would-be-regulated-if-theres-no-brexit-deal">how medicines, medical devices and clinical trials would be regulated if there’s no Brexit deal</a>.</li>
-  <li>Read the government’s technical notice on <a href="https://www.gov.uk/government/publications/submitting-regulatory-information-on-medical-products-if-theres-no-brexit-deal">submitting regulatory information on medical products if there’s no Brexit deal</a>.</li>
-  <li>Read details of the government’s <a href="https://www.gov.uk/guidance/medicines-supply-contingency-planning-programme">Medicines Supply Contingency Planning Programme</a>.</li>
-  <li>The passport rules for travel to most countries in Europe will change if the UK leaves the <abbr title="European Union">EU</abbr> without a deal. Read the government’s guidance on <a href="https://www.gov.uk/government/publications/travelling-to-the-eu-with-a-uk-passport-if-theres-no-brexit-deal">Travelling to the <abbr title="European Union">EU</abbr> with a UK passport if there’s no Brexit deal</a> and, if relevant, ensure your employees and customers are aware of the potential changes.</li>
-  <li>Stay up-to-date with these changes by <a rel="external" href="https://public.govdelivery.com/accounts/UKHMRCED/subscriber/new?preferences=true#tab1">registering for email alerts</a>. Follow the link, add your email address, select ‘submit’, select ‘Add subscription’ and choose ‘<abbr title="European Union">EU</abbr> Exit’ then select ‘Submit’.</li>
-</ol>
+<p>Continue to <a href="https://www.gov.uk/government/publications/reporting-requirements-for-medicine-shortages-and-discontinuations">alert the <abbr title="Department of Health and Social Care">DHSC</abbr>’s medicine supply team of any supply problems</a> as soon as possible.</p>
+
+<p>After <abbr title="European Union">EU</abbr> exit day, if you experience disruption to your supplies or you feel there is potential for disruption and usual procedures can’t resolve the matter, you can report it to National Supply Disruption Response (NSDR). NSDR has been set up to support the management of supply disruption.</p>
+
+<p>Contact details for the NSDR will be shared with suppliers before the UK leaves the <abbr title="European Union">EU</abbr>.</p>
+
+<p>You can report the issue to NSDR whether the disruption is related to Brexit or not.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 6 February 2019
-    <br></br>Last updated 27 June 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 17 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-17T16:51:19.000+01:00">17 September 2019</time>
+              Updated with information on the more flexible approach suppliers can now take to help ensure the continuity of medical supplies following Brexit. It is a summary of the advice in the government's 26 June 2019 letter to suppliers, presented as actionable guidance.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-27T17:54:20.000+01:00">27 June 2019</time>
               Updated 'Batch testing and clinical trials' section to include content published previously on the guidance page 'Batch testing medicines if there's no Brexit deal’ about human medicines imported to the UK, and human medicines manufactured in a country on the MHRA’s Qualified Person list. Also added information on the continuation of these arrangements.
@@ -214,7 +323,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -233,20 +342,34 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-569890c7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-236b1265" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-569890c7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-236b1265" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find EU Exit guidance for your business"}" href="/find-eu-exit-guidance-business">Find EU Exit guidance for your business</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-236b1265" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-236b1265" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/planning-for-a-possible-no-deal-eu-exit-information-for-the-health-and-care-sector" data-track-options="{"dimension28":"1","dimension29":"Planning for a no-deal Brexit: information for the health and care sector"}" href="/government/collections/planning-for-a-possible-no-deal-eu-exit-information-for-the-health-and-care-sector">Planning for a no-deal Brexit: information for the health and care sector</a></li>
 
   </ul>
 </nav>
@@ -272,16 +395,16 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a20c9bfd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-814ebd0e" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a20c9bfd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-814ebd0e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"3","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/business-and-industry" data-track-options="{"dimension28":"3","dimension29":"Business and industry"}" href="/business-and-industry">Business and industry</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/health-and-social-care/medicines-medical-devices-blood" data-track-options="{"dimension28":"3","dimension29":"Medicines, medical devices"}" href="/health-and-social-care/medicines-medical-devices-blood">Medicines, medical devices</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/business-and-industry" data-track-options="{"dimension28":"3","dimension29":"Business and industry"}" href="/business-and-industry">Business and industry</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/health-and-social-care/medicines-medical-devices-blood" data-track-options="{"dimension28":"3","dimension29":"Medicines, medical devices"}" href="/health-and-social-care/medicines-medical-devices-blood">Medicines, medical devices</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"3","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
