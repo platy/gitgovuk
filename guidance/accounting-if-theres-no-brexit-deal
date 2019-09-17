@@ -1,23 +1,18 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Accounting if there's no Brexit deal
+    Accounting for UK companies after Brexit
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How companies can comply with UK accounting and reporting requirements after the UK leaves the EU.
-  </p>
+  <p class="gem-c-lead-paragraph">How companies incorporated in the UK, or where the parent company is incorporated in the UK, can comply with UK accounting and reporting requirements after Brexit.</p>
 
   </div>
 </div>
@@ -25,9 +20,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 24 May 2019
+    <br></br>Last updated 17 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -37,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a>
                 </span>
             </dd>
         </dl>
@@ -59,158 +56,146 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#actions-for-uk-incorporated-companies-and-groups" data-track-options="{"dimension29":"Actions for UK incorporated companies and groups"}" href="#actions-for-uk-incorporated-companies-and-groups">Actions for UK incorporated companies and groups</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#actions-for-eea-companies-and-groups" data-track-options="{"dimension29":"Actions for EEA companies and groups"}" href="#actions-for-eea-companies-and-groups">Actions for EEA companies and groups</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#preparing-annual-accounts" data-track-options="{"dimension29":"Preparing annual accounts"}" href="#preparing-annual-accounts">Preparing annual accounts</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#further-information" data-track-options="{"dimension29":"Further information"}" href="#further-information">Further information</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#uk-public-companies-with-a-uk-listing" data-track-options="{"dimension29":"UK public companies with a UK listing"}" href="#uk-public-companies-with-a-uk-listing">UK public companies with a UK listing</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#uk-public-companies-with-an-eea-listing" data-track-options="{"dimension29":"UK public companies with an EEA listing"}" href="#uk-public-companies-with-an-eea-listing">UK public companies with an EEA listing</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#audit-committees" data-track-options="{"dimension29":"Audit committees"}" href="#audit-committees">Audit committees</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#appointing-auditors" data-track-options="{"dimension29":"Appointing auditors"}" href="#appointing-auditors">Appointing auditors</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#accounting-for-eea-companies-in-the-uk" data-track-options="{"dimension29":"Accounting for EEA companies in the UK"}" href="#accounting-for-eea-companies-in-the-uk">Accounting for EEA companies in the UK</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>If the UK leaves the EU without a deal, there will be some changes to the UK’s corporate reporting regime. These changes will affect a small number of companies.</p>
+<div class="call-to-action">
+<h2 id="stay-up-to-date">Stay up to date</h2>
 
-<h2 id="actions-for-uk-incorporated-companies-and-groups">Actions for UK incorporated companies and groups</h2>
+<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
 
-<p>The following information is for individual companies incorporated in the UK or groups of companies where the parent company is incorporated in the UK.</p>
+<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
+</div>
 
-<ul>
-  <li><a href="#uk-ias">Preparing annual accounts using International Accounting Standards (<abbr title="international accounting standards">IAS</abbr>)</a></li>
-  <li><a href="#uk-cross-border">Operating as a UK group company with cross-border presence in the <abbr title="European Economic Area ">EEA</abbr></a></li>
-  <li><a href="#uk-public-company-uk">Operating as a UK public company with securities listed in the UK</a></li>
-  <li><a href="#uk-public-company-eea">Operating as a UK public company with securities listed in the <abbr title="European Economic Area ">EEA</abbr></a></li>
-  <li><a href="#uk-audit-committees">Audit committees</a></li>
-  <li><a href="#uk-appointing-auditors">Appointing auditors</a></li>
-</ul>
+<p>There will be changes to the UK’s corporate reporting regime after the UK leaves the EU. These changes will affect a small number of companies.</p>
 
-<h3 id="preparing-annual-accounts-using-international-accounting-standards-ias">Preparing annual accounts using international accounting standards (<abbr title="international accounting standards">IAS</abbr>)</h3>
+<h2 id="preparing-annual-accounts">Preparing annual accounts</h2>
 
-<p id="uk-ias">You will need to use ‘UK-adopted <abbr title="international accounting standards">IAS</abbr>’ rather than ‘EU-adopted <abbr title="international accounting standards">IAS</abbr>’ for financial years beginning after 31 October 2019.</p>
+<p>All companies will need to use ‘UK adopted <abbr title="international accounting standards">IAS</abbr>’ instead of ‘EU adopted <abbr title="international accounting standards">IAS</abbr>’ for financial years beginning after the UK leaves the EU. Both sets of standards will be the same on the day the UK leaves the EU. There may be differences later if the UK adopts or amends standards and the EU does not.</p>
 
-<p id="uk-cross-border">You can continue to use EU-adopted <abbr title="international accounting standards">IAS</abbr> when preparing your accounts for financial years beginning on or before 31 October 2019 but ending after that date.</p>
+<p>You can continue to use EU adopted <abbr title="international accounting standards">IAS</abbr> when preparing your accounts for financial years beginning on or before the day the UK leaves the EU.</p>
 
-<h3 id="operating-as-a-uk-company-with-cross-border-presence-in-the-eea">Operating as a UK company with cross-border presence in the <abbr title="European Economic Area ">EEA</abbr>
+<p>Some types of companies will need to take further action after the UK leaves the EU.</p>
+
+<h3 id="uk-incorporated-parent-companies">UK incorporated parent companies</h3>
+
+<p>UK incorporated parent companies with a subsidiary in the <a href="https://www.gov.uk/eu-eea"><abbr title="European Economic Area ">EEA</abbr></a> need to check the reporting requirements in the country where the subsidiary is based.</p>
+
+<h3 id="uk-companies-with-a-presence-in-the-eea">UK companies with a presence in the <abbr title="European Economic Area ">EEA</abbr>
 </h3>
 
-<p>The corporate reporting requirements of the UK’s Companies Act 2006 will not be deemed automatically equivalent to the EU’s Accounting Directive. This means UK reporting requirements (such as <abbr title="Generally Accepted Accounting Practice in the UK">UK GAAP</abbr>) may no longer be considered equivalent to the reporting requirements of <a href="https://www.gov.uk/eu-eea"><abbr title="European Economic Area ">EEA</abbr> countries</a>.</p>
+<p>UK companies with a presence in an <abbr title="European Economic Area ">EEA</abbr> country - for example, a branch - need to check the reporting requirements in that country.</p>
 
-<p>If you are a UK incorporated parent company with a subsidiary based in the <abbr title="European Economic Area ">EEA</abbr> you need to check the relevant reporting requirements in the <abbr title="European Economic Area ">EEA</abbr> state where the subsidiary is based.</p>
+<h2 id="uk-public-companies-with-a-uk-listing">UK public companies with a UK listing</h2>
 
-<p id="uk-public-company-uk">If you are a UK company with an <abbr title="European Economic Area ">EEA</abbr> presence, for example, a branch, you will also need to check the relevant reporting requirements in the <abbr title="European Economic Area ">EEA</abbr> state where you have a presence.</p>
+<p>The way companies raise capital and trade securities on a regulated market will change.</p>
 
-<h3 id="operating-as-a-uk-public-company-with-uk-listing">Operating as a UK public company with UK listing</h3>
+<p>UK incorporated groups with securities admitted to trading on a UK regulated market will need to prepare accounts using UK adopted <abbr title="international accounting standards">IAS</abbr> for all accounting periods beginning the day after the UK leaves the EU.</p>
 
-<p>Accounting-related changes in the Transparency Directive (<abbr title="Transparency Directive">TD</abbr>) and Prospectus Directive (<abbr title="Prospectus Directive">PD</abbr>) framework, will affect the way companies raise capital and obtain or continue to trade securities on a regulated market.</p>
+<p>They can use EU adopted <abbr title="international accounting standards">IAS</abbr> for accounting periods starting before the UK leaves the EU. They will not need to restate these accounts after the UK leaves the EU.</p>
 
-<p>UK incorporated groups with securities admitted to trading on a UK regulated market will be required to:</p>
+<h2 id="uk-public-companies-with-an-eea-listing">UK public companies with an <abbr title="European Economic Area ">EEA</abbr> listing</h2>
 
-<ul>
-  <li>continue to use accounts prepared using EU-adopted <abbr title="international accounting standards">IAS</abbr> for all accounting periods starting before 31 October 2019 for the <abbr title="Transparency Directive">TD</abbr> and <abbr title="Prospectus Directive">PD</abbr> – you won’t need to restate those accounts or filings retrospectively</li>
-  <li>prepare accounts using UK-adopted <abbr title="international accounting standards">IAS</abbr> for all accounting periods beginning after exit day</li>
-</ul>
-
-<h3 id="operating-as-a-uk-public-company-with-eea-listing">Operating as a UK public company with <abbr title="European Economic Area ">EEA</abbr> listing</h3>
-
-<p id="uk-public-company-eea">UK incorporated groups that issue debt from a subsidiary incorporated in the EU that is admitted to trading on an EU regulated market, or itself maintains an admission to trading within the EU will need to ensure it continues to:</p>
+<p>UK incorporated groups that issue debt from a subsidiary incorporated in the EU will need to do both of the following:</p>
 
 <ul>
-  <li>comply with EU local regulatory provisions; this may include the need to publish accounts using EU-adopted <abbr title="international accounting standards">IAS</abbr> or <abbr title="international accounting standards">IAS</abbr> as issued by the International Accounting Standards Board for the subsidiary, for the parent company or for the whole group for listing in the EU</li>
-  <li>produce accounts in accordance with the UK Companies Act 2006 for domestic filing purposes</li>
+  <li>comply with the rules of the country where the subsidiary is based</li>
+  <li>produce accounts that comply with the UK Companies Act 2006</li>
 </ul>
 
-<h3 id="audit-committees">Audit committees</h3>
+<h2 id="audit-committees">Audit committees</h2>
 
-<p id="uk-audit-committees">All UK Public Interest Entities (banks, building societies, insurers and issuers of securities that trade on UK regulated markets) will still be subject to the Disclosure and Transparency Rules issued by the Financial Conduct Authority (<abbr title="Financial Conduct Authority">FCA</abbr>), and other rules issued by the Prudential Regulation Authority (<abbr title="Prudential Regulation Authority">PRA</abbr>).</p>
-
-<p>This requirement originates from the Audit Directive and  will still apply subject to 2 important changes:</p>
-
-<ol>
-  <li>UK issuers of shares or debt securities that are only admitted to trading on <abbr title="European Economic Area ">EEA</abbr> regulated markets will no longer be subject to this framework.</li>
-  <li>The current exemption for those businesses with a parent that is also subject to the same Audit Directive requirement will only to apply but only where the parent is incorporated in the UK. For subsidiaries that are issuers of securities on UK regulated markets the parent may be subject either to the <abbr title="Financial Conduct Authority">FCA</abbr>’s or the <abbr title="Prudential Regulation Authority">PRA</abbr>’s rules. However, for subsidiaries that are banks or insurers and qualify under the more limited exemption provided by the <abbr title="Prudential Regulation Authority">PRA</abbr>, the parent must be subject to the <abbr title="Prudential Regulation Authority">PRA</abbr>’s rules.</li>
-</ol>
-
-<h3 id="appointing-auditors">Appointing auditors</h3>
-
-<p id="uk-appointing-auditors">If you are a UK company, you will still need to appoint a UK registered audit firm. It will then be for an individual UK registered auditor to sign the audit report on behalf of the firm when it is due.</p>
-
-<p>However, some rules relating to approving individuals and firms for registration as auditors will change. To find out more read the <a href="https://www.gov.uk/guidance/auditing-if-theres-no-brexit-deal">guidance on auditing if there’s no Brexit deal</a>.</p>
-
-<h2 id="actions-for-eea-companies-and-groups">Actions for <abbr title="European Economic Area ">EEA</abbr> companies and groups</h2>
-
-<p>The following information is for individual companies incorporated in the <abbr title="European Economic Area ">EEA</abbr> or groups of companies where the holding company is incorporated in the <abbr title="European Economic Area ">EEA</abbr> with some cross-border presence or listings in the UK.</p>
+<p>All UK public interest entities (banks, building societies, insurers and issuers of securities that trade on UK regulated markets) will have to follow:</p>
 
 <ul>
-  <li><a href="#eea-cross-border">Operating as an <abbr title="European Economic Area ">EEA</abbr> company and group with cross-border presence in the UK</a></li>
-  <li><a href="#uk-public-company-eea">Operating as an <abbr title="European Economic Area ">EEA</abbr> public company with securities listed in the UK</a></li>
-  <li><a href="#eea-company-uk-auditors"><abbr title="European Economic Area ">EEA</abbr> companies and groups with an <abbr title="European Economic Area ">EEA</abbr> auditor with securities listed in the UK</a></li>
+  <li>Disclosure and Transparency Rules issued by the Financial Conduct Authority (<abbr title="Financial Conduct Authority">FCA</abbr>)</li>
+  <li>rules issued by the Prudential Regulation Authority (<abbr title="Prudential Regulation Authority">PRA</abbr>)</li>
 </ul>
 
-<h3 id="operating-as-an-eea-company-and-group-with-cross-border-presence-in-the-uk">Operating as an <abbr title="European Economic Area ">EEA</abbr> company and group with cross-border presence in the UK</h3>
+<h3 id="changes-to-the-audit-directive">Changes to the Audit Directive</h3>
 
-<p id="eea-cross-border">After the UK leaves the EU, <abbr title="European Economic Area ">EEA</abbr> companies with a UK incorporated subsidiary won’t be eligible for certain exemptions from preparing and filing accounts.</p>
+<p>UK issuers of shares or debt securities that are only admitted to trading on <abbr title="European Economic Area ">EEA</abbr> regulated markets will no longer be subject to this framework.</p>
 
-<p>For example, an intermediate UK parent company with an immediate <abbr title="European Economic Area ">EEA</abbr> parent may no longer be exempt from producing group accounts. These companies may need to prepare group accounts and file them with Companies House, in accordance with the Companies Act 2006.</p>
+<p>The Audit Directive requirement will still apply to companies with a parent company incorporated in the UK.</p>
 
-<p>In addition, UK registered dormant companies with <abbr title="European Economic Area ">EEA</abbr> parents will be required to prepare individual annual accounts for accounting periods beginning after 31 October 2019 and file these with Companies House.</p>
+<p>For subsidiaries that are issuers of securities on UK regulated markets, the parent company may be subject either to the <abbr title="Financial Conduct Authority">FCA</abbr> or the <abbr title="Prudential Regulation Authority">PRA</abbr> rules.</p>
 
-<p>Other exemptions that will be removed for financial periods beginning after 31 October 2019 relate to exemption from producing the non-financial information statements and alteration of accounting reference dates.</p>
+<p>For subsidiaries that are banks or insurers and qualify under the more limited exemption provided by the <abbr title="Prudential Regulation Authority">PRA</abbr>, the parent must be subject to the <abbr title="Prudential Regulation Authority">PRA</abbr> rules.</p>
 
-<p>Check the latest Companies Act requirements and familiarise yourself with the changes explained in the:</p>
+<h2 id="appointing-auditors">Appointing auditors</h2>
 
-<ul>
-  <li><a rel="external" href="http://www.legislation.gov.uk/uksi/2019/145/memorandum/contents">The Accounts and Reports (Amendment)(EU Exit) Regulations 2019 explanatory memorandum</a></li>
-  <li><a rel="external" href="http://www.legislation.gov.uk/uksi/2019/685/memorandum/contents">The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 explanatory memorandum</a></li>
-</ul>
+<p>UK companies will need to appoint a UK registered audit firm. An individual UK registered auditor will need to sign the audit report on behalf of the firm.</p>
 
-<h3 id="operating-as-an-eea-public-company-with-uk-listing">Operating as an <abbr title="European Economic Area ">EEA</abbr> public company with UK listing</h3>
+<p>Some rules relating to approving individuals and firms for registration as auditors will change. Find out more about <a href="https://www.gov.uk/guidance/auditing-if-theres-no-brexit-deal">auditing after Brexit</a>.</p>
 
-<p id="uk-public-company-eea">If you are an EU incorporated group that issues debt or any other securities, which are admitted to trading on a UK market, you will continue to be able to use accounts prepared in accordance with EU-adopted <abbr title="international accounting standards">IAS</abbr> under the UK <abbr title="Transparency Directive">TD</abbr> and <abbr title="Prospectus Directive">PD</abbr>.</p>
+<h2 id="accounting-for-eea-companies-in-the-uk">Accounting for <abbr title="European Economic Area ">EEA</abbr> companies in the UK</h2>
 
-<h3 id="auditing-eea-companies-that-issue-securities-that-are-admitted-to-trading-on-a-uk-regulated-market">Auditing <abbr title="European Economic Area ">EEA</abbr> companies that issue securities that are admitted to trading on a UK regulated market</h3>
-
-<p><abbr title="European Economic Area ">EEA</abbr> companies that issue securities that are admitted to trading on a UK regulated market will need to:</p>
-
-<ul>
-  <li>make sure that their <abbr title="European Economic Area ">EEA</abbr> auditor is registered either as a statutory auditor in the UK, or as a third country auditor on the register maintained by the Financial Reporting Council (FRC)</li>
-</ul>
-
-<p>This will apply for all accounting years beginning on or after 31 October 2019.</p>
-
-<h3 id="eea-companies-that-are-audited-by-uk-auditors-and-audit-firms-that-are-also-registered-as-auditors-in-eea-states">
-<abbr title="European Economic Area ">EEA</abbr> companies that are audited by UK auditors and audit firms that are also registered as auditors in <abbr title="European Economic Area ">EEA</abbr> States</h3>
-
-<p id="eea-company-uk-auditors">It is possible that UK auditors’ and audit firms’ existing registrations as <abbr title="European Economic Area ">EEA</abbr> auditors and audit firms will not be valid. If you are an <abbr title="European Economic Area ">EEA</abbr> company and think you could be affected, discuss this with your auditor so they can consult the relevant <abbr title="European Economic Area ">EEA</abbr> country’s competent authority.</p>
-
-<h2 id="further-information">Further information</h2>
-
-<p><a href="https://www.gov.uk/government/publications/accounting-and-audit-if-theres-no-brexit-deal-letters-to-the-sector">Accounting and Audit if there’s no Brexit deal: letters to the sector</a></p>
+<p>Find out what you need to do if you’re an <a href="https://www.gov.uk/guidance/accounting-for-eea-organisations-after-brexit"><abbr title="European Economic Area ">EEA</abbr> company working the UK</a>.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates ">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 24 May 2019
+    <br></br>Last updated 17 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-17T17:07:22.000+01:00">17 September 2019</time>
+              Increased visibility of calls to action. Removed information about what EEA companies need to do after Brexit. This information has been moved to a new guide.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-24T11:00:00.000+01:00">24 May 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -227,6 +212,42 @@
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-efcdb676" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-efcdb676" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-efcdb676" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-efcdb676" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/auditing-if-theres-no-brexit-deal" data-track-options="{"dimension28":"2","dimension29":"Auditing if there's a no-deal Brexit"}" href="/guidance/auditing-if-theres-no-brexit-deal">Auditing if there's a no-deal Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/providing-services-to-any-country-in-the-eu-iceland-liechtenstein-norway-or-switzerland-after-eu-exit" data-track-options="{"dimension28":"2","dimension29":"Providing services to any country in the EU, Iceland, Liechtenstein, Norway or Switzerland after Brexit"}" href="/guidance/providing-services-to-any-country-in-the-eu-iceland-liechtenstein-norway-or-switzerland-after-eu-exit">Providing services to any country in the EU, Iceland, Liechtenstein, Norway or Switzerland after Brexit</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -247,9 +268,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8fd432fc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-020d88f2" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8fd432fc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-020d88f2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
