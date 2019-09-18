@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    What you need to know about the regulation of medical devices in the UK if we leave the EU with no deal. 
-  </p>
+  <p class="gem-c-lead-paragraph">What you need to know about the regulation of medical devices in the UK if we leave the EU with no deal. </p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 26 February 2019
-    <br></br>Last updated 8 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 18 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/medicines-and-healthcare-products-regulatory-agency">Medicines and Healthcare products Regulatory Agency</a>
+                  <a class="govuk-link" href="/government/organisations/medicines-and-healthcare-products-regulatory-agency">Medicines and Healthcare products Regulatory Agency</a>
                 </span>
             </dd>
         </dl>
@@ -58,89 +56,78 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#details" data-track-options="{"dimension29":"Details"}" href="#details">Details</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#details" data-track-options="{"dimension29":"Details"}" href="#details">Details</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#the-legislation" data-track-options="{"dimension29":"The legislation"}" href="#the-legislation">The legislation</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#the-legislation" data-track-options="{"dimension29":"The legislation"}" href="#the-legislation">The legislation</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#the-role-of-the-mhra" data-track-options="{"dimension29":"The role of the MHRA\n"}" href="#the-role-of-the-mhra">The role of the MHRA
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#the-role-of-the-mhra" data-track-options="{"dimension29":"The role of the MHRA\n"}" href="#the-role-of-the-mhra">The role of the MHRA
 </a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#role-of-those-manufacturing-and-supplying-devices" data-track-options="{"dimension29":"Role of those manufacturing and supplying devices"}" href="#role-of-those-manufacturing-and-supplying-devices">Role of those manufacturing and supplying devices</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#role-of-those-manufacturing-and-supplying-devices" data-track-options="{"dimension29":"Role of those manufacturing and supplying devices"}" href="#role-of-those-manufacturing-and-supplying-devices">Role of those manufacturing and supplying devices</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#determining-whether-your-product-is-a-device" data-track-options="{"dimension29":"Determining whether your product is a device"}" href="#determining-whether-your-product-is-a-device">Determining whether your product is a device</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#uk-responsible-person" data-track-options="{"dimension29":"UK Responsible Person"}" href="#uk-responsible-person">UK Responsible Person</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#classification" data-track-options="{"dimension29":"Classification"}" href="#classification">Classification</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#determining-whether-your-product-is-a-device" data-track-options="{"dimension29":"Determining whether your product is a device"}" href="#determining-whether-your-product-is-a-device">Determining whether your product is a device</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#clinical-investigations-and-performance-evaluations" data-track-options="{"dimension29":"Clinical investigations and performance evaluations"}" href="#clinical-investigations-and-performance-evaluations">Clinical investigations and performance evaluations</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#classification" data-track-options="{"dimension29":"Classification"}" href="#classification">Classification</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#ce-marking-your-devices-and-conformity-assessment" data-track-options="{"dimension29":"CE marking your devices and conformity assessment"}" href="#ce-marking-your-devices-and-conformity-assessment">CE marking your devices and conformity assessment</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#clinical-investigations-and-performance-evaluations" data-track-options="{"dimension29":"Clinical investigations and performance evaluations"}" href="#clinical-investigations-and-performance-evaluations">Clinical investigations and performance evaluations</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#labelling-requirements" data-track-options="{"dimension29":"Labelling requirements"}" href="#labelling-requirements">Labelling requirements</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#ce-marking-your-devices-and-conformity-assessment" data-track-options="{"dimension29":"CE marking your devices and conformity assessment"}" href="#ce-marking-your-devices-and-conformity-assessment">CE marking your devices and conformity assessment</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#registrations" data-track-options="{"dimension29":"Registrations"}" href="#registrations">Registrations</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#labelling-requirements" data-track-options="{"dimension29":"Labelling requirements"}" href="#labelling-requirements">Labelling requirements</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#post-market-surveillance-and-vigilance" data-track-options="{"dimension29":"Post-market surveillance and vigilance"}" href="#post-market-surveillance-and-vigilance">Post-market surveillance and vigilance</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#registrations" data-track-options="{"dimension29":"Registrations"}" href="#registrations">Registrations</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#contact-us" data-track-options="{"dimension29":"Contact us"}" href="#contact-us">Contact us</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#post-market-surveillance-and-vigilance" data-track-options="{"dimension29":"Post-market surveillance and vigilance"}" href="#post-market-surveillance-and-vigilance">Post-market surveillance and vigilance</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#the-legislation-1" data-track-options="{"dimension29":"The legislation"}" href="#the-legislation-1">The legislation</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#the-role-of-the-mhra-1" data-track-options="{"dimension29":"The role of the MHRA\n"}" href="#the-role-of-the-mhra-1">The role of the MHRA
-</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#role-of-those-manufacturing-and-supplying-devices-1" data-track-options="{"dimension29":"Role of those manufacturing and supplying devices"}" href="#role-of-those-manufacturing-and-supplying-devices-1">Role of those manufacturing and supplying devices</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#determining-whether-your-product-is-a-device-1" data-track-options="{"dimension29":"Determining whether your product is a device"}" href="#determining-whether-your-product-is-a-device-1">Determining whether your product is a device</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#classification-1" data-track-options="{"dimension29":"Classification"}" href="#classification-1">Classification</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#clinical-investigations-and-performance-evaluations-1" data-track-options="{"dimension29":"Clinical investigations and performance evaluations"}" href="#clinical-investigations-and-performance-evaluations-1">Clinical investigations and performance evaluations</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#ce-marking-your-devices-and-conformity-assessment-1" data-track-options="{"dimension29":"CE marking your devices and conformity assessment"}" href="#ce-marking-your-devices-and-conformity-assessment-1">CE marking your devices and conformity assessment</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 20" data-track-label="#labelling-requirements-1" data-track-options="{"dimension29":"Labelling requirements"}" href="#labelling-requirements-1">Labelling requirements</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 21" data-track-label="#registrations-1" data-track-options="{"dimension29":"Registrations"}" href="#registrations-1">Registrations</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 22" data-track-label="#post-market-surveillance-and-vigilance-1" data-track-options="{"dimension29":"Post-market surveillance and vigilance"}" href="#post-market-surveillance-and-vigilance-1">Post-market surveillance and vigilance</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 23" data-track-label="#contact-us-1" data-track-options="{"dimension29":"Contact us"}" href="#contact-us-1">Contact us</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#contact-us" data-track-options="{"dimension29":"Contact us"}" href="#contact-us">Contact us</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
+<div class="call-to-action">
+<h3 id="stay-up-to-date">Stay up to date</h3>
+
+<p>The UK will leave the <abbr title="European Union">EU</abbr> on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+
+<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up to email alerts</a> to get the latest information</p>
+</div>
+
 <h2 id="details">Details</h2>
 <p>This guidance will apply from exit day in line with the <a rel="external" href="http://www.legislation.gov.uk/uksi/2019/791/contents/made">Medical Devices (Amendment etc.) (<abbr title="European Union">EU</abbr> Exit) Regulations 2019 </a>.</p>
 
@@ -257,20 +244,6 @@
 
 <p>In order to place devices on the <abbr title="European Union">EU</abbr> market, manufacturers with an Authorised Representative based in the UK will need to establish a new Authorised Representative in an <abbr title="European Union">EU</abbr> country.</p>
 
-<h3 id="uk-responsible-person">UK Responsible Person</h3>
-
-<p>A new role – the UK Responsible Person – has been created under the <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019), which applies from the day the UK leaves the <abbr title="European Union">EU</abbr>. The UK Responsible Person, who must be established in the UK, acts on behalf of a manufacturer established outside the UK to carry out specified tasks in relation to the manufacturer’s obligations. This includes <a href="https://www.gov.uk/guidance/register-as-a-manufacturer-to-sell-medical-devices">registering</a> with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> before the device is placed on the UK market. If you are a designated UK Responsible Person of a non-UK manufacturer, we require documentary evidence supporting your position.</p>
-
-<p>This evidence should be in the form of a headed letter (letter of designation) or signed contract, which states the company name and address for both the overseas manufacturer and the UK Responsible Person. This document must state that, you, as the UK Responsible Person, are acting with the consent of the overseas manufacturer and the legislation that applies for the devices being placed on the UK market.</p>
-
-<p>Although you may make use of resources based outside of the UK, there must be someone physically located within the UK for the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> to communicate with.</p>
-
-<p>You must provide an address which can be used for official communications, and you must be contactable at the address provided.</p>
-
-<p>You are also obliged to keep certain information at the disposal of the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>, such as declarations of conformity and technical documentation.</p>
-
-<p>You can read more about the UK Responsible Person’s obligations in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=39">regulation 77 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=87">regulation 146 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
 <h3 id="importers">Importers</h3>
 
 <p>An importer is defined as “any person established within the United Kingdom that places a device from a country outside the United Kingdom on the market”.</p>
@@ -334,6 +307,73 @@
 <p>Before exit day, if you want to put a medical device which is already marketed in an <abbr title="European Union">EU</abbr> country on the market in another <abbr title="European Union">EU</abbr> country not intended by the manufacturer, this is known as a <a href="https://www.gov.uk/government/publications/parallel-imports-of-medical-devices/parallel-imports-of-medical-devices">parallel import</a>.</p>
 
 <p>After the UK leaves the <abbr title="European Union">EU</abbr>, parallel importing from the <abbr title="European Union">EU</abbr> into the UK will not be possible. Any device that is imported from the <abbr title="European Union">EU</abbr> and placed on the UK market will be treated as a new placing on the market, with all of the relevant manufacturer requirements applying to this importer, including the requirement to register the device with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>. You will also need to ensure that there is a UK Responsible Person in place for this product.</p>
+
+<h2 id="uk-responsible-person">UK Responsible Person</h2>
+
+<h3 id="what-a-uk-responsible-person-is">What a UK Responsible Person is</h3>
+<p>A new role – the UK Responsible Person – has been created under the <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/contents">UK MDR 2019)</a>, applicable in a no-deal Brexit.</p>
+
+<p>The UK Responsible Person must be established in the UK and acts on behalf of a manufacturer established outside the UK, to carry out specified tasks in relation to the manufacturer’s obligations. This includes registering with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> before the device is placed on the UK market.</p>
+
+<p>Only a manufacturer or a designated UK Responsible Person can legally place a device on the UK market. This means that a single manufacturer may have several designated UK Responsible Persons.</p>
+
+<p>If you are a designated UK Responsible Person of a non-UK manufacturer, we require documentary evidence supporting your position. This evidence should be in the form of a headed letter (letter of designation) or signed contract, which states the company name and address for both the overseas manufacturer and the UK Responsible Person. This document must state that the UK Responsible Person is acting with the consent of the overseas manufacturer and adheres to the legislation that applies for the devices being placed on the UK market.</p>
+
+<h3 id="who-can-be-a-uk-responsible-person">Who can be a UK Responsible Person</h3>
+<p>The <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/contents">UK MDR 2019</a> defines the UK Responsible Person as “a person established in the United Kingdom who acts on behalf of a manufacturer established outside the United Kingdom in relation to specified tasks with regard to the manufacturer’s obligations under these regulations.”</p>
+
+<p>When legal text uses the term “person” it means either an individual (i.e. a sole trader) or a legal person (i.e. a company).</p>
+
+<p>If a company establishes itself as a UK Responsible Person, the responsibilities of the UK Responsible Person would fall to the company as a whole. This is the same situation as for an <abbr title="European Union">EU</abbr> Authorised Representative.</p>
+
+<p>If you are a UK-based importer and you wish to place a device on the market, you must have the authority from the manufacturer before doing so. This means that you will become a UK Responsible Person.</p>
+
+<p>Whilst there is no existing list of UK Responsible Persons, you may wish to speak to existing <abbr title="European Union">EU</abbr> Authorised Representatives to determine whether they will be offering services as a UK Responsible Person.</p>
+
+<h3 id="grace-period-for-a-uk-responsible-person">Grace period for a UK Responsible Person</h3>
+
+<p>The requirement for a manufacturer to have in place a UK Responsible Person is in line with the grace period for registering your devices with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>. Details of the grace period for registrations is set out in our <a href="https://www.gov.uk/guidance/regulating-medical-devices-in-the-event-of-a-no-deal-scenario#registrations">guidance on registrations</a>. Therefore, you must ensure that you are designated as a UK Responsible Person by the time you register with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>.</p>
+
+<p>However, manufacturers may wish to appoint a UK Responsible Person before the end of the grace period for post-market surveillance purposes. Manufacturers will also need to take into consideration that they might need some time to establish a UK Responsible Person and draw up a mandate.</p>
+
+<h3 id="responsibilities-of-the-uk-responsible-person">Responsibilities of the UK Responsible Person</h3>
+<p>The key responsibilities of the UK Responsible Person are set out in each new registration requirement in Part II (r. 7A), Part III (r. 21A) and Part IV (r. 33A) and in new Parts VIII and IX in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=39">regulation 77 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=87">regulation 146 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019). The requirements are repeated for ease of reference rather than varying between different parts of the regulations. The UK Responsible Person must:</p>
+
+<ul>
+  <li>ensure that the declaration of conformity and technical documentation have been drawn up and, where applicable, that an appropriate conformity assessment procedure has been carried out by the manufacturer</li>
+  <li>keep available a copy of the technical documentation, a copy of the declaration of conformity and, if applicable, a copy of the relevant certificate, including any amendments and supplements for inspection by the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>
+</li>
+  <li>in response to a request from the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>, provide the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> with all the information and documentation necessary to demonstrate the conformity of a device</li>
+  <li>forward to the manufacturer any request by the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> for samples, or access to a device, and ensure that the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> receives the samples or has been given access to the device</li>
+  <li>cooperate with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> on any preventive or corrective action taken to eliminate or, if that is not possible, mitigate the risks posed by devices</li>
+  <li>immediately inform the manufacturer about complaints and reports from healthcare professionals, patients and users about suspected incidents related to a device for which they have been designated</li>
+  <li>terminate the legal relationship with the manufacturer if the manufacturer acts contrary to its obligations under these Regulations and inform the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> and, if applicable, the relevant notified body of that termination</li>
+</ul>
+
+<h3 id="registration-responsibilities">Registration responsibilities</h3>
+<p>The UK Responsible Person will need to open a single registration account on behalf of the manufacturers that it represents. The UK Responsible Person can invite up to 15 users to access this account. Please note that there is no controlled access for the additional users, so every individual with user access will be able to view and amend anything on that account.</p>
+
+<p>There is no separate notification or registration requirement for the UK Responsible Person. You must however provide your details (including providing your letter of designation or contract with the manufacturer, your registered place of business and other contact details) when you are registering your devices with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>.</p>
+
+<p>If you are a company, you will also need to provide a named person. This person may be an administrator, as the responsibilities of the UK Responsible Person will fall to the company as a whole.</p>
+
+<p>For more information on registering with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>, please see our <a href="https://www.gov.uk/guidance/regulating-medical-devices-in-the-event-of-a-no-deal-scenario#registrations">Brexit guidance</a>.</p>
+
+<h3 id="location-of-the-uk-responsible-person">Location of the UK Responsible Person</h3>
+<p>You must provide a registered place of business in the UK “at which service of any document relating in any way to the person’s placing of the relevant device on the market will be effective”. This address will be used for official communications, and you must be contactable at the address provided at all times. You are also obliged to keep certain information at the disposal of the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>, such as declarations of conformity and technical documentation.</p>
+
+<p>Although you may make use of resources based outside of the UK, there must always be someone physically located within the UK for the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> to communicate with. This is to ensure that you can fulfil your obligations as a UK Responsible Person.</p>
+
+<h3 id="qualifications-and-requirements-for-uk-responsible-person">Qualifications and requirements for UK Responsible Person</h3>
+<p>There aren’t any specific requirements for qualifications or knowledge, so long as the UK Responsible Person is competent to carry out the responsibilities of a UK Responsible Person as set out above.</p>
+
+<h3 id="liability">Liability</h3>
+<p>Regulation 60 of the <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/contents">UK MDR 2019)</a> sets out that a UK Responsible Person can be proceeded against as a person placing the device on the market for the purposes of the Regulations. As the <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/contents">UK MDR 2019)</a> are safety regulations for the purposes of the Consumer Protection Act, it is possible that a UK Responsible Person may be proceeded against under the Regulations or under the Consumer Protection Act 1987 if they fail to perform any of their obligations. It is also possible that an individual could be held liable.</p>
+
+<p>Whilst not a requirement until Part VIII of the <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/contents">UK MDR 2019</a> fully applies in May 2020, the manufacturer may already have insurance in place. The UK Responsible Person may wish to include in its mandate whether it has the benefit of that insurance, or an indemnity based on the existence of that insurance, from the manufacturer.</p>
+
+<h3 id="post-market-surveillance-responsibilities">Post-market surveillance responsibilities</h3>
+<p>Manufacturers will be required to determine whether there are any post-market surveillance responsibilities that the UK Responsible Person will be jointly responsible for. These responsibilities should be clearly set out in the mandate drawn up between the manufacturer and the UK Responsible Person. The manufacturer will still be required to meet all of its obligations, regardless of what the UK Responsible Person is responsible for.</p>
 
 <h2 id="determining-whether-your-product-is-a-device">Determining whether your product is a device</h2>
 
@@ -747,627 +787,7 @@ However, for Class III devices, you must also provide the following product info
 
 <p>Please direct any queries to <a href="mailto:devices.regulatory@mhra.gov.uk">devices.regulatory@mhra.gov.uk</a>.</p>
 
-<div class="call-to-action">
-<h3 id="stay-up-to-date">Stay up to date</h3>
-
-<p>This page tells you what to do if you the UK leaves the <abbr title="European Union">EU</abbr> without a deal. It will be updated if anything changes, including if a deal is agreed.</p>
-
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up to email alerts</a> to get the latest information.</p>
-</div>
-
-<p>##Details
-This guidance will apply from exit day in line with the <a rel="external" href="http://www.legislation.gov.uk/uksi/2019/791/contents/made">Medical Devices (Amendment etc.) (<abbr title="European Union">EU</abbr> Exit) Regulations 2019 </a>.</p>
-
-<p>This guidance sets out how medical devices will be regulated in the UK in a no-deal Brexit scenario.</p>
-
-<p>In a no deal scenario the UK’s current participation in the European regulatory network for medical devices would end, and theMHRA would take on the responsibilities for the UK market currently undertaken through the <abbr title="European Union">EU</abbr> system.</p>
-
-<p>This guidance provides further detail on how the UK system would operate, including for:</p>
-
-<ul>
-  <li>getting your device certified</li>
-  <li>CE marking your device</li>
-  <li>registering your device with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>
-</li>
-</ul>
-
-<p>These proposals are still subject to parliamentary approval of the changes to the relevant statutory instruments that are required to bring these proposals into law.</p>
-
 <p>This guidance will apply from exit day in line with the <a rel="external" href="http://www.legislation.gov.uk/uksi/2019/791/contents/made">Medical Devices (Amendment etc.) (<abbr title="European Union">EU</abbr> Exit) Regulations 2019 </a>.</p>
-
-<p>This notice is meant for guidance only. You should consider whether you need separate professional advice before making specific preparations.</p>
-
-<h2 id="the-legislation-1">The legislation</h2>
-
-<h3 id="how-devices-are-regulated-before-the-uk-leaves-the-eu-1">How devices are regulated before the UK leaves the <abbr title="European Union">EU</abbr>
-</h3>
-
-<p>In the UK, all devices placed on the UK market are subject to <abbr title="European Union">EU</abbr> legislation, which requires a manufacturer to place a CE mark on their product to attest compliance to applicable European standards.</p>
-
-<p>Devices are regulated under:</p>
-
-<ul>
-  <li>Directive 90/385/EEC on active implantable medical devices (<abbr title="Directive 90/385/EEC on active implantable medical devices">EU AIMDD</abbr>)</li>
-  <li>Directive 93/42/EEC on medical devices (<abbr title="Directive 93/42/EEC on medical devices">EU MDD</abbr>)</li>
-  <li>Directive 98/79/EC on in vitro diagnostic medical devices (<abbr title="Directive 98/79/EC on in vitro diagnostic medical devices">EU IVDD</abbr>)</li>
-</ul>
-
-<p>These directives are transposed into UK law in the <a rel="external" href="http://www.legislation.gov.uk/uksi/2002/618/contents/made">Medical Devices Regulations 2002</a> (SI 2002 No 618, as amended) (<abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr>).</p>
-
-<p>The <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>’s powers are found in various pieces of legislation: in the Consumer Rights Act 2015, the Consumer Protection Act 1987, and the General Product Safety Regulations 2005, with some powers contained in the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr>.</p>
-
-<p>There will also be certain pieces of <abbr title="European Union">EU</abbr> tertiary legislation that has direct effect in UK law, namely:</p>
-
-<ul>
-  <li>Regulation (<abbr title="European Union">EU</abbr>) 722/2012</li>
-  <li>Regulation 920/2013</li>
-  <li>Directives 2003/12 and 2005/50</li>
-  <li>Regulation 207/2012</li>
-  <li>Regulation 2017/2185</li>
-  <li>Commission Decisions 2002/364 and 2010/227</li>
-</ul>
-
-<p>Furthermore, two new <abbr title="European Union">EU</abbr> Regulations entered into force on 25 May 2017, namely:</p>
-
-<ul>
-  <li>Regulation 2017/745 on medical devices (<abbr title="Regulation 2017/745 on medical devices">EU MDR</abbr>)</li>
-  <li>Regulation 2017/746 on in vitro diagnostic medical devices (<abbr title="Regulation 2017/746 on in vitro diagnostic medical devices">EU IVDR</abbr>)</li>
-</ul>
-
-<p>The <abbr title="Regulation 2017/745 on medical devices">EU MDR</abbr> and <abbr title="Regulation 2017/746 on in vitro diagnostic medical devices">EU IVDR</abbr> will fully apply in <abbr title="European Union">EU</abbr> Member States from 26 May 2020 and 2022 respectively, but devices can already be placed on the market under these new Regulations (if they fully comply with the new Regulations).</p>
-
-<h3 id="how-devices-will-be-regulated-from-the-day-the-uk-leaves-the-eu-1">How devices will be regulated from the day the UK leaves the <abbr title="European Union">EU</abbr>
-</h3>
-
-<p>The <abbr title="Directive 90/385/EEC on active implantable medical devices">EU AIMDD</abbr>, <abbr title="Directive 93/42/EEC on medical devices">EU MDD</abbr> and <abbr title="Directive 98/79/EC on in vitro diagnostic medical devices">EU IVDD</abbr> will continue to apply to the UK through the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr>.</p>
-
-<p><a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf">The Medical Devices (Amendment etc.) (<abbr title="European Union">EU</abbr> exit) Regulations 2019 (UK MDR 2019)</a> will amend the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> in part by fixing deficiencies in those Regulations to reflect the new regime for our departure from the <abbr title="European Union">EU</abbr>.</p>
-
-<p>The UK MDR 2019 will also transpose all the key elements contained in the <abbr title="Regulation 2017/745 on medical devices">EU MDR</abbr> and <abbr title="Regulation 2017/746 on in vitro diagnostic medical devices">EU IVDR</abbr>, which will be brought into force in line with the transitional timetable being followed by the <abbr title="European Union">EU</abbr> for the full application of those two Regulations.</p>
-
-<p>These new requirements can be found in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=25">Part VIII of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=75">Part IX of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a>.</p>
-
-<h2 id="the-role-of-the-mhra-1">The role of the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>
-</h2>
-
-<p>The <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> will continue to perform market surveillance of medical devices on the UK market and be able to take a decision over the marketing and supplying of a device in the UK, regardless of the position of the European regulatory network, or any post-exit decision of the European Court of Justice.</p>
-
-<p>There is a <a href="https://www.gov.uk/government/publications/report-a-non-compliant-medical-device-enforcement-process/how-mhra-ensures-the-safety-and-quality-of-medical-devices">guidance page which contains information about how we enforce the legislation</a>.</p>
-
-<h2 id="role-of-those-manufacturing-and-supplying-devices-1">Role of those manufacturing and supplying devices</h2>
-
-<h3 id="overview-7">Overview</h3>
-<p>In the event of a no-deal Brexit, from the day the UK leaves the <abbr title="European Union">EU</abbr> the roles and responsibilities of those manufacturing and supplying medical devices and <abbr title="in vitro diagnostic medical devices">IVDs</abbr> will change.</p>
-
-<p>Based on the <a rel="external" href="https://ec.europa.eu/growth/content/brexit-%E2%80%93-guidance-stakeholders-impact-field-industrial-products_en">European Commission’s Notice to Stakeholders</a> of 22 January 2018, we understand that UK-based Authorised Representatives will no longer be recognised in the <abbr title="European Union">EU</abbr>. Under UK legislation a new role, known as a UK Responsible Person, will be created for manufacturers based outside of the UK.</p>
-
-<h3 id="manufacturers-1">Manufacturers</h3>
-<p>The <a rel="external" href="http://www.legislation.gov.uk/uksi/2002/618/pdfs/uksi_20020618_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> sets out requirements that a manufacturer must meet. Manufacturers seeking conformity with the <abbr title="European Union">EU</abbr> Directives transposed by that statutory instrument should continue to follow these criteria. A new Schedule (2A) has been inserted into the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> which sets out how the Annexes to the Directives which are crossed referenced in Parts II, III and IV of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> should be read in a UK specific context after the UK has left the <abbr title="European Union">EU</abbr>.</p>
-
-<h3 id="action-manufacturers-must-take-1">Action manufacturers must take</h3>
-
-<p>Manufacturers wishing to place a device on the UK market must first register with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> (see the section titled <a href="https://www.gov.uk/guidance/regulating-medical-devices-in-the-event-of-a-no-deal-scenario#registrations">‘Registrations’</a> for more information on this).</p>
-
-<p>Where a manufacturer is not established in the UK, it must designate a UK Responsible Person (see below) to register and act on its behalf.</p>
-
-<p>These registration requirements are set out in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=17">regulation 7A</a> (for medical devices), <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=19">regulation 21A</a> (for active implantable medical devices) and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=20">regulation 33A</a> (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>) in the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h3 id="additional-responsibilities-for-manufacturers-of-medical-devices-1">Additional responsibilities for manufacturers of medical devices</h3>
-
-<p>There are additional responsibilities for manufacturers wishing to comply with <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=25">Part VIII</a> or <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=75">Part IX</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019), which transposes the relevant requirements from the <abbr title="Regulation 2017/745 on medical devices">EU MDR</abbr> and the <abbr title="Regulation 2017/746 on in vitro diagnostic medical devices">EU IVDR</abbr>. These additional responsibilities include, but are not limited to:</p>
-
-<ul>
-  <li>correctly classifying the device against the new risk classification criteria</li>
-  <li>meeting general safety and performance requirements, including for labelling and technical documentation and quality management systems</li>
-  <li>meeting increased requirements for clinical evidence</li>
-  <li>having a person responsible for regulatory compliance in place</li>
-  <li>meeting the new vigilance reporting timescales and creating an annual periodic safety update report</li>
-</ul>
-
-<p>More information about these additional manufacturers’ obligations can be found at <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=36">regulation 76 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=85">regulation 145 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h3 id="authorised-representatives-1">Authorised Representatives</h3>
-<p>For medical devices and in vitro diagnostic medical devices (<abbr title="in vitro diagnostic medical devices">IVDs</abbr>), after the UK leaves the <abbr title="European Union">EU</abbr>, any UK-based Authorised Representative will no longer be recognised under <abbr title="European Union">EU</abbr> law. This means they will not be recognised as able to carry out tasks on the manufacturer’s behalf for the purposes of placing products on the <abbr title="European Union">EU</abbr> market.</p>
-
-<p>In order to place devices on the <abbr title="European Union">EU</abbr> market, manufacturers with an Authorised Representative based in the UK will need to establish a new Authorised Representative in an <abbr title="European Union">EU</abbr> country.</p>
-
-<h3 id="uk-responsible-person-1">UK Responsible Person</h3>
-
-<p>A new role – the UK Responsible Person – has been created under the <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019), which applies from the day the UK leaves the <abbr title="European Union">EU</abbr>. The UK Responsible Person, who must be established in the UK, acts on behalf of a manufacturer established outside the UK to carry out specified tasks in relation to the manufacturer’s obligations. This includes <a href="https://www.gov.uk/guidance/register-as-a-manufacturer-to-sell-medical-devices">registering</a> with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> before the device is placed on the UK market. If you are a designated UK Responsible Person of a non-UK manufacturer, we require documentary evidence supporting your position.</p>
-
-<p>This evidence should be in the form of a headed letter (letter of designation) or signed contract, which states the company name and address for both the overseas manufacturer and the UK Responsible Person. This document must state that, you, as the UK Responsible Person, are acting with the consent of the overseas manufacturer and the legislation that applies for the devices being placed on the UK market.</p>
-
-<p>Although you may make use of resources based outside of the UK, there must be someone physically located within the UK for the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> to communicate with.</p>
-
-<p>You must provide an address which can be used for official communications, and you must be contactable at the address provided.</p>
-
-<p>You are also obliged to keep certain information at the disposal of the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>, such as declarations of conformity and technical documentation.</p>
-
-<p>You can read more about the UK Responsible Person’s obligations in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=39">regulation 77 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=87">regulation 146 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h3 id="importers-1">Importers</h3>
-
-<p>An importer is defined as “any person established within the United Kingdom that places a device from a country outside the United Kingdom on the market”.</p>
-
-<p>Currently, cross-sectorial legislation applies to importers, which means that you must ensure that your products are safe by:</p>
-
-<ul>
-  <li>warning consumers about potential risks</li>
-  <li>providing information to help consumers understand the risks</li>
-  <li>monitoring the safety of products, including immediately forwarding any complaints or reports of suspected incidents concerning a medical device you have supplied to the manufacturer</li>
-  <li>taking action if a safety problem is found, including co-operating with the manufacturer concerning any Field Safety Corrective Actions</li>
-</ul>
-
-<p>In order to ensure that the device has been CE marked by the manufacturer, you should request the manufacturer’s declaration of conformity.</p>
-
-<p>There is a guidance document <a href="https://www.gov.uk/guidance/product-liability-and-safety-law">on our website which contains further advice and guidance for importers</a>.</p>
-
-<p>If a person places a product on the market under <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=25">Part VIII</a> or <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=75">Part IX</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019), a number of additional obligations will apply to importers, which will include, but are not limited to, verifying that:</p>
-
-<ul>
-  <li>the device has been CE marked</li>
-  <li>the manufacturer is identified and has a UK Responsible Person, if required</li>
-  <li>the device has been labelled correctly and a Unique Device Identifier (<abbr title="Unique Device Identifier">UDI</abbr>) has been assigned to the device</li>
-  <li>the device is registered with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>
-</li>
-</ul>
-
-<p>You can read more about the importer’s obligations in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=40">regulation 78 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=88">regulation 147 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h3 id="distributors-1">Distributors</h3>
-<p>A distributor is defined as “any person in the supply chain, other than the manufacturer or the importer, that makes a device available on the market, up until the point of putting into service.”</p>
-
-<p>Currently, cross sectorial legislation applies to distributors, which means that you must ensure that your products are safe by:</p>
-
-<ul>
-  <li>warning consumers about potential risks</li>
-  <li>providing information to help consumers understand the risks</li>
-  <li>monitoring the safety of products, including immediately forwarding any complaints or reports of suspected incidents concerning a medical device you have supplied to the manufacturer</li>
-  <li>taking action if a safety problem is found, including co-operating with the manufacturer concerning any Field Safety Corrective Actions</li>
-</ul>
-
-<p>In order to ensure that the device has been CE marked by the manufacturer, you should request the manufacturer’s declaration of conformity.</p>
-
-<p>Distributors – for example shops and wholesalers – are not normally liable for harm to consumers or their property caused by an unsafe product, as long as they identify the producer. But distributors of devices do have some responsibility for safety and can face enforcement action.</p>
-
-<p>There is <a href="https://www.gov.uk/guidance/product-liability-and-safety-law">additional advice and guidance for distributors</a>, including product liability and safety law on our website.</p>
-
-<p>If a person places a product on the market under <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=25">Part VIII</a> or <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=75">Part IX</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019), a number of additional obligations will apply to distributors, which will include, but are not limited to, verifying that:</p>
-
-<ul>
-  <li>the device has been CE marked</li>
-  <li>the device is accompanied relevant information to be supplied by the manufacturer</li>
-  <li>the importer has complied with their general obligations</li>
-  <li>a <abbr title="Unique Device Identifier">UDI</abbr> has been assigned to the device</li>
-</ul>
-
-<p>You can read more about the distributor’s obligations in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=41">regulation 79 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=89">regulation 148 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h3 id="parallel-importers-1">Parallel importers</h3>
-
-<p>Before exit day, if you want to put a medical device which is already marketed in an <abbr title="European Union">EU</abbr> country on the market in another <abbr title="European Union">EU</abbr> country not intended by the manufacturer, this is known as a <a href="https://www.gov.uk/government/publications/parallel-imports-of-medical-devices/parallel-imports-of-medical-devices">parallel import</a>.</p>
-
-<p>After the UK leaves the <abbr title="European Union">EU</abbr>, parallel importing from the <abbr title="European Union">EU</abbr> into the UK will not be possible. Any device that is imported from the <abbr title="European Union">EU</abbr> and placed on the UK market will be treated as a new placing on the market, with all of the relevant manufacturer requirements applying to this importer, including the requirement to register the device with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>. You will also need to ensure that there is a UK Responsible Person in place for this product.</p>
-
-<h2 id="determining-whether-your-product-is-a-device-1">Determining whether your product is a device</h2>
-
-<h3 id="overview-8">Overview</h3>
-<p>Before you place your product on the market, you will need to ensure it meets the relevant definition set out in the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr>. There are three main types of devices: a medical device, an active implantable medical device, or an in vitro diagnostic medical device.</p>
-
-<p>These definitions will change from 26 May 2020 (for medical devices) and 26 May 2022 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>). More information on these new definitions can be found below.</p>
-
-<h3 id="definitions-1">Definitions</h3>
-
-<h3 id="general-medical-devices-2">General medical devices</h3>
-
-<p>According to the <a rel="external" href="http://www.legislation.gov.uk/uksi/2002/618/pdfs/uksi_20020618_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a>, a medical device is described as any instrument, apparatus, appliance, material or other article used whether used alone or combination, together with any software necessary for its proper application, in humans to:</p>
-
-<ul>
-  <li>diagnose, prevent, monitor, treat or alleviate disease</li>
-  <li>diagnose, monitor, treat, alleviate or compensate for an injury or handicap</li>
-  <li>investigate, replace or modify the anatomy or a physiological process</li>
-  <li>control conception</li>
-</ul>
-
-<p>A medical device does not achieve its main intended action by pharmacological, immunological or metabolic means although it can be assisted by these</p>
-
-<p>Examples of medical devices include bandages, hospital beds, surgical instruments and joint replacements.</p>
-
-<p><a href="https://www.gov.uk/decide-if-your-product-is-a-medicine-or-a-medical-device">See the guidance on borderline products if you are unsure whether your product is a medicine or a medical device</a>.</p>
-
-<h3 id="active-implantable-medical-devices-1">Active implantable medical devices</h3>
-
-<p>The <a rel="external" href="http://www.legislation.gov.uk/uksi/2002/618/pdfs/uksi_20020618_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> describes an active implantable medical device as a medical device which:</p>
-
-<ul>
-  <li>relies for its functioning on a source of electrical energy or a source of power other than that generated directly by the human body or by gravity</li>
-  <li>is intended to be totally or partially introduced into the human body</li>
-  <li>is intended to remain in the human body after completion of the surgical or medical procedure during which it is introduced.</li>
-</ul>
-
-<p>Examples of active implantable medical devices include implantable hearing aids, cardiac pacemaker systems, and implantable infusion pumps.</p>
-
-<h3 id="in-vitro-diagnostic-medical-devices-ivds-2">In vitro diagnostic medical devices (<abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</h3>
-
-<p>According to the <a rel="external" href="http://www.legislation.gov.uk/uksi/2002/618/pdfs/uksi_20020618_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a>, these types of devices are reagents, calibrators, control materials, kits, instruments or apparatus that are intended to be used in vitro to examine specimens including blood and tissues donations from the human body.</p>
-
-<p>Examples of <abbr title="in vitro diagnostic medical devices">IVDs</abbr> include, but are not limited to:</p>
-
-<ul>
-  <li>blood grouping reagents</li>
-  <li>pregnancy test kits</li>
-  <li>Hepatitis B test kits</li>
-  <li>blood glucose self-test kits</li>
-</ul>
-
-<p>We have issued <a href="https://www.gov.uk/government/publications/in-vitro-diagnostic-medical-devices-guidance-on-legislation">further guidance on the legislation relating to in vitro diagnostic devices</a> which covers the process of placing <abbr title="in vitro diagnostic medical devices">IVDs</abbr> on the market in depth.</p>
-
-<p>Some <abbr title="in vitro diagnostic medical devices">IVDs</abbr> may be borderline products. The <a rel="external" href="http://ec.europa.eu/DocsRoom/documents/10322/attachments/1/translations">European Commission</a> has published guidance on borderline <abbr title="in vitro diagnostic medical device">IVD</abbr> products.</p>
-
-<p>The complete requirements for <abbr title="in vitro diagnostic medical devices">IVDs</abbr> can be found in <a rel="external" href="http://www.legislation.gov.uk/uksi/2002/618/pdfs/uksi_20020618_en.pdf#page=21">Part IV of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a>.</p>
-
-<h3 id="future-changes-to-definitions-from-may-2020-1">Future changes to definitions from May 2020</h3>
-
-<p>There have been some changes to the definition of medical device and <abbr title="in vitro diagnostic medical devices">IVDs</abbr>, which will fully apply from 26 May 2020 and 26 May 2022 respectively. These definitions may apply to devices placed on the market before these dates if the device has followed a conformity assessment provided for in Parts VIII or IX of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<p>You can read more about the new definitions in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=28">regulation 69 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=76">regulation 137 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h2 id="classification-1">Classification</h2>
-
-<h3 id="overview-9">Overview</h3>
-
-<p>Medical devices are given a classification depending on the level of risk associated with them. <a rel="external" href="http://ec.europa.eu/DocsRoom/documents/10337/attachments/1/translations">Risk classification rules</a> set out in the legislation determine which risk class the device falls into.</p>
-
-<p>These classification rules will change from 26 May 2020 (for medical devices) and 26 May 2022 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>). These classification rules may apply to devices placed on the market before these dates if the device has followed a conformity assessment provided for in Parts VIII or IX of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<p>More information on these new classification rules can be in the section titled ‘Future changes to classification rules from May 2020’.</p>
-
-<h3 id="general-medical-devices-3">General medical devices</h3>
-
-<p>When you have established your product is a general medical device, you will need to decide which class your device falls under. The categories are:</p>
-
-<ul>
-  <li>Class I – generally regarded as low risk</li>
-  <li>Class IIa – generally regarded as medium risk</li>
-  <li>Class IIb – generally regarded as medium risk</li>
-  <li>Class III – generally regarded as high risk</li>
-</ul>
-
-<p>How a medical device is classified will depend on factors including the intended purpose of the device, how long it’s intended to be in use for and if the device:</p>
-
-<ul>
-  <li>is invasive/ surgically invasive</li>
-  <li>is implantable or active</li>
-  <li>contains a substance, which in its own right is considered to be a medicinal substance</li>
-</ul>
-
-<p>Accessories to medical devices are classified separately to the device. Please refer to <a rel="external" href="http://www.legislation.gov.uk/uksi/2002/618/pdfs/uksi_20020618_en.pdf#page=8">regulation 7 in the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> for details on the classification of general medical devices.</p>
-
-<p>Additionally, <a rel="external" href="http://ec.europa.eu/DocsRoom/documents/10337/attachments/1/translations">the European Commission has published a document</a> that explains all classification rules in detail. This can be a helpful tool to establish which classification your product falls under.</p>
-
-<h3 id="active-implantable-devices-1">Active implantable devices</h3>
-
-<p>Whilst active implantable medical devices and their accessories do not have a separate classification rule, due to the risk level associated with these devices and their accessories, they must follow the same conformity assessment route as for Class III medical devices.</p>
-
-<h3 id="in-vitro-diagnostic-medical-devices-ivds-3">In vitro diagnostic medical devices (<abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</h3>
-
-<p><abbr title="in vitro diagnostic medical devices">IVDs</abbr> are categorised differently.</p>
-
-<p><abbr title="in vitro diagnostic medical devices">IVDs</abbr> can fall into four different groups. Each group will have a different conformity assessment procedure for placing devices on the market.</p>
-
-<p>The four main groups are defined as devices that are:</p>
-
-<ul>
-  <li>within list A – generally regarded as high risk</li>
-  <li>within list B – generally regarded as medium risk</li>
-  <li>to be used for ‘self-testing’ (which refers to <abbr title="in vitro diagnostic medical devices">IVDs</abbr> that are intended for use by a lay-person) – generally regarded as medium risk</li>
-  <li>general <abbr title="in vitro diagnostic medical devices">IVDs</abbr> – generally regarded as low risk</li>
-</ul>
-
-<p>Please refer to <a rel="external" href="http://www.legislation.gov.uk/uksi/2002/618/pdfs/uksi_20020618_en.pdf#page=23">regulation 40 of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> for information about what list A and list B cover.</p>
-
-<h3 id="future-changes-to-classification-rules-from-may-2020-1">Future changes to classification rules from May 2020</h3>
-
-<p>The UK MDR 2019 introduces changes to classification rules for medical devices from 26 May 2020. This includes the addition of four new rules, as well as modifications to existing rules. The classification rules for medical devices can be found in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=151">Schedule 9 of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019).</p>
-
-<p>In terms of <abbr title="in vitro diagnostic medical devices">IVDs</abbr>, a brand new classification system will be introduced with the aim of classifying <abbr title="in vitro diagnostic medical devices">IVDs</abbr> based on the risk they present. This is being achieved by introducing seven classification rules from 26 May 2022, with <abbr title="in vitro diagnostic medical devices">IVDs</abbr> being classified into four risk classes. The classification rules for <abbr title="in vitro diagnostic medical devices">IVDs</abbr> can be found in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=202">Schedule 23 of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019).</p>
-
-<p>Additionally, devices without a medical purpose but with similar risk to medical devices, such as non-corrective contact lenses will be regulated as medical devices. Details on what groups will start to be considered can be found in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=175">Schedule 16 of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019).</p>
-
-<h2 id="clinical-investigations-and-performance-evaluations-1">Clinical investigations and performance evaluations</h2>
-
-<h3 id="overview-10">Overview</h3>
-
-<p>The UK will continue to recognise existing clinical investigation approvals – both for regulatory and ethics approvals – and there will be no need to re-apply. UK clinical investigation applications will continue to be authorised by <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> and ethics committees as they are at present.</p>
-
-<p>Manufacturers must hold clinical data to support claims made for all types of medical devices. This will be based on a robust evaluation of all clinical data pertaining to the device and may include evidence from clinical investigations. See more information on <a rel="external" href="http://ec.europa.eu/growth/sectors/medical-devices/guidance/index_en.htm#informative">clinical evaluations</a> by the European Commission.</p>
-
-<h3 id="informing-the-mhra-about-a-clinical-investigation-1">Informing the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> about a clinical investigation</h3>
-
-<p>You must <a href="https://www.gov.uk/guidance/notify-mhra-about-a-clinical-investigation-for-a-medical-device">inform <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr></a> if you are planning to conduct a clinical investigation at least 60 days before starting your investigation. This does not currently apply to <abbr title="in vitro diagnostic medical devices">IVDs</abbr>, although you must notify <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> about <abbr title="in vitro diagnostic medical devices">IVDs</abbr> for performance evaluations.</p>
-
-<h3 id="future-changes-to-clinical-investigations-and-performance-evaluations-from-may-2020-1">Future changes to clinical investigations and performance evaluations from May 2020</h3>
-
-<p>Under <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=25">Part VIII of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019), for medical devices, from 26 May 2020 there will be increased requirements for clinical evidence, including an expectation for higher risk devices that clinical investigations specific to the device in question will be performed. Full requirements for clinical investigations of medical devices can be found in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=169">Schedule 15 of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019).</p>
-
-<p>Under <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=75">Part IX of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019), manufacturers of <abbr title="in vitro diagnostic medical devices">IVDs</abbr> will need to conduct clinical investigations (known as performance studies) for virtually all <abbr title="in vitro diagnostic medical devices">IVDs</abbr>.</p>
-
-<p>This will include (but is not limited to) requirements for studies which obtaining specimens poses a particular risk for the subject, for reporting adverse events occurring in a performance study, for performance studies involving vulnerable subjects, and for submitting performance studies to the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>. Full requirements for performance studies of <abbr title="in vitro diagnostic medical devices">IVDs</abbr> can be found in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=217">Schedule 28 of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019).</p>
-
-<h2 id="ce-marking-your-devices-and-conformity-assessment-1">CE marking your devices and conformity assessment</h2>
-
-<h3 id="overview-11">Overview</h3>
-
-<p>This section addresses CE marking and conformity assessment for medical devices and <abbr title="in vitro diagnostic medical devices">IVDs</abbr> and does not cover other ‘New Legislative Framework’ products. For further information on this process for other products, please refer to guidance documents issued by the Department for Business, Energy and Industrial Strategy.</p>
-
-<p>For medical devices and <abbr title="in vitro diagnostic medical devices">IVDs</abbr>, you need to demonstrate that your device meets the requirements in the <a rel="external" href="http://www.legislation.gov.uk/uksi/2002/618/pdfs/uksi_20020618_en.pdf"><abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr></a> (as amended by the UK MDR 2019).</p>
-
-<p>Manufacturers of low risk devices can self-declare conformity to the legislation before affixing the CE mark. Higher-risk devices medical devices and <abbr title="in vitro diagnostic medical devices">IVDs</abbr> must be certified by an independent Conformity Assessment Body, called a Notified Body, before the CE mark can be affixed.</p>
-
-<h3 id="ce-marking-1">CE marking</h3>
-
-<p>CE marking for a device is a claim of compliance with the relevant safety, quality and performance requirements of the relevant legislation made by the manufacturer and indicates that the device is safe and performs as intended. All devices, (except custom-made devices, those intended for clinical investigations, humanitarian use devices and <abbr title="in vitro diagnostic medical device">IVD</abbr> devices for performance evaluation) being placed on the <abbr title="European Union">EU</abbr> market whether used in private or public hospitals and nursing homes or sold in retail outlets, must carry a CE mark.</p>
-
-<p>After Brexit, the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> will continue to allow devices to be placed on the UK market that have been CE marked under and fully conform with the following applicable <abbr title="European Union">EU</abbr> legislation:</p>
-
-<ul>
-  <li>Directive 90/385/EEC on active implantable medical devices (<abbr title="Directive 90/385/EEC on active implantable medical devices">EU AIMDD</abbr>)</li>
-  <li>Directive 93/42/EEC on medical devices (<abbr title="Directive 93/42/EEC on medical devices">EU MDD</abbr>)</li>
-  <li>Directive 98/79/EC on in vitro diagnostic medical devices (<abbr title="Directive 98/79/EC on in vitro diagnostic medical devices">EU IVDD</abbr>)</li>
-  <li>Regulation 2017/745 on medical devices (<abbr title="Regulation 2017/745 on medical devices">EU MDR</abbr>)</li>
-  <li>Regulation 2017/746 on in vitro diagnostic medical devices (<abbr title="Regulation 2017/746 on in vitro diagnostic medical devices">EU IVDR</abbr>)</li>
-</ul>
-
-<p>These <abbr title="European Union">EU</abbr> Directives and Regulations have been incorporated into UK law under the provisions of the <abbr title="European Union">EU</abbr> (Withdrawal) Act 2018 by the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h3 id="definition-of-a-notified-body-1">Definition of a Notified Body</h3>
-
-<p>For medical devices and <abbr title="in vitro diagnostic medical devices">IVDs</abbr>, medium- and high-risk devices are assessed by independent Conformity Assessment Bodies called Notified Bodies, which have been designated to assess the device is in line with the applicable <abbr title="European Union">EU</abbr> Directive. Certification is needed before the manufacturer can CE mark the device, for all but the lowest risk devices. For medium- and high-risk devices manufacturers must have their quality system and products’ safety and performance assessed by a Notified Body, before any products can be placed on the market.</p>
-
-<p>The assessment route depends on the <a rel="external" href="http://ec.europa.eu/DocsRoom/documents/10337/attachments/1/translations">classification</a> of the device.</p>
-
-<p>Once the conformity assessment has been successfully completed, you can place a CE mark on your device to show that the device has met the requirements.</p>
-
-<h3 id="manufacturer-requirements-for-low-risk-medical-devices-and-ivds-1">Manufacturer requirements for low-risk medical devices and <abbr title="in vitro diagnostic medical devices">IVDs</abbr>
-</h3>
-
-<p>For the lowest risk medical devices (Class I) and <abbr title="in vitro diagnostic medical devices">IVDs</abbr> (general <abbr title="in vitro diagnostic medical devices">IVDs</abbr> and Class A), once you are satisfied that your device complies with the requirements, you must write a statement (known as the Declaration of Conformity) to declare this. You can then place a CE mark on the product, which means that it can be placed on the <abbr title="European Union">EU</abbr> market. The UK will also allow this product to be placed on its market.</p>
-
-<p>See <a href="https://www.gov.uk/government/collections/guidance-on-class-1-medical-devices">guidance on Class I medical devices</a> for more information.</p>
-
-<h3 id="manufacturer-requirements-for-medium--and-high-risk-medical-devices-and-ivds-1">Manufacturer requirements for medium- and high-risk medical devices and <abbr title="in vitro diagnostic medical devices">IVDs</abbr>
-</h3>
-
-<p>For all other medical devices (Class IIa, Class IIb, Class III and active implantable medical devices) and <abbr title="in vitro diagnostic medical devices">IVDs</abbr> (Annex II List A and B, self-test <abbr title="in vitro diagnostic medical devices">IVDs</abbr>, Class B, Class C and Class D), you need to declare that your device meets the requirements of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<p>To do this, you will need to apply to a designated Notified Body to carry out a conformity assessment to confirm your declaration.</p>
-
-<p>For certain Class I medical devices that include sterile products or a measuring function, you will also need to apply to a Notified Body to approve and certify the parts of your manufacturing process that relates to sterility or metrology.</p>
-
-<p>You can then place a CE mark on your product and place it on the UK market when you have received a certificate from the Notified Body.</p>
-
-<p>We have a <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/476902/Conformity_assessment_routes_chart_Nov15.pdf">flow chart</a> which illustrates these conformity assessment routes.</p>
-
-<h3 id="status-of-uk-notified-bodies-and-certificates-issued-by-these-notified-bodies-after-the-uks-left-the-eu-1">Status of UK Notified Bodies and certificates issued by these Notified Bodies after the UK’s left the <abbr title="European Union">EU</abbr>
-</h3>
-
-<p>After Brexit we expect that UK-based Notified Bodies will no longer be recognised by the <abbr title="European Union">EU</abbr>. This means that the devices they have certified will no longer be in conformity with the applicable <abbr title="European Union">EU</abbr> Directive. The lack of CE certification means that these devices may not legally be able to be placed on the <abbr title="European Union">EU</abbr> market.</p>
-
-<p>To support the continuity of supply of devices to the UK market, we will give UK-based Notified Bodies an ongoing legal status and continue to recognise the validity of certificates that they issued prior to the UK’s departure from the <abbr title="European Union">EU</abbr>. This will allow devices covered by certificates issued by UK-based Notified Bodies to continue to be placed on the UK market after the UK leaves the <abbr title="European Union">EU</abbr>.</p>
-
-<p>These UK-based Notified Bodies will continue to oversee these devices and their manufacturers, to ensure continued compliance with the applicable standards of safety and performance.</p>
-
-<h3 id="notified-bodies-that-can-be-used-from-after-the-uk-leaves-the-eu-1">Notified Bodies that can be used from after the UK leaves the <abbr title="European Union">EU</abbr>
-</h3>
-
-<p>Certificates that have already been issued by <a href="https://www.gov.uk/government/publications/medical-devices-uk-notified-bodies">UK-based Notified Bodies</a> prior to the UK’s departure from the <abbr title="European Union">EU</abbr> will continue to be valid for the UK market. The <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> will continue to oversee the activities of UK-based Notified Bodies.</p>
-
-<p>From Exit Day, if you wish to place a new device, which requires a Notified Body to carry out a conformity assessment, on to the UK or <abbr title="European Union">EU</abbr> market, you will need to use a <a rel="external" href="http://ec.europa.eu/growth/tools-databases/nando/index.cfm?fuseaction=notifiedbody.main">Notified Body based in an <abbr title="European Union">EU</abbr> Member State</a>. Once the conformity assessment has been successfully completed, you can place a CE mark on your device and place the product on the UK or <abbr title="European Union">EU</abbr> market.</p>
-
-<h2 id="labelling-requirements-1">Labelling requirements</h2>
-
-<p>Relevant labelling requirements will continue to apply from the day the UK leaves the <abbr title="European Union">EU</abbr>, including the requirement for products to carry a CE mark and devices which require conformity assessment must also include the Notified Body number. This means that, should you change your Notified Body, you will be required to make the relevant changes to Notified Body numbers appearing on your device and packaging.</p>
-
-<p>No labelling changes will be required to reflect the role of the ‘UK Responsible Person’.</p>
-
-<h3 id="future-changes-to-labelling-requirements-from-may-2020-1">Future changes to labelling requirements from May 2020</h3>
-
-<p>Changes to labelling requirements will come in to force in May 2020 for medical devices and May 2022 for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>. The labelling requirements can be found in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=123">Schedule 3 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=176">Schedule 17 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019). This includes the <abbr title="Unique Device Identifier">UDI</abbr> requirements set out in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=144">Schedule 8</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=196">Schedule 22</a>.</p>
-
-<h2 id="registrations-1">Registrations</h2>
-
-<h3 id="overview-12">Overview</h3>
-<p>From the day the UK leaves the <abbr title="European Union">EU</abbr>, any medical device or an <abbr title="in vitro diagnostic medical device">IVD</abbr> placed on the UK market must be registered with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>.</p>
-
-<p>The <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> will only register manufacturers that have a registered place of business (see section on ‘Definition of ‘registered place of business’ for more information) in the UK. If the manufacturer is based outside the UK, the manufacturer must assign a UK Responsible Person that has a registered place of business in the UK. This UK Responsible Person will then assume the responsibilities of the manufacturer in terms of registering the device.</p>
-
-<p>Before you register with <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>, you must ensure that your device meets all relevant legal requirements set out above.</p>
-
-<p>Once you are satisfied that your devices meet all the relevant requirements, you can register with <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>. We will provide further guidance on how to register with us in due course.</p>
-
-<h3 id="definition-of-registered-places-of-business-1">Definition of ‘registered places of business’</h3>
-
-<p>If the manufacturer or its UK Responsible Person is a UK company then the “registered place of business” should be the same as its “registered office” under the Companies Act 2006. That would be the address held by the Registrar of Companies, which would have been included in the original application for company registration (and any change of address would have been notified to the Registrar).</p>
-
-<p>In certain cases, the UK Responsible Person may not be a company. If this is the case, the person’s contact address, or any address where official documents can be sent, will need to be provided. Please note that this address will be made publicly available on the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>’s <a rel="external" href="https://aic.mhra.gov.uk/era/pdr.nsf/name?openpage&start=1&count=200">Public Access Registrations Database</a> (<abbr title="Public Access Registrations Database">PARD</abbr>).</p>
-
-<h3 id="registering-your-device-after-the-uk-leaves-the-eu-1">Registering your device after the UK leaves the <abbr title="European Union">EU</abbr>
-</h3>
-
-<p>After exit day, all medical devices, active implantable medical devices, <abbr title="in vitro diagnostic medical devices">IVDs</abbr> and custom-made devices will need to be registered with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> prior to being placed on the UK market.</p>
-
-<p>Given that this is an extension of existing registration requirements, there will be a grace period to allow time for compliance with the new registration process.</p>
-
-<p>For the following devices, you will have four months to register with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>.</p>
-
-<ul>
-  <li>Class III medical devices</li>
-  <li>Class IIb implantable medical devices</li>
-  <li>Active implantable medical devices</li>
-  <li>
-<abbr title="in vitro diagnostic medical device">IVD</abbr> List A</li>
-</ul>
-
-<p>For the following devices, you will have eight months to register with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>.</p>
-
-<ul>
-  <li>Class IIb non-implantable medical devices</li>
-  <li>Class IIa medical devices</li>
-  <li>
-<abbr title="in vitro diagnostic medical device">IVD</abbr> List B</li>
-  <li>Self-test <abbr title="in vitro diagnostic medical devices">IVDs</abbr>
-</li>
-</ul>
-
-<p>For the following devices, you will have 12 months to register with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>.</p>
-
-<ul>
-  <li>Class I medical devices</li>
-  <li>General <abbr title="in vitro diagnostic medical devices">IVDs</abbr>
-</li>
-  <li>Class A <abbr title="in vitro diagnostic medical devices">IVDs</abbr> (if complying with the <abbr title="Regulation 2017/746 on in vitro diagnostic medical devices">EU IVDR</abbr> 2017/746)</li>
-</ul>
-
-<p>Registration for custom-made devices will be in line with the risk class of the device.
-Failure to register by these dates will mean that you will no longer be able to lawfully place your device on the UK market.</p>
-
-<h3 id="registration-information-to-be-provided-to-the-mhra-1">Registration information to be provided to the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>
-</h3>
-
-<p>To register any class of device with <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>, you will need to use <a rel="external" href="https://www.gmdnagency.org/">Global Medical Devices Nomenclature</a> (<abbr title="Global Medical Devices Nomenclature">GMDN</abbr>) to describe your device. You do not need to be a member of the <abbr title="Global Medical Devices Nomenclature">GMDN</abbr> Agency to find and select the appropriate <abbr title="Global Medical Devices Nomenclature">GMDN</abbr> terms within our online registration system.</p>
-
-<p>Initially, the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> will require all devices to be registered at the level of <abbr title="Global Medical Devices Nomenclature">GMDN</abbr> code. If you do not know which <abbr title="Global Medical Devices Nomenclature">GMDN</abbr> code applies to your device, you will need to select the relevant description term from our system.
-However, for Class III devices, you must also provide the following product information:</p>
-
-<ul>
-  <li>medical device name</li>
-  <li>model</li>
-  <li>catalogue or reference number</li>
-</ul>
-
-<p>These are recognised common data elements in the <a rel="external" href="http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-rps-common-data-elements.pdf"><abbr title="International Medical Devices Regulators Forum">IMDRF</abbr> Primary Medical Device Identity information</a>.</p>
-
-<p>You can read more about the registration obligations in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=17">regulation 7A (for medical devices)</a>, <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=19">regulation 21A (for active implantable medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=20">regulation 33A (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> in the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h3 id="if-youre-a-manufacturer-based-outside-of-the-uk-1">If you’re a manufacturer based outside of the UK</h3>
-
-<p>Registration of a device with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> must be undertaken by a designated UK Responsible Person established in the UK and with a UK registered address who will take responsibility for the device in the UK.</p>
-
-<p>You can read more about the UK Responsible Person above, in the section regarding ‘Role of those manufacturing and supply devices’. You can also read about this Person’s obligations in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=39">regulation 77 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=87">regulation 146 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h3 id="how-to-register-your-medical-devices-in-a-no-deal-brexit-1">How to register your medical devices in a no deal Brexit</h3>
-
-<p>The Agency is making preparations to ensure that, in the event that the UK leaves the <abbr title="European Union">EU</abbr> without a deal, we are able to process the anticipated volume of devices which will require registration with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>.</p>
-
-<p>For this reason, we intend to process registrations in phases in line with the regulatory deadlines set for each device class. We will take into account how many devices you intend to register.</p>
-
-<p>In a no deal scenario, the deadline for all high-risk devices listed below to be registered with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> is within 4 months of the UK’s departure from the <abbr title="European Union">EU</abbr>:</p>
-
-<ul>
-  <li>Class IIb implantable devices</li>
-  <li>Class III medical devices</li>
-  <li>Active implantable medical devices</li>
-  <li>Annex II List A <abbr title="in vitro diagnostic medical devices">IVDs</abbr>
-</li>
-  <li>Procedure packs that include any of the above devices</li>
-</ul>
-
-<p>For all other medical devices and <abbr title="in vitro diagnostic medical devices">IVDs</abbr>, we ask that you wait until we provide further updates on when to register with us.</p>
-
-<p>Registration for custom-made devices will be in line with the risk class of the device.</p>
-
-<p>If you intend to register high risk devices that fall within the above categories, please email <a href="mailto:device.registrations@mhra.gov.uk">device.registrations@mhra.gov.uk</a> using the following subject line heading:</p>
-
-<p>“[Your organisation name] - Intention to register high risk devices”.</p>
-
-<p>The body of the email should contain the following information:</p>
-
-<ol>
-  <li>Your contact details (including your organisation’s legal address and an email address you can be contacted on)</li>
-  <li>Your organisation name</li>
-  <li>Whether you are a UK Responsible Person acting on behalf of a manufacturer based outside of the UK (further information on <a href="https://www.gov.uk/guidance/regulating-medical-devices-in-the-event-of-a-no-deal-scenario">the role of a UK Responsible Person can be found in our guidance</a> published on 26 February 2019)</li>
-  <li>An indication of how many devices and products you intend to register with us (for each organisation if you are the authorised representative)</li>
-</ol>
-
-<p>If you are currently a UK based authorised representative, please provide details of all organisations that you represent.</p>
-
-<p>You will receive an auto-response confirming receipt of your email, and we will then contact you in due course with further instructions on the registration process.</p>
-
-<p>To prepare for registering your devices with us, we advise that you compile lists of the devices you intend to register, along with the <abbr title="Global Medical Devices Nomenclature">GMDN</abbr> code/term. We will also require copies of the associated CE certificates.</p>
-
-<p>For Class III devices you will also need to compile the corresponding product information (device name, model, catalogue number, <abbr title="Unique Device Identifier">UDI</abbr> (if applicable).</p>
-
-<h3 id="fees-1">Fees</h3>
-<p>You will be charged a statutory fee of £100 per registration application. Depending on the number of devices you have, you may be able to register all of these in one application.</p>
-
-<p>A fee of £100 also applies for adding new and/or subsequent changes to medical device(s) and/or in vitro diagnostic device(s) registrations.</p>
-
-<h3 id="manufacturers-who-are-already-registered-with-the-mhra-1">Manufacturers who are already registered with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>
-</h3>
-<p>If you are already registered with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>, you will need to confirm the accuracy of the information registered with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> by the relevant dates set out above. There will be no charge for this, unless you need to make any changes.</p>
-
-<p>You must notify us of changes to your registration details and a statutory fee of £100 is chargeable for a change of:</p>
-
-<ul>
-  <li>your registered place of business</li>
-  <li>company name</li>
-  <li>company type e.g. if you become a limited company</li>
-  <li>adding device(s) to your registration record</li>
-  <li>status of an <abbr title="in vitro diagnostic medical device">IVD</abbr>, for example a change from ‘performance evaluation’ to ‘new’</li>
-</ul>
-
-<p>Where the manufacturer is currently registered on our systems through an <abbr title="European Union">EU</abbr> Authorised Representative, you must update the information to include a UK Responsible Person. The fee of £100 will apply if you need to update information to include the details of a UK Responsible Person.</p>
-
-<p>The fee is not chargeable for:</p>
-
-<ul>
-  <li>change of email address or telephone numbers</li>
-  <li>adding or removing product information for your registered devices</li>
-  <li>removing devices from your registration record</li>
-</ul>
-
-<h3 id="requirement-to-regularly-update-the-information-1">Requirement to regularly update the information</h3>
-<p>You must renew your registration one year after your registration application or confirmation was made and every two years after this date. For each renewal, you will be charged the £100 statutory fee (see below for further information).</p>
-
-<p>Failure to renew your registration will result in the removal of your records from our database, after which you will need to complete a new registration application or you will no longer be able to place your device on the UK market.</p>
-
-<h3 id="register-of-manufacturers-1">Register of manufacturers</h3>
-<p>Once registered, your company name and address are added to the <a rel="external" href="http://aic.mhra.gov.uk/era/pdr.nsf/name?openpage&start=1&count=200">Public Access Database for Medical Device Registration</a>. Records are listed by manufacturer name, address, <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> reference number and list the device types registered with us.</p>
-
-<p>Registering your devices with <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> does not mean that we give you any form of accreditation, certification or approval for the device and you should not claim this in any marketing materials, on the packaging or in the instructions for use.</p>
-
-<h3 id="future-changes-to-registering-your-device-from-may-2020-1">Future changes to registering your device from May 2020</h3>
-<p>Changes to registration requirements will come into force on 26 May 2020 for medical devices and on 26 May 2022 for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>. The additional registration requirements can be found in regulations 91 to 95 (for medical devices) and regulations 157 to 160 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>) of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h2 id="post-market-surveillance-and-vigilance-1">Post-market surveillance and vigilance</h2>
-
-<h3 id="overview-13">Overview</h3>
-
-<p><abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> operates the system for reporting and recording details of suspected adverse incidents relating to a medical device or <abbr title="in vitro diagnostic medical device">IVD</abbr> which occur in the UK. A key responsibility of the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> is to investigate device-related adverse incidents or monitor investigations carried out by the manufacturer and take appropriate action to prevent or reduce the likelihood of recurrence as part of its market surveillance role. If a non-compliances are found during an investigation of a manufacturer, the manufacturer has a statutory obligation to resolve these non-compliances.</p>
-
-<p>Once a medical device has been placed on the UK market in compliance with the applicable legislation, the manufacturer must continually monitor the safety and performance of their device. The manufacturer must submit vigilance reports to the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> when certain incidents occur in the UK involving their device and take appropriate safety action when required. The manufacturer must ensure the device meets appropriate standards of safety and performance for as long as it is in use.</p>
-
-<p>From the day the UK leaves the <abbr title="European Union">EU</abbr>, where a manufacturer is based outside of the UK, it must have in place a UK Responsible Person. This UK Responsible Person will be required to meet certain reporting requirements, as set out in <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=17">regulation 7A</a> (for medical devices), <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=19">regulation 21A</a> (for active implantable medical devices) and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=20">regulation 33A</a> (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>) in the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<p>Please see our <a href="https://www.gov.uk/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance">guidance page</a> for further information on manufacturer reporting requirements.</p>
-
-<h3 id="future-changes-to-post-market-surveillance-requirements-from-may-2020-1">Future changes to post-market surveillance requirements from May 2020</h3>
-
-<p>From 26 May 2020 (for medical devices) and May 2022 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>) new requirements relating to a manufacturer’s post market surveillance system will be in place that will require manufacturers to adhere to increased requirements around post-market surveillance and vigilance. This will include maintaining a post-market surveillance plan and issuing periodic safety update reports (PSURs). Further information for post-market surveillance requirements can be found under <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=68">regulations 121 to 124 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=110">regulations 186 to 189 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<p>Additionally, the new vigilance requirements define specific reporting requirements which include but are not limited to defined time frames for notifying the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> of incidents and the preparation of manufacturer reports after the occurrence of incidents. Full information on vigilance can be found under <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=69">regulations 125 to 129 (for medical devices)</a> and <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111179260/pdfs/ukdsi_9780111179260_en.pdf#page=112">regulations 190 to 194 (for <abbr title="in vitro diagnostic medical devices">IVDs</abbr>)</a> of the <abbr title="Medical Devices Regulations 2002 (SI 2002 No.618, as amended)">UK MDR 2002</abbr> (as amended by the UK MDR 2019).</p>
-
-<h2 id="contact-us-1">Contact us</h2>
-
-<p>Please direct any queries to <a href="mailto:devices.regulatory@mhra.gov.uk">devices.regulatory@mhra.gov.uk</a>.</p>
-
-<div class="call-to-action">
-<h3 id="stay-up-to-date">Stay up to date</h3>
-
-<p>This page tells you what to do if you the UK leaves the <abbr title="European Union">EU</abbr> without a deal. It will be updated if anything changes, including if a deal is agreed.</p>
-
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up to email alerts</a> to get the latest information.</p>
-</div>
 
 </div>
 </div>
@@ -1376,10 +796,14 @@ However, for Class III devices, you must also provide the following product info
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 26 February 2019
-    <br></br>Last updated 8 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 18 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-18T12:26:40.000+01:00">18 September 2019</time>
+              Creation of new UK Responsible Person section with added content.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-08T14:55:32.000+01:00">8 August 2019</time>
               Removed some background information and added a call to action to subscribe for updates.
@@ -1400,7 +824,7 @@ However, for Class III devices, you must also provide the following product info
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -1419,14 +843,14 @@ However, for Class III devices, you must also provide the following product info
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-2a84f1d2" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-3d54c0e2" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2a84f1d2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3d54c0e2" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -1439,14 +863,14 @@ However, for Class III devices, you must also provide the following product info
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2a84f1d2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-3d54c0e2" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-2a84f1d2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-3d54c0e2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario" data-track-options="{"dimension28":"1","dimension29":"MHRA guidance and publications about a possible no deal Brexit"}" href="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario">MHRA guidance and publications about a possible no deal Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario" data-track-options="{"dimension28":"1","dimension29":"MHRA guidance and publications about a possible no-deal Brexit"}" href="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario">MHRA guidance and publications about a possible no-deal Brexit</a></li>
 
   </ul>
 </nav>
@@ -1472,9 +896,9 @@ However, for Class III devices, you must also provide the following product info
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2fdb6f33" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6d141b95" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2fdb6f33" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-6d141b95" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
