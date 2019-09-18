@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    The British Embassy in Sofia regularly holds events across Bulgaria to update UK nationals on the UK’s departure from the European Union. 
-  </p>
+  <p class="gem-c-lead-paragraph">The British Embassy in Sofia regularly holds events across Bulgaria to update UK nationals on the UK’s departure from the European Union. </p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 23 November 2018
-    <br></br>Last updated 11 January 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 18 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/world/organisations/british-embassy-sofia">British Embassy Sofia</a>
+                  <a class="govuk-link" href="/world/organisations/british-embassy-sofia">British Embassy Sofia</a>
                 </span>
             </dd>
         </dl>
@@ -56,7 +54,7 @@
   <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
       <figure class="app-c-figure" lang="en">
-  <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81541/s300_Brexit_outreach_events_for_british_citizens_in_bulgaria-2.jpg" alt="British Embassy outreach events in Bulgaria"></img>
+  <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/91720/s300_asdawaef.jpg" alt="British Embassy outreach events in Bulgaria"></img>
     <figcaption class="app-c-figure__figcaption">
         <p class="app-c-figure__figcaption-text">
           British Embassy outreach events in Bulgaria
@@ -88,6 +86,38 @@
 </ul>
 
 <p>In our team’s continuous effort to reach as many UK expats in Bulgaria as possible, we will be announcing further outreach meetings on this page.</p>
+
+<h2 id="upcoming-events">Upcoming events</h2>
+
+<h3 id="veliko-tarnovo-british-embassy-outreach-event">Veliko Tarnovo: British Embassy outreach event</h3>
+<p>Thursday, 19 September 2019, 15:00 – 17:00</p>
+
+<p>Location: Exhibition Halls “Rafael Mihaylov”, 1 Rafael Mihaylov Street, Veliko Tarnovo</p>
+
+<p>You can register for the event in Veliko Tarnovo <a rel="external" href="https://www.eventbrite.co.uk/e/meeting-with-the-british-community-in-veliko-tarnovo-and-the-region-registration-71245680749">here</a></p>
+
+<h3 id="targovishte-british-embassy-outreach-event">Targovishte: British Embassy outreach event</h3>
+<p>Friday, 20 September 2019, 12:00 – 14:00</p>
+
+<p>Location: Targovishte Town Hall, Svoboda Square, 7700 Targovishte</p>
+
+<p>You can register for the event in Targovishte <a rel="external" href="https://www.eventbrite.co.uk/e/meeting-with-the-british-community-in-targovishte-and-the-region-registration-71248996667">here</a></p>
+
+<h3 id="yambol-british-embassy-outreach-event">Yambol: British Embassy outreach event</h3>
+<p>Wednesday, 2 October 2019, 15:00-17:00</p>
+
+<p>Location: “Bezisten” Art Gallery (sotuh entrance, ground floor), 1 Osvobozhdenie Square, Yambol</p>
+
+<p>You can register for the event in Yambol <a rel="external" href="https://www.eventbrite.co.uk/e/meeting-with-the-british-community-in-yambol-and-the-region-tickets-73233640791">here</a></p>
+
+<h3 id="stara-zagora-british-embassy-outreach-event">Stara Zagora: British Embassy outreach event</h3>
+<p>Thursday, 3 October 2019, 11:00-12:30</p>
+
+<p>Location: Stara Zagora Town Hall, 107 Tsar Simeon Veliki Blvd., Stara Zagora</p>
+
+<p>You can register for the event in Stara Zagora <a rel="external" href="https://www.eventbrite.co.uk/e/meeting-with-the-british-community-in-stara-zagora-and-the-region-tickets-73237448179">here</a></p>
+
+<h3 id="dobrich-british-embassy-outreach-event-details-tbc">Dobrich: British Embassy outreach event (details TBC)</h3>
 
 <h2 id="past-events">Past events</h2>
 
@@ -135,7 +165,7 @@
     </div>
 
     <div class="dont-print responsive-bottom-margin">
-        <div class="gem-c-share-links  " data-module="track-click">
+        <div class="gem-c-share-links " data-module="track-click">
       <h2 class="gem-c-share-links__title">Share this page</h2>
 
     <ul class="gem-c-share-links__list">
@@ -160,16 +190,23 @@
             </span><span class="visually-hidden">Share on </span>Twitter</a>
         </li>
     </ul>
-  </div>
-
+</div>
     </div>
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 23 November 2018
-    <br></br>Last updated 11 January 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 18 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-18T11:52:54.000+01:00">18 September 2019</time>
+              New events and dates added
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-03T09:29:50.000+01:00">3 September 2019</time>
+              Two new outreach events as part of our autumn round of meetings for the British diaspora in Bulgaria. 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-01-11T10:48:15.000+00:00">11 January 2019</time>
               New locations for outreach events added. 
@@ -204,14 +241,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-993ea260" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-618bc0b6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-993ea260" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-618bc0b6" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -221,7 +258,7 @@
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/bulgaria-list-of-translators" data-track-options="{"dimension28":"5","dimension29":"Bulgaria: translators"}" href="/government/publications/bulgaria-list-of-translators">Bulgaria: translators</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks" data-track-options="{"dimension28":"5","dimension29":"Townhall meeting for British nationals - opening remarks"}" href="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks">Townhall meeting for British nationals - opening remarks</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/malta-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Malta: funeral directors"}" href="/government/publications/malta-list-of-funeral-directors">Malta: funeral directors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/funeral-directors-list" data-track-options="{"dimension28":"5","dimension29":"Greece: funeral directors"}" href="/government/publications/funeral-directors-list">Greece: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/funeral-directors-list" data-track-options="{"dimension28":"5","dimension29":"Greece: funeral directors"}" href="/government/publications/funeral-directors-list">Greece: funeral directors</a></li>
 
   </ul>
 </nav>
@@ -247,9 +284,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dd66a671" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-222a107c" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-dd66a671" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-222a107c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -263,9 +300,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-dd66a671" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-222a107c" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-dd66a671" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-222a107c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
