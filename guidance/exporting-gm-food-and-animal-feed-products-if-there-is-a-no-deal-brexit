@@ -9,7 +9,7 @@
   </h1>
 </div>
   </div>
-    <div class="govuk-grid-column-third">
+    <div class="govuk-grid-column-one-third">
       <nav role="navigation" class="gem-c-translation-nav  " aria-label="Translations">
     <ul class="gem-c-translation-nav__list">
         <li class="gem-c-translation-nav__list-item">
@@ -25,9 +25,7 @@
 
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Find out how businesses that hold or seek authorisations for GM food or feed or animal feed additives, or export animal feed to the EU, will be affected if there is a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">Find out how businesses that hold or seek authorisations for GM food or feed or animal feed additives, or export animal feed to the EU, will be affected if there is a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -38,8 +36,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 7 August 2019
-    <br></br>Last updated 8 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 19 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -49,7 +47,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/food-standards-agency">Food Standards Agency</a>
+                  <a class="govuk-link" href="/government/organisations/food-standards-agency">Food Standards Agency</a>
                 </span>
             </dd>
         </dl>
@@ -71,22 +69,48 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#overview" data-track-options="{"dimension29":"Overview"}" href="#overview">Overview</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#overview" data-track-options="{"dimension29":"Overview"}" href="#overview">Overview</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#more-information" data-track-options="{"dimension29":"More information"}" href="#more-information">More information</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#appointing-a-representative" data-track-options="{"dimension29":"Appointing a representative"}" href="#appointing-a-representative">Appointing a representative</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#uk-businesses-holding-eu-authorisations-for-gm-food-or-feed-or-for-animal-feed-additives" data-track-options="{"dimension29":"UK businesses holding EU authorisations for GM food or feed, or for animal feed additives"}" href="#uk-businesses-holding-eu-authorisations-for-gm-food-or-feed-or-for-animal-feed-additives">UK businesses holding EU authorisations for GM food or feed, or for animal feed additives</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#uk-exporters-of-feed-products-to-the-eu" data-track-options="{"dimension29":"UK exporters of feed products to the EU"}" href="#uk-exporters-of-feed-products-to-the-eu">UK exporters of feed products to the EU</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#other-businesses-in-the-scope-of-this-guidance" data-track-options="{"dimension29":"Other businesses in the scope of this guidance"}" href="#other-businesses-in-the-scope-of-this-guidance">Other businesses in the scope of this guidance</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#imports-into-the-uk" data-track-options="{"dimension29":"Imports into the UK"}" href="#imports-into-the-uk">Imports into the UK</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#how-the-uk-government-is-working-with-interested-parties" data-track-options="{"dimension29":"How the UK government is working with interested parties"}" href="#how-the-uk-government-is-working-with-interested-parties">How the UK government is working with interested parties</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#more-information" data-track-options="{"dimension29":"More information"}" href="#more-information">More information</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -104,36 +128,70 @@
 
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
-<p>This page tells you what to do if there is a no-deal Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+<p>The UK will leave the EU on 31 October 2019. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
 
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
+<p>Sign up for email alerts to get the latest information:</p>
+
+<ul>
+  <li>
+    <p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Brexit updates</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/email-signup?link=/government/organisations/food-standards-agency">Food Standards Agency updates</a></p>
+  </li>
+</ul>
 </div>
 
 <h2 id="overview">Overview</h2>
 
 <p>Your business will need to be established in the EU or European Economic Area (EEA), or have a representative that is established in the EU or EEA if you wish to trade in the EU. The EEA includes Iceland, Liechtenstein and Norway. The role of the representative is to provide assurance that the non-EU establishment complies with EU legislation. The following guidance explains what you need to do.</p>
 
-<h3 id="appointing-a-representative">Appointing a representative</h3>
+<h2 id="appointing-a-representative">Appointing a representative</h2>
 <p>When appointing a representative, your UK businesses should ensure that the potential representative is based in one of the 27 EU countries, or an EEA country, and that they are able to provide the necessary assurance to act as such. When appointed, the representative needs to submit a request to the appropriate competent authority in the EU country or EEA state in which they are based. You should obtain confirmation that they have done so and, finally, that the competent authority has informed the European Commission.</p>
 
-<h3 id="uk-businesses-holding-eu-authorisations-for-gm-food-or-feed-or-for-animal-feed-additives">UK businesses holding EU authorisations for GM food or feed, or for animal feed additives</h3>
+<h2 id="uk-businesses-holding-eu-authorisations-for-gm-food-or-feed-or-for-animal-feed-additives">UK businesses holding EU authorisations for GM food or feed, or for animal feed additives</h2>
 <p>If you are holding EU authorisations for GM food or feed, or for animal feed additives, you will need to designate a representative established in the EU or EEA. You will need to provide details of the representative to the European Commission. This could be a branch of your business which is established in the EU or EEA or another business. Changes to holder-specific authorisations for GM food or feed, or for feed additives, require amendments to EU legislation which would need to be in place by exit day. Businesses in the process of such changes need to approach the European Commission as soon as possible.</p>
 
-<h3 id="uk-exporters-of-feed-products-to-the-eu">UK exporters of feed products to the EU</h3>
+<h2 id="uk-exporters-of-feed-products-to-the-eu">UK exporters of feed products to the EU</h2>
 <p>Exporters of feed products to the EU will require representation in the EU or EEA. As a guide only, <a rel="external" href="https://www.food.gov.uk/business-guidance/third-country-representation-for-animal-feed-businesses">current UK procedures on becoming a representative are available on the Food Standards Agency (FSA) website</a>. EU countries will each have their own systems for this and businesses should consult with the relevant competent authority in the EU country for further advice on gaining recognition for their representative. The requirement for non-EU country representation would apply to all feed products exported to the EU.</p>
 
 <p>The requirement for non-EU country representation would apply to all feed products. This follows the European Commission’s announcement of a revised interpretation of Regulation (EC) 183/2005, Article 24. The FSA is currently seeking clarity on this interpretation, but companies should nevertheless anticipate this revised interpretation and consider designating a representative within the EU or the EEA.</p>
 
-<h3 id="other-businesses-in-the-scope-of-this-guidance">Other businesses in the scope of this guidance</h3>
+<h3 id="third-country-representatives">Third country representatives</h3>
+<p>Exporters of feed products to the EU will require representation in the EU or EEA.</p>
+
+<p>We are aware that some member states have specific national rules on the requirements of having a representative for importing feed into the EU. For example, they may require registration of all feed importers, including those from non-EU establishments that have a representative in another member state.
+Businesses should therefore consult with the relevant competent authority in the individual member state(s) that they wish to export to, to ensure that they are compliant with any national rules and for further advice on gaining recognition for their representative.</p>
+
+<p>Further details of <a rel="external" href="https://ec.europa.eu/food/safety/animal-feed/feed-hygiene/approved-establishments_en">competent authorities in other member states can be found via the Commission’s website</a> or through the ‘control systems’ tab of the country profiles for each member state, <a rel="external" href="http://ec.europa.eu/food/audits-analysis/country_profiles/index.cfm">on this Commission page</a>.</p>
+
+<p>You could also seek clarification with your third country representative who could approach the relevant competent authority in the member state.</p>
+
+<h3 id="labelling">Labelling</h3>
+<p>Regulation (EC) No 767/2009 provides details of the labelling requirements for animal feed.  Article 12 states that the person responsible for the labelling shall be the feed business operator who first places the feed on the market or the feed business operator under whose name or business name the feed is marketed.</p>
+
+<p>It may be a requirement to have details of a third country representative on the label (i.e. company name and address or other) for animal feed products from the UK going to the EU market.</p>
+
+<p>You should seek clarification with your third country representative or the competent authority in the individual member state(s) that you wish to export to, to ensure that you are compliant with the national rules.</p>
+
+<h3 id="approval-numbers">Approval numbers</h3>
+<p>Regulation (EC) No 183/2005 on feed hygiene states that establishments approved by the competent authority shall be recorded in a national list under an individual identifying number.  Once the UK leaves the EU, these approval numbers may not be recognised in EU countries.</p>
+
+<p>You should seek clarification with your third country representative or the competent authority in the individual member state(s) that you wish to export to, to ensure that you are compliant with the rules on third country requirements when exporting to the EU.</p>
+
+<h2 id="other-businesses-in-the-scope-of-this-guidance">Other businesses in the scope of this guidance</h2>
 <p>UK businesses that have applied for EU authorisation of GM food or feed; feed additives; or updates to the list of PARNUTS, and whose application is still being processed, if they wish for the application(s) to continue, will need to designate a representative established within an EU country or the EEA. The business would also need to provide details of the representative to the European Commission. For feed additives, this applies to both generic authorisations and those linked to a specific authorisation holder.</p>
 
 <p>UK businesses acting in the role of a representative(s) for establishments in non-EU countries to enable them to export feed product to the EU, will need to inform the establishments they represent that they will no longer be able to act as their representative and advise them that they will need to appoint a representative based in an EU country or the EEA.</p>
 
-<h3 id="how-the-uk-government-is-working-with-interested-parties">How the UK government is working with interested parties</h3>
+<h2 id="imports-into-the-uk">Imports into the UK</h2>
+<p>From day one of Brexit, third country businesses, including those in EU member states or EEA states, wishing to import feed into UK will need to have a UK representative if they wish to import products into the UK. <a rel="external" href="https://www.food.gov.uk/business-guidance/third-country-representation-for-animal-feed-businesses">Further details on applying for representatives can be found on the FSA website</a>.</p>
+
+<h2 id="how-the-uk-government-is-working-with-interested-parties">How the UK government is working with interested parties</h2>
 <p>The FSA has contacted key stakeholders to notify them of these requirements and will keep them updated on developments.</p>
 
 <h2 id="more-information">More information</h2>
-<p>If you require more information or have questions on this guidance, please email the FSA: <a href="mailto:euexit@food.gov.uk">euexit@food.gov.uk</a></p>
+<p>If you require more information or have questions on this guidance, please email the FSA: <a href="mailto:AnimalFeed1@food.gov.uk">AnimalFeed1@food.gov.uk</a> and <a href="mailto:FeedDelivery@food.gov.uk">FeedDelivery@food.gov.uk</a></p>
 
 <p>All the information provided here is meant for guidance only. You should consider whether you need separate professional advice before making specific preparations.</p>
 </div>
@@ -143,10 +201,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 7 August 2019
-    <br></br>Last updated 8 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 19 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-19T09:37:56.000+01:00">19 September 2019</time>
+              Further considerations that businesses need to be aware if the UK leaves the EU without a deal. These relate to animal feed and labelling, approval numbers, third country representation and import requirements into the UK.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-08T11:46:05.000+01:00">8 August 2019</time>
               Added Welsh language translation
@@ -163,7 +225,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -182,34 +244,20 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-aa60675c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-2db0e813" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-aa60675c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2db0e813" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
-
-  </ul>
-</nav>
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-aa60675c" data-module="gem-toggle">
-
-    <h3 id="related-nav-related_guides-aa60675c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/official-sensitive-data-and-it" data-track-options="{"dimension28":"1","dimension29":"'OFFICIAL-SENSITIVE' data and IT"}" href="/guidance/official-sensitive-data-and-it">'OFFICIAL-SENSITIVE' data and IT</a></li>
 
   </ul>
 </nav>
@@ -235,9 +283,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-05b01386" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3d570499" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-05b01386" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-3d570499" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -246,7 +294,7 @@
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/environment/producing-distributing-food-dairy-milk-production" data-track-options="{"dimension28":"12","dimension29":"Dairy and milk production"}" href="/environment/producing-distributing-food-dairy-milk-production">Dairy and milk production</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/environment/producing-distributing-food-egg-production-marketing" data-track-options="{"dimension28":"12","dimension29":"Egg production and marketing"}" href="/environment/producing-distributing-food-egg-production-marketing">Egg production and marketing</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.4 Explore the topic" data-track-label="/environment/producing-distributing-food-food-labelling" data-track-options="{"dimension28":"12","dimension29":"Food labelling and safety"}" href="/environment/producing-distributing-food-food-labelling">Food labelling and safety</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.5 Explore the topic" data-track-label="/environment/producing-distributing-food-import-export" data-track-options="{"dimension28":"12","dimension29":"Import, export and distribution of food"}" href="/environment/producing-distributing-food-import-export">Import, export and distribution of food</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.5 Explore the topic" data-track-label="/environment/producing-distributing-food-import-export" data-track-options="{"dimension28":"12","dimension29":"Import, export and distribution of food"}" href="/environment/producing-distributing-food-import-export">Import, export and distribution of food</a></li>
 
       <li class="gem-c-related-navigation__link toggle-wrap">
         <a href="#" class="gem-c-related-navigation__toggle" data-controls="toggle_topics" data-expanded="false" data-toggled-text="Show fewer">
@@ -254,9 +302,9 @@
         </a>
       </li>
 
-      <li class="gem-c-related-navigation__link">
+      <li class="gem-c-related-navigation__link gem-c-related-navigation__link--truncated-links">
         <span id="toggle_topics" class="gem-c-related-navigation__toggle-more js-hidden">
-          <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.6 Explore the topic" data-track-label="/environment/producing-distributing-food-meat-production" data-track-options="{"dimension28":"12","dimension29":"Meat production"}" href="/environment/producing-distributing-food-meat-production">Meat production</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.7 Explore the topic" data-track-label="/environment/producing-distributing-food-sugar" data-track-options="{"dimension28":"12","dimension29":"Sugar"}" href="/environment/producing-distributing-food-sugar">Sugar</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.8 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"12","dimension29":"Brexit"}" href="/government/brexit">Brexit</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.9 Explore the topic" data-track-label="/business-and-industry/product-safety" data-track-options="{"dimension28":"12","dimension29":"Product safety"}" href="/business-and-industry/product-safety">Product safety</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.10 Explore the topic" data-track-label="/business-and-industry/running-a-business" data-track-options="{"dimension28":"12","dimension29":"Running a business"}" href="/business-and-industry/running-a-business">Running a business</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.11 Explore the topic" data-track-label="/business-and-industry/export-controls" data-track-options="{"dimension28":"12","dimension29":"Export controls and licensing"}" href="/business-and-industry/export-controls">Export controls and licensing</a>, and <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.12 Explore the topic" data-track-label="/business-and-industry/business-exports-licences-and-special-rules" data-track-options="{"dimension28":"12","dimension29":"Licences and special rules"}" href="/business-and-industry/business-exports-licences-and-special-rules">Licences and special rules</a>
+          <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.6 Explore the topic" data-track-label="/environment/producing-distributing-food-meat-production" data-track-options="{"dimension28":"12","dimension29":"Meat production"}" href="/environment/producing-distributing-food-meat-production">Meat production</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.7 Explore the topic" data-track-label="/environment/producing-distributing-food-sugar" data-track-options="{"dimension28":"12","dimension29":"Sugar"}" href="/environment/producing-distributing-food-sugar">Sugar</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.8 Explore the topic" data-track-label="/business-and-industry/product-safety" data-track-options="{"dimension28":"12","dimension29":"Product safety"}" href="/business-and-industry/product-safety">Product safety</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.9 Explore the topic" data-track-label="/business-and-industry/running-a-business" data-track-options="{"dimension28":"12","dimension29":"Running a business"}" href="/business-and-industry/running-a-business">Running a business</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.10 Explore the topic" data-track-label="/business-and-industry/export-controls" data-track-options="{"dimension28":"12","dimension29":"Export controls and licensing"}" href="/business-and-industry/export-controls">Export controls and licensing</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.11 Explore the topic" data-track-label="/business-and-industry/business-exports-licences-and-special-rules" data-track-options="{"dimension28":"12","dimension29":"Licences and special rules"}" href="/business-and-industry/business-exports-licences-and-special-rules">Licences and special rules</a>, and <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.12 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"12","dimension29":"Brexit"}" href="/brexit">Brexit</a>
         </span>
       </li>
   </ul>
