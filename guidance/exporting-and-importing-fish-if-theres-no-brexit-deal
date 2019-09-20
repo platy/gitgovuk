@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How to export fish after a no-deal Brexit, what documents you may need and customs rules to follow.
-  </p>
+  <p class="gem-c-lead-paragraph">How to export fish after a no-deal Brexit, what documents you may need and customs rules to follow.</p>
 
   </div>
 </div>
@@ -26,7 +24,7 @@
     <div class="app-c-published-dates " lang="en">
     Published 4 February 2019
     <br></br>Last updated 22 August 2019
-      — <a href="#history">see all updates</a>
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/marine-management-organisation">Marine Management Organisation</a> and <a href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
+                  <a class="govuk-link" href="/government/organisations/marine-management-organisation">Marine Management Organisation</a> and <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
                 </span>
             </dd>
         </dl>
@@ -58,34 +56,40 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#customs-requirements" data-track-options="{"dimension29":"Customs requirements"}" href="#customs-requirements">Customs requirements</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#customs-requirements" data-track-options="{"dimension29":"Customs requirements"}" href="#customs-requirements">Customs requirements</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#send-validated-catch-certificate-to-the-importer" data-track-options="{"dimension29":"Send validated catch certificate to the importer"}" href="#send-validated-catch-certificate-to-the-importer">Send validated catch certificate to the importer</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#send-validated-catch-certificate-to-the-importer" data-track-options="{"dimension29":"Send validated catch certificate to the importer"}" href="#send-validated-catch-certificate-to-the-importer">Send validated catch certificate to the importer</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#get-an-export-health-certificate" data-track-options="{"dimension29":"Get an export health certificate"}" href="#get-an-export-health-certificate">Get an export health certificate</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#get-an-export-health-certificate" data-track-options="{"dimension29":"Get an export health certificate"}" href="#get-an-export-health-certificate">Get an export health certificate</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#direct-landing-documents" data-track-options="{"dimension29":"Direct landing documents"}" href="#direct-landing-documents">Direct landing documents</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#direct-landing-documents" data-track-options="{"dimension29":"Direct landing documents"}" href="#direct-landing-documents">Direct landing documents</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#storage-document---for-fish-stored-in-the-uk-but-not-processed" data-track-options="{"dimension29":"Storage document - for fish stored in the UK but not processed"}" href="#storage-document---for-fish-stored-in-the-uk-but-not-processed">Storage document - for fish stored in the UK but not processed</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#storage-document---for-fish-stored-in-the-uk-but-not-processed" data-track-options="{"dimension29":"Storage document - for fish stored in the UK but not processed"}" href="#storage-document---for-fish-stored-in-the-uk-but-not-processed">Storage document - for fish stored in the UK but not processed</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#processing-statement---for-fish-processed-in-the-uk" data-track-options="{"dimension29":"Processing statement - for fish processed in the UK"}" href="#processing-statement---for-fish-processed-in-the-uk">Processing statement - for fish processed in the UK</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#processing-statement---for-fish-processed-in-the-uk" data-track-options="{"dimension29":"Processing statement - for fish processed in the UK"}" href="#processing-statement---for-fish-processed-in-the-uk">Processing statement - for fish processed in the UK</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -94,15 +98,17 @@
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
-
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
+<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.
+<br></br><br></br>
+<a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for government-wide email alerts</a> about Brexit. 
+<br></br><br></br>
+<a rel="external" href="https://public.govdelivery.com/accounts/UKDEFRA/subscriber/topics?qsp=CODE_RED">Sign up for Defra alerts</a> about Brexit and the fisheries and marine sector.</p>
 </div>
 
 <p>To export fish to the EU after a no-deal Brexit you’ll need to follow the same rules that are currently in place for exports of fish to some non-EU countries. You’ll need to create:</p>
 
 <ul>
-  <li>a <a href="https://www.gov.uk/guidance/catch-certificates-for-non-eu-imports-and-exports-of-fish">catch certificate</a> - you need to validate this and send it to your importer</li>
+  <li>a <a href="https://www.gov.uk/guidance/create-a-uk-catch-certificate">catch certificate</a> - you need to validate this and send it to your importer</li>
   <li>an <a href="https://www.gov.uk/guidance/get-an-export-health-certificate">export health certificate</a>, except for direct landings in EU ports from UK-flagged fishing vessels</li>
 </ul>
 
@@ -227,7 +233,7 @@ Telephone: 0330 159 1989 <br></br>
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 4 February 2019
     <br></br>Last updated 22 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
@@ -262,7 +268,7 @@ Telephone: 0330 159 1989 <br></br>
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -281,14 +287,14 @@ Telephone: 0330 159 1989 <br></br>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-576119f9" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b2a2d348" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-576119f9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b2a2d348" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -301,28 +307,28 @@ Telephone: 0330 159 1989 <br></br>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-576119f9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-b2a2d348" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-576119f9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-b2a2d348" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/catch-certificates-for-non-eu-imports-and-exports-of-fish" data-track-options="{"dimension28":"7","dimension29":"Catch certificates for non-EU imports and exports of fish"}" href="/guidance/catch-certificates-for-non-eu-imports-and-exports-of-fish">Catch certificates for non-EU imports and exports of fish</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/importing-and-exporting-live-aquatic-animals-eu-exit" data-track-options="{"dimension28":"7","dimension29":"Importing and exporting live aquatic animals if the UK leaves the EU with no deal"}" href="/guidance/importing-and-exporting-live-aquatic-animals-eu-exit">Importing and exporting live aquatic animals if the UK leaves the EU with no deal</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/create-a-uk-processing-statement" data-track-options="{"dimension28":"7","dimension29":"Create a UK processing statement"}" href="/guidance/create-a-uk-processing-statement">Create a UK processing statement</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/create-a-uk-storage-document" data-track-options="{"dimension28":"7","dimension29":"Create a UK storage document"}" href="/guidance/create-a-uk-storage-document">Create a UK storage document</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/create-a-uk-catch-certificate" data-track-options="{"dimension28":"7","dimension29":"Create a UK catch certificate"}" href="/guidance/create-a-uk-catch-certificate">Create a UK catch certificate</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/catch-certificates-for-non-eu-imports-and-exports-of-fish" data-track-options="{"dimension28":"8","dimension29":"Catch certificates for non-EU imports and exports of fish"}" href="/guidance/catch-certificates-for-non-eu-imports-and-exports-of-fish">Catch certificates for non-EU imports and exports of fish</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/importing-and-exporting-live-aquatic-animals-eu-exit" data-track-options="{"dimension28":"8","dimension29":"Importing and exporting live aquatic animals if the UK leaves the EU with no deal"}" href="/guidance/importing-and-exporting-live-aquatic-animals-eu-exit">Importing and exporting live aquatic animals if the UK leaves the EU with no deal</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/create-a-uk-processing-statement" data-track-options="{"dimension28":"8","dimension29":"Create a UK processing statement"}" href="/guidance/create-a-uk-processing-statement">Create a UK processing statement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/create-a-uk-storage-document" data-track-options="{"dimension28":"8","dimension29":"Create a UK storage document"}" href="/guidance/create-a-uk-storage-document">Create a UK storage document</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/create-a-uk-catch-certificate" data-track-options="{"dimension28":"8","dimension29":"Create a UK catch certificate"}" href="/guidance/create-a-uk-catch-certificate">Create a UK catch certificate</a></li>
 
       <li class="gem-c-related-navigation__link toggle-wrap">
         <a href="#" class="gem-c-related-navigation__toggle" data-controls="toggle_related_guides" data-expanded="false" data-toggled-text="Show fewer">
-          + 2 more
+          + 3 more
         </a>
       </li>
 
-      <li class="gem-c-related-navigation__link">
+      <li class="gem-c-related-navigation__link gem-c-related-navigation__link--truncated-links">
         <span id="toggle_related_guides" class="gem-c-related-navigation__toggle-more js-hidden">
-          <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.6 Detailed guidance" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"7","dimension29":"Exporting animals and animal products in a no-deal Brexit"}" href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals and animal products in a no-deal Brexit</a> and <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.7 Detailed guidance" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" data-track-options="{"dimension28":"7","dimension29":"Importing animals, animal products and high-risk food and feed not of animal origin if there's a no-deal Brexit"}" href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">Importing animals, animal products and high-risk food and feed not of animal origin if there's a no-deal Brexit</a>
+          <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.6 Detailed guidance" data-track-label="/guidance/import-fish-after-a-no-deal-brexit" data-track-options="{"dimension28":"8","dimension29":"Import fish after a no-deal Brexit"}" href="/guidance/import-fish-after-a-no-deal-brexit">Import fish after a no-deal Brexit</a>, <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.7 Detailed guidance" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" data-track-options="{"dimension28":"8","dimension29":"Prepare to import animals, animal products, high-risk food and feed not of animal origin after Brexit"}" href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">Prepare to import animals, animal products, high-risk food and feed not of animal origin after Brexit</a>, and <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.8 Detailed guidance" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"8","dimension29":"Exporting animals and animal products in a no-deal Brexit"}" href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals and animal products in a no-deal Brexit</a>
         </span>
       </li>
   </ul>
@@ -349,9 +355,9 @@ Telephone: 0330 159 1989 <br></br>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6f4368f6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4170bdde" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6f4368f6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-4170bdde" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
