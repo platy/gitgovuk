@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Official information for British people moving to and living in Slovenia, including Brexit guidance, residency, healthcare and driving.
-  </p>
+  <p class="gem-c-lead-paragraph">Official information for British people moving to and living in Slovenia, including Brexit guidance, residency, healthcare and driving.</p>
 
   </div>
 </div>
@@ -25,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 4 November 2013
-    <br></br>Last updated 3 September 2019
+    <br></br>Last updated 23 September 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -58,61 +56,80 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#attend-a-citizen-outreach-meeting" data-track-options="{"dimension29":"Attend a citizen outreach meeting"}" href="#attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-slovenia" data-track-options="{"dimension29":"Working in Slovenia"}" href="#working-in-slovenia">Working in Slovenia</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-slovenia" data-track-options="{"dimension29":"Working in Slovenia"}" href="#working-in-slovenia">Working in Slovenia</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-slovenia" data-track-options="{"dimension29":"Driving in Slovenia"}" href="#driving-in-slovenia">Driving in Slovenia</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#driving-in-slovenia" data-track-options="{"dimension29":"Driving in Slovenia"}" href="#driving-in-slovenia">Driving in Slovenia</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -126,12 +143,14 @@
 <p>You should:</p>
 
 <ul>
-  <li><a rel="external" href="http://www.mnz.gov.si/en/services/slovenia_your_new_country/entering_the_country/citizens_of_eu_and_eea/">register as a resident in Slovenia</a></li>
-  <li>read our guidance on <a href="https://www.gov.uk/guidance/living-in-slovenia#healthcare">healthcare cover if the UK leaves the EU without a deal</a>
-</li>
-  <li><a rel="external" href="https://infotujci.si/en/integration-into-slovenian-society/motor-vehicles/driving-licence/">exchange your UK driving licence for a Slovenian licence</a></li>
   <li>
-<a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport</a> is valid for travel</li>
+<a href="https://www.gov.uk/guidance/living-in-slovenia#visas-and-residency">register as a resident</a> in Slovenia</li>
+  <li>
+<a href="https://www.gov.uk/guidance/living-in-slovenia#healthcare">register for healthcare</a> as a resident in Slovenia</li>
+  <li>
+<a href="https://www.gov.uk/guidance/living-in-slovenia#passports-and-travel">check your passport</a> is valid for travel</li>
+  <li>
+<a href="https://www.gov.uk/guidance/living-in-slovenia#driving-in-slovenia">exchange your UK driving licence</a> for a Slovenian one</li>
 </ul>
 </div>
 
@@ -144,12 +163,16 @@
 </ul>
 </div>
 
+<h2 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h2>
+
+<p>The British Embassy regularly holds events across Slovenia for UK nationals. <a href="https://www.gov.uk/government/news/british-embassy-outreach-events-in-slovenia">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Slovenia after Brexit.</p>
+
 <p>You can also:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">read essential information about UK nationals in the EU</a></li>
-  <li><a href="https://www.gov.uk/government/news/british-embassy-outreach-events-in-slovenia">attend one of our citizen outreach meetings in Slovenia</a></li>
-  <li><a rel="external" href="http://www.vlada.si/en/projects/the_united_kingdoms_decision_to_leave_the_eu_brexit/">read the Slovenian Government’s webpage with their latest information for UK nationals</a></li>
+  <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">Living in the EU: prepare for Brexit</a>
+</li>
+  <li>read the <a rel="external" href="https://www.gov.si/zbirke/projekti-in-programi/izstop-zdruzenega-kraljestva-iz-evropske-unije-brexit/">Slovenian Government’s webpage with their latest information for UK nationals</a> (in Slovene only)</li>
 </ul>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
@@ -172,7 +195,7 @@
 
 <p>You must check with your town hall what further documentation you may need to apply for residency.</p>
 
-<p>Once you’ve held temporary residency in Slovenia for 5 years, you can apply to your town hall for a permanent resident certificate (Potrdilo o Stalnem Bivanju). Read the <a rel="external" href="http://www.mnz.gov.si/en/services/slovenia_your_new_country/entering_the_country/citizens_of_eu_and_eea/">Slovenian government’s guidance on entering Slovenia</a>.</p>
+<p>Once you’ve held temporary residency in Slovenia for 5 years, you can apply to your town hall for a permanent resident certificate (Potrdilo o Stalnem Bivanju). Read the <a rel="external" href="https://www.gov.si/en/policies/state-and-society/immigration-to-slovenia/">Slovenian government’s guidance on entering Slovenia</a>.</p>
 
 <p>UK nationals registered as residents will be able to stay in Slovenia after Brexit. If there are changes to residency rules or registration processes after Brexit, we will update this guidance as soon as information is available.</p>
 
@@ -230,17 +253,19 @@
 
 <h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
 
+<p>You must secure basic healthcare coverage through the Slovenian National Health Insurance Agency before Brexit.</p>
+
 <p>If there is a deal and you are resident in Slovenia by the end of the implementation period, you will continue to be covered for healthcare as you are now.</p>
 
-<p>You must secure basic healthcare coverage through the <a rel="external" href="http://www.zzzs.si/indexeng.html">Slovenian National Health Insurance Agency</a> before Brexit.</p>
+<p>If there’s no deal, you must confirm your residency status and decide how you will ensure access to healthcare.</p>
 
-<p>The UK has proposed maintaining current healthcare cooperation with Slovenia for S1 form holders until the end of December 2020. If there’s no deal, and there is no arrangement with Slovenia to continue reciprocal healthcare, those receiving coverage through the S1 form will not be covered.</p>
+<p>If you currently have your healthcare costs paid for by the UK government, we can help if you are asked to pay for treatment during the first 6 months after Brexit. To organise a payment, you must give your healthcare provider’s details to the NHS Business Services Authority’s Overseas Healthcare Services.</p>
 
-<p>You must confirm your residency status and decide how you will ensure access to healthcare if there’s no deal. UK nationals will be able to return to UK for treatment.</p>
+<p>You should read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-slovenia/">NHS guidance on healthcare</a> for UK nationals in Slovenia and how it may change after Brexit.</p>
+
+<p>The UK has offered to continue paying the country you live in for your healthcare in the event of no deal, just as it does now. The government has proposed maintaining current healthcare cooperation with Slovenia for S1 form holders until the end of December 2020. If there’s no deal, and there is no arrangement with Slovenia to continue reciprocal healthcare, those receiving coverage through the S1 form will not be covered.</p>
 
 <p>Your EHIC may not be valid if there’s no deal. The UK has offered to maintain the EHIC scheme if there’s no deal, however this is reliant on Slovenia continuing to accept UK EHICs.</p>
-
-<p>Read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-slovenia/">NHS guidance on healthcare</a> for UK nationals in Slovenia and how it may change after Brexit.</p>
 
 <h2 id="working-in-slovenia">Working in Slovenia</h2>
 
@@ -252,7 +277,7 @@
 
 <p>If there is a deal, your right to work will stay the same until the end of the implementation period.</p>
 
-<p>If you’re planning to start a business, provide a service, or do a job in a regulated profession after Brexit read the guidance on <a href="https://www.gov.uk/guidance/romania-providing-services-after-eu-exit">providing services after Brexit</a>.</p>
+<p>If you’re planning to start a business, provide a service, or do a job in a regulated profession after Brexit read the guidance on <a href="https://www.gov.uk/guidance/slovenia-providing-services-after-eu-exit">providing services after Brexit</a>.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
@@ -278,6 +303,12 @@
 <h3 id="national-insurance">National Insurance</h3>
 
 <p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
+
+<p>If you are employed or self-employed in the EU and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
+
+<p>If the end date on your form is after 31 October 2019, you should contact the relevant EU, EEA or Swiss authority to confirm whether you need to start paying social security contributions in that country after 31 October, as well as UK National Insurance contributions.</p>
+
+<p>Find out more about <a href="https://www.gov.uk/guidance/social-security-contributions-for-uk-and-eu-workers-if-the-uk-leaves-the-eu-with-no-deal">social security contributions after a no-deal Brexit</a>.</p>
 
 <h2 id="pensions">Pensions</h2>
 
@@ -448,10 +479,19 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 4 November 2013
-    <br></br>Last updated 3 September 2019
+    <br></br>Last updated 23 September 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-23T16:48:06.000+01:00">23 September 2019</time>
+              Brexit update: healthcare section updated to reflect transitional arrangements announcement
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-13T08:57:31.000+01:00">13 September 2019</time>
+              Brexit update: change in the section "Healthcare after Brexit". Please note that UK nationals will not be able to return to UK for treatment.
+
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-03T16:10:09.000+01:00">3 September 2019</time>
               Brexit update: Pensions section updated to include further details on State Pension uprating. 
@@ -539,14 +579,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-c6c24438" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-5460c097" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c6c24438" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-5460c097" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -563,9 +603,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-c6c24438" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-5460c097" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-c6c24438" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-5460c097" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -577,9 +617,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-c6c24438" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-5460c097" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-c6c24438" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-5460c097" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -610,9 +650,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d2a86031" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9503d28c" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d2a86031" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-9503d28c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
