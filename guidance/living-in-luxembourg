@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Official information that British people moving to and living in Luxembourg need to know, including Brexit guidance,  residency, healthcare and driving.
-  </p>
+  <p class="gem-c-lead-paragraph">Official information that British people moving to and living in Luxembourg need to know, including Brexit guidance,  residency, healthcare and driving.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 April 2018
-    <br></br>Last updated 9 September 2019
-      — <a href="#history" class="app-c-published-dates__history-link">see all updates</a>
+    <br></br>Last updated 23 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
                 </span>
             </dd>
         </dl>
@@ -58,61 +56,76 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-luxembourg" data-track-options="{"dimension29":"Working in Luxembourg"}" href="#working-in-luxembourg">Working in Luxembourg</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-luxembourg" data-track-options="{"dimension29":"Working in Luxembourg"}" href="#working-in-luxembourg">Working in Luxembourg</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-luxembourg" data-track-options="{"dimension29":"Driving in Luxembourg"}" href="#driving-in-luxembourg">Driving in Luxembourg</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-luxembourg" data-track-options="{"dimension29":"Driving in Luxembourg"}" href="#driving-in-luxembourg">Driving in Luxembourg</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married-or-civil-partnership" data-track-options="{"dimension29":"Births, deaths and getting married or civil partnership"}" href="#births-deaths-and-getting-married-or-civil-partnership">Births, deaths and getting married or civil partnership</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married-or-civil-partnership" data-track-options="{"dimension29":"Births, deaths and getting married or civil partnership"}" href="#births-deaths-and-getting-married-or-civil-partnership">Births, deaths and getting married or civil partnership</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -126,12 +139,14 @@
 <p>You should:</p>
 
 <ul>
-  <li><a rel="external" href="http://luxembourg.public.lu/en/vivre/sinstaller/declarer/index.html">register as resident in Luxembourg</a></li>
   <li>
-<a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/index_en.htm">exchange your UK driving licence</a> for a Luxembourgish one</li>
-  <li>look at the <a rel="external" href="https://guichet.public.lu/fr/support/faq-brexit.html">Luxembourg government’s information on Brexit</a>
+<a rel="external" href="http://luxembourg.public.lu/en/vivre/sinstaller/declarer/index.html">register as resident</a> in Luxembourg</li>
+  <li>
+<a href="https://www.gov.uk/guidance/living-in-luxembourg#passports-and-travel">check your passport</a> is valid for travel</li>
+  <li>
+<a href="https://www.gov.uk/guidance/living-in-luxembourg#driving-in-luxembourg">exchange your UK driving licence</a> for a Luxembourgish one</li>
+  <li>read the <a rel="external" href="https://guichet.public.lu/fr/support/faq-brexit.html">Luxembourg government’s information on Brexit</a>
 </li>
-  <li><a href="https://www.gov.uk/check-a-passport-for-travel-to-europe">check your passport is valid for travel</a></li>
 </ul>
 </div>
 
@@ -141,17 +156,19 @@
 <p>To keep up to date:</p>
 
 <ul>
-  <li>
-    <p>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-luxembourg">email alerts on living in Luxembourg</a></p>
-  </li>
-  <li>
-    <p>follow your local British Embassy on <a rel="external" href="https://www.facebook.com/Britishembassyluxembourg">Facebook</a></p>
-  </li>
-  <li>
-    <p>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">UK nationals in the EU essential information</a></p>
-  </li>
+  <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-luxembourg">email alerts on living in Luxembourg</a>
+</li>
+  <li>follow your local British Embassy on <a rel="external" href="https://www.facebook.com/Britishembassyluxembourg">Facebook</a>
+</li>
 </ul>
 </div>
+
+<p>You can also:</p>
+
+<ul>
+  <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">Living in the EU: prepare for Brexit</a>
+</li>
+</ul>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
@@ -191,9 +208,9 @@
 
 <p>Read the NHS guidance on <a rel="external" href="https://www.nhs.uk/NHSEngland/Healthcareabroad/countryguide/Pages/healthcareinLuxembourg.aspx">accessing healthcare in Luxembourg and how to register</a>.</p>
 
-<p>You can <a href="https://www.gov.uk/government/publications/luxembourg-list-of-medical-facilitiespractitioners">find English-speaking doctors in Luxembourg</a>. You must <a href="https://www.gov.uk/travelling-controlled-drugs">check your prescriptions are legal</a>.</p>
+<p>If you live in Luxembourg and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You must apply for a certificate of entitlement known as an S1 certificate.</p>
 
-<p>If you are resident in Luxembourg, you should not be using a European Health Insurance Card (EHIC) from the UK to access healthcare in Luxembourg.</p>
+<p>If you are resident in Luxembourg, you must not use a European Health Insurance Card (EHIC) from the UK to access healthcare in Luxembourg.</p>
 
 <p>When you travel from Luxembourg for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay:</p>
 
@@ -204,11 +221,25 @@
 </li>
 </ul>
 
-<p>If you live in Luxembourg and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You must apply for a certificate of entitlement known as an S1 certificate by calling +44 (0)191 218 1999.</p>
-
-<p>If you are an S1 form holder and are travelling outside of Luxembourg but within the EU, you must apply for a UK-issued European Health Insurance Card (EHIC). Read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-luxembourg/">NHS guidance about the EHIC and how to apply</a>.</p>
-
 <p>Read the <a rel="external" href="https://gouvernement.lu/en/dossiers/2019/brexit.html#bloub-3">Luxembourg government’s information on Brexit</a>.</p>
+
+<p>You can <a href="https://www.gov.uk/government/publications/luxembourg-list-of-medical-facilitiespractitioners">find English-speaking doctors in Luxembourg</a>.</p>
+
+<p>You must <a href="https://www.gov.uk/travelling-controlled-drugs">check your prescriptions are legal</a>.</p>
+
+<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
+
+<p>If there is a deal, your current rights on access to healthcare in Luxembourg will remain the same until the end of the implementation period, as long as you remain a resident in Luxembourg.</p>
+
+<p>If there’s no deal your access to healthcare may change. If you are a permanent or temporary resident you must  review your access to healthcare.</p>
+
+<p>If you currently have your healthcare costs paid for by the UK government, we can help if you are asked to pay for treatment during the first 6 months after Brexit. To organise a payment, you must give your healthcare provider’s details to the NHS Business Services Authority’s Overseas Healthcare Services.</p>
+
+<p>The UK has offered to continue paying the country you live in for your healthcare in the event of no deal, just as it does now. The government has proposed maintaining current healthcare cooperation with Luxembourg for S1 form holders until the end of December 2020. If there’s no deal, and there is no arrangement with Luxembourg to continue reciprocal healthcare, those receiving coverage through the S1 form will not be covered.</p>
+
+<p>Your EHIC may not be valid if there’s no deal. The UK has offered to maintain the EHIC scheme if there’s no deal, however this is reliant on Luxembourg continuing to accept UK EHICs.</p>
+
+<p>Read the NHS guidance on <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-luxembourg/">healthcare for UK nationals in Luxembourg and how it may change after Brexit</a>.</p>
 
 <h2 id="working-in-luxembourg">Working in Luxembourg</h2>
 
@@ -241,7 +272,15 @@
 
 <p>You should get professional advice on paying tax in Luxembourg.</p>
 
+<h3 id="national-insurance">National Insurance</h3>
+
 <p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
+
+<p>If you are employed or self-employed in the EU and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
+
+<p>If the end date on your form is after 31 October 2019, you should contact the relevant EU, EEA or Swiss authority to confirm whether you need to start paying social security contributions in that country after 31 October, as well as UK National Insurance contributions.</p>
+
+<p>Find out more about <a href="https://www.gov.uk/guidance/social-security-contributions-for-uk-and-eu-workers-if-the-uk-leaves-the-eu-with-no-deal">social security contributions after a no-deal Brexit</a>.</p>
 
 <h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
 
@@ -304,10 +343,6 @@
 
 <h2 id="driving-in-luxembourg">Driving in Luxembourg</h2>
 
-<p>In the event of a No Deal Brexit, if you are resident in Luxembourg on Exit Day you must convert your UK driving licence into a Luxembourg one within 12 months of the date of the UK’s withdrawal from the EU.  UK licence holders moving to Luxembourg after Brexit will have 12 months’ time to exchange their licence from the moment they are registered as Luxembourg residents.  Further detail <a rel="external" href="https://guichet.public.lu/en/support/faq-brexit/brexit-no-deal/brexit-no-deal-citoyens/brexit-no-deal-citoyens-brit/permis-conduire.html">can be found here</a>.  If you are visiting Luxembourg after Brexit, you can continue to use your UK driving licence.</p>
-
-<p>You can still use your Luxembourg licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
-
 <p>For information on driving in Luxembourg, read our guidance on:</p>
 
 <ul>
@@ -328,7 +363,11 @@
 
 <p>If there is a deal, you will continue to be able to <a rel="external" href="https://guichet.public.lu/en/support/faq-brexit/brexit-no-deal/brexit-no-deal-citoyens/brexit-no-deal-citoyens-brit/permis-conduire.html">drive in Luxembourg with a UK driving licence until the end of 2020</a>.</p>
 
-<p>If there is no deal and you are resident in Luxembourg on the date of the UK’s withdrawal you will need to exchange your UK licence for a Luxembourg one within 12 months of the date of the UK’s withdrawal.  If you move to Luxembourg after Brexit, you will have 12 months to exchange your licence from the moment you are registered as a Luxembourg resident.</p>
+<p>If there is no deal and you are resident in Luxembourg on the day the UK leaves the EU, you will need to exchange your UK licence for a Luxembourg one within 12 months of that day.  If you move to Luxembourg after Brexit, you will have 12 months to exchange your licence from the moment you are registered as a Luxembourg resident.</p>
+
+<p>You can still use your Luxembourg licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+
+<p>If you are visiting Luxembourg after Brexit, you can continue to use your UK driving licence.</p>
 
 <p>Read our guidance on <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit">driving in the EU after Brexit</a>.</p>
 
@@ -426,10 +465,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 April 2018
-    <br></br>Last updated 9 September 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 23 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-23T16:24:31.000+01:00">23 September 2019</time>
+              Brexit update: healthcare section updated to reflect transitional arrangements announcement
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-09T08:59:56.000+01:00">9 September 2019</time>
               Brexit Update: Update to guidance on exchanging driving licenses
@@ -487,7 +530,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -506,33 +549,33 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-91d31828" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-6d4ab6c7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-91d31828" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6d4ab6c7" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/luxembourg-tax-treaties" data-track-options="{"dimension28":"5","dimension29":"Luxembourg: tax treaties"}" href="/government/publications/luxembourg-tax-treaties">Luxembourg: tax treaties</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/cyprus-tax-treaties" data-track-options="{"dimension28":"5","dimension29":"Cyprus: tax treaties"}" href="/government/publications/cyprus-tax-treaties">Cyprus: tax treaties</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/netherlands-tax-treaties" data-track-options="{"dimension28":"5","dimension29":"Netherlands: tax treaties"}" href="/government/publications/netherlands-tax-treaties">Netherlands: tax treaties</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/belgium-tax-treaties" data-track-options="{"dimension28":"5","dimension29":"Belgium: tax treaties"}" href="/government/publications/belgium-tax-treaties">Belgium: tax treaties</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-lithuania" data-track-options="{"dimension28":"5","dimension29":"Living in Lithuania"}" href="/guidance/living-in-lithuania">Living in Lithuania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-slovakia" data-track-options="{"dimension28":"5","dimension29":"Living in Slovakia"}" href="/guidance/living-in-slovakia">Living in Slovakia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-latvia" data-track-options="{"dimension28":"5","dimension29":"Living in Latvia"}" href="/guidance/living-in-latvia">Living in Latvia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-estonia" data-track-options="{"dimension28":"5","dimension29":"Living in Estonia"}" href="/guidance/living-in-estonia">Living in Estonia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-91d31828" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-6d4ab6c7" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-91d31828" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-6d4ab6c7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -544,9 +587,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-91d31828" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-6d4ab6c7" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-91d31828" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-6d4ab6c7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -577,9 +620,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7e51bb9d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-055e0e46" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-7e51bb9d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-055e0e46" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
