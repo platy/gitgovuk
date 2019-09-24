@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 16 November 2018
-    <br></br>Last updated 18 September 2019
+    <br></br>Last updated 24 September 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -76,12 +76,12 @@
     <tr>
       <td>Wednesday 25 September 2019</td>
       <td>6:30 - 8:00pm</td>
-      <td>Venue TBC, Skiathos</td>
+      <td>Bourtzi Municipal Centre, Skiathos</td>
     </tr>
     <tr>
       <td>Thursday 26 September 2019</td>
       <td>12:00 - 1:30pm</td>
-      <td>Venue TBC, Volos</td>
+      <td>Volos Town Hall, Riga Feraiou Square, Volos</td>
     </tr>
   </tbody>
 </table>
@@ -177,10 +177,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 16 November 2018
-    <br></br>Last updated 18 September 2019
+    <br></br>Last updated 24 September 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-24T12:35:00.000+01:00">24 September 2019</time>
+              We have added the venues for two outreach events taking place this week.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-18T15:18:11.000+01:00">18 September 2019</time>
               Brexit update - UK nationals outreach events in Skiathos and Volos announced
@@ -263,14 +267,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-aafb54cd" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-041ea5f6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-aafb54cd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-041ea5f6" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -306,9 +310,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-78b24fe6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a18d40fc" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-78b24fe6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-a18d40fc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -323,9 +327,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-78b24fe6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-a18d40fc" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-78b24fe6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-a18d40fc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
