@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 4 March 2019
-    <br></br>Last updated 18 September 2019
+    <br></br>Last updated 19 September 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -80,6 +80,10 @@
 <p>Katowice, 1 October 2019 - <a rel="external" href="https://www.eventbrite.com/e/community-connect-britsinpoland-katowice-tickets-73270370651">Register here</a></p>
 
 <p>Wroclaw, 7 October 2019 - <a rel="external" href="https://www.eventbrite.com/e/community-connect-britsinpoland-wroclaw-tickets-73277744707">Register here</a></p>
+
+<p>Poznan, 8 October 2019 - <a rel="external" href="https://www.eventbrite.com/e/community-connect-britsinpoland-poznan-tickets-73423362253">Register here</a></p>
+
+<p>Lodz - coming soon</p>
 
 <h2 id="previous-events">Previous events</h2>
 
@@ -138,10 +142,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 4 March 2019
-    <br></br>Last updated 18 September 2019
+    <br></br>Last updated 19 September 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-19T14:33:07.000+01:00">19 September 2019</time>
+              We have added information about an event in Poznan
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-18T16:10:33.000+01:00">18 September 2019</time>
               We have added new events coming up in Krakow, Katowice and Wroclaw.
@@ -162,31 +170,6 @@
 <div class="gem-c-contextual-sidebar">
 
     
-  <div class="gem-c-related-navigation">
-
-      <h2 id="related-nav-related_items-b5bc0f37" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
-        Related content
-      </h2>
-
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b5bc0f37" data-module="gem-toggle">
-
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/poland-list-of-medical-facilities" data-track-options="{"dimension28":"5","dimension29":"Poland: doctors"}" href="/government/publications/poland-list-of-medical-facilities">Poland: doctors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/poland-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Poland: funeral directors"}" href="/government/publications/poland-list-of-funeral-directors">Poland: funeral directors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/netherlands-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Netherlands: funeral directors"}" href="/government/publications/netherlands-list-of-funeral-directors">Netherlands: funeral directors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/the-netherlands-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Netherlands: doctors"}" href="/government/publications/the-netherlands-list-of-medical-facilitiespractitioners">Netherlands: doctors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/switzerland-and-liechtenstein-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Switzerland and Liechtenstein: doctors"}" href="/government/publications/switzerland-and-liechtenstein-list-of-medical-facilitiespractitioners">Switzerland and Liechtenstein: doctors</a></li>
-
-  </ul>
-</nav>
-
-  </div>
 
 
 </div>
@@ -207,9 +190,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ecbb0c87" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4ec99992" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-ecbb0c87" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-4ec99992" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -223,9 +206,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-ecbb0c87" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-4ec99992" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-ecbb0c87" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-4ec99992" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
