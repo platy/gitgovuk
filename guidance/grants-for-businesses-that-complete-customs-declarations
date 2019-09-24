@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Find out what grants you can apply for to get funding for training and IT improvements if your business completes customs declarations.
-  </p>
+  <p class="gem-c-lead-paragraph">Find out what grants you can apply for to get funding for training and IT improvements if your business completes customs declarations.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 22 November 2018
-    <br></br>Last updated 4 December 2018
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 24 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/hm-revenue-customs">HM Revenue & Customs</a>
+                  <a class="govuk-link" href="/government/organisations/hm-revenue-customs">HM Revenue & Customs</a>
                 </span>
             </dd>
         </dl>
@@ -50,22 +48,7 @@
 </div>
 
 
-  <section class="gem-c-notice govuk-!-margin-bottom-8" aria-label="Notice" role="region">
-        <h2 class="gem-c-notice__title">This guidance was withdrawn on <time datetime="2019-06-03T14:51:38Z">3 June 2019</time>
-</h2>
 
-    
-
-    
-
-    
-<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
-      <div class="govspeak">
-<p>You can no longer apply for these grants as the application period closed on 31 May 2019.</p>
-</div>
-</div>
-
-</section>
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
@@ -73,31 +56,40 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#who-can-apply" data-track-options="{"dimension29":"Who can apply"}" href="#who-can-apply">Who can apply</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#who-can-apply" data-track-options="{"dimension29":"Who can apply"}" href="#who-can-apply">Who can apply</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#what-you-must-use-the-grants-for" data-track-options="{"dimension29":"What you must use the grants for"}" href="#what-you-must-use-the-grants-for">What you must use the grants for</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#what-you-must-use-the-grants-for" data-track-options="{"dimension29":"What you must use the grants for"}" href="#what-you-must-use-the-grants-for">What you must use the grants for</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#amounts-of-funding-available" data-track-options="{"dimension29":"Amounts of funding available"}" href="#amounts-of-funding-available">Amounts of funding available</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#amounts-of-funding-available" data-track-options="{"dimension29":"Amounts of funding available"}" href="#amounts-of-funding-available">Amounts of funding available</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#what-youll-need" data-track-options="{"dimension29":"What you’ll need"}" href="#what-youll-need">What you’ll need</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#what-youll-need" data-track-options="{"dimension29":"What you’ll need"}" href="#what-youll-need">What you’ll need</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#how-to-apply" data-track-options="{"dimension29":"How to apply"}" href="#how-to-apply">How to apply</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#how-to-apply" data-track-options="{"dimension29":"How to apply"}" href="#how-to-apply">How to apply</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#after-youve-applied" data-track-options="{"dimension29":"After you’ve applied"}" href="#after-youve-applied">After you’ve applied</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#after-youve-applied" data-track-options="{"dimension29":"After you’ve applied"}" href="#after-youve-applied">After you’ve applied</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#how-to-treat-the-grants-for-tax" data-track-options="{"dimension29":"How to treat the grants for tax"}" href="#how-to-treat-the-grants-for-tax">How to treat the grants for tax</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -108,17 +100,22 @@
 <p>You can apply to get funding for:</p>
 
 <ul>
-  <li>training that helps your employees to complete customs declarations and processes</li>
+  <li>training that helps your business to complete customs declarations and processes</li>
   <li>IT improvements to help your business complete customs declarations more efficiently</li>
 </ul>
 
+<p>You can use the funding to reimburse what your business has spent on relevant IT improvements and training since 31 July 2019, as well as in the future.</p>
+
 <h2 id="who-can-apply">Who can apply</h2>
 
-<p>You can apply if your business completes customs declarations and is established in, or has a branch in the UK. This includes customs brokers, freight forwarders and fast parcel operators.</p>
+<p>Your business must:</p>
+
+<ul>
+  <li>be established in, or have a branch in the UK when the grant is paid to you</li>
+  <li>not have previously failed to meet its tax obligations – we’ll check our records to decide if we can offer your business a grant</li>
+</ul>
 
 <p>You can apply for just one of the grants, or both.</p>
-
-<p>Your business has to meet certain requirements, depending on which grant you want to apply for.</p>
 
 <h3 id="training-grant">Training grant</h3>
 
@@ -143,10 +140,11 @@
 
 <h3 id="training">Training</h3>
 
-<p>The training must give your employees skills to:</p>
+<p>The training must give you or your employees the skills to:</p>
 
 <ul>
-  <li>complete customs declarations and processes</li>
+  <li>complete customs declarations</li>
+  <li>carry out customs processes – this can include relevant training in safety and security</li>
   <li>help other businesses with <a href="https://www.gov.uk/government/collections/import-and-export-procedures">import and export processes</a>
 </li>
 </ul>
@@ -185,21 +183,9 @@
 
 <h3 id="training-grant-1">Training grant</h3>
 
-<p>The grant will give you up to 50% of the cost of training for your employees, up to a limit of £750 for each employee on a course.</p>
+<p>The grant will give you up to 100% of the cost of training for your employees, up to a limit of £2,250 for each course.</p>
 
-<p>You can get up to 60% of training costs, up to a limit of £1,050 for each employee, if your business:</p>
-
-<ul>
-  <li>employs fewer than 250 people</li>
-  <li>has an annual turnover of less than €50 million</li>
-</ul>
-
-<p>You can get up to 70% of training costs, up to a limit of £1,050 for each employee, if your business:</p>
-
-<ul>
-  <li>employs fewer than 50 people</li>
-  <li>has an annual turnover (or annual balance sheet total) of less than €10 million</li>
-</ul>
+<p>It will also cover the cost of training you run internally, up to a limit of £250 for each employee on the course.</p>
 
 <h3 id="it-improvements-1">IT improvements</h3>
 
@@ -207,14 +193,14 @@
 
 <h2 id="what-youll-need">What you’ll need</h2>
 
-<p>When you apply, you’ll be asked for your:</p>
+<p>When you apply, you’ll be asked for your business’s:</p>
 
 <ul>
-  <li>registered company name and number</li>
-  <li>business’s contact details</li>
-  <li>business’s VAT number (if this applies)</li>
-  <li>Unique Taxpayer Reference (<abbr title="Unique Taxpayer Reference">UTR</abbr>)</li>
-  <li>business’s most recent utility bill</li>
+  <li>registered name and number</li>
+  <li>contact details</li>
+  <li>VAT number (if this applies)</li>
+  <li>Unique Taxpayer Reference (UTR)</li>
+  <li>most recent utility bill</li>
 </ul>
 
 <p>Depending on which grant you’re applying for, you’ll also need to provide some information about what you’ll use the funding for.</p>
@@ -247,19 +233,27 @@
 
 <p>PricewaterhouseCoopers (<abbr title="PricewaterhouseCoopers">PwC</abbr>) is administering the grants for HMRC.</p>
 
-<div class="call-to-action">
-<p><a rel="external" href="https://www.customsintermediarygrant.co.uk/registration/">Apply online through <abbr title="PricewaterhouseCoopers">PwC</abbr></a>.</p>
-</div>
+<p><a rel="external" href="https://www.customsintermediarygrant.co.uk/">Apply online through <abbr title="PricewaterhouseCoopers">PwC</abbr></a>.</p>
 
 <h2 id="after-youve-applied">After you’ve applied</h2>
 
-<p>You’ll be told if you need to provide more information.</p>
+<p>If your application is successful you’ll get a grant offer letter.</p>
 
-<p>If your application is successful you’ll receive a grant offer letter.</p>
+<p>You’ll need to submit proof of how much you’ve spent on IT improvements or training within 2 months of getting the grant offer letter.</p>
 
-<p>After you’ve paid for the training or IT improvements, you’ll need to submit your proof of payment to receive the funding.</p>
+<p>You’ll then get the grant within 30 days. It’ll be paid by <abbr title="Bankers Automated Clearing System">Bacs</abbr> to a UK bank account in the name of the person who applied.</p>
 
-<p>The grant will be paid to you within 30 days of your valid claim for reimbursement being accepted. It’ll be paid by <abbr title="Bankers Automated Clearing System">Bacs</abbr> (Bankers Automated Clearing System) to a UK bank account in the name of the person who applied.</p>
+<h2 id="how-to-treat-the-grants-for-tax">How to treat the grants for tax</h2>
+
+<h3 id="training-grant-3">Training grant</h3>
+
+<p>When calculating your business’s taxable profits, you need to match the treatment of the grant to the training expense covered by the grant. For example, if the training expense is deductible, then you should include the amount of grant in your calculation of taxable profits so that the expense is offset.</p>
+
+<h3 id="it-improvements-grant-2">IT improvements grant</h3>
+
+<p>If your business has spent more on capital expenditure (like IT equipment) than is covered by the grant, you can get capital allowance on the amount not covered by the grant.</p>
+
+<p>Your business cannot get capital allowance on the amount of grant covering the cost of your business’s capital expenditure.</p>
 
 </div>
 </div>
@@ -268,10 +262,18 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 November 2018
-    <br></br>Last updated 4 December 2018
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 24 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-24T12:20:53.000+01:00">24 September 2019</time>
+              Information about how to treat the grants for tax has been added.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-03T09:48:06.000+01:00">3 September 2019</time>
+              Applications have reopened for the training and IT improvements grants.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-12-04T12:18:10.000+00:00">4 December 2018</time>
               Applications for the grants are now being accepted - the link to apply has been added to this guidance. More information about the amount of funding available, and what information you'll need to apply, has also been added.
@@ -288,7 +290,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -307,14 +309,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-acd0b0a6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-7888ed3d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-acd0b0a6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7888ed3d" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -346,9 +348,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-99545bce" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c569fe1b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-99545bce" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-c569fe1b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
