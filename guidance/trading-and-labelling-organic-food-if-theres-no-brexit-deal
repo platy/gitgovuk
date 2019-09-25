@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How rules for producing, processing, labelling and trading organic food will change if there’s a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">How rules for producing, processing, labelling and trading organic food will change if there’s a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 18 February 2019
-    <br></br>Last updated 23 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 25 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
                 </span>
             </dd>
         </dl>
@@ -58,34 +56,40 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#law-and-standards-changes-after-brexit" data-track-options="{"dimension29":"Law and standards changes after Brexit"}" href="#law-and-standards-changes-after-brexit">Law and standards changes after Brexit</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#law-and-standards-changes-after-brexit" data-track-options="{"dimension29":"Law and standards changes after Brexit"}" href="#law-and-standards-changes-after-brexit">Law and standards changes after Brexit</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#certificates-and-labels" data-track-options="{"dimension29":"Certificates and labels"}" href="#certificates-and-labels">Certificates and labels</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#certificates-and-labels" data-track-options="{"dimension29":"Certificates and labels"}" href="#certificates-and-labels">Certificates and labels</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#displaying-logos" data-track-options="{"dimension29":"Displaying logos"}" href="#displaying-logos">Displaying logos</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#displaying-logos" data-track-options="{"dimension29":"Displaying logos"}" href="#displaying-logos">Displaying logos</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#importing-organic-food" data-track-options="{"dimension29":"Importing organic food"}" href="#importing-organic-food">Importing organic food</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#importing-organic-food" data-track-options="{"dimension29":"Importing organic food"}" href="#importing-organic-food">Importing organic food</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#exporting-organic-food-to-the-eu" data-track-options="{"dimension29":"Exporting organic food to the EU"}" href="#exporting-organic-food-to-the-eu">Exporting organic food to the EU</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#exporting-organic-food-to-the-eu" data-track-options="{"dimension29":"Exporting organic food to the EU"}" href="#exporting-organic-food-to-the-eu">Exporting organic food to the EU</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#exporting-organic-food-to-non-eu-countries" data-track-options="{"dimension29":"Exporting organic food to non-EU countries"}" href="#exporting-organic-food-to-non-eu-countries">Exporting organic food to non-EU countries</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#exporting-organic-food-to-non-eu-countries" data-track-options="{"dimension29":"Exporting organic food to non-EU countries"}" href="#exporting-organic-food-to-non-eu-countries">Exporting organic food to non-EU countries</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -94,9 +98,11 @@
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>This page tells you what to do if the UK leaves the EU without a deal. It will be updated if anything changes, including if a deal is agreed.</p>
-
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit&_ga=2.56175138.82642154.1566211634-708781594.1523870430">Sign up for email alerts</a> to get the latest information.</p>
+<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.
+<br></br><br></br>
+<a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for government-wide email alerts</a> about Brexit. 
+<br></br><br></br>
+<a rel="external" href="https://public.govdelivery.com/accounts/UKDEFRA/subscriber/topics?qsp=CODE_RED">Sign up for Defra alerts</a> about Brexit and the food and drink sector.</p>
 </div>
 
 <h2 id="law-and-standards-changes-after-brexit">Law and standards changes after Brexit</h2>
@@ -126,19 +132,19 @@
 
 <p>Contact your control body to stay up to date.</p>
 
-<p>You can continue to use your <a href="https://www.gov.uk/government/publications/organic-certification-list-of-uk-approved-organic-control-bodies">UK organic control body logo</a>.</p>
+<p>You can continue to use your <a href="https://www.gov.uk/government/publications/organic-certification-list-of-uk-approved-organic-control-bodies">UK organic control body logo</a>. Read the guidance on <a href="https://www.gov.uk/food-safety-as-a-food-distributor/organic-produce">importing organic food or feed</a> to find out the restrictions on organic produce imports.</p>
 
-<p>Read more guidance on <a href="https://www.gov.uk/guidance/food-labelling-changes-after-brexit">Food labelling changes after Brexit</a>.</p>
+<p>Find out about <a href="https://www.gov.uk/guidance/food-labelling-changes-after-brexit">food labelling changes after Brexit</a>.</p>
 
 <h2 id="importing-organic-food">Importing organic food</h2>
 
 <p>You will no longer use the EU’s Trade Control and Expert System New Technology (TRACES NT) when importing organic food and feed.</p>
 
-<p>You will use a manual UK organic import system until a new digital system is in place.</p>
+<p>You will use a manual UK organic import system until a new digital system is in place after a no-deal Brexit.</p>
 
 <p>All imports from non-EU countries (known as third countries) must have a certificate of inspection (<abbr title="certificate of inspection">CoI</abbr>).</p>
 
-<p>Imports from the EU, <abbr title="European Economic Area">EEA</abbr> States and Switzerland do not need CoIs until 1 January 2021.</p>
+<p>Imports from the EU, <abbr title="European Economic Area">EEA</abbr> States and Switzerland do not need <abbr title="certificates of inspection">CoIs</abbr> until 1 January 2021.</p>
 
 <h2 id="exporting-organic-food-to-the-eu">Exporting organic food to the EU</h2>
 
@@ -157,9 +163,9 @@
 
 <p>Trading rules should stay the same for countries that accept UK goods without an equivalency arrangement (an agreement to accept each other’s standards).</p>
 
-<p>The EU has equivalency arrangements with some non-EU countries and the UK is negotiating trade agreements to continue trading with these countries after Brexit.</p>
+<p>The EU has equivalency arrangements with some non-EU countries and the UK is negotiating trade agreements to continue trading with these countries after Brexit. The Department for Environment, Food and Rural Affairs (Defra) will contact importers and food manufactures if any trade agreements change.</p>
 
-<p>Different exporting rules may apply if equivalency is not agreed between the UK and non-EU countries after Brexit.</p>
+<p>Different exporting rules may apply if equivalency is not agreed between the UK and non-EU countries after Brexit. Contact the exporting control body in the country you’re importing food from. Defra will publish any changes in this guide.</p>
 
 </div>
 </div>
@@ -168,10 +174,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 18 February 2019
-    <br></br>Last updated 23 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 25 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-25T08:30:42.000+01:00">25 September 2019</time>
+              Explained users might need to contact export control bodies in countries they're importing from, and if any rules change following a no-deal Brexit they will be published in this guide.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-23T13:15:45.000+01:00">23 August 2019</time>
               No factual changes to content, but a new notice about staying up to date with Brexit has been added, and some rewording throughout.
@@ -188,7 +198,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -207,14 +217,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-520dd380" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b77d9222" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-520dd380" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b77d9222" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -246,14 +256,14 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2eee46f2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-41c7d4b9" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2eee46f2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-41c7d4b9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/topic/business-tax/import-export" data-track-options="{"dimension28":"1","dimension29":"Import and export: customs declarations, duties and tariffs"}" href="/topic/business-tax/import-export">Import and export: customs declarations, duties and tariffs</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/topic/business-tax/import-export" data-track-options="{"dimension28":"1","dimension29":"Import, export and customs for businesses"}" href="/topic/business-tax/import-export">Import, export and customs for businesses</a></li>
 
   </ul>
 </nav>
