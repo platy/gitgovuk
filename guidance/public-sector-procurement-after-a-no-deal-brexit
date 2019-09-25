@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Information for public authorities, businesses and other organisations on the outcome for public procurement policy in a no-deal Brexit scenario.
-  </p>
+  <p class="gem-c-lead-paragraph">Information for public authorities, businesses and other organisations on the outcome for public procurement policy in a no-deal Brexit scenario.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 14 January 2019
-    <br></br>Last updated 4 September 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 25 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/cabinet-office">Cabinet Office</a>
+                  <a class="govuk-link" href="/government/organisations/cabinet-office">Cabinet Office</a>
                 </span>
             </dd>
         </dl>
@@ -58,35 +56,41 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#after-no-deal-brexit" data-track-options="{"dimension29":"After No Deal Brexit"}" href="#after-no-deal-brexit">After No Deal Brexit</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#after-no-deal-brexit" data-track-options="{"dimension29":"After No Deal Brexit"}" href="#after-no-deal-brexit">After No Deal Brexit</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#what-will-change-for-contracting-authorities-and-entities" data-track-options="{"dimension29":"What will change for contracting authorities and entities"}" href="#what-will-change-for-contracting-authorities-and-entities">What will change for contracting authorities and entities</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#what-will-change-for-contracting-authorities-and-entities" data-track-options="{"dimension29":"What will change for contracting authorities and entities"}" href="#what-will-change-for-contracting-authorities-and-entities">What will change for contracting authorities and entities</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#what-contracting-authorities-need-to-do-now" data-track-options="{"dimension29":"What contracting authorities need to do now"}" href="#what-contracting-authorities-need-to-do-now">What contracting authorities need to do now</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#what-contracting-authorities-need-to-do-now" data-track-options="{"dimension29":"What contracting authorities need to do now"}" href="#what-contracting-authorities-need-to-do-now">What contracting authorities need to do now</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#organisations-that-use-other-e-senders" data-track-options="{"dimension29":"Organisations that use other e-Senders"}" href="#organisations-that-use-other-e-senders">Organisations that use other e-Senders</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#organisations-that-use-other-e-senders" data-track-options="{"dimension29":"Organisations that use other e-Senders"}" href="#organisations-that-use-other-e-senders">Organisations that use other e-Senders</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#organisations-that-publish-direct-to-ojeuted" data-track-options="{"dimension29":"Organisations that publish direct to OJEU/TED\n"}" href="#organisations-that-publish-direct-to-ojeuted">Organisations that publish direct to OJEU/TED
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#organisations-that-publish-direct-to-ojeuted" data-track-options="{"dimension29":"Organisations that publish direct to OJEU/TED\n"}" href="#organisations-that-publish-direct-to-ojeuted">Organisations that publish direct to OJEU/TED
 </a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#what-will-change-for-businesses" data-track-options="{"dimension29":"What will change for businesses"}" href="#what-will-change-for-businesses">What will change for businesses</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#what-will-change-for-businesses" data-track-options="{"dimension29":"What will change for businesses?"}" href="#what-will-change-for-businesses">What will change for businesses?</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#procurements-in-progress-on-exit-day" data-track-options="{"dimension29":"Procurements in progress on exit day"}" href="#procurements-in-progress-on-exit-day">Procurements in progress on exit day</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#procurements-in-progress-on-exit-day" data-track-options="{"dimension29":"Procurements in progress on exit day"}" href="#procurements-in-progress-on-exit-day">Procurements in progress on exit day</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -181,9 +185,11 @@
 
 <p>Contracting authorities which have an SRS account, but not a Contracts Finder account will need to <a rel="external" href="https://supplierregistration.cabinetoffice.gov.uk/login?ssostate=%40WGhvUlZZeldXdFNOa1l6VW01R2JWbz0%3DNjJNT08%3DTkUxclRUSlpWMkpHY0ZWVWJ6RnJZ">go to Contracts Finder and sign in with their SRS credentials</a> and then apply to post notices.</p>
 
-<h2 id="what-will-change-for-businesses">What will change for businesses</h2>
+<h2 id="what-will-change-for-businesses">What will change for businesses?</h2>
 
-<p>Suppliers wishing to access UK contract opportunities from the UK public sector will need to access the new UK e-notification service, Find a Tender, instead of <abbr title="Official Journal of the European Union">OJEU</abbr>/<abbr title="Tenders Electronic Daily">TED</abbr>. Access details will be provided in further updates.</p>
+<p>Suppliers wishing to access public sector contract opportunities will need to access the new UK e-notification service, Find a Tender, instead of <abbr title="Official Journal of the European Union">OJEU</abbr>/<abbr title="Tenders Electronic Daily">TED</abbr>.</p>
+
+<p>Find a Tender has a similar look and feel to Contracts Finder. It is free and you do not need to register to search the site. Registration enables you to save searches, set up email alerts and “watch” notices. If you are already registered on Contracts Finder (or the Supplier Registration Service) you will be able to use the same login credentials for FTS. If you are not already registered and would like this enhanced functionality, register as a supplier on Contracts Finder now.</p>
 
 <p>Suppliers can continue to access the relevant domestic portal, such as Contracts Finder, MOD Defence Contracts Online, Public Contracts Scotland, Sell2Wales and eTendersNI.</p>
 
@@ -205,10 +211,14 @@ regulations from that point, for example by posting subsequent contract award no
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 14 January 2019
-    <br></br>Last updated 4 September 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 25 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-25T16:00:11.000+01:00">25 September 2019</time>
+              Updated section on what will change for businesses
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-04T11:25:58.000+01:00">4 September 2019</time>
               Updated information on the UK e-notification service which has been named Find a Tender (FTS)
@@ -245,7 +255,7 @@ Contracting authorities call to action moved to top of page, "
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -264,14 +274,14 @@ Contracting authorities call to action moved to top of page, "
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-c3bd0261" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-db208255" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c3bd0261" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-db208255" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -303,9 +313,9 @@ Contracting authorities call to action moved to top of page, "
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8619f85d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0cc08d82" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8619f85d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-0cc08d82" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
