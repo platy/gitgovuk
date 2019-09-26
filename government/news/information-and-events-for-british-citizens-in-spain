@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 November 2018
-    <br></br>Last updated 20 September 2019
+    <br></br>Last updated 26 September 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -77,52 +77,32 @@
 <table>
   <tbody>
     <tr>
-      <td>‘POP-UP’  Friday 20 September, 5:00pm - 7:00 pm</td>
-      <td>Barcelona City</td>
-      <td>Churchill’s British Shop, Carrer de l’Avenir, 54, 08021 Barcelona</td>
-    </tr>
-    <tr>
-      <td>Monday 23 September, 11:00am</td>
-      <td>Mahon (Menorca)</td>
-      <td>Town Hall, Plaça de la Constitució, 1, 07701 Maó</td>
-    </tr>
-    <tr>
-      <td>Monday 23 September, 2:00pm</td>
-      <td>Sant Lluis (Menorca)</td>
-      <td>Town Hall, Carrer de Sant Lluís, 114, 07710 Sant Lluís</td>
-    </tr>
-    <tr>
-      <td>Monday 23 September, 6:00pm</td>
-      <td>Ciutadella  (Menorca)</td>
-      <td>Town Hall, Plaça des Born, 15, 07760 Ciutadella de Menorca</td>
-    </tr>
-    <tr>
-      <td>‘POP-UP’ Tuesday 24 September, 9:30am - 2:30pm</td>
-      <td>Alicante city</td>
-      <td>Check-in desks area, Alicante Airport, 03195 L’Altet</td>
-    </tr>
-    <tr>
-      <td>‘POP-UP’ Wednesday 25 September, 9:30am - 2:30pm</td>
-      <td>El Campello (Alicante)</td>
-      <td>Mandarina Garden coffee shop, Carrer Vicent Blasco i Ibáñez, 03560 El Campello</td>
-    </tr>
-    <tr>
-      <td>Thursday 26 September, 2:30pm - 4:00pm</td>
-      <td>Lloret de Mar (Girona)</td>
-      <td>Biblioteca Municipal Lloret de Mar (Sala Polivalente), Pl. Pere Torrent, 1, 17310 Lloret de Mar</td>
-    </tr>
-    <tr>
-      <td>Monday 30 September, 12:00pm - 2:00 pm</td>
+      <td>POSTPONED UNTIL FURTHER NOTICE - Monday 30 September, 12:00pm - 2:00 pm</td>
       <td>Castelldefells (Barcelona)</td>
       <td>Centre Civic Frederic Mompou,  Plaça de Joan XXIII S/N, 08860 Castelldefells</td>
     </tr>
     <tr>
-      <td>Thursday 3 October, 12:15pm - 1:45pm</td>
+      <td>‘POP-UP’ Tuesday 1st October, 11:00am - 2:00pm</td>
+      <td>Torremolinos (Malaga)</td>
+      <td>Town Hall Foreign Residents’ office, Plaza de Andalucia, 29620 Torremolinos</td>
+    </tr>
+    <tr>
+      <td>Wednesday 2nd October, 2:30pm – 4.00pm</td>
+      <td>Barcelona City</td>
+      <td>Hibernian English Bookshop, Carrer del Montseny, 17, 08012 Barcelona ‘POP-UP’</td>
+    </tr>
+    <tr>
+      <td>‘POP-UP’ Thursday 3rd October, 10:30am – 1:30pm</td>
+      <td>Mijas (Malaga)</td>
+      <td>Iceland Supermarket, Parque Empresarial Miramar, Av. Carmen Sáenz de Tejada, 29649 Las Lagunas de Mijas</td>
+    </tr>
+    <tr>
+      <td>POSTPONED UNTIL FURTHER NOTICE - Thursday 3 October, 12:15pm - 1:45pm</td>
       <td>Torroella de Montgrí (Girona)</td>
       <td>Museu de la Mediterrània, Carrer d’Ullà, 31, 17257 Torroella de Montgrí</td>
     </tr>
     <tr>
-      <td>Friday 4 October,12:00pm - 1:30pm</td>
+      <td>POSTPONED UNTIL FURTHER NOTICE - Friday 4 October,12:00pm - 1:30pm</td>
       <td>Salou (Tarragona)</td>
       <td>Centre Cívic de Salou (Sala Costa Daurada), Carrer de l’Advocat Gallego, 2, 43840 Salou</td>
     </tr>
@@ -218,6 +198,31 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>26 September</td>
+      <td>Torrox Costa (Malaga)</td>
+      <td>POP-UP’</td>
+    </tr>
+    <tr>
+      <td>24 September</td>
+      <td>Alicante city</td>
+      <td>‘POP-UP’</td>
+    </tr>
+    <tr>
+      <td>23 September</td>
+      <td>Sant Lluis (Menorca)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>23 September</td>
+      <td>Mahon (Menorca)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>20 September</td>
+      <td>Barcelona City</td>
+      <td>‘POP-UP’</td>
+    </tr>
     <tr>
       <td>18 September</td>
       <td>Benidorm (Alicante)</td>
@@ -999,10 +1004,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 November 2018
-    <br></br>Last updated 20 September 2019
+    <br></br>Last updated 26 September 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-26T15:03:26.000+01:00">26 September 2019</time>
+              Brexit update: new information on citizens outreach meetings across Spain.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-20T11:17:49.000+01:00">20 September 2019</time>
               Brexit update: new information on citizens outreach meetings across Spain.
@@ -1139,23 +1148,23 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-ae723473" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-9fbcaa95" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-ae723473" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-9fbcaa95" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union" data-track-options="{"dimension28":"5","dimension29":"Progress on the UK’s exit from, and future relationship with, the European Union"}" href="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union">Progress on the UK’s exit from, and future relationship with, the European Union</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/speeches/a-letter-from-the-prime-minister-to-uk-nationals-living-in-europe" data-track-options="{"dimension28":"5","dimension29":"A letter from the Prime Minister to UK nationals living in Europe"}" href="/government/speeches/a-letter-from-the-prime-minister-to-uk-nationals-living-in-europe">A letter from the Prime Minister to UK nationals living in Europe</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/exiting-the-european-union" data-track-options="{"dimension28":"5","dimension29":"Exiting the European Union"}" href="/guidance/exiting-the-european-union">Exiting the European Union</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/germany-residence-information-after-eu-exit" data-track-options="{"dimension28":"5","dimension29":"Germany: residence information after Brexit"}" href="/government/publications/germany-residence-information-after-eu-exit">Germany: residence information after Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/exiting-the-european-union" data-track-options="{"dimension28":"5","dimension29":"Exiting the European Union"}" href="/guidance/exiting-the-european-union">Exiting the European Union</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/germany-residence-information-after-eu-exit" data-track-options="{"dimension28":"5","dimension29":"Germany: residence information after Brexit"}" href="/government/publications/germany-residence-information-after-eu-exit">Germany: residence information after Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union" data-track-options="{"dimension28":"5","dimension29":"Progress on the UK’s exit from, and future relationship with, the European Union"}" href="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union">Progress on the UK’s exit from, and future relationship with, the European Union</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/speeches/a-letter-from-the-prime-minister-to-uk-nationals-living-in-europe" data-track-options="{"dimension28":"5","dimension29":"A letter from the Prime Minister to UK nationals living in Europe"}" href="/government/speeches/a-letter-from-the-prime-minister-to-uk-nationals-living-in-europe">A letter from the Prime Minister to UK nationals living in Europe</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/spain-consular-fees" data-track-options="{"dimension28":"5","dimension29":"Spain: consular fees"}" href="/government/publications/spain-consular-fees">Spain: consular fees</a></li>
 
   </ul>
@@ -1182,9 +1191,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-bf992b40" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d6fa2f11" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-bf992b40" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d6fa2f11" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1198,9 +1207,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-bf992b40" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-d6fa2f11" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-bf992b40" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-d6fa2f11" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
