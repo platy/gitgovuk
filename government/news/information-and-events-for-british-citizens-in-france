@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 September 2018
-    <br></br>Last updated 24 September 2019
+    <br></br>Last updated 26 September 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -68,7 +68,7 @@
 <h3 id="upcoming-citizens-outreach-meetings-across-france">Upcoming citizens outreach meetings across France</h3>
 
 <ul>
-  <li>Lyon: 24 September 2019 - You can <a rel="external" href="https://bit.ly/2k7QC1v">register for this event here</a>
+  <li>Bourg-en-Bresse: 9 October 2019 - You can <a rel="external" href="https://bit.ly/2lfOZ2l">register for this event here</a>
 </li>
   <li>Périgueux (1): 10 October 2019 3:30pm - You can <a rel="external" href="https://bit.ly/2mwQSb9">register for this event here</a>
 </li>
@@ -88,6 +88,10 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>24 September</td>
+      <td>Lyon</td>
+    </tr>
     <tr>
       <td>22 September</td>
       <td>Facebook Q&A</td>
@@ -461,10 +465,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 September 2018
-    <br></br>Last updated 24 September 2019
+    <br></br>Last updated 26 September 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-26T09:21:26.000+01:00">26 September 2019</time>
+              Bourg-en-Bresse event added
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-24T09:46:26.000+01:00">24 September 2019</time>
               New dates 
@@ -599,14 +607,14 @@ Nantes 25/02
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-01a9fcb3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-7e22e4a8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-01a9fcb3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7e22e4a8" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -642,9 +650,9 @@ Nantes 25/02
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f6c788fb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-61f4b389" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-f6c788fb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-61f4b389" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -658,9 +666,9 @@ Nantes 25/02
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-f6c788fb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-61f4b389" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-f6c788fb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-61f4b389" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
