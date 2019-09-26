@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    The British Embassy Prague has been holding meetings to inform British citizens working and living in the Czech Republic about their rights as Britain leaves the European Union. 
-  </p>
+  <p class="gem-c-lead-paragraph">The British Embassy Prague has been holding meetings to inform British citizens working and living in the Czech Republic about their rights as Britain leaves the European Union. </p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 21 December 2018
-    <br></br>Last updated 3 September 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 26 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/world/organisations/british-embassy-prague">British Embassy Prague</a>
+                  <a class="govuk-link" href="/world/organisations/british-embassy-prague">British Embassy Prague</a>
                 </span>
             </dd>
         </dl>
@@ -73,8 +71,12 @@
 
 <h4 id="previous-events-in-the-czech-republic">Previous events in the Czech Republic</h4>
 <ul>
+  <li>Prague: 19 September, <a rel="external" href="https://www.facebook.com/BritsinCR/videos/513303419525621/?__xts__%5B0%5D=68.ARDoeMcssd7BXvMdpHcmKL3UqrQNW0CUN4zG_aurUYvLfnWV0rgwKo_DrzcHZM_kn0ToeCY3pgdiDu4jCEMJbzMcib89VdsExnb8NqMuIIwiEt3QMLfv0wxEJoZhsyk7HF12J2BJxlSTKlS0zzXDuSF7oUcJqvpFvVmvyxSSwFVrSqP0lsWASDUQKGYbQxt3CKaHUHGYaji8oEMYpCKH8tRh_0QC22xgdwG6uFZNj2CfKOV-UvM9TFPM3PP7sCBU9y445IxG-KQQK1UbxMdHrOGile8LTa4eE0hhSULeT1XPB58225O1A4JRVEHyVE3qhN2UXjpdr8K5cwylbocSo7g82Bwxv5rN_871Lw&__tn__=-R">recording of the event available on Facebook</a>
+</li>
   <li>
-<a rel="external" href="https://www.facebook.com/BritsinCR/photos/a.251116885078316/1101966383326691/?type=3&theater">Facebook Q&A session:</a> 5 August 2019</li>
+<a rel="external" href="https://www.facebook.com/BritsinCR/photos/a.251116885078316/1118451775011485/?type=3&__xts__%5B0%5D=68.ARBNAfQ6hvgQM0SHSY4uc_wvbzD0u_gG1do16fbRN5ApujP3rf9-4KFOdyFeUjRFNKGmhtXPlw_pad30Lep4GIpeVw2aAbLN1AaWE62uRSjNqJ3SXGYQXZ0TkkQJfbeaOyPMkbGBa06YwIfUVFAB173Q_9u_BAHHB4K-a0CEQVWVXGNW6fHGUoXXBvHaghKZB6Hx-qEyOM9G_RzRdbuR0ELq5exWd_w7T-nh2ED9bGTQMMbPyyotiOQBKYw06T2wA2HOUj0pPjGvgY2I3IqkUSYMNb9kcCUSasPikVT9hfxHYWZazPEmIqSu7VBgVfAbhXWSyZREt6hKf_swSZ0hYJDZAQ&__tn__=-R">Facebook Q&A session:</a> 5 September</li>
+  <li>
+<a rel="external" href="https://www.facebook.com/BritsinCR/photos/a.251116885078316/1101966383326691/?type=3&theater">Facebook Q&A session:</a> 5 August</li>
   <li>Prague: 9 April 2019, <a rel="external" href="https://www.facebook.com/BritsinCR/videos/2035137373275218/?__xts__%5B0%5D=68.ARDT3fYTtgY4RlPOF0hjMO2aVtEkoWSN4OJCFrhSGeVwsu9d0vdVSF0SLYW3POzVYrSVGvYz4G-LnZnTMkpES6qtzSahx96Nbl8kTuH3wm6FcfUM8UOA6v5rLHmyvuVJru_LqGdTgpr9Ectz7yiXPB9LZhUfWDIOxXiNgXX4g1Jzp73PLYCN6DLHWNQg4LxovaiuNRFqExySIvsj6AtEqL00loFM-vPBPodOR2rWwscLp9wOrGxir5lDyPXzA5npELcQf-MeyWFnuZq-t6DHpYNxkJqv8DUayiPaZFnph5gOmsNfqwmY-6zXuBxDXRE4xjJhEN89ieGJJWRCGiELOYeNb8822QQMViw8tw&__tn__=-R">recording of the event available on Facebook</a>
 </li>
   <li>Brno: 19 February 2019, <a rel="external" href="https://www.facebook.com/BritsinCR/videos/292750928084054/">recording available on Facebook</a>
@@ -88,7 +90,7 @@
     </div>
 
     <div class="dont-print responsive-bottom-margin">
-        <div class="gem-c-share-links  " data-module="track-click">
+        <div class="gem-c-share-links " data-module="track-click">
       <h2 class="gem-c-share-links__title">Share this page</h2>
 
     <ul class="gem-c-share-links__list">
@@ -113,16 +115,19 @@
             </span><span class="visually-hidden">Share on </span>Twitter</a>
         </li>
     </ul>
-  </div>
-
+</div>
     </div>
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 21 December 2018
-    <br></br>Last updated 3 September 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 26 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-26T16:07:09.000+01:00">26 September 2019</time>
+              We added the link to the recording of our event held in Prague on 19 September. 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-03T12:05:46.000+01:00">3 September 2019</time>
               We added the link to the Facebook Q&A held on 5 August 2019.
@@ -157,24 +162,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-70e18435" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-3b579c8c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-70e18435" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3b579c8c" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks" data-track-options="{"dimension28":"5","dimension29":"Townhall meeting for British nationals - opening remarks"}" href="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks">Townhall meeting for British nationals - opening remarks</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/czech-republic-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Czech Republic: funeral directors"}" href="/government/publications/czech-republic-list-of-funeral-directors">Czech Republic: funeral directors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/cyprus-list-of-hospitals" data-track-options="{"dimension28":"5","dimension29":"Cyprus: hospitals"}" href="/government/publications/cyprus-list-of-hospitals">Cyprus: hospitals</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/netherlands-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Netherlands: funeral directors"}" href="/government/publications/netherlands-list-of-funeral-directors">Netherlands: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/sweden-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Sweden: funeral directors"}" href="/government/publications/sweden-list-of-funeral-directors">Sweden: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/how-to-property-in-cyprus" data-track-options="{"dimension28":"5","dimension29":"Cyprus: buying property"}" href="/guidance/how-to-property-in-cyprus">Cyprus: buying property</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/portugal-list-of-financial-advisors-fiscal-consultants" data-track-options="{"dimension28":"5","dimension29":"Portugal: financial advisors and consultants"}" href="/government/publications/portugal-list-of-financial-advisors-fiscal-consultants">Portugal: financial advisors and consultants</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/belgium-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Belgium: funeral directors"}" href="/government/publications/belgium-list-of-funeral-directors">Belgium: funeral directors</a></li>
 
   </ul>
 </nav>
@@ -200,9 +205,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-968d3c9a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-15de34d2" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-968d3c9a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-15de34d2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -216,9 +221,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-968d3c9a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-15de34d2" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-968d3c9a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-15de34d2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
