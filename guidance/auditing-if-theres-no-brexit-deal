@@ -1,23 +1,18 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Auditing if there's no Brexit deal
+    Auditing for UK auditors and audit firms operating in the EEA after Brexit
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    What audit firms, auditors, and those with an audit qualification should do to prepare before the UK leaves the EU.
-  </p>
+  <p class="gem-c-lead-paragraph">What UK audit firms, UK auditors, and those with UK audit qualifications need to do.</p>
 
   </div>
 </div>
@@ -25,9 +20,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 24 May 2019
+    <br></br>Last updated 27 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -37,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a>
                 </span>
             </dd>
         </dl>
@@ -59,159 +56,186 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#actions-for-uk-auditors-auditors-with-uk-qualifications-and-uk-audit-firms" data-track-options="{"dimension29":"Actions for UK auditors, auditors with UK qualifications and UK audit firms"}" href="#actions-for-uk-auditors-auditors-with-uk-qualifications-and-uk-audit-firms">Actions for UK auditors, auditors with UK qualifications and UK audit firms</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#actions-for-eea-auditors-auditors-with-eea-qualifications-and-eea-audit-firms-operating-in-the-uk" data-track-options="{"dimension29":"Actions for EEA auditors, auditors with EEA qualifications and EEA audit firms operating in the UK"}" href="#actions-for-eea-auditors-auditors-with-eea-qualifications-and-eea-audit-firms-operating-in-the-uk">Actions for EEA auditors, auditors with EEA qualifications and EEA audit firms operating in the UK</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#recognition-of-uk-audit-qualifications-in-eea-countries" data-track-options="{"dimension29":"Recognition of UK audit qualifications in EEA countries"}" href="#recognition-of-uk-audit-qualifications-in-eea-countries">Recognition of UK audit qualifications in EEA countries</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#audit-committees" data-track-options="{"dimension29":"Audit committees"}" href="#audit-committees">Audit committees</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#uk-audit-firms-auditing-eea-companies" data-track-options="{"dimension29":"UK audit firms auditing EEA companies"}" href="#uk-audit-firms-auditing-eea-companies">UK audit firms auditing EEA companies</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#further-information" data-track-options="{"dimension29":"Further information"}" href="#further-information">Further information</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#third-country-auditors-of-non-eea-firms-listed-on-eea-regulated-markets" data-track-options="{"dimension29":"Third country auditors of non-EEA firms listed on EEA regulated markets"}" href="#third-country-auditors-of-non-eea-firms-listed-on-eea-regulated-markets">Third country auditors of non-EEA firms listed on EEA regulated markets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#public-interest-entities" data-track-options="{"dimension29":"Businesses treated as public interest entities"}" href="#public-interest-entities">Businesses treated as public interest entities</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#auditing-groups-of-companies" data-track-options="{"dimension29":"Auditing groups of companies"}" href="#auditing-groups-of-companies">Auditing groups of companies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#disclosure-and-transparency-rules-on-audit-committees" data-track-options="{"dimension29":"Disclosure and Transparency Rules on Audit Committees"}" href="#disclosure-and-transparency-rules-on-audit-committees">Disclosure and Transparency Rules on Audit Committees</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#ownership-of-uk-audit-firms" data-track-options="{"dimension29":"Ownership of UK audit firms"}" href="#ownership-of-uk-audit-firms">Ownership of UK audit firms</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#ownership-of-eea-audit-firms" data-track-options="{"dimension29":"Ownership of EEA audit firms"}" href="#ownership-of-eea-audit-firms">Ownership of EEA audit firms</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>If the UK leaves the EU without a deal, the rules for auditing UK companies operating solely in the UK will not change.</p>
+<div class="call-to-action">
+<h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>There will be additional requirements for audits of UK companies operating in other European Economic Area (<abbr title="European Economic Area ">EEA</abbr>) countries and the provision of auditing services there.</p>
+<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
 
-<p>This guidance is aimed at:</p>
+<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
+</div>
+
+<div role="note" aria-label="Information" class="application-notice info-notice">
+<p>This guidance is for UK auditors and audit firms. There’s different <a href="https://www.gov.uk/guidance/auditing-for-eea-based-auditors-and-audit-firms-operating-in-the-uk-after-brexit">guidance for <abbr title="European Economic Area ">EEA</abbr> auditors and audit firms</a>.</p>
+</div>
+
+<p>The rules for auditing UK companies operating solely in the UK will not change after the UK leaves the EU.</p>
+
+<p>UK companies operating in <a href="https://www.gov.uk/eu-eea">European Economic Area (<abbr title="European Economic Area ">EEA</abbr>) countries</a> will need to meet regulations in those countries.</p>
+
+<h2 id="recognition-of-uk-audit-qualifications-in-eea-countries">Recognition of UK audit qualifications in <abbr title="European Economic Area ">EEA</abbr> countries</h2>
+
+<p>You should check if your UK qualification will continue to be recognised after the UK leaves the EU. <a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit#recognition-of-professional-qualifications">Contact the competent authority</a> in the country where you sign audit reports.</p>
+
+<p>If an <abbr title="European Economic Area ">EEA</abbr> country does not recognise your UK qualification, you may need to:</p>
 
 <ul>
-  <li>UK auditors, those with UK audit qualifications and audit firms operating in the <abbr title="European Economic Area ">EEA</abbr>
+  <li>take a new aptitude test - tests taken before the day the UK leaves the EU may not continue to be recognised</li>
+  <li>complete a new adaptation period</li>
+  <li>re-qualify for a recognised qualification</li>
+</ul>
+
+<h2 id="uk-audit-firms-auditing-eea-companies">UK audit firms auditing <abbr title="European Economic Area ">EEA</abbr> companies</h2>
+
+<p>You may not be able to sign an audit report for an <abbr title="European Economic Area ">EEA</abbr> company after the day the UK leaves the EU.</p>
+
+<p>You’ll need to check with the <a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit#recognition-of-professional-qualifications">competent authority</a> in the country where the company is incorporated:</p>
+
+<ul>
+  <li>if your audit qualification is recognised</li>
+  <li>what steps you need to take for your audit opinion to be valid</li>
+</ul>
+
+<p>You may need to resign as auditor if your audit opinion will not be valid.</p>
+
+<h2 id="third-country-auditors-of-non-eea-firms-listed-on-eea-regulated-markets">Third country auditors of non-<abbr title="European Economic Area ">EEA</abbr> firms listed on <abbr title="European Economic Area ">EEA</abbr> regulated markets</h2>
+
+<p>To carry out these audits you should <a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit#recognition-of-professional-qualifications">register with the competent authority</a> of the <abbr title="European Economic Area ">EEA</abbr> state where the market is based.</p>
+
+<h2 id="public-interest-entities">Businesses treated as public interest entities</h2>
+
+<p>Banks, building societies, insurers and issuers of securities that trade on UK regulated markets will be treated as public interest entities and must follow the EU Audit Regulation after the UK leaves the EU.</p>
+
+<p>Your business will no longer be treated as a public interest entity in the UK if it only issues securities that are admitted to trade on <abbr title="European Economic Area ">EEA</abbr> regulated markets.</p>
+
+<h2 id="auditing-groups-of-companies">Auditing groups of companies</h2>
+
+<p>You do not need to do anything if you audit a group of companies across the <abbr title="European Economic Area ">EEA</abbr> and the UK if your parent company is based in the UK.</p>
+
+<h3 id="restrictions-on-subsidiary-companies-in-the-eea">Restrictions on subsidiary companies in the <abbr title="European Economic Area ">EEA</abbr>
+</h3>
+
+<p>Check with the <a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit#recognition-of-professional-qualifications">competent authority</a> in the country where your subsidiary is incorporated if there are any restrictions - for example, sharing information outside the <abbr title="European Economic Area ">EEA</abbr>.</p>
+
+<h3 id="blacklisted-non-audit-services">Blacklisted non-audit services</h3>
+
+<p>Non-audit services will be blacklisted for all overseas subsidiaries of <a href="#public-interest-entities">UK public interest entities</a> from the day the UK leaves the EU.</p>
+
+<p>This means:</p>
+
+<ul>
+  <li>non-audit services will be prohibited if provided by the auditor of a UK public interest entity</li>
+  <li>firms in the same network as a UK auditor of a UK public interest entity will be prohibited from providing blacklisted services to non-<abbr title="European Economic Area ">EEA</abbr> subsidiaries</li>
+</ul>
+
+<h2 id="disclosure-and-transparency-rules-on-audit-committees">Disclosure and Transparency Rules on Audit Committees</h2>
+
+<p>UK issuers of shares or debt securities that are only admitted to trading on <abbr title="European Economic Area ">EEA</abbr> regulated markets will no longer be subject to the Disclosure and Transparency Rules issued by the Financial Conduct Authority (<abbr title="Financial Conduct Authority">FCA</abbr>) after the UK leaves the EU.</p>
+
+<p>All other UK <a href="#public-interest-entities">public interest entities</a> will still be subject to the Disclosure and Transparency Rules issued by the <abbr title="Financial Conduct Authority">FCA</abbr> and relevant rules issued by the Prudential Regulation Authority (<abbr title="Prudential Regulation Authority">PRA</abbr>).</p>
+
+<h3 id="exemptions-for-subsidiaries">Exemptions for subsidiaries</h3>
+
+<p>The exemptions in these rules will continue to apply to subsidiaries as long as the parent company is incorporated in the UK.</p>
+
+<p>For subsidiaries that issue securities on UK regulated markets, the parent company can be subject to either the <abbr title="Financial Conduct Authority">FCA</abbr> or the <abbr title="Prudential Regulation Authority">PRA</abbr> rules.</p>
+
+<p>Banks or insurers that qualify for <abbr title="Prudential Regulation Authority">PRA</abbr> exemptions only, must have a parent company that is subject to the <abbr title="Prudential Regulation Authority">PRA</abbr> rules.</p>
+
+<h2 id="ownership-of-uk-audit-firms">Ownership of UK audit firms</h2>
+
+<p>You can continue to include <abbr title="European Economic Area ">EEA</abbr> auditors in your UK firm’s required majorities of qualified owners and managers after the UK leaves the EU.</p>
+
+<p>You can also include <abbr title="European Economic Area ">EEA</abbr> audit firms until 31 December 2020.</p>
+
+<p>After 31 December 2020, you can continue to include <abbr title="European Economic Area ">EEA</abbr> audit firms if they’re both:</p>
+
+<ul>
+  <li>based in the Republic of Ireland</li>
+  <li>registered with a <a rel="external" href="https://www.frc.org.uk/auditors/professional-oversight/oversight-of-audit/recognition-of-recognised-supervisory-bodies-and-r">UK Recognised Supervisory Body</a>
 </li>
-  <li>
-<abbr title="European Economic Area ">EEA</abbr> auditors, those with <abbr title="European Economic Area ">EEA</abbr> audit qualifications and audit firms operating in the UK</li>
-  <li>clients of auditors and audit firms in either of the above categories</li>
 </ul>
 
-<h2 id="actions-for-uk-auditors-auditors-with-uk-qualifications-and-uk-audit-firms">Actions for UK auditors, auditors with UK qualifications and UK audit firms</h2>
+<h2 id="ownership-of-eea-audit-firms">Ownership of <abbr title="European Economic Area ">EEA</abbr> audit firms</h2>
 
-<h3 id="recognition-of-uk-audit-qualifications-in-eea-states">Recognition of UK audit qualifications in <abbr title="European Economic Area ">EEA</abbr> states</h3>
+<p>As a UK auditor or UK audit firm you may not be allowed to continue in an <abbr title="European Economic Area ">EEA</abbr> firm’s required majorities of qualified owners and managers after the UK leaves the EU.</p>
 
-<p>If you have a UK qualification and do audit work in a country in the <abbr title="European Economic Area ">EEA</abbr>, you must <a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit#recognition-of-professional-qualifications">contact the competent authority in that country</a> to see if UK qualifications will continue to be recognised.</p>
-
-<p>To re-establish eligibility, you may either need to:</p>
-
-<ul>
-  <li>complete a new aptitude test or adaptation period - those taken before exit day may not be recognised</li>
-  <li>re-qualify by obtaining the relevant qualification</li>
-</ul>
-
-<h3 id="uk-audit-firms-auditing-eea-companies">UK audit firms auditing <abbr title="European Economic Area ">EEA</abbr> companies</h3>
-
-<p>If you expect to sign an audit report for an <abbr title="European Economic Area ">EEA</abbr> company after the UK leaves the EU:</p>
-
-<ul>
-  <li>check if you can with the <a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit#recognition-of-professional-qualifications">competent authority</a> in the country where the company is incorporated</li>
-  <li>check what steps you need to take for your audit opinion to be valid</li>
-</ul>
-
-<p>You may need to resign as auditor if no practical steps are available.</p>
-
-<h3 id="third-country-auditors-of-non-eea-firms-listed-on-eea-regulated-market">Third-country auditors of non-<abbr title="European Economic Area ">EEA</abbr> firms listed on <abbr title="European Economic Area ">EEA</abbr>-regulated market</h3>
-
-<p>UK-qualified auditors will have to register to be able to carry out these audits.</p>
-
-<p>Contact the <a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit#recognition-of-professional-qualifications">competent authority</a> in the <abbr title="European Economic Area ">EEA</abbr> state where the market is based about the application process, the information you will need to submit and timescales.</p>
-
-<h3 id="businesses-treated-as-public-interest-entities">Businesses treated as public interest entities</h3>
-
-<p>The EU Audit Regulation will continue to apply to banks, building societies, insurers and issuers of securities that trade on UK regulated markets. These will continue to be public interest entities. Businesses that are treated as public interest entities only because they issue securities that are admitted to trade on <abbr title="European Economic Area ">EEA</abbr> regulated markets will no longer be treated as such.</p>
-
-<h3 id="group-audits">Group audits</h3>
-
-<p>If you audit a group of companies across the <abbr title="European Economic Area ">EEA</abbr> and the UK, including where the parent company is UK based, the government does not anticipate significant issues.</p>
-
-<p>Check with the <a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit#recognition-of-professional-qualifications">competent authorities</a> in the countries where subsidiaries are incorporated whether there are any restrictions, including the sharing of information outside the <abbr title="European Economic Area ">EEA</abbr>.</p>
-
-<p>‘Blacklisted’ non-audit services will now be blacklisted for all overseas subsidiaries of UK public interest entities (banks, building societies, insurers and issuers of securities on UK regulated markets) so that they are prohibited if provided by the auditor of a UK public interest entity. Firms in the same network as a UK auditor to a UK public interest entity will be subject to the same prohibition of providing blacklisted services to non-<abbr title="European Economic Area ">EEA</abbr> subsidiaries.</p>
-
-<h2 id="actions-for-eea-auditors-auditors-with-eea-qualifications-and-eea-audit-firms-operating-in-the-uk">Actions for <abbr title="European Economic Area ">EEA</abbr> auditors, auditors with <abbr title="European Economic Area ">EEA</abbr> qualifications and <abbr title="European Economic Area ">EEA</abbr> audit firms operating in the UK</h2>
-
-<h3 id="eea-audit-firm-ownership">
-<abbr title="European Economic Area ">EEA</abbr> audit firm ownership</h3>
-
-<p><abbr title="European Economic Area ">EEA</abbr> audit firms whose required majority of qualified owners and managers includes individuals with UK audit qualifications or UK audit firms will need to:</p>
-
-<ul>
-  <li>check with the <a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit#recognition-of-professional-qualifications">competent authority</a> in the country where the firm is registered whether those individuals or firms will continue to be recognised</li>
-  <li>urgently consider whether restructuring is required to continue to be an <abbr title="European Economic Area ">EEA</abbr> approved audit firm</li>
-</ul>
-
-<h3 id="eea-auditors-registered-with-uk-recognised-professional-bodies">
-<abbr title="European Economic Area ">EEA</abbr> auditors registered with UK-recognised professional bodies</h3>
-
-<p>Statutory auditors don’t need to take any action.</p>
-
-<h3 id="new-eea-auditor-registrations-in-uk">New <abbr title="European Economic Area ">EEA</abbr> auditor registrations in UK</h3>
-
-<p><abbr title="European Economic Area ">EEA</abbr> qualified auditors working in the UK who are not registered as a statutory auditor will have until 31 December 2020.</p>
-
-<p>Contact one of the UK’s <a rel="external" href="https://www.frc.org.uk/auditors/professional-oversight/oversight-of-audit/recognition-of-recognised-supervisory-bodies-and-r">Recognised Supervisory Bodies</a> to register as a statutory auditor.</p>
-
-<p>You can begin the process by passing an aptitude test.</p>
-
-<p>Auditors from the Republic of Ireland are largely unaffected. Only auditors that are qualified as members of <abbr title="Certified Public Accountants Ireland">CPA</abbr> Ireland will need to sit an aptitude test.</p>
-
-<h3 id="uk-audit-firm-ownership">UK audit firm ownership</h3>
-
-<p>All individual <abbr title="European Economic Area ">EEA</abbr> auditors will be eligible to be included in a UK firm’s required majorities of qualified owners and managers. Those that have not registered in the UK as a statutory auditor will lose this eligibility on 1 January 2021.</p>
-
-<p><abbr title="European Economic Area ">EEA</abbr> audit firms will similarly be eligible to be included in a UK firm’s required majorities of qualified owners and managers. <abbr title="European Economic Area ">EEA</abbr> audit firms, apart from those from Ireland that are registered with a UK Recognised Supervisory Body, will lose this eligibility on 1 January 2021.</p>
-
-<h2 id="audit-committees">Audit committees</h2>
-
-<p>UK issuers of shares or debt securities that are only admitted to trading on <abbr title="European Economic Area ">EEA</abbr> regulated markets will not be subject to the requirements in the Disclosure and Transparency Rules issued by the <abbr title="Financial Conduct Authority">FCA</abbr>.</p>
-
-<p>All other UK public interest entities (banks, building societies, insurers and issuers of securities that trade on UK regulated markets) will still be subject to the Disclosure and Transparency Rules issued by the <abbr title="Financial Conduct Authority">FCA</abbr>, and other rules issued by the Prudential Regulation Authority (<abbr title="Prudential Regulation Authority">PRA</abbr>).</p>
-
-<p>The current exemptions in these rules for businesses with a parent company that is subject to the same requirement will continue to apply if the parent is incorporated in the UK.</p>
-
-<p>For subsidiaries that are issuers of securities on UK regulated markets, the parent may be subject either to the <abbr title="Financial Conduct Authority">FCA</abbr>’s or the <abbr title="Prudential Regulation Authority">PRA</abbr>’s rules. For subsidiaries that are banks or insurers and qualify under the more limited exemption provided by the <abbr title="Prudential Regulation Authority">PRA</abbr>, the parent must be subject to the <abbr title="Prudential Regulation Authority">PRA</abbr>’s rules.</p>
-
-<h2 id="further-information">Further information</h2>
-
-<ul>
-  <li><a href="https://www.gov.uk/government/publications/accounting-and-audit-if-theres-no-brexit-deal-letters-to-the-sector">Accounting and Audit if there’s no Brexit deal: letters to the sector</a></li>
-  <li><a href="https://www.gov.uk/government/collections/providing-services-to-eea-and-efta-countries-after-eu-exit">Providing services to <abbr title="European Economic Area ">EEA</abbr> and <abbr title="European Free Trade Association">EFTA</abbr> countries after EU exit</a></li>
-</ul>
-
-<p>Check if your business is fully compliant with the relevant accounting and reporting requirements:</p>
-
-<ul>
-  <li><a href="https://www.gov.uk/government/publications/providing-services-including-those-of-a-qualified-professional-if-theres-no-brexit-deal/providing-services-including-those-of-a-qualified-professional-if-theres-no-brexit-deal">Providing services including those of a qualified professional if there’s no Brexit deal</a></li>
-  <li><a rel="external" href="http://www.legislation.gov.uk/uksi/2019/145/contents/made">Accounts and Reports (Amendment) (EU Exit) Regulations 2019</a></li>
-  <li><a rel="external" href="http://www.legislation.gov.uk/uksi/2019/177/contents/made">Statutory Auditors and Third-Country Auditors (Amendment) (EU Exit) Regulations 2019</a></li>
-  <li><a rel="external" href="https://www.legislation.gov.uk/uksi/2019/685/contents/made">International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019</a></li>
-</ul>
+<p>You’ll need to <a href="https://www.gov.uk/guidance/providing-services-to-any-country-in-the-eu-iceland-liechtenstein-norway-or-switzerland-after-eu-exit#recognition-of-professional-qualifications">check with the competent authority</a> where the firm is recognised.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates ">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 24 May 2019
+    <br></br>Last updated 27 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-27T17:23:01.000+01:00">27 September 2019</time>
+              Increased visibility of calls to action. Removed information about what EEA auditors and audit firms need to do after Brexit. This information has been moved to a new guide.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-24T11:00:00.000+01:00">24 May 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -228,6 +252,43 @@
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-6ea82b05" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6ea82b05" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-6ea82b05" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-6ea82b05" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/providing-services-to-any-country-in-the-eu-iceland-liechtenstein-norway-or-switzerland-after-eu-exit" data-track-options="{"dimension28":"3","dimension29":"Selling services to the EU, Switzerland, Norway, Iceland and Liechtenstein after Brexit"}" href="/guidance/providing-services-to-any-country-in-the-eu-iceland-liechtenstein-norway-or-switzerland-after-eu-exit">Selling services to the EU, Switzerland, Norway, Iceland and Liechtenstein after Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/accounting-for-eea-organisations-after-brexit" data-track-options="{"dimension28":"3","dimension29":"Accounting for EEA organisations after Brexit"}" href="/guidance/accounting-for-eea-organisations-after-brexit">Accounting for EEA organisations after Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/accounting-if-theres-no-brexit-deal" data-track-options="{"dimension28":"3","dimension29":"Accounting for UK companies after Brexit"}" href="/guidance/accounting-if-theres-no-brexit-deal">Accounting for UK companies after Brexit</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -248,9 +309,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8446efe2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-53f791ae" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8446efe2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-53f791ae" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
