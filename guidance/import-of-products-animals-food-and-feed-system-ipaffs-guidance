@@ -1,35 +1,30 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Using the Import of products, animals, food and feed system (IPAFFS)
+    Using the Import of Products, Animals, Food and Feed System (IPAFFS)
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How to use the UK’s new notification system to import animals and animal products from non-EU countries.
-  </p>
+  <p class="gem-c-lead-paragraph">How to use the UK’s new notification system to import animals and animal products from non-EU countries.</p>
 
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 20 February 2019
-    <br></br>Last updated 16 April 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 30 September 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a> and <a href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a> and <a class="govuk-link" href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
                 </span>
             </dd>
         </dl>
@@ -47,7 +42,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,54 +50,60 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#if-a-deal-with-the-eu-is-agreed" data-track-options="{"dimension29":"If a deal with the EU is agreed"}" href="#if-a-deal-with-the-eu-is-agreed">If a deal with the EU is agreed</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#if-a-deal-with-the-eu-is-agreed" data-track-options="{"dimension29":"If a deal with the EU is agreed"}" href="#if-a-deal-with-the-eu-is-agreed">If a deal with the EU is agreed</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#when-ipaffs-will-be-available-to-use" data-track-options="{"dimension29":"When IPAFFS will be available to use"}" href="#when-ipaffs-will-be-available-to-use">When IPAFFS will be available to use</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#when-ipaffs-will-be-available-to-use" data-track-options="{"dimension29":"When IPAFFS will be available to use"}" href="#when-ipaffs-will-be-available-to-use">When IPAFFS will be available to use</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#how-to-register-for-and-access-ipaffs" data-track-options="{"dimension29":"How to register for and access IPAFFS\n"}" href="#how-to-register-for-and-access-ipaffs">How to register for and access IPAFFS
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#how-to-register-for-and-access-ipaffs" data-track-options="{"dimension29":"How to register for and access IPAFFS\n"}" href="#how-to-register-for-and-access-ipaffs">How to register for and access IPAFFS
 </a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#before-you-start" data-track-options="{"dimension29":"Before you start"}" href="#before-you-start">Before you start</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#before-you-start" data-track-options="{"dimension29":"Before you start"}" href="#before-you-start">Before you start</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#how-to-create-a-notification-on-ipaffs" data-track-options="{"dimension29":"How to create a notification on IPAFFS\n"}" href="#how-to-create-a-notification-on-ipaffs">How to create a notification on IPAFFS
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#how-to-create-a-notification-on-ipaffs" data-track-options="{"dimension29":"How to create a notification on IPAFFS\n"}" href="#how-to-create-a-notification-on-ipaffs">How to create a notification on IPAFFS
 </a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#what-happens-after-you-submit-your-notification" data-track-options="{"dimension29":"What happens after you submit your notification"}" href="#what-happens-after-you-submit-your-notification">What happens after you submit your notification</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#what-happens-after-you-submit-your-notification" data-track-options="{"dimension29":"What happens after you submit your notification"}" href="#what-happens-after-you-submit-your-notification">What happens after you submit your notification</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#if-you-need-help" data-track-options="{"dimension29":"If you need help"}" href="#if-you-need-help">If you need help</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#if-you-need-help" data-track-options="{"dimension29":"If you need help"}" href="#if-you-need-help">If you need help</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<p>Until the UK leaves the EU you must continue to use the EU’s <a rel="external" href="https://webgate.ec.europa.eu/sanco/traces/"><abbr title="Trade Control and Expert System">TRACES</abbr></a> (Trade Control and Expert System) to notify authorities you are planning to import into the UK. You must also <a href="https://www.gov.uk/government/publications/eu-import-of-animals-and-products-food-feed-notify-authorities">notify APHA</a> if you plan to import animals, germplasm and animal products into England, Scotland or Wales.</p>
+<p>Until Brexit, you must continue to use the <abbr title="European Union">EU</abbr>’s <a rel="external" href="https://webgate.ec.europa.eu/sanco/traces/"><abbr title="Trade Control and Expert System">TRACES</abbr></a> (Trade Control and Expert System) for imports into the UK.</p>
+
+<p>You must also <a href="https://www.gov.uk/government/publications/eu-import-of-animals-and-products-food-feed-notify-authorities">notify APHA</a> if you plan to import animals, germplasm and animal products into England, Scotland or Wales.</p>
 </div>
 
-<p>If the UK leaves the EU without a deal, you’ll no longer be able to use the EU’s <abbr title="Trade Control and Expert System">TRACES</abbr>.</p>
-
-<p>If you’re importing into the UK from countries outside the EU you will need to use the <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system">Import of products, animals, food and feed system</a> (<abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>) to create part 1 of a:</p>
+<p>If you’re importing into the UK from countries outside the European Economic Area (<abbr title="European Economic Area">EEA</abbr>: <a href="https://www.gov.uk/eu-eea"><abbr title="European Union">EU</abbr> countries</a> and also Iceland, Liechtenstein and Norway) you’ll need to use the <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system">Import of products, animals, food and feed system</a> (<abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>) to create part 1 of a:</p>
 
 <ul>
   <li>
@@ -111,18 +112,18 @@
 <abbr title="Common entry document">CED</abbr> (common entry document - for high-risk food and animal feed of non-animal origin)</li>
 </ul>
 
-<h2 id="if-a-deal-with-the-eu-is-agreed">If a deal with the EU is agreed</h2>
-<p>If a deal with the EU is agreed, you must continue to notify imports using <abbr title="Trade Control and Expert System">TRACES</abbr> during the implementation period.</p>
+<h2 id="if-a-deal-with-the-eu-is-agreed">If a deal with the <abbr title="European Union">EU</abbr> is agreed</h2>
+<p>If a deal with the <abbr title="European Union">EU</abbr> is agreed, you must continue to notify imports using <abbr title="Trade Control and Expert System">TRACES</abbr> during the implementation period.</p>
 
 <h2 id="when-ipaffs-will-be-available-to-use">When <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> will be available to use</h2>
 
 <p>You can register for <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> now.</p>
 
-<p>If the UK leaves the EU without a deal, you’ll only be able to use it to import from non-EU countries and non-European Economic Area (EEA) countries. The European Economic Area (EEA) includes EU countries and also Iceland, Liechtenstein and Norway.</p>
+<p>If the UK leaves the <abbr title="European Union">EU</abbr> without a deal, you’ll only be able to use it to import from countries that are not in the <abbr title="European Economic Area">EEA</abbr>.</p>
 
-<p>You’ll be able to use it if you’re importing from the EU by late summer 2019. Until then, for EU imports (and Iceland, Liechtenstein and Norway) you’ll need to use the <a href="https://www.gov.uk/government/publications/eu-import-of-animals-and-products-food-feed-notify-authorities">IV66 import notification form</a> from GOV.UK. Find out more in the guidance on <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-after-eu-exit">importing animals, animal products and high risk food and feed not of animal origin after EU exit</a>.</p>
+<p>You’ll be able to use it for <abbr title="European Economic Area">EEA</abbr> imports by spring 2020. Until then, for imports from the <abbr title="European Economic Area">EEA</abbr> you need to use the <a href="https://www.gov.uk/government/publications/eu-import-of-animals-and-products-food-feed-notify-authorities">IV66 import notification form</a> from GOV.UK.</p>
 
-<p>You can use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> for testing and training before late summer 2019, but notifications will not be valid.</p>
+<p>You can use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> for testing and training before the UK leaves the <abbr title="European Union">EU</abbr>, but notifications will not be valid. Tell us how the service can be improved by emailing <a href="mailto:APHAServiceDesk@apha.gov.uk">APHAServiceDesk@apha.gov.uk</a>.</p>
 
 <h2 id="how-to-register-for-and-access-ipaffs">How to register for and access <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>
 </h2>
@@ -154,7 +155,7 @@
 
 <p>This is especially important if your consignment is arriving out of hours.</p>
 
-<p>You can return to the information to update it, even after you’ve submitted it, as long as it’s not ‘in progress’. If you need to update your notification while it’s in ‘progress’, call the <abbr title="Border inspection post">BIP</abbr> and ask them to send it back to you.</p>
+<p>You can return to the information to update it, even after you’ve submitted it, as long as it’s not ‘in progress’. If you need to update your notification while it’s ‘in progress’, call the <abbr title="Border inspection post">BIP</abbr> or <abbr title="Designated point of entry">DPE</abbr> and ask them to send it back to you.</p>
 
 <p>You need to know:</p>
 
@@ -162,8 +163,8 @@
   <li>what you’re importing</li>
   <li>the date and the estimated time the consignment will arrive at the <abbr title="Border inspection post">BIP</abbr> or <abbr title="Designated point of entry">DPE</abbr>
 </li>
-  <li>which country it will come from, and the country in which is its consigned if they are different</li>
-  <li>the entry requirements for your consignment - the <a rel="external" href="http://apha.defra.gov.uk/official-vets/Guidance/bip/iin/index.htm">import information notes</a> on APHA’s website give import requirements for live animals and animal products, and the Food Standards Agency has advice on <a rel="external" href="https://www.food.gov.uk/business-guidance/importing-high-risk-foods">high-risk foods</a> and <a rel="external" href="https://www.food.gov.uk/business-guidance/farming-animal-feed">animal feed</a>
+  <li>which country it will come from, and the country in which it is consigned if they are different</li>
+  <li>the entry requirements for your consignment - the <a rel="external" href="http://apha.defra.gov.uk/official-vets/Guidance/bip/iin/index.htm">import information notes</a> on the APHA Vet Gateway give import requirements for live animals and animal products, and the Food Standards Agency has advice on <a rel="external" href="https://www.food.gov.uk/business-guidance/importing-high-risk-foods">high-risk foods</a> and <a rel="external" href="https://www.food.gov.uk/business-guidance/farming-animal-feed">animal feed</a>
 </li>
   <li>the purpose of the consignment</li>
   <li>how the consignment will be transported to the <abbr title="Border inspection post">BIP</abbr> or <abbr title="Designated point of entry">DPE</abbr>
@@ -178,10 +179,6 @@
 <p>Complete all parts of the first section, ‘About the consignment’, to get a draft <abbr title="Common veterinary entry document">CVED</abbr> or <abbr title="Common entry document">CED</abbr> number.</p>
 
 <p>You can continue to complete the notification or you can save and return to fill out the rest later.</p>
-
-<h3 id="split-consignments">Split consignments</h3>
-
-<p>If your consignment is split, you need to create a <abbr title="Common entry document">CED</abbr> or <abbr title="Common veterinary entry document">CVED</abbr> for each part of the consignment. Record all the <abbr title="Common entry document">CED</abbr> or <abbr title="Common veterinary entry document">CVED</abbr> numbers in the <a href="#container-number">container number</a> field of the notification.</p>
 
 <h3 id="about-the-consignment">About the consignment</h3>
 
@@ -205,9 +202,9 @@
 
 <p>You may be asked for an accompanying document number if you’re importing livestock, for example from a horse passport or cattle identification document.</p>
 
-<p>If you’re importing a product of animal origin from a non-EU country you need to add the product’s establishment(s) of origin (for example a slaughterhouse or processing plant).</p>
+<p>If you’re importing a product of animal origin from a non-<abbr title="European Union">EU</abbr> country you need to add the product’s establishment(s) of origin (for example a slaughterhouse or processing plant).</p>
 
-<p>When the UK leaves the EU, the UK will still use the <a rel="external" href="https://webgate.ec.europa.eu/sanco/traces/output/non_eu_listsPerCountry_en.htm">EU lists of approved establishments</a> for non-EU countries. These are listed in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>.</p>
+<p>When the UK leaves the <abbr title="European Union">EU</abbr>, the UK will still use the <a rel="external" href="https://webgate.ec.europa.eu/sanco/traces/output/non_eu_listsPerCountry_en.htm"><abbr title="European Union">EU</abbr> lists of approved establishments</a> for non-<abbr title="European Union">EU</abbr> countries. These are listed in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>.</p>
 
 <p>If you cannot find the establishment you want, leave this section blank and tell the <abbr title="Border inspection post">BIP</abbr> as soon as possible.</p>
 
@@ -221,7 +218,11 @@
   <li>the type of establishment</li>
 </ul>
 
-<p>If you’re importing after the UK leaves the EU, you’ll need to <a href="https://www.gov.uk/eori">get an Economic Operator Register and Identification</a> (EORI) number.</p>
+<p>If you’re importing after the UK leaves the <abbr title="European Union">EU</abbr>, you’ll need to <a href="https://www.gov.uk/eori">get an Economic Operator Register and Identification</a> (EORI) number.</p>
+
+<h3 id="split-consignments">Split consignments</h3>
+
+<p>If your consignment is split, you need to create a <abbr title="Common entry document">CED</abbr> or <abbr title="Common veterinary entry document">CVED</abbr> for each part of the consignment. Record all the <abbr title="Common entry document">CED</abbr> or <abbr title="Common veterinary entry document">CVED</abbr> numbers in the <a href="#container-number">container number</a> field of the notification.</p>
 
 <h3 id="traders">Traders</h3>
 
@@ -252,8 +253,9 @@
 
 <h3 id="transport">Transport</h3>
 
-<p>You must complete this section if you’re importing live animals by giving the transporter details for when the consignment leaves the <abbr title="Border inspection post">BIP</abbr>.
-It’s sometimes needed for products of animal origin depending on the commodity or the purpose of the consignment - check the import requirements.</p>
+<p>You must complete this section if you’re importing live animals by giving the transporter details for when the consignment leaves the <abbr title="Border inspection post">BIP</abbr>.</p>
+
+<p>It’s sometimes needed for products of animal origin depending on the commodity or the purpose of the consignment - check the import requirements.</p>
 
 <h2 id="what-happens-after-you-submit-your-notification">What happens after you submit your notification</h2>
 
@@ -269,7 +271,7 @@ It’s sometimes needed for products of animal origin depending on the commodity
 
 <p>Amending the notification will create a new version number, but the reference number will stay the same.</p>
 
-<p>When a notification is ‘in progress’ it can be changed by the <abbr title="Border inspection post">BIP</abbr> or <abbr title="Designated point of entry">DPE</abbr>. It’ll change to the ‘amend’ status, for you to amend and resubmit.</p>
+<p>When a notification is ‘in progress’ it can be changed by the <abbr title="Border inspection post">BIP</abbr> or <abbr title="Designated point of entry">DPE</abbr>. It’ll change to the ‘amend’ status, for you to amend and resubmit. If amendments are required and the status is ‘in progress’, contact the relevant <abbr title="Border inspection post">BIP</abbr>/<abbr title="Designated point of entry">DPE</abbr> to discuss the most appropriate course of action.</p>
 
 <p>You can delete a notification if you need to.</p>
 
@@ -284,12 +286,16 @@ It’s sometimes needed for products of animal origin depending on the commodity
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 February 2019
-    <br></br>Last updated 16 April 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 30 September 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-30T11:02:29.000+01:00">30 September 2019</time>
+              Unwithdrew page because IPAFFS is now open for registration.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-16T14:42:49.000+01:00">16 April 2019</time>
               Updated to make it clear that importers should continue to use TRACES to notify imports until the UK leaves the EU.
@@ -318,7 +324,7 @@ It’s sometimes needed for products of animal origin depending on the commodity
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -330,29 +336,42 @@ It’s sometimes needed for products of animal origin depending on the commodity
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-f8ef74a6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-ce883af7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-f8ef74a6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-ce883af7" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-f8ef74a6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" data-track-options="{"dimension28":"2","dimension29":"Importing animals, animal products and high-risk food and feed not of animal origin if the UK leaves the EU with no deal"}" href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">Importing animals, animal products and high-risk food and feed not of animal origin if the UK leaves the EU with no deal</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.2 Detailed guidance" data-track-label="/guidance/import-of-products-animals-food-and-feed-system" data-track-options="{"dimension28":"2","dimension29":"Import of products, animals, food and feed system"}" href="/guidance/import-of-products-animals-food-and-feed-system">Import of products, animals, food and feed system</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-ce883af7" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-ce883af7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" data-track-options="{"dimension28":"2","dimension29":"Importing animals, animal products and high-risk food and feed not of animal origin if there’s a no-deal Brexit"}" href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">Importing animals, animal products and high-risk food and feed not of animal origin if there’s a no-deal Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/import-of-products-animals-food-and-feed-system" data-track-options="{"dimension28":"2","dimension29":"Import of products, animals, food and feed system (IPAFFS)"}" href="/guidance/import-of-products-animals-food-and-feed-system">Import of products, animals, food and feed system (IPAFFS)</a></li>
 
   </ul>
 </nav>
@@ -367,8 +386,8 @@ It’s sometimes needed for products of animal origin depending on the commodity
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -378,9 +397,9 @@ It’s sometimes needed for products of animal origin depending on the commodity
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4f3ee130" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9f446682" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-4f3ee130" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-9f446682" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
