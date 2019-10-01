@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Check if you need a certificate to export food, drink and agricultural products, and what you'll need to do in a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">Check if you need a certificate to export food, drink and agricultural products, and what you'll need to do in a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -26,7 +24,7 @@
     <div class="app-c-published-dates " lang="en">
     Published 11 November 2016
     <br></br>Last updated 23 August 2019
-      — <a href="#history">see all updates</a>
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>, <a href="/government/organisations/rural-payments-agency">Rural Payments Agency</a>, and <a href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>, <a class="govuk-link" href="/government/organisations/rural-payments-agency">Rural Payments Agency</a>, and <a class="govuk-link" href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
                 </span>
             </dd>
         </dl>
@@ -58,31 +56,36 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#prepare-for-brexit" data-track-options="{"dimension29":"Prepare for Brexit"}" href="#prepare-for-brexit">Prepare for Brexit</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#prepare-for-brexit" data-track-options="{"dimension29":"Prepare for Brexit"}" href="#prepare-for-brexit">Prepare for Brexit</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#processed-foods" data-track-options="{"dimension29":"Processed food and drinks: current rules"}" href="#processed-foods">Processed food and drinks: current rules</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#processed-foods" data-track-options="{"dimension29":"Processed food and drinks: current rules"}" href="#processed-foods">Processed food and drinks: current rules</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#meat-dairy-animal-products" data-track-options="{"dimension29":"Meat, fish, dairy and other animal products: current rules"}" href="#meat-dairy-animal-products">Meat, fish, dairy and other animal products: current rules</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#meat-dairy-animal-products" data-track-options="{"dimension29":"Meat, fish, dairy and other animal products: current rules"}" href="#meat-dairy-animal-products">Meat, fish, dairy and other animal products: current rules</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#plants" data-track-options="{"dimension29":"Vegetables, fruit and other plants used as food: current rules"}" href="#plants">Vegetables, fruit and other plants used as food: current rules</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#plants" data-track-options="{"dimension29":"Vegetables, fruit and other plants used as food: current rules"}" href="#plants">Vegetables, fruit and other plants used as food: current rules</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#grain" data-track-options="{"dimension29":"Grain"}" href="#grain">Grain</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#grain" data-track-options="{"dimension29":"Grain"}" href="#grain">Grain</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#sugar" data-track-options="{"dimension29":"Sugar and rice: current rules"}" href="#sugar">Sugar and rice: current rules</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#sugar" data-track-options="{"dimension29":"Sugar and rice: current rules"}" href="#sugar">Sugar and rice: current rules</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -561,7 +564,7 @@ Monday to Friday, 8:30am to 5pm</p>
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 November 2016
     <br></br>Last updated 23 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
@@ -615,7 +618,7 @@ Phytosanitary Certification of Grain for Export
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -634,14 +637,14 @@ Phytosanitary Certification of Grain for Export
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-c3f533a3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-7fe2f1dc" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c3f533a3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7fe2f1dc" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -655,9 +658,9 @@ Phytosanitary Certification of Grain for Export
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-c3f533a3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-7fe2f1dc" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-c3f533a3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-7fe2f1dc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -689,9 +692,9 @@ Phytosanitary Certification of Grain for Export
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dbe92c38" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6015a226" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-dbe92c38" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-6015a226" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
