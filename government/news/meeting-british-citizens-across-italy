@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       World news story
     </p>
@@ -10,14 +8,11 @@
     Meeting British citizens across Italy
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    The British Embassy in Rome is holding meetings across Italy to update British citizens working and living in the country. 
-  </p>
+  <p class="gem-c-lead-paragraph">The British Embassy in Rome is holding meetings across Italy to update British citizens working and living in the country. </p>
 
   </div>
 </div>
@@ -25,11 +20,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 8 November 2018
-    <br></br>Last updated 14 June 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 1 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/world/organisations/british-embassy-rome">British Embassy Rome</a> and <a href="/world/organisations/british-consulate-general-milan">British Consulate General Milan</a>
+                  <a class="govuk-link" href="/world/organisations/british-embassy-rome">British Embassy Rome</a> and <a class="govuk-link" href="/world/organisations/british-consulate-general-milan">British Consulate General Milan</a>
                 </span>
             </dd>
         </dl>
@@ -58,7 +53,7 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
-      <figure class="app-c-figure">
+      <figure class="app-c-figure" lang="en">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81079/s300_UK_ITA.jpg" alt="Union Jack and Italian Tricolour"></img>
     <figcaption class="app-c-figure__figcaption">
 
@@ -72,20 +67,24 @@
 
 <p>In our team’s continuous effort to reach as many British expats in Italy as possible, we will be announcing further outreach meetings here, and via direct email. Should you wish to receive such emails please subscribe by writing to <a href="mailto:uknationals.initaly@fco.gov.uk">uknationals.initaly@fco.gov.uk</a>.</p>
 
-<h4 id="outreach">Upcoming British citizens outreach meetings:</h4>
+<h4 id="outreach">Upcoming British citizens outreach meetings</h4>
 
 <ul>
+  <li>15 October 2019 - Milan</li>
+</ul>
+
+<h4 id="previous-british-citizens-outreach-meetings-across-italy">Previous British citizens outreach meetings across Italy</h4>
+
+<ul>
+  <li>
+    <p>13 September 2019 - Martina Franca</p>
+  </li>
+  <li>
+    <p>17 July  2019 - Rome</p>
+  </li>
   <li>
     <p>26 June 2019 - Florence</p>
   </li>
-  <li>
-    <p>July  2019 - Rome - date to be decided</p>
-  </li>
-</ul>
-
-<h4 id="previous-british-citizens-outreach-meetings-across-italy">Previous British citizens outreach meetings across Italy:</h4>
-
-<ul>
   <li>
     <p>5 June 2019 - Naples</p>
   </li>
@@ -211,7 +210,7 @@
     </div>
 
     <div class="dont-print responsive-bottom-margin">
-        <div class="gem-c-share-links  " data-module="track-click">
+        <div class="gem-c-share-links " data-module="track-click">
       <h2 class="gem-c-share-links__title">Share this page</h2>
 
     <ul class="gem-c-share-links__list">
@@ -236,16 +235,23 @@
             </span><span class="visually-hidden">Share on </span>Twitter</a>
         </li>
     </ul>
-  </div>
-
+</div>
     </div>
 
-    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 November 2018
-    <br></br>Last updated 14 June 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 1 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-01T14:06:52.000+01:00">1 October 2019</time>
+              New citizens outreach meeting on the 15 October 2019 in Milan
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-09T07:57:28.000+01:00">9 July 2019</time>
+              Date for Rome outreach meeting set
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-14T12:33:44.000+01:00">14 June 2019</time>
               Rome outreach event postponed till July
@@ -319,6 +325,31 @@
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-0db8a4fa" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-0db8a4fa" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/italy-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Italy: funeral directors"}" href="/government/publications/italy-list-of-funeral-directors">Italy: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/portugal-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Portugal: funeral directors"}" href="/government/publications/portugal-list-of-funeral-directors">Portugal: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/belgium-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Belgium: funeral directors"}" href="/government/publications/belgium-list-of-funeral-directors">Belgium: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/ireland-list-of-lawyers" data-track-options="{"dimension28":"5","dimension29":"Ireland: lawyers"}" href="/government/publications/ireland-list-of-lawyers">Ireland: lawyers</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/ireland-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Ireland: funeral directors"}" href="/government/publications/ireland-list-of-funeral-directors">Ireland: funeral directors</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -339,9 +370,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-107f9a53" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-716596f3" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-107f9a53" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-716596f3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -349,16 +380,16 @@
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/going-and-being-abroad/british-nationals-overseas" data-track-options="{"dimension28":"4","dimension29":"British nationals overseas"}" href="/going-and-being-abroad/british-nationals-overseas">British nationals overseas</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/going-and-being-abroad/living-abroad" data-track-options="{"dimension28":"4","dimension29":"Living abroad"}" href="/going-and-being-abroad/living-abroad">Living abroad</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/society-and-culture/citizenship" data-track-options="{"dimension28":"4","dimension29":"British citizenship "}" href="/society-and-culture/citizenship">British citizenship </a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.4 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"4","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.4 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"4","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-107f9a53" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-716596f3" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-107f9a53" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-716596f3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
