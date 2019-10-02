@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 30 September 2019
+    <br></br>Last updated 2 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -80,12 +82,12 @@
     <tr>
       <td>Tuesday 8 October</td>
       <td>Amsterdam</td>
-      <td>Registration opening soon</td>
+      <td><a rel="external" href="https://www.eventbrite.co.uk/e/uk-nationals-outreach-event-amsterdam-tickets-74679742119">Register here</a></td>
     </tr>
     <tr>
       <td>Monday 14 October</td>
       <td>The Hague</td>
-      <td>Registration opening soon</td>
+      <td><a rel="external" href="https://www.eventbrite.co.uk/e/uk-nationals-outreach-event-the-hague-tickets-74926251435">Register here</a></td>
     </tr>
     <tr>
       <td>Thursday 24 October</td>
@@ -176,8 +178,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 30 September 2019
+    <br></br>Last updated 2 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-02T15:15:50.000+01:00">2 October 2019</time>
+              Registration for The Hague is now open.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-30T11:06:00.000+01:00">30 September 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -208,9 +224,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-31c0aba5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-8d37e61f" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-31c0aba5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-8d37e61f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
