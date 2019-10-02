@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,14 +8,11 @@
     Importing and exporting waste if there’s no Brexit deal
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    What UK waste importers and exporters must do to prepare for changes to rules around waste shipments if the UK leaves the EU with no deal.
-  </p>
+  <p class="gem-c-lead-paragraph">What UK waste importers and exporters must do to prepare for changes to rules around waste shipments if the UK leaves the EU with no deal.</p>
 
   </div>
 </div>
@@ -25,11 +20,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 11 February 2019
-    <br></br>Last updated 3 June 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 2 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
                 </span>
             </dd>
         </dl>
@@ -64,13 +59,23 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
+<div class="call-to-action">
+<h2 id="stay-up-to-date">Stay up to date</h2>
+
+<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.
+<br></br><br></br>
+<a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for government-wide email alerts</a> about Brexit. 
+<br></br><br></br>
+<a rel="external" href="https://public.govdelivery.com/accounts/UKDEFRA/subscriber/topics?qsp=CODE_RED">Sign up for Defra alerts</a> about Brexit and the Trade sector.</p>
+</div>
+
 <p>This guide explains how the controls for importing and exporting notified waste will change if the UK leaves the EU without a deal.</p>
 
 <h2 id="rules-after-the-uk-leaves-the-eu">Rules after the UK leaves the EU</h2>
 
 <p>If the UK leaves the EU without a deal, the UK will become a third (non-EU) country.</p>
 
-<p>You need to prepare for the following changes.</p>
+<p>If you’re importing or exporting waste to the EU, you can view <a href="https://www.gov.uk/government/collections/flowcharts-for-import-and-export-processes-after-brexit">journey maps with the steps you need to take</a>.</p>
 
 <h3 id="consented-notifications-to-ship-waste-between-the-uk-and-the-eu">Consented notifications to ship waste between the UK and the EU</h3>
 
@@ -99,7 +104,9 @@
   <li>UK exporters to check that any transport of waste within the EU is by appropriately authorised waste carriers</li>
 </ul>
 
-<p>You’ll need authorisation for each EU country you transport waste through or into, as acceptance of waste carrier registrations can vary between countries. Requirements can also differ for waste carriers from outside the EU or European Free Trade Association (<abbr title="European Free Trade Association">EFTA</abbr>) area. Contact the authority responsible for waste in the country you’re transporting waste to or through to find out about the authorisation process.</p>
+<p>You’ll need authorisation for each EU country you transport waste through or into, as acceptance of waste carrier registrations can vary between countries. Requirements can also differ for waste carriers from outside the EU or European Free Trade Association (<abbr title="European Free Trade Association">EFTA</abbr>) area.</p>
+
+<p>If we leave the EU without a deal, the requirements you need to meet to be authorised to carry waste in certain EU Member States may change. Contact the authority responsible for waste in the country you’re transporting waste to or through to find out about the authorisation process.</p>
 
 <p>Before you submit a notification to export waste to the EU for disposal, the UK government must submit a duly reasoned request (<abbr title="duly reasoned request">DRR</abbr>) to the relevant EU competent authority. The <abbr title="duly reasoned request">DRR</abbr> must explain why the UK does not have, or cannot acquire the required disposal facilities. You will not be able to submit a notification to export until that <abbr title="duly reasoned request">DRR</abbr> is approved. Exports of UK waste for disposal are prohibited, apart from a few exceptions. The impact of the new requirement to submit a <abbr title="duly reasoned request">DRR</abbr> will therefore be minimal.</p>
 
@@ -123,12 +130,16 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 February 2019
-    <br></br>Last updated 3 June 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 2 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-02T08:58:02.000+01:00">2 October 2019</time>
+              Added the link to the Brexit process maps collection
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-03T11:22:27.000+01:00">3 June 2019</time>
               Information on authorisation requirements for transporting waste through or into EU countries added to the guidance.
@@ -157,21 +168,38 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-0bc327b8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-4fe1b84d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-0bc327b8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-4fe1b84d" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-0bc327b8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/importing-and-exporting-waste" data-track-options="{"dimension28":"1","dimension29":"Waste: import and export"}" href="/guidance/importing-and-exporting-waste">Waste: import and export</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/local-authority-mutual-aid-a-short-guide" data-track-options="{"dimension28":"5","dimension29":"Local authority mutual aid: a short guide"}" href="/government/publications/local-authority-mutual-aid-a-short-guide">Local authority mutual aid: a short guide</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/eu-exit-secondary-legislation-laid-with-impacts-on-local-government" data-track-options="{"dimension28":"5","dimension29":"Brexit secondary legislation laid with impacts on local government"}" href="/guidance/eu-exit-secondary-legislation-laid-with-impacts-on-local-government">Brexit secondary legislation laid with impacts on local government</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/local-government-brexit-preparedness" data-track-options="{"dimension28":"5","dimension29":"Local government Brexit preparedness"}" href="/guidance/local-government-brexit-preparedness">Local government Brexit preparedness</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/eu-exit-eligibility-arrangements-to-access-public-funds-after-free-movement-ends-if-there-is-no-deal" data-track-options="{"dimension28":"5","dimension29":"Brexit: eligibility arrangements to access public funds after free movement ends if there is no deal"}" href="/government/publications/eu-exit-eligibility-arrangements-to-access-public-funds-after-free-movement-ends-if-there-is-no-deal">Brexit: eligibility arrangements to access public funds after free movement ends if there is no deal</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/importing-and-exporting-waste" data-track-options="{"dimension28":"5","dimension29":"Waste: import and export"}" href="/guidance/importing-and-exporting-waste">Waste: import and export</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-4fe1b84d" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-4fe1b84d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/importing-and-exporting-waste" data-track-options="{"dimension28":"1","dimension29":"Waste: import and export"}" href="/guidance/importing-and-exporting-waste">Waste: import and export</a></li>
 
   </ul>
 </nav>
@@ -197,16 +225,16 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1e421bc5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8a8c1196" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1e421bc5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8a8c1196" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/environment/waste-and-recycling" data-track-options="{"dimension28":"3","dimension29":"Waste and recycling"}" href="/environment/waste-and-recycling">Waste and recycling</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"3","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/business-and-industry/trade-and-investment" data-track-options="{"dimension28":"3","dimension29":"Trade and investment"}" href="/business-and-industry/trade-and-investment">Trade and investment</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/business-and-industry/trade-and-investment" data-track-options="{"dimension28":"3","dimension29":"Trade and investment"}" href="/business-and-industry/trade-and-investment">Trade and investment</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"3","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
