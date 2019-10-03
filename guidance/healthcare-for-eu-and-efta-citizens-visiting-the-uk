@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Information on access to NHS healthcare for residents of EU countries, Norway, Iceland, Liechtenstein and Switzerland visiting the UK after the UK leaves the EU.
-  </p>
+  <p class="gem-c-lead-paragraph">Information on access to NHS healthcare for residents of EU countries, Norway, Iceland, Liechtenstein and Switzerland visiting the UK after the UK leaves the EU.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 19 March 2019
-    <br></br>Last updated 8 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 3 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-of-health-and-social-care">Department of Health and Social Care</a>
+                  <a class="govuk-link" href="/government/organisations/department-of-health-and-social-care">Department of Health and Social Care</a>
                 </span>
             </dd>
         </dl>
@@ -58,46 +56,60 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-need-to-do" data-track-options="{"dimension29":"What you need to do"}" href="#what-you-need-to-do">What you need to do</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-need-to-do" data-track-options="{"dimension29":"What you need to do"}" href="#what-you-need-to-do">What you need to do</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#getting-healthcare-in-england" data-track-options="{"dimension29":"Getting healthcare in England"}" href="#getting-healthcare-in-england">Getting healthcare in England</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#getting-healthcare-in-england" data-track-options="{"dimension29":"Getting healthcare in England"}" href="#getting-healthcare-in-england">Getting healthcare in England</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#travel-insurance" data-track-options="{"dimension29":"Travel insurance"}" href="#travel-insurance">Travel insurance</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#travel-insurance" data-track-options="{"dimension29":"Travel insurance"}" href="#travel-insurance">Travel insurance</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#ehic" data-track-options="{"dimension29":"European Health Insurance Cards (EHIC)"}" href="#ehic">European Health Insurance Cards (EHIC)</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#ehic" data-track-options="{"dimension29":"European Health Insurance Cards (EHIC)"}" href="#ehic">European Health Insurance Cards (EHIC)</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#seeking-planned-treatment-in-england" data-track-options="{"dimension29":"Seeking planned treatment in England"}" href="#seeking-planned-treatment-in-england">Seeking planned treatment in England</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#seeking-planned-treatment-in-england" data-track-options="{"dimension29":"Seeking planned treatment in England"}" href="#seeking-planned-treatment-in-england">Seeking planned treatment in England</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#studying-in-england" data-track-options="{"dimension29":"Studying in England"}" href="#studying-in-england">Studying in England</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#studying-in-england" data-track-options="{"dimension29":"Studying in England"}" href="#studying-in-england">Studying in England</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#people-with-pre-existing-health-conditions" data-track-options="{"dimension29":"People with pre-existing health conditions"}" href="#people-with-pre-existing-health-conditions">People with pre-existing health conditions</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#people-with-pre-existing-health-conditions" data-track-options="{"dimension29":"People with pre-existing health conditions"}" href="#people-with-pre-existing-health-conditions">People with pre-existing health conditions</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#switzerland" data-track-options="{"dimension29":"Agreement with Switzerland"}" href="#switzerland">Agreement with Switzerland</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#switzerland" data-track-options="{"dimension29":"Agreement with Switzerland"}" href="#switzerland">Agreement with Switzerland</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#eea" data-track-options="{"dimension29":"Agreement with Norway, Iceland and Liechtenstein"}" href="#eea">Agreement with Norway, Iceland and Liechtenstein</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#eea" data-track-options="{"dimension29":"Agreement with Norway, Iceland and Liechtenstein"}" href="#eea">Agreement with Norway, Iceland and Liechtenstein</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#agreement-with-ireland" data-track-options="{"dimension29":"Agreement with Ireland"}" href="#agreement-with-ireland">Agreement with Ireland</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#agreement-with-ireland" data-track-options="{"dimension29":"Agreement with Ireland"}" href="#agreement-with-ireland">Agreement with Ireland</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#scotland-wales-northern-ireland" data-track-options="{"dimension29":"Getting healthcare in Scotland, Wales and Northern Ireland"}" href="#scotland-wales-northern-ireland">Getting healthcare in Scotland, Wales and Northern Ireland</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#visitors-from-spain" data-track-options="{"dimension29":"Visitors from Spain"}" href="#visitors-from-spain">Visitors from Spain</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#scotland-wales-northern-ireland" data-track-options="{"dimension29":"Getting healthcare in Scotland, Wales and Northern Ireland"}" href="#scotland-wales-northern-ireland">Getting healthcare in Scotland, Wales and Northern Ireland</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -105,7 +117,7 @@
       <div class="govspeak">
 <div class="call-to-action">
 <h3 id="stay-up-to-date">Stay up to date</h3>
-<p>This page tells you what to do if there is a no-deal Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
 
 <p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
 </div>
@@ -214,6 +226,12 @@
 
 <p><a href="https://www.gov.uk/government/publications/citizens-rights-uk-and-irish-nationals-in-the-common-travel-area/citizens-rights-uk-and-irish-nationals-in-the-common-travel-area">Find out more about the Common Travel Area between the British and Ireland</a></p>
 
+<h2 id="visitors-from-spain">Visitors from Spain</h2>
+
+<p>If there’s no deal, the UK and Spain have each taken steps to ensure that people living in each country can continue to access healthcare as they do now until at least 31 December 2020.</p>
+
+<p>This means that that visitors from Spain will be able to use their Spanish-issued <abbr title="European Health Insurance Card">EHIC</abbr>, S1 or S2 form after exit day until at least 31 December 2020.</p>
+
 <h2 id="scotland-wales-northern-ireland">Getting healthcare in Scotland, Wales and Northern Ireland</h2>
 <p>The way you access healthcare in Scotland, Wales and Northern Ireland may be different from England if there is a no-deal Brexit.</p>
 
@@ -234,10 +252,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 19 March 2019
-    <br></br>Last updated 8 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 3 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-03T12:51:46.000+01:00">3 October 2019</time>
+              Added no-deal Brexit arrangement for Spanish visitors.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-08T14:53:12.000+01:00">8 August 2019</time>
               Increased visibility of calls to action. Highlighted the different guidance for visiting England, Scotland, Wales and Northern Ireland if there is a no-deal Brexit. Highlighted guidance for EU and EFTA (Iceland, Liechtenstein, Norway, and Switzerland) citizens about agreements with EFTA states and studying in the UK. 
@@ -254,7 +276,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -273,14 +295,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-5bf970e3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-73551d44" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-5bf970e3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-73551d44" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -312,15 +334,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-78889f5c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-66538148" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-78889f5c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-66538148" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/health-and-social-care" data-track-options="{"dimension28":"2","dimension29":"Health and social care"}" href="/health-and-social-care">Health and social care</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/health-and-social-care" data-track-options="{"dimension28":"2","dimension29":"Health and social care"}" href="/health-and-social-care">Health and social care</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
