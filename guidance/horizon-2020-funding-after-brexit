@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How Horizon 2020 funding will be affected if there’s a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">How Horizon 2020 funding will be affected.</p>
 
   </div>
 </div>
@@ -34,7 +32,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a> and <a href="/government/organisations/uk-research-and-innovation">UK Research and Innovation</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a> and <a class="govuk-link" href="/government/organisations/uk-research-and-innovation">UK Research and Innovation</a>
                 </span>
             </dd>
         </dl>
@@ -56,25 +54,32 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#uk-recipients-who-have-already-submitted-successful-bids" data-track-options="{"dimension29":"UK recipients who have already submitted successful bids"}" href="#uk-recipients-who-have-already-submitted-successful-bids">UK recipients who have already submitted successful bids</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#uk-recipients-who-have-already-submitted-successful-bids" data-track-options="{"dimension29":"UK recipients who have already submitted successful bids"}" href="#uk-recipients-who-have-already-submitted-successful-bids">UK recipients who have already submitted successful bids</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#uk-applicants-to-erc-msca-and-smei-grants" data-track-options="{"dimension29":"UK applicants to ERC, MSCA and SMEi grants"}" href="#uk-applicants-to-erc-msca-and-smei-grants">UK applicants to ERC, MSCA and SMEi grants</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#uk-project-coordinators" data-track-options="{"dimension29":"UK project coordinators"}" href="#uk-project-coordinators">UK project coordinators</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#eu-citizens-and-organisations" data-track-options="{"dimension29":"EU citizens and organisations"}" href="#eu-citizens-and-organisations">EU citizens and organisations</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#uk-applicants-to-mono-beneficiary-erc-msca-and-eic-accelerator-grants" data-track-options="{"dimension29":"UK applicants to mono-beneficiary ERC, MSCA and EIC Accelerator grants"}" href="#uk-applicants-to-mono-beneficiary-erc-msca-and-eic-accelerator-grants">UK applicants to mono-beneficiary ERC, MSCA and EIC Accelerator grants</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#eu-citizens-and-organisations" data-track-options="{"dimension29":"EU citizens and organisations"}" href="#eu-citizens-and-organisations">EU citizens and organisations</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -83,7 +88,7 @@
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>This page tells you what to do if there’s a no-deal Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
 
 <p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
 </div>
@@ -91,8 +96,6 @@
 <p>The government has committed to guarantee funding for all successful competitive UK bids to <a href="https://www.gov.uk/guidance/horizon-2020-what-it-is-and-how-to-apply-for-funding">Horizon 2020</a> that are submitted before we leave the EU, if there’s a no-deal Brexit.</p>
 
 <p>The guarantee also covers all successful competitive UK bids to Horizon 2020 calls open to third-country participation submitted between Brexit and the end of 2020. Both the guarantee and extension commit funding to UK Horizon 2020 participants for the lifetime of projects.</p>
-
-<p>UK Research and Innovation (<abbr title="UK Research and Innovation">UKRI</abbr>) will also manage the independent assessment of UK applications to European Research Council (<abbr title="European Research Council">ERC</abbr>), Marie Skłodowska-Curie Actions (<abbr title="Marie Skłodowska-Curie Actions">MSCA</abbr>) and <abbr title="Small-and-Medium-Sized-Enterprise Instrument">SMEi</abbr> grants that have been submitted before Brexit, if they are not assessed by the European Commission. Successful applications will be funded for the lifetime of the project.</p>
 
 <h2 id="uk-recipients-who-have-already-submitted-successful-bids">UK recipients who have already submitted successful bids</h2>
 
@@ -106,12 +109,18 @@
 
 <p><a rel="external" href="https://www.ukri.org/research/international/ukri-eu-exit/">Find out more about the delivery of the guarantee</a>.</p>
 
-<h2 id="uk-applicants-to-erc-msca-and-smei-grants">UK applicants to <abbr title="European Research Council">ERC</abbr>, <abbr title="Marie Skłodowska-Curie Actions">MSCA</abbr> and <abbr title="Small-and-Medium-Sized-Enterprise Instrument">SMEi</abbr> grants</h2>
+<h2 id="uk-project-coordinators">UK project coordinators</h2>
+
+<p>Third Country participants in Horizon 2020 are eligible to coordinate projects.</p>
+
+<p>The guarantee and extension include funding for coordination tasks if they are carried out by a UK coordinator.</p>
+
+<h2 id="uk-applicants-to-mono-beneficiary-erc-msca-and-eic-accelerator-grants">UK applicants to mono-beneficiary <abbr title="European Research Council">ERC</abbr>, <abbr title="Marie Skłodowska-Curie Actions">MSCA</abbr> and EIC Accelerator grants</h2>
 
 <ul>
   <li>European Research Council (<abbr title="European Research Council">ERC</abbr>)</li>
   <li>Marie Skłodowska-Curie Actions (<abbr title="Marie Skłodowska-Curie Actions">MSCA</abbr>)</li>
-  <li>Small and Medium Sized Enterprise Instrument (<abbr title="Small-and-Medium-Sized-Enterprise Instrument">SMEi</abbr>) programmes</li>
+  <li>European Innovation Council (EIC) Accelerator (formerly known as <abbr title="Small-and-Medium-Sized-Enterprise Instrument">SMEi</abbr>)</li>
 </ul>
 
 <p>If you have submitted a bid to one of these calls you should wait for the Commission’s response. If there’s a no-deal Brexit and your proposal is evaluated as successful by the Commission, your project will be covered by the government’s funding guarantee. As soon as you receive notification of success from the Commission you should contact <abbr title="UK Research and Innovation">UKRI</abbr> directly.</p>
@@ -121,6 +130,10 @@
 <p><abbr title="UK Research and Innovation">UKRI</abbr> will only accept proposals that have been submitted to Horizon 2020 before Brexit. Evidence of this prior submission will be required.</p>
 
 <p>If, at the end of this independent process, your proposal is successful, your project will be funded for its duration. The grant will be administered by <abbr title="UK Research and Innovation">UKRI</abbr> and will be awarded under <abbr title="UK Research and Innovation">UKRI</abbr> terms and conditions.</p>
+
+<div role="note" aria-label="Information" class="application-notice info-notice">
+<p>This funding does not cover calls within <abbr title="European Research Council">ERC</abbr> and <abbr title="Marie Skłodowska-Curie Actions">MSCA</abbr> that the UK can still access as a third -country (for example <abbr title="European Research Council">ERC</abbr> Synergy, <abbr title="Marie Skłodowska-Curie Actions">MSCA</abbr> <abbr title="Research and Innovation Staff Exchange">RISE</abbr> or <abbr title="Marie Skłodowska-Curie Actions">MSCA</abbr> <abbr title="Innovative Training Networks">ITNs</abbr>).</p>
+</div>
 
 <h2 id="eu-citizens-and-organisations">EU citizens and organisations</h2>
 
@@ -139,7 +152,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -156,6 +169,41 @@
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-674b4ab8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-674b4ab8" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-674b4ab8" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-674b4ab8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/horizon-2020-what-it-is-and-how-to-apply-for-funding" data-track-options="{"dimension28":"1","dimension29":"Horizon 2020: what it is and how to apply for funding"}" href="/guidance/horizon-2020-what-it-is-and-how-to-apply-for-funding">Horizon 2020: what it is and how to apply for funding</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -176,15 +224,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c7bbdc31" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b30378d8" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-c7bbdc31" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-b30378d8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/business-and-industry/science-and-innovation" data-track-options="{"dimension28":"2","dimension29":"Science and innovation"}" href="/business-and-industry/science-and-innovation">Science and innovation</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/business-and-industry/science-and-innovation" data-track-options="{"dimension28":"2","dimension29":"Science and innovation"}" href="/business-and-industry/science-and-innovation">Science and innovation</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
