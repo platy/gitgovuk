@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,26 +8,23 @@
     Using the ‘EU Exit: ID Document Check’ app
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Information for EU citizens and their families applying to the EU Settlement Scheme. 
-  </p>
+  <p class="gem-c-lead-paragraph">Information for EU citizens and their families applying to the EU Settlement Scheme. </p>
 
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 15 November 2018
-    <br></br>Last updated 6 March 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 10 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a> and <a href="/government/organisations/home-office">Home Office</a>
+                  <a class="govuk-link" href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a> and <a class="govuk-link" href="/government/organisations/home-office">Home Office</a>
                 </span>
             </dd>
         </dl>
@@ -47,7 +42,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,34 +50,36 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#check-if-you-can-use-the-app-on-your-phone" data-track-options="{"dimension29":"Check if you can use the app on your phone"}" href="#check-if-you-can-use-the-app-on-your-phone">Check if you can use the app on your phone</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#check-if-you-can-use-the-app-on-your-phone" data-track-options="{"dimension29":"Check if you can use the app on your phone"}" href="#check-if-you-can-use-the-app-on-your-phone">Check if you can use the app on your phone</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#how-to-use-the-app" data-track-options="{"dimension29":"How to use the app"}" href="#how-to-use-the-app">How to use the app</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#how-to-use-the-app" data-track-options="{"dimension29":"How to use the app"}" href="#how-to-use-the-app">How to use the app</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#completing-your-application" data-track-options="{"dimension29":"Completing your application"}" href="#completing-your-application">Completing your application</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#completing-your-application" data-track-options="{"dimension29":"Completing your application"}" href="#completing-your-application">Completing your application</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>You’ll be asked to verify your identity by using the EU Exit: ID Document Check app during your application under the EU Settlement Scheme. Details of <a href="https://www.gov.uk/guidance/eu-settlement-scheme-public-test-phase-applicant-eligibility">who is eligible</a> are available on GOV.UK.</p>
+<p>You can use the EU Exit: ID Document Check app to complete the identity stage of your <a href="https://www.gov.uk/settled-status-eu-citizens-families/eligibility">application under the EU Settlement Scheme</a>.</p>
 
 <p>The app will:</p>
 
@@ -94,77 +91,79 @@
 <p>You must use either:</p>
 
 <ul>
-  <li>your EU biometric passport if you’re an EU citizen</li>
-  <li>your UK residence card with a biometric chip if you’re the non-EU family member of an EU citizen</li>
+  <li>your biometric passport from an EU country, Iceland, Liechtenstein, Norway or Switzerland</li>
+  <li>your UK residence card with a biometric chip if you’re the non-EU family member of an EU, EEA or Swiss citizen</li>
 </ul>
 
-<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81820/epassport-GOVUK-960.png" alt="ePassport symbol"></img></div>
-<figcaption>This symbol shows that your document can be read by the app</figcaption></figure>
+<div class="call-to-action">
+<p>If you have problems completing your application, <a href="https://www.gov.uk/contact-ukvi-inside-outside-uk/y/inside-the-uk/eu-settlement-scheme-settled-and-pre-settled-status">contact the EU Settlement Resolution Centre</a>.</p>
+</div>
 
 <h2 id="check-if-you-can-use-the-app-on-your-phone">Check if you can use the app on your phone</h2>
-
-<p>You’ll need an Android phone with <abbr title="Near-Field Communication">NFC</abbr> (Near-Field Communication) to use the app.</p>
-
-<p>Look in your phone settings to see if it has <abbr title="Near-Field Communication">NFC</abbr>. <abbr title="Near-Field Communication">NFC</abbr> is what the app uses to scan your document.</p>
-
-<p>If you can use your phone to pay for things using contactless, this means it has <abbr title="Near-Field Communication">NFC</abbr> and you can use the app.</p>
 
 <p>Your phone will need:</p>
 
 <ul>
   <li>Android 6.0 or above – you can find this in your settings</li>
   <li>at least 135MB of storage space to install the app</li>
-  <li>to be connected to 3G/4G or WiFi</li>
+  <li>to be connected to 3G, 4G or WiFi</li>
   <li>
-<abbr title="Near-Field Communication">NFC</abbr> – you can find this in your settings</li>
+<abbr title="Near-Field Communication">NFC</abbr> (Near-Field Communication) so the app can scan your document – you can find this in your settings. If you can use your phone to pay for things using contactless, this means it has <abbr title="Near-Field Communication">NFC</abbr> and you can use the app</li>
 </ul>
 
-<p>The app will need access to your phone’s camera. If the app does not prompt you requesting access, please enable access in your settings.</p>
+<p>The ‘ID Document Check’ app will be available for iPhone by the end of 2019.</p>
+
+<p>The app will need access to your phone’s camera. If the app does not request access, please enable access in your settings.</p>
 
 <h2 id="how-to-use-the-app">How to use the app</h2>
 
-<p><a rel="external" href="https://youtu.be/X0Thl2nfZjo">How to use the EU Exit: ID Document Check app</a></p>
+<p><a rel="external" href="https://www.youtube.com/watch?v=rGXwvq-fKyE">How to use the EU Exit: ID Document Check app</a></p>
 
 <h3 id="scan-your-document">Scan your document</h3>
 
-<p>Scan the photo page of your passport using the camera on your Android phone. The full page must be inside the frame, including the two lines of numbers at the bottom of the page. Make sure your phone camera is focused on the text on the page.</p>
+<p>Make sure your document can be read by the app. The symbol below shows that your document has a biometric chip and can be read by the app.</p>
 
-<p>The app will prompt you to adjust your Android phone to make sure you capture your document effectively. These prompts will appear in a text box at the top of your screen.</p>
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81820/epassport-GOVUK-960.png" alt="ePassport symbol"></img></div></figure>
 
-<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81228/sample-passport-GOV.UK-1.png" alt="'Scan your document' screen – make sure you include all the information in your photo"></img></div>
-<figcaption>'Scan your document' screen – make sure you include all the information in your photo</figcaption></figure>
+<p>Take a picture of the photo page of your passport using your phone’s camera. The full page must be inside the frame, including the 2 lines of numbers at the bottom of the page. Make sure your phone camera is focused on the text on the page.</p>
 
-<p><br></br><br></br></p>
+<p>The app will prompt you to adjust your phone to make sure you capture your document effectively. These prompts will appear in a text box at the top of your screen.</p>
 
-<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81822/photo-page-GOVUK.png" alt="'Scan your document' – try taking the photo of your document at arm's length if you are having problems"></img></div>
-<figcaption>'Scan your document' – try taking the photo of your document at arm's length if you are having problems</figcaption></figure>
+<p>Make sure you include the entire photo page in your picture.</p>
+
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81228/sample-passport-GOV.UK-1.png" alt="'Scan your document' screen – make sure you include all the information in your photo"></img></div></figure>
+
+<p>Try taking the photo of your document at arm’s length if you’re having problems.</p>
+
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81822/photo-page-GOVUK.png" alt="'Scan your document' – try taking the photo of your document at arm's length if you are having problems"></img></div></figure>
 
 <h3 id="check-your-documents-information">Check your document’s information</h3>
 
-<p>Remove any cases or covers from your document and Android phone and make sure the volume is turned up.</p>
+<p>Remove any cases or covers from your document and phone.</p>
 
-<p>Click the ‘check now’ button in the app when you are ready to start checking your document.</p>
+<p>Click the ‘check now’ button in the app when you’re ready to start checking your document.</p>
 
-<p>Place the Android phone on top of your document when the app tells you to ‘check your document’s information’.</p>
+<p>Place the phone on top of your document when the app tells you to ‘check your document’s information’. If the volume on your phone is turned up, you’ll hear a beep when your document has been recognised.</p>
 
-<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81832/IMG_4681_GOV.UK_3.jpg" alt="'Check your document’s information' screen – move the phone around the document until the app recognises it"></img></div>
-<figcaption>'Check your document’s information' screen – move the phone around the document until the app recognises it</figcaption></figure>
+<p>Move your phone around the document until the app recognises it. The chip is located in different places in different documents.</p>
 
-<p>A progress bar will let you know when the check begins and when it is complete. Do not move the Android phone until the check is complete.</p>
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81832/IMG_4681_GOV.UK_3.jpg" alt="'Check your document’s information' screen – move the phone around the document until the app recognises it"></img></div></figure>
 
-<p>If the app doesn’t recognise your document, you should slowly move your phone around the document until the app recognises it. You’ll hear a beep if your document has been recognised and the volume on your phone is turned up.</p>
+<p>When the app has successfully read the chip in your document, the screen will say ‘information checked’. Do not move the phone until this message appears and the check is complete.</p>
+
+<p>If the app doesn’t recognise your document, the check will time out and the screen will say ‘information not found’. If this happens, you should slowly move your phone around the document until the app recognises it.</p>
 
 <p>If you’re using a passport and you continue to have problems, place the phone on the reverse cover or the photo page.</p>
 
 <h3 id="if-the-app-cannot-read-the-chip-in-your-passport-or-uk-residence-card">If the app cannot read the chip in your passport or UK residence card</h3>
 
-<p>If the app is not able to read the chip in your document, we’ll ask you to send your passport to us for manual checking of your identity and nationality.</p>
+<p>If the app cannot read the chip in your document, we’ll ask you to send your passport to us.</p>
 
-<p>Details of how you can do this are provided in the application. We’ll ensure that your document is returned to you without delay.</p>
+<p>Details of how you can do this are provided in the application. Your document will be returned to you once we’ve checked your identity – we won’t wait until the rest of your application is complete. Your document will be returned to you using recorded delivery.</p>
 
 <h3 id="scan-your-face">Scan your face</h3>
 
-<p>The screen will flash as it scans your face. You should hold your phone’s camera in front of your face until the scanning is complete.</p>
+<p>The screen will flash as it scans your face. Hold your phone’s camera in front of your face until the scanning is complete.</p>
 
 <p>You can skip this step and provide different evidence to prove your identity if flashing light may cause you difficulties. You can do this by going to the ‘Find out more’ menu and selecting ‘Skip this step’.</p>
 
@@ -189,19 +188,23 @@
 
 <h2 id="completing-your-application">Completing your application</h2>
 
-<p>After using the app to verify your identity, you can complete the rest of the application either on that device or on any smartphone, laptop or computer.</p>
+<p>Once you’ve verified your identity, you can complete the rest of the application either on that device or any smartphone, laptop or computer.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 November 2018
-    <br></br>Last updated 6 March 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 10 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-10T16:16:07.000+01:00">10 October 2019</time>
+              Updated structure of the page and YouTube video
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-06T12:58:18.000+00:00">6 March 2019</time>
               Added video
@@ -230,7 +233,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -242,28 +245,44 @@
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-acf62196" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-becb1237" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-acf62196" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-becb1237" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-acf62196" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-settlement-scheme-application-processing-times" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: application processing times"}" href="/government/publications/eu-settlement-scheme-application-processing-times">EU Settlement Scheme: application processing times</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/eu-settlement-scheme-evidence-of-uk-residence" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: evidence of UK residence"}" href="/guidance/eu-settlement-scheme-evidence-of-uk-residence">EU Settlement Scheme: evidence of UK residence</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-id-document-scanner-locations" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: ID document scanner locations"}" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations">EU Settlement Scheme: ID document scanner locations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-becb1237" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-becb1237" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
 
   </ul>
 </nav>
@@ -278,8 +297,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -289,15 +308,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-60c52d76" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8e73257e" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-60c52d76" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8e73257e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/entering-staying-uk/rights-eu-eea-citizens" data-track-options="{"dimension28":"2","dimension29":"Rights of EU and EEA citizens"}" href="/entering-staying-uk/rights-eu-eea-citizens">Rights of EU and EEA citizens</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
