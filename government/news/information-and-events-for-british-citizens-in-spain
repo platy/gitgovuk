@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 November 2018
-    <br></br>Last updated 7 October 2019
+    <br></br>Last updated 10 October 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -77,31 +77,6 @@
 <table>
   <tbody>
     <tr>
-      <td>‘POP-UP’ Tuesday 8 October,  9:00am - 11:00am</td>
-      <td>La Oliva (Fuerteventura)</td>
-      <td>Town Hall Office, Calle Maria Santana Figueroa, 35660 Corralejo</td>
-    </tr>
-    <tr>
-      <td>‘POP-UP’ Tuesday 8 October, 12:00pm - 2:00pm</td>
-      <td>Antigua (Fuerteventura)</td>
-      <td>Town Hall-Tourist Information Office, Avenida Juan Ramón Soto Morales, 35610 Caleta de Fuste</td>
-    </tr>
-    <tr>
-      <td>‘POP-UP’ Wednesday 9 October, 9:00am - 11:00am</td>
-      <td>Tias (Lanzarote)</td>
-      <td>Town Hall Office, Calle Libertad 50, 35572 Tias</td>
-    </tr>
-    <tr>
-      <td>‘POP-UP’ Wednesday 9 October, 12:00pm - 2:00pm</td>
-      <td>San Bartolomé (Lanzarote)</td>
-      <td>Centro Socio Cultural/Civic Centre, Güime 35559 San Bartolomé</td>
-    </tr>
-    <tr>
-      <td>‘POP-UP’ Thursday 10 October, 9:00am - 11:00am</td>
-      <td>Puerto Rico (Gran Canaria)</td>
-      <td>Tourist Information Office, Avenida de Mogán 1, 35130 Puerto Rico</td>
-    </tr>
-    <tr>
       <td>‘POP-UP’ Thursday 10 October, 12:00pm - 2:00pm</td>
       <td>Maspalomas (Gran Canaria)</td>
       <td>Centro Socio Cultural de Mayores (next to Town Hall), Calle Santa Brigida 26, 35100 Maspalomas</td>
@@ -127,19 +102,29 @@
       <td>Consell Insular d’Eivissa i Formentera Offices, Av. d’Espanya, 49, 07800 Eivissa</td>
     </tr>
     <tr>
+      <td>Monday 14 October, 3:00pm</td>
+      <td>San Antonio (Ibiza)</td>
+      <td>Sant Antoni de Portmany Town Hall, Passeig de la Mar, 16, 07820 Sant Antoni de Portmany</td>
+    </tr>
+    <tr>
+      <td>Monday 14 October, 6:00pm</td>
+      <td>Santa Eulària des Riu (Ibiza)</td>
+      <td>Palacio de Congresos, Avenida Salvador Camacho, 9-11, 07840 Santa Eulària des Riu</td>
+    </tr>
+    <tr>
       <td>‘POP-UP’ Tuesday 15 October, 9:30am - 2:30pm</td>
       <td>Benidorm (Alicante)</td>
       <td>Benidorm Indoor Market, Av. Ametlla de Mar 9, Rincon de Loix, 03502 Benidorm</td>
     </tr>
     <tr>
-      <td>Tuesday 15 October, 3:00pm</td>
-      <td>San Antonio (Ibiza)</td>
-      <td>Sant Antoni de Portmany Town Hall, Passeig de la Mar, 16, 07820 Sant Antoni de Portmany</td>
-    </tr>
-    <tr>
       <td>‘POP-UP’ Wednesday 15 October, 9:30am - 2:30pm</td>
       <td>Busot (Alicante)</td>
       <td>Bar Grace Busot, Av. Pais Valencianos (1509,71 km) 03111 Busot</td>
+    </tr>
+    <tr>
+      <td>‘POP-UP’ Thursday 17 October, 5:00pm – 7:00pm</td>
+      <td>Barcelona City</td>
+      <td>A Taste of Home British Supermarket, Carrer de Floridablanca, 78, 08015 Barcelona</td>
     </tr>
     <tr>
       <td>Monday 21 October, 6:00pm - 7:30pm</td>
@@ -225,6 +210,31 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>10 October</td>
+      <td>Puerto Rico (Gran Canaria)</td>
+      <td>‘POP-UP’</td>
+    </tr>
+    <tr>
+      <td>9 October</td>
+      <td>San Bartolomé (Lanzarote)</td>
+      <td>‘POP-UP’</td>
+    </tr>
+    <tr>
+      <td>9 October</td>
+      <td>Tias (Lanzarote)</td>
+      <td>‘POP-UP’</td>
+    </tr>
+    <tr>
+      <td>8 October</td>
+      <td>Antigua (Fuerteventura)</td>
+      <td>‘POP-UP’</td>
+    </tr>
+    <tr>
+      <td>8 October</td>
+      <td>La Oliva (Fuerteventura)</td>
+      <td>‘POP-UP’</td>
+    </tr>
     <tr>
       <td>3 October</td>
       <td>Mijas (Malaga)</td>
@@ -1046,10 +1056,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 November 2018
-    <br></br>Last updated 7 October 2019
+    <br></br>Last updated 10 October 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-10T12:38:32.000+01:00">10 October 2019</time>
+              Brexit update: new information on citizens outreach meetings across Spain.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-07T13:49:19.000+01:00">7 October 2019</time>
               Brexit update: new information on citizens outreach meetings across Spain.
@@ -1202,14 +1216,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-9d8f361e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-094c443e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-9d8f361e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-094c443e" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -1245,9 +1259,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-165bad5a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-46566e6f" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-165bad5a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-46566e6f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1261,9 +1275,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-165bad5a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-46566e6f" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-165bad5a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-46566e6f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
