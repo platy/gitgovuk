@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 May 2013
-    <br></br>Last updated 18 September 2019
+    <br></br>Last updated 27 September 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -575,10 +575,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 May 2013
-    <br></br>Last updated 18 September 2019
+    <br></br>Last updated 27 September 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-27T16:35:43.000+01:00">27 September 2019</time>
+              Brexit update: Register for citizens outreach meetings in Frankfurt (10 October) and Hamburg (15 October). See the ‘attend one of our citizens outreach meetings’ section 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-18T16:37:50.000+01:00">18 September 2019</time>
               Brexit update: Register for citizens outreach meetings in Berlin (30 September) and Dusseldorf (1 October). See the ‘attend one of our citizens outreach meetings’ section 
@@ -706,14 +710,14 @@ Information about importing a UK-registered vehicle added to driving in Germany 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-08cf5816" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-118c8c3b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-08cf5816" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-118c8c3b" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -730,9 +734,9 @@ Information about importing a UK-registered vehicle added to driving in Germany 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-08cf5816" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-118c8c3b" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-08cf5816" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-118c8c3b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -744,9 +748,9 @@ Information about importing a UK-registered vehicle added to driving in Germany 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-08cf5816" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-118c8c3b" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-08cf5816" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-118c8c3b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -777,9 +781,9 @@ Information about importing a UK-registered vehicle added to driving in Germany 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-79679da5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e6e8ca9a" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-79679da5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-e6e8ca9a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
