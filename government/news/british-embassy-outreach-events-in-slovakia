@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       World news story
     </p>
@@ -10,14 +8,11 @@
     British Embassy outreach events in Slovakia
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    The British Embassy in Bratislava and senior Slovak officials will be holding a series of meetings to inform UK nationals living in Slovakia about their rights as the UK leaves the EU.
-  </p>
+  <p class="gem-c-lead-paragraph">The British Embassy in Bratislava and senior Slovak officials will be holding a series of meetings to inform UK nationals living in Slovakia about their rights as the UK leaves the EU.</p>
 
   </div>
 </div>
@@ -25,11 +20,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 2 April 2019
-    <br></br>Last updated 7 May 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 11 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/world/organisations/british-embassy-bratislava">British Embassy Bratislava</a>
+                  <a class="govuk-link" href="/world/organisations/british-embassy-bratislava">British Embassy Bratislava</a>
                 </span>
             </dd>
         </dl>
@@ -58,7 +53,7 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
-      <figure class="app-c-figure">
+      <figure class="app-c-figure" lang="en">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/85955/s300_citizens_outreach.jpg" alt="British Embassy outreach events in Slovakia"></img>
     <figcaption class="app-c-figure__figcaption">
 
@@ -77,9 +72,8 @@
 <table>
   <tbody>
     <tr>
-      <td>Monday 13 May</td>
-      <td>Banska Bystrica</td>
-      <td><a rel="external" href="https://www.eventbrite.co.uk/e/british-embassy-informal-meeting-for-uk-nationals-on-brexit-tickets-61482706430">register for the event here</a></td>
+      <td>Tuesday 22 October</td>
+      <td><a rel="external" href="https://www.eventbrite.com/e/meeting-with-uk-nationals-registration-74077597087?aff=ebdssbdestsearch">Bratislava</a></td>
     </tr>
   </tbody>
 </table>
@@ -96,6 +90,10 @@
       <td>Thursday 11 April</td>
       <td>Kosice</td>
     </tr>
+    <tr>
+      <td>Monday 13 May</td>
+      <td>Banska Bystrica</td>
+    </tr>
   </tbody>
 </table>
 
@@ -110,7 +108,7 @@
     </div>
 
     <div class="dont-print responsive-bottom-margin">
-        <div class="gem-c-share-links  " data-module="track-click">
+        <div class="gem-c-share-links " data-module="track-click">
       <h2 class="gem-c-share-links__title">Share this page</h2>
 
     <ul class="gem-c-share-links__list">
@@ -135,16 +133,19 @@
             </span><span class="visually-hidden">Share on </span>Twitter</a>
         </li>
     </ul>
-  </div>
-
+</div>
     </div>
 
-    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 2 April 2019
-    <br></br>Last updated 7 May 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 11 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-11T14:16:29.000+01:00">11 October 2019</time>
+              Upcoming meeting for UK nationals in Bratislava on 22 October. 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-07T13:18:11.000+01:00">7 May 2019</time>
               New citizens outreach meeting announced in Banska Bystrica 
@@ -185,24 +186,24 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-eafb74ca" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-db3fdc95" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-eafb74ca" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-db3fdc95" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/going-and-being-abroad/british-nationals-overseas" data-track-options="{"dimension28":"2","dimension29":"British nationals overseas"}" href="/going-and-being-abroad/british-nationals-overseas">British nationals overseas</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-eafb74ca" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-db3fdc95" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-eafb74ca" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-db3fdc95" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
