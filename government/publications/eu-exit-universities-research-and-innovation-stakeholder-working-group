@@ -13,9 +13,7 @@
 
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Terms of reference and membership for the group, which discusses research and innovation policy in the light of the UK’s exit from the EU.
-  </p>
+  <p class="gem-c-lead-paragraph">Terms of reference and membership for the group, which discusses research and innovation policy in the light of the UK’s exit from the EU.</p>
 
   </div>
 </div>
@@ -26,8 +24,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 February 2017
-    <br></br>Last updated 8 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 11 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -37,7 +35,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a>
                 </span>
             </dd>
         </dl>
@@ -63,9 +61,9 @@
 <div aria-labelledby="documents-title">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3579454">
+      <section class="attachment embedded" id="attachment_3727774">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" href="/government/publications/eu-exit-universities-research-and-innovation-stakeholder-working-group/terms-of-reference-and-membership-high-level-stakeholder-working-group-on-eu-exit-universities-research-and-innovation"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/eu-exit-universities-research-and-innovation-stakeholder-working-group/terms-of-reference-and-membership-high-level-stakeholder-working-group-on-eu-exit-universities-research-and-innovation"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
   <div class="attachment-details">
     <h2 class="title"><a href="/government/publications/eu-exit-universities-research-and-innovation-stakeholder-working-group/terms-of-reference-and-membership-high-level-stakeholder-working-group-on-eu-exit-universities-research-and-innovation">Terms of reference and membership: high level stakeholder working group on EU exit, universities, research and innovation</a></h2>
@@ -97,10 +95,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 February 2017
-    <br></br>Last updated 8 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 11 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-11T10:42:40.000+01:00">11 October 2019</time>
+              Membership updated: Chris Skidmore MP replaces Jo Johnson MP
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-08T10:36:26.000+01:00">8 August 2019</time>
               Group membership - James Duddridge replaces Robin Walker.
@@ -142,21 +144,20 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-3b66a5ab" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-5f81d0a9" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3b66a5ab" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-5f81d0a9" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/statistics/uk-innovation-survey-2017-main-report" data-track-options="{"dimension28":"2","dimension29":"UK innovation survey 2017: main report"}" href="/government/statistics/uk-innovation-survey-2017-main-report">UK innovation survey 2017: main report</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/european-structural-and-investment-funds-outputs-and-results" data-track-options="{"dimension28":"2","dimension29":"European Structural and Investment Funds: outputs and results"}" href="/government/publications/european-structural-and-investment-funds-outputs-and-results">European Structural and Investment Funds: outputs and results</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/statistics/uk-innovation-survey-2017-main-report" data-track-options="{"dimension28":"1","dimension29":"UK innovation survey 2017: main report"}" href="/government/statistics/uk-innovation-survey-2017-main-report">UK innovation survey 2017: main report</a></li>
 
   </ul>
 </nav>
@@ -182,9 +183,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f2ba01ec" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-43f3b742" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-f2ba01ec" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-43f3b742" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
