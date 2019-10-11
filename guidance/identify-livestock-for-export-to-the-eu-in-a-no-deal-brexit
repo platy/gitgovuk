@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 September 2019
+    <br></br>Last updated 11 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -113,11 +115,9 @@
 
 <p>You do not need to add the cattle’s individual ID number to this tag. You can use any type of tag, for example, a flag or button tag.</p>
 
-<p>You’ll no longer need to send your cattle with a <a href="https://www.gov.uk/guidance/get-a-cattle-passport">passport</a>.</p>
+<p>If you’re exporting cattle for slaughter, they also need to be freeze-branded on the hind quarters with an L mark.</p>
 
-<p>Return your cattle passports to the <a href="https://www.gov.uk/government/organisations/british-cattle-movement-service">British Cattle Movement Service</a>, within 7 days after you’ve exported your animals to the EU.</p>
-
-<p>If you’re in Northern Ireland, you’ll no longer need a passport to export cattle to the EU.</p>
+<p>If you’re exporting from Great Britain, return your cattle passports to the <a href="https://www.gov.uk/government/organisations/british-cattle-movement-service">British Cattle Movement Service</a>, within 7 days after you’ve exported your animals to the EU.</p>
 
 <h3 id="pig-identification">Pig identification</h3>
 
@@ -139,7 +139,7 @@
 
 <h2 id="how-to-get-gb-or-826-ear-tags">How to get GB or 826 ear tags</h2>
 
-<p>Your regular ear tag supplier will be able to provide any new tags you need. Tell your tag supplier that:</p>
+<p>Your regular ear tag supplier will be able to provide any new tags you need. Tell your tag supplier:</p>
 
 <ul>
   <li>you’re planning to export your livestock to the EU</li>
@@ -162,8 +162,22 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 September 2019
+    <br></br>Last updated 11 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-11T11:33:28.000+01:00">11 October 2019</time>
+              Information added on extra marking for cattle intended for slaughter.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-20T11:24:00.000+01:00">20 September 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -189,16 +203,16 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-181fe387" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-1bf0ef4e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-181fe387" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-1bf0ef4e" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-181fe387" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-1bf0ef4e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -208,6 +222,20 @@
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.3 Detailed guidance" data-track-label="/guidance/pig-keepers-identify-animals-before-moving-them" data-track-options="{"dimension28":"5","dimension29":"Pig keepers: identify animals before moving them"}" href="/guidance/pig-keepers-identify-animals-before-moving-them">Pig keepers: identify animals before moving them</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.4 Detailed guidance" data-track-label="/guidance/sheep-and-goat-keepers-how-to-identify-your-animals" data-track-options="{"dimension28":"5","dimension29":"Sheep and goat keepers: how to identify your animals"}" href="/guidance/sheep-and-goat-keepers-how-to-identify-your-animals">Sheep and goat keepers: how to identify your animals</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.5 Detailed guidance" data-track-label="/guidance/what-to-do-after-a-calf-is-born" data-track-options="{"dimension28":"5","dimension29":"What to do after a calf is born"}" href="/guidance/what-to-do-after-a-calf-is-born">What to do after a calf is born</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1bf0ef4e" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-1bf0ef4e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/guidance-on-keeping-cattle-bison-and-buffalo-in-great-britain" data-track-options="{"dimension28":"1","dimension29":"Guidance on keeping cattle, bison and buffalo in Great Britain"}" href="/government/collections/guidance-on-keeping-cattle-bison-and-buffalo-in-great-britain">Guidance on keeping cattle, bison and buffalo in Great Britain</a></li>
 
   </ul>
 </nav>
@@ -233,15 +261,16 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5681a673" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0b8bbeb9" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-5681a673" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-0b8bbeb9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/environment/food-and-farming" data-track-options="{"dimension28":"2","dimension29":"Food and farming"}" href="/environment/food-and-farming">Food and farming</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/topic/keeping-farmed-animals/cattle-identity-registration" data-track-options="{"dimension28":"3","dimension29":"Cattle identification and registration"}" href="/topic/keeping-farmed-animals/cattle-identity-registration">Cattle identification and registration</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/topic/keeping-farmed-animals/sheep-identity-registration" data-track-options="{"dimension28":"3","dimension29":"Sheep and goats identification, registration and movements"}" href="/topic/keeping-farmed-animals/sheep-identity-registration">Sheep and goats identification, registration and movements</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/topic/keeping-farmed-animals/pig-identity-registration-movements" data-track-options="{"dimension28":"3","dimension29":"Pig identification, registration and movements"}" href="/topic/keeping-farmed-animals/pig-identity-registration-movements">Pig identification, registration and movements</a></li>
 
   </ul>
 </nav>
