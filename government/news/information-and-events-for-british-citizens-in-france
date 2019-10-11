@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 September 2018
-    <br></br>Last updated 26 September 2019
+    <br></br>Last updated 11 October 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -68,13 +68,11 @@
 <h3 id="upcoming-citizens-outreach-meetings-across-france">Upcoming citizens outreach meetings across France</h3>
 
 <ul>
-  <li>Bourg-en-Bresse: 9 October 2019 - You can <a rel="external" href="https://bit.ly/2lfOZ2l">register for this event here</a>
+  <li>Vannes: 14 October 2019 - You can <a rel="external" href="https://www.eventbrite.co.uk/e/british-embassy-outreach-meeting-vannes-tickets-70144113933">register for this event here</a>
 </li>
-  <li>Périgueux (1): 10 October 2019 3:30pm - You can <a rel="external" href="https://bit.ly/2mwQSb9">register for this event here</a>
+  <li>Quimper: 14 October 2019 - You can <a rel="external" href="https://www.eventbrite.co.uk/e/british-embassy-outreach-meeting-quimper-tickets-70147036675">register for this event here</a>
 </li>
-  <li>Périgueux (2): 10 October 2019 6:30pm - You can <a rel="external" href="https://www.eventbrite.co.uk/e/british-embassy-outreach-meeting-perigueux-2-tickets-73440946849">register for this event here</a>
-</li>
-  <li>Bergerac: 11 October 2019 - You can <a rel="external" href="https://www.eventbrite.co.uk/e/british-embassy-outreach-meeting-bergerac-tickets-73442670003">register for this event here</a>
+  <li>Paris: 14 October 2019 - You can <a rel="external" href="https://www.eventbrite.co.uk/e/british-embassy-outreach-meeting-paris-tickets-74659666071">register for this event here</a>
 </li>
 </ul>
 
@@ -88,6 +86,18 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>11 October</td>
+      <td>Bergerac</td>
+    </tr>
+    <tr>
+      <td>10 October</td>
+      <td>Périgueux (1) & (2)</td>
+    </tr>
+    <tr>
+      <td>9 October</td>
+      <td>Bourg-en-Bresse</td>
+    </tr>
     <tr>
       <td>24 September</td>
       <td>Lyon</td>
@@ -465,10 +475,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 September 2018
-    <br></br>Last updated 26 September 2019
+    <br></br>Last updated 11 October 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-11T11:40:44.000+01:00">11 October 2019</time>
+              New outreach events added in Vannes, Quimper and Paris
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-26T09:21:26.000+01:00">26 September 2019</time>
               Bourg-en-Bresse event added
@@ -607,24 +621,24 @@ Nantes 25/02
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-7e22e4a8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-346c053f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7e22e4a8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-346c053f" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/how-to-buy-property-in-france" data-track-options="{"dimension28":"5","dimension29":"France: buying property"}" href="/guidance/how-to-buy-property-in-france">France: buying property</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union" data-track-options="{"dimension28":"5","dimension29":"Progress on the UK’s exit from, and future relationship with, the European Union"}" href="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union">Progress on the UK’s exit from, and future relationship with, the European Union</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/germany-residence-information-after-eu-exit" data-track-options="{"dimension28":"5","dimension29":"Germany: residence information after Brexit"}" href="/government/publications/germany-residence-information-after-eu-exit">Germany: residence information after Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france" data-track-options="{"dimension28":"5","dimension29":"France: Voisins Voices - newsletter for the British community in France"}" href="/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france">France: Voisins Voices - newsletter for the British community in France</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/france-list-of-lawyers" data-track-options="{"dimension28":"5","dimension29":"France: lawyers"}" href="/government/publications/france-list-of-lawyers">France: lawyers</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/germany-residence-information-after-eu-exit" data-track-options="{"dimension28":"5","dimension29":"Germany: residence information after Brexit"}" href="/government/publications/germany-residence-information-after-eu-exit">Germany: residence information after Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/france-list-of-lawyers" data-track-options="{"dimension28":"5","dimension29":"France: lawyers"}" href="/government/publications/france-list-of-lawyers">France: lawyers</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union" data-track-options="{"dimension28":"5","dimension29":"Progress on the UK’s exit from, and future relationship with, the European Union"}" href="/government/publications/progress-on-the-uks-exit-from-and-future-relationship-with-the-european-union">Progress on the UK’s exit from, and future relationship with, the European Union</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/notarial-and-documentary-services-guide-for-france" data-track-options="{"dimension28":"5","dimension29":"France: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-france">France: notarial and documentary services</a></li>
 
   </ul>
 </nav>
@@ -650,9 +664,9 @@ Nantes 25/02
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-61f4b389" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2ebd3d5e" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-61f4b389" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-2ebd3d5e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -666,9 +680,9 @@ Nantes 25/02
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-61f4b389" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-2ebd3d5e" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-61f4b389" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-2ebd3d5e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
