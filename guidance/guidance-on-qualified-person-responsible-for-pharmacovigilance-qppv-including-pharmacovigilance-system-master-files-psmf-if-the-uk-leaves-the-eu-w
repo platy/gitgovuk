@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Pharmacovigilance system requirements if there is a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">Pharmacovigilance system requirements if there is a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 March 2019
-    <br></br>Last updated 7 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 11 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/medicines-and-healthcare-products-regulatory-agency">Medicines and Healthcare products Regulatory Agency</a>
+                  <a class="govuk-link" href="/government/organisations/medicines-and-healthcare-products-regulatory-agency">Medicines and Healthcare products Regulatory Agency</a>
                 </span>
             </dd>
         </dl>
@@ -58,36 +56,52 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#guidance-on-the-uk-qppv" data-track-options="{"dimension29":"Guidance on the UK QPPV\n"}" href="#guidance-on-the-uk-qppv">Guidance on the UK QPPV
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#guidance-on-the-uk-qppv" data-track-options="{"dimension29":"Guidance on the UK QPPV\n"}" href="#guidance-on-the-uk-qppv">Guidance on the UK QPPV
 </a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#guidance-on-the-uk-psmf" data-track-options="{"dimension29":"Guidance on the UK PSMF\n"}" href="#guidance-on-the-uk-psmf">Guidance on the UK PSMF
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#guidance-on-the-uk-psmf" data-track-options="{"dimension29":"Guidance on the UK PSMF\n"}" href="#guidance-on-the-uk-psmf">Guidance on the UK PSMF
 </a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#notification-of-uk-qppv-and-psmf-details-to-the-mhra-by-existing-holders-of-uk-marketing-authorisations-ma" data-track-options="{"dimension29":"Notification of UK QPPV and PSMF details to the MHRA by existing holders of UK marketing authorisations (MA)"}" href="#notification-of-uk-qppv-and-psmf-details-to-the-mhra-by-existing-holders-of-uk-marketing-authorisations-ma">Notification of UK QPPV and PSMF details to the MHRA by existing holders of UK marketing authorisations (MA)</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#temporary-exemption-in-relation-to-the-pharmacovigilance-system-master-file" data-track-options="{"dimension29":"Temporary exemption in relation to the pharmacovigilance system master file"}" href="#temporary-exemption-in-relation-to-the-pharmacovigilance-system-master-file">Temporary exemption in relation to the pharmacovigilance system master file</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#guidance-for-applicants-for-uk-mas" data-track-options="{"dimension29":"Guidance for applicants for UK MAs\n"}" href="#guidance-for-applicants-for-uk-mas">Guidance for applicants for UK MAs
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#notification-of-uk-qppv-and-psmf-details-to-the-mhra-by-existing-holders-of-uk-marketing-authorisations-ma" data-track-options="{"dimension29":"Notification of UK QPPV and PSMF details to the MHRA by existing holders of UK marketing authorisations (MA)"}" href="#notification-of-uk-qppv-and-psmf-details-to-the-mhra-by-existing-holders-of-uk-marketing-authorisations-ma">Notification of UK QPPV and PSMF details to the MHRA by existing holders of UK marketing authorisations (MA)</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#guidance-for-applicants-for-uk-mas" data-track-options="{"dimension29":"Guidance for applicants for UK MAs\n"}" href="#guidance-for-applicants-for-uk-mas">Guidance for applicants for UK MAs
 </a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#queries" data-track-options="{"dimension29":"Queries"}" href="#queries">Queries</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#queries" data-track-options="{"dimension29":"Queries"}" href="#queries">Queries</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
+<div class="call-to-action">
+<h3 id="stay-up-to-date">Stay up to date</h3>
+
+<p>Get ready for Brexit on 31 October 2019. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+
+<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up to email alerts</a> to get the latest information</p>
+</div>
+
 <p>The following legal obligations will apply to marketing authorisation holders (<abbr title="marketing authorisation holder">MAH</abbr>) in the UK, in a no deal scenario:</p>
 
 <ul>
@@ -128,9 +142,16 @@
 <h3 id="temporary-exemption-as-to-the-location-of-the-uk-qppv">Temporary exemption as to the location of the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr>
 </h3>
 
-<p>There is a temporary exemption in place which allows you until 21 months after exit day to appoint a UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> that resides and operates in the UK. This is stated in <a href="https://www.gov.uk/government/publications/further-guidance-note-on-the-regulation-of-medicines-medical-devices-and-clinical-trials-if-theres-no-brexit-deal/further-guidance-note-on-the-regulation-of-medicines-medical-devices-and-clinical-trials-if-theres-no-brexit-deal">section 1.9 of the further guidance from January 2019</a>.</p>
+<p>There is a temporary exemption in place which allows you 21 months beginning with exit day to appoint a UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> that resides and operates in the UK. This is stated in <a href="https://www.gov.uk/government/publications/further-guidance-note-on-the-regulation-of-medicines-medical-devices-and-clinical-trials-if-theres-no-brexit-deal/further-guidance-note-on-the-regulation-of-medicines-medical-devices-and-clinical-trials-if-theres-no-brexit-deal">section 1.9 of the further guidance from January 2019</a>.</p>
 
 <p>This temporary exemption will allow the <abbr title="European Union">EU</abbr>/<abbr title="European Economic Area">EEA</abbr> <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> who, immediately before exit day, resided and operated in an <abbr title="European Economic Area">EEA</abbr> state, to assume responsibility for UK authorised products until a <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> who resides and operates in the UK can be established.</p>
+
+<p>A UK statutory instrument (SI) amending the <abbr title="European Union">EU</abbr> Exit Regulations has been laid and has received Parliamentary approval in both Houses. This amending SI clarifies that the temporary exemption as to the location of the <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> applies to holders of UK marketing authorisations or traditional herbal registrations that were granted before, on or after exit day, where:</p>
+
+<ul>
+  <li>these UK marketing authorisations or traditional herbal registrations are included in the same pharmacovigilance system operated by the holder under regulation 182(1), and</li>
+  <li>the same <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> is responsible for this pharmacovigilance system.</li>
+</ul>
 
 <h2 id="guidance-on-the-uk-psmf">Guidance on the UK <abbr title="pharmacovigilance system master file">PSMF</abbr>
 </h2>
@@ -160,13 +181,23 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
 
 <p>All UK <abbr title="pharmacovigilance system master files">PSMFs</abbr> must be registered with the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>. You should request a unique UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number from the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> for each pharmacovigilance system that you are operating for UK authorised products. Where the pharmacovigilance system is shared by several <abbr title="marketing authorisation holders">MAHs</abbr>, a single request for a UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number should be submitted to the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>.</p>
 
-<p>A UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number request form will be <a href="https://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk">available on the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> website</a> immediately after exit day in a no deal Brexit scenario.</p>
+<p>A UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number can be requested via the <a href="https://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk"><abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> Submissions Portal</a> after exit day in a no deal Brexit scenario. You should follow the online instructions for requesting a UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number and you should receive the number by email immediately upon completion of the online form.</p>
 
-<p>You should not request a UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number until you are planning to update the summary of pharmacovigilance system (<abbr title="Summary of pharmacovigilance system">SPS</abbr>) for your UK product licences (<abbr title="product license">PL</abbr>) via submission of a variation application.</p>
+<p>You are encouraged not to request the UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number until the UK-resident <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> and the UK <abbr title="pharmacovigilance system master file">PSMF</abbr> have been established.</p>
 
-<p>You should follow the instructions for completing the form and submit to: <a href="mailto:UKPSMFadmin@mhra.gov.uk">UKPSMFadmin@mhra.gov.uk</a></p>
+<h2 id="temporary-exemption-in-relation-to-the-pharmacovigilance-system-master-file">Temporary exemption in relation to the pharmacovigilance system master file</h2>
 
-<p>You will receive a unique UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number by email within 10 working days.</p>
+<p>A UK SI amending the <abbr title="European Union">EU</abbr> Exit Regulations has been laid and has received Parliamentary approval in both Houses. This amending SI introduces a temporary exemption in relation to the <abbr title="pharmacovigilance system master file">PSMF</abbr>, which outlines that you will not need to maintain and make available on request of the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> a <abbr title="pharmacovigilance system master file">PSMF</abbr> covering UK authorised products until such time that a <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> that resides and operates in the UK is established.</p>
+
+<p>In order to benefit from this temporary exemption, you must meet the following statutory conditions:</p>
+
+<ul>
+  <li>You are maintaining a complete and up-to-date <abbr title="European Union">EU</abbr> <abbr title="pharmacovigilance system master file">PSMF</abbr> and the pharmacovigilance system described within it is the same as that for your UK authorised products.</li>
+  <li>The <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> responsible for UK authorised products that resides and operates in an <abbr title="European Economic Area">EEA</abbr> state during the transitional period has permanent access to the <abbr title="European Union">EU</abbr> <abbr title="pharmacovigilance system master file">PSMF</abbr>.</li>
+  <li>The <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> responsible for UK authorised products that resides and operates in an <abbr title="European Economic Area">EEA</abbr> state during the transitional period has access to any other information concerning the compliance of the pharmacovigilance system with the legal requirements outlined in <abbr title="The Human Medicines Regulations">HMR</abbr> Part 11 and Schedule 12A.</li>
+  <li>You provide the <abbr title="European Union">EU</abbr> <abbr title="pharmacovigilance system master file">PSMF</abbr> and the compliance information specified in the bullet point above to the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> upon request.
+ </li>
+</ul>
 
 <h2 id="notification-of-uk-qppv-and-psmf-details-to-the-mhra-by-existing-holders-of-uk-marketing-authorisations-ma">Notification of UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> and <abbr title="pharmacovigilance system master file">PSMF</abbr> details to the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> by existing holders of UK marketing authorisations (MA)</h2>
 
@@ -187,16 +218,18 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
 <ul>
   <li>Proof that the applicant has at his disposal a qualified person responsible for pharmacovigilance and a statement signed by the applicant to the effect that the applicant has the necessary means to fulfil the tasks and responsibilities listed in Part 11.</li>
   <li>Contact details of the appropriately qualified person who is ordinarily resident and operates in the UK (or those of the <abbr title="European Union">EU</abbr>/<abbr title="European Economic Area">EEA</abbr> <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> if this individual has assumed responsibility for UK <abbr title="Marketing authorisations">MAs</abbr> in the transitional period).</li>
-  <li>A reference to the location where the <abbr title="pharmacovigilance system master file">PSMF</abbr> for the medicinal product is kept or, if kept in electronic form, from which it can be accessed, which in either case must be in the United Kingdom.</li>
+  <li>A reference to the location where the <abbr title="pharmacovigilance system master file">PSMF</abbr> for the medicinal product is kept or, if kept in electronic form, from which it can be accessed, which in either case must be in the United Kingdom (unless the UK-resident <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> and the UK <abbr title="pharmacovigilance system master file">PSMF</abbr> have not been established yet, in which case the location of the <abbr title="European Union">EU</abbr> <abbr title="pharmacovigilance system master file">PSMF</abbr> can be provided).</li>
 </ul>
 
-<h4 id="uk-psmf-number">2. UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number</h4>
+<h4 id="uk-psmf-number-if-the-uk-resident-qppv-and-the-uk-psmf-have-been-established">2. UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number (if the UK-resident <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> and the UK <abbr title="pharmacovigilance system master file">PSMF</abbr> have been established)</h4>
 
 <p>Failing to supply all required documentation and information may lead to a rejection of the submission, which will require you to make a resubmission addressing all discrepancies. The requirements for various categories of variations are outlined in the guidelines published by the Commission under Article 4 of Regulation (EC) No 1234/2008. UK specific requirements regarding the summary of the pharmacovigilance system are outlined in <abbr title="The Human Medicines Regulations">HMR</abbr> Schedule 8.</p>
 
 <h3 id="submission-timeframes">Submission timeframes</h3>
 
-<p>You must notify the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> of changes to the <abbr title="Summary of pharmacovigilance system">SPS</abbr> following the registration of the UK <abbr title="pharmacovigilance system master file">PSMF</abbr> and any changes to the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr>. The submission of <abbr title="Summary of pharmacovigilance system">SPS</abbr> details for licences that were authorised via the <abbr title="European Union">EU</abbr> centralised procedure should be handled differently to UK national licences. Please refer to this <span id="attachment_3578116" class="attachment-inline">
+<p>You must notify the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr> of changes to the <abbr title="Summary of pharmacovigilance system">SPS</abbr> following any changes to the <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> responsible for UK authorised products.</p>
+
+<p>The submission of <abbr title="Summary of pharmacovigilance system">SPS</abbr> details for licences that were authorised via the <abbr title="European Union">EU</abbr> centralised procedure should be handled differently to UK national licences. Please refer to this <span id="attachment_3723288" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/788834/Submission_Timeframes_Overview.pdf">diagram which has an overview of the timeframes for submitting <abbr title="Summary of pharmacovigilance system">SPS</abbr> details to the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr></a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">14.7KB</span>, <span class="page-length">1 page</span>)
 </span>
@@ -204,7 +237,7 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
 
 <h4 id="guidance-relating-to-uk-national-licences-including-those-authorised-via-mutual-recognition-or-decentralised-procedures">Guidance relating to UK national licences (including those authorised via mutual recognition or decentralised procedures)</h4>
 
-<p>On the day the UK leaves the <abbr title="European Union">EU</abbr>, if the identity, location and contact details of the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> are identical to that of the <abbr title="European Union">EU</abbr>/<abbr title="European Economic Area">EEA</abbr> <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> immediately prior to exit day (as entered in the eXtended Eudravigilance Medicinal Product Dictionary, <abbr title="eXtended Eudravigilance Medicinal Product Dictionary">XEVMPD</abbr>), no immediate action is required to notify the licensing authority.</p>
+<p>On the day the UK leaves the <abbr title="European Union">EU</abbr>, if the identity, location and contact details of the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> are identical to that of the <abbr title="European Union">EU</abbr>/<abbr title="European Economic Area">EEA</abbr> <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> immediately prior to exit day (as entered in the eXtended Eudravigilance Medicinal Product Dictionary, <abbr title="eXtended Eudravigilance Medicinal Product Dictionary">XEVMPD</abbr>), no immediate action is required to notify the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>.</p>
 
 <p>Within two weeks of a change of identity, location or contact details of the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> (either a change in the <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> resident in an <abbr title="European Economic Area">EEA</abbr> State or the introduction of a <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> that resides and operates in the UK), you should submit a single change Type IAIN - C.I.8.a variation covering all UK <abbr title="product license">PLs</abbr> under a unique pharmacovigilance system (in collections of no more than 25 <abbr title="product license">PLs</abbr>).</p>
 
@@ -220,7 +253,7 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
 
 <ul>
   <li>
-    <p>If the identity, location and contact details of the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> are identical to that of the <abbr title="European Union">EU</abbr>/<abbr title="European Economic Area">EEA</abbr> <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> immediately prior to exit day (as entered in <abbr title="eXtended Eudravigilance Medicinal Product Dictionary">XEVMPD</abbr>), no immediate action is required to notify the licensing authority. Within two weeks of a change of identity, location or contact details of the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> (either a change in the <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> resident in an <abbr title="European Economic Area">EEA</abbr> State or the introduction of a <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> that resides and operates in the UK), you should submit a single change Type IAIN - C.I.8.a variation covering all UK (ex-<abbr title="European Union">EU</abbr>) <abbr title="product license">PLs</abbr> under a unique pharmacovigilance system (in collections of no more than 25 <abbr title="product license">PLs</abbr>)</p>
+    <p>If the identity, location and contact details of the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> are identical to that of the <abbr title="European Union">EU</abbr>/<abbr title="European Economic Area">EEA</abbr> <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> immediately prior to exit day (as entered in <abbr title="eXtended Eudravigilance Medicinal Product Dictionary">XEVMPD</abbr>), no immediate action is required to notify the <abbr title="Medicines and Healthcare products Regulatory Agency">MHRA</abbr>. Within two weeks of a change of identity, location or contact details of the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> (either a change in the <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> resident in an <abbr title="European Economic Area">EEA</abbr> State or the introduction of a <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> that resides and operates in the UK), you should submit a single change Type IAIN - C.I.8.a variation covering all UK (ex-<abbr title="European Union">EU</abbr>) <abbr title="product license">PLs</abbr> under a unique pharmacovigilance system (in collections of no more than 25 <abbr title="product license">PLs</abbr>)</p>
   </li>
   <li>
     <p>If the identity, location or contact details of the UK <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> are different to that entered in <abbr title="eXtended Eudravigilance Medicinal Product Dictionary">XEVMPD</abbr> (either a change in the <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> resident in an <abbr title="European Economic Area">EEA</abbr> State or the introduction of a <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> that resides and operates in the UK), you should submit a single change Type IAIN - C.I.8.a variation covering all UK (ex-<abbr title="European Union">EU</abbr>) <abbr title="product license">PLs</abbr> under a unique pharmacovigilance system (in collections of no more than 25 <abbr title="product license">PLs</abbr>)</p>
@@ -236,10 +269,10 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
   <li>proof that the applicant has at the applicant’s disposal an appropriately qualified person responsible for pharmacovigilance who is ordinarily resident, and operates, in the United Kingdom (or in an <abbr title="European Economic Area">EEA</abbr> State if the <abbr title="European Union">EU</abbr>/<abbr title="European Economic Area">EEA</abbr> <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> has assumed responsibility for UK <abbr title="Marketing authorisations">MAs</abbr> in the transitional period)</li>
   <li>the contact details of the appropriately qualified person</li>
   <li>a statement signed by the applicant to the effect that the applicant has the necessary means to fulfil the tasks and responsibilities listed in Part 11</li>
-  <li>a reference to the location where the pharmacovigilance system master file for the medicinal product is kept or, if kept in electronic form, from which it can be accessed, which in either case must be in the United Kingdom</li>
+  <li>a reference to the location where the pharmacovigilance system master file for the medicinal product is kept or, if kept in electronic form, from which it can be accessed, which in either case must be in the United Kingdom (unless the UK-resident <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> and the UK <abbr title="pharmacovigilance system master file">PSMF</abbr> have not been established yet, in which case the location of the <abbr title="European Union">EU</abbr> <abbr title="pharmacovigilance system master file">PSMF</abbr> can be provided)</li>
 </ol>
 
-<p>The <abbr title="Summary of pharmacovigilance system">SPS</abbr> should also include the UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number.</p>
+<p>The <abbr title="Summary of pharmacovigilance system">SPS</abbr> should also include the UK <abbr title="pharmacovigilance system master file">PSMF</abbr> number (if the UK-resident <abbr title="qualified person responsible for pharmacovigilance">QPPV</abbr> and the UK <abbr title="pharmacovigilance system master file">PSMF</abbr> have been established).</p>
 
 <p>Guidance on the application process <a href="https://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk#application-process-all-procedures">is available</a>.</p>
 
@@ -253,14 +286,6 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
 
 <p>This guidance will apply from exit day in line with the <a rel="external" href="http://www.legislation.gov.uk/uksi/2019/775/contents/made">Human Medicines Regulations (Amendment etc.) (<abbr title="European Union">EU</abbr> Exit) Regulations 2019</a>.</p>
 
-<div class="call-to-action">
-<h3 id="stay-up-to-date">Stay up to date</h3>
-
-<p>This page tells you what to do if you the UK leaves the <abbr title="European Union">EU</abbr> without a deal. It will be updated if anything changes, including if a deal is agreed.</p>
-
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up to email alerts</a> to get the latest information.</p>
-</div>
-
 </div>
 </div>
 
@@ -268,10 +293,18 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 March 2019
-    <br></br>Last updated 7 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 11 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-11T15:49:11.000+01:00">11 October 2019</time>
+              Added new section about the temporary exemption in relation to the pharmacovigilance system master file. Added information about requesting a UK PSMF number via the MHRA Submissions portal.  
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-09T12:35:59.000+01:00">9 October 2019</time>
+              Change of text within Stay up to date box.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-07T14:58:04.000+01:00">7 August 2019</time>
               We have removed some outdated background information and made changes to emphasise the actions Marketing Authorisation holders will need to take.
@@ -288,7 +321,7 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -307,14 +340,14 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-173806f2" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-522b9441" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-173806f2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-522b9441" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -327,14 +360,14 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-173806f2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-522b9441" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-173806f2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-522b9441" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario" data-track-options="{"dimension28":"1","dimension29":"MHRA guidance and publications about a possible no deal Brexit"}" href="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario">MHRA guidance and publications about a possible no deal Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario" data-track-options="{"dimension28":"1","dimension29":"MHRA guidance and publications about a possible no-deal Brexit"}" href="/government/collections/mhra-guidance-and-publications-on-a-possible-no-deal-scenario">MHRA guidance and publications about a possible no-deal Brexit</a></li>
 
   </ul>
 </nav>
@@ -360,9 +393,9 @@ As per <abbr title="Good Pharmacovigilance Practice">GVP</abbr> Module II, there
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e0c003ae" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-28179ac3" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-e0c003ae" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-28179ac3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
