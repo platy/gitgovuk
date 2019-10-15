@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 16 November 2018
-    <br></br>Last updated 14 October 2019
+    <br></br>Last updated 15 October 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -54,7 +54,7 @@
   <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
       <figure class="app-c-figure" lang="en">
-  <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81307/s300_2swsto.png" alt="photo"></img>
+  <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/81307/s300_2swsto.png" alt="British citizens outreach events in Greece"></img>
     <figcaption class="app-c-figure__figcaption">
 
     </figcaption>
@@ -82,6 +82,11 @@
       <td>Sunday 20 October 2019</td>
       <td>5:30 - 7:00pm</td>
       <td>Pharae Palace Hotel (conference room), Navarinou & Riga Feraiou Str., 241 00, Kalamata</td>
+    </tr>
+    <tr>
+      <td>Monday 21 October 2019</td>
+      <td>12:00 - 1:30pm</td>
+      <td>St Andrew’s Church, Agiou Andreou Str., Patras</td>
     </tr>
   </tbody>
 </table>
@@ -133,10 +138,10 @@
 <h2 id="useful-links">Useful links</h2>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/living-in-greece">Living in Greece guide</a></li>
+  <li><a href="https://www.gov.uk/guidance/living-in-greece">living in Greece guide</a></li>
   <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">UK nationals in the EU: essential information</a></li>
   <li><a href="https://www.gov.uk/world/greece/news">UK and Greece news page</a></li>
-  <li><a href="https://www.gov.uk/guidance/exiting-the-european-union">Further information about the UK’s departure from the European Union</a></li>
+  <li><a href="https://www.gov.uk/guidance/exiting-the-european-union">further information about the UK’s departure from the European Union</a></li>
 </ul>
 
 <div class="call-to-action">
@@ -179,10 +184,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 16 November 2018
-    <br></br>Last updated 14 October 2019
+    <br></br>Last updated 15 October 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-15T10:47:07.000+01:00">15 October 2019</time>
+              We have added an outreach event which will take place in Patras on 21 October 2019.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-14T11:46:12.000+01:00">14 October 2019</time>
               UK nationals outreach events update: new events in Nafplion and Kalamata
@@ -291,9 +300,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-01b9d9dc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b2a0413a" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-01b9d9dc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-b2a0413a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -308,9 +317,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-01b9d9dc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-b2a0413a" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-01b9d9dc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-b2a0413a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
