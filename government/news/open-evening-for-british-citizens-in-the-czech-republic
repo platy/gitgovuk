@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 21 December 2018
-    <br></br>Last updated 26 September 2019
+    <br></br>Last updated 16 October 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -68,6 +68,12 @@
 <p>The meetings are free and open to all interested British nationals. Please make sure you register if you would like to attend.</p>
 
 <p>To receive updates on outreach events in your area, follow us on <a rel="external" href="https://www.facebook.com/BritsinCR/">Facebook (BritsinCR)</a> and keep an eye on this website for more news.</p>
+
+<h4 id="upcoming-events">Upcoming events</h4>
+<ul>
+  <li>Prague: 23 October, <a rel="external" href="https://www.eventbrite.co.uk/e/town-hall-meeting-on-brexit-for-uk-nationals-in-prague-tickets-76778962945">register here via Eventbrite</a>
+</li>
+</ul>
 
 <h4 id="previous-events-in-the-czech-republic">Previous events in the Czech Republic</h4>
 <ul>
@@ -120,10 +126,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 21 December 2018
-    <br></br>Last updated 26 September 2019
+    <br></br>Last updated 16 October 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-16T08:34:35.000+01:00">16 October 2019</time>
+              We've added information on an event in Prague on 23 October. 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-26T16:07:09.000+01:00">26 September 2019</time>
               We added the link to the recording of our event held in Prague on 19 September. 
@@ -162,14 +172,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-3b579c8c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-d93bfd04" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3b579c8c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d93bfd04" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -205,9 +215,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-15de34d2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3bc3c49b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-15de34d2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-3bc3c49b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -221,9 +231,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-15de34d2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-3bc3c49b" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-15de34d2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-3bc3c49b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
