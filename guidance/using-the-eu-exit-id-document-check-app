@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 November 2018
-    <br></br>Last updated 10 October 2019
+    <br></br>Last updated 18 October 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -101,17 +101,30 @@
 
 <h2 id="check-if-you-can-use-the-app-on-your-phone">Check if you can use the app on your phone</h2>
 
-<p>Your phone will need:</p>
+<h3 id="for-android-users">For Android users</h3>
+
+<p>You’ll need:</p>
 
 <ul>
-  <li>Android 6.0 or above – you can find this in your settings</li>
+  <li>Android 6.0 and above – you can find this in your settings</li>
   <li>at least 135MB of storage space to install the app</li>
   <li>to be connected to 3G, 4G or WiFi</li>
   <li>
 <abbr title="Near-Field Communication">NFC</abbr> (Near-Field Communication) so the app can scan your document – you can find this in your settings. If you can use your phone to pay for things using contactless, this means it has <abbr title="Near-Field Communication">NFC</abbr> and you can use the app</li>
 </ul>
 
-<p>The ‘ID Document Check’ app will be available for iPhone by the end of 2019.</p>
+<h3 id="for-iphone-users">For iPhone users</h3>
+
+<p>The ‘ID Document Check’ beta app is now available for iPhone 8 and newer models. The app will be available on the iPhone 7 and 7 Plus shortly following an upcoming iOS software update.</p>
+
+<p>You’ll need:</p>
+
+<ul>
+  <li>iPhone 8 or 8 Plus or newer model</li>
+  <li>iOS 13.1 or newer - to find the software version installed, go to Settings > General, then About</li>
+  <li>at least 120MB of storage space to install the app</li>
+  <li>to be connected to 3G, 4G or WiFi</li>
+</ul>
 
 <p>The app will need access to your phone’s camera. If the app does not request access, please enable access in your settings.</p>
 
@@ -197,10 +210,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 November 2018
-    <br></br>Last updated 10 October 2019
+    <br></br>Last updated 18 October 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-18T13:44:35.000+01:00">18 October 2019</time>
+              Updated to add iPhone availability information.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-10T16:16:07.000+01:00">10 October 2019</time>
               Updated structure of the page and YouTube video
@@ -252,14 +269,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-becb1237" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-893a01cd" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-becb1237" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-893a01cd" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -275,9 +292,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-becb1237" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-893a01cd" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-becb1237" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-893a01cd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -308,9 +325,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8e73257e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-740b348c" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8e73257e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-740b348c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
