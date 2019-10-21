@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,16 +8,12 @@
     Living in Norway
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Official information British people moving to and living in Norway need to know, including EU Exit guidance, 
-residency, healthcare and driving.
-
-  </p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Norway, including guidance on Brexit, residency, passports and driving.
+</p>
 
   </div>
 </div>
@@ -27,11 +21,11 @@ residency, healthcare and driving.
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 26 June 2013
-    <br></br>Last updated 3 June 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 21 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -41,7 +35,7 @@ residency, healthcare and driving.
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
                 </span>
             </dd>
         </dl>
@@ -63,113 +57,138 @@ residency, healthcare and driving.
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#eu-exit-what-you-should-do" data-track-options="{"dimension29":"EU Exit: what you should do"}" href="#eu-exit-what-you-should-do">EU Exit: what you should do</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#eu-exit-updates" data-track-options="{"dimension29":"EU Exit updates"}" href="#eu-exit-updates">EU Exit updates</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#residency-and-visas" data-track-options="{"dimension29":"Residency and visas"}" href="#residency-and-visas">Residency and visas</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#driving-in-norway" data-track-options="{"dimension29":"Driving in Norway"}" href="#driving-in-norway">Driving in Norway</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-norway" data-track-options="{"dimension29":"Working in Norway"}" href="#working-in-norway">Working in Norway</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-norway" data-track-options="{"dimension29":"Working in Norway"}" href="#working-in-norway">Working in Norway</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-norway" data-track-options="{"dimension29":"Driving in Norway"}" href="#driving-in-norway">Driving in Norway</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="eu-exit-what-you-should-do">EU Exit: what you should do</h2>
+<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
 
 <p>You should:</p>
 
 <ul>
-  <li>register <a rel="external" href="https://www.udi.no/en/want-to-apply/the-registration-scheme-for-eueea-nationals/?nav-veiviser=12896">as a resident in Norway</a>
-</li>
-  <li><a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a></li>
   <li>
-<a rel="external" href="https://www.vegvesen.no/en/driving-licences/driving-licence-holders/foreign-driving-licences-in-norway/issued-in-the-eu-eea">exchange your UK driving licence</a> for a Norwegian driving licence</li>
-  <li>apply for <a rel="external" href="https://www.nokut.no/en/">recognition of your professional qualifications</a>
-</li>
-</ul>
-
-<h2 id="eu-exit-updates">EU Exit updates</h2>
-
-<ul>
-  <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-norway">email alerts on living in Norway</a> and follow your local British Embassy on <a rel="external" href="https://www.facebook.com/britishembassyoslo">Facebook</a> and <a rel="external" href="https://twitter.com/ukinnorway">Twitter</a>
-</li>
-  <li>check the <a rel="external" href="https://www.regjeringen.no/en/topics/european-policy/brits_brexit/id2630241/">Norwegian Government advice page</a> for further information</li>
-  <li>read the <a href="https://www.gov.uk/government/news/eea-efta-separation-agreement">EEA EFTA Seperation Agreement</a> which will apply if the UK leaves the EU with a deal</li>
-  <li>read the <a href="https://www.gov.uk/government/news/uk-and-eea-efta-states-strike-agreement-to-protect-citizens-rights-in-a-no-deal-scenario">EEA EFTA Citizens’ Rights Agreement which will apply if the UK leave with EU without a deal</a>
-</li>
+<a rel="external" href="https://www.udi.no/en/want-to-apply/the-registration-scheme-for-eueea-nationals/?nav-veiviser=12896">register as a resident</a> in Norway</li>
+  <li>
+<a href="https://www.gov.uk/guidance/living-in-norway#passports-and-travel">check your passport</a> is valid for travel</li>
+  <li><a rel="external" href="https://www.regjeringen.no/en/topics/european-policy/brits_brexit/id2630241/#qanda">check you have the correct documentation for travelling</a></li>
+  <li>
+<a rel="external" href="https://www.vegvesen.no/en/driving-licences/driving-licence-holders/foreign-driving-licences-in-norway/issued-in-the-eu-eea">exchange your UK driving licence</a> for a Norwegian one</li>
 </ul>
 </div>
 
-<h2 id="residency-and-visas">Residency and visas</h2>
+<h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>You may wish to check <a href="https://www.gov.uk/foreign-travel-advice/norway/entry-requirements">entry requirements for Norway</a></p>
+<p>Get ready for Brexit on 31 October 2019. This page tells you how to prepare and it will be updated if anything changes, including if a deal is agreed</p>
 
-<p>If you’re staying in Norway for more than 3 months, you need to register with the Norwegian Directorate of Immigration (UDI). You’ll need to <a rel="external" href="https://selfservice.udi.no/en-gb/">fill in an application form and book an appointment</a>. You have to bring the filled-in application and documents with you to the appointment.</p>
-
-<p>You can also find information about the various types of residence permit that allow you to <a rel="external" href="https://www.udi.no/en/">live and work in Norway via the UDI website</a>.</p>
-
-<p>If you’re in Norway to work, you’ll need to show at your registration appointment:</p>
+<p>You should:</p>
 
 <ul>
-  <li>your filled-in application form</li>
-  <li>valid ID card or passport</li>
-  <li>an employment certificate filled in by your employer (ansettelsesbevis) or an employment contract</li>
+  <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-norway">email alerts on living in Norway</a>
+</li>
+  <li>you can also keep up to date by following the British Embassy in Norway on <a rel="external" href="https://www.facebook.com/britishembassyoslo">Facebook</a> and <a rel="external" href="https://twitter.com/ukinnorway">Twitter</a>
+</li>
 </ul>
 
-<p>If you’re in Norway to study, you’ll need to show at your registration appointment:</p>
+<p>You can also:</p>
 
 <ul>
-  <li>your filled-in application form</li>
+  <li>check the <a rel="external" href="https://www.regjeringen.no/en/topics/european-policy/brits_brexit/id2630241/">Norwegian government advice page</a> on Brexit</li>
+  <li>read the <a href="https://www.gov.uk/government/news/eea-efta-separation-agreement"><abbr title="European Economic Area">EEA</abbr> <abbr title="European Free Trade Area">EFTA</abbr> Separation Agreement</a> which will apply if there’s no deal</li>
+  <li>read the <a href="https://www.gov.uk/government/news/uk-and-eea-efta-states-strike-agreement-to-protect-citizens-rights-in-a-no-deal-scenario"><abbr title="European Economic Area">EEA</abbr> <abbr title="European Free Trade Area">EFTA</abbr> Citizens’ Rights Agreement</a> which will apply if there’s no deal</li>
+</ul>
+
+<h2 id="visas-and-residency">Visas and residency</h2>
+
+<p>Check the <a href="https://www.gov.uk/foreign-travel-advice/norway/entry-requirements">entry requirements for Norway</a>.</p>
+
+<p>If you’re staying in Norway for more than 3 months, you need to register with the Norwegian Directorate of Immigration (<abbr title="Norwegian Directorate of Immigration">UDI</abbr>). You’ll need to <a rel="external" href="https://selfservice.udi.no/en-gb/">fill in a <abbr title="Norwegian Directorate of Immigration">UDI</abbr> application form and book an appointment</a>. You must bring the completed application and documents with you to the appointment.</p>
+
+<p>You can also find information about the various types of residence permit that allow you to <a rel="external" href="https://www.udi.no/en/">live and work in Norway on the <abbr title="Norwegian Directorate of Immigration">UDI</abbr> website</a>.</p>
+
+<p>If you’re in Norway to work, at your registration appointment you’ll need to show :</p>
+
+<ul>
+  <li>your completed application form</li>
+  <li>valid ID card or passport</li>
+  <li>an employment certificate completed by your employer (ansettelsesbevis) or an employment contract</li>
+</ul>
+
+<p>If you’re in Norway to study, at your registration appointment you’ll need to show:</p>
+
+<ul>
+  <li>your completed application form</li>
   <li>valid ID card or passport</li>
   <li>confirmation of admission to an approved educational institution</li>
   <li>private health insurance or an European Health Insurance Card (EHIC)</li>
@@ -178,173 +197,39 @@ residency, healthcare and driving.
 
 <p>You can apply for a residency permit at your local <a rel="external" href="http://www.sua.no/en">service centre for foreign workers (SUA)</a>.</p>
 
-<p>Once you have your residency permit, you can apply for a Norwegian personal number from the local people register (Folkeregister). See <a rel="external" href="https://www.udi.no/en/">Norwegian Directorate of Immigration</a>.</p>
+<p>Once you have your residency permit, you can apply for a Norwegian personal number from the local people register (Folkeregister). See more on the <a rel="external" href="https://www.udi.no/en/">Norwegian Directorate of Immigration website</a>.</p>
 
-<h3 id="residency-after-the-uk-leaves-the-eu">Residency after the UK leaves the EU</h3>
+<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
 
-<p>If the UK leaves the EU with a deal, there will be no changes to the residency procedure until the end of the implementation period.</p>
+<p>If the UK leaves the EU without a deal, UK nationals who plan to move to Norway after Brexit will need to apply for a residence permit.</p>
 
-<p>If the UK leaves the EU without a deal, UK nationals who plan to move to Norway after the UK leaves the EU will need to apply for a residence permit. We will update this page as soon as information is available once the UK leaves the EU. For more information you can:</p>
+<p>Existing documents, including registration certificates and residence cards, will still be valid documentation of legal residence in Norway until new legislation enters into force.</p>
 
-<ul>
-  <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-norway">email alerts</a>
-</li>
-  <li>
-<a rel="external" href="https://www.regjeringen.no/en/topics/european-policy/brits_brexit/id2630241/">read the Norwegian Government advice page</a> for UK nationals in Norway</li>
-</ul>
-
-<p>Existing documents including registration certificates and a residence cards will still be valid documentation of legal residence in Norway until new legislation enters into force.</p>
+<p>If there’s no deal, there will be no changes to the residency procedure until the end of the implementation period.</p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
-<p>You can <a href="https://www.gov.uk/overseas-passports">apply for or renew your British passport</a> from Norway. If you cannot get a passport in time for your trip, you may need to <a href="https://www.gov.uk/emergency-travel-document">get an emergency travel document or ‘emergency passport’</a>.</p>
+<p>You can <a href="https://www.gov.uk/overseas-passports">apply for or renew your British passport</a> from Norway.</p>
 
 <p>See our <a href="https://www.gov.uk/foreign-travel-advice/norway">travel advice for Norway</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
 
-<h3 id="passports-and-travel-after-the-uk-leaves-the-eu">Passports and travel after the UK leaves the EU</h3>
+<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+
+<p>After Brexit, the rules on travel will change. You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip. You’ll <a href="https://www.gov.uk/renew-adult-passport/renew">need to renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+
+<p>If there’s no deal, new travel rules will apply. You should have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
+
+<p>If there’s no deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/">UK nationals will not need visas for short stays elsewhere in the EU</a>. You will be able to stay up to 90 days in another EU, <abbr title="European Economic Area">EEA</abbr> or <abbr title="European Free Trade Area">EFTA</abbr> country, within a 180-day period. You must retain evidence of travel (such as train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an EU, <abbr title="European Economic Area">EEA</abbr> or <abbr title="European Free Trade Area">EFTA</abbr> country, you will be able to transit through other EU, <abbr title="European Economic Area">EEA</abbr> or <abbr title="European Free Trade Area">EFTA</abbr> countries to reach your country of residence. We will update this guidance as more information becomes available.</p>
+
+<p>If you live in Norway and you are planning to travel abroad, follow the  Norwegian government advice on <a rel="external" href="https://www.regjeringen.no/en/topics/european-policy/brits_brexit/id2630241/#qanda">extra documentation you will need to carry with you</a>.</p>
 
 <p>If the UK leaves the EU with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your UK passport. What happens after 2020 will be part of the next part of negotiations.</p>
-
-<p>If the UK leaves the EU without a deal, new travel rules will apply. You should have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland).</p>
-
-<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
-
-<p>You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
-
-<p>If the UK leaves the EU without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/">UK nationals will not need visas for short stays elsewhere in the EU</a>. You will be able to stay up to 90 days in another EU, EEA or EFTA country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an EU, EEA or EFTA country, you will be able to transit through other EU, EEA or EFTA countries to reach your country of residence. We will update this guidance as more information becomes available.</p>
-
-<p>If you are a UK national living in Norway and you are planning to travel out of Norway, you should follow the guidance provided on the <a rel="external" href="https://www.regjeringen.no/en/topics/european-policy/brits_brexit/id2630241/">Norwegian Government advice page</a> (in English) on extra documentation you will need to carry with you.</p>
-
-<h2 id="healthcare">Healthcare</h2>
-
-<p>You need to make sure you are correctly registered for healthcare as a resident in Norway.</p>
-
-<p>You can <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-norway/">read the NHS’s guidance on who is able to access healthcare in Norway and how to register</a>.</p>
-
-<p>You’ll pay into the Norwegian National Insurance Scheme (NIS) through your income tax. The NIS covers basic medical services, although you will sometimes have to pay a small fee. Children under 16 get free medical care.</p>
-
-<p>If you live in Norway and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
-
-<p>If you are resident in Norway, you should not be using a European Health Insurance Card (EHIC) from the UK to access healthcare in Norway.</p>
-
-<ul>
-  <li>you may use an EHIC to access state-provided healthcare during a temporary stay in another European Economic Area (EEA) country or Switzerland</li>
-  <li>the EHIC covers treatment that is medically necessary until your planned return home</li>
-  <li>an EHIC is not a replacement for comprehensive travel insurance</li>
-  <li>for more information you can read <a href="https://www.gov.uk/foreign-travel-advice">our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#eu-exit-update">advice on foreign travel insurance</a>
-</li>
-</ul>
-
-<p>You can read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/">NHS’s guidance on healthcare and studying abroad</a>.</p>
-
-<p>You can only change your GP twice in a year. <a rel="external" href="http://paguro.net/destinations/moving-to-norway/all-documents-oslo/norway_oslo_doctor">Find English-speaking doctors and dentists in Norway</a>.</p>
-
-<p>Ask your doctor about a <a rel="external" href="https://helsenorge.no/other-languages/english">health insurance receipt card</a> at your first GP visit.</p>
-
-<p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs">check your prescriptions are legal</a> in Norway.</p>
-
-<h3 id="healthcare-after-the-uk-leaves-the-eu">Healthcare after the UK leaves the EU</h3>
-
-<p>The UK has reached an agreement with the EEA EFTA states on citizens’ rights in a no deal scenario. The deal protects the rights of UK nationals living in the EEA EFTA states and EEA EFTA nationals living in the UK if the UK leaves the EU without a deal and will enable them to continue living their lives broadly as they do now.</p>
-
-<p>Social security coordination is covered by our citizens’ rights agreements for those residing in Norway. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Norway before UK leaves the EU, for as long as they reside in Norway. This includes students and S1 holders, but not those using an EHIC card as these are for temporary travel.</p>
-
-<p>The UK is working to ensure UK issued EHIC cards will continue to be accepted in EEA EFTA states. However, this will not currently be the case in the event of the UK leaving the EU without a deal. It is important that persons travelling always purchase comprehensive healthcare insurance.</p>
-
-<p>You can read <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-norway/">the NHS’s guidance about healthcare for UK nationals living in and visiting Norway and how it may change after the UK leaves the EU</a>.</p>
-
-<h2 id="working-in-norway">Working in Norway</h2>
-
-<p>See <a href="https://www.gov.uk/working-abroad">working in another EU country</a>.</p>
-
-<p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/acro_std.aspx?id=2379">UK criminal records check</a>.</p>
-
-<p>Once you have a job offer, you need to apply for a personal number at your local police station or your local <a rel="external" href="http://www.sua.no/en/">service centre for foreign workers</a>.</p>
-
-<h3 id="working-in-norway-after-the-uk-leaves-the-eu">Working in Norway after the UK leaves the EU</h3>
-
-<p>If you’re planning to start a business, provide a service, or do a job in a regulated profession after the UK leaves the EU, <a href="https://www.gov.uk/guidance/norway-providing-services-after-eu-exit">further guidance can be found here</a>.</p>
-
-<h2 id="money-and-tax">Money and tax</h2>
-
-<p>The UK has a double-taxation agreement with Norway to ensure people do not pay tax on the same income in both countries.</p>
-
-<p>You can read our guidance on:</p>
-
-<ul>
-  <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk">tax if you leave the UK to live abroad</a></li>
-  <li><a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice">tax on your UK income if you live abroad</a></li>
-  <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/norway/index_en.htm">paying income tax in Norway</a></li>
-  <li><a rel="external" href="https://www.skatteetaten.no/en/person/foreign/">Norwegian Tax Administration</a></li>
-</ul>
-
-<p>We recommend you get professional advice on paying tax in Norway. <a href="https://www.gov.uk/government/publications/norway-list-of-lawyers">Find an English speaking Norwegian lawyer</a>.</p>
-
-<p>If you’re working on the Norwegian continental shelf, it’s compulsory to become member of the Norwegian National Insurance Scheme. You must pay national insurance contributions to Norway even if you don’t pay taxes to Norway.</p>
-
-<h3 id="national-insurance">National Insurance</h3>
-
-<p>You may be able to <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
-
-<h3 id="money-and-tax-after-the-uk-leaves-the-eu">Money and tax after the UK leaves the EU</h3>
-
-<p>If the UK leaves the EU without a deal, it may become more expensive to use your UK bank card in Norway.</p>
-
-<p>Read more about <a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea">using a bank card, insurance or other financial service after the UK leaves the EU.</a>.</p>
-
-<p>The UK leaving the European Union will not change existing double taxation arrangements for UK nationals living in Norway. You should direct individual taxpayer questions about double taxation to the relevant tax authority.</p>
-
-<h2 id="pensions">Pensions</h2>
-
-<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad">moving or retiring abroad</a>.</p>
-
-<p>If you retire to Norway, you can claim:</p>
-
-<ul>
-  <li>your UK State pension or new UK State Pension. Contact the <a href="https://www.gov.uk/international-pension-centre">International Pension Centre</a> to claim</li>
-  <li>your pension from the <a rel="external" href="https://www.regjeringen.no/en/dep/asd/organisation/departments/the-department-of-pension-policy/id975/">Norwegian Pension Department</a>, if you have worked in Norway</li>
-  <li>
-<a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm">pensions from working abroad</a>, if you have worked in other EU countries</li>
-</ul>
-
-<h3 id="life-certificates-for-uk-state-pensions">Life certificates for UK state pensions</h3>
-
-<p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
-
-<h3 id="pensions-after-the-uk-leaves-the-eu">Pensions after the UK leaves the EU</h3>
-
-<p>The UK government will continue to pay State pension, child benefits and disability benefits to those eligible in the EU after the UK leaves the EU. Find <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on benefits and pensions in a no deal scenario</a> here.</p>
-
-<p>Social security coordination is covered by our citizens’ rights agreements in both a deal and no deal scenario. Current pension arrangements will continue to apply in full to UK nationals who are resident in Norway before the UK leaves the EU for as long as they reside in Norway.</p>
-
-<h2 id="benefits">Benefits</h2>
-
-<p>You may still be able to claim some UK benefits like child and disability benefits if you live in Norway. You can:</p>
-
-<ul>
-  <li>read our guidance on which <a href="https://www.gov.uk/claim-benefits-abroad">benefits you can claim if you live, move or travel abroad</a>
-</li>
-  <li>use our tool to <a href="https://www.gov.uk/uk-benefits-abroad">check which benefits you can claim while abroad</a>
-</li>
-</ul>
-
-<p>If you’re abroad for more than 4 weeks, many income-related benefits such as Pension Credit and Housing Benefit cannot be paid.</p>
-
-<p>You may be eligible to claim some Norwegian social security benefits after you’ve worked 6 months continually – <a rel="external" href="https://www.nav.no/en/Home/Benefits+and+services/Information+about+NAV+s+services+and+benefits">see Norwegian social security benefits</a>.</p>
-
-<p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals">request proof of the time you’ve worked in the UK</a> from HMRC if you are asked for this.</p>
-
-<h3 id="benefits-after-the-uk-leaves-the-eu">Benefits after the UK leaves the EU</h3>
-
-<p>The UK government will continue to pay State pension, child benefits and disability benefits to those eligible in the EU after the UK leaves the EU. Find <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on benefits and pensions in a no deal scenario here</a>.</p>
-
-<p>Social security coordination is covered by our citizens’ rights agreements in both a deal and no deal scenario. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Norway before the UK leaves the EU for as long as they reside in Norway.</p>
 
 <h2 id="driving-in-norway">Driving in Norway</h2>
 
 <p>You should exchange your UK licence for a Norwegian licence before the UK leaves the EU. You can still use your Norwegian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
-<p>Whilst we remain in the EU, UK licences can be exchanged for Norwegian ones without having to take a test.</p>
+<p>Whilst the UK remains in the EU, UK licences can be exchanged for Norwegian ones without having to take a test.</p>
 
 <p>For information on driving in Norway, read our guidance on:</p>
 
@@ -361,15 +246,151 @@ residency, healthcare and driving.
 
 <p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk">taking a vehicle out of the UK</a>.</p>
 
-<p>You can read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/norway/index_en.htm">car registration rules and taxes in Norway</a>. You may be exempt from some of these taxes. If so you will need certificates of exemption.</p>
+<p>You can read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/norway/index_en.htm">car registration rules and taxes in Norway</a>. You may be exempt from some of these taxes. If so, you will need certificates of exemption.</p>
 
-<h3 id="driving-after-the-uk-leaves-the-eu">Driving after the UK leaves the EU</h3>
+<h3 id="driving-after-brexit">Driving after Brexit</h3>
 
-<p>Please read our guidance on <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit">driving after the UK leaves the EU</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit">driving after Brexit</a>.</p>
 
-<p>The Norwegian government has proposed changes to their current regulation which would allow UK driving licences to continue to be exchanged for a Norwegian driving licence after the UK leaves the EU in the same way as before. However, this new regulation may not be in place by the time the UK leaves the EU. You can read guidance on <a rel="external" href="https://www.vegvesen.no/fag/publikasjoner/Offentlige-hoeringer/Hoering?key=2625517">the Norwegian Public Roads Administration site</a> for more information in Norwegian on the consultation.</p>
+<p>The Norwegian government has proposed changes to their current regulation which would allow UK driving licences to continue to be exchanged for a Norwegian driving licence after Brexit in the same way as before. However, this new regulation may not be in place by the time the UK leaves the EU. You can read <a rel="external" href="https://www.vegvesen.no/fag/publikasjoner/Offentlige-hoeringer/Hoering?key=2625517">guidance on the Norwegian Public Roads Administration site</a> for more information in Norwegian on the consultation.</p>
 
-<p>The <a rel="external" href="https://www.regjeringen.no/no/aktuelt/brexit-norske-forerkort-vil-gjelde-i-storbritannia--arbeider-for-fulle-forerrettigheter-for-personer-med-britisk-forerkort-i-norge/id2632776/">Norwegian government has confirmed</a> that travelers from the UK will not require an International Driving Permit after the UK leaves the EU. Those living in or visiting Norway can drive for up to three months on a UK licence.</p>
+<p>The Norwegian government has confirmed that <a rel="external" href="https://www.regjeringen.no/no/aktuelt/brexit-norske-forerkort-vil-gjelde-i-storbritannia--arbeider-for-fulle-forerrettigheter-for-personer-med-britisk-forerkort-i-norge/id2632776/">travellers from the UK will not require an International Driving Permit after Brexit</a>. Those living in or visiting Norway can drive for up to 3 months on a UK licence.</p>
+
+<h2 id="working-in-norway">Working in Norway</h2>
+
+<p>See <a href="https://www.gov.uk/working-abroad">working in another EU country</a>.</p>
+
+<p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/acro_std.aspx?id=2379">UK criminal records check</a>.</p>
+
+<p>Once you have a job offer, you need to apply for a personal number at your local police station or your local <a rel="external" href="http://www.sua.no/en/">service centre for foreign workers</a>.</p>
+
+<h3 id="working-in-norway-after-brexit">Working in Norway after Brexit</h3>
+
+<p>Read the <a href="https://www.gov.uk/guidance/norway-providing-services-after-eu-exit">guidance on providing services after Brexit</a> if you’re planning to start a business, provide a service, or do a job in a regulated profession after the UK leaves the EU.</p>
+
+<h2 id="healthcare">Healthcare</h2>
+
+<p>Make sure you are correctly registered for healthcare as a resident in Norway.</p>
+
+<p>Read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-norway/">NHS guidance on who is able to access healthcare in Norway and how to register</a>.</p>
+
+<p>You’ll pay into the Norwegian National Insurance Scheme (NIS) through your income tax. The NIS covers basic medical services, although you will sometimes have to pay a small fee. Children under 16 get free medical care.</p>
+
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
+<p>If you live in Norway and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
+
+<p>If you are resident in Norway, you must not use a European Health Insurance Card (EHIC) from the UK to access healthcare in Norway.</p>
+
+<p>When you travel from Norway for a temporary stay in another European Economic Area (<abbr title="European Economic Area">EEA</abbr>) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay:</p>
+
+<ul>
+  <li>the EHIC covers treatment that is medically necessary until your planned return home</li>
+  <li>an EHIC is not a replacement for comprehensive travel insurance</li>
+  <li>for more information you can read <a href="https://www.gov.uk/foreign-travel-advice">our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#eu-exit-update">advice on foreign travel insurance</a>
+</li>
+</ul>
+
+<p>If you are a student, read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/">NHS guidance on healthcare and studying abroad</a>.</p>
+
+<p>You can only change your GP twice in a year. <a rel="external" href="http://paguro.net/destinations/moving-to-norway/all-documents-oslo/norway_oslo_doctor">Find English-speaking doctors and dentists in Norway</a>.</p>
+
+<p>Ask your doctor about a <a rel="external" href="https://helsenorge.no/other-languages/english">health insurance receipt card</a> at your first GP visit.</p>
+
+<p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs">check your prescriptions are legal</a> in Norway.</p>
+
+<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
+
+<p>The UK has reached an agreement with the <abbr title="European Economic Area">EEA</abbr> <abbr title="European Free Trade Area">EFTA</abbr> states on citizens’ rights if there’s no deal. The deal protects the rights of UK nationals living in the <abbr title="European Economic Area">EEA</abbr> <abbr title="European Free Trade Area">EFTA</abbr> states and will allow them to continue living their lives broadly as they do now.</p>
+
+<p>Social security coordination is covered by the citizens’ rights agreements for those residing in Norway. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Norway before Brexit for as long as they reside in Norway. This includes students and S1 holders.</p>
+
+<p>If you’re travelling to other countries make sure you have comprehensive health insurance.</p>
+
+<p>Read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-norway/">NHS guidance about healthcare for UK nationals living in and visiting Norway and how it may change after Brexit</a>.</p>
+
+<h2 id="money-and-tax">Money and tax</h2>
+
+<p>The UK has a double-taxation agreement with Norway to ensure people do not pay tax on the same income in both countries.</p>
+
+<p>You can read our guidance on:</p>
+
+<ul>
+  <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk">tax if you leave the UK to live abroad</a></li>
+  <li><a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice">tax on your UK income if you live abroad</a></li>
+  <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/norway/index_en.htm">paying income tax in Norway</a></li>
+  <li><a rel="external" href="https://www.skatteetaten.no/en/person/foreign/">Norwegian Tax Administration</a></li>
+</ul>
+
+<p>We recommend you get professional advice on paying tax in Norway. <a href="https://www.gov.uk/government/publications/norway-list-of-lawyers">Find an English-speaking lawyer in Norway</a>.</p>
+
+<p>If you’re working on the Norwegian continental shelf, it’s compulsory to become member of the Norwegian National Insurance Scheme. You must pay National Insurance contributions to Norway even if you don’t pay taxes to Norway.</p>
+
+<h3 id="national-insurance">National Insurance</h3>
+
+<p>You may be able to <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
+
+<p>If you are employed or self-employed in the EU and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
+
+<p>If the end date on your form is after 31 October 2019, you should contact the relevant EU, <abbr title="European Economic Area">EEA</abbr> or Swiss authority to confirm whether you need to start paying social security contributions in that country after 31 October, as well as UK National Insurance contributions.</p>
+
+<p>Find out more about <a href="https://www.gov.uk/guidance/social-security-contributions-for-uk-and-eu-workers-if-the-uk-leaves-the-eu-with-no-deal">social security contributions after a no-deal Brexit</a>.</p>
+
+<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
+
+<p>Brexit will not change existing double taxation arrangements for UK nationals living in Norway. Send your questions about double taxation to the relevant tax authority.</p>
+
+<p>If there’s no deal, it may become more expensive to use your UK bank card in Norway. Read our guidance <a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea">using a bank card, insurance or other financial services after the UK leaves the EU</a>.</p>
+
+<h2 id="pensions">Pensions</h2>
+
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad">moving or retiring abroad</a>.</p>
+
+<p>If you retire to Norway, you can claim:</p>
+
+<ul>
+  <li>your UK State Pension or new UK State Pension. Contact the <a href="https://www.gov.uk/international-pension-centre">International Pension Centre</a> to claim</li>
+  <li>your pension from the <a rel="external" href="https://www.regjeringen.no/en/dep/asd/organisation/departments/the-department-of-pension-policy/id975/">Norwegian Pension Department</a>, if you have worked in Norway</li>
+  <li>
+<a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm">pensions from working abroad</a>, if you have worked in other EU countries</li>
+</ul>
+
+<h3 id="life-certificates-for-uk-state-pensions">Life certificates for UK State Pensions</h3>
+
+<p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
+
+<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+
+<p>The UK government will continue to pay State Pension, child benefits and disability benefits to those eligible in the EU after Brexit. Read <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on benefits and pensions if there is no deal</a>.</p>
+
+<p>Social security coordination is covered by our citizens’ rights agreements in both a deal and no-deal Brexit. Current pension arrangements will continue to apply in full to UK nationals who are resident in Norway before the UK leaves the EU for as long as they reside in Norway.</p>
+
+<h2 id="benefits">Benefits</h2>
+
+<p>You may still be able to claim some UK benefits like child and disability benefits if you live in Norway. You can:</p>
+
+<ul>
+  <li>read our guidance on which <a href="https://www.gov.uk/claim-benefits-abroad">benefits you can claim if you live, move or travel abroad</a>
+</li>
+  <li>use our tool to <a href="https://www.gov.uk/uk-benefits-abroad">check which benefits you can claim while abroad</a>
+</li>
+</ul>
+
+<p>Many income-related benefits such as Pension Credit and Housing Benefit cannot be paid to you if you’re abroad for more than 4 weeks.</p>
+
+<p>You may be eligible to claim some Norwegian social security benefits after you’ve worked 6 months continually – <a rel="external" href="https://www.nav.no/en/Home/Benefits+and+services/Information+about+NAV+s+services+and+benefits">see Norwegian social security benefits</a>.</p>
+
+<p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals">request proof of the time you’ve worked in the UK</a> from HMRC if you are asked for this.</p>
+
+<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+
+<p>The UK government will continue to pay State Pension, child benefits and disability benefits to those eligible in the EU after Brexit.</p>
+
+<p>Read the <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on benefits and pensions if there’s no deal</a>.</p>
+
+<p>Social security coordination is covered by our citizens’ rights agreements in both a deal and no-deal Brexit. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Norway before Brexit for as long as they reside in Norway.</p>
 
 <h2 id="voting">Voting</h2>
 
@@ -414,15 +435,15 @@ residency, healthcare and driving.
 
 <h2 id="pets">Pets</h2>
 
-<p>For travel to EEA/EFTA countries from the UK, pet owners should check the requirements of their destination country.</p>
+<p>For travel to <abbr title="European Economic Area">EEA</abbr> and <abbr title="European Free Trade Area">EFTA</abbr> countries from the UK, pet owners should check the requirements of their destination country.</p>
 
-<p>Read guidance on <a href="https://www.gov.uk/take-pet-abroad">travelling with pets</a></p>
+<p>Read guidance on <a href="https://www.gov.uk/take-pet-abroad">travelling with pets</a>.</p>
 
-<p>If you’re travelling with your pet for the first time you’ll have to visit your vet to get a pet passport.</p>
+<p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read guidance on <a href="https://www.gov.uk/guidance/pet-travel-to-europe-after-brexit">travelling with pets after Brexit</a></p>
+<p>Read guidance on <a href="https://www.gov.uk/guidance/pet-travel-to-europe-after-brexit">travelling with pets after Brexit</a> and see further advice about <a rel="external" href="https://www.mattilsynet.no/language/english/animals/travelling_with_pets/travelling_with_dogs_cats_and_ferrets_from_third_countries_and_territories_to_norway.23949">travelling with pets across Norwegian borders</a> from the Norwegian Food Safety Authority.</p>
 
-<p>For moving pet horses and other equines read <a href="https://www.gov.uk/guidance/export-horses-and-ponies-special-rules">guidance on export horses and ponies: special rules</a></p>
+<p>For moving pet horses and other equines read <a href="https://www.gov.uk/guidance/export-horses-and-ponies-special-rules">guidance on export horses and ponies: special rules</a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -444,8 +465,7 @@ residency, healthcare and driving.
 <p>You should read our guidance on:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#what-this-could-mean-for-you">returning to live in the UK</a></li>
-  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal">returning to live in the UK in the case of no-deal</a></li>
+  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal">access to benefits and services in the UK if there’s a no deal</a></li>
   <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#bringing-your-family-to-the-uk">bringing your family to the UK</a></li>
   <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal#access-to-higher-education-19-further-education-and-apprenticeship-funding-in-the-uk">access to higher education, 19+ further education and apprenticeship funding</a></li>
   <li><a href="https://www.gov.uk/importing-vehicles-into-the-uk">importing vehicles back to the UK</a></li>
@@ -466,12 +486,16 @@ residency, healthcare and driving.
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 26 June 2013
-    <br></br>Last updated 3 June 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 21 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-21T08:45:05.000+01:00">21 October 2019</time>
+              Brexit update: check you have correct documentation for travelling - see the passports and travel section for further information
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-03T16:39:19.000+01:00">3 June 2019</time>
               EU Exit update: added information to Passports and travel after the UK leaves the EU and Returning to the UK sections
@@ -528,7 +552,7 @@ residency, healthcare and driving.
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -547,35 +571,52 @@ residency, healthcare and driving.
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-a97de120" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-9b4b71a6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-a97de120" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-9b4b71a6" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-a97de120" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-norway" data-track-options="{"dimension28":"1","dimension29":"Norway: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-norway">Norway: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-switzerland" data-track-options="{"dimension28":"5","dimension29":"Living in Switzerland"}" href="/guidance/living-in-switzerland">Living in Switzerland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-belgium" data-track-options="{"dimension28":"5","dimension29":"Living in Belgium"}" href="/guidance/living-in-belgium">Living in Belgium</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-slovakia" data-track-options="{"dimension28":"5","dimension29":"Living in Slovakia"}" href="/guidance/living-in-slovakia">Living in Slovakia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-greece" data-track-options="{"dimension28":"5","dimension29":"Living in Greece"}" href="/guidance/living-in-greece">Living in Greece</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-a97de120" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-9b4b71a6" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-a97de120" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-related_guides-9b4b71a6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-norway" data-track-options="{"dimension28":"1","dimension29":"Norway: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-norway">Norway: notarial and documentary services</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-9b4b71a6" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-9b4b71a6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
 
   </ul>
 </nav>
@@ -601,9 +642,9 @@ residency, healthcare and driving.
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ff1e79aa" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-750691e2" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-ff1e79aa" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-750691e2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
