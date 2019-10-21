@@ -1,24 +1,19 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    The veterinary sector and preparing for EU Exit
+    Prepare your veterinary business for Brexit
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    If the UK leaves the EU without a deal, there may be changes that affect private, official or abattoir veterinarians.
-
-  </p>
+  <p class="gem-c-lead-paragraph">What you need to do as a veterinarian to prepare for a no-deal Brexit.
+</p>
 
   </div>
 </div>
@@ -26,11 +21,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 7 March 2019
-    <br></br>Last updated 24 June 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 21 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -40,7 +35,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
                 </span>
             </dd>
         </dl>
@@ -62,58 +57,66 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#importing-and-exporting" data-track-options="{"dimension29":"Importing and exporting"}" href="#importing-and-exporting">Importing and exporting</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#changes-to-pet-travel" data-track-options="{"dimension29":"Changes to pet travel"}" href="#changes-to-pet-travel">Changes to pet travel</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#importing-and-exporting" data-track-options="{"dimension29":"Importing and exporting"}" href="#importing-and-exporting">Importing and exporting</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#veterinary-medicines" data-track-options="{"dimension29":"Veterinary medicines"}" href="#veterinary-medicines">Veterinary medicines</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#changes-to-pet-travel" data-track-options="{"dimension29":"Changes to pet travel"}" href="#changes-to-pet-travel">Changes to pet travel</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#your-employees" data-track-options="{"dimension29":"Your employees"}" href="#your-employees">Your employees</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#veterinary-medicines" data-track-options="{"dimension29":"Veterinary medicines"}" href="#veterinary-medicines">Veterinary medicines</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#veterinary-qualifications" data-track-options="{"dimension29":"Veterinary qualifications"}" href="#veterinary-qualifications">Veterinary qualifications</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#your-employees" data-track-options="{"dimension29":"Your employees"}" href="#your-employees">Your employees</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#data-protection" data-track-options="{"dimension29":"Data protection"}" href="#data-protection">Data protection</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#more-information" data-track-options="{"dimension29":"More information"}" href="#more-information">More information</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#veterinary-qualifications" data-track-options="{"dimension29":"Veterinary qualifications"}" href="#veterinary-qualifications">Veterinary qualifications</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
+<div class="call-to-action">
+<h2 id="stay-up-to-date">Stay up to date</h2>
+
+<p>A Brexit deal has been agreed but needs to be ratified. The UK could still leave with no deal on 31 October 2019 if the UK and EU do not approve and sign the withdrawal agreement.</p>
+
+<p>This page tells you how to prepare for Brexit and will be updated if anything changes. <a href="https://www.gov.uk/email-signup/?topic=/brexit">Sign up for email alerts</a> to get the latest information.</p>
+</div>
+
 <h2 id="importing-and-exporting">Importing and exporting</h2>
 
 <p>There are some actions you’ll need to take if you certify animals, germplasm or animal products for import or export between the UK and EU.</p>
 
 <h3 id="exporting-animals-germplasm-animal-products-fish-and-fishery-products">Exporting animals, germplasm, animal products, fish and fishery products</h3>
 
-<p>If the UK leaves the EU without a deal, the way animals, animal products, fish, shellfish, crustaceans and fishery products are moved to the EU will change. If you’re a private or an official veterinarian (<abbr title="Official Veterinarian">OV</abbr>), you’ll need to be aware of these changes.</p>
+<p>If you’re a private or an official veterinarian (<abbr title="Official Veterinarian">OV</abbr>), you’ll need to be aware of changes in the way animals, animal products, fish, shellfish, crustaceans and fishery products are moved to the EU.</p>
 
 <p>Exporters will need to apply for an export health certificate (<abbr title="Export Health Certificate">EHC</abbr>) in advance of moving consignments to the EU. If you’re an <abbr title="Official Veterinarian">OV</abbr>, you’ll need to authorise the <abbr title="Export Health Certificate">EHC</abbr> following an inspection of the consignment.</p>
 
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/exporting-animals-animal-products-fish-and-fishery-products-to-the-eu-after-eu-exit">exporting animals, animal products, fish and fishery products to the EU after EU Exit</a>.</p>
+<p>Read the guidance on <a href="https://www.gov.uk/guidance/exporting-animals-animal-products-fish-and-fishery-products-to-the-eu-after-eu-exit">exporting animals, animal products, fish and fishery products if the UK leaves the EU with no deal</a>.</p>
 
 <h3 id="exporting-equines">Exporting equines</h3>
 
 <p>For equine owners, you may also need to supply the correct identification documents for their equine in addition to an <abbr title="Export Health Certificate">EHC</abbr> for each journey.</p>
 
 <p>If the UK becomes a listed non-EU (third) country, you’ll need to carry out additional blood tests to prove the equine is free of certain diseases. The equine owner will need to contact you at least 6 weeks before travelling to allow time for these additional checks. These tests will only be valid if completed within a specific time period before travel.</p>
-
-<p>The UK will no longer be part of the <a rel="external" href="https://www.britishhorseracing.com/wp-content/uploads/2014/03/TPA-Briefing.pdf">Tripartite Agreement</a>. All equines travelling to the EU will have to follow the same process regardless of which EU country they are travelling to.</p>
 
 <p>Read the guidance on <a href="https://www.gov.uk/guidance/export-horses-and-ponies-special-rules">export horses and ponies: special rules</a>.</p>
 
@@ -124,15 +127,15 @@
 
 <h3 id="new-import-notification-system">New import notification system</h3>
 
-<p>If the UK leaves the EU without a deal, there will be no additional checks at the UK borders on animal imports that originated in the EU. However, the way animal and animal products importers tell the UK authorities of these imports will change.</p>
+<p>There will be no additional checks at the UK borders on animal imports that originated in the EU if there is a no deal. However, the way animal and animal products importers tell the UK authorities of these imports will change.</p>
 
 <p>They’ll no longer use the EU’s import system Trade Control and Expert System (<abbr title="Trade Control and Expert System">TRACES</abbr>) for importing into the UK. The new <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system-ipaffs-guidance">Import of Products, Animals, Food and Feed System (<abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr>) system</a> will replace this.</p>
 
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-after-eu-exit">importing animals, animal products and high-risk food and feed not of animal origin after EU Exit</a>.</p>
+<p>Read the guidance on <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-after-eu-exit">importing animals, animal products and high-risk food and feed not of animal origin if the UK leaves the EU with no deal</a>.</p>
 
 <h2 id="changes-to-pet-travel">Changes to pet travel</h2>
 
-<p>The rules for taking pets to any EU country will change if the UK leaves the EU without a deal and is treated as an unlisted country.</p>
+<p>The rules for taking pets to any EU country will change.</p>
 
 <p>If you’re a private vet or an <abbr title="Official Veterinarian">OV</abbr>, you’ll need to advise pet owners on what steps they can take to prepare for all scenarios.</p>
 
@@ -140,13 +143,13 @@
 
 <p>Read the guidance on <a href="https://www.gov.uk/guidance/pet-travel-to-europe-after-brexit">Pet Travel to Europe after Brexit</a>.</p>
 
-<p>You can find the latest advice for OVs on the <a rel="external" href="http://apha.defra.gov.uk/vet-gateway/index.htm"><abbr title="Animal and Plant Health Agency">APHA</abbr> Vet Gateway</a> when it becomes available.</p>
+<p>You can find the latest advice for OVs on the <a rel="external" href="http://apha.defra.gov.uk/vet-gateway/index.htm"><abbr title="Animal and Plant Health Agency">APHA</abbr> Vet Gateway</a>.</p>
 
 <h2 id="veterinary-medicines">Veterinary medicines</h2>
 
-<p>If the UK leaves the EU without a deal, the new UK veterinary medicine regulation will make sure you continue to have access to safe and effective veterinary medicines.</p>
+<p>The new UK veterinary medicine regulation will make sure you continue to have access to safe and effective veterinary medicines.</p>
 
-<p>All registered veterinary medicines in the UK will continue to be registered after EU Exit.</p>
+<p>All registered veterinary medicines in the UK will continue to be registered after Brexit.</p>
 
 <p>For veterinarians, there will be changes to the following processes:</p>
 
@@ -161,69 +164,31 @@
 
 <p>There are certain schemes and processes you should be aware of if you employ people.</p>
 
-<h3 id="right-to-work-checks">Right to work checks</h3>
-
-<p>Until January 2021 you should continue the same right to work checks on all EU/EEA and Swiss citizens, by using their passport or national identity card.</p>
-
-<p>You will not need to distinguish between EU/EEA and Swiss citizens who were resident in the UK before or after the UK leaves the EU.</p>
-
-<p>Find out how to <a href="https://www.gov.uk/check-job-applicant-right-to-work">check an applicant’s right to work</a> and <a href="https://www.gov.uk/guidance/employing-eu-eea-and-swiss-citizens-and-their-family-members-after-brexit#right-to-work">read the guidance on employing EU, EEA and Swiss citizens after Brexit</a>.</p>
-
-<h3 id="eueea-and-swiss-citizens-living-in-the-uk-before-the-uk-leaves-the-eu">EU/EEA and Swiss citizens living in the UK before the UK leaves the EU</h3>
-
-<p>If the UK leaves the EU without a deal, EU/EEA and Swiss citizens who are resident in the UK before the UK leaves the EU will be able to <a href="https://www.gov.uk/settled-status-eu-citizens-families">apply to the EU Settlement Scheme</a> to get settled or pre-settled status. This will mean they can continue to live, work and study in the UK.</p>
-
-<p>EU/EEA and Swiss citizens must apply by 31 December 2020 if the UK leaves the EU without a deal.</p>
-
-<p>You can use the <a href="https://www.gov.uk/government/publications/eu-settlement-scheme-employer-toolkit">EU Settlement Scheme guidance for employers</a> to give further information to your employees.</p>
-
-<h3 id="eueea-and-swiss-citizens-who-arrive-in-the-uk-after-the-uk-leaves-the-eu">EU/EEA and Swiss citizens who arrive in the UK after the UK leaves the EU</h3>
-
-<p>If the UK leaves the EU without a deal, EU, EEA and Swiss citizens arriving in the UK from exit day to 31 December 2020 can continue to come to the UK, to live, work and study without applying for a visa in advance.</p>
-
-<p>After free movement ends, if they want to stay for longer than 3 months, they can read the <a href="https://www.gov.uk/guidance/european-temporary-leave-to-remain-in-the-uk">guidance on staying in the UK</a> to find out what they’ll need to do.</p>
-
-<p>Irish citizens can continue to live, work and study in the UK, just as before.</p>
-
-<div class="call-to-action">
-<p>From 1 January 2021, a new <a href="https://www.gov.uk/government/publications/the-uks-future-skills-based-immigration-system">skills-based immigration system</a> will launch.</p>
-</div>
-
-<p>For non-EU nationals, EU Exit will not affect the application process for work visas.</p>
+<p>Find out more in <a href="https://www.gov.uk/guidance/employing-eu-eea-and-swiss-citizens-and-their-family-members-after-brexit">Employing EU, EEA and Swiss citizens and their family members after Brexit</a></p>
 
 <h2 id="veterinary-qualifications">Veterinary qualifications</h2>
 
 <p>If you’re an EU and EEA national currently registered with the Royal College of Veterinary Surgeons (<abbr title="Royal College of Veterinary Surgeons">RCVS</abbr>), you’ll continue to have your registration recognised.</p>
 
-<p>After the UK leaves the EU, <abbr title="Royal College of Veterinary Surgeons">RCVS</abbr> will make sure all veterinary qualifications meet their required equivalent standards. This will apply to all new registrants after we leave the EU.</p>
+<p><abbr title="Royal College of Veterinary Surgeons">RCVS</abbr> will make sure all veterinary qualifications meet their required equivalent standards. This will apply to all new registrants after Brexit.</p>
 
 <p>The majority of EU/EEA vet degrees already meet these standards. You can contact the <a rel="external" href="https://www.rcvs.org.uk/who-we-are/contact-us/"><abbr title="Royal College of Veterinary Surgeons">RCVS</abbr></a> to check if your degree is recognised.</p>
-
-<h2 id="data-protection">Data protection</h2>
-
-<p>Your veterinary business will need to make sure it follows data protection law if the UK leaves the EU without a deal.</p>
-
-<p>If you operate across the EU or exchange personal data with organisations in the EEA, there may be changes that you need to make before the UK leaves the EU.</p>
-
-<p>Read the <a href="https://www.gov.uk/government/publications/data-protection-eu-exit-guidance/leaving-the-eu-without-a-deal-6-steps-to-take">6 step process</a> and the <a rel="external" href="https://ico.org.uk/for-organisations/data-protection-and-brexit/data-protection-if-there-s-no-brexit-deal/">data protection guidance from the Information Commissioner’s Office (<abbr title="Information Commissioner's Office">ICO</abbr>)</a>.</p>
-
-<p>You can also <a rel="external" href="https://ico.org.uk/for-organisations/data-protection-and-brexit/standard-contractual-clauses-for-transfers-from-the-eea-to-the-uk-interactive-tool/">check if you can use standard contractual clauses (<abbr title="Standard contractual clauses">SCCs</abbr>)</a> for transfers from the EEA to the UK.</p>
-
-<h2 id="more-information">More information</h2>
-
-<p>Visit <a rel="external" href="https://euexitbusiness.campaign.gov.uk/">Prepare your business for EU Exit</a> to find more guidance on policy changes relevant to your sector and sign up for updates.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 7 March 2019
-    <br></br>Last updated 24 June 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 21 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-21T09:48:44.000+01:00">21 October 2019</time>
+              Stay up to date section updated to reflect the latest deal status 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-24T10:53:08.000+01:00">24 June 2019</time>
               Updates to the 'Your employees' section
@@ -240,7 +205,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -259,20 +224,20 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-1f898842" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-8906b7ab" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1f898842" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-8906b7ab" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find EU Exit guidance for your business"}" href="/find-eu-exit-guidance-business">Find EU Exit guidance for your business</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
 
   </ul>
 </nav>
@@ -298,9 +263,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dfec00f6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-98c53abe" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-dfec00f6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-98c53abe" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
