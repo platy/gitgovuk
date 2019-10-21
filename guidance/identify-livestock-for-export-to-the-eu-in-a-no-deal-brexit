@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 September 2019
-    <br></br>Last updated 11 October 2019
+    <br></br>Last updated 21 October 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -61,15 +61,19 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#changes-to-export-rules-for-identifying-livestock" data-track-options="{"dimension29":"Changes to export rules for identifying livestock"}" href="#changes-to-export-rules-for-identifying-livestock">Changes to export rules for identifying livestock</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#how-to-get-gb-or-826-ear-tags" data-track-options="{"dimension29":"How to get GB or 826 ear tags"}" href="#how-to-get-gb-or-826-ear-tags">How to get GB or 826 ear tags</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#changes-to-export-rules-for-identifying-livestock" data-track-options="{"dimension29":"Changes to export rules for identifying livestock"}" href="#changes-to-export-rules-for-identifying-livestock">Changes to export rules for identifying livestock</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#wider-exporting-changes" data-track-options="{"dimension29":"Wider exporting changes"}" href="#wider-exporting-changes">Wider exporting changes</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#how-to-get-gb-or-826-ear-tags" data-track-options="{"dimension29":"How to get GB or 826 ear tags"}" href="#how-to-get-gb-or-826-ear-tags">How to get GB or 826 ear tags</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#wider-exporting-changes" data-track-options="{"dimension29":"Wider exporting changes"}" href="#wider-exporting-changes">Wider exporting changes</a>
 
         </li>
     </ol>
@@ -79,6 +83,16 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
+<div class="call-to-action">
+<h2 id="stay-up-to-date">Stay up to date</h2>
+
+<p>A Brexit deal has been agreed but needs to be ratified. The UK could still leave the EU with no deal on 31 October if the UK and EU do not approve and sign the withdrawal agreement.
+<br></br><br></br>
+This page tells you how to prepare for Brexit. It will be updated if anything changes. <a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for government-wide email alerts</a> about Brexit. 
+<br></br><br></br>
+<a rel="external" href="https://public.govdelivery.com/accounts/UKDEFRA/subscriber/topics?qsp=CODE_RED">Sign up for Defra alerts</a> about the trade sector.</p>
+</div>
+
 <p>You can continue exporting livestock to the EU in a no-deal Brexit but you’ll need to follow some extra rules on ear tagging.</p>
 
 <p>There are also <a href="https://www.gov.uk/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">wider exporting changes you’ll need to be aware of</a>.</p>
@@ -106,14 +120,16 @@
 
 <p>Continue to tag your cattle with the country code ‘UK’ and their individual ID number.</p>
 
-<p>You’ll need to add an extra tag with the ISO country code of either:</p>
+<p>You’ll need to add an extra tag with an ISO country code and the cattle’s individual ID number.</p>
+
+<p>In England, the ISO code must be ‘GB’.  For Wales, Scotland and Northern Ireland, you can use either:</p>
 
 <ul>
   <li>GB</li>
   <li>826</li>
 </ul>
 
-<p>You do not need to add the cattle’s individual ID number to this tag. You can use any type of tag, for example, a flag or button tag.</p>
+<p>You can use any type of tag, for example, a flag or button tag.</p>
 
 <p>If you’re exporting cattle for slaughter, they also need to be freeze-branded on the hind quarters with an L mark.</p>
 
@@ -135,7 +151,12 @@
 
 <p>If your goats are electronically identified, they are already identified with the correct ISO country code ‘826’ for exporting in a no-deal Brexit.</p>
 
-<p>If your goats have a conventional pair of tags (non-electronic) then you’ll need to make sure they have a new tag with the ISO country code ‘GB’ or ‘826’.</p>
+<p>If your goats have a conventional pair of tags (non-electronic) then you’ll need to make sure they have a new tag which includes:</p>
+
+<ul>
+  <li>the ISO country code ‘GB’ or ‘826’</li>
+  <li>the animal’s individual ID number</li>
+</ul>
 
 <h2 id="how-to-get-gb-or-826-ear-tags">How to get GB or 826 ear tags</h2>
 
@@ -164,10 +185,18 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 September 2019
-    <br></br>Last updated 11 October 2019
+    <br></br>Last updated 21 October 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-21T10:07:24.000+01:00">21 October 2019</time>
+              Updated information on Brexit deal.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-16T17:28:59.000+01:00">16 October 2019</time>
+              Updates to tagging for cattle and goats
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-11T11:33:28.000+01:00">11 October 2019</time>
               Information added on extra marking for cattle intended for slaughter.
@@ -203,16 +232,16 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-1bf0ef4e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-d035950e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-1bf0ef4e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-d035950e" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-1bf0ef4e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-d035950e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -228,9 +257,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1bf0ef4e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d035950e" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-1bf0ef4e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-d035950e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -261,9 +290,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0b8bbeb9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d06b09ba" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-0b8bbeb9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d06b09ba" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
