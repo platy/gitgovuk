@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    What certificates you need to export live animals from the UK, and what you'll need to do in a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">What certificates you need to export live animals from the UK, and what you'll need to do in a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 9 November 2016
-    <br></br>Last updated 30 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 21 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
+                  <a class="govuk-link" href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
                 </span>
             </dd>
         </dl>
@@ -58,40 +56,48 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#what-youll-need-to-do-in-a-no-deal-brexit" data-track-options="{"dimension29":"What you’ll need to do in a no-deal Brexit"}" href="#what-youll-need-to-do-in-a-no-deal-brexit">What you’ll need to do in a no-deal Brexit</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#what-youll-need-to-do-in-a-no-deal-brexit" data-track-options="{"dimension29":"What you’ll need to do in a no-deal Brexit"}" href="#what-youll-need-to-do-in-a-no-deal-brexit">What you’ll need to do in a no-deal Brexit</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#within-eu" data-track-options="{"dimension29":"Within the EU: current rules"}" href="#within-eu">Within the EU: current rules</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#within-eu" data-track-options="{"dimension29":"Within the EU: current rules"}" href="#within-eu">Within the EU: current rules</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#check-if-your-animal-holding-needs-to-be-registered-or-approved" data-track-options="{"dimension29":"Check if your animal holding needs to be registered or approved"}" href="#check-if-your-animal-holding-needs-to-be-registered-or-approved">Check if your animal holding needs to be registered or approved</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#check-if-your-animal-holding-needs-to-be-registered-or-approved" data-track-options="{"dimension29":"Check if your animal holding needs to be registered or approved"}" href="#check-if-your-animal-holding-needs-to-be-registered-or-approved">Check if your animal holding needs to be registered or approved</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#apply-to-register-your-holding" data-track-options="{"dimension29":"Apply to register your holding"}" href="#apply-to-register-your-holding">Apply to register your holding</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#apply-to-register-your-holding" data-track-options="{"dimension29":"Apply to register your holding"}" href="#apply-to-register-your-holding">Apply to register your holding</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#outside-eu" data-track-options="{"dimension29":"Outside the EU: current rules"}" href="#outside-eu">Outside the EU: current rules</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#outside-eu" data-track-options="{"dimension29":"Outside the EU: current rules"}" href="#outside-eu">Outside the EU: current rules</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#transporting-animals" data-track-options="{"dimension29":"Transporting animals"}" href="#transporting-animals">Transporting animals</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#transporting-animals" data-track-options="{"dimension29":"Transporting animals"}" href="#transporting-animals">Transporting animals</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#endangered-animals" data-track-options="{"dimension29":"Endangered animals"}" href="#endangered-animals">Endangered animals</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#endangered-animals" data-track-options="{"dimension29":"Endangered animals"}" href="#endangered-animals">Endangered animals</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#circuses" data-track-options="{"dimension29":"Circuses"}" href="#circuses">Circuses</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#circuses" data-track-options="{"dimension29":"Circuses"}" href="#circuses">Circuses</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -100,9 +106,11 @@
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK will leave the EU on 31 October. This page tells you what to do if there’s a no-deal Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
-
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for  email alerts</a> to get the latest information.</p>
+<p>A Brexit deal has been agreed but needs to be ratified. The UK could still leave the EU with no deal on 31 October if the UK and EU do not approve and sign the withdrawal agreement.
+<br></br><br></br>
+This page tells you how to prepare for Brexit. It will be updated if anything changes. <a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for government-wide email alerts</a> about Brexit. 
+<br></br><br></br>
+<a rel="external" href="https://public.govdelivery.com/accounts/UKDEFRA/subscriber/topics?qsp=CODE_RED">Sign up for Defra alerts</a> about Brexit and the trade sector.</p>
 </div>
 
 <h2 id="what-youll-need-to-do-in-a-no-deal-brexit">What you’ll need to do in a no-deal Brexit</h2>
@@ -144,11 +152,11 @@
   <li>Include the certificate when you export your consignment.</li>
 </ol>
 
-<p>Instead of using <abbr title="Trade Control and Expert System">TRACES</abbr>,  you can complete <span id="attachment_3624776" class="attachment-inline">
+<p>Instead of using <abbr title="Trade Control and Expert System">TRACES</abbr>,  you can complete <span id="attachment_3747765" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/718791/form-exa31.pdf">Application for Veterinary Health Certification (EXA31)</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">829KB</span>, <span class="page-length">7 pages</span>)
 </span>
- using the <span id="attachment_3624785" class="attachment-inline">
+ using the <span id="attachment_3747774" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/581182/notes-exa31.pdf">guidance notes</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">104KB</span>, <span class="page-length">6 pages</span>)
 </span>
@@ -185,7 +193,7 @@
 </div>
 
 <h2 id="apply-to-register-your-holding">Apply to register your holding</h2>
-<p>Complete the <span id="attachment_3624786" class="attachment-inline">
+<p>Complete the <span id="attachment_3747775" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/815766/form-ec3163.pdf">Application from the Owner or Manager of a Premises for Registration (form EC3163)</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">62KB</span>, <span class="page-length">3 pages</span>)
 </span>
@@ -197,7 +205,7 @@
 
 <h3 id="get-holding-approved">Apply to get your holding approved</h3>
 
-<p>Complete <span id="attachment_3624773" class="attachment-inline">
+<p>Complete <span id="attachment_3747762" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/815767/form-ec3164.pdf">Application of an Establishment for Approval (form EC3164)</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">66.8KB</span>, <span class="page-length">3 pages</span>)
 </span>
@@ -207,7 +215,7 @@
 
 <p>If you’re in Scotland or Wales, send it to the Veterinary Lead Scotland or Veterinary Lead Wales at your local <abbr title="Animal and Plant Health Agency">APHA</abbr> office. To find these, contact <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening"><abbr title="Animal and Plant Health Agency">APHA</abbr></a>.</p>
 
-<p>Form EC3164 is also available in <span id="attachment_3624774" class="attachment-inline">
+<p>Form EC3164 is also available in <span id="attachment_3747763" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/762224/form-ec3164w.pdf">Welsh (Cymraeg)</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">116KB</span>, <span class="page-length">3 pages</span>)
 </span>
@@ -299,7 +307,7 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
 
 <h3 id="regular-exports-for-public-exhibition">Regular exports for public exhibition</h3>
 
-<p>If you regularly take endangered circus animals abroad, you could complete <span id="attachment_3624788" class="attachment-inline">
+<p>If you regularly take endangered circus animals abroad, you could complete <span id="attachment_3747777" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/570088/form-fed0173.pdf">travelling exhibition certificate (form FED0173)</a>
   (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">64.4KB</span>, <span class="page-length">2 pages</span>)
 </span>
@@ -318,10 +326,14 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 9 November 2016
-    <br></br>Last updated 30 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 21 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-21T10:33:13.000+01:00">21 October 2019</time>
+              Updated information on Brexit deal.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-30T10:26:43.000+01:00">30 August 2019</time>
               Replaced information about endangered animals with links to pages with more comprehensive information on CITES and what to do if there's a no-deal Brexit.
@@ -370,7 +382,7 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -398,7 +410,7 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
       <div data-module="gemstepnav" class="gem-c-step-nav js-hidden " data-id="e169b2ac-8c90-4789-8e6c-3657729e21b2" data-show-text="show" data-hide-text="hide" data-show-all-text="Show all" data-hide-all-text="Hide all">
     <ol class="gem-c-step-nav__steps">
         <li class="gem-c-step-nav__step js-step
-          " id="check-if-your-business-has-a-uk-eori-number" data-track-count="stepNavSection">
+          " id="make-sure-your-business-has-an-eori-number-that-starts-with-gb" data-track-count="stepNavSection">
           <div class="gem-c-step-nav__header js-toggle-panel" data-position="1">
             <h3 class="gem-c-step-nav__title">
               <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
@@ -410,23 +422,46 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
               </span>
 
               <span class="js-step-title">
-                Check if your business has a UK EORI number
+                Make sure your business has an EORI number that starts with GB
               </span>
 </h3>          </div>
 
-          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-if-your-business-has-a-uk-eori-number-1">
-              <p class="gem-c-step-nav__paragraph">Your business will have a UK Economic Operator Registration and Identification (EORI) number if you’ve traded with countries outside the EU. UK EORI numbers start with GB.</p>
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-make-sure-your-business-has-an-eori-number-that-starts-with-gb-1">
+              <p class="gem-c-step-nav__paragraph">You'll need an Economic Operator Registration and Identification (EORI) number starting with GB to continue exporting goods.</p>
 
-              <p class="gem-c-step-nav__paragraph">You'll need to get a UK EORI number if you do not have one. </p>
-
-              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="1.1" class="gem-c-step-nav__link js-link" href="/eori?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Get a UK EORI number </a></li></ol>
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="1.1" class="gem-c-step-nav__link js-link" href="/eori?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Get an EORI number </a></li></ol>
 
           </div>
 
         </li>
         <li class="gem-c-step-nav__step js-step
-          " id="decide-who-will-make-the-customs-declarations" data-track-count="stepNavSection">
+          " id="check-your-importer-has-an-eu-eori-number" data-track-count="stepNavSection">
           <div class="gem-c-step-nav__header js-toggle-panel" data-position="2">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--logic">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      and
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check your importer has an EU EORI number
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-your-importer-has-an-eu-eori-number-2">
+              <p class="gem-c-step-nav__paragraph">Your importer will need an EU EORI number. </p>
+
+              <p class="gem-c-step-nav__paragraph">You'll need to get an EU EORI number if you're exporting to your own business within the EU. You can get one from the customs authority in any EU country.</p>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="decide-who-will-make-the-export-declarations" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="3">
             <h3 class="gem-c-step-nav__title">
               <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
                 <span class="gem-c-step-nav__circle-inner">
@@ -437,26 +472,49 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
               </span>
 
               <span class="js-step-title">
-                Decide who will make the customs declarations
+                Decide who will make the export declarations
               </span>
 </h3>          </div>
 
-          <div class="gem-c-step-nav__panel js-panel" id="step-panel-decide-who-will-make-the-customs-declarations-2">
-              <p class="gem-c-step-nav__paragraph">Contact the organisation that transports your goods out of the country to find out if they can make customs declarations for your goods.</p>
-
-              <p class="gem-c-step-nav__paragraph">If they cannot, you can either hire an agent to make the declarations, or make the declarations yourself. </p>
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-decide-who-will-make-the-export-declarations-3">
+              <p class="gem-c-step-nav__paragraph">You can hire someone to deal with customs for you, or you can do it yourself.</p>
 
               <ol class="gem-c-step-nav__list " data-length="2">
-<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.1" class="gem-c-step-nav__link js-link" href="/guidance/customs-declarations-for-goods-taken-out-of-the-eu?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how to make customs declarations yourself </a></li>
-<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.2" class="gem-c-step-nav__link js-link" href="/guidance/appoint-someone-to-deal-with-customs-on-your-behalf?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how to hire an agent to make customs declarations for you </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="3.1" class="gem-c-step-nav__link js-link" href="/guidance/appoint-someone-to-deal-with-customs-on-your-behalf?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how to hire someone to make customs declarations for you </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="3.2" class="gem-c-step-nav__link js-link" href="/guidance/customs-declarations-for-goods-taken-out-of-the-eu?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how to make customs declarations yourself </a></li>
 </ol>
 
           </div>
 
         </li>
         <li class="gem-c-step-nav__step js-step
-          " id="apply-to-make-exporting-easier" data-track-count="stepNavSection">
-          <div class="gem-c-step-nav__header js-toggle-panel" data-position="3">
+          " id="decide-if-you-want-to-export-your-goods-using-transit" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="4">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--logic">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      and
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Decide if you want to export your goods using transit 
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-decide-if-you-want-to-export-your-goods-using-transit-4">
+              <p class="gem-c-step-nav__paragraph">You may be able to use the Common Transit Convention (CTC) to simplify how your goods pass through customs and when your importer pays customs duties.</p>
+
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="4.1" class="gem-c-step-nav__link js-link" href="/guidance/what-you-need-to-move-goods-between-or-through-common-transit-countries-including-the-eu?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out if you can use the CTC </a></li></ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="check-the-rate-of-tax-and-duty-for-your-goods" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="5">
             <h3 class="gem-c-step-nav__title">
               <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
                 <span class="gem-c-step-nav__circle-inner">
@@ -467,19 +525,19 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
               </span>
 
               <span class="js-step-title">
-                Apply to make exporting easier
+                Check the rate of tax and duty for your goods
               </span>
 </h3>          </div>
 
-          <div class="gem-c-step-nav__panel js-panel" id="step-panel-apply-to-make-exporting-easier-3">
-              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="3.1" class="gem-c-step-nav__link js-link" href="/guidance/customs-procedures-if-the-uk-leaves-the-eu-without-a-deal?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Decide which customs procedures to apply for to make exporting easier </a></li></ol>
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-the-rate-of-tax-and-duty-for-your-goods-5">
+              <p class="gem-c-step-nav__paragraph">Your importer will need to pay tax and duty on your goods after Brexit. This will depend on the classification of the goods.</p>
 
           </div>
 
         </li>
         <li class="gem-c-step-nav__step js-step
-          " id="check-what-your-customers-will-need-to-pay" data-track-count="stepNavSection">
-          <div class="gem-c-step-nav__header js-toggle-panel" data-position="4">
+          " id="check-what-you-need-to-do-for-the-type-of-goods-you-export" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="6">
             <h3 class="gem-c-step-nav__title">
               <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
                 <span class="gem-c-step-nav__circle-inner">
@@ -490,19 +548,25 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
               </span>
 
               <span class="js-step-title">
-                Check what your customers will need to pay
+                Check what you need to do for the type of goods you export
               </span>
 </h3>          </div>
 
-          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-what-your-customers-will-need-to-pay-4">
-              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="4.1" class="gem-c-step-nav__link js-link" href="/government/collections/exporting-after-eu-exit-country-by-country?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2#europe">Check what your customers will need to pay in the countries you’re exporting to </a></li></ol>
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-what-you-need-to-do-for-the-type-of-goods-you-export-6">
+              <p class="gem-c-step-nav__paragraph">There might be other things you need to do, depending on what you're exporting. </p>
+
+              <ol class="gem-c-step-nav__list " data-length="3">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="6.1" class="gem-c-step-nav__link js-link" href="/starting-to-export/licences?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Check if you'll need to apply for an export licence </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="6.2" class="gem-c-step-nav__link js-link" href="/guidance/exporting-excise-goods-to-the-eu-in-a-no-deal-brexit?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Check the rules for exporting alcohol, tobacco and certain oils </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="6.3" class="gem-c-step-nav__link js-link" href="/guidance/exporting-controlled-goods-after-eu-exit?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Check the rules for exporting controlled goods like firearms </a></li>
+</ol>
 
           </div>
 
         </li>
         <li class="gem-c-step-nav__step js-step
-          " id="check-what-you-need-to-do-for-the-type-of-goods-you-export" data-track-count="stepNavSection">
-          <div class="gem-c-step-nav__header js-toggle-panel" data-position="5">
+          " id="find-out-how-changes-to-vat-will-affect-you" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="7">
             <h3 class="gem-c-step-nav__title">
               <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
                 <span class="gem-c-step-nav__circle-inner">
@@ -513,16 +577,65 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
               </span>
 
               <span class="js-step-title">
-                Check what you need to do for the type of goods you export
+                Find out how changes to VAT will affect you 
               </span>
 </h3>          </div>
 
-          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-what-you-need-to-do-for-the-type-of-goods-you-export-5">
-              <p class="gem-c-step-nav__paragraph">Depending on what you're exporting, there might be other things you'll need to do to get your business ready. For example, you might need to change the labelling on the packaging for your goods, or apply for licences. </p>
-
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-find-out-how-changes-to-vat-will-affect-you-7">
               <ol class="gem-c-step-nav__list " data-length="2">
-<li class="gem-c-step-nav__list-item js-list-item "><a data-position="5.1" class="gem-c-step-nav__link js-link" href="/starting-to-export/licences?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Check if you'll need to apply for an export licence </a></li>
-<li class="gem-c-step-nav__list-item js-list-item "><a data-position="5.2" class="gem-c-step-nav__link js-link" href="/business-uk-leaving-eu?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Check what else you need to do for the type of goods you export </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="7.1" class="gem-c-step-nav__link js-link" href="/guidance/claim-vat-refunds-from-eu-countries-after-brexit?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how you'll claim VAT refunds from EU countries </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="7.2" class="gem-c-step-nav__link js-link" href="/guidance/pay-vat-when-you-sell-digital-services-to-eu-customers-after-brexit?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how you'll pay VAT if you sell digital services to EU customers </a></li>
+</ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="decide-who-will-transport-your-goods-outside-the-uk" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="8">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 6<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Decide who will transport your goods outside the UK 
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-decide-who-will-transport-your-goods-outside-the-uk-8">
+              <p class="gem-c-step-nav__paragraph">You can hire someone to transport your goods, or you can do it yourself. </p>
+
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="8.1" class="gem-c-step-nav__link js-link" href="/transport-goods-from-uk-by-road?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Find out how to transport goods outside the UK yourself </a></li></ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="get-help-and-support" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="9">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 7<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Get help and support
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-get-help-and-support-9">
+              <ol class="gem-c-step-nav__list " data-length="2">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="9.1" class="gem-c-step-nav__link js-link" href="/contact-brexit-import-export-helpline?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Get more information about importing and exporting goods after Brexit </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="9.2" class="gem-c-step-nav__link js-link" href="/business-support-helpline?step-by-step-nav=e169b2ac-8c90-4789-8e6c-3657729e21b2">Get general help and support for your business </a></li>
 </ol>
 
           </div>
