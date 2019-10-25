@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 August 2019
-    <br></br>Last updated 24 October 2019
+    <br></br>Last updated 25 October 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -76,6 +76,10 @@
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#contact" data-track-options="{"dimension29":"Contact"}" href="#contact">Contact</a>
 
         </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#further-information" data-track-options="{"dimension29":"Further information"}" href="#further-information">Further information</a>
+
+        </li>
     </ol>
 </nav>
       </div>
@@ -112,6 +116,12 @@
 
 <h2 id="contact">Contact</h2>
 <p>If you have queries about trade after Brexit contact the <a rel="external" href="https://www.great.gov.uk/brexit/contact/">Department for International Trade (DIT).</a></p>
+
+<h2 id="further-information">Further information</h2>
+
+<ul>
+  <li><a href="https://www.gov.uk/guidance/exporting-to-switzerland-after-eu-exit">Export to Switzerland after Brexit if there’s no deal</a></li>
+</ul>
 </div>
 </div>
 
@@ -119,10 +129,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 August 2019
-    <br></br>Last updated 24 October 2019
+    <br></br>Last updated 25 October 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-25T16:31:40.000+01:00">25 October 2019</time>
+              The previous change note was published in error – no significant updates have been made. 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-24T13:46:24.000+01:00">24 October 2019</time>
               Added details of how this agreement differs from the current EU agreement.
@@ -158,14 +172,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-bec920e3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-8c11df1d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-bec920e3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-8c11df1d" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -182,9 +196,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-bec920e3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-8c11df1d" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-bec920e3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-8c11df1d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -215,9 +229,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-54ffd2cd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7953811b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-54ffd2cd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-7953811b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
