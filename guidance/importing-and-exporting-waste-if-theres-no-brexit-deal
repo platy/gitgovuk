@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">What UK waste importers and exporters must do to prepare for changes to rules around waste shipments if the UK leaves the EU with no deal.</p>
+  <p class="gem-c-lead-paragraph">What UK waste importers and exporters must do to prepare for changes to rules around notified waste shipments if the UK leaves the EU with no deal.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 February 2019
-    <br></br>Last updated 2 October 2019
+    <br></br>Last updated 25 October 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -54,7 +54,23 @@
   <div class="govuk-grid-column-two-thirds">
     
 
-      <div id="contents" class="app-c-contents-list-with-body">
+      <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">Contents</h2>
+
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#rules-after-the-uk-leaves-the-eu" data-track-options="{"dimension29":"Rules after the UK leaves the EU"}" href="#rules-after-the-uk-leaves-the-eu">Rules after the UK leaves the EU</a>
+
+        </li>
+    </ol>
+</nav>
+      </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
@@ -62,20 +78,18 @@
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK will leave the EU on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.
+<p>A Brexit deal has been agreed but needs to be ratified. The UK could still leave the EU with no deal on 31 October if the UK and EU do not approve and sign the withdrawal agreement.
+<br></br><br></br>
+This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.
 <br></br><br></br>
 <a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for government-wide email alerts</a> about Brexit. 
 <br></br><br></br>
 <a rel="external" href="https://public.govdelivery.com/accounts/UKDEFRA/subscriber/topics?qsp=CODE_RED">Sign up for Defra alerts</a> about Brexit and the Trade sector.</p>
 </div>
 
-<p>This guide explains how the controls for importing and exporting notified waste will change if the UK leaves the EU without a deal.</p>
-
 <h2 id="rules-after-the-uk-leaves-the-eu">Rules after the UK leaves the EU</h2>
 
 <p>If the UK leaves the EU without a deal, the UK will become a third (non-EU) country.</p>
-
-<p>If you’re importing or exporting waste to the EU, you can view <a href="https://www.gov.uk/government/collections/flowcharts-for-import-and-export-processes-after-brexit">journey maps with the steps you need to take</a>.</p>
 
 <h3 id="consented-notifications-to-ship-waste-between-the-uk-and-the-eu">Consented notifications to ship waste between the UK and the EU</h3>
 
@@ -83,7 +97,7 @@
 
 <p>This follows the process set out by the European Commission (EC) in the notice ‘<a rel="external" href="http://ec.europa.eu/environment/waste/shipments/pdf/Notice_to_stakeholders_Brexit_waste.pdf">Withdrawal of the UK and EU waste law</a>’ issued on 8 November 2018.</p>
 
-<h3 id="waste-shipments-from-the-uk-to-the-eu">Waste shipments from the UK to the EU</h3>
+<h3 id="notified-waste-shipments-from-the-uk-to-the-eu">Notified waste shipments from the UK to the EU</h3>
 
 <p>If the UK leaves the EU, the UK will remain a:</p>
 
@@ -94,7 +108,7 @@
 
 <p>The UK will be treated the same way as any other <abbr title="Organisation for Economic Co-operation and Development">OECD</abbr> country or any country party to the Basel convention that intends to export waste to an EU country. The current waste shipments procedures will still apply.</p>
 
-<p>If you are an exporter, you will need to make yourself aware of <a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52015XC0512%2803%29">the EU customs guidelines</a> and <a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32006R1013">the EU Waste Shipment Regulations</a>. These explain the rules for EU waste imports from outside the EU.</p>
+<p>If you are an exporter, you’ll need to make yourself aware of <a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52015XC0512%2803%29">the EU customs guidelines</a> and <a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32006R1013">the EU Waste Shipment Regulations</a>.</p>
 
 <p>They require:</p>
 
@@ -106,19 +120,19 @@
 
 <p>You’ll need authorisation for each EU country you transport waste through or into, as acceptance of waste carrier registrations can vary between countries. Requirements can also differ for waste carriers from outside the EU or European Free Trade Association (<abbr title="European Free Trade Association">EFTA</abbr>) area.</p>
 
-<p>If we leave the EU without a deal, the requirements you need to meet to be authorised to carry waste in certain EU Member States may change. Contact the authority responsible for waste in the country you’re transporting waste to or through to find out about the authorisation process.</p>
+<p>The requirements you need to meet to be authorised to carry waste in certain EU Member States may change if the UK leaves the EU without a deal. Contact the authority responsible for waste in the country you’re transporting waste to or through to find out about the authorisation process.</p>
 
 <p>Before you submit a notification to export waste to the EU for disposal, the UK government must submit a duly reasoned request (<abbr title="duly reasoned request">DRR</abbr>) to the relevant EU competent authority. The <abbr title="duly reasoned request">DRR</abbr> must explain why the UK does not have, or cannot acquire the required disposal facilities. You will not be able to submit a notification to export until that <abbr title="duly reasoned request">DRR</abbr> is approved. Exports of UK waste for disposal are prohibited, apart from a few exceptions. The impact of the new requirement to submit a <abbr title="duly reasoned request">DRR</abbr> will therefore be minimal.</p>
-
-<p>The rules for shipping waste for recycling under the Green Control procedures will stay the same.</p>
 
 <h3 id="waste-shipments-from-the-eu-to-the-uk">Waste shipments from the EU to the UK</h3>
 
 <p>EU countries will not be allowed to export waste for disposal, or export mixed municipal waste for recovery, to the UK under EU law.</p>
 
-<p>The rules for shipping waste for recycling under the Green Control procedures will stay the same.</p>
+<p>The rules for shipping non-notified waste for recycling under the Green List Control procedures will stay the same.</p>
 
-<p>If you are a UK businesses and want to import waste from the EU to the UK, you should be aware of the:</p>
+<p>UK exporters should check that any transport of waste within the EU is by appropriately authorised waste carriers.</p>
+
+<p>If you’re a UK businesses and want to import waste from the EU to the UK, you should be aware of the:</p>
 
 <ul>
   <li><a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52015XC0512%2803%29">EU customs guidelines</a></li>
@@ -132,10 +146,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 February 2019
-    <br></br>Last updated 2 October 2019
+    <br></br>Last updated 25 October 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-25T08:25:33.000+01:00">25 October 2019</time>
+              Clarified the guidance is about notified waste shipments
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-02T08:58:02.000+01:00">2 October 2019</time>
               Added the link to the Brexit process maps collection
@@ -158,6 +176,17 @@
 
       </div>
 
+      <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
   </div>
   </div>
   
@@ -168,14 +197,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-4fe1b84d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-1fba8b48" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-4fe1b84d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1fba8b48" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -192,9 +221,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-4fe1b84d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-1fba8b48" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-4fe1b84d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-1fba8b48" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -225,9 +254,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8a8c1196" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-65a7de9a" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8a8c1196" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-65a7de9a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
