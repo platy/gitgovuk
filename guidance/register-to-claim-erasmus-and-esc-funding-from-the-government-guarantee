@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How organisations that get or have bid for Erasmus+ or European Solidarity Corps (ESC) funding should register for the HMG guarantee if there’s no Brexit deal.
-  </p>
+  <p class="gem-c-lead-paragraph">If your organisation has a successful Erasmus+ or European Solidarity Corps (ESC) bid, register to claim against the government guarantee if there's a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 April 2019
-    <br></br>Last updated 19 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 25 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-education">Department for Education</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-education">Department for Education</a>
                 </span>
             </dd>
         </dl>
@@ -58,147 +56,111 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#who-should-register" data-track-options="{"dimension29":"Who should register"}" href="#who-should-register">Who should register</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#how-to-register" data-track-options="{"dimension29":"How to register"}" href="#how-to-register">How to register</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#who-should-register" data-track-options="{"dimension29":"Who should register"}" href="#who-should-register">Who should register</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#when-to-make-a-claim" data-track-options="{"dimension29":"When to make a claim"}" href="#when-to-make-a-claim">When to make a claim</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#how-to-register" data-track-options="{"dimension29":"How to register"}" href="#how-to-register">How to register</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#what-youll-need-to-claim" data-track-options="{"dimension29":"What you’ll need to claim"}" href="#what-youll-need-to-claim">What you’ll need to claim</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#prepare-what-youll-need-to-claim" data-track-options="{"dimension29":"Prepare what you’ll need to claim"}" href="#prepare-what-youll-need-to-claim">Prepare what you’ll need to claim</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#partnership-projects-with-non-uk-organisations" data-track-options="{"dimension29":"Partnership projects with non-UK organisations"}" href="#partnership-projects-with-non-uk-organisations">Partnership projects with non-UK organisations</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#partnership-projects-with-non-uk-organisations" data-track-options="{"dimension29":"Partnership projects with non-UK organisations"}" href="#partnership-projects-with-non-uk-organisations">Partnership projects with non-UK organisations</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>You may need to make a claim against the <a href="https://www.gov.uk/government/publications/the-governments-guarantee-for-eu-funded-programmes-if-theres-no-brexit-deal"><abbr title="Her Majesty's government">HMG</abbr> guarantee</a> if your organisation receives <abbr title="European Union">EU</abbr> funding for Erasmus+ and <abbr title="European Solidarity Corps">ESC</abbr> projects.</p>
+<div class="call-to-action">
+<h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The guarantee will cover funding for successful Erasmus+ and <abbr title="European Solidarity Corps">ESC</abbr> bids, if the UK leaves the <abbr title="European Union">EU</abbr> without a deal.</p>
+<p>A Brexit deal has been agreed but needs to be ratified. The UK could still leave with no deal on 31 October 2019 if the UK and <abbr title="European Union">EU</abbr> do not approve and sign the withdrawal agreement.</p>
 
-<p>Erasmus+ and <abbr title="European Solidarity Corps">ESC</abbr> funding will continue as normal until the end of the programme in 2020, if the UK leaves the <abbr title="European Union">EU</abbr> with a deal.</p>
+<p>This page tells you how to prepare for Brexit and will be updated if anything changes. <a href="https://www.gov.uk/email-signup?topic=%2Fbrexit">Sign up for email alerts</a> to get the latest information.</p>
+</div>
 
-<p>You should continue to submit funding applications to the European Commission (<abbr title="European Commission">EC</abbr>) or the UK National Agency as you would do normally. Only organisations with successful bids can make a claim against the <abbr title="Her Majesty's government">HMG</abbr> guarantee. Successful bids are those approved directly by the <abbr title="European Commission">EC</abbr> or the UK National Agency and then ratified by the <abbr title="European Commission">EC</abbr>.</p>
+<p>The <a href="https://www.gov.uk/government/publications/the-governments-guarantee-for-eu-funded-programmes-if-theres-no-brexit-deal">government guarantee</a> will cover funding for successful Erasmus+ and European Solidarity Corps (<abbr title="European Solidarity Corps">ESC</abbr>) bids, if there’s a no-deal Brexit. The funding will continue until the end of your project if it continues to meet the eligibility and validation criteria.</p>
 
-<p>Read the <a rel="external" href="https://www.erasmusplus.org.uk/apply-for-funding">guidance on how to apply for funding</a> on the Erasmus+ UK National Agency’s website.</p>
+<p>Successful bids are those approved directly by the European Commission (<abbr title="European Commission">EC</abbr>) or the UK National Agency and then ratified by the <abbr title="European Commission">EC</abbr>.</p>
+
+<p>Register as soon as possible so you’re ready to make a claim if there’s a no-deal Brexit.</p>
 
 <h2 id="who-should-register">Who should register</h2>
 
-<p>All UK organisations who are involved in successful Erasmus+ applications should register.</p>
-
-<p>This includes projects and applicants that are only informed of their success, or who sign a grant agreement, after the UK has left the <abbr title="European Union">EU</abbr>. The funding will continue until the end of your project.</p>
-
-<p>You do not need to make a claim for projects that include students covered by the <abbr title="European Commission">EC</abbr>’s <a rel="external" href="https://ec.europa.eu/programmes/erasmus-plus/about/brexit_en">Erasmus+ Contingency Regulation</a>. This includes study and work placements that start before the UK leaves the <abbr title="European Union">EU</abbr>.</p>
-
-<p>To be considered for funding, your project must continue to meet the eligibility and validation criteria.</p>
-
-<p>To claim for funding under the guarantee, you’ll need to provide:</p>
+<p>You should register if you’re a UK organisation and either:</p>
 
 <ul>
-  <li>evidence that you are a UK legal entity</li>
-  <li>evidence that your project was eligible for funding and with a contract in place</li>
-  <li>evidence of your successful bid - this should be your grant agreement number</li>
-  <li>details for a bank account that accepts sterling</li>
+  <li>you currently get Erasmus+ or European Solidarity Corps (<abbr title="European Solidarity Corps">ESC</abbr>) funding</li>
+  <li>your Erasmus+ or <abbr title="European Solidarity Corps">ESC</abbr> funding has been approved but you do not have the grant agreement yet</li>
 </ul>
+
+<p>You do not need to register if you only have projects that include students covered by the <a rel="external" href="https://ec.europa.eu/programmes/erasmus-plus/about/brexit_en">Erasmus+ Contingency Regulation</a>. This includes study and work placements that start before Brexit.</p>
 
 <h2 id="how-to-register">How to register</h2>
 
 <div class="call-to-action">
-<p>Register for Erasmus+ and <abbr title="European Solidarity Corps">ESC</abbr> claims using the <a href="https://www.gov.uk/government/publications/eu-direct-bid-funds-uk-recipient-registration-instructions">grants management function: recipient registration form</a>.</p>
+<p>Fill in the <a href="https://www.gov.uk/government/publications/eu-direct-bid-funds-uk-recipient-registration-instructions">grants management registration form</a>. You’ll need to give information about your organisation, your project and your funding.</p>
 </div>
 
-<p>You can register now if you are already receiving funds.</p>
+<p>After you’ve registered, you’ll get a confirmation email within 10 working days.</p>
 
-<p>After registering, you’ll receive an email confirming we have received your claim.</p>
-
-<p>If the <abbr title="Her Majesty's government">HMG</abbr> guarantee is required after we leave the <abbr title="European Union">EU</abbr>, you’ll get an email with a link and an invitation code. You can then create an account on the <abbr title="Her Majesty's government">HMG</abbr> guarantee system for Erasmus+ and <abbr title="European Solidarity Corps">ESC</abbr>.</p>
-
-<p>You’ll need to provide some information about your organisation, your project and your funding. This includes your:</p>
-
-<ul>
-  <li>organisation name</li>
-  <li>Companies House/charity number (where applicable)</li>
-  <li>Erasmus+ or <abbr title="European Solidarity Corps">ESC</abbr> organisation type</li>
-  <li>company address</li>
-  <li>case number</li>
-  <li>grant agreement number</li>
-  <li>scheme name</li>
-  <li>project name</li>
-  <li>
-<abbr title="European Union">EU</abbr> funding contribution</li>
-  <li>project start date</li>
-  <li>project end date</li>
-  <li>next <abbr title="European Commission">EC</abbr> payment (expected date)</li>
-</ul>
+<p>If there’s a no-deal Brexit, you’ll get an email inviting you to create an account on the new government guarantee system for Erasmus+ and <abbr title="European Solidarity Corps">ESC</abbr>.</p>
 
 <p>You will not be able to register a project for the guarantee until the bid has been confirmed as successful by the UK National Agency or the <abbr title="European Commission">EC</abbr>.</p>
 
-<h2 id="when-to-make-a-claim">When to make a claim</h2>
+<h2 id="prepare-what-youll-need-to-claim">Prepare what you’ll need to claim</h2>
 
-<p>Once you’ve set up your account, you’ll be ready to make a claim if the UK leaves the <abbr title="European Union">EU</abbr> without a deal and the <abbr title="Her Majesty's government">HMG</abbr> guarantee is triggered.</p>
-
-<p>Once registered, the UK National Agency will contact you to confirm what information you’ll need to provide to make a claim.</p>
-
-<h2 id="what-youll-need-to-claim">What you’ll need to claim</h2>
-
-<p>If you need to make a claim, you’ll need to provide:</p>
+<p>If you need to make a claim, the information you’ll need to provide includes:</p>
 
 <ul>
   <li>confirmation that <abbr title="European Union">EU</abbr> funding is withdrawn - you can add this later, if you’re waiting for confirmation</li>
   <li>a list of UK and non-UK partners involved in the project</li>
-  <li>your <span id="attachment_3580731" class="attachment-inline">
+  <li>your <span id="attachment_3742364" class="attachment-inline">
 <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/792977/Confirmation_of_continuation_form.docx">confirmation of continuation form</a>
 (<span class="type">MS Word Document</span>, <span class="file-size">16.1KB</span>)
 </span>
 , if working with non-UK organisations</li>
-  <li>funding amounts for the project, including:
-    <ul>
-      <li>the <abbr title="European Union">EU</abbr> funding contribution</li>
-      <li>amount pre-financed</li>
-      <li>spend to date</li>
-      <li>expected date and amount of the next <abbr title="European Commission">EC</abbr> payment and all annexes - only include funding post-Brexit for UK organisations</li>
-    </ul>
-  </li>
   <li>if applicable, a child protection form for all schools and youth projects</li>
+</ul>
+
+<p>You’ll also need to provide funding amounts for the project, including:</p>
+
+<ul>
+  <li>the <abbr title="European Union">EU</abbr> funding contribution</li>
+  <li>amount pre-financed</li>
+  <li>spend to date</li>
+  <li>expected date and amount of the next <abbr title="European Commission">EC</abbr> payment and all annexes - only include funding post-Brexit for UK organisations</li>
 </ul>
 
 <h2 id="partnership-projects-with-non-uk-organisations">Partnership projects with non-UK organisations</h2>
 
-<p>The <abbr title="Her Majesty's government">HMG</abbr> guarantee will replace funding for UK organisations’ participation in projects. It does not cover funding you give to non-UK partners and organisations.</p>
+<p>The government guarantee will replace funding for UK organisations’ participation in projects. It does not cover funding you give to non-UK partners and organisations.</p>
 
 <p>Talk to your partner organisations and make arrangements to continue your partnerships if you can. You should get written confirmation from your partners that they agree to continue the project.</p>
 
-<p>You should then complete a <span id="attachment_3580731" class="attachment-inline">
+<p>You should then complete a <span id="attachment_3742364" class="attachment-inline">
   <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/792977/Confirmation_of_continuation_form.docx">confirmation of continuation form</a>
   (<span class="type">MS Word Document</span>, <span class="file-size">16.1KB</span>)
 </span>
-. You’ll need to provide this as part of your claim against the government’s guarantee.</p>
+. You’ll need to provide this as part of your claim against the government guarantee.</p>
 
 <p>You’ll also need to provide a letter from the head of your organisation (for example, the vice chancellor of a higher education institution or the headmaster of a school) confirming the agreement with the other organisations involved in your project or projects.</p>
-
-<div class="call-to-action">
-<h2 id="stay-up-to-date">Stay up to date</h2>
-
-<p>This page tells you what to do if there’s a no-deal Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
-
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
-</div>
 
 </div>
 </div>
@@ -207,10 +169,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 April 2019
-    <br></br>Last updated 19 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 25 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-25T17:17:18.000+01:00">25 October 2019</time>
+              Formatting changes have been made to highlight actions that users need to take.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-19T17:25:01.000+01:00">19 August 2019</time>
               Format updates have been made to highlight actions that people need to take. A link has also been added that allows people to sign up for email alerts to get the latest information about Brexit. 
@@ -227,7 +193,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -246,14 +212,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-82a18396" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-c79552ad" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-82a18396" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c79552ad" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -285,15 +251,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a6f288c3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9250fdd2" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a6f288c3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-9250fdd2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/education/further-and-higher-education-skills-and-vocational-training" data-track-options="{"dimension28":"2","dimension29":"Further and higher education, skills and vocational training"}" href="/education/further-and-higher-education-skills-and-vocational-training">Further and higher education, skills and vocational training</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
