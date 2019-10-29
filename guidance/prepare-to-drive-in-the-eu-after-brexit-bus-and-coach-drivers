@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    What UK bus or coach drivers need to do to drive professionally in the EU if there's a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">What UK bus or coach drivers need to do to drive professionally in the EU if there's a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 14 January 2019
-    <br></br>Last updated 6 September 2019
-      — <a href="#history" class="app-c-published-dates__history-link">see all updates</a>
+    <br></br>Last updated 29 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-transport">Department for Transport</a>, <a href="/government/organisations/driver-and-vehicle-licensing-agency">Driver and Vehicle Licensing Agency</a>, <a href="/government/organisations/traffic-commissioners">Traffic Commissioners for Great Britain</a>, and <a href="/government/organisations/driver-and-vehicle-standards-agency">Driver and Vehicle Standards Agency</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-transport">Department for Transport</a>, <a class="govuk-link" href="/government/organisations/driver-and-vehicle-licensing-agency">Driver and Vehicle Licensing Agency</a>, <a class="govuk-link" href="/government/organisations/traffic-commissioners">Traffic Commissioners for Great Britain</a>, and <a class="govuk-link" href="/government/organisations/driver-and-vehicle-standards-agency">Driver and Vehicle Standards Agency</a>
                 </span>
             </dd>
         </dl>
@@ -58,37 +56,44 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#driving-licences-and-international-driving-permits" data-track-options="{"dimension29":"Driving licences and international driving permits"}" href="#driving-licences-and-international-driving-permits">Driving licences and international driving permits</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#driving-licences-and-international-driving-permits" data-track-options="{"dimension29":"Driving licences and international driving permits"}" href="#driving-licences-and-international-driving-permits">Driving licences and international driving permits</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#driver-cpc-for-bus-and-coach-drivers" data-track-options="{"dimension29":"Driver CPC for bus and coach drivers"}" href="#driver-cpc-for-bus-and-coach-drivers">Driver CPC for bus and coach drivers</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#driver-cpc-for-bus-and-coach-drivers" data-track-options="{"dimension29":"Driver CPC for bus and coach drivers"}" href="#driver-cpc-for-bus-and-coach-drivers">Driver CPC for bus and coach drivers</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports" data-track-options="{"dimension29":"Passports"}" href="#passports">Passports</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports" data-track-options="{"dimension29":"Passports"}" href="#passports">Passports</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas" data-track-options="{"dimension29":"Visas"}" href="#visas">Visas</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas" data-track-options="{"dimension29":"Visas"}" href="#visas">Visas</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#insurance-and-road-accidents" data-track-options="{"dimension29":"Insurance and road accidents"}" href="#insurance-and-road-accidents">Insurance and road accidents</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#insurance-and-road-accidents" data-track-options="{"dimension29":"Insurance and road accidents"}" href="#insurance-and-road-accidents">Insurance and road accidents</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#what-to-do-if-you-run-a-bus-or-coach-company" data-track-options="{"dimension29":"What to do if you run a bus or coach company"}" href="#what-to-do-if-you-run-a-bus-or-coach-company">What to do if you run a bus or coach company</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#what-to-do-if-you-run-a-bus-or-coach-company" data-track-options="{"dimension29":"What to do if you run a bus or coach company"}" href="#what-to-do-if-you-run-a-bus-or-coach-company">What to do if you run a bus or coach company</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -96,7 +101,7 @@
       <div class="govspeak">
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
-<p>The UK will leave the <abbr title="European Union">EU</abbr> on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+<p>The UK is leaving the <abbr title="European Union">EU</abbr>. This page tells you how to prepare for Brexit and will be updated if anything changes.</p>
 
 <p><a href="https://www.gov.uk/email/subscriptions/new?default_frequency=daily&topic_id=find-brexit-guidance-for-your-business-in-the-following-category-road-passengers-and-freight">Sign up for email alerts</a> to get the latest information.</p>
 </div>
@@ -105,7 +110,7 @@
 
 <p>You will still need to carry your UK driving licence with you.</p>
 
-<p>You might need an international driving permit (<abbr title="international driving permit">IDP</abbr>) to drive in some <a href="https://www.gov.uk/eu-eea"><abbr title="European Union">EU</abbr> and European Economic Area (<abbr title="European Economic Area">EEA</abbr>) countries</a> if there’s a no-deal Brexit.</p>
+<p>You might need an international driving permit (<abbr title="international driving permit">IDP</abbr>) to drive in some <abbr title="European Union">EU</abbr> countries, Iceland and Norway if there’s a no-deal Brexit.</p>
 
 <p>The types of <abbr title="international driving permits">IDPs</abbr> you need will depend on the countries you will drive through.</p>
 
@@ -129,7 +134,7 @@
 
 <h2 id="driver-cpc-for-bus-and-coach-drivers">Driver <abbr title="Certificate of Professional Competence">CPC</abbr> for bus and coach drivers</h2>
 
-<p>You need a Driver Certificate of Professional Competence (<abbr title="Certificate of Professional Competence">CPC</abbr>) qualification to drive a bus or coach professionally in the UK and other <abbr title="European Union">EU</abbr> and <abbr title="European Economic Area">EEA</abbr> countries.</p>
+<p>You need a Driver Certificate of Professional Competence (<abbr title="Certificate of Professional Competence">CPC</abbr>) qualification to drive a bus or coach professionally in the UK, the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein or Norway</p>
 
 <h3 id="if-you-work-for-a-uk-company-and-have-a-uk-driver-cpc-qualification">If you work for a UK company and have a UK Driver <abbr title="Certificate of Professional Competence">CPC</abbr> qualification</h3>
 
@@ -145,13 +150,13 @@
 
 <p>This is an agreement about the international occasional (not scheduled) carriage of passengers by bus or coach. It applies to the <abbr title="European Union">EU</abbr>, Albania, Bosnia and Herzegovina, North Macedonia, Montenegro, Moldova, Turkey and Ukraine.</p>
 
-<p>You’ll be able to drive for a UK company in the <abbr title="European Union">EU</abbr> and <abbr title="European Economic Area">EEA</abbr> with a UK Driver <abbr title="Certificate of Professional Competence">CPC</abbr> qualification after the UK has joined this agreement after Brexit.</p>
+<p>You’ll be able to drive for a UK company in the <abbr title="European Union">EU</abbr> with a UK Driver <abbr title="Certificate of Professional Competence">CPC</abbr> qualification after the UK has joined this agreement after Brexit.</p>
 
 <h3 id="if-you-work-for-an-eu-company-and-have-a-uk-driver-cpc-qualification">If you work for an <abbr title="European Union">EU</abbr> company and have a UK Driver <abbr title="Certificate of Professional Competence">CPC</abbr> qualification</h3>
 
-<p>Consider exchanging your UK Driver <abbr title="Certificate of Professional Competence">CPC</abbr> qualification for an <abbr title="European Union">EU</abbr> one if you work for an <abbr title="European Union">EU</abbr> company or want to work for one. You will then be able to work for both <abbr title="European Union">EU</abbr> and UK companies after Brexit.</p>
+<p>Exchange your UK Driver <abbr title="Certificate of Professional Competence">CPC</abbr> qualification for an <abbr title="European Union">EU</abbr> one if you work for an <abbr title="European Union">EU</abbr> company or want to work for one. You will then be able to work for both <abbr title="European Union">EU</abbr> and UK companies after Brexit.</p>
 
-<p>You need to exchange it before 31 October 2019. Do it as soon as possible.</p>
+<p>You need to exchange it before Brexit. Do it as soon as possible.</p>
 
 <p>The way you do this will depend on how the country where you live and work recognises Driver <abbr title="Certificate of Professional Competence">CPC</abbr>. Some countries:</p>
 
@@ -197,7 +202,7 @@
   <li>be less than 10 years old (even if it has 6 months or more left)</li>
 </ul>
 
-<p>If you do not renew it, you may not be able to travel to most <abbr title="European Union">EU</abbr> countries and Iceland, Liechtenstein, Norway and Switzerland.</p>
+<p>If you do not renew it, you may not be able to travel to most <abbr title="European Union">EU</abbr> countries, Iceland, Liechtenstein, Norway and Switzerland.</p>
 
 <p>You can use a tool to <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check whether your passport is valid</a> for the country you’re visiting.</p>
 
@@ -244,7 +249,7 @@
 
 <h3 id="what-to-do-if-youre-involved-in-a-road-accident">What to do if you’re involved in a road accident</h3>
 
-<p>You may need to bring legal proceedings in the <abbr title="European Union">EU</abbr> or <abbr title="European Economic Area">EEA</abbr> country against either the responsible driver or the insurer of the vehicle if there’s a no-deal Brexit. At the moment you can make a claim via a UK-based claims representative or the UK Motor Insurers’ Bureau (MIB).</p>
+<p>You may need to bring legal proceedings in the <abbr title="European Union">EU</abbr> country, Iceland, Liechtenstein or Norway against either the responsible driver or the insurer of the vehicle if there’s a no-deal Brexit.</p>
 
 <p>You might not get compensation if the accident is caused by an uninsured driver or the driver cannot be traced. This will vary from country to country.</p>
 
@@ -252,7 +257,9 @@
 
 <h2 id="what-to-do-if-you-run-a-bus-or-coach-company">What to do if you run a bus or coach company</h2>
 
-<p>Check what extra things you need to do to prepare to <a href="https://www.gov.uk/guidance/run-international-bus-or-coach-services-after-brexit">run international bus and coach services after Brexit</a> if you’re also a bus or coach operator.</p>
+<p>You must renew your authorisation to run regular services in the <abbr title="European Union">EU</abbr> before Brexit if your authorisation expires before 31 July 2020.</p>
+
+<p>Find out more about what you need to do to <a href="https://www.gov.uk/guidance/run-international-bus-or-coach-services-after-brexit">run international bus and coach services after Brexit</a>.</p>
 
 </div>
 </div>
@@ -261,10 +268,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 14 January 2019
-    <br></br>Last updated 6 September 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 29 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-29T13:21:10.000+00:00">29 October 2019</time>
+              Changed the expiry date for regular bus and coach services authorisations that you need to renew from 31 December 2019 to 31 July 2020. This is because the European Commission has extended a temporary set of measures.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-06T19:49:13.000+01:00">6 September 2019</time>
               Updated the Driver CPC section to make it clearer that UK drivers working for a UK company will still need Driver CPC after Brexit, and will still be able to use their UK Driver CPC qualification for all international journeys that UK companies are allowed to make after Brexit.
@@ -309,7 +320,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -328,14 +339,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-04358617" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-3969c914" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-04358617" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3969c914" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -350,19 +361,19 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-04358617" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-3969c914" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-04358617" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-3969c914" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers" data-track-options="{"dimension28":"6","dimension29":"Drive in the EU after Brexit: lorry and goods vehicle drivers"}" href="/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers">Drive in the EU after Brexit: lorry and goods vehicle drivers</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/run-international-bus-or-coach-services-after-brexit" data-track-options="{"dimension28":"6","dimension29":"Run international bus or coach services and tours after Brexit"}" href="/guidance/run-international-bus-or-coach-services-after-brexit">Run international bus or coach services and tours after Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/overseas-bus-and-coach-services-how-to-apply-for-authorisation" data-track-options="{"dimension28":"6","dimension29":"International bus and coach services: operator licences and permits"}" href="/guidance/overseas-bus-and-coach-services-how-to-apply-for-authorisation">International bus and coach services: operator licences and permits</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/driving-in-the-eu-after-brexit" data-track-options="{"dimension28":"6","dimension29":"Driving in the EU after Brexit"}" href="/guidance/driving-in-the-eu-after-brexit">Driving in the EU after Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/driving-in-the-eu-after-brexit-international-driving-permits" data-track-options="{"dimension28":"6","dimension29":"Driving in the EU after Brexit: international driving permits"}" href="/guidance/driving-in-the-eu-after-brexit-international-driving-permits">Driving in the EU after Brexit: international driving permits</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.6 Detailed guidance" data-track-label="/guidance/trailer-registration" data-track-options="{"dimension28":"6","dimension29":"Check if you need to register a trailer before towing it abroad"}" href="/guidance/trailer-registration">Check if you need to register a trailer before towing it abroad</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/trailer-registration" data-track-options="{"dimension28":"6","dimension29":"Check if you need to register a trailer before towing it abroad"}" href="/guidance/trailer-registration">Check if you need to register a trailer before towing it abroad</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/overseas-bus-and-coach-services-how-to-apply-for-authorisation" data-track-options="{"dimension28":"6","dimension29":"International bus and coach services: operator licences and permits"}" href="/guidance/overseas-bus-and-coach-services-how-to-apply-for-authorisation">International bus and coach services: operator licences and permits</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/driving-in-the-eu-after-brexit" data-track-options="{"dimension28":"6","dimension29":"Driving in the EU after Brexit"}" href="/guidance/driving-in-the-eu-after-brexit">Driving in the EU after Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.6 Detailed guidance" data-track-label="/guidance/driving-in-the-eu-after-brexit-international-driving-permits" data-track-options="{"dimension28":"6","dimension29":"Driving in the EU after Brexit: international driving permits"}" href="/guidance/driving-in-the-eu-after-brexit-international-driving-permits">Driving in the EU after Brexit: international driving permits</a></li>
 
   </ul>
 </nav>
@@ -388,9 +399,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4b8d79f2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-652a7265" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-4b8d79f2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-652a7265" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
