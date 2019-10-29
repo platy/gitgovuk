@@ -13,9 +13,7 @@
 
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    This publication sets out the proposed amendments to UK legislation related to the UK’s ring-fencing regime, to be laid under the EU (Withdrawal) Act.
-  </p>
+  <p class="gem-c-lead-paragraph">This publication sets out the proposed amendments to UK legislation related to the UK’s ring-fencing regime, to be laid under the EU (Withdrawal) Act.</p>
 
   </div>
 </div>
@@ -26,8 +24,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 22 October 2018
-    <br></br>Last updated 8 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 29 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -37,7 +35,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/hm-treasury">HM Treasury</a>
+                  <a class="govuk-link" href="/government/organisations/hm-treasury">HM Treasury</a>
                 </span>
             </dd>
         </dl>
@@ -63,9 +61,9 @@
 <div aria-labelledby="documents-title">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3580982">
+      <section class="attachment embedded" id="attachment_3768063">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" href="/government/publications/draft-ring-fenced-bodies-amendment-eu-exit-regulations-2018/ring-fenced-bodies-amendment-eu-exit-regulations-2018-explanatory-information"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/draft-ring-fenced-bodies-amendment-eu-exit-regulations-2018/ring-fenced-bodies-amendment-eu-exit-regulations-2018-explanatory-information"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
   <div class="attachment-details">
     <h2 class="title"><a href="/government/publications/draft-ring-fenced-bodies-amendment-eu-exit-regulations-2018/ring-fenced-bodies-amendment-eu-exit-regulations-2018-explanatory-information">Ring-Fenced Bodies (Amendment) (EU Exit) Regulations 2018: explanatory information</a></h2>
@@ -87,14 +85,15 @@
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>This <abbr title="statutory instrument">SI</abbr> will make amendments to UK secondary legislation related to the UK’s ring-fencing regime to ensure that it continues to operate effectively in a UK context once the UK leaves the EU, in any scenario. The draft <abbr title="statutory instrument">SI</abbr> will be published in due course. HM Treasury intends to lay this <abbr title="statutory instrument">SI</abbr> before Parliament before exit.</p>
-
 <div class="call-to-action">
-<h4 id="stay-up-to-date">Stay up to date</h4>
-<p>This page tells you what to do if the UK leaves the EU without a deal.
-It will be updated if anything changes, including if a deal is agreed.
-<a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
+<h2 id="stay-up-to-date">Stay up to date</h2>
+
+<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes.</p>
+
+<p><a href="https://www.gov.uk/email-signup?topic=%2Fbrexit">Sign up for email alerts</a> to get the latest information.</p>
 </div>
+
+<p>This <abbr title="statutory instrument">SI</abbr> will make amendments to UK secondary legislation related to the UK’s ring-fencing regime to ensure that it continues to operate effectively in a UK context once the UK leaves the EU, in any scenario. The draft <abbr title="statutory instrument">SI</abbr> will be published in due course. HM Treasury intends to lay this <abbr title="statutory instrument">SI</abbr> before Parliament before exit.</p>
 
 </div>
 </div>
@@ -105,10 +104,14 @@ It will be updated if anything changes, including if a deal is agreed.
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 October 2018
-    <br></br>Last updated 8 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 29 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-29T16:55:01.000+00:00">29 October 2019</time>
+              'Stay up to date' call out box updated.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-08T16:08:05.000+01:00">8 August 2019</time>
               Updated with email alerts link.
@@ -130,33 +133,30 @@ It will be updated if anything changes, including if a deal is agreed.
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-43cfdf5e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-e83ec98d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-43cfdf5e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e83ec98d" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-exit-sis-for-payment-services-e-money-and-the-sepa-regulation" data-track-options="{"dimension28":"5","dimension29":"Draft EU Exit SIs for payment services, e-money and the SEPA Regulation"}" href="/government/publications/eu-exit-sis-for-payment-services-e-money-and-the-sepa-regulation">Draft EU Exit SIs for payment services, e-money and the SEPA Regulation</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/credit-institutions-and-insurance-undertakings-reorganisation-and-winding-up-amendment-eu-exit-regulations-2018" data-track-options="{"dimension28":"5","dimension29":"Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2018"}" href="/government/publications/credit-institutions-and-insurance-undertakings-reorganisation-and-winding-up-amendment-eu-exit-regulations-2018">Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2018</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/draft-over-the-counter-derivatives-central-counterparties-and-trade-repositories-amendment-etc-and-transitional-provision-eu-exit-regulations" data-track-options="{"dimension28":"5","dimension29":"Draft Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018"}" href="/government/publications/draft-over-the-counter-derivatives-central-counterparties-and-trade-repositories-amendment-etc-and-transitional-provision-eu-exit-regulations">Draft Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/draft-packaged-retail-and-insurance-based-investment-products-amendment-eu-exit-regulations-2019" data-track-options="{"dimension28":"5","dimension29":"Draft Packaged Retail and Insurance-based Investment Products (Amendment) (EU Exit) Regulations 2019"}" href="/government/publications/draft-packaged-retail-and-insurance-based-investment-products-amendment-eu-exit-regulations-2019">Draft Packaged Retail and Insurance-based Investment Products (Amendment) (EU Exit) Regulations 2019</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/eu-withdrawal-act-2018-statutory-instruments/the-credit-institutions-and-insurance-undertakings-reorganisation-and-winding-up-amendment-eu-exit-regulations-2018" data-track-options="{"dimension28":"5","dimension29":"The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (Eu Exit) Regulations 2018"}" href="/eu-withdrawal-act-2018-statutory-instruments/the-credit-institutions-and-insurance-undertakings-reorganisation-and-winding-up-amendment-eu-exit-regulations-2018">The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (Eu Exit) Regulations 2018</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/draft-transparency-of-securities-financing-transactions-and-of-reuse-amendment-eu-exit-regulations-2019" data-track-options="{"dimension28":"2","dimension29":"Draft Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019"}" href="/government/publications/draft-transparency-of-securities-financing-transactions-and-of-reuse-amendment-eu-exit-regulations-2019">Draft Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/draft-solvency-ii-and-insurance-amendment-etc-eu-exit-regulations-2018" data-track-options="{"dimension28":"2","dimension29":"Draft Solvency II and Insurance (Amendment etc) (EU Exit) Regulations 2018"}" href="/government/publications/draft-solvency-ii-and-insurance-amendment-etc-eu-exit-regulations-2018">Draft Solvency II and Insurance (Amendment etc) (EU Exit) Regulations 2018</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-43cfdf5e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-e83ec98d" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-43cfdf5e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-e83ec98d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -187,14 +187,14 @@ It will be updated if anything changes, including if a deal is agreed.
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-bd1ee85f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c6aca6fe" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-bd1ee85f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-c6aca6fe" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"1","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"1","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
