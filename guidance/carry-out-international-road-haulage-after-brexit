@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    What UK goods vehicle operators need to do to carry out international road haulage if there's a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">What UK goods vehicle operators need to do to carry out international road haulage if there's a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 August 2019
-    <br></br>Last updated 29 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 29 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-transport">Department for Transport</a>, <a href="/government/organisations/driver-and-vehicle-licensing-agency">Driver and Vehicle Licensing Agency</a>, <a href="/government/organisations/traffic-commissioners">Traffic Commissioners for Great Britain</a>, and <a href="/government/organisations/driver-and-vehicle-standards-agency">Driver and Vehicle Standards Agency</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-transport">Department for Transport</a>, <a class="govuk-link" href="/government/organisations/driver-and-vehicle-licensing-agency">Driver and Vehicle Licensing Agency</a>, <a class="govuk-link" href="/government/organisations/traffic-commissioners">Traffic Commissioners for Great Britain</a>, and <a class="govuk-link" href="/government/organisations/driver-and-vehicle-standards-agency">Driver and Vehicle Standards Agency</a>
                 </span>
             </dd>
         </dl>
@@ -58,46 +56,56 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#get-the-right-operator-licence" data-track-options="{"dimension29":"Get the right operator licence"}" href="#get-the-right-operator-licence">Get the right operator licence</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#get-the-right-operator-licence" data-track-options="{"dimension29":"Get the right operator licence"}" href="#get-the-right-operator-licence">Get the right operator licence</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#get-the-right-permits" data-track-options="{"dimension29":"Get the right permits"}" href="#get-the-right-permits">Get the right permits</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#get-the-right-permits" data-track-options="{"dimension29":"Get the right permits"}" href="#get-the-right-permits">Get the right permits</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#cabotage-and-cross-trade-jobs" data-track-options="{"dimension29":"Cabotage and cross-trade jobs"}" href="#cabotage-and-cross-trade-jobs">Cabotage and cross-trade jobs</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#cabotage-and-cross-trade-jobs" data-track-options="{"dimension29":"Cabotage and cross-trade jobs"}" href="#cabotage-and-cross-trade-jobs">Cabotage and cross-trade jobs</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#own-account-journeys" data-track-options="{"dimension29":"Own account journeys"}" href="#own-account-journeys">Own account journeys</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#own-account-journeys" data-track-options="{"dimension29":"Own account journeys"}" href="#own-account-journeys">Own account journeys</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#exporting-and-importing-goods" data-track-options="{"dimension29":"Exporting and importing goods"}" href="#exporting-and-importing-goods">Exporting and importing goods</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#exporting-and-importing-goods" data-track-options="{"dimension29":"Exporting and importing goods"}" href="#exporting-and-importing-goods">Exporting and importing goods</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#register-your-vehicle-trailers" data-track-options="{"dimension29":"Register your vehicle trailers"}" href="#register-your-vehicle-trailers">Register your vehicle trailers</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#register-your-vehicle-trailers" data-track-options="{"dimension29":"Register your vehicle trailers"}" href="#register-your-vehicle-trailers">Register your vehicle trailers</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#vehicle-registration-documents" data-track-options="{"dimension29":"Vehicle registration documents"}" href="#vehicle-registration-documents">Vehicle registration documents</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#vehicle-registration-documents" data-track-options="{"dimension29":"Vehicle registration documents"}" href="#vehicle-registration-documents">Vehicle registration documents</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#display-gb-stickers" data-track-options="{"dimension29":"Display GB stickers"}" href="#display-gb-stickers">Display GB stickers</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#display-gb-stickers" data-track-options="{"dimension29":"Display GB stickers"}" href="#display-gb-stickers">Display GB stickers</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#vehicle-and-trailer-insurance" data-track-options="{"dimension29":"Vehicle and trailer insurance"}" href="#vehicle-and-trailer-insurance">Vehicle and trailer insurance</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#vehicle-and-trailer-insurance" data-track-options="{"dimension29":"Vehicle and trailer insurance"}" href="#vehicle-and-trailer-insurance">Vehicle and trailer insurance</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#what-lorry-and-goods-vehicle-drivers-need-to-do" data-track-options="{"dimension29":"What lorry and goods vehicle drivers need to do"}" href="#what-lorry-and-goods-vehicle-drivers-need-to-do">What lorry and goods vehicle drivers need to do</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#what-lorry-and-goods-vehicle-drivers-need-to-do" data-track-options="{"dimension29":"What lorry and goods vehicle drivers need to do"}" href="#what-lorry-and-goods-vehicle-drivers-need-to-do">What lorry and goods vehicle drivers need to do</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -105,16 +113,20 @@
       <div class="govspeak">
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
-<p>The UK will leave the <abbr title="European Union">EU</abbr> on 31 October. This page tells you how to prepare for Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+<p>The UK is leaving the <abbr title="European Union">EU</abbr>. This page tells you how to prepare for Brexit and will be updated if anything changes.</p>
 
 <p><a href="https://www.gov.uk/email/subscriptions/new?default_frequency=daily&topic_id=find-brexit-guidance-for-your-business-in-the-following-category-road-passengers-and-freight">Sign up for email alerts</a> to get the latest information.</p>
 </div>
 
+<div role="note" aria-label="Warning" class="application-notice help-notice">
+<p>You will not be able to move goods across <abbr title="European Union">EU</abbr> borders or drive in the <abbr title="European Union">EU</abbr> without the correct documents.</p>
+</div>
+
 <h2 id="get-the-right-operator-licence">Get the right operator licence</h2>
 
-<p>You must have a <a href="https://www.gov.uk/being-a-goods-vehicle-operator/types-of-licence#standard-international-licence">standard international operator licence</a> for journeys to, through or from the <a href="https://www.gov.uk/eu-eea"><abbr title="European Union">EU</abbr> and European Economic Area (<abbr title="European Economic Area">EEA</abbr>)</a>.</p>
+<p>You must have a <a href="https://www.gov.uk/being-a-goods-vehicle-operator/types-of-licence#standard-international-licence">standard international operator licence</a> for journeys to, through or from the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein and Norway.</p>
 
-<p>You also need an <a href="https://www.gov.uk/guidance/eu-community-licences-for-international-road-haulage"><abbr title="European Union">EU</abbr> Community Licence</a>. You can use your existing community licence until 31 December 2019, even if there’s a no-deal Brexit. This will let you:</p>
+<p>You also need an <a href="https://www.gov.uk/guidance/eu-community-licences-for-international-road-haulage"><abbr title="European Union">EU</abbr> Community Licence</a>. You can use your existing community licence until 31 July 2020, even if there’s a no-deal Brexit. This will let you:</p>
 
 <ul>
   <li>do journeys from the UK, for example, a journey to Germany</li>
@@ -132,13 +144,16 @@
 
 <h2 id="get-the-right-permits">Get the right permits</h2>
 
-<p>You can complete most international journeys until 31 December 2019 without extra permits. This includes if there’s a no-deal Brexit.</p>
+<p>You can complete most international journeys until 31 July 2020 without extra permits. This includes if there’s a no-deal Brexit.</p>
 
-<h3 id="journeys-until-31-december-2019-if-theres-a-no-deal-brexit">Journeys until 31 December 2019 if there’s a no-deal Brexit</h3>
+<h3 id="journeys-until-31-july-2020-if-theres-a-no-deal-brexit">Journeys until 31 July 2020 if there’s a no-deal Brexit</h3>
 
-<p>You can still use your existing <abbr title="European Union">EU</abbr> Community Licence until 31 December 2019 if the journey is entirely within the <abbr title="European Union">EU</abbr> or <abbr title="European Economic Area">EEA</abbr>.</p>
+<p>You can use your existing <abbr title="European Union">EU</abbr> Community Licence until 31 July 2020 if the journey is entirely within the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein and Norway.</p>
 
-<p>You will need <a href="https://www.gov.uk/guidance/ecmt-international-road-haulage-permits">European Conference of Ministers of Transport (<abbr title="European Conference of Ministers of Transport">ECMT</abbr>) permits</a> for journeys through <abbr title="European Union">EU</abbr> and <abbr title="European Economic Area">EEA</abbr> countries to <abbr title="European Conference of Ministers of Transport">ECMT</abbr> countries not in the <abbr title="European Union">EU</abbr> or <abbr title="European Economic Area">EEA</abbr>. These countries are:</p>
+<h4 id="journeys-to-some-countries-outside-the-eu">Journeys to some countries outside the <abbr title="European Union">EU</abbr>
+</h4>
+
+<p>After a no-deal Brexit, you’ll need <a href="https://www.gov.uk/guidance/ecmt-international-road-haulage-permits"><abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits</a> for journeys through the <abbr title="European Union">EU</abbr> (except Cyprus, where you cannot use the permits), Liechtenstein and Norway to these countries:</p>
 
 <p>Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Macedonia, Moldova, Montenegro, Russia, Serbia, Switzerland, Turkey, and Ukraine.</p>
 
@@ -147,41 +162,60 @@
 You will need an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit to drive through France to deliver goods in Switzerland after a no-deal Brexit.</p>
 </div>
 
-<p>You will be able to <a href="https://www.gov.uk/guidance/ecmt-international-road-haulage-permits">buy these <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits</a> from 30 August 2019.</p>
+<p><a href="https://www.gov.uk/guidance/ecmt-international-road-haulage-permits">Find out how to apply for <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits</a> and when to do it.</p>
 
-<h3 id="journeys-from-1-january-2020-if-theres-a-no-deal-brexit">Journeys from 1 January 2020 if there’s a no-deal Brexit</h3>
-
-<p>Check back for updates about how international road haulage permits will work from January 2020.</p>
-
-<h3 id="haulage-in-ireland">Haulage in Ireland</h3>
+<h4 id="haulage-in-ireland">Haulage in Ireland</h4>
 
 <p>You will not need extra permits for haulage in Ireland if there’s a no-deal Brexit. You’ll still be able to use your <abbr title="European Union">EU</abbr> Community Licence for journeys:</p>
 
 <ul>
   <li>to and from Ireland</li>
-  <li>through Ireland to other <abbr title="European Union">EU</abbr> or <abbr title="European Economic Area">EEA</abbr> countries</li>
+  <li>through Ireland to other <abbr title="European Union">EU</abbr> countries, Iceland, Liechtenstein and Norway</li>
   <li>through Ireland between Great Britain and Northern Ireland</li>
 </ul>
 
+<h3 id="journeys-from-1-august-2020-if-theres-a-no-deal-brexit">Journeys from 1 August 2020 if there’s a no-deal Brexit</h3>
+
+<p>Check back for updates about how international road haulage permits will work from August 2020.</p>
+
 <h3 id="haulage-in-switzerland-and-norway">Haulage in Switzerland and Norway</h3>
 
-<p>You’ll still be able to drive in Switzerland and Norway using an <abbr title="European Union">EU</abbr> Community Licence if there’s a no-deal Brexit. However, you’ll need an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit for the part of your journey through <abbr title="European Union">EU</abbr> and <abbr title="European Economic Area">EEA</abbr> countries.</p>
+<p>You’ll still be able to drive in Switzerland and Norway using an <abbr title="European Union">EU</abbr> Community Licence if there’s a no-deal Brexit. However, you’ll need an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit for the part of your journey through the <abbr title="European Union">EU</abbr> (except Cyprus), Iceland and Liechtenstein.</p>
 
 <h2 id="cabotage-and-cross-trade-jobs">Cabotage and cross-trade jobs</h2>
 
-<p>Cabotage is the loading and unloading of goods for hire or reward between 2 points in a country by a vehicle that is not registered in that country.</p>
+<p>Cabotage is the loading and unloading of goods (for hire or reward) between 2 points in a country by a vehicle that is not registered in that country.</p>
 
-<p>Cross-trade is the haulage of goods for hire or reward between 2 <abbr title="European Union">EU</abbr> countries by a vehicle registered in a different <abbr title="European Union">EU</abbr> country.</p>
+<p>Cross-trade is the haulage of goods (for hire or reward) between 2 <abbr title="European Union">EU</abbr> countries by a vehicle registered in a different <abbr title="European Union">EU</abbr> country.</p>
 
 <p>The number of cabotage and cross-trade jobs you can do will reduce if there’s a no-deal Brexit.</p>
 
-<h3 id="until-31-december-2019">Until 31 December 2019</h3>
-
-<p>You’ll be allowed to carry out 2 cabotage or cross-trade jobs within 7 days of making an international journey until 31 December 2019.</p>
-
-<h3 id="from-1-january-2020">From 1 January 2020</h3>
-
-<p>Check back for updates about how cabotage and cross-trade will work from January 2020.</p>
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Number of jobs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Until 31 January 2020</td>
+      <td>3 jobs in 7 days</td>
+    </tr>
+    <tr>
+      <td>From 1 February 2020 to 31 May 2020</td>
+      <td>2 jobs in 7 days</td>
+    </tr>
+    <tr>
+      <td>From 1 June 2020 to 31 July 2020</td>
+      <td>1 job in 7 days</td>
+    </tr>
+    <tr>
+      <td>From 1 August 2020</td>
+      <td>No jobs</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="own-account-journeys">Own account journeys</h2>
 
@@ -192,7 +226,7 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
   <li>your delivery contents are not for hire or reward</li>
 </ul>
 
-<p>You’ll be able to do own account journeys to <abbr title="European Union">EU</abbr> countries until 31 December 2019. You’ll be allowed to do 2 extra operations within 7 days of first loading or unloading in the <abbr title="European Union">EU</abbr>.</p>
+<p>You’ll be able to do own account journeys to <abbr title="European Union">EU</abbr> countries until 31 July 2020. You’ll be allowed to do 2 extra operations within 7 days of first loading or unloading in the <abbr title="European Union">EU</abbr>.</p>
 
 <p>You’ll also be allowed to do own account journeys in these countries without any extra permits if there’s a no-deal Brexit:</p>
 
@@ -209,7 +243,7 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
 
 <h2 id="register-your-vehicle-trailers">Register your vehicle trailers</h2>
 
-<p>You must now register these types of trailers before you drive to or through most <abbr title="European Union">EU</abbr> and <abbr title="European Economic Area">EEA</abbr> countries:</p>
+<p>You must now register these types of trailers before you drive to or through most <abbr title="European Union">EU</abbr> countries, Iceland, Liechtenstein and Norway:</p>
 
 <ul>
   <li>commercial trailers weighing over 750kg</li>
@@ -241,7 +275,9 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
 
 <h2 id="display-gb-stickers">Display GB stickers</h2>
 
-<p>Display a GB sticker on the rear of your vehicle. Do this even if you have a number plate which includes the GB identifier.</p>
+<p>Display a GB sticker on the rear of your vehicle and trailer, even if you have a number plate has the Euro symbol or a Great Britain national identifier.</p>
+
+<p>You do not need to display a GB sticker to drive in Ireland.</p>
 
 <h2 id="vehicle-and-trailer-insurance">Vehicle and trailer insurance</h2>
 
@@ -261,7 +297,7 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
 
 <h3 id="what-to-do-if-your-vehicle-is-involved-in-a-road-accident">What to do if your vehicle is involved in a road accident</h3>
 
-<p>You may need to bring legal proceedings in the <abbr title="European Union">EU</abbr> or <abbr title="European Economic Area">EEA</abbr> country against either the responsible driver or the insurer of the vehicle if there’s a no-deal Brexit.</p>
+<p>You may need to bring legal proceedings in the <abbr title="European Union">EU</abbr> country, Iceland, Liechtenstein or Norway against either the responsible driver or the insurer of the vehicle if there’s a no-deal Brexit.</p>
 
 <p>You might not get compensation if the accident is caused by an uninsured driver or if the driver cannot be traced. This will vary from country to country.</p>
 
@@ -269,11 +305,12 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
 
 <h2 id="what-lorry-and-goods-vehicle-drivers-need-to-do">What lorry and goods vehicle drivers need to do</h2>
 
-<p>Check what your lorry and goods vehicle drivers need to do to prepare to <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers">drive in the <abbr title="European Union">EU</abbr> after Brexit</a>. This includes:</p>
+<p>Your drivers should exchange their UK Driver <abbr title="Certificate of Professional Competence">CPC</abbr> qualification for an <abbr title="European Union">EU</abbr> one if you’re an <abbr title="European Union">EU</abbr> company. They will then be able to work for both <abbr title="European Union">EU</abbr> and UK companies after Brexit. They need to exchange it before Brexit.</p>
+
+<p>Check what other things your lorry and goods vehicle drivers need to do to prepare to <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers">drive in the <abbr title="European Union">EU</abbr> after Brexit</a>. This includes:</p>
 
 <ul>
   <li>getting international driving permits (<abbr title="international driving permits">IDPs</abbr>)</li>
-  <li>considering exchanging their Driver Certificate of Professional Competence (<abbr title="Certificate of Professional Competence">CPC</abbr>) qualification if they work for an <abbr title="European Union">EU</abbr> company</li>
   <li>renewing their passport early enough</li>
   <li>having the right type of travel insurance with healthcare cover</li>
 </ul>
@@ -285,10 +322,14 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 August 2019
-    <br></br>Last updated 29 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 29 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-29T14:02:17.000+00:00">29 October 2019</time>
+              Changed the date you can continue to use your EU Community Licence to from 31 December 2019 to 31 July 2020. This is because the European Commission has extended a temporary set of measures. Updated the dates that you can continue to do cabotage and cross-trades jobs until if there's a no-deal Brexit because the temporary measures have been extended. Added that you do not need to display a GB sticker to drive in Ireland. 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-29T11:02:26.000+01:00">29 August 2019</time>
               Added information about buying ECMT permits from 30 August 2019 for journeys through EU and EEA countries to ECMT member countries in November and December 2019.
@@ -305,7 +346,7 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -324,37 +365,40 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-93093322" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-006da6df" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-93093322" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-006da6df" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"2","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/being-a-goods-vehicle-operator" data-track-options="{"dimension28":"2","dimension29":"Being a goods vehicle operator"}" href="/being-a-goods-vehicle-operator">Being a goods vehicle operator</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"3","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/contact-the-dvla" data-track-options="{"dimension28":"3","dimension29":"Contact DVLA"}" href="/contact-the-dvla">Contact DVLA</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/being-a-goods-vehicle-operator" data-track-options="{"dimension28":"3","dimension29":"Being a goods vehicle operator"}" href="/being-a-goods-vehicle-operator">Being a goods vehicle operator</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-93093322" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-006da6df" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-93093322" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-006da6df" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers" data-track-options="{"dimension28":"3","dimension29":"Drive in the EU after Brexit: lorry and goods vehicle drivers"}" href="/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers">Drive in the EU after Brexit: lorry and goods vehicle drivers</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/transport-goods-out-of-the-uk-by-road-if-the-uk-leaves-the-eu-without-a-deal-checklist-for-hauliers" data-track-options="{"dimension28":"3","dimension29":"International road haulage: no-deal Brexit haulier checklist"}" href="/guidance/transport-goods-out-of-the-uk-by-road-if-the-uk-leaves-the-eu-without-a-deal-checklist-for-hauliers">International road haulage: no-deal Brexit haulier checklist</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/ecmt-international-road-haulage-permits" data-track-options="{"dimension28":"3","dimension29":"ECMT international road haulage permits"}" href="/guidance/ecmt-international-road-haulage-permits">ECMT international road haulage permits</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers" data-track-options="{"dimension28":"5","dimension29":"Drive in the EU after Brexit: lorry and goods vehicle drivers"}" href="/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers">Drive in the EU after Brexit: lorry and goods vehicle drivers</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/ecmt-international-road-haulage-permits" data-track-options="{"dimension28":"5","dimension29":"ECMT international road haulage permits"}" href="/guidance/ecmt-international-road-haulage-permits">ECMT international road haulage permits</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/transporting-goods-between-the-uk-and-eu-in-a-no-deal-brexit-guidance-for-hauliers" data-track-options="{"dimension28":"5","dimension29":"Transporting goods between the UK and EU in a no-deal Brexit: guidance for hauliers"}" href="/guidance/transporting-goods-between-the-uk-and-eu-in-a-no-deal-brexit-guidance-for-hauliers">Transporting goods between the UK and EU in a no-deal Brexit: guidance for hauliers</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/how-to-move-goods-through-roro-locations-in-a-no-deal-brexit-eu-to-uk-and-uk-to-eu" data-track-options="{"dimension28":"5","dimension29":"How to move goods through RORO locations in a no deal Brexit: EU to UK and UK to EU"}" href="/guidance/how-to-move-goods-through-roro-locations-in-a-no-deal-brexit-eu-to-uk-and-uk-to-eu">How to move goods through RORO locations in a no deal Brexit: EU to UK and UK to EU</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/hauliers-and-commercial-drivers-you-will-need-new-documents-to-transport-goods-into-the-eu-after-brexit" data-track-options="{"dimension28":"5","dimension29":"Driver, vehicle, cargo and customs documents required to transport goods into the EU after Brexit"}" href="/guidance/hauliers-and-commercial-drivers-you-will-need-new-documents-to-transport-goods-into-the-eu-after-brexit">Driver, vehicle, cargo and customs documents required to transport goods into the EU after Brexit</a></li>
 
   </ul>
 </nav>
@@ -380,9 +424,9 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-01f00c93" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0b2a0398" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-01f00c93" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-0b2a0398" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -392,7 +436,7 @@ You will need an <abbr title="European Conference of Ministers of Transport">ECM
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/transport/road-freight" data-track-options="{"dimension28":"6","dimension29":"Road freight"}" href="/transport/road-freight">Road freight</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.4 Explore the topic" data-track-label="/business-and-industry/exporting" data-track-options="{"dimension28":"6","dimension29":"Exporting"}" href="/business-and-industry/exporting">Exporting</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.5 Explore the topic" data-track-label="/business-and-industry/importing" data-track-options="{"dimension28":"6","dimension29":"Importing"}" href="/business-and-industry/importing">Importing</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.6 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"6","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.6 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"6","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
