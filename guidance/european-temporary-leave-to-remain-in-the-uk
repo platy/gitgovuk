@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Guidance on the immigration arrangements for EU, EEA and Swiss citizens and their family members who move to the UK after Brexit if the UK leaves the EU without a deal.
-  </p>
+  <p class="gem-c-lead-paragraph">Guidance on the immigration arrangements for EU, EEA and Swiss citizens and their family members who move to the UK after Brexit if the UK leaves the EU without a deal.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 28 January 2019
-    <br></br>Last updated 6 September 2019
-      — <a href="#history" class="app-c-published-dates__history-link">see all updates</a>
+    <br></br>Last updated 30 October 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/home-office">Home Office</a> and <a href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
+                  <a class="govuk-link" href="/government/organisations/home-office">Home Office</a> and <a class="govuk-link" href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
                 </span>
             </dd>
         </dl>
@@ -58,36 +56,43 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#applying-for-european-temporary-leave-to-remain" data-track-options="{"dimension29":"Applying for European temporary leave to remain"}" href="#applying-for-european-temporary-leave-to-remain">Applying for European temporary leave to remain</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#your-rights-and-status" data-track-options="{"dimension29":"Your rights and status"}" href="#your-rights-and-status">Your rights and status</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#applying-for-european-temporary-leave-to-remain" data-track-options="{"dimension29":"Applying for European temporary leave to remain"}" href="#applying-for-european-temporary-leave-to-remain">Applying for European temporary leave to remain</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#who-needs-to-apply" data-track-options="{"dimension29":"Who needs to apply?"}" href="#who-needs-to-apply">Who needs to apply?</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#your-rights-and-status" data-track-options="{"dimension29":"Your rights and status"}" href="#your-rights-and-status">Your rights and status</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#if-youre-living-in-the-uk-before-the-uk-leaves-the-eu" data-track-options="{"dimension29":"If you’re living in the UK before the UK leaves the EU"}" href="#if-youre-living-in-the-uk-before-the-uk-leaves-the-eu">If you’re living in the UK before the UK leaves the EU</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#who-needs-to-apply" data-track-options="{"dimension29":"Who needs to apply?"}" href="#who-needs-to-apply">Who needs to apply?</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#if-youre-living-in-the-uk-before-the-uk-leaves-the-eu" data-track-options="{"dimension29":"If you’re living in the UK before the UK leaves the EU"}" href="#if-youre-living-in-the-uk-before-the-uk-leaves-the-eu">If you’re living in the UK before the UK leaves the EU</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h3 id="stay-up-to-date">Stay up to date</h3>
-
-<p>This page tells you what to do if the UK leaves the EU without a deal. It will be updated if anything changes, including if a deal is agreed.
+<h2 id="stay-up-to-date">Stay up to date</h2>
+<p><br></br>
+The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes.
 <br></br><br></br>
-<a href="https://www.gov.uk/email-signup/confirm?link=%2Fentering-staying-uk%2Frights-eu-eea-citizens">Sign up for email alerts</a> to get the latest information on the rights of EU and <abbr title="European Economic Area">EEA</abbr> citizens in the UK.</p>
+<a href="https://www.gov.uk/email-signup/confirm?link=%2Fentering-staying-uk%2Frights-eu-eea-citizens">Sign up to email alerts</a> to get the latest information.</p>
 </div>
 
 <p>European temporary leave to remain (<abbr title="European temporary leave to remain">Euro TLR</abbr>) is a temporary UK immigration status that will allow EU, <abbr title="European Economic Area">EEA</abbr> and Swiss citizens who move to the UK after Brexit to continue living, working and studying in the UK after 31 December 2020.</p>
@@ -135,7 +140,7 @@
 
 <p>You will not be eligible for <abbr title="European temporary leave to remain">Euro TLR</abbr> if you are a serious or persistent criminal or a threat to national security.</p>
 
-<p>Irish citizens do not need to apply to stay in the UK, including after 31 December 2020. They’ll continue to have the right to enter, live, work and study in the UK under <a href="https://www.gov.uk/government/publications/travelling-in-the-common-travel-area-if-theres-no-brexit-deal/travelling-within-the-common-travel-area-and-the-associated-rights-of-british-and-irish-citizens-if-there-is-no-brexit-deal#overview">Common Travel Area arrangements</a>.</p>
+<p>Irish citizens are not eligible to apply for European temporary leave to remain as their status in the UK is already protected. They’ll continue to have the right to enter, live, work and study in the UK under <a href="https://www.gov.uk/government/publications/travelling-in-the-common-travel-area-if-theres-no-brexit-deal/travelling-within-the-common-travel-area-and-the-associated-rights-of-british-and-irish-citizens-if-there-is-no-brexit-deal#overview">Common Travel Area arrangements</a>.</p>
 
 <p>You may also be able to apply under the future immigration system.</p>
 
@@ -160,10 +165,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 28 January 2019
-    <br></br>Last updated 6 September 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 30 October 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-30T10:23:44.000+00:00">30 October 2019</time>
+              Updated to clarify the status of Irish citizens: Irish citizens are not eligible to apply for European temporary leave to remain as their status in the UK is already protected. 
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-06T12:11:05.000+01:00">6 September 2019</time>
               Updated to include reference to the future immigration system
@@ -188,7 +197,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -207,14 +216,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-1d20695a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-6e2b4087" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1d20695a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6e2b4087" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -246,9 +255,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b94189ce" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f359e48a" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-b94189ce" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-f359e48a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
