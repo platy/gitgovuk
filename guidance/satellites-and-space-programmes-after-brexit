@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How the UK’s space programmes will be affected if there’s a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">How the UK’s space programmes will be affected if there’s a no-deal Brexit.</p>
 
   </div>
 </div>
@@ -25,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 9 August 2019
+    <br></br>Last updated 4 November 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a> and <a href="/government/organisations/uk-space-agency">UK Space Agency</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a> and <a class="govuk-link" href="/government/organisations/uk-space-agency">UK Space Agency</a>
                 </span>
             </dd>
         </dl>
@@ -56,28 +56,32 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#galileo" data-track-options="{"dimension29":"Galileo"}" href="#galileo">Galileo</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#galileo" data-track-options="{"dimension29":"Galileo"}" href="#galileo">Galileo</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#copernicus" data-track-options="{"dimension29":"Copernicus"}" href="#copernicus">Copernicus</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#copernicus" data-track-options="{"dimension29":"Copernicus"}" href="#copernicus">Copernicus</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#space-surveillance-and-tracking" data-track-options="{"dimension29":"Space surveillance and tracking"}" href="#space-surveillance-and-tracking">Space surveillance and tracking</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#space-surveillance-and-tracking" data-track-options="{"dimension29":"Space surveillance and tracking"}" href="#space-surveillance-and-tracking">Space surveillance and tracking</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#more-information" data-track-options="{"dimension29":"More information"}" href="#more-information">More information</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#more-information" data-track-options="{"dimension29":"More information"}" href="#more-information">More information</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -86,9 +90,9 @@
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>This page tells you what to do if there’s a no-deal Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+<p>The UK is leaving the <abbr title="European Union">EU</abbr>. This page tells you how to prepare for Brexit and will be updated if anything changes.</p>
 
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
+<p><a href="https://www.gov.uk/email-signup?topic=%2Fbrexit">Sign up for email alerts</a> to get the latest information.</p>
 </div>
 
 <p>This guidance sets out how the UK’s participation in <abbr title="European Union">EU</abbr> space programmes will be affected if there’s a no-deal Brexit.</p>
@@ -143,37 +147,39 @@
 
 <h3 id="actions-for-businesses-academics-and-researchers-1">Actions for businesses, academics and researchers</h3>
 
-<p>The UK will no longer be able to participate in the Copernicus programme.</p>
+<p>The UK will not be able to participate in the parts of the Copernicus programme that are open only to <abbr title="European Union">EU</abbr> Member States. For example, UK-based businesses, academics and researchers will not be able to bid for future Copernicus contracts tendered through the <abbr title="European Union">EU</abbr>, or through any other process using <abbr title="European Union">EU</abbr> procurement rules.</p>
 
-<p>UK-based businesses, academics and researchers will not be able to bid for future Copernicus contracts tendered through the <abbr title="European Union">EU</abbr>, or through any other process using <abbr title="European Union">EU</abbr> procurement rules, such as <abbr title="European Organisation for the Exploitation of Meteorological Satellites">EUMETSAT</abbr>.</p>
+<p>We expect that UK-based entities holding Copernicus contracts with delivery dates that run past the date of Brexit will continue to be able to deliver that work. We would encourage UK-based entities holding those contracts to confirm arrangements with their relevant contracting authority.</p>
 
-<p>UK-based Copernicus data users should consider the impact that losing access to any Copernicus data or information not sourced under the free and open data policy will have on their operations.</p>
+<p>UK-based Copernicus data users should consider the impact that losing access to any data or information not sourced under the free and open data policy may have on their operations.</p>
 
 <h3 id="areas-where-uk-involvement-can-continue-1">Areas where UK involvement can continue</h3>
 
+<p>The UK will remain a member of the European Space Agency (<abbr title="European Space Agency">ESA</abbr>) and will continue its participation in the Copernicus Space Component (<abbr title="Copernicus Space Component">CSC4</abbr>) of the Copernicus programme. This will allow UK entities to continue to be able to bid for contracts tendered through <abbr title="European Space Agency">ESA</abbr> for <abbr title="Copernicus Space Component">CSC4</abbr>, its predecessor the Global Monitoring for Environment and Security (<abbr title="Global Monitoring for Environment and Security">GMES</abbr>) programme, or under other programmes such as the Earth Observation Envelope Programme 5 (<abbr title="Earth Observation Envelope Programme 5">EOEP5</abbr>) and Future EO-1.</p>
+
 <p>Copernicus has a free and open data policy which means that the data produced by its satellites (Sentinels) and the Land, Marine, Climate Change and Atmosphere services will continue to be freely available to UK users.</p>
 
-<p>The UK’s memberships of the European Organisation for the Exploitation of Meteorological Satellites (<abbr title="European Organisation for the Exploitation of Meteorological Satellites">EUMETSAT</abbr>), European Centre for Medium-Range Weather Forecasts (<abbr title="European Centre for Medium-Range Weather Forecasts">ECMWF</abbr>) and Mercator Ocean are unaffected, therefore those organisations will retain access to high-bandwidth data that supports the Land, Marine, Climate Change and Atmosphere services.</p>
+<p>UK membership of the European Organisation for the Exploitation of Meteorological Satellites (<abbr title="European Organisation for the Exploitation of Meteorological Satellites">EUMETSAT</abbr>), the European Centre for Medium-Range Weather Forecasts (<abbr title="European Centre for Medium-Range Weather Forecasts">ECMWF</abbr>) and Mercator Ocean are unaffected. Those organisations will retain access to high-bandwidth data that supports the Land, Marine, Climate Change and Atmosphere services.</p>
 
-<p>UK organisations will continue to be able to bid for Copernicus contracts tendered through <abbr title="European Centre for Medium-Range Weather Forecasts">ECMWF</abbr> and Mercator Ocean because they operate procurement processes that differ from <abbr title="European Union">EU</abbr> procurement rules.</p>
+<p>UK organisations will continue to be able to bid for Copernicus contracts tendered through <abbr title="European Centre for Medium-Range Weather Forecasts">ECMWF</abbr>, <abbr title="European Organisation for the Exploitation of Meteorological Satellites">EUMETSAT</abbr> and Mercator Ocean because they operate procurement processes that differ from <abbr title="European Union">EU</abbr> procurement rules.</p>
 
 <p>Subsidiaries of UK organisations that are based in the <abbr title="European Union">EU</abbr>, and <abbr title="European Union">EU</abbr>-based researchers using Copernicus data and services will be unaffected if there’s a no-deal Brexit.</p>
 
-<p>The UK will continue to remain a member of <abbr title="European Space Agency">ESA</abbr>, and as such UK organisations will continue to be able to bid for contracts tendered as part of the Copernicus Space Component Programme 4 or under other programmes such as Earth Observation Envelope Programme 5.</p>
+<p>The UK will continue to be part of the Jason Continuity of Service (<abbr title="Continuity of Service">C/S</abbr>) mission. We expect that UK-based entities holding contracts in the Jason <abbr title="Continuity of Service">C/S</abbr> mission with delivery dates that run past the date of Brexit will continue to be able to deliver that work. We would encourage UK-based entities holding those contracts to confirm arrangements with their relevant contracting authority.</p>
 
 <h3 id="areas-where-uk-involvement-will-end-1">Areas where UK involvement will end</h3>
 
-<p>UK-based businesses, academics and researchers will not be able to bid for future Copernicus contracts tendered through the <abbr title="European Union">EU</abbr>, or through any other process using <abbr title="European Union">EU</abbr> procurement rules, such as <abbr title="European Organisation for the Exploitation of Meteorological Satellites">EUMETSAT</abbr>. We expect that UK-based entities holding Copernicus contracts with delivery dates that run past the date of Brexit will continue to be able to deliver that work. We would encourage UK-based entities holding those contracts to confirm arrangements with their relevant contracting authority if there’s a no-deal Brexit.</p>
+<p>UK-based businesses, academics and researchers will not be able to bid for future Copernicus contracts tendered through the <abbr title="European Union">EU</abbr>, or through any other process using <abbr title="European Union">EU</abbr> procurement rules.</p>
 
-<p>Some UK users will lose the right to high-bandwidth access to the standard data from Copernicus Sentinels. The UK will lose access to data sourced by Copernicus from Contributing Missions.</p>
+<p>Some UK users may lose the right to high-bandwidth access to the standard data from Copernicus Sentinels. Some UK users may also lose access to data sourced by Copernicus from Contributing Missions.</p>
 
 <h3 id="background-1">Background</h3>
 
-<p>The UK currently participates in the Copernicus Earth Observation space programme as a member of the <abbr title="European Union">EU</abbr>, as well as through our membership of the <abbr title="European Space Agency">ESA</abbr> and <abbr title="European Organisation for the Exploitation of Meteorological Satellites">EUMETSAT</abbr>. The UK contributes to Copernicus financially and UK industry and academia are involved in the delivery and operation of the programme.</p>
+<p>The UK currently participates in the Copernicus Earth Observation space programme as a member of the <abbr title="European Union">EU</abbr>, as well as through our memberships of <abbr title="European Space Agency">ESA</abbr>, <abbr title="European Organisation for the Exploitation of Meteorological Satellites">EUMETSAT</abbr>, <abbr title="European Centre for Medium-Range Weather Forecasts">ECMWF</abbr> and Mercator Ocean. The UK contributes to Copernicus financially and UK industry and academia are involved in the delivery and operation of the programme.</p>
 
-<p>UK companies, researchers and public sector organisations use Copernicus data for a wide range of applications. Companies and researchers based in the <abbr title="European Union">EU</abbr> currently also bid in open competition for contracts to design, build and operate both the physical infrastructure of the programme and its services.</p>
+<p>UK companies, researchers and public sector organisations use Copernicus data for a wide range of applications. Companies and researchers based in the <abbr title="European Union">EU</abbr> or in Copernicus Participating states also bid in open competition for contracts to design, build and operate both the physical infrastructure of the programme and its services.</p>
 
-<p>The UK is fully involved in the decision-making of the programme, for example as a member of the main governance Committee. The Department for Environment, Food and Rural Affairs (<abbr title="Department for Environment, Food and Rural Affairs">Defra</abbr>) leads for the UK government on Copernicus policy. The UK Space Agency leads on policy relating to satellites and physical infrastructure.</p>
+<p>The UK is fully involved in the decision-making of the programme, for example as a member of the main governance Committee. The Department for Environment, Food and Rural Affairs (<abbr title="Department for Environment, Food and Rural Affairs">Defra</abbr>) leads for the UK government on Copernicus policy. The UK Space Agency leads on policy relating to satellites and the physical data infrastructure of the Copernicus programme for the UK.</p>
 
 <h2 id="space-surveillance-and-tracking">Space surveillance and tracking</h2>
 
@@ -204,15 +210,29 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 9 August 2019
+    <br></br>Last updated 4 November 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-11-04T16:24:54.000+00:00">4 November 2019</time>
+              Corrections made to the Copernicus section.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-09T08:59:00.000+01:00">9 August 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -229,6 +249,27 @@
 <div class="gem-c-contextual-sidebar">
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-94cb91e1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-94cb91e1" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 </div>
@@ -249,15 +290,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-61978907" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-bc837996" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-61978907" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-bc837996" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/business-and-industry/science-and-innovation" data-track-options="{"dimension28":"2","dimension29":"Science and innovation"}" href="/business-and-industry/science-and-innovation">Science and innovation</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/business-and-industry/science-and-innovation" data-track-options="{"dimension28":"2","dimension29":"Science and innovation"}" href="/business-and-industry/science-and-innovation">Science and innovation</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
