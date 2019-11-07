@@ -24,7 +24,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 November 2018
-    <br></br>Last updated 28 October 2019
+    <br></br>Last updated 7 November 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -61,7 +61,7 @@
 <div aria-labelledby="documents-title">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3762177">
+      <section class="attachment embedded" id="attachment_3784807">
   <div class="attachment-thumb">
       <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations/locations-offering-chip-checker-services"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
@@ -85,9 +85,9 @@
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>This information is for people applying to the <a href="https://www.gov.uk/settled-status-eu-citizens-families">EU Settlement Scheme</a>.</p>
+<p>This information is for people applying to the <a href="https://www.gov.uk/settled-status-eu-citizens-families" class="govuk-link">EU Settlement Scheme</a>.</p>
 
-<p>You can make an appointment to have your ID document scanned and verified for you <a href="https://www.gov.uk/guidance/using-the-eu-exit-id-document-check-app">if you cannot use the EU Exit: ID Document Check app</a>. The purpose of the scan is to confirm your identity so that you’ll be able to make an application to the EU Settlement Scheme.</p>
+<p>You can make an appointment to have your ID document scanned and verified for you <a href="https://www.gov.uk/guidance/using-the-eu-exit-id-document-check-app" class="govuk-link">if you cannot use the EU Exit: ID Document Check app</a>. The purpose of the scan is to confirm your identity so that you’ll be able to make an application to the EU Settlement Scheme.</p>
 
 <div class="call-to-action">
 <p>You must not start your application for settled status before you attend your appointment.</p>
@@ -114,9 +114,9 @@
 
 <h2 id="where-this-service-is-available">Where this service is available</h2>
 
-<p><a href="https://www.gov.uk/id-scan-eu-settlement-scheme">Find a location near you</a>.</p>
+<p><a href="https://www.gov.uk/id-scan-eu-settlement-scheme" class="govuk-link">Find a location near you</a>.</p>
 
-<p><a href="https://www.gov.uk/government/publications/eu-settlement-scheme-id-document-scanner-locations/locations-offering-chip-checker-services">See a full list of the locations that offer this service</a>.</p>
+<p><a href="https://www.gov.uk/government/publications/eu-settlement-scheme-id-document-scanner-locations/locations-offering-chip-checker-services" class="govuk-link">See a full list of the locations that offer this service</a>.</p>
 
 <h2 id="charges">Charges</h2>
 
@@ -128,9 +128,9 @@
 
 <h2 id="additional-information">Additional information</h2>
 
-<p>Find out more about the <a href="https://www.gov.uk/settled-status-eu-citizens-families">EU Settlement Scheme</a>.</p>
+<p>Find out more about the <a href="https://www.gov.uk/settled-status-eu-citizens-families" class="govuk-link">EU Settlement Scheme</a>.</p>
 
-<p>This service is for ID document checking only. If you have questions about your application, contact the <a href="https://www.gov.uk/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Resolution Centre</a>.</p>
+<p>This service is for ID document checking only. If you have questions about your application, contact the <a href="https://www.gov.uk/government/collections/eu-settlement-scheme-applicant-information" class="govuk-link">EU Settlement Resolution Centre</a>.</p>
 </div>
 </div>
 
@@ -140,10 +140,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 November 2018
-    <br></br>Last updated 28 October 2019
+    <br></br>Last updated 7 November 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-11-07T11:12:15.000+00:00">7 November 2019</time>
+              New location in Conwy added.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-28T10:52:08.000+00:00">28 October 2019</time>
               Updated to add Gwynedd location and correct Dartford postcode
@@ -313,18 +317,24 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
+  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-bc5a58f3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-2063544e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-bc5a58f3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2063544e" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -340,9 +350,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-bc5a58f3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2063544e" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-bc5a58f3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-2063544e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -353,6 +363,7 @@
 </nav>
 
   </div>
+
 
 
 </div>
@@ -373,9 +384,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-049c350b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-74efeb10" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-049c350b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-74efeb10" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
