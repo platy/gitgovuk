@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    The British Embassy in Helsinki holds meetings across Finland to update British nationals and answer their questions regarding Britain's departure from the European Union. 
-  </p>
+  <p class="gem-c-lead-paragraph">The British Embassy in Helsinki holds meetings across Finland to update British nationals and answer their questions regarding Britain's departure from the European Union. </p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 7 February 2019
-    <br></br>Last updated 20 May 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 8 November 2019
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/world/organisations/british-embassy-helsinki">British Embassy Helsinki</a>
+                  <a class="govuk-link" href="/world/organisations/british-embassy-helsinki">British Embassy Helsinki</a>
                 </span>
             </dd>
         </dl>
@@ -71,26 +69,30 @@
 
 <h2 id="upcoming-events-in-finland">Upcoming events in Finland</h2>
 
-<h3 id="joensuu">Joensuu</h3>
-
-<p>Date and time: TBC August/September 2019</p>
-
-<h3 id="turku">Turku</h3>
-
-<p>Date and time: TBC August/September 2019</p>
-
-<h3 id="tampere">Tampere</h3>
-
-<p>Date and time: TBC August/September 2019</p>
-
-<h3 id="lappeenranta">Lappeenranta</h3>
-
-<p>Date and time: TBC August/September 2019</p>
+<table>
+  <tbody>
+    <tr>
+      <td>Rovaniemi</td>
+      <td>Wednesday 27 November, Hotel Santa Claus, 7:00pm - 8:00pm</td>
+      <td><a rel="external" href="https://www.lyyti.in/BritishNationalsinRovaniemi" class="govuk-link">Register for the event here</a></td>
+    </tr>
+    <tr>
+      <td>Joensuu</td>
+      <td>TBC December 2019</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="past-events-held-in-finland">Past events held in Finland</h2>
 
 <table>
   <tbody>
+    <tr>
+      <td>Tampere</td>
+      <td>9 September 2019</td>
+      <td> </td>
+    </tr>
     <tr>
       <td>Lahti</td>
       <td>5 June 2019</td>
@@ -99,7 +101,7 @@
     <tr>
       <td>Helsinki</td>
       <td>24 April 2019</td>
-      <td>You can read the summary on our <a rel="external" href="https://www.facebook.com/notes/british-embassy-helsinki/summary-of-the-town-hall-meeting-in-helsinki-24-april-2019/10151072173399986/">Facebook page</a>
+      <td>You can read the summary on our <a rel="external" href="https://www.facebook.com/notes/british-embassy-helsinki/summary-of-the-town-hall-meeting-in-helsinki-24-april-2019/10151072173399986/" class="govuk-link">Facebook page</a>
 </td>
     </tr>
     <tr>
@@ -150,7 +152,7 @@
     </div>
 
     <div class="dont-print responsive-bottom-margin">
-        <div class="gem-c-share-links  " data-module="track-click">
+        <div class="gem-c-share-links " data-module="track-click">
       <h2 class="gem-c-share-links__title">Share this page</h2>
 
     <ul class="gem-c-share-links__list">
@@ -175,16 +177,23 @@
             </span><span class="visually-hidden">Share on </span>Twitter</a>
         </li>
     </ul>
-  </div>
-
+</div>
     </div>
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 7 February 2019
-    <br></br>Last updated 20 May 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 8 November 2019
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-11-08T09:30:38.000+00:00">8 November 2019</time>
+              New outreach event scheduled in Rovaniemi on 27 November.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-27T11:57:29.000+01:00">27 August 2019</time>
+              Address, timing and registration link added for Tampere outreach event.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-20T14:32:29.000+01:00">20 May 2019</time>
               Address confirmed and registration link added for the Lahti event on 5 June.
@@ -215,33 +224,40 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
+  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-7d2a4938" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-a4930678" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7d2a4938" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a4930678" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/lithuania-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Lithuania: funeral directors"}" href="/government/publications/lithuania-list-of-funeral-directors">Lithuania: funeral directors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/slovakia-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Slovakia: funeral directors"}" href="/government/publications/slovakia-list-of-funeral-directors">Slovakia: funeral directors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/lithuania-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Lithuania: doctors"}" href="/government/publications/lithuania-list-of-medical-facilitiespractitioners">Lithuania: doctors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/belgium-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Belgium: doctors"}" href="/government/publications/belgium-list-of-medical-facilitiespractitioners">Belgium: doctors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/hungary-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Hungary: doctors"}" href="/government/publications/hungary-list-of-medical-facilitiespractitioners">Hungary: doctors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/elliott-review-into-the-integrity-and-assurance-of-food-supply-networks-interim-report" data-track-options="{"dimension28":"5","dimension29":"Elliott review into the integrity and assurance of food supply networks: interim report"}" href="/government/publications/elliott-review-into-the-integrity-and-assurance-of-food-supply-networks-interim-report">Elliott review into the integrity and assurance of food supply networks: interim report</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/elliott-review-into-the-integrity-and-assurance-of-food-supply-networks-final-report" data-track-options="{"dimension28":"5","dimension29":"Elliott review into the integrity and assurance of food supply networks: final report"}" href="/government/publications/elliott-review-into-the-integrity-and-assurance-of-food-supply-networks-final-report">Elliott review into the integrity and assurance of food supply networks: final report</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/future-technologies-review" data-track-options="{"dimension28":"5","dimension29":"Geospatial Commission: Future Technologies Review"}" href="/government/publications/future-technologies-review">Geospatial Commission: Future Technologies Review</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/elliott-review-of-the-integrity-and-assurance-of-food-supply-networks-government-response" data-track-options="{"dimension28":"5","dimension29":"Elliott review of the integrity and assurance of food supply networks: government response"}" href="/government/publications/elliott-review-of-the-integrity-and-assurance-of-food-supply-networks-government-response">Elliott review of the integrity and assurance of food supply networks: government response</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/report-on-food-authenticity-testing-and-method-standardisation" data-track-options="{"dimension28":"5","dimension29":"Report on food authenticity testing and method standardisation"}" href="/government/publications/report-on-food-authenticity-testing-and-method-standardisation">Report on food authenticity testing and method standardisation</a></li>
 
   </ul>
 </nav>
 
   </div>
+
 
 
 </div>
@@ -262,25 +278,25 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-fb82425f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3d6a9bd3" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-fb82425f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-3d6a9bd3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/going-and-being-abroad/british-nationals-overseas" data-track-options="{"dimension28":"3","dimension29":"British nationals overseas"}" href="/going-and-being-abroad/british-nationals-overseas">British nationals overseas</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/going-and-being-abroad/living-abroad" data-track-options="{"dimension28":"3","dimension29":"Living abroad"}" href="/going-and-being-abroad/living-abroad">Living abroad</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"3","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"3","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-fb82425f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-3d6a9bd3" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-fb82425f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-3d6a9bd3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
