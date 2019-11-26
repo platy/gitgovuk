@@ -24,7 +24,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 November 2018
-    <br></br>Last updated 11 November 2019
+    <br></br>Last updated 26 November 2019
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -61,7 +61,7 @@
 <div aria-labelledby="documents-title">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3793750">
+      <section class="attachment embedded" id="attachment_3822797">
   <div class="attachment-thumb">
       <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations/locations-offering-chip-checker-services"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
@@ -140,10 +140,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 November 2018
-    <br></br>Last updated 11 November 2019
+    <br></br>Last updated 26 November 2019
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-11-26T14:14:57.000+00:00">26 November 2019</time>
+              Locations in Wokingham and Beaconsfield added.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-11-11T16:18:03.000+00:00">11 November 2019</time>
               Locations added in Bulwell, Cardiff, Mansfield,  West Bridgford and Worksop.
@@ -331,32 +335,33 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-3b564db5" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-f0f88f27" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3b564db5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f0f88f27" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/using-the-eu-exit-id-document-check-app" data-track-options="{"dimension28":"4","dimension29":"Using the ‘EU Exit: ID Document Check’ app"}" href="/guidance/using-the-eu-exit-id-document-check-app">Using the ‘EU Exit: ID Document Check’ app</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-application-processing-times" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: application processing times"}" href="/government/publications/eu-settlement-scheme-application-processing-times">EU Settlement Scheme: application processing times</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/eu-settlement-scheme-how-we-use-your-personal-information" data-track-options="{"dimension28":"4","dimension29":"EU Settlement Scheme: how we use your personal information"}" href="/guidance/eu-settlement-scheme-how-we-use-your-personal-information">EU Settlement Scheme: how we use your personal information</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/eu-settlement-scheme-how-we-use-your-personal-information" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: how we use your personal information"}" href="/guidance/eu-settlement-scheme-how-we-use-your-personal-information">EU Settlement Scheme: how we use your personal information</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: apply as the family member of a frontier worker"}" href="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members">EU Settlement Scheme: apply as the family member of a frontier worker</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/using-the-eu-exit-id-document-check-app" data-track-options="{"dimension28":"5","dimension29":"Using the ‘EU Exit: ID Document Check’ app"}" href="/guidance/using-the-eu-exit-id-document-check-app">Using the ‘EU Exit: ID Document Check’ app</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/eu-settlement-scheme-public-test-phase-applicant-eligibility" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme public test phase: applicant eligibility"}" href="/guidance/eu-settlement-scheme-public-test-phase-applicant-eligibility">EU Settlement Scheme public test phase: applicant eligibility</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-3b564db5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-f0f88f27" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-3b564db5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-f0f88f27" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -388,9 +393,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c9522013" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d95ff23b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-c9522013" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d95ff23b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
