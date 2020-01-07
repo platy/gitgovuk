@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,26 +8,23 @@
     Foreign travel insurance
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    It is important to take out comprehensive travel insurance before travelling abroad
-  </p>
+  <p class="gem-c-lead-paragraph">Wherever you’re travelling, it's important to take out comprehensive travel insurance before you go</p>
 
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 22 March 2013
-    <br></br>Last updated 22 March 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 7 January 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
                 </span>
             </dd>
         </dl>
@@ -47,7 +42,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,52 +50,70 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#overview" data-track-options="{"dimension29":"Overview"}" href="#overview">Overview</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#overview" data-track-options="{"dimension29":"Overview"}" href="#overview">Overview</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#eu-exit-update" data-track-options="{"dimension29":"EU Exit update"}" href="#eu-exit-update">EU Exit update</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#choosing-a-travel-insurance-policy" data-track-options="{"dimension29":"Choosing a travel insurance policy"}" href="#choosing-a-travel-insurance-policy">Choosing a travel insurance policy</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#what-your-travel-insurance-policy-should-cover" data-track-options="{"dimension29":"What your travel insurance policy should cover"}" href="#what-your-travel-insurance-policy-should-cover">What your travel insurance policy should cover</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#what-your-travel-insurance-policy-should-cover" data-track-options="{"dimension29":"What your travel insurance policy should cover"}" href="#what-your-travel-insurance-policy-should-cover">What your travel insurance policy should cover</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#how-to-choose-your-travel-insurance" data-track-options="{"dimension29":"How to choose your travel insurance"}" href="#how-to-choose-your-travel-insurance">How to choose your travel insurance</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#after-brexit" data-track-options="{"dimension29":"Travel insurance after Brexit"}" href="#after-brexit">Travel insurance after Brexit</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#extras" data-track-options="{"dimension29":"Extras"}" href="#extras">Extras</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#policy-extras" data-track-options="{"dimension29":"Policy extras"}" href="#policy-extras">Policy extras</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#the-right-cover-for-the-type-of-holiday-and-activities-you-plan" data-track-options="{"dimension29":"The right cover for the type of holiday and activities you plan"}" href="#the-right-cover-for-the-type-of-holiday-and-activities-you-plan">The right cover for the type of holiday and activities you plan</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#policy-exclusions" data-track-options="{"dimension29":"Policy exclusions"}" href="#policy-exclusions">Policy exclusions</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#exclusions" data-track-options="{"dimension29":"Exclusions"}" href="#exclusions">Exclusions</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#travel-insurance-after-starting-travel-or-changing-your-plans" data-track-options="{"dimension29":"Travel insurance after starting travel or changing your plans"}" href="#travel-insurance-after-starting-travel-or-changing-your-plans">Travel insurance after starting travel or changing your plans</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#air-travel-organisers-licensing-atol" data-track-options="{"dimension29":"Air Travel Organiser’s Licensing (ATOL)"}" href="#air-travel-organisers-licensing-atol">Air Travel Organiser’s Licensing (ATOL)</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#insurance-for-temporary-and-permanent-residents-overseas" data-track-options="{"dimension29":"Insurance for temporary and permanent residents overseas"}" href="#insurance-for-temporary-and-permanent-residents-overseas">Insurance for temporary and permanent residents overseas</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#insurance-for-temporary-and-permanent-residents-overseas" data-track-options="{"dimension29":"Insurance for temporary and permanent residents overseas"}" href="#insurance-for-temporary-and-permanent-residents-overseas">Insurance for temporary and permanent residents overseas</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#making-a-travel-insurance-claim" data-track-options="{"dimension29":"Making a travel insurance claim"}" href="#making-a-travel-insurance-claim">Making a travel insurance claim</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#contact-for-more-information-and-help-finding-specialists-insurance" data-track-options="{"dimension29":"Contact for more information and help finding specialists insurance"}" href="#contact-for-more-information-and-help-finding-specialists-insurance">Contact for more information and help finding specialists insurance</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#other-financial-protection" data-track-options="{"dimension29":"Other financial protection"}" href="#other-financial-protection">Other financial protection</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#complaints-about-services" data-track-options="{"dimension29":"Complaints about services"}" href="#complaints-about-services">Complaints about services</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#atol-atol" data-track-options="{"dimension29":"Air Travel Organiser’s Licensing (ATOL)"}" href="#atol-atol">Air Travel Organiser’s Licensing (ATOL)</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#specialistl-insurance" data-track-options="{"dimension29":"More information and help finding specialist insurance"}" href="#specialistl-insurance">More information and help finding specialist insurance</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#complaints-about-services" data-track-options="{"dimension29":"Complaints about services"}" href="#complaints-about-services">Complaints about services</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
@@ -108,42 +121,81 @@
       <div class="govspeak">
 <h2 id="overview">Overview</h2>
 
-<p>Before travelling abroad it is important to buy the right travel insurance. This guidance aims to help travellers choose the right travel insurance to meet their needs. For example:</p>
+<p>Wherever you’re travelling, getting the right travel insurance is one of the most important things to do before you go. It could save you and your family a lot of money and difficulty if things go wrong before or during your trip.</p>
 
-<ul>
-  <li>
-    <p>the very high costs you might face for emergency medical treatment and help getting back to the UK if you are uninsured</p>
-  </li>
-  <li>
-    <p>the importance of understanding what your insurance does and does not cover. This might include for example your destination, particular requirements for insurance to cover cruises, certain sports and a range of leisure activities, or other needs you may have. It is also very important to answer any questions from your insurer on existing medical conditions</p>
-  </li>
-  <li>
-    <p>a wide range of help to find insurers, specialist advice and different policies are available to meet your needs, including any specific health requirements. You should shop around to get the best value for money, but the cheapest policy may not cover all your needs</p>
-  </li>
-  <li>
-    <p>when you travel, make sure you carry details of your insurance including emergency telephone numbers to contact your insurer. Leave copies with family or friends</p>
-  </li>
-</ul>
+<p>Travel insurance policies are designed to provide cover for many eventualities, including medical expenses, a trip being cut short or cancelled, and loss or theft of possessions.</p>
 
-<h2 id="eu-exit-update">EU Exit update</h2>
+<p>This guidance aims to help you understand the key features of travel insurance and choose a policy that will meet your needs.</p>
 
-<h3 id="insurance-for-trips-to-the-eu-norway-liechtenstein-or-iceland-after-the-uk-leaves-the-eu">Insurance for trips to the EU, Norway, Liechtenstein or Iceland after the UK leaves the EU</h3>
+<p>It is recommended to take out an insurance policy as soon as possible after booking your trip, to make sure you’re covered in the event of any changes before you depart.</p>
 
-<p>If you are taking out travel insurance shortly after the UK leaves the EU, you should make sure you understand the terms and conditions of the travel insurance policy, and that you are happy with the level of healthcare and travel disruption cover it provides.</p>
+<p>When you travel, make sure you take details of your insurance policy with you, including your policy number and the emergency assistance telephone number provided by your insurer. Give a copy of your policy details to the people you’re travelling with and friends or family back home, in case they need to contact your insurance company on your behalf.</p>
 
-<p>If you already have travel insurance, your insurer should let you know if there are changes to the way your policy is serviced after the UK leaves the EU. If you have questions about what your travel insurance policy covers, you may wish to contact your insurer.</p>
+<figure class="image embedded"><div class="img"><img src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/94489/travel-insurance-page-image.jpg" alt="Foreign travel insurance - travelaware"></img></div></figure>
 
-<p>European Health Insurance Cards (EHIC) may stop being valid if the UK leaves the EU with no deal. If this happens, it is particularly important to check the small print to make sure your travel insurance covers your healthcare needs.</p>
+<h2 id="choosing-a-travel-insurance-policy">Choosing a travel insurance policy</h2>
+
+<p>Shop around for the best deal, but never buy a policy based on price alone. The cheapest policy may not cover all of your needs. Check that any policy you buy provides comprehensive cover for your pre-existing medical conditions and any activities or sports you’re planning to do.</p>
+
+<p>When choosing a policy you should consider:</p>
+
+<h3 id="how-often-you-travel">How often you travel</h3>
+
+<p>If you’ are planning more than one holiday in a year, consider buying an annual multi-trip policy. Single trip policies are usually more cost effective for older travellers and those with medical conditions.</p>
+
+<p>If you already have travel insurance as part of a bank account or credit card, check the policy terms for any age or trip limits there may be, as well as ensuring the policy covers your health and other needs for each trip you make.</p>
+
+<h3 id="the-length-of-your-trip">The length of your trip</h3>
+<p>Some annual policies may include limits for the number of days of each individual trip, or a maximum number of days’ travel over the course of the year. If you’re going away for a longer period, a gap year or backpacker policy may be more suitable.</p>
+
+<h3 id="where-youre-going">Where you’re going</h3>
+
+<p>Some annual policies only cover destinations within Europe or exclude certain long-haul destinations. If you’re travelling further afield, make sure you buy a worldwide policy or a single trip policy for your specific destination.</p>
+
+<p>Cruises generally require additional cover due to the difficulty in getting travellers to hospital for treatment. If you are going on a cruise, make sure your travel insurance covers this.</p>
+
+<p>Many travel insurance policies will not cover you if you travel to a high risk destination (often defined as a place where the Foreign and Commonwealth Office (FCO) advise against all but essential travel or all travel), so make sure you check your policy wording and the relevant <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">country travel advice</a> pages for updates when booking your trip and buying insurance.</p>
+
+<h3 id="what-you-will-be-doing">What you will be doing</h3>
+
+<p>If you will be taking part in certain sports or leisure activities you may need to top-up your cover or buy a specialist policy. See <a href="https://www.gov.uk/guidance/safer-adventure-travel-and-volunteering-overseas" class="govuk-link">Adventure and sports</a> activities.</p>
+
+<h3 id="what-youre-taking">What you’re taking</h3>
+
+<p>Your household contents insurance or other policies may cover loss of items you take away from home. If you have travel insurance as part of a bank account/credit card, this may already provide some cover for your possessions. In all cases, check the travel insurance policy limits and excesses are appropriate for the value of possessions you are taking on holiday. If you’re taking a number of high-value possessions, specialist mobile phone/gadget insurance may be more suitable as they typically provide higher cover limits.</p>
+
+<p>All insurance policies say that you must take care of your belongings at all times. If you don’t, the policy may not pay out. Take as much care of your property as if it were uninsured.</p>
+
+<p>You should report any loss to the police within 24 hours. Proof of notification will be required when you make your claim.</p>
+
+<h3 id="how-many-people-youre-travelling-with">How many people you’re travelling with</h3>
+
+<p>If you’re travelling with others, a family or group policy may be suitable. When buying insurance on behalf of others, it’s important that you have access to any relevant medical details that you may be asked about. Some policies will apply an excess for each person when making a claim, so check the policy terms.</p>
+
+<h3 id="the-cost-of-cancellation">The cost of cancellation</h3>
+
+<p>If you’re booking an expensive holiday in advance, you may want the security of knowing you will be able to recover the costs if you’re unable to travel. Read through the circumstances where cancellation cover is provided, check that it meets the full cost of your holiday and look for any excesses.</p>
+
+<p>Insurance can allow you to claim unused travel and accommodation costs that you are unable to recover elsewhere. When travelling at short notice, on a low cost holiday or with a flexible ticket, you may decide that you do not need cancellation cover at all.</p>
+
+<p>If your trip is cancelled or significantly delayed, you may be entitled to compensation from the airline or a refund from the travel provider.</p>
+
+<p>It’s still important to have emergency medical cover. If your trip is dependent upon the health of a non-travelling relative, you may need to answer questions about their medical history and pay to top up the cover.</p>
 
 <h2 id="what-your-travel-insurance-policy-should-cover">What your travel insurance policy should cover</h2>
 
 <h3 id="health-and-medical-emergencies">Health and medical emergencies</h3>
 
-<p>An emergency in another country can be very expensive.  Examples include:</p>
+<p>This is possibly the most important part of any travel insurance policy. If you do not take out adequate insurance, you will have to pay the costs of any emergency yourself.</p>
+
+<p>A medical emergency in another country can be very expensive, for example:</p>
 
 <ul>
   <li>
     <p>£100,000: a stomach bug or infection treated in a hospital in the USA with return flights</p>
+  </li>
+  <li>
+    <p>£100,000: a stroke in south-east Asia, with emergency treatment and medical repatriation to the UK</p>
   </li>
   <li>
     <p>£25,000: a moped accident in Greece, with surgery and repatriation to the UK</p>
@@ -153,83 +205,75 @@
   </li>
 </ul>
 
-<p>It is your responsibility to ensure you can cover the costs of medical treatment abroad. The right travel insurance will ensure you can do so. Remember that the nearest embassy, high commission or consulate will not pay these costs.</p>
-
 <p>Your travel insurance should cover:</p>
 
 <ul>
   <li>
-    <p>emergency medical treatment costs, including hospital charges and ambulance fees</p>
+    <p>emergency treatment and hospital bills, which can be expensive. Check whether your policy covers treatment in public or private hospitals.</p>
   </li>
   <li>
-    <p>returning you home following medical treatment abroad if you cannot use your original ticket</p>
+    <p>emergency transport, such as ambulance fees or emergency repatriation on medical grounds</p>
   </li>
   <li>
-    <p>reasonable additional transport and/or accommodation expenses for a close relative or friend to stay with you or travel from the UK to escort you if required</p>
+    <p>getting home after treatment if you cannot use your original ticket</p>
+  </li>
+  <li>
+    <p>reasonable costs for a family member or friend to stay with you or travel out to accompany you home if required</p>
   </li>
   <li>
     <p>temporary emergency dental treatment for the relief of immediate pain</p>
   </li>
   <li>
-    <p>24 hours assistance help-lines to offer support and advice about appropriate treatment</p>
+    <p>24-hour assistance helplines to offer support and advice about appropriate treatment</p>
+  </li>
+  <li>
+    <p>repatriation costs in the event of death abroad</p>
   </li>
 </ul>
 
-<p>It is important to answer any questions from your insurance provider about your medical history fully and honestly (the “pre-existing medical conditions” section of policies). Withholding details of your medical history may mean you are not fully covered.</p>
+<p>Before you travel, make sure you declare any pre-existing medical conditions to your insurer and answer questions about your medical history in full. See <a href="#policy-exclusions" class="govuk-link">Policy exclusions</a>.</p>
 
-<p>If for any reason you have difficulty finding cover for reasons associated with a medical condition, you may wish to contact a specialist provider (<a href="#contact-for-more-information-and-help-finding-specialists-insurance">see contacts section</a>.</p>
+<p>If you have difficulty finding cover for reasons associated with a medical condition, you can <a href="#specialistl-insurance" class="govuk-link">contact a specialist provider</a>.</p>
 
-<p>If you are travelling in the European Economic Area or Switzerland, you should apply for a free <a href="https://www.gov.uk/government/publications/european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</a>   The <a href="https://www.gov.uk/government/publications/european-health-insurance-card-ehic">EHIC</a> gives you the gives you the right to access state-provided healthcare during a temporary stay in those countries.</p>
+<p>If you are travelling in the European Economic Area or Switzerland, you should apply for a free <a href="https://www.gov.uk/government/publications/european-health-insurance-card-ehic" class="govuk-link">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</a>   The <a href="https://www.gov.uk/government/publications/european-health-insurance-card-ehic" class="govuk-link"><abbr title="European Health Insurance Card">EHIC</abbr></a> gives you the right to access emergency state-provided healthcare during a temporary stay in those countries</p>
 
-<p>Remember that the <a href="https://www.gov.uk/government/publications/european-health-insurance-card-ehic">EHIC</a> is not an alternative to travel insurance. It will not cover any private medical healthcare or costs, such as mountain rescue in ski resorts, being flown back to the UK, or lost or stolen property. It is also not valid on cruises.</p>
+<p>Remember that the <abbr title="European Health Insurance Card">EHIC</abbr> is not an alternative to travel insurance. It will not cover any private medical healthcare or costs, such as mountain rescue in ski resorts, being flown back to the UK, or lost or stolen property. It is not valid on cruises.</p>
 
-<h2 id="how-to-choose-your-travel-insurance">How to choose your travel insurance</h2>
+<p>The <abbr title="European Health Insurance Card">EHIC</abbr> may not be valid after Brexit. See <a href="#after-brexit" class="govuk-link">Travel insurance after Brexit</a></p>
 
-<p>Travel insurance is a wide ranging product designed to provide cover for many eventualities, including medical expenses, a trip being cut short or cancelled, and loss or theft of possessions.</p>
+<h3 id="adventure-and-sports-activities">Adventure and sports activities</h3>
 
-<p>Shop around for the best deal, but never buy a policy based on price alone. The cheapest policy may not cover all of your needs. Check that any policy you buy provides comprehensive cover for all of your pre-existing medical conditions and cover for any activities or sports that you may be undertaking (<a href="#the-right-cover-for-the-type-of-holiday-and-activities-you-plan">see activities section</a>.</p>
+<p>If you will be taking part in certain sports or leisure activities, check your policy carefully to make sure you are covered for each specific activity. You may need to top-up your cover or buy a specialist policy.</p>
 
-<p>In addition to ensuring you have appropriate medical cover, when choosing a  policy, travellers should take some time to think about the following when buying insurance:</p>
+<p><a href="https://www.gov.uk/guidance/winter-sports-stay-safe-on-the-slopes" class="govuk-link">Winter sports</a> and more extreme sports such as bungee jumping, jet skiing, or skydiving are not typically included in standard policies.</p>
 
-<h3 id="how-often-you-travel">How often you travel</h3>
+<p>Use of quad bikes is typically not covered.</p>
 
-<p>If you are planning more than one holiday in a year, consider buying an annual multi-trip policy. Single trip policies are usually more cost effective for older travellers and those with medical conditions. If you already have travel insurance as part of a bank account or credit card, check the policy terms for any age or trip limits there may be, as well as ensuring the policy covers your health and other needs.</p>
+<h2 id="after-brexit">Travel insurance after Brexit</h2>
 
-<h3 id="the-length-of-your-trips">The length of your trip(s)</h3>
+<p>The <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/" class="govuk-link">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</a> may not be valid after <a href="https://www.gov.uk/brexit" class="govuk-link">Brexit</a>. You should make sure your travel insurance covers your healthcare needs.</p>
 
-<p>Some annual policies may include limits for the number of days of each individual trip, or a maximum number of days’ travel over the course of the year. If you are going away for a longer period, a gap year or backpacker policy may be more suitable.</p>
+<p>If you’re travelling in the European Economic Area or Switzerland, check for the latest information on the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/" class="govuk-link">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</a> online, or by phone on 0300 330 1350.</p>
 
-<h3 id="where-you-are-going">Where you are going</h3>
+<p>Whether there’s a Brexit deal or not, when taking out travel insurance you should also check:</p>
 
-<p>Some annual policies only cover short haul destinations within Europe. For those travelling further afield, make sure you buy a worldwide policy or a single trip policy for the specific destination.</p>
+<ul>
+  <li>the level of healthcare cover it includes</li>
+  <li>the travel disruption cover it includes</li>
+  <li>the terms and conditions</li>
+</ul>
 
-<p>Many travel insurance policies will not cover you if you travel to a country where the Foreign & Commonwealth Office advises against all or all but essential travel, so make sure you check the relevant <a href="https://www.gov.uk/foreign-travel-advice">country travel advice pages</a> for updates when booking your trip and buying insurance.</p>
+<p>If you already have travel insurance, contact your insurer if you have any questions about travel after Brexit.</p>
 
-<h3 id="what-possessions-you-are-taking">What possessions you are taking</h3>
+<p>There may also be changes to your <a href="https://www.gov.uk/guidance/driving-in-the-eu-after-brexit" class="govuk-link">vehicle insurance when driving in the EU after Brexit</a>.</p>
 
-<p>Check if your household contents insurance or any other policies you may have already cover loss of items you take away from your home. If you have travel insurance as part of a bank account/credit card, this may also already provide some cover for your possessions.  In all cases, check the travel insurance policy limits and excesses are appropriate for the value of possessions you are taking on holiday. If you are taking a number of high-value possessions, specialist mobile phone/gadget insurance may be more suitable as they typically provide higher cover limits.</p>
-
-<p>All insurance policies say that you must take care of your belongings at all times. If you don’t, the policy may not pay out. Take as much care of your property as if it were uninsured.</p>
-
-<p>You should report any loss to the police within 24 hours. Proof of notification will be required when you make your claim.</p>
-
-<h3 id="how-many-people-you-are-travelling-with">How many people you are travelling with</h3>
-
-<p>If you are travelling with others a family or group policy may be suitable. When buying insurance on behalf of others, it is important that you have access to any relevant medical details that you may be asked about. Some policies will apply an excess for each person when making a claim, so check the policy terms.</p>
-
-<h3 id="the-cost-of-cancellation">The cost of cancellation</h3>
-
-<p>If booking an expensive holiday in advance, you may want to ensure that you can recover the costs if you are unable to travel. Check that any cancellation cover limits meet the full cost of your holiday and look for any excesses. If your trip is cancelled or significantly delayed, you may be entitled to compensation from the airline or a refund from the travel provider. Insurance can allow you to claim unused travel and accommodation costs that you are unable to recover elsewhere. When travelling at short notice, on a low cost holiday or with a flexible ticket, you may decide that you do not need cancellation cover at all.</p>
-
-<p>It is still important to have emergency medical cover. If your trip is dependent upon the health of a non-travelling relative, you may need to answer questions about their medical history and pay to top up the cover.</p>
-
-<h2 id="extras">Extras</h2>
+<h2 id="policy-extras">Policy extras</h2>
 
 <p>Some policies will also include or offer the following cover for you to consider:</p>
 
 <h3 id="personal-liability">Personal liability</h3>
 
-<p>Provides cover if you accidentally cause an injury to someone or damage their property and choose to sue you.</p>
+<p>Provides cover if you accidentally cause an injury to someone or damage their property and they choose to sue you.</p>
 
 <h3 id="personal-accident-cover--disability-and-death">Personal accident cover – disability and death</h3>
 
@@ -241,93 +285,186 @@
 
 <h3 id="legal-expenses-cover">Legal expenses cover</h3>
 
-<p>Legal expenses cover helps you to pursue compensation or damages following personal injury while you’re abroad – is important in countries without a legal aid system.</p>
+<p>Legal expenses cover helps you to pursue compensation or damages following personal injury while you’re abroad – this is particularly relevant in countries without a legal aid system.</p>
 
-<h2 id="the-right-cover-for-the-type-of-holiday-and-activities-you-plan">The right cover for the type of holiday and activities you plan</h2>
+<h3 id="adjustable-excess">Adjustable excess</h3>
 
-<p>If you will be taking part in certain sports or leisure activities you may need to top-up your cover or buy a specialist policy. Winter sports and more extreme sports such as bungee jumping, jet skiing, or skydiving are not typically included in standard policies. Use of quad bikes is typically not covered.  Check your policy carefully for what activities are covered.</p>
+<p>Under the terms of many insurance policies, you will need to cover a set amount of your costs yourself (an ‘excess’) before your insurer will pay towards your claim. You may be able to pay an extra premium to reduce or remove the excess when you take out your policy.</p>
 
-<p>Cruises generally require additional cover due to the difficulty in getting travellers to hospital for treatment. If you are going on a cruise, make sure your travel insurance covers this.</p>
+<h2 id="policy-exclusions">Policy exclusions</h2>
 
-<h2 id="exclusions">Exclusions</h2>
+<p>Read through your policy documents carefully before you travel to make sure you understand any applicable exclusions. Some common exclusions include:</p>
 
-<p>As well as certain activities, you should check your policy for other exclusions.  Most travel insurance policies exclude cover for events that happen after excessive alcohol consumption.</p>
+<h3 id="undeclared-medical-conditions-or-treatment">Undeclared medical conditions or treatment</h3>
 
-<p>Most policies offer only limited cover for terrorist acts; as a minimum, make sure your policy covers you for emergency medical expenses and repatriation in the event of a terrorist attack.</p>
+<p>If you fall ill during your trip and have not declared a pre-existing medical condition to your insurer, even if seemingly unrelated, you may not be covered. Make sure you answer all questions about your medical history in full when you take out a policy, and tell your insurer about any changes in your health before you travel.</p>
 
-<h3 id="travel-insurance-after-travel-has-commenced">Travel insurance after travel has commenced</h3>
+<p>This may still apply if you’re receiving or waiting for medical tests or treatment for an undiagnosed condition or set of symptoms when you travel. Check your policy wording carefully and contact your insurer before you travel if you’re unsure.</p>
 
-<p>You should always arrange insurance before you begin your travel.  However if after you begin travel you find your insurance has expired or you have forgotten to purchase insurance, specialist provision for you to purchase insurance in this situation may be available. This depends on your circumstances at the time, including whether you are already intending to make a claim. A waiting period may be applied to your policy which prevents you from making a claim immediately.  <a href="#contact-for-more-information-and-help-finding-specialists-insurance">See contacts for specialist insurance providers</a>.</p>
+<p>Some policies may exclude cover for treatment related to a mental health condition. See foreign <a href="https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues" class="govuk-link">travel advice for people with mental health issues</a> for more guidance on mental health and travel.</p>
+
+<h3 id="alcohol-and-drugs">Alcohol and drugs</h3>
+
+<p>Most travel insurance policies exclude cover for events that happen after excessive alcohol consumption or if you have taken recreational drugs or other substances.</p>
+
+<h3 id="terrorist-acts">Terrorist acts</h3>
+
+<p>Most policies offer only limited cover for terrorist acts. As a minimum, make sure your policy covers you for emergency medical expenses and repatriation in the event you are caught up in a terrorist attack.</p>
+
+<p>Some travel insurers offer add-ons to their policies to provide additional cover in the event of a terrorist attack in your destination. This may include cover for cancellation if your destination is affected by a terrorist attack before your trip and you decide you no longer wish to travel.</p>
+
+<h3 id="other-incidents">Other incidents</h3>
+
+<p>Some policies may only offer limited cover for claims related to or caused by a natural disaster (such as an earthquake or tropical cyclone) or civil unrest.</p>
+
+<p>You may also not be covered for some claims that arise from an incident (such as strikes or other industrial action) that was known publicly at the time you booked your trip and/or took out your travel insurance policy. Check your policy for full information.</p>
+
+<p>Some insurance policies do not provide cover when airlines or suppliers go out of business. Take steps to protect yourself by choosing an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> protected holiday or a travel insurance policy that includes airline or supplier failure cover. See more information about <a href="#atol-atol" class="govuk-link"><abbr title="Air Travel Organiser's Licensing">ATOL</abbr></a> below.</p>
+
+<h2 id="travel-insurance-after-starting-travel-or-changing-your-plans">Travel insurance after starting travel or changing your plans</h2>
+
+<p>You should always arrange insurance before you begin your travel. If, after you begin travel, you find your insurance has expired or you have forgotten to buy insurance, you may be able to buy specialist insurance in this situation. This depends on your circumstances at the time, including whether you are already intending to make a claim. A waiting period may be applied to your policy which prevents you from making a claim immediately. See <a href="#specialistl-insurance" class="govuk-link">contacts for specialist insurance providers</a>.</p>
+
+<p>If you change your plans after taking out a travel insurance policy or when you are already abroad (for example, if you extend your stay or add an extra destination to your itinerary), check your insurance policy carefully to make sure you’re still fully covered. If you’re unsure, it’s best to contact your insurer for more information. If you don’t have definitive travel plans, an annual policy which covers all eventualities may be a safer option.</p>
+
+<h2 id="insurance-for-temporary-and-permanent-residents-overseas">Insurance for temporary and permanent residents overseas</h2>
+
+<p>For temporary residents overseas, ‘long-stay’ travel insurance may be available to cover extended periods of continuous travel. You should carefully check the maximum duration allowed under any policy you consider buying to ensure that it meets your needs.</p>
+
+<p>You should also make sure that the entire policy meets your needs, including specific activities and employment (paid or unpaid) that you may undertake during your stay. See contacts above for further advice and details of specialist providers.</p>
+
+<p>Travel insurance is not intended for permanent residence overseas. If you’re living overseas permanently, or planning to move to a different country, you should consider your insurance needs carefully. Private medical insurance for UK expatriates is available. There may also be requirements under local law to have medical insurance.</p>
+
+<p>You can also buy insurance from local providers overseas. In all cases you should check policies carefully, including consideration of whether medical cover can be transferred in the event that you re-locate to other countries in future. See contacts at the end of this guidance for further advice and details of specialist providers.</p>
+
+<p>Details of how the FCO can provide support to British nationals when things go wrong abroad are outlined in the publication <a href="https://www.gov.uk/government/publications/support-for-british-nationals-abroad-a-guide" class="govuk-link">Support for British Nationals Abroad</a>. Note that the FCO does not pay medical bills or fund medical repatriation to the UK.</p>
+
+<h2 id="making-a-travel-insurance-claim">Making a travel insurance claim</h2>
+
+<p>When you travel, make sure you take details of your insurance policy with you, including your policy number and the emergency assistance telephone number provided by your insurer. Give a copy of your policy details to the people you’re travelling with and friends or family back home, in case they need to contact your insurance company on your behalf in an emergency.</p>
+
+<h3 id="medical-emergencies-and-treatment">Medical emergencies and treatment</h3>
+
+<p>If you become ill or suffer an injury during your trip and need medical treatment, you should contact your insurer as soon as possible. Most major insurers have dedicated emergency assistance teams who can advise policyholders on the nearest suitable medical provider and start processing your claim.</p>
+
+<p>Healthcare systems differ across the world, with both public and private hospitals available in many countries. Depending on the country you’re in, the treatment you need and the travel insurance cover you have, treatment in either a public or private facility may be more appropriate. Check your policy documents and contact your insurer if you need more information and advice. Information on healthcare is also available within the Health section of each <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">FCO travel advice</a> country page.</p>
+
+<p>To ensure treatment is provided as quickly as possible, your insurer may expect you to pay costs for any minor treatments upfront (usually up to £500) and then submit a claim at a later date. Make sure you keep any receipts or relevant paperwork for your claim. If you’re unable to make these payments, contact your insurer for advice.</p>
+
+<p>There have been isolated reports of some medical providers advising customers they must pay large medical bills upfront and/or refusing treatment until payment is made. If you are covered by valid travel insurance for the treatment you need, this should not normally be necessary. If you have any concerns, contact your insurer for further advice.
+If you need urgent consular assistance while abroad, <a href="https://www.gov.uk/world/embassies" class="govuk-link">contact the nearest British embassy, high commission or consulate</a>.</p>
+
+<h3 id="other-claims">Other claims</h3>
+
+<p>If you need to make a claim on your travel insurance on your return home, make sure you keep receipts and any other paperwork that shows what happened and any costs incurred.</p>
+
+<p>If you’ve been a victim of crime and want to make a claim on your travel insurance, you may need to report the crime to the police before you leave the country and provide a crime report as part of your claim. See <a href="https://www.gov.uk/victim-crime-abroad" class="govuk-link">guidance for victims of crime abroad</a>.</p>
+
+<p><a rel="external" href="https://www.citizensadvice.org.uk/consumer/insurance/insurance/types-of-insurance/travel-insurance1/making-a-claim-on-your-travel-insurance/" class="govuk-link">Citizens Advice</a> and the <a rel="external" href="https://www.moneyadviceservice.org.uk/en/articles/be-prepared-when-making-a-travel-insurance-claim" class="govuk-link">Money Advice Service</a> have also published helpful tips and advice on making a travel insurance claim.</p>
+
+<h2 id="other-financial-protection">Other financial protection</h2>
+
+<h3 id="financial-protection-for-travel">Financial protection for travel</h3>
+
+<p>Some forms of travel must, by law, include protection in case the business providing the travel becomes insolvent before you have completed it.  The main areas are as follows.</p>
+
+<ul>
+  <li>
+    <p>UK travel businesses that are not licensed airlines or their agents must provide financial protection, either from <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> (if the sale includes a flight) or by other means (if it does not).  This also applies to non-European travel businesses selling in the UK.</p>
+  </li>
+  <li>
+    <p>European travel businesses that are not licensed airlines or their agents must provide financial protection according to the arrangements made in the country in which they are based.</p>
+  </li>
+  <li>
+    <p>Travel agents which are selling holidays as the agent of a travel business do not have to provide financial protection – the travel business’s protection arrangements will apply.</p>
+  </li>
+  <li>
+    <p>Licensed airlines do not have to provide financial protection for their sales of seats.  If they sell a package they must provide financial protection.</p>
+  </li>
+  <li>
+    <p>Travel agents which are selling just airline seats as the agent of an airline do not have to provide financial protection.</p>
+  </li>
+</ul>
+
+<p>Where there is no protection by law, you may want to consider whether you make sure you get protection yourself, by insurance or by paying by credit or debit card.</p>
+
+<p>If you pay the airline directly by debit card, you may be able to claim a refund from the bank of what you paid. If you pay it by credit card, you may be able to claim a refund plus any consequential costs from the credit card provider. You should note that:</p>
+
+<ul>
+  <li>those protections may not apply if you paid an agent rather than the airline, or if you paid a non-UK company</li>
+  <li>there is no protection in respect of cash payments or direct bank transfers.  Some other internet payment companies also provide their own financial protection schemes.</li>
+</ul>
 
 <h3 id="financial-protection-for-package-holidays">Financial protection for package holidays</h3>
 
 <p>You need to know that your package holiday is protected against the travel organiser’s insolvency. This includes protection for services not performed and prompt repatriation if the travel organiser goes bankrupt whilst you are on holiday.</p>
 
-<p>If you have booked a package holiday in the UK, which is a combination of 2 or more travel services (such as flights and accommodation), you will be protected by the <a rel="external" href="https://www.legislation.gov.uk/ukdsi/2018/9780111168479/contents">Package Travel and Linked Travel Arrangements  Regulations 2018</a>. The Regulations require businesses selling package holidays to have insolvency protection through the Air Travel Organisers Licence (<abbr title="Air Travel Organiser's Licensing">ATOL</abbr>) for holidays including flights. For holidays that do not include flights, security is provided through other forms of protection.</p>
+<p>If you have booked a package holiday from a UK established business or a business established outside of the European Economic Area (EEA), which is a combination of 2 or more travel services (such as flights and accommodation), you will be protected by the <a rel="external" href="https://www.legislation.gov.uk/ukdsi/2018/9780111168479/contents" class="govuk-link">Package Travel and Linked Travel Arrangements Regulations 2018</a>. The Regulations require businesses selling package holidays to have insolvency protection through the <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> scheme for holidays including flights. For holidays that do not include flights, protection is provided through three options - Bonding or Insurance or Trust account.</p>
+
+<p>If you bought your package holiday from a travel business <a href="https://www.gov.uk/eu-eea" class="govuk-link">established in an EEA country</a> other than the UK, you protection will be provided under the arrangements made by that country.</p>
 
 <p>You should make sure that you are provided with clear information, including on the level of insolvency protection, before you buy. Your package travel organiser will be able to provide that information to you.</p>
 
-<p>Citizens Advice has provided some guidance to consumers on <a rel="external" href="https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-package-holiday/">cancelling a package holiday</a> and <a rel="external" href="https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/claim-compensation-for-a-holiday/">claiming compensation for a holiday</a>.</p>
+<p>You can check Citizens Advice guidance on <a rel="external" href="https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-package-holiday/" class="govuk-link">cancelling a package holiday</a> and <a rel="external" href="https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/claim-compensation-for-a-holiday/" class="govuk-link">claiming compensation for a holiday</a>.</p>
 
-<h2 id="air-travel-organisers-licensing-atol">Air Travel Organiser’s Licensing (<abbr title="Air Travel Organiser's Licensing">ATOL</abbr>)</h2>
-<p><abbr title="Air Travel Organiser's Licensing">ATOL</abbr> is a consumer protection scheme for air holidays and flight, managed by the <a rel="external" href="https://www.caa.co.uk/home/">Civil Aviation Authority (<abbr title="Civil Aviation Authority">CAA</abbr>)</a>.</p>
+<h2 id="atol-atol">Air Travel Organiser’s Licensing (<abbr title="Air Travel Organiser's Licensing">ATOL</abbr>)</h2>
+
+<p><abbr title="Air Travel Organiser's Licensing">ATOL</abbr> is a consumer protection scheme for air holidays and flight, managed by the  <a rel="external" href="https://www.caa.co.uk/home/" class="govuk-link">Civil Aviation Authority (<abbr title="Civil Aviation Authority">CAA</abbr>)</a>.</p>
 
 <h3 id="how-atol-protects-you">How <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> protects you</h3>
 
-<p>The scheme protects you from losing money or being stranded abroad when a travel firm goes out of business.</p>
+<p>The scheme protects you from losing money or being stranded abroad when an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> holder goes out of business.</p>
 
-<p>All travel firms that sell air holidays and flights in the UK must hold an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr>, which is only issued after a firm has met the <abbr title="Civil Aviation Authority">CAA</abbr>’s criteria. Licensed travel firms must also contribute to a financial protection fund managed by the <a rel="external" href="https://www.caa.co.uk/ATOL-protection/Air-travel-trust/About-the-Air-Travel-Trust/">Air Travel Trust (ATT)</a>.  In the event of an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> travel firm’s failure, the <abbr title="Civil Aviation Authority">CAA</abbr> uses the fund to ensure people abroad are able to finish their holidays and fly home, while those unable to travel are able to receive a refund.  <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> is the only scheme for flights and air holidays sold by travel firms in the UK.</p>
+<p>The law says your holiday must be protected if it is a package holiday. <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> protects most air package holidays sold by travel businesses that are based in the UK. ATOLs are only issued after a firm has met the <abbr title="Civil Aviation Authority">CAA</abbr>’s criteria. Licensed travel firms must also contribute £2.50 for each person booked on an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> protected holiday to a financial protection fund controlled by the <a rel="external" href="https://www.caa.co.uk/ATOL-protection/Air-travel-trust/About-the-Air-Travel-Trust/" class="govuk-link">Air Travel Trust (ATT)</a>. In the event of an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> travel firm’s failure, the <abbr title="Civil Aviation Authority">CAA</abbr> uses the fund to ensure people abroad are able to finish their holidays and fly home, while those unable to travel on future bookings are able to receive a refund.</p>
 
 <h3 id="how-you-can-get-atol-protection">How you can get <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> protection</h3>
 
-<p>When you make a holiday booking that includes a flight, make sure the travel firm has a licence; firms are required to display their <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> licence number on websites and in brochures, and when you book, the <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> holder or their agent must give you an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> Certificate confirming you are <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> protected immediately when you pay any money (even a deposit) for an air holiday or flight. This should include the name of the licensed firm you’ve booked with, their <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> number and details of what’s protected.  You should take these documents with you when you travel.</p>
+<p>When you make a package holiday booking that includes a flight, make sure the travel firm has a licence. Firms have to display their <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> number on websites and in brochures.</p>
+
+<p>When you book, the <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> holder or their agent must provide an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> Certificate confirming you are <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> protected immediately when you pay any money (even a deposit). This should include the name of the licensed firm you’ve booked with, their <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> number and details of what’s protected. Take these documents with you when you travel.</p>
 
 <p>You will not be protected by <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> if you:</p>
 
 <ul>
-  <li>just buy a scheduled flight and receive an airline ticket or other airline confirmation within 24 hours of payment</li>
-  <li>you book direct and pay an airline direct</li>
+  <li>are not buying a package holiday from an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> holder or its appointed travel agent</li>
+  <li>buy a Linked Travel Arrangement (LTA). This is where a business “facilitates” the sale of two or more travel services (e.g. a flight and hotel booking) but does so in a way that it is not classed as a package.  If a travel business sells an LTA, it must inform you that this is the case and what protection you may have</li>
+  <li>buy your flight and accommodation separately from different suppliers, such as an airline and a hotel company</li>
 </ul>
 
-<p>The <a rel="external" href="http://www.caa.co.uk/default.aspx?catid=27"><abbr title="Air Travel Organiser's Licensing">ATOL</abbr> website</a> has more information about the <abbr title="Air Travel Organiser's Licensing">ATOL</abbr> scheme and you can check whether your travel firm is licensed.</p>
+<p>You can <a rel="external" href="https://www.caa.co.uk/ATOL-protection/Check-an-ATOL/ATOL-holder-search/" class="govuk-link">check whether a business holds an <abbr title="Air Travel Organiser's Licensing">ATOL</abbr></a> on the <abbr title="Civil Aviation Authority">CAA</abbr> website.</p>
 
-<h2 id="insurance-for-temporary-and-permanent-residents-overseas">Insurance for temporary and permanent residents overseas</h2>
+<h2 id="specialistl-insurance">More information and help finding specialist insurance</h2>
 
-<p>For temporary residents overseas, you should note that ‘long-stay’ travel insurance may be available to cover extended periods of continuous travel. You should carefully check the maximum duration allowed under any policy you consider buying to ensure that it meets your needs.</p>
+<p>The Association of British Insurers (ABI) has published <a rel="external" href="https://www.abi.org.uk/products-and-issues/choosing-the-right-insurance/travel-guide/" class="govuk-link">a guide on choosing the right travel insurance policy</a>.</p>
 
-<p>You should also ensure that the entire policy meets your needs, including specific activities and employment (paid or unpaid) that you may undertake during your stay. See contacts above for further advice and details of specialist providers.</p>
+<p>If you need help finding a suitable policy for your trip, contact the <a rel="external" href="https://www.biba.org.uk/" class="govuk-link">British Insurance Brokers’ Association</a> or use their online <a rel="external" href="https://www.biba.org.uk/find-insurance/" class="govuk-link">Find a Broker service</a>, which includes contacts for specialist insurance for a wide range of requirements.</p>
 
-<p>Travel insurance is not intended for permanent residence overseas. If you are resident overseas, or planning to move to a different country, you should consider your insurance requirements carefully. Private medical insurance for UK expatriates is available.</p>
+<p>Members of the <a rel="external" href="https://www.atii.co.uk/" class="govuk-link">Association of Travel Insurance Intermediaries (<abbr title="Association of Travel Insurance Intermediaries">ATII</abbr>)</a> provide a wide range of travel insurance, including specialist travel insurance. <abbr title="Association of Travel Insurance Intermediaries">ATII</abbr> members can be contacted directly. Their details are on the <abbr title="Association of Travel Insurance Intermediaries">ATII</abbr> website.</p>
 
-<p>You may also wish consider buying insurance from local providers overseas. In all cases you should check policies carefully, including consideration of whether medical cover can be transferred in the event that you re-locate to other countries in future. <a href="#contact-for-more-information-and-help-finding-specialists-insurance">See contacts above for further advice and details of specialist providers</a>.</p>
-
-<p>Details of how the Foreign Office can provide support to British nationals when things go wrong abroad are outlined in the publication <a href="https://www.gov.uk/government/publications/support-for-british-nationals-abroad-a-guide">Support for British Nationals Abroad</a>.</p>
-
-<h2 id="contact-for-more-information-and-help-finding-specialists-insurance">Contact for more information and help finding specialists insurance</h2>
-
-<p>If you need more information on travel insurance visit the <a rel="external" href="https://www.abi.org.uk/products-and-issues/choosing-the-right-insurance/travel-guide/">Association of British Insurers (ABI) travel insurance page</a></p>
-
-<p>If you need help finding insurance for your trip, contact the <a rel="external" href="https://www.biba.org.uk/">British Insurance Brokers’ Association</a> or use their online <a rel="external" href="https://www.biba.org.uk/find-insurance/">Find a Broker service</a>, which includes contacts for specialist insurance for a wide range of requirements.</p>
-
-<p>Members of the <a rel="external" href="https://www.atii.co.uk/">Association of Travel Insurance Intermediaries (<abbr title="Association of Travel Insurance Intermediaries">ATII</abbr>)</a> provide a wide range of travel insurance, including specialist travel insurance. <abbr title="Association of Travel Insurance Intermediaries">ATII</abbr> members can be contacted directly. Their details are on the <abbr title="Association of Travel Insurance Intermediaries">ATII</abbr> website.</p>
-
-<p>The <a rel="external" href="https://www.moneyadviceservice.org.uk/en/categories/travel-insurance">Money Advice Service</a> provides guidance on how to choose the right level of cover, get the best deal, and how to make a travel insurance claim.</p>
+<p>The <a rel="external" href="https://www.moneyadviceservice.org.uk/en/categories/travel-insurance" class="govuk-link">Money Advice Service</a> provides guidance on how to choose the right level of cover, get the best deal, and how to make a travel insurance claim. They also have specific guidance for <a rel="external" href="https://www.moneyadviceservice.org.uk/en/articles/travel-insurance-for-over-65s-and-medical-conditions" class="govuk-link">travellers over the age of 65 or with pre-existing medical conditions</a>.</p>
 
 <h2 id="complaints-about-services">Complaints about services</h2>
 
-<p>For questions about travel insurance, contact your insurance provider and if you’re not happy with their response, you can complain to the <a rel="external" href="http://www.financial-ombudsman.org.uk/consumer/complaints.htm">Financial Ombudsman Service</a> (FOS). The FOS website includes an <a rel="external" href="https://help.financial-ombudsman.org.uk/help/enquiries">online quick message service</a> to help you get started.</p>
+<p>For questions or complaints about travel insurance, you should contact your insurance provider in the first instance. Check your policy documents or your insurer’s website for details on how to submit a question or complaint.</p>
+
+<p>If you’re not happy with their response, you can complain to the <a rel="external" href="http://www.financial-ombudsman.org.uk/consumer/complaints.htm" class="govuk-link">Financial Ombudsman Service (<abbr title="Financial Ombudsman Service">FOS</abbr>)</a>. The <abbr title="Financial Ombudsman Service">FOS</abbr> website includes an <a rel="external" href="https://help.financial-ombudsman.org.uk/help/enquiries" class="govuk-link">online quick message service</a> to help you get started.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 March 2013
-    <br></br>Last updated 22 March 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 7 January 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-07T15:40:11.000+00:00">7 January 2020</time>
+              Update to contents including addition of new segments; travel insurance after starting travel or changing your plans, making a travel insurance claim, other financial protection and if you’re not covered.
+
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-22T18:11:41.000+00:00">22 March 2019</time>
               Added information on financial protection of package holidays.
@@ -364,7 +501,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -376,33 +513,69 @@
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
+  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-956c383b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-84b74add" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-956c383b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-84b74add" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-956c383b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/gap-year-foreign-travel-advice" data-track-options="{"dimension28":"6","dimension29":"Gap year foreign travel advice"}" href="/guidance/gap-year-foreign-travel-advice">Gap year foreign travel advice</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.2 Detailed guidance" data-track-label="/guidance/foreign-travel-advice-for-people-with-mental-health-issues" data-track-options="{"dimension28":"6","dimension29":"Foreign travel advice for people with mental health needs"}" href="/guidance/foreign-travel-advice-for-people-with-mental-health-issues">Foreign travel advice for people with mental health needs</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.3 Detailed guidance" data-track-label="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice" data-track-options="{"dimension28":"6","dimension29":"About Foreign and Commonwealth Office travel advice"}" href="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice">About Foreign and Commonwealth Office travel advice</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.4 Detailed guidance" data-track-label="/guidance/foreign-travel-checklist" data-track-options="{"dimension28":"6","dimension29":"Foreign travel checklist"}" href="/guidance/foreign-travel-checklist">Foreign travel checklist</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.5 Detailed guidance" data-track-label="/guidance/winter-sports-stay-safe-on-the-slopes" data-track-options="{"dimension28":"6","dimension29":"Preparing for winter sports abroad #SkiSafe"}" href="/guidance/winter-sports-stay-safe-on-the-slopes">Preparing for winter sports abroad #SkiSafe</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.6 Detailed guidance" data-track-label="/guidance/festival-travel-checklist" data-track-options="{"dimension28":"6","dimension29":"Festival travel checklist"}" href="/guidance/festival-travel-checklist">Festival travel checklist</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/foreign-travel-checklist" data-track-options="{"dimension28":"5","dimension29":"Foreign travel checklist"}" href="/guidance/foreign-travel-checklist">Foreign travel checklist</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice" data-track-options="{"dimension28":"5","dimension29":"About Foreign and Commonwealth Office travel advice"}" href="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice">About Foreign and Commonwealth Office travel advice</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice" data-track-options="{"dimension28":"5","dimension29":"Lesbian, Gay, Bisexual and Transgender foreign travel advice"}" href="/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice">Lesbian, Gay, Bisexual and Transgender foreign travel advice</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-the-usa" data-track-options="{"dimension28":"5","dimension29":"Living in the USA"}" href="/guidance/living-in-the-usa">Living in the USA</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/tropical-cyclones" data-track-options="{"dimension28":"5","dimension29":"Tropical cyclones"}" href="/guidance/tropical-cyclones">Tropical cyclones</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-84b74add" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-84b74add" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/foreign-travel-advice-for-people-with-mental-health-issues" data-track-options="{"dimension28":"5","dimension29":"Travel and mental health"}" href="/guidance/foreign-travel-advice-for-people-with-mental-health-issues">Travel and mental health</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice" data-track-options="{"dimension28":"5","dimension29":"About Foreign and Commonwealth Office travel advice"}" href="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice">About Foreign and Commonwealth Office travel advice</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/foreign-travel-checklist" data-track-options="{"dimension28":"5","dimension29":"Foreign travel checklist"}" href="/guidance/foreign-travel-checklist">Foreign travel checklist</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/festival-travel-checklist" data-track-options="{"dimension28":"5","dimension29":"Festival travel checklist"}" href="/guidance/festival-travel-checklist">Festival travel checklist</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/winter-sports-stay-safe-on-the-slopes" data-track-options="{"dimension28":"5","dimension29":"Preparing for winter sports abroad #SkiSafe"}" href="/guidance/winter-sports-stay-safe-on-the-slopes">Preparing for winter sports abroad #SkiSafe</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-84b74add" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-84b74add" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/helping-british-people-overseas-travelling-and-living-abroad" data-track-options="{"dimension28":"1","dimension29":"Helping British people overseas: travelling and living abroad"}" href="/government/collections/helping-british-people-overseas-travelling-and-living-abroad">Helping British people overseas: travelling and living abroad</a></li>
 
   </ul>
 </nav>
@@ -410,15 +583,16 @@
   </div>
 
 
-</div>
 
 </div>
 
 </div>
 
+</div>
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -428,9 +602,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-91468acf" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6054b1e7" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-91468acf" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-6054b1e7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
