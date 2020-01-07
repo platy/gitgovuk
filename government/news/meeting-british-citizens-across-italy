@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 November 2018
-    <br></br>Last updated 3 January 2020
+    <br></br>Last updated 7 January 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -70,15 +70,17 @@
 <h4 id="outreach">Upcoming British citizens outreach meetings</h4>
 
 <ul>
-  <li>8 January 2020 - Macerata</li>
+  <li>
+    <p>8 January 2020 - Macerata</p>
+  </li>
+  <li>
+    <p>16 January 2020 - Rome</p>
+  </li>
 </ul>
 
 <h4 id="previous-british-citizens-outreach-meetings-across-italy">Previous British citizens outreach meetings across Italy</h4>
 
 <ul>
-  <li>
-    <p>Facebook Live Q&A: Tuesday 12 November 1.30pm to 3.15pm POSTPONED (after 12 December)</p>
-  </li>
   <li>
     <p>28 October 2019 - Bologna</p>
   </li>
@@ -262,10 +264,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 November 2018
-    <br></br>Last updated 3 January 2020
+    <br></br>Last updated 7 January 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-07T12:06:17.000+00:00">7 January 2020</time>
+              We have added an upcoming outreach meeting
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-03T13:55:53.000+00:00">3 January 2020</time>
               We have added a new date under the upcoming outreach meetings
@@ -375,14 +381,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-3f53f5c6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-13a4ecd4" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3f53f5c6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-13a4ecd4" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -419,9 +425,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b167d89d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-35ca6f67" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-b167d89d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-35ca6f67" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -436,9 +442,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-b167d89d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-35ca6f67" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-b167d89d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-35ca6f67" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
