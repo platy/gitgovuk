@@ -61,7 +61,7 @@
 <div aria-labelledby="documents-title">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3746565">
+      <section class="attachment embedded" id="attachment_3847185">
   <div class="attachment-thumb">
       <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/eu-settlement-scheme-application-processing-times/eu-settlement-scheme-pilot-current-expected-processing-times-for-applications"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
@@ -87,7 +87,7 @@
       <div class="govspeak">
 <p>This page contains details of the current expected processing times for applications to the EU Settlement Scheme.</p>
 
-<p><a href="https://www.gov.uk/settled-status-eu-citizens-families">Guidance on settled and pre-settled status for EU citizens and their families</a> is available on GOV.UK.</p>
+<p><a href="https://www.gov.uk/settled-status-eu-citizens-families" class="govuk-link">Guidance on settled and pre-settled status for EU citizens and their families</a> is available on GOV.UK.</p>
 </div>
 </div>
 
@@ -150,18 +150,24 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
+  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-2ee0507c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-e24418a7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2ee0507c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e24418a7" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -169,18 +175,18 @@
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/using-the-eu-exit-id-document-check-app" data-track-options="{"dimension28":"5","dimension29":"Using the ‘EU Exit: ID Document Check’ app"}" href="/guidance/using-the-eu-exit-id-document-check-app">Using the ‘EU Exit: ID Document Check’ app</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/eu-settlement-scheme-evidence-of-uk-residence" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: evidence of UK residence"}" href="/guidance/eu-settlement-scheme-evidence-of-uk-residence">EU Settlement Scheme: evidence of UK residence</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-id-document-scanner-locations" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: ID document scanner locations"}" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations">EU Settlement Scheme: ID document scanner locations</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/personal-information-use-in-borders-immigration-and-citizenship" data-track-options="{"dimension28":"5","dimension29":"Borders, immigration and citizenship: privacy information notice"}" href="/government/publications/personal-information-use-in-borders-immigration-and-citizenship">Borders, immigration and citizenship: privacy information notice</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/personal-information-use-in-borders-immigration-and-citizenship" data-track-options="{"dimension28":"5","dimension29":"Borders, immigration and citizenship: privacy information notice"}" href="/government/publications/personal-information-use-in-borders-immigration-and-citizenship">Borders, immigration and citizenship: privacy information notice</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/eu-settlement-scheme-uk-tax-and-benefits-records-automated-check" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: UK tax and benefits records automated check"}" href="/guidance/eu-settlement-scheme-uk-tax-and-benefits-records-automated-check">EU Settlement Scheme: UK tax and benefits records automated check</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/eu-settlement-scheme-how-we-use-your-personal-information" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: how we use your personal information"}" href="/guidance/eu-settlement-scheme-how-we-use-your-personal-information">EU Settlement Scheme: how we use your personal information</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2ee0507c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-e24418a7" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-2ee0507c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-e24418a7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -191,6 +197,7 @@
 </nav>
 
   </div>
+
 
 
 </div>
@@ -211,9 +218,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1eb76fe2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-06b3b042" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1eb76fe2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-06b3b042" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
