@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 November 2018
-    <br></br>Last updated 7 January 2020
+    <br></br>Last updated 9 January 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -85,9 +85,39 @@
   </thead>
   <tbody>
     <tr>
+      <td>Monday 13 January, 9:00am – 12:00pm</td>
+      <td>Barcelona city</td>
+      <td>Brexit Information Point - Oficina de Atención a las Empresas, Carrer Roc Boronat, 117, 08018 Barcelona</td>
+      <td><a rel="external" href="https://www.barcelona.cat/internationalwelcome/en/brexit-info" class="govuk-link">Book an appointment here</a></td>
+    </tr>
+    <tr>
       <td>Tuesday 14 January, 11:00am -1:00pm</td>
       <td>Sóller (Mallorca)</td>
       <td>Capella de les Escolàpies Cultural Centre, Calle Batac, 25 esquina Calle Bisbe Colom, 07100 Sóller</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Wednesday 15 January, 10:30am-12:30pm</td>
+      <td>Rincón de la Victoria (Malaga)</td>
+      <td>Rincón de la Victoria Town Hall, Plaza Al Ándalus 1, 29730 Rincón de la Victoria</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>‘POP-UP’ Tuesday 21 January, 9:30am-2:30pm</td>
+      <td>Benidorm (Alicante)</td>
+      <td>Benidorm Indoor Market, Av. Ametlla de Mar 9, Rincon de Loix, 03502 Benidorm</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Tuesday 21 January, 1:30pm</td>
+      <td>Puerto del Carmen (Lanzarote)</td>
+      <td>Salón de Actos, Centro Cívico el Fondeadero, Calle Lanzarote, 1, 35510 Puerto del Carmen</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>‘POP-UP’ Wednesday 22 January, 9:30am-2:30pm</td>
+      <td>Puerto de Mazarrón (Murcia)</td>
+      <td>‘The Food Co.’ British Supermarket, Calle Thomas Alva Edison, 1, 30868 Puerto de Mazarrón</td>
       <td> </td>
     </tr>
   </tbody>
@@ -150,12 +180,12 @@
     <tr>
       <td>20 December</td>
       <td>Arona (Santa Cruz de Tenerife )</td>
-      <td>POP-UP’</td>
+      <td>‘POP-UP’</td>
     </tr>
     <tr>
       <td>20 December</td>
       <td>Las Chafiras (Santa Cruz de Tenerife)</td>
-      <td>POP-UP’</td>
+      <td>‘POP-UP’</td>
     </tr>
     <tr>
       <td>19 December</td>
@@ -1248,10 +1278,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 November 2018
-    <br></br>Last updated 7 January 2020
+    <br></br>Last updated 9 January 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-09T12:05:46.000+00:00">9 January 2020</time>
+              New information on citizens outreach meetings across Spain.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-07T11:08:40.000+00:00">7 January 2020</time>
               New information on citizens outreach meetings across Spain.
@@ -1454,14 +1488,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-90769126" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-81b33a67" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-90769126" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-81b33a67" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -1498,9 +1532,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ac152727" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-63872c22" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-ac152727" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-63872c22" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1514,9 +1548,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-ac152727" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-63872c22" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-ac152727" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-63872c22" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
