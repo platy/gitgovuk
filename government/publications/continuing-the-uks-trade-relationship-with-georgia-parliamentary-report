@@ -24,6 +24,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 4 November 2019
+    <br></br>Last updated 10 January 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -59,14 +61,14 @@
 <div aria-labelledby="documents-title">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3780227">
+      <section class="attachment embedded" id="attachment_3912097">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/844418/Continuing_the_UK_s_trade_relationship_with_Georgia.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/844418/thumbnail_Continuing_the_UK_s_trade_relationship_with_Georgia.pdf.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/857065/UK_Georgia_trade_parliamentary_report.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/857065/thumbnail_UK_Georgia_trade_parliamentary_report.pdf.png"></img></a>
   </div>
   <div class="attachment-details">
-    <h2 class="title"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/844418/Continuing_the_UK_s_trade_relationship_with_Georgia.pdf">Continuing the UK's trade relationship with Georgia</a></h2>
+    <h2 class="title"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/857065/UK_Georgia_trade_parliamentary_report.pdf">Continuing the UK's trade relationship with Georgia</a></h2>
     <p class="metadata">
-        <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">572KB</span>, <span class="page-length">32 pages</span>
+        <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">502KB</span>, <span class="page-length">30 pages</span>
     </p>
 
 
@@ -113,8 +115,22 @@
 
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 4 November 2019
+    <br></br>Last updated 10 January 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-10T13:55:34.000+00:00">10 January 2020</time>
+              Deleted the section on the immediate impact of tariffs under the UK Temporary Tariff. This section does not apply due to the Brexit extension. 
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-11-04T17:06:00.000+00:00">4 November 2019</time>
+              First published.
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -122,30 +138,54 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
+  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-c1e52d23" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-6015241e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-c1e52d23" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6015241e" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-c1e52d23" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/uk-georgia-strategic-partnership-and-cooperation-agreement--2" data-track-options="{"dimension28":"1","dimension29":"UK-Georgia strategic partnership and cooperation agreement"}" href="/government/collections/uk-georgia-strategic-partnership-and-cooperation-agreement--2">UK-Georgia strategic partnership and cooperation agreement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/summary-of-the-uk-georgia-strategic-partnership-and-cooperation-agreement" data-track-options="{"dimension28":"5","dimension29":"Summary of the UK-Georgia strategic partnership and cooperation agreement"}" href="/guidance/summary-of-the-uk-georgia-strategic-partnership-and-cooperation-agreement">Summary of the UK-Georgia strategic partnership and cooperation agreement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/uk-georgia-strategic-partnership-and-cooperation-agreement--2" data-track-options="{"dimension28":"5","dimension29":"UK-Georgia strategic partnership and cooperation agreement"}" href="/government/collections/uk-georgia-strategic-partnership-and-cooperation-agreement--2">UK-Georgia strategic partnership and cooperation agreement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/ukgeorgia-strategic-partnership-and-cooperation-agreement-cs-georgia-no12019" data-track-options="{"dimension28":"5","dimension29":"UK/Georgia: Strategic Partnership and Cooperation Agreement [CS Georgia No.1/2019]"}" href="/government/publications/ukgeorgia-strategic-partnership-and-cooperation-agreement-cs-georgia-no12019">UK/Georgia: Strategic Partnership and Cooperation Agreement [CS Georgia No.1/2019]</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/continuing-the-uks-trade-relationship-with-central-america-parliamentary-report" data-track-options="{"dimension28":"5","dimension29":"Continuing the UK's trade relationship with Central America: parliamentary report"}" href="/government/publications/continuing-the-uks-trade-relationship-with-central-america-parliamentary-report">Continuing the UK's trade relationship with Central America: parliamentary report</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/uk-switzerland-liechtenstein-trade-agreement" data-track-options="{"dimension28":"5","dimension29":"UK-Switzerland-Liechtenstein Trade Agreement"}" href="/government/collections/uk-switzerland-liechtenstein-trade-agreement">UK-Switzerland-Liechtenstein Trade Agreement</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-6015241e" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-6015241e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/uk-georgia-strategic-partnership-and-cooperation-agreement--2" data-track-options="{"dimension28":"1","dimension29":"UK-Georgia strategic partnership and cooperation agreement"}" href="/government/collections/uk-georgia-strategic-partnership-and-cooperation-agreement--2">UK-Georgia strategic partnership and cooperation agreement</a></li>
 
   </ul>
 </nav>
 
   </div>
+
 
 
 </div>
@@ -166,15 +206,31 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dae88e29" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3b3af941" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-dae88e29" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-3b3af941" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/business-and-industry/exporting" data-track-options="{"dimension28":"2","dimension29":"Exporting"}" href="/business-and-industry/exporting">Exporting</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/business-and-industry/importing" data-track-options="{"dimension28":"2","dimension29":"Importing"}" href="/business-and-industry/importing">Importing</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/business-and-industry/exporting" data-track-options="{"dimension28":"4","dimension29":"Exporting"}" href="/business-and-industry/exporting">Exporting</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/business-and-industry/free-trade" data-track-options="{"dimension28":"4","dimension29":"Free trade"}" href="/business-and-industry/free-trade">Free trade</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/business-and-industry/importing" data-track-options="{"dimension28":"4","dimension29":"Importing"}" href="/business-and-industry/importing">Importing</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.4 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"4","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-3b3af941" data-module="gem-toggle">
+
+    <h2 id="related-nav-world_locations-3b3af941" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="2.1 World locations" data-track-label="/world/georgia/news" data-track-options="{"dimension28":"1","dimension29":"Georgia"}" href="/world/georgia/news">Georgia</a></li>
 
   </ul>
 </nav>
