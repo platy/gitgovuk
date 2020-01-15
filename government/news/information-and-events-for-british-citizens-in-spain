@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 November 2018
-    <br></br>Last updated 10 January 2020
+    <br></br>Last updated 15 January 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -85,18 +85,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>Monday 13 January, 9:00am – 12:00pm</td>
-      <td>Barcelona city</td>
-      <td>Brexit Information Point - Oficina de Atención a las Empresas, Carrer Roc Boronat, 117, 08018 Barcelona</td>
-      <td><a rel="external" href="https://www.barcelona.cat/internationalwelcome/en/brexit-info" class="govuk-link">Book an appointment here</a></td>
-    </tr>
-    <tr>
-      <td>Tuesday 14 January, 11:00am -1:00pm</td>
-      <td>Sóller (Mallorca)</td>
-      <td>Capella de les Escolàpies Cultural Centre, Calle Batac, 25 esquina Calle Bisbe Colom, 07100 Sóller</td>
-      <td> </td>
-    </tr>
-    <tr>
       <td>Wednesday 15 January, 10:30am</td>
       <td>Acantilados de Los Gigantes (Tenerife)</td>
       <td>Tipsy Terrace, Calle el Hibisco, 4, 38683 Acantilados de Los Gigantes</td>
@@ -127,9 +115,27 @@
       <td> </td>
     </tr>
     <tr>
+      <td>‘POP-UP’ Wednesday 22 January 9:00am-12:00pm and 1:00pm-3:00pm</td>
+      <td>Barcelona city</td>
+      <td>Brexit Information Point - Oficina de Atención a las Empresas, Carrer Roc Boronat 117, 08018 Barcelona</td>
+      <td><a rel="external" href="https://www.barcelona.cat/internationalwelcome/en/brexit-info" class="govuk-link">Book an appointment here</a></td>
+    </tr>
+    <tr>
       <td>‘POP-UP’ Wednesday 22 January, 9:30am-2:30pm</td>
       <td>Puerto de Mazarrón (Murcia)</td>
       <td>‘The Food Co.’ British Supermarket, Calle Thomas Alva Edison, 1, 30868 Puerto de Mazarrón</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>‘POP-UP’ Monday 27 January, 9:00am-12:00pm and 1:00pm-3:00pm</td>
+      <td>Barcelona city</td>
+      <td>Brexit Information Point - Oficina de Atención a las Empresas, Carrer Roc Boronat 117, 08018 Barcelona</td>
+      <td><a rel="external" href="https://www.barcelona.cat/internationalwelcome/en/brexit-info" class="govuk-link">Book an appointment here</a></td>
+    </tr>
+    <tr>
+      <td>‘POP-UP’ Wednesday 29 January, 11:00am-12:00pm</td>
+      <td>Lloret de Mar (Girona)</td>
+      <td>Biblioteca Municipal Lloret de Mar, Pl. Pere Torrent, 1, 17310 Lloret de Mar</td>
       <td> </td>
     </tr>
   </tbody>
@@ -185,7 +191,22 @@
 
 <h3 id="Previous-events">Previous events across Spain</h3>
 
-<h3 id="section">2019</h3>
+<h3 id="section">2020</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>14 January</td>
+      <td>Sóller (Mallorca)</td>
+    </tr>
+    <tr>
+      <td>13 January</td>
+      <td>Barcelona city</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="section-1">2019</h3>
 
 <table>
   <tbody>
@@ -817,7 +838,7 @@
   </tbody>
 </table>
 
-<h3 id="section-1">2018</h3>
+<h3 id="section-2">2018</h3>
 
 <table>
   <tbody>
@@ -1056,7 +1077,7 @@
   </tbody>
 </table>
 
-<h4 id="section-2">2017</h4>
+<h4 id="section-3">2017</h4>
 
 <table>
   <tbody>
@@ -1151,7 +1172,7 @@
   </tbody>
 </table>
 
-<h4 id="section-3">2016</h4>
+<h4 id="section-4">2016</h4>
 
 <table>
   <tbody>
@@ -1290,10 +1311,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 November 2018
-    <br></br>Last updated 10 January 2020
+    <br></br>Last updated 15 January 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-15T09:08:09.000+00:00">15 January 2020</time>
+              New information on citizens outreach meetings across Spain.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-10T11:17:21.000+00:00">10 January 2020</time>
               New information on citizens outreach meetings across Spain.
@@ -1504,14 +1529,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-efad4799" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-0cee2f63" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-efad4799" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-0cee2f63" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -1548,9 +1573,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6fa098b5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b0a9ff4b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6fa098b5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-b0a9ff4b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1564,9 +1589,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-6fa098b5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-b0a9ff4b" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-6fa098b5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-b0a9ff4b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
