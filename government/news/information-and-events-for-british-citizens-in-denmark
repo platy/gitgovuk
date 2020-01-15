@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 7 December 2018
-    <br></br>Last updated 9 January 2020
+    <br></br>Last updated 15 January 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -68,14 +68,12 @@
 <h2 id="upcoming-citizens-rights-events">Upcoming citizens’ rights events</h2>
 
 <table>
-  <thead>
-    <tr>
-      <th scope="col">Date</th>
-      <th scope="col">Location</th>
-      <th scope="col">Registration</th>
-    </tr>
-  </thead>
   <tbody>
+    <tr>
+      <td>Date</td>
+      <td>Location</td>
+      <td>Registration</td>
+    </tr>
     <tr>
       <td>21 January</td>
       <td>Aalborg</td>
@@ -106,12 +104,22 @@
       <td>Odense</td>
       <td><a rel="external" href="https://www.lyyti.fi/reg/Briefing_for_UK_Nationals__Get_ready_for_Brexit__Odense_3864" class="govuk-link">Register for the Odense event here</a></td>
     </tr>
+    <tr>
+      <td>30 January</td>
+      <td>Copenhagen, 4:00pm</td>
+      <td><a rel="external" href="https://www.lyyti.fi/reg/Briefing_for_UK_Nationals__Get_ready_for_Brexit__Copenhagen_No_2_1876" class="govuk-link">Register for the Copenhagen event here</a></td>
+    </tr>
+    <tr>
+      <td>30 January</td>
+      <td>Copenhagen, 5:30pm</td>
+      <td><a rel="external" href="https://www.lyyti.fi/reg/Briefing_for_UK_Nationals__Get_ready_for_Brexit__Copenhagen_No_3_6699" class="govuk-link">Register for the Copenhagen event here</a></td>
+    </tr>
   </tbody>
 </table>
 
 <h2 id="information-from-the-event-in---copenhagen-26-september-2019">Information from the event in - Copenhagen 26 September 2019</h2>
 
-<section class="attachment embedded" id="attachment_3910109">
+<section class="attachment embedded" id="attachment_3919870">
   <div class="attachment-thumb">
       <a class="govuk-link" tabindex="-1" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838191/Q_A_-_CPH_information_meeting_2.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/838191/thumbnail_Q_A_-_CPH_information_meeting_2.pdf.png"></img></a>
   </div>
@@ -289,10 +297,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 7 December 2018
-    <br></br>Last updated 9 January 2020
+    <br></br>Last updated 15 January 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-15T09:51:59.000+00:00">15 January 2020</time>
+              Updated with further outreach information events for UK nationals in Denmark
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-09T14:35:39.000+00:00">9 January 2020</time>
               New outreach events in Denmark to be held in January 2020
@@ -353,14 +365,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-0c4de582" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-422a7f9a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-0c4de582" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-422a7f9a" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -397,9 +409,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-24505080" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-fac1d657" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-24505080" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-fac1d657" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -411,9 +423,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-24505080" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-fac1d657" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-24505080" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-fac1d657" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
