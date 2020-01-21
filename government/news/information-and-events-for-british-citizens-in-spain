@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 November 2018
-    <br></br>Last updated 17 January 2020
+    <br></br>Last updated 21 January 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -124,6 +124,12 @@
       <td>‘POP-UP’ Wednesday 29 January, 11:00am-12:00pm</td>
       <td>Lloret de Mar (Girona)</td>
       <td>Biblioteca Municipal Lloret de Mar, Pl. Pere Torrent, 1, 17310 Lloret de Mar</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Friday 31 January, 12:00pm</td>
+      <td><a rel="external" href="https://www.facebook.com/BritsInSpain" class="govuk-link">BritsInSpain Facebook page</a></td>
+      <td><a rel="external" href="https://www.facebook.com/BritsInSpain" class="govuk-link">FACEBOOK LIVE Q&A</a></td>
       <td> </td>
     </tr>
     <tr>
@@ -1326,10 +1332,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 November 2018
-    <br></br>Last updated 17 January 2020
+    <br></br>Last updated 21 January 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-21T11:07:55.000+00:00">21 January 2020</time>
+              <p class="app-c-published-dates__change-note">New information on citizens outreach meetings across Spain.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-17T14:25:27.000+00:00">17 January 2020</time>
               <p class="app-c-published-dates__change-note">New information on citizens outreach meetings across Spain.</p>
@@ -1546,14 +1556,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-a551e141" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-528c59f7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a551e141" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-528c59f7" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -1590,9 +1600,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-092f3817" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-020623e6" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-092f3817" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-020623e6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1606,9 +1616,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-092f3817" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-020623e6" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-092f3817" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-020623e6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
