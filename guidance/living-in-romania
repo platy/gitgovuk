@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,14 +8,11 @@
     Living in Romania
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Official information British people moving to and living in Romania need to know, including EU Exit guidance,  residency, healthcare and driving.
-  </p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Romania, including guidance on Brexit, residency, healthcare and driving.</p>
 
   </div>
 </div>
@@ -25,11 +20,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 14 May 2013
-    <br></br>Last updated 7 May 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 23 January 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
                 </span>
             </dd>
         </dl>
@@ -61,323 +56,448 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#eu-exit-what-you-should-do" data-track-options="{"dimension29":"EU Exit: what you should do"}" href="#eu-exit-what-you-should-do">EU Exit: what you should do</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#eu-exit-updates" data-track-options="{"dimension29":"EU Exit updates"}" href="#eu-exit-updates">EU Exit updates</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#residency-and-visas" data-track-options="{"dimension29":"Residency and visas"}" href="#residency-and-visas">Residency and visas</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#attend-a-citizen-outreach-meeting" data-track-options="{"dimension29":"Attend a citizen outreach meeting"}" href="#attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-romania" data-track-options="{"dimension29":"Working in Romania"}" href="#working-in-romania">Working in Romania</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-romania" data-track-options="{"dimension29":"Working in Romania"}" href="#working-in-romania">Working in Romania</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-romania" data-track-options="{"dimension29":"Driving in Romania"}" href="#driving-in-romania">Driving in Romania</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#driving-in-romania" data-track-options="{"dimension29":"Driving in Romania"}" href="#driving-in-romania">Driving in Romania</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="eu-exit-what-you-should-do">EU Exit: what you should do</h2>
+<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
 
 <p>You should:</p>
 
 <ul>
-  <li><a rel="external" href="http://igi.mai.gov.ro/en/content/citizens-eu-eea">make sure you’re correctly registered as resident in Romania</a></li>
-  <li><a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check whether your passport is valid for travel</a></li>
-</ul>
-
-<h2 id="eu-exit-updates">EU Exit updates</h2>
-
-<p>To keep up to date with information about EU Exit:</p>
-
-<ul>
-  <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-romania">email alerts on living in Romania</a>
-</li>
-  <li><a rel="external" href="http://www.mai.gov.ro/eng/docs/Brexit%20.pdf">read the latest announcement from the Romanian Government</a></li>
-  <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">UK nationals in the EU: essential information</a>
-</li>
-  <li>follow the British Embassy Bucharest on <a rel="external" href="https://www.facebook.com/BritishEmbassyBucharest/">Facebook</a> and <a rel="external" href="https://mobile.twitter.com/ukinromania?lang=en">Twitter</a>
-</li>
+  <li>
+<a href="https://www.gov.uk/guidance/living-in-romania#visas-and-residency" class="govuk-link">register as a resident</a> in Romania</li>
+  <li>
+<a href="https://www.gov.uk/guidance/living-in-romania#healthcare" class="govuk-link">register for healthcare</a> as a resident in Romania</li>
 </ul>
 </div>
 
-<h2 id="residency-and-visas">Residency and visas</h2>
+<h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>See <a href="https://www.gov.uk/foreign-travel-advice/romania/entry-requirements">entry requirements for Romania</a> in our travel advice.</p>
+<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
 
-<p>If you intend to stay for longer than 3 months, you should apply for a registration certificate from the <a rel="external" href="http://igi.mai.gov.ro/en/content/citizens-eu-eea">Romanian Office for Immigration</a>.</p>
+<ul>
+  <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-romania" class="govuk-link">email alerts to this guidance</a>
+</li>
+  <li>follow the British Embassy Bucharest on <a rel="external" href="https://www.facebook.com/BritishEmbassyBucharest/" class="govuk-link">Facebook</a> and <a rel="external" href="https://mobile.twitter.com/ukinromania?lang=en" class="govuk-link">Twitter</a>
+</li>
+</ul>
 
-<p>The UK and EU have agreed the full legal text of the draft Withdrawal Agreement in principle. The agreement on citizens’ rights will allow UK nationals to stay in their Member State of residence after the UK leaves the EU.</p>
+<h2 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h2>
 
-<p>In the event of changes to residency rules or registration processes after the UK leaves the EU, we will update this page as soon as information is available.</p>
+<p>The British Embassy regularly holds events across Romania for UK nationals. 
+<a href="https://www.gov.uk/government/news/meeting-british-citizens-across-romania" class="govuk-link">Attend one of our citizens’ outreach meetings</a> to keep up to date on working and living in Romania after Brexit.</p>
 
-<h2 id="passports-and-travel">Passports and travel</h2>
+<p>You can also:</p>
 
-<p>See <a href="https://www.gov.uk/overseas-passports">overseas British passports applications</a> and <a href="https://www.gov.uk/emergency-travel-document">get an emergency travel document</a> (sometimes called an emergency passport).</p>
+<ul>
+  <li>read the <a rel="external" href="https://mai.gov.ro/eng/docs/Brexit%20.pdf" class="govuk-link">latest announcement from the Romanian government</a>
+</li>
+  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">living in the EU: Prepare for Brexit</a>
+</li>
+</ul>
 
-<p>See our <a href="https://www.gov.uk/foreign-travel-advice/romania">travel advice for Romania</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
+<h2 id="visas-and-residency">Visas and residency</h2>
 
-<h3 id="passports-and-travel-after-the-uk-leaves-the-eu">Passports and travel after the UK leaves the EU</h3>
+<p>Check the <a href="https://www.gov.uk/foreign-travel-advice/romania/entry-requirements" class="govuk-link">entry requirements for Romania</a>.</p>
 
-<p>If the UK leaves the EU without a deal, new travel rules will apply. You should have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland).</p>
+<p>You must <a rel="external" href="http://igi.mai.gov.ro/en/content/registered-residence" class="govuk-link">register as a Romanian resident</a> if you want to stay in Romania for more than 3 months. You will obtain a certificate from the <a rel="external" href="http://igi.mai.gov.ro/en/content/registered-residence" class="govuk-link">General Inspectorate for Immigration (Inspectoratul Roman pentru Imigrari)</a>.</p>
 
-<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
+<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
 
-<p>You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+<p>If you are resident in Romania before the end of the implementation period on 31 December 2020 you will be able to stay.</p>
 
-<p>If the UK leaves the EU without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/">UK nationals will not need visas for short stays elsewhere in the EU</a>. You will be able to stay up to 90 days in another EU country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an EU Member State, you will be able to transit through other EU Member States to reach your country of residence. We will update this guidance as more information becomes available.</p>
+<p>After Brexit, you will need to change your registration document for a new card/certificate.</p>
 
-<p>If the UK leaves the EU with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your UK passport. What happens after 2020 will form the next part of negotiations.</p>
+<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
+
+<p>For more information you can <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-romania" class="govuk-link">sign up for email updates</a>.</p>
 
 <h2 id="healthcare">Healthcare</h2>
 
-<p>See our <a href="https://www.gov.uk/foreign-travel-advice/romania">travel advice for Romania</a>.</p>
+<p>You must <a rel="external" href="http://www.cnas.ro/default/index/index/lang/EN" class="govuk-link">register for healthcare</a> as a resident in Romania.</p>
 
-<p>If the UK leaves the EU without a deal on, your access to healthcare is likely to change. The <a rel="external" href="https://www.nhs.uk/NHSEngland/Healthcareabroad/countryguide/Pages/healthcareinRomania.aspx">NHS</a> has more information about healthcare for UK nationals living in and visiting Romania.</p>
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
-<p>The UK government has or is seeking agreements with countries on healthcare arrangements for UK nationals after the UK leaves the EU.</p>
+<p>If you live in Romania and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
 
-<p>Up to the UK leaving the EU, you should get a <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/">free European Health Insurance Card (EHIC)</a> to get emergency medical treatment during temporary stays in EU countries. You also need <a href="https://www.gov.uk/guidance/foreign-travel-insurance">comprehensive travel insurance</a> to cover anything not covered by your EHIC.</p>
+<h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
 
-<p>If you plan to visit after the UK leaves the EU, you should continue to buy travel insurance for the health treatment you may need, as you would for a non-EU country. If you have a UK-issued EHIC, it will still be valid until the UK leaves the EU.</p>
+<p>If you are resident in Romania, you must not use a UK-issued EHIC to access healthcare in Romania.</p>
 
-<p>You can find <a href="https://www.gov.uk/government/publications/medical-facilities-list-romania">English-speaking doctors in Romania</a>. You should also <a href="https://www.gov.uk/travelling-controlled-drugs">check your prescriptions are legal</a> in Romania.</p>
+<p>When you travel from Romania for a temporary stay in another European Economic Area (EEA) country or Switzerland, you may use an EHIC to access state-provided healthcare. During that short stay:</p>
 
-<h3 id="s1-form--healthcare-paid-for-by-the-uk">S1 form – healthcare paid for by the UK</h3>
+<ul>
+  <li>the EHIC covers treatment that is medically necessary until your planned return home</li>
+  <li>an EHIC is not a replacement for comprehensive travel insurance</li>
+  <li>for more information you can read our <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice pages</a> and advice on <a href="https://www.gov.uk/guidance/foreign-travel-insurance#eu-exit-update" class="govuk-link">foreign travel insurance</a>
+</li>
+</ul>
 
-<p>You may be entitled to state healthcare paid for by the UK if you live in Romania and get an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit.</p>
+<p>If you are a student, read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">NHS guidance on healthcare and studying abroad</a>.</p>
 
-<p>You will need an S1 form. You can apply for one by calling +44 (0)191 218 1999.</p>
+<p>You can find <a href="https://www.gov.uk/government/publications/medical-facilities-list-romania" class="govuk-link">English-speaking doctors in Romania</a>.</p>
+
+<p>You must <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a> in Romania.</p>
+
+<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
+
+<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time.</p>
+
+<p>If you a’re living in Romania or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Romania as you do now, provided you remain resident.</p>
+
+<h2 id="passports-and-travel">Passports and travel</h2>
+
+<p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from Romania</a>.</p>
+
+<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+
+<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+
+<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+
+<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-romania" class="govuk-link">sign up for updates</a> to this guidance.</p>
 
 <h2 id="working-in-romania">Working in Romania</h2>
 
-<p>See <a href="https://www.gov.uk/working-abroad">working in another EU country</a>.</p>
+<p>If you intend to work in Romania, you must register with the Romanian Office for Immigrants. You can also register as self-employed. The <a rel="external" href="http://igi.mai.gov.ro/en/content/registered-residence" class="govuk-link">General Inspectorate for Immigration</a> has more information.</p>
 
-<p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/acro_std.aspx?id=2379">UK police certificate</a></p>
+<p>If you are registered as a resident in Romania, you have the right to work in Romania. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
 
-<p>If you intend to work in Romania, you should register with the Romanian Office for Immigrants - you can also register as self-employed. See <a rel="external" href="http://igi.mai.gov.ro/en/content/registered-residence">General Inspectorate for Immigration</a>.</p>
+<p>You may need to apply for a:</p>
+
+<ul>
+  <li>Romanian criminal records certificate (Cazier Judiciar)</li>
+  <li><a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK police certificate</a></li>
+</ul>
+
+<h3 id="working-in-romania-after-brexit">Working in Romania after Brexit</h3>
+
+<p>Your right to work will stay the same, as long as you remain resident in Romania.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>If you intend to use a bank card, or other financial service from a UK-based firm in the EU after exit, this may be affected. Read more about <a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea">using a bank card, insurance or other financial service in the EU.</a></p>
+<p>The UK has a double-taxation agreement with Romania to ensure people do not pay tax on the same income in both countries.</p>
 
-<p>See <a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk">tax if you leave the UK to live abroad</a> and <a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice">tax on your UK income if you live abroad</a>.</p>
+<p>Read guidance about:</p>
 
-<p>The UK has a double-taxation agreement with Romania to ensure people do not pay tax on the same income in both countries. The UK’s exit from the European Union will not change existing double taxation arrangements for UK nationals living in Romania. Individual taxpayer queries regarding double taxation relief should be directed to the relevant tax authority. We recommend you get professional advice on paying tax in Romania.</p>
+<ul>
+  <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk" class="govuk-link">tax if you leave the UK to live abroad</a></li>
+  <li><a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice" class="govuk-link">tax on your UK income if you live abroad</a></li>
+  <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/index_en.htm" class="govuk-link">paying income tax in Romania</a></li>
+</ul>
 
-<p>See <a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/romania/index_en.htm">information about paying income tax in Romania</a>.</p>
+<p>You should obtain professional advice on paying tax in Romania. Find an <a href="https://www.gov.uk/government/publications/romania-list-of-lawyers" class="govuk-link">English-speaking lawyer in Romania</a>.</p>
 
-<p>You may be able to <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
+<h3 id="national-insurance">National Insurance</h3>
+
+<p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> so that you protect your State Pension and entitlement to other benefits and allowances.</p>
+
+<p>If you are employed or self-employed in the EU or the EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
+
+<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
+
+<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Romania. Send your queries about double taxation to the relevant tax authority.</p>
 
 <h2 id="pensions">Pensions</h2>
 
-<p>See <a href="https://www.gov.uk/state-pension-if-you-retire-abroad">State Pension if you retire abroad</a> and <a href="https://www.gov.uk/new-state-pension">new State Pension</a>.</p>
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you retire in Romania, you can claim:</p>
 
 <ul>
-  <li>your <a href="https://www.gov.uk/state-pension-if-you-retire-abroad">UK State Pension</a> or <a href="https://www.gov.uk/new-state-pension">new UK State Pension</a>. Please contact the <a href="https://www.gov.uk/international-pension-centre">International Pension Centre</a> to claim</li>
-  <li>your <a rel="external" href="http://www.cnas.ro/default/index/index/lang/EN">Romanian pension if you’ve worked in Romania</a>
+  <li>your <a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">UK State Pension</a> or <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new UK State Pension</a>. Contact the <a href="https://www.gov.uk/international-pension-centre" class="govuk-link">International Pension Centre</a> to claim</li>
+  <li>your <a rel="external" href="http://www.cnas.ro/default/index/index/lang/EN" class="govuk-link">Romanian pension if you’ve worked in Romania</a>
 </li>
-  <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm">pensions from working abroad, if you’ve worked in other EU countries</a></li>
+  <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm" class="govuk-link">pensions from working abroad, if you’ve worked in other EU countries</a></li>
 </ul>
 
-<p>The UK government will continue to pay state pension, child benefits, and disability benefits to eligible UK nationals in the EU after the UK’s exit from the EU. Find <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on benefits and pensions in a no deal scenario</a>.</p>
+<h3 id="life-certificates-for-uk-state-pensions">Life certificates for UK State Pensions</h3>
 
-<p>If you haven’t worked in Romania, you should claim your UK state pension by contacting the <a href="https://www.gov.uk/international-pension-centre">International Pension Centre</a>.</p>
+<p>If you receive a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ form</a> in the post, you must fill it in promptly otherwise your payments may be suspended.</p>
 
-<p>If you’ve worked in several EU countries, see <a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm">state pensions abroad</a>.</p>
+<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
 
-<h3 id="pensions-after-the-uk-leaves-the-eu">Pensions after the UK leaves the EU</h3>
+<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
 
-<p>The UK government will uprate your UK state pension for the fiscal year 2019/2020 in any scenario.</p>
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
 
-<h3 id="life-certificates-for-uk-state-pensions">Life certificates for UK state pensions</h3>
+<p>If you are living in Romania by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your UK State Pension.</p>
 
-<p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
+<p>If you work and pay social security contributions in Romania, you will still be able to add your UK social security contributions towards your Romanian pension. This will happen even if you claim your pension after the end of the implementation period.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>See <a href="https://www.gov.uk/claim-benefits-abroad">claiming benefits if you live, move or travel abroad</a>.</p>
+<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
-<p>Find out <a href="https://www.gov.uk/uk-benefits-abroad">which UK benefits you might be able to get while you’re abroad</a> and how to claim them.</p>
+<p>You may still be able to claim some UK benefits like child and disability benefits if you live in Romania. You must:</p>
 
-<p>Many income-related benefits such as Pension Credit and Housing Benefit can’t be paid if you’re abroad for more than 4 weeks.</p>
+<ul>
+  <li>read our guidance on which <a href="https://www.gov.uk/claim-benefits-abroad" class="govuk-link">benefits you can claim if you live abroad</a>
+</li>
+  <li>use our tool to <a href="https://www.gov.uk/uk-benefits-abroad" class="govuk-link">check which benefits you can claim while you’re abroad</a>
+</li>
+</ul>
 
-<p>You may be eligible to claim some Romanian social security benefits – <a rel="external" href="http://ec.europa.eu/social/main.jsp?langId=en&catId=1126&intPageId=4759&">see Romanian social security benefits</a>.</p>
+<p>Many income-related benefits such as pension credit and housing benefit cannot be paid to you if you’re abroad for more than 4 weeks.</p>
+
+<p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you’ve worked in the UK</a> from HMRC if you are asked for this.</p>
+
+<h3 id="romanian-benefits">Romanian benefits</h3>
+
+<p>You may be entitled to Romanian benefits. To find out if you are entitled to Romanian benefits and how to claim, you can:</p>
+
+<ul>
+  <li>read the EU’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_en.htm" class="govuk-link">claiming benefits in an EU country like Romania</a>
+</li>
+  <li>speak to a social worker at your local town hall (Primarie)</li>
+</ul>
+
+<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
+
+<p>If you work and pay social security contributions in Romania, your UK social security contributions will be taken into account when applying for Romanian contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
 
 <h2 id="driving-in-romania">Driving in Romania</h2>
 
-<p>See <a href="https://www.gov.uk/driving-abroad">driving abroad</a> and <a href="https://www.gov.uk/foreign-travel-advice/romania/safety-and-security">road travel in Romania</a>.</p>
+<p>If you are resident in Romania, there is currently no requirement to exchange your UK licence for a local one. You can still use your Romanian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
-<p>Holders of UK driving licences who are resident in an EU country should exchange their UK licences for a driving licence from the EU country you are living in before the UK leaves the EU. For more information see <a href="https://www.gov.uk/driving-abroad">driving abroad</a>.</p>
+<p>If you are in Romania and your UK driving licence is lost, stolen or expires, you will not be able to renew it with the UK Driver and Vehicle Licensing Agency (DVLA). You will need to apply to the DVLA for a certificate of entitlement in Romanian to be able to apply for a Romanian driving licence.</p>
 
-<p>See <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/index_en.htm">driving licence renewal and exchange</a> and <a href="https://www.gov.uk/taking-vehicles-out-of-uk">taking a vehicle out of the UK</a>.</p>
+<p>For information on driving in Romania, read the guidance on:</p>
+
+<ul>
+  <li><a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/romania/index_en.htm" class="govuk-link">driving licence exchange and renewals</a></li>
+  <li><a href="https://www.gov.uk/driving-abroad" class="govuk-link">what you need to drive abroad</a></li>
+  <li><a href="https://www.gov.uk/foreign-travel-advice/romania/safety-and-security" class="govuk-link">driving rules in Romania</a></li>
+</ul>
+
+<h3 id="bringing-a-uk-registered-vehicle-to-romania">Bringing a UK-registered vehicle to Romania</h3>
+
+<p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk" class="govuk-link">taking a vehicle out of the UK</a>.</p>
+
+<p>You must read the EU´s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/index_en.htm" class="govuk-link">car registration rules and taxes in Romania</a>. You may be exempt from some of these taxes. If so, you will need certificates of exemption.</p>
+
+<h3 id="driving-after-brexit">Driving after Brexit</h3>
+
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
+
+<h2 id="voting">Voting</h2>
+
+<p>You may be able to vote in some UK elections. You can:</p>
+
+<ul>
+  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
+  <li>
+<a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
+</ul>
+
+<p>If you’re resident in Romania, you can <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">vote in local municipal and European parliamentary elections</a>.</p>
+
+<h3 id="voting-after-brexit">Voting after Brexit</h3>
+
+<p>After Brexit, you will no longer be eligible to vote in local and European Parliament elections in Romania.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
-<p>If your child is born in Romania, you will need to <a href="https://www.gov.uk/register-a-birth">register a birth abroad</a>.</p>
+<p>If your child is born in Romania, you will need to <a href="https://www.gov.uk/register-a-birth" class="govuk-link">register a birth abroad</a>.</p>
 
-<p>If someone dies in Romania, you should:</p>
+<p>If someone dies in Romania, you must:</p>
 
 <ul>
-  <li>see <a href="https://www.gov.uk/after-a-death/death-abroad">what to do after someone dies</a>
+  <li>read our guidance on <a href="https://www.gov.uk/after-a-death/death-abroad" class="govuk-link">what to do after someone dies abroad</a>
 </li>
-  <li>check out the following <a href="https://www.gov.uk/government/publications/romania-list-of-lawyers">list of English-speaking funeral directors in Romania</a>
+  <li>read guidance for UK nationals on <a href="https://www.gov.uk/government/publications/romania-bereavement-information" class="govuk-link">bereavements in Romania</a>
 </li>
-  <li>read guidance for UK nationals on <a href="https://www.gov.uk/government/publications/romania-bereavement-information">bereavement information for Romania</a>
+  <li>find a list of <a href="https://www.gov.uk/government/publications/romania-list-of-lawyers" class="govuk-link">English-speaking funeral directors in Romania</a>
 </li>
 </ul>
 
-<p>Find out how you can <a href="https://www.gov.uk/marriage-abroad">get married abroad</a>.</p>
+<p>Find out how you can get <a href="https://www.gov.uk/marriage-abroad" class="govuk-link">married abroad</a>.</p>
 
-<p>You many also need:</p>
-
-<ul>
-  <li><a href="https://www.gov.uk/government/publications/romania-list-of-lawyers">English-speaking lawyers in  Romania</a></li>
-  <li><a href="https://www.gov.uk/government/publications/translators-and-interpreters-list-romania">translators and interpreters in Romania</a></li>
-  <li><a href="https://www.gov.uk/guidance/notarial-and-documentary-services-guide-for-romania">notary services for  Romania</a></li>
-</ul>
-
-<h2 id="pets">Pets</h2>
-
-<p>See <a href="https://www.gov.uk/take-pet-abroad">travelling with pets</a>.</p>
-
-<p>UK nationals will still be able to travel to and from the UK with a pet (cat, dog or ferret) when the UK leaves the EU, but the rules will change.  See <a href="https://www.gov.uk/guidance/pet-travel-to-europe-after-brexit">pet travel to Europe after EU Exit</a> for more information.</p>
-
-<h2 id="emergencies">Emergencies</h2>
-
-<p>The European emergency number 112 is the only emergency number in Romania. 
-See <a rel="external" href="https://ec.europa.eu/digital-single-market/en/112-romania">Romania – emergency numbers</a>.</p>
-
-<p>If you need urgent help, <a href="https://www.gov.uk/world/organisations/british-embassy-bucharest">contact the British Embassy in Bucharest</a>.</p>
+<p>Find out about <a href="https://www.gov.uk/guidance/notarial-and-documentary-services-guide-for-romania" class="govuk-link">notarial and documentary services for UK nationals in Romania</a>.</p>
 
 <h2 id="accommodation-and-buying-property">Accommodation and buying property</h2>
 
-<p>See <a href="https://www.gov.uk/guidance/guidance-for-buying-property-abroad">buying a property abroad</a>.</p>
+<p>Read guidance on <a href="https://www.gov.uk/guidance/guidance-for-buying-property-abroad" class="govuk-link">how to buy property abroad</a>.</p>
+
+<h2 id="pets">Pets</h2>
+
+<p>Current pet travel rules will stay the same until 31 December 2020.</p>
+
+<p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
+
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a>.</p>
+
+<h2 id="emergencies">Emergencies</h2>
+
+<p>You can dial the European emergency number 112. It is the only emergency number in Romania.</p>
+
+<p>If you’re the victim of crime, have been arrested, or are affected by a crisis abroad, contact the <a href="https://www.gov.uk/world/organisations/british-embassy-bucharest" class="govuk-link">British Embassy Bucharest</a>.</p>
 
 <h2 id="returning-to-the-uk">Returning to the UK</h2>
 
-<p>You should read our guidance on:</p>
+<p>Tell the UK and Romanian authorities if you are returning to the UK permanently.</p>
 
-<ul>
-  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal#bringing-your-family-to-the-uk">returning to live in the UK</a></li>
-  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal">returning to live in the UK in the case of no-deal</a></li>
-  <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#bringing-your-family-to-the-uk">bringing your family to the UK</a></li>
-  <li>
-<a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal#bringing-your-family-to-the-uk">access to higher education</a>, <a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal#bringing-your-family-to-the-uk">19+ further education and apprenticeship funding</a>
-</li>
-  <li><a href="https://www.gov.uk/importing-vehicles-into-the-uk">importing vehicles back to the UK</a></li>
-  <li><a href="https://www.gov.uk/take-pet-abroad">bringing your pet back to the UK</a></li>
-  <li><a href="https://www.gov.uk/tax-return-uk">checking your tax status after returning to the UK</a></li>
-</ul>
+<p>Read the guidance on <a href="https://www.gov.uk/guidance/returning-to-the-uk" class="govuk-link">returning to the UK permanently</a> which includes information on, amongst other things, tax, access to services and bringing family members.</p>
 
 <h3 id="disclaimer">Disclaimer</h3>
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Romanian authorities. The FCO will not be liable for any inaccuracies in this information.</p>
+<p>Note that this information is provided as a guide only. Definitive information must be obtained from the Romanian authorities. The FCO will not be liable for any inaccuracies in this information.</p>
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 14 May 2013
-    <br></br>Last updated 7 May 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 23 January 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T16:45:52.000+00:00">23 January 2020</time>
+              <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-23T16:45:29.000+01:00">23 September 2019</time>
+              <p class="app-c-published-dates__change-note">Brexit update: healthcare section updated to reflect transitional arrangements announcement.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-03T16:21:59.000+01:00">3 September 2019</time>
+              <p class="app-c-published-dates__change-note">Brexit Update: Pensions section updated to include further details on State Pension uprating.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-07T13:54:41.000+01:00">7 May 2019</time>
-              EU Exit update: we have added new information on returning to the UK, updated the passports and visa section and added the latest on pensions post-Brexit
+              <p class="app-c-published-dates__change-note">EU Exit update: we have added new information on returning to the UK, updated the passports and visa section and added the latest on pensions post-Brexit</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-08T11:16:15.000+01:00">8 April 2019</time>
-              EU Exit update: Added the latest statement from the Romanian Government on UK Citizens' Rights in Romania in the EU Exit section.
+              <p class="app-c-published-dates__change-note">EU Exit update: Added the latest statement from the Romanian Government on UK Citizens' Rights in Romania in the EU Exit section.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-25T15:06:08.000+00:00">25 March 2019</time>
-              We have added the latest announcement from the Romanian Government. 
+              <p class="app-c-published-dates__change-note">We have added the latest announcement from the Romanian Government.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-18T16:47:47.000+00:00">18 March 2019</time>
-              We have added the registration link for the outreach event aimed at UK nationals in Brasov and the surrounding region. 
+              <p class="app-c-published-dates__change-note">We have added the registration link for the outreach event aimed at UK nationals in Brasov and the surrounding region.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-15T15:00:52.000+00:00">15 March 2019</time>
-              Registration for Cluj, Bucharest, Iasi and Timisoara outreach events
+              <p class="app-c-published-dates__change-note">Registration for Cluj, Bucharest, Iasi and Timisoara outreach events</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-14T11:48:43.000+00:00">14 March 2019</time>
-              EU Exit update: added link to citizens outreach meetings in Romania to EU Exit section
+              <p class="app-c-published-dates__change-note">EU Exit update: added link to citizens outreach meetings in Romania to EU Exit section</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-13T10:25:49.000+00:00">13 March 2019</time>
-              We have updated the contact details you need to apply for an S1 form.
+              <p class="app-c-published-dates__change-note">We have updated the contact details you need to apply for an S1 form.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-01-29T11:45:18.000+00:00">29 January 2019</time>
-              EU Exit update - Updated information on access to healthcare
+              <p class="app-c-published-dates__change-note">EU Exit update - Updated information on access to healthcare</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-01-21T13:35:15.000+00:00">21 January 2019</time>
-              EU Exit update: new information about voting rights added to Voting section
+              <p class="app-c-published-dates__change-note">EU Exit update: new information about voting rights added to Voting section</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-01-18T15:14:37.000+00:00">18 January 2019</time>
-              EU Exit update: updated information on pensions and driving. 
+              <p class="app-c-published-dates__change-note">EU Exit update: updated information on pensions and driving.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-11-22T17:52:16.000+00:00">22 November 2018</time>
-              EU Exit update: New information in residency and visa section on draft withdrawal agreement in principle between the UK and EU. Plus information on travelling with pets in Europe in Pets section.                                                  
+              <p class="app-c-published-dates__change-note">EU Exit update: New information in residency and visa section on draft withdrawal agreement in principle between the UK and EU. Plus information on travelling with pets in Europe in Pets section.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-03-13T10:39:59.000+00:00">13 March 2018</time>
-              Updated March 2018
+              <p class="app-c-published-dates__change-note">Updated March 2018</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2013-05-14T13:23:00.000+01:00">14 May 2013</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -387,7 +507,7 @@ See <a rel="external" href="https://ec.europa.eu/digital-single-market/en/112-ro
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -402,44 +522,69 @@ See <a rel="external" href="https://ec.europa.eu/digital-single-market/en/112-ro
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
+  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-3a680c40" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-49552dd2" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-3a680c40" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-49552dd2" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-3a680c40" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-romania" data-track-options="{"dimension28":"1","dimension29":"Romania: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-romania">Romania: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-lithuania" data-track-options="{"dimension28":"5","dimension29":"Living in Lithuania"}" href="/guidance/living-in-lithuania">Living in Lithuania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-bulgaria" data-track-options="{"dimension28":"5","dimension29":"Living in Bulgaria"}" href="/guidance/living-in-bulgaria">Living in Bulgaria</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-3a680c40" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-49552dd2" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-3a680c40" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-related_guides-49552dd2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-romania" data-track-options="{"dimension28":"2","dimension29":"Romania: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-romania">Romania: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-romania" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Romania"}" href="/guidance/healthcare-in-romania">Healthcare in Romania</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-49552dd2" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-49552dd2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
 
   </ul>
 </nav>
 
   </div>
+
 
 
 </div>
@@ -460,9 +605,9 @@ See <a rel="external" href="https://ec.europa.eu/digital-single-market/en/112-ro
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2b57fe9c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a2617471" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2b57fe9c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-a2617471" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
