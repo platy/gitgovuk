@@ -1,8 +1,6 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,14 +8,11 @@
     Living in Iceland
   </h1>
 </div>
-
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Official information British people moving to and living in Iceland need to know, including EU Exit guidance, residency, healthcare and driving.
-  </p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Iceland, including guidance on Brexit, residency, passports and driving.</p>
 
   </div>
 </div>
@@ -25,11 +20,11 @@
 <div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
     <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 29 April 2016
-    <br></br>Last updated 4 June 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 24 January 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
                 </span>
             </dd>
         </dl>
@@ -61,414 +56,455 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#eu-exit-what-you-should-do" data-track-options="{"dimension29":"EU Exit: what you should do"}" href="#eu-exit-what-you-should-do">EU Exit: what you should do</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#eu-exit-updates" data-track-options="{"dimension29":"EU Exit updates"}" href="#eu-exit-updates">EU Exit updates</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#residency-and-visas" data-track-options="{"dimension29":"Residency and visas"}" href="#residency-and-visas">Residency and visas</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-iceland" data-track-options="{"dimension29":"Working in Iceland"}" href="#working-in-iceland">Working in Iceland</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-iceland" data-track-options="{"dimension29":"Working in Iceland"}" href="#working-in-iceland">Working in Iceland</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-iceland" data-track-options="{"dimension29":"Driving in Iceland"}" href="#driving-in-iceland">Driving in Iceland</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-iceland" data-track-options="{"dimension29":"Driving in Iceland"}" href="#driving-in-iceland">Driving in Iceland</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="eu-exit-what-you-should-do">EU Exit: what you should do:</h2>
+<h2 id="brexit-what-you-should-do">Brexit: what you should do:</h2>
 
 <ul>
   <li>
-<a rel="external" href="https://www.skra.is/english/individuals/me-and-my-family/my-registration/">register as a resident</a> in Iceland</li>
-  <li>
-<a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport</a> is valid for travel</li>
-</ul>
-
-<h2 id="eu-exit-updates">EU Exit updates</h2>
-
-<p>To keep up to date with information about EU Exit:</p>
-
-<ul>
-  <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-iceland">email alerts on living in Iceland</a>
-</li>
-  <li>follow your the British Embassy Reykjavík on <a rel="external" href="https://www.facebook.com/UKinIceland">Facebook</a> and <a rel="external" href="https://twitter.com/UKinIceland">Twitter</a>
-</li>
-  <li>read <a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">UK nationals in the EU: essential information</a>
-</li>
-  <li>read about the <a href="https://www.gov.uk/government/news/eea-efta-separation-agreement">EEA EFTA Separation Agreement</a> which will apply if the UK leaves the EU with a deal</li>
-  <li>read about the <a href="https://www.gov.uk/government/news/uk-and-eea-efta-states-strike-agreement-to-protect-citizens-rights-in-a-no-deal-scenario">EEA EFTA Citizens´ Rights Agreement</a> which will apply in the event of the UK leaving the EU without a deal</li>
+<a href="https://www.gov.uk/guidance/living-in-iceland#visas-and-residency" class="govuk-link">register as a resident</a> in Iceland</li>
 </ul>
 </div>
 
-<h2 id="residency-and-visas">Residency and visas</h2>
+<h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>You may wish to check the <a href="https://www.gov.uk/foreign-travel-advice/iceland/entry-requirements">entry requirements</a> for Iceland.</p>
-
-<p>You must register with <a rel="external" href="https://www.skra.is/english/individuals/">Registers Iceland</a> and apply for a national identification number (kennitala). You’ll need your <a rel="external" href="https://www.skra.is/english/individuals/me-and-my-family/my-registration/id-numbers/">identification number</a> to access services in Iceland.</p>
-
-<h3 id="residency-and-visas-after-the-uk-leaves-the-eu">Residency and visas after the UK leaves the EU</h3>
-
-<p>UK nationals living in Iceland must <a rel="external" href="https://skra.is/english/individuals/moving-to-iceland/i-am-an-eea-efta-citizen/">register their domicile with Registers Iceland</a> before the UK leaves the EU in order to be guaranteed a continuous right to reside in Iceland after the UK leaves the EU.</p>
-
-<p>More information can be found at the <a rel="external" href="http://www.utl.is/index.php/en/about-directorate-of-immigration/news/1009-information-for-british-citizens">Icelandic Government’s website</a>.</p>
-
-<p>In the event of changes to residency rules or registration processes after the UK leaves the EU, we will update this page as soon as information is available. Sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-iceland">email updates to this guidance on living in Iceland</a></p>
-
-<h2 id="passports-and-travel">Passports and travel</h2>
-
-<p>You can <a href="https://www.gov.uk/apply-renew-passport">apply for or renew your British passport</a> from Iceland. If you cannot get a passport in time for your trip, you may need to <a href="https://www.gov.uk/emergency-travel-document">get an emergency travel document or ‘emergency passport’</a>.</p>
-
-<p>You can look at our <a href="https://www.gov.uk/foreign-travel-advice/iceland">travel advice for Iceland</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
-
-<h3 id="passports-and-travel-after-the-uk-leaves-the-eu">Passports and travel after the UK leaves the EU</h3>
-
-<p>If the UK leaves the EU with a deal, nothing will change until the end of 2020. In this time you can continue to travel freely in the Schengen area with your UK passport. What happens after 2020 will form the next part of negotiations.</p>
-
-<p>If the UK leaves the EU without a deal, new travel rules will apply. You should have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland).</p>
-
-<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
-
-<p>You should <a rel="external" href="https://www.passport.service.gov.uk/check-a-passport">check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
-
-<p>If the UK leaves the EU without a deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/">UK nationals will not need visas for short stays elsewhere in the EU</a>. You will be able to stay up to 90 days in another EU, EEA or EFTA country, within a 180 day period. You should retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an EU, EEA or EFTA country, you will be able to transit through other EU, EEA or EFTA country to reach your country of residence. We will update this guidance as more information becomes available.</p>
-
-<h3 id="insurance-for-trips-to-iceland">Insurance for trips to Iceland</h3>
-<p>If you are taking out travel insurance shortly after the UK leaves the EU, you should make sure you know the terms and conditions of your travel insurance policy. You should make sure that the policy covers any possible disruption.</p>
-
-<p>If you already have travel insurance, your insurer should let you know if there are changes that will affect you when the UK leaves the EU. If you have questions about what your travel insurance policy covers, or whether it covers possible disruption, contact your insurer.</p>
-
-<h2 id="healthcare">Healthcare</h2>
-<p>Once you’re resident in Iceland for 6 months, you automatically become a member of the <a rel="external" href="http://www.sjukra.is/english/social-insurance-in-iceland/">Iceland social insurance system</a>.</p>
-
-<p>You can read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/healthcare-in-iceland/">NHS guidance on who is able to access healthcare in Iceland and how to register</a>.</p>
-
-<p>If you live in Iceland and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
-
-<p>If you are resident in Iceland, you should not be using a European Health Insurance Card (EHIC) from the UK to access healthcare in Iceland.</p>
+<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
 
 <ul>
-  <li>you may use an EHIC to access state-provided healthcare during a temporary stay in another European Economic Area (EEA) country or Switzerland</li>
-  <li>the EHIC covers treatment that is medically necessary until your planned return home</li>
-  <li>an EHIC is not a replacement for comprehensive travel insurance</li>
-  <li>for more information you can read <a href="https://www.gov.uk/foreign-travel-advice">our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#eu-exit-update">advice on foreign travel insurance</a>
+  <li>
+    <p>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-iceland" class="govuk-link">email alerts on living in Iceland</a></p>
+  </li>
+  <li>
+    <p>follow the British Embassy Reykjavík on <a rel="external" href="https://www.facebook.com/UKinIceland" class="govuk-link">Facebook</a> and <a rel="external" href="https://twitter.com/UKinIceland" class="govuk-link">Twitter</a></p>
+  </li>
+</ul>
+
+<p>You can also:</p>
+
+<ul>
+  <li>read about the <a href="https://www.gov.uk/government/news/eea-efta-separation-agreement" class="govuk-link">EEA EFTA Separation Agreement</a>
 </li>
 </ul>
 
-<p>You can read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/">NHS guidance on healthcare and studying abroad</a>.</p>
+<h2 id="visas-and-residency">Visas and residency</h2>
 
-<p>You should <a href="https://www.gov.uk/travelling-controlled-drugs">check your prescriptions are legal</a> in Iceland. You can bring personal prescription medicine for 100 days without a customs declaration, although Icelandic customs officials may ask for a formal doctor’s note.</p>
+<p>Check the <a href="https://www.gov.uk/foreign-travel-advice/iceland/entry-requirements" class="govuk-link">entry requirements for Iceland</a>.</p>
 
-<p>You can <a href="https://www.gov.uk/government/publications/iceland-list-of-medical-facilitiespractitioners">find English-speaking doctors in Iceland</a>.</p>
+<p>If you plan to stay for more than three months you must register with <a rel="external" href="https://www.skra.is/english/individuals/" class="govuk-link">Registers Iceland</a> to obtain a national identification number (Kennitala). You will need your <a rel="external" href="https://www.skra.is/english/individuals/me-and-my-family/my-registration/id-numbers/" class="govuk-link">identification number</a> in order to access most services in Iceland e.g. open a bank account, apply for telephone and internet connection, access to Icelandic health insurance and more.</p>
 
-<h3 id="healthcare-after-the-uk-leaves-the-eu">Healthcare after the UK leaves the EU</h3>
+<p>You must apply for full registration as your employer may have applied for a system ID (Kerfiskennitala) on your behalf for payment and tax purposes. Be aware that this system ID does not register you as resident in Iceland. The majority of current long term residents will already have full registration. However, if in doubt, check your status with <a rel="external" href="https://www.skra.is/english/individuals/" class="govuk-link">Registers Iceland</a>.</p>
 
-<p>The UK has reached an agreement with the EEA EFTA states on citizens’ rights in a no deal scenario. The deal protects the rights of UK nationals living in the EEA EFTA states and EEA EFTA nationals living in the UK if the UK leaves the EU without a deal and will enable them to continue living their lives broadly as they do now.</p>
+<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
 
-<p>Social security coordination is covered by our citizens’ rights agreements for those residing in Iceland. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Iceland before the UK leaves the EU, for as long as they reside in Iceland.</p>
+<p>UK nationals living in Iceland must apply for registration with <a rel="external" href="https://www.skra.is/english/individuals/" class="govuk-link">Registers Iceland</a> before the end of the implementation period on 31 December 2020, in order to obtain the continuous right to reside in Iceland under the <a href="https://www.gov.uk/government/publications/eea-efta-separation-agreement-and-explainer" class="govuk-link">EEA EFTA Separation Agreement</a>.</p>
 
-<p>This includes students and S1 holders, but not those using an EHIC card as these are for temporary travel.</p>
+<p>Your current or previous employer may have applied for a system ID (Kerfiskennitala) for you for wage payment and tax purposes. This type of application does not register you as resident in Iceland.</p>
 
-<p>The UK is working to ensure UK issued EHIC cards will continue to be accepted in EEA EFTA states. However, this would not currently be the case in the event of the UK leaving the EU without a deal. It is important that persons travelling always purchase comprehensive healthcare insurance.</p>
+<p>You can check your status with <a rel="external" href="https://www.skra.is/english/individuals/" class="govuk-link">Registers Iceland</a>. Read the <a rel="external" href="http://www.utl.is/index.php/en/about-directorate-of-immigration/news/1009-information-for-british-citizens" class="govuk-link">Icelandic Directorate of Immigration’s website</a> for more information.</p>
 
-<p>You can read the NHS guidance about <a rel="external" href="https://www.nhs.uk/NHSEngland/Healthcareabroad/countryguide/Pages/healthcareinIceland.aspx">healthcare for UK nationals living in and visiting Iceland and how it may change after the UK leaves the EU</a>.</p>
+<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
+
+<h2 id="passports-and-travel">Passports and travel</h2>
+
+<p>You can <a href="https://www.gov.uk/apply-renew-passport" class="govuk-link">apply for or renew your British passport</a> from Iceland.</p>
+
+<p>You can look at our <a href="https://www.gov.uk/foreign-travel-advice/iceland" class="govuk-link">travel advice for Iceland</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
+
+<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+
+<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+
+<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+
+<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-iceland" class="govuk-link">sign up for updates</a> to this guidance.</p>
+
+<h3 id="insurance-for-trips-to-iceland">Insurance for trips to Iceland</h3>
+
+<p>Whether you’re travelling before or after Brexit, it is important to take out comprehensive travel insurance that includes cover for emergency medical treatment and associated costs. You must make sure you know the terms and conditions of your travel insurance policy and make sure that the policy covers any possible disruption.</p>
+
+<p>If you already have travel insurance, your insurer should let you know if there are changes that will affect you after Brexit. If you have questions about what your travel insurance policy covers, or whether it covers possible disruption, contact your insurer.</p>
+
+<h2 id="healthcare">Healthcare</h2>
+<p>Once you’re resident in Iceland for 6 months, you automatically become a member of the <a rel="external" href="http://www.sjukra.is/english/social-insurance-in-iceland/" class="govuk-link">Iceland social insurance system</a>.</p>
+
+<p>Read the <a href="https://www.gov.uk/guidance/healthcare-in-iceland" class="govuk-link">guidance on who is able to access healthcare in Iceland and how to register</a>.</p>
+
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
+<p>If you live in Iceland and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
+
+<p>If you are resident in Iceland, you must not use your EHIC from the UK for healthcare in Iceland.</p>
+
+<p>When you travel from Iceland for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay: </p>
+
+<ul>
+  <li>
+    <p>the EHIC covers treatment that is medically necessary until your planned return home </p>
+  </li>
+  <li>
+    <p>an EHIC is not a replacement for comprehensive travel insurance </p>
+  </li>
+  <li>
+    <p>for more information <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">read our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#brexit-update" class="govuk-link">advice on foreign travel insurance</a></p>
+  </li>
+</ul>
+
+<p>If you are a student, read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">NHS guidance on healthcare and studying abroad</a>.</p>
+
+<p>You must <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a> in Iceland. You can bring personal prescription medicine for 100 days without a customs declaration, although Icelandic customs officials may ask for a formal doctor’s note.</p>
+
+<p>You can <a href="https://www.gov.uk/government/publications/iceland-list-of-medical-facilitiespractitioners" class="govuk-link">find English-speaking doctors in Iceland</a>.</p>
+
+<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
+
+<p>Social security coordination is covered by the Separation Agreement for those residing in Iceland. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Iceland before the end of the implementation period, for as long as they remain in scope of the agreement. This includes students and S1 holders.</p>
+
+<p>You can also continue to use your EHIC, as you did before, during the implementation period.</p>
+
+<p>If you’re travelling to other countries make sure you have comprehensive healthcare insurance.</p>
 
 <h2 id="working-in-iceland">Working in Iceland</h2>
 
-<p>You will need a <a rel="external" href="https://www.skra.is/english/individuals/me-and-my-family/my-registration/id-numbers/">national identification number (kennitala)</a> to work in Iceland.</p>
+<p>You need a <a rel="external" href="https://www.skra.is/english/individuals/me-and-my-family/my-registration/id-numbers/" class="govuk-link">national identification number (kennitala)</a> to work in Iceland.</p>
 
-<p>You should read our guidance on <a href="https://www.gov.uk/working-abroad">working in another EU country</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
 
-<p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/acro_std.aspx?id=2379">UK criminal records check</a>, known as a DBS check.</p>
+<p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK criminal records check</a>, known as a Police Certificate check.</p>
 
-<h3 id="working-in-iceland-after-the-uk-leaves-the-eu">Working in Iceland after the UK leaves the EU</h3>
+<h3 id="working-in-iceland-after-brexit">Working in Iceland after Brexit</h3>
 
-<p>If the UK leaves the EU with a deal, your right to work will stay the same during the implementation period.</p>
-
-<p>If the UK leaves the EU without a deal, your right to work will stay the same if you register as a resident before the UK leaves the EU.</p>
-
-<p>If you have not registered as a resident, you must do so through <a rel="external" href="https://www.skra.is/english/individuals/">Registers Iceland</a> and apply for a national identification number (kennitala).</p>
-
-<p>If you intend to arrive after the UK leaves the EU your right to work may be different. Please see the <a rel="external" href="http://www.utl.is/index.php/en/">Directorate of Immigration</a> for the latest information.</p>
+<p>Your right to work will stay the same as long as you remain resident in Iceland.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>You will be issued a tax card when you register with <a rel="external" href="https://www.skra.is/">Registers Iceland</a> and get a national identification number.</p>
+<p>You will be issued a tax card when you register with <a rel="external" href="https://www.skra.is/" class="govuk-link">Registers Iceland</a> and obtain a national identification number.</p>
 
-<p>The UK has a <a href="https://www.gov.uk/government/publications/iceland-tax-treaties">double-taxation agreement</a> with Iceland to ensure people do not pay tax on the same income in both countries.</p>
+<p>The UK has a <a href="https://www.gov.uk/government/publications/iceland-tax-treaties" class="govuk-link">double-taxation agreement</a> with Iceland to ensure people do not pay tax on the same income in both countries.</p>
 
-<p>You should read the guidance on:</p>
+<p>Read the guidance on:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk">if you leave the UK to live abroad</a></li>
-  <li><a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice">tax on your UK income if you live abroad</a></li>
-  <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/iceland/index_en.htm">paying income tax in Iceland by the European Union</a></li>
+  <li>
+    <p><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk" class="govuk-link">if you leave the UK to live abroad</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice" class="govuk-link">tax on your UK income if you live abroad</a></p>
+  </li>
+  <li>
+    <p><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/iceland/index_en.htm" class="govuk-link">paying income tax in Iceland by the European Union</a></p>
+  </li>
 </ul>
 
-<p>You can read the Icelandic government’s guidance on <a rel="external" href="http://old.mcc.is/english/finances/taxes/">taxes in Iceland</a>. You may also want to look at the <a rel="external" href="https://www.rsk.is/english/individuals/">Icelandic Directorate of Internal Revenue</a>.</p>
+<p>Read the Icelandic government’s guidance on <a rel="external" href="http://old.mcc.is/english/finances/taxes/" class="govuk-link">taxes in Iceland</a>. Check the <a rel="external" href="https://www.rsk.is/english/individuals/" class="govuk-link">Icelandic Directorate of Internal Revenue</a>.</p>
 
 <h3 id="national-insurance">National Insurance</h3>
-<p>You may be able to <a href="https://www.gov.uk/national-insurance-if-you-go-abroad">pay National Insurance while you are abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
 
-<h3 id="money-and-tax-after-the-uk-leaves-the-eu">Money and tax after the UK leaves the EU</h3>
-<p>If the UK leaves the EU without a deal, it may become more expensive to use your UK bank card in Iceland.</p>
+<p>Find out if you can pay <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">National Insurance while abroad</a> so that you protect your State Pension and entitlement to other benefits and allowances.</p>
 
-<p>Read more about <a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea">using a bank card, insurance or other financial service after the UK leaves the EU</a>.</p>
+<p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
-<p>The UK leaving the European Union will not change existing double taxation arrangements for UK nationals living in Iceland. You should direct individual taxpayer questions about double taxation to the relevant tax authority.</p>
+<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
+
+<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Iceland. Send your taxpayer questions about double taxation to the relevant tax authority.</p>
 
 <h2 id="pensions">Pensions</h2>
 
-<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad">moving or retiring abroad</a>.</p>
+<p>You must to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <p>If you retire in Iceland, you can claim:</p>
 
 <ul>
-  <li>your <a href="https://www.gov.uk/state-pension-if-you-retire-abroad">UK State Pension</a> or <a href="https://www.gov.uk/new-state-pension">new UK State Pension</a>. Contact the <a href="https://www.gov.uk/international-pension-centre">International Pension Centre</a> to claim</li>
-  <li>your <a rel="external" href="https://www.island.is/en/senior_years/pensions_and_benefits/pensions/">Icelandic pension</a> if you’ve worked in Iceland</li>
+  <li>
+    <p>your <a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">UK State Pension</a> or new <a href="https://www.gov.uk/new-state-pension" class="govuk-link">UK State Pension</a>. Contact the <a href="https://www.gov.uk/international-pension-centre" class="govuk-link">International Pension Centre</a> to claim</p>
+  </li>
+  <li>
+    <p>your <a rel="external" href="https://www.island.is/en/senior_years/pensions_and_benefits/pensions/" class="govuk-link">Icelandic pension</a> if you’ve worked in Iceland</p>
+  </li>
 </ul>
-
-<p>The UK government will uprate your UK state pension for the fiscal year 2019/2020 in any scenario.</p>
 
 <h3 id="life-certificates-for-uk-state-pensions">Life certificates for UK State Pensions</h3>
 
-<p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
+<p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-the-uk-leaves-the-eu">Pensions after the UK leaves the EU</h3>
+<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
 
-<p>The UK government will continue to pay State Pension, child benefits and disability benefits to those eligible in the EU after the UK’s exit from the EU. If the UK leaves the EU without a deal, you can read our <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on pensions</a>.</p>
-
-<p>The UK government will uprate your UK state pension for the fiscal year 2019/2020 in any scenario.</p>
+<p>Social security coordination is covered by the Separation Agreement for those residing in Iceland. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Iceland before the end of the implementation period, for as long as they reside in for as long as they reside in an EEA EFTA state (Iceland, Liechtenstein or Norway). This includes the right to an uprated UK State Pension.</p>
 
 <h2 id="benefits">Benefits</h2>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in Iceland. You should:</p>
 
 <ul>
-  <li>read our guidance on which <a href="https://www.gov.uk/claim-benefits-abroad">benefits you can claim if you live abroad</a>
-</li>
-  <li>use our tool to check which <a href="https://www.gov.uk/uk-benefits-abroad">UK benefits you might be able to get while you’re abroad</a> and how to claim them</li>
+  <li>
+    <p>read our guidance on which <a href="https://www.gov.uk/claim-benefits-abroad" class="govuk-link">benefits you can claim if you live abroad</a></p>
+  </li>
+  <li>
+    <p>use our tool to check which <a href="https://www.gov.uk/uk-benefits-abroad" class="govuk-link">UK benefits you might be able to get while you’re abroad</a> and how to claim them</p>
+  </li>
 </ul>
 
-<p>If you’re abroad for more than 4 weeks, many income-related benefits like pension credit and housing benefit cannot be paid.</p>
+<p>Many income-related benefits such as pension credit and housing benefit cannot be paid to you if you’re abroad for more than 4 weeks.</p>
 
-<p>You may be eligible to claim some Icelandic social security benefits. You can read the European Commission’s guidance on <a rel="external" href="http://ec.europa.eu/social/main.jsp?catId=1114&langId=en">Icelandic social security benefits</a>.</p>
+<p>You may be eligible to claim some Icelandic social security benefits. Read the European Commission’s guidance on <a rel="external" href="http://ec.europa.eu/social/main.jsp?catId=1114&langId=en" class="govuk-link">Icelandic social security benefits</a>.</p>
 
-<p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals">request proof of the time you’ve worked in the UK</a> from HMRC if you are asked for this.</p>
+<p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you’ve worked in the UK</a> from HMRC if you are asked for this.</p>
 
-<h3 id="benefits-after-the-uk-leaves-the-eu">Benefits after the UK leaves the EU</h3>
+<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
 
-<p>The UK government will continue to pay State Pension, child benefits and disability benefits to those eligible in the EU after the UK’s exit from the EU.</p>
+<p>The UK government will continue to pay the UK State Pension, child benefits and disability benefits to those eligible in the EU after Brexit.</p>
 
-<p>If the UK leaves the EU without a deal, you can read our <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario">guidance on benefits and pensions in a no deal scenario</a>.</p>
+<p>Social security coordination is covered by the Separation Agreement. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Iceland before the end of the implementation period, for as long as they reside in Iceland.</p>
 
 <h2 id="driving-in-iceland">Driving in Iceland</h2>
 
-<p>Please read the guidance on:</p>
+<p>Read the guidance on:</p>
 
 <ul>
-  <li><a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/iceland/index_en.htm">driving licence renewal and exchange</a></li>
-  <li>what you need to <a href="https://www.gov.uk/driving-abroad">drive abroad</a>
-</li>
-  <li><a href="https://www.gov.uk/foreign-travel-advice/iceland/safety-and-security#road-travel">road travel in Iceland</a></li>
+  <li>
+    <p><a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/iceland/index_en.htm" class="govuk-link">driving licence renewal and exchange</a></p>
+  </li>
+  <li>
+    <p>what you need to <a href="https://www.gov.uk/driving-abroad" class="govuk-link">drive abroad</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/foreign-travel-advice/iceland/safety-and-security#road-travel" class="govuk-link">road travel in Iceland</a></p>
+  </li>
 </ul>
 
 <h3 id="bringing-a-uk-registered-vehicle-to-iceland">Bringing a UK-registered vehicle to Iceland</h3>
-<p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk">taking a vehicle out of the UK</a>.</p>
 
-<p><a rel="external" href="https://www.island.is/en/travel_and_transport/the_car/registration_and_examination/">You can find guidance on importing and registering vehicles in Iceland here</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk" class="govuk-link">taking a vehicle out of the UK</a>.</p>
 
-<h3 id="driving-after-the-uk-leaves-the-eu">Driving after the UK leaves the EU</h3>
+<p>Read the guidance on <a rel="external" href="https://www.island.is/en/travel_and_transport/the_car/registration_and_examination/" class="govuk-link">importing and registering vehicles in Iceland</a>.</p>
 
-<p>If the UK leaves the EU with a deal, driving licence rules will stay the same during the implementation period.</p>
+<h3 id="driving-after-brexit">Driving after Brexit</h3>
 
-<p>UK driving licence holders living in Iceland will be able to continue driving using their valid UK licence for at least a year after the UK leaves the EU. Read the <a rel="external" href="https://www.government.is/news/article/2019/03/27/Guidelines-for-drivers-with-UK-licences/">Icelandic government´s guidelines for drivers with UK licences</a>.</p>
-
-<p>Please read our guidance on <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit">driving in the EU after the UK leaves the EU</a>.</p>
+<p>Driving licence rules will stay the same during the implementation period.</p>
 
 <h2 id="voting">Voting</h2>
 
 <p>You may be able to vote in some UK elections. You can:</p>
 
 <ul>
-  <li><a rel="external" href="https://www.yourvotematters.co.uk/can-i-vote/overseas">check if you are able to vote</a></li>
   <li>
-<a href="https://www.gov.uk/voting-when-abroad">register as an overseas voter</a> if you would like to vote</li>
+    <p><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</p>
+  </li>
 </ul>
 
-<p>If you have been domiciled or resident in Iceland for more than 5 years you can vote in municipal elections. See information from <a rel="external" href="https://www.skra.is/english/individuals/electoral-register-and-voting-rights/">Registers Iceland</a></p>
+<p>If you have been domiciled or resident in Iceland for more than 5 years you can vote in municipal elections. Read information from <a rel="external" href="https://www.skra.is/english/individuals/electoral-register-and-voting-rights/" class="govuk-link">Registers Iceland</a>.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
-<p>If your child is born in Iceland, you will need to <a href="https://www.gov.uk/register-a-birth">register the birth abroad</a>.</p>
+<p>If your child is born in Iceland, you will need to <a href="https://www.gov.uk/register-a-birth" class="govuk-link">register the birth abroad</a>.</p>
 
 <p>If someone dies in Iceland you can:</p>
 
 <ul>
-  <li>read our guidance on <a href="https://www.gov.uk/after-a-death/death-abroad">what to do after someone dies abroad</a>
-</li>
-  <li>find a list of <a href="https://www.gov.uk/government/publications/iceland-list-of-funeral-directors">English-speaking funeral directors in Iceland</a>
-</li>
-  <li>read <a href="https://www.gov.uk/government/publications/iceland-bereavement-pack">bereavement information for Iceland</a>
-</li>
+  <li>
+    <p>read our guidance on <a href="https://www.gov.uk/after-a-death/death-abroad" class="govuk-link">what to do after someone dies abroad</a></p>
+  </li>
+  <li>
+    <p>find a list of <a href="https://www.gov.uk/government/publications/iceland-list-of-funeral-directors" class="govuk-link">English-speaking funeral directors in Iceland</a></p>
+  </li>
+  <li>
+    <p>read <a href="https://www.gov.uk/government/publications/iceland-bereavement-pack" class="govuk-link">bereavement information for Iceland</a></p>
+  </li>
 </ul>
 
-<p>Find out <a href="https://www.gov.uk/marriage-abroad">how you can get married abroad</a>.</p>
+<p>Find out <a href="https://www.gov.uk/marriage-abroad" class="govuk-link">how you can get married abroad</a>.</p>
 
 <p>You may also need:</p>
 
 <ul>
-  <li>to find <a href="https://www.gov.uk/government/publications/iceland-list-of-lawyers">English-speaking lawyers in Iceland</a>
-</li>
-  <li><a href="https://www.gov.uk/government/publications/iceland-list-of-translators-and-interpreters">English-speaking translators and interpreters in Iceland</a></li>
-  <li><a href="https://www.gov.uk/guidance/notarial-and-documentary-services-guide-for-iceland">notary and documentary services for Iceland</a></li>
+  <li>
+    <p>to find <a href="https://www.gov.uk/government/publications/iceland-list-of-lawyers" class="govuk-link">English-speaking lawyers in Iceland</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/government/publications/iceland-list-of-translators-and-interpreters" class="govuk-link">English-speaking translators and interpreters in Iceland</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/guidance/notarial-and-documentary-services-guide-for-iceland" class="govuk-link">notary and documentary services for Iceland</a></p>
+  </li>
 </ul>
 
 <h2 id="pets">Pets</h2>
-<p>Strict conditions apply to the importation of pets to Iceland. You can find information on the <a rel="external" href="http://www.mast.is/english/frontpage/import-export/import/liveanimals/">Icelandic Food and Veterinary Authority’s website</a>.</p>
+
+<p>Strict conditions apply to the importation of pets to Iceland. For information, see the <a rel="external" href="http://www.mast.is/english/frontpage/import-export/import/liveanimals/" class="govuk-link">Icelandic Food and Veterinary Authority’s website</a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
+
 <p>You can dial the European emergency number on 112.</p>
 
-<p>If you’re the victim of crime, have been arrested, or are affected by a crisis abroad, <a href="https://www.gov.uk/world/organisations/british-embassy-reykjavik">contact the British Embassy in Reykjavik</a>.</p>
+<p>If you’re the victim of crime, have been arrested, or are affected by a crisis abroad, <a href="https://www.gov.uk/world/organisations/british-embassy-reykjavik" class="govuk-link">contact the British Embassy in Reykjavik</a>.</p>
 
 <h2 id="accommodation-and-buying-property">Accommodation and buying property</h2>
 
-<p>Read our guidance on <a href="https://www.gov.uk/guidance/guidance-for-buying-property-abroad">buying a property abroad</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/guidance/guidance-for-buying-property-abroad" class="govuk-link">buying a property abroad</a>.</p>
 
 <h2 id="returning-to-the-uk">Returning to the UK</h2>
 
 <p>Tell the Icelandic and UK authorities if you are returning to the UK permanently.</p>
 
-<p>You must tell <a rel="external" href="https://www.skra.is/">Registers Iceland</a> that you are leaving Iceland.</p>
+<p>You must tell <a rel="external" href="https://www.skra.is/" class="govuk-link">Registers Iceland</a> that you are leaving Iceland.</p>
 
-<p>To move your pension to the UK, contact the <a href="https://www.gov.uk/international-pension-centre">International Pension Centre</a>.</p>
+<p>To move your pension to the UK, contact the <a href="https://www.gov.uk/international-pension-centre" class="govuk-link">International Pension Centre</a>.</p>
 
-<p>You should read our guidance on:</p>
-
-<ul>
-  <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#what-this-could-mean-for-you">returning to live in the UK</a></li>
-  <li><a href="https://www.gov.uk/guidance/important-eu-exit-information-for-uk-nationals-if-theres-no-deal">returning to live in the UK in the case of no-deal</a></li>
-  <li><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe#bringing-your-family-to-the-uk">bringing your family to the UK</a></li>
-  <li><a href="https://www.gov.uk/importing-vehicles-into-the-uk">importing vehicles back to the UK</a></li>
-  <li><a href="https://www.gov.uk/take-pet-abroad">bringing your pet back to the UK</a></li>
-  <li><a href="https://www.gov.uk/tax-return-uk">checking your tax status after returning to the UK</a></li>
-</ul>
+<p>Read the guidance on <a href="https://www.gov.uk/guidance/returning-to-the-uk" class="govuk-link">returning to the UK permanently</a> which includes information on, amongst other things, tax, access to services and bringing family members.</p>
 
 <h3 id="disclaimer">Disclaimer</h3>
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Icelandic authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information.</p>
+
+<p>Note that this information is provided as a guide only. Definitive information should be obtained from the Icelandic authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information.</p>
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 29 April 2016
-    <br></br>Last updated 4 June 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 24 January 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-24T13:41:09.000+00:00">24 January 2020</time>
+              <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity if the UK leaves the EU with a deal.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-04T15:52:42.000+01:00">4 June 2019</time>
-              EU Exit update: added new information to ´Passports and travel after the UK leaves the EU´ section 
+              <p class="app-c-published-dates__change-note">EU Exit update: added new information to ´Passports and travel after the UK leaves the EU´ section</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-28T12:47:21.000+01:00">28 May 2019</time>
-              Updated Living in Iceland guidance
+              <p class="app-c-published-dates__change-note">Updated Living in Iceland guidance</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-02T12:42:26.000+01:00">2 April 2019</time>
-              EU Exit update: new information on UK driving licences after EU Exit date 
+              <p class="app-c-published-dates__change-note">EU Exit update: new information on UK driving licences after EU Exit date</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-13T11:47:45.000+00:00">13 March 2019</time>
-              We have updated the contact details you need to apply for an S1 form.
+              <p class="app-c-published-dates__change-note">We have updated the contact details you need to apply for an S1 form.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-02-22T12:10:20.000+00:00">22 February 2019</time>
-              Updated information on passports: you must use the checker tool to see if your passport is still valid for your trip
+              <p class="app-c-published-dates__change-note">Updated information on passports: you must use the checker tool to see if your passport is still valid for your trip</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-02-21T13:04:04.000+00:00">21 February 2019</time>
-              EU Exit update: Added information on double taxation in the money and tax section.
+              <p class="app-c-published-dates__change-note">EU Exit update: Added information on double taxation in the money and tax section.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-02-14T08:52:47.000+00:00">14 February 2019</time>
-              EU Exit update: Added a link to the EEA EFTA Citizens´ Rights Agreement in the EU Exit section
+              <p class="app-c-published-dates__change-note">EU Exit update: Added a link to the EEA EFTA Citizens´ Rights Agreement in the EU Exit section</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-01-29T12:18:07.000+00:00">29 January 2019</time>
-              EU Exit update: updated information on access to healthcare
+              <p class="app-c-published-dates__change-note">EU Exit update: updated information on access to healthcare</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-01-21T16:37:07.000+00:00">21 January 2019</time>
-              EU Exit update: updated information on pensions and driving
+              <p class="app-c-published-dates__change-note">EU Exit update: updated information on pensions and driving</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-12-20T11:11:55.000+00:00">20 December 2018</time>
-              EU Exit update: link added for EEA EFTA Separation Agreement 
+              <p class="app-c-published-dates__change-note">EU Exit update: link added for EEA EFTA Separation Agreement</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-11-22T14:44:06.000+00:00">22 November 2018</time>
-              EU exit update: New information in residency and visa section on draft withdrawal agreement in principle between the UK and EU. Plus information on travelling with pets in Europe in pet section.
+              <p class="app-c-published-dates__change-note">EU exit update: New information in residency and visa section on draft withdrawal agreement in principle between the UK and EU. Plus information on travelling with pets in Europe in pet section.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-07-23T15:07:02.000+01:00">23 July 2018</time>
-              Updated July 2018 with new wording about driving licences in Iceland
+              <p class="app-c-published-dates__change-note">Updated July 2018 with new wording about driving licences in Iceland</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-04-09T11:31:04.000+01:00">9 April 2018</time>
-              Complete revision of guidance to ensure it's up to date and accurate.
+              <p class="app-c-published-dates__change-note">Complete revision of guidance to ensure it's up to date and accurate.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2016-04-29T12:20:00.000+01:00">29 April 2016</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -478,7 +514,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -493,30 +529,69 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
+  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-24cd6de8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-032309af" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-24cd6de8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-032309af" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-24cd6de8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-estonia" data-track-options="{"dimension28":"5","dimension29":"Living in Estonia"}" href="/guidance/living-in-estonia">Living in Estonia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-luxembourg" data-track-options="{"dimension28":"5","dimension29":"Living in Luxembourg"}" href="/guidance/living-in-luxembourg">Living in Luxembourg</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/healthcare-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Healthcare in Iceland"}" href="/guidance/healthcare-in-iceland">Healthcare in Iceland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-liechtenstein" data-track-options="{"dimension28":"5","dimension29":"Living in Liechtenstein"}" href="/guidance/living-in-liechtenstein">Living in Liechtenstein</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-032309af" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-032309af" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-iceland" data-track-options="{"dimension28":"2","dimension29":"Iceland: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-iceland">Iceland: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-iceland" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Iceland"}" href="/guidance/healthcare-in-iceland">Healthcare in Iceland</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-032309af" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-032309af" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
 
   </ul>
 </nav>
 
   </div>
+
 
 
 </div>
@@ -537,9 +612,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b822a60b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-479bd1e0" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-b822a60b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-479bd1e0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
