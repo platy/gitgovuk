@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       World news story
     </p>
@@ -10,24 +8,23 @@
     Information for UK nationals living in Ireland
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    The British Embassy in Dublin is providing updated information to UK nationals living in Ireland on the UK’s exit from the European Union. 
-  </p>
+  <p class="gem-c-lead-paragraph">The British Embassy in Dublin is providing updated information to UK citizens living in Ireland on the UK’s exit from the European Union. </p>
 
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 8 April 2019
+    <br></br>Last updated 29 January 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -37,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/world/organisations/british-embassy-dublin">British Embassy Dublin</a>
+                  <a class="govuk-link" href="/world/organisations/british-embassy-dublin">British Embassy Dublin</a>
                 </span>
             </dd>
         </dl>
@@ -45,7 +42,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -53,10 +50,10 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds content-bottom-margin">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
-      <figure class="app-c-figure">
+      <figure class="app-c-figure" lang="en">
   <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/86170/s300_Outreach_LiG_image_final.jpg" alt="Information and Events"></img>
     <figcaption class="app-c-figure__figcaption">
 
@@ -66,25 +63,33 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>The British Embassy will be updating UK nationals working and living in Ireland through social media channels, answering questions on what Britain’s exit from the EU means for them.</p>
+<p>The British Embassy will continue to update UK citizens working and living in Ireland through social media channels, answering questions on what the UK’s exit from the EU means for them.</p>
 
-<p>Look out for future events by signing up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-ireland">email alerts on living in Ireland</a> and following us on <a rel="external" href="https://www.facebook.com/BritishEmbassyDublin/">Facebook</a> and <a rel="external" href="https://twitter.com/BritEmbDublin">Twitter</a>.</p>
+<p>Look out for future updates by signing up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-ireland" class="govuk-link">email alerts on living in Ireland</a> and following us on <a rel="external" href="https://www.facebook.com/BritishEmbassyDublin/" class="govuk-link">Facebook</a> and <a rel="external" href="https://twitter.com/BritEmbDublin" class="govuk-link">Twitter</a>.</p>
 
-<h2 id="past-events-in-ireland">Past events in Ireland</h2>
+<h2 id="previous-events-in-ireland">Previous events in Ireland</h2>
 
 <table>
   <tbody>
     <tr>
       <td>Date</td>
-      <td>Time</td>
       <td>Location</td>
       <td>Details</td>
     </tr>
     <tr>
       <td>15 March 2019</td>
-      <td>1:00pm -2:00pm</td>
       <td>Facebook Live</td>
-      <td><a rel="external" href="https://www.facebook.com/notes/british-embassy-dublin/common-travel-area-qa-with-deputy-head-of-mission-sarah-tiffin/2331537883562933/">Read out of Facebook Live Q&A</a></td>
+      <td><a rel="external" href="https://www.facebook.com/notes/british-embassy-dublin/common-travel-area-qa-with-deputy-head-of-mission-sarah-tiffin/2331537883562933/" class="govuk-link">Read out of Facebook Live Q&A</a></td>
+    </tr>
+    <tr>
+      <td>23 September 2019</td>
+      <td>Skibbereen</td>
+      <td><a rel="external" href="https://www.facebook.com/notes/british-embassy-dublin/summary-of-points-and-qa-from-2019-citizens-outreach-events-for-uk-nationals-liv/2907278595988856/" class="govuk-link">Summary of points and Q&A from 2019 Citizen’s Outreach Events</a></td>
+    </tr>
+    <tr>
+      <td>2 October 2019</td>
+      <td>Dublin</td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
@@ -93,13 +98,13 @@
 
 <ul>
   <li>
-    <p><a href="https://www.gov.uk/guidance/living-in-ireland">Living in Ireland Guide</a></p>
+    <p><a href="https://www.gov.uk/guidance/living-in-ireland" class="govuk-link">Living in Ireland Guide</a></p>
   </li>
   <li>
-    <p><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe">UK nationals in the EU: essential information</a></p>
+    <p><a href="https://www.gov.uk/guidance/advice-for-british-nationals-travelling-and-living-in-europe" class="govuk-link">UK nationals in the EU: essential information</a></p>
   </li>
   <li>
-    <p><a href="https://www.gov.uk/government/publications/common-travel-area-guidance">Common Travel Area Guidance</a></p>
+    <p><a href="https://www.gov.uk/government/publications/common-travel-area-guidance" class="govuk-link">Common Travel Area guidance</a></p>
   </li>
 </ul>
 </div>
@@ -108,7 +113,7 @@
     </div>
 
     <div class="dont-print responsive-bottom-margin">
-        <div class="gem-c-share-links  " data-module="track-click">
+        <div class="gem-c-share-links " data-module="track-click">
       <h2 class="gem-c-share-links__title">Share this page</h2>
 
     <ul class="gem-c-share-links__list">
@@ -133,33 +138,57 @@
             </span><span class="visually-hidden">Share on </span>Twitter</a>
         </li>
     </ul>
-  </div>
-
+</div>
     </div>
 
-    <div class="app-c-published-dates ">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 April 2019
+    <br></br>Last updated 29 January 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-29T15:26:49.000+00:00">29 January 2020</time>
+              <p class="app-c-published-dates__change-note">An updated summary/Q&A from our 2019 meetings is now available.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-02T13:53:06.000+01:00">2 October 2019</time>
+              <p class="app-c-published-dates__change-note">Citizen's Outreach Events held in West Cork and Dublin.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-08T12:00:00.000+01:00">8 April 2019</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
 
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
 
 
-</div>
 
 </div>
 
 </div>
 
+</div>
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -169,24 +198,25 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0ab03ba9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5104707a" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-0ab03ba9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-5104707a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/going-and-being-abroad/british-nationals-overseas" data-track-options="{"dimension28":"2","dimension29":"British nationals overseas"}" href="/going-and-being-abroad/british-nationals-overseas">British nationals overseas</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/going-and-being-abroad/living-abroad" data-track-options="{"dimension28":"2","dimension29":"Living abroad"}" href="/going-and-being-abroad/living-abroad">Living abroad</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/going-and-being-abroad/british-nationals-overseas" data-track-options="{"dimension28":"3","dimension29":"British nationals overseas"}" href="/going-and-being-abroad/british-nationals-overseas">British nationals overseas</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/going-and-being-abroad/living-abroad" data-track-options="{"dimension28":"3","dimension29":"Living abroad"}" href="/going-and-being-abroad/living-abroad">Living abroad</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"3","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-0ab03ba9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-5104707a" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-0ab03ba9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-5104707a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
