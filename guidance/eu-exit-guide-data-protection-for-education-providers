@@ -5,16 +5,14 @@
       Guidance
     </p>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Brexit guide: data protection for education providers
+    Data protection for education providers
   </h1>
 </div>
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Information for education providers on how to remain compliant with data protection laws when the UK leaves the EU.
-  </p>
+  <p class="gem-c-lead-paragraph">Steps data protection officers and organisation heads of education providers should take to stay compliant with data protection laws when the UK leaves the EU.</p>
 
   </div>
 </div>
@@ -25,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 27 March 2019
+    <br></br>Last updated 31 January 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-education">Department for Education</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-education">Department for Education</a>
                 </span>
             </dd>
         </dl>
@@ -46,6 +46,7 @@
     </div>
   </div>
 </div>
+
 
 
 
@@ -62,106 +63,228 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#no-deal-data-protection-planning-for-the-education-sector" data-track-options="{"dimension29":"No deal data protection planning for the education sector"}" href="#no-deal-data-protection-planning-for-the-education-sector">No deal data protection planning for the education sector</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#overview" data-track-options="{"dimension29":"Overview"}" href="#overview">Overview</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#steps-to-take" data-track-options="{"dimension29":"Steps to take"}" href="#steps-to-take">Steps to take</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#definitions" data-track-options="{"dimension29":"Definitions"}" href="#definitions">Definitions</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#definitions" data-track-options="{"dimension29":"Definitions"}" href="#definitions">Definitions</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#steps-you-should-take" data-track-options="{"dimension29":"Steps you should take"}" href="#steps-you-should-take">Steps you should take</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>Data controllers and data processors in the education sector, who transfer personal data between the UK and the <abbr title="European Union">EU</abbr> or within the <abbr title="European Union">EU</abbr>, will be aware of the need to prepare for the UK’s departure from the <abbr title="European Union">EU</abbr>. Educational establishments, such as schools, colleges and universities, are data controllers in their own rights.</p>
+<h2 id="overview">Overview</h2>
 
-<h2 id="no-deal-data-protection-planning-for-the-education-sector">No deal data protection planning for the education sector</h2>
+<p>All education providers will be a <a rel="external" href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/controllers-and-processors/what-are-controllers-and-processors/#2" class="govuk-link">data controller</a> or <a rel="external" href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/controllers-and-processors/what-are-controllers-and-processors/#4" class="govuk-link">data processor</a> and need to prepare for changes when the UK leaves the <abbr title="European Union">EU</abbr>.</p>
 
-<p>If the UK leaves the <abbr title="European Union">EU</abbr> without a deal, it will impact how you process personal data. You need to make sure transfers of personal data in your organisation continue to comply with data protection laws.</p>
-
-<p>This guidance is not designed to cover every incidence of where you process personal data or replace your own risk review. This is also not a substitute for legal advice that you may seek relating to the processing of personal data.</p>
-
-<p>This information supplements advice on data protection included in our related sector guidance, available for:</p>
+<p>Read this guidance if you:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/government/publications/eu-exit-no-deal-preparations-for-schools-in-england">schools</a></li>
-  <li><a href="https://www.gov.uk/government/publications/eu-exit-no-deal-preparations-for-further-education-and-apprenticeship-providers">further education and apprenticeships</a></li>
-  <li><a href="https://www.gov.uk/government/publications/eu-exit-no-deal-preparations-for-higher-education-institutions">higher education </a></li>
+  <li>
+    <p>are the head of an organisation, a <a rel="external" href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-officers" class="govuk-link">data protection officer (DPO)</a>, or are responsible for data within an organisation</p>
+  </li>
+  <li>
+    <p>transfer personal data between the UK and the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein and Norway (<abbr title="European Economic Area, which includes the EU, Iceland, Liechtenstein and Norway">EEA</abbr>)</p>
+  </li>
+  <li>
+    <p>transfer personal data within the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein and Norway (<abbr title="European Economic Area, which includes the EU, Iceland, Liechtenstein and Norway">EEA</abbr>)</p>
+  </li>
 </ul>
 
-<p>Example types of data:</p>
+<p>This guidance is:</p>
 
 <ul>
-  <li>contact information about pupils, students, learners, staff and carers</li>
-  <li>health information</li>
-  <li>details about recipients of pupil premium</li>
-  <li>employee references</li>
-  <li>safeguarding information about an individual</li>
-  <li>passport information, if planning trips to the <abbr title="European Union">EU</abbr>
-</li>
-  <li>exam pupil references and results</li>
+  <li>
+    <p>not designed to cover every incidence of where you process personal data</p>
+  </li>
+  <li>
+    <p>not designed to replace your own risk review</p>
+  </li>
+  <li>
+    <p>not a substitute for legal advice</p>
+  </li>
 </ul>
-
-<h2 id="steps-to-take">Steps to take</h2>
-
-<p>If you only work within the UK and you do not transfer data within the <abbr title="European Economic Area, which includes the EU">EEA</abbr>, there is no immediate change. You will need to ensure you continue to comply with UK data protection law.</p>
-
-<p>If you transfer data within the <abbr title="European Economic Area, which includes the EU">EEA</abbr>, you will need to follow these steps.</p>
-
-<div class="example">
-<p>Read the <a rel="external" href="https://ico.org.uk/for-organisations/data-protection-and-brexit/">Information Commissioner’s Office website</a> for further advice and guidance around data protection and Brexit.</p>
-
-<p>Reassure people with whom you share personal data in the <abbr title="European Economic Area, which includes the EU">EEA</abbr> that you can continue to do this lawfully once the UK leaves the <abbr title="European Union">EU</abbr>, since the UK will continue to allow personal data to be sent from the UK to the <abbr title="European Economic Area, which includes the EU">EEA</abbr>.</p>
-
-<p>Identify the incidents where you receive data from the <abbr title="European Economic Area, which includes the EU">EEA</abbr> and, for each incident, identify who the data controllers and processors are, and where the data is stored.</p>
-
-<p>If a data controller is based in the <abbr title="European Economic Area, which includes the EU">EEA</abbr> (for example, when you run school exchange visits), you may want to consider whether Standard Contractual Clauses (SCC) are suitable. The <abbr title="Information Commissioners Office">ICO</abbr>’s free interactive tool will help you decide whether this is the case.</p>
-
-<p>If SCCs are not appropriate, the General Data Protection Regulation (GDPR) has other articles in it which will provide you with the additional safeguarding measures. You can find these in Article 46 and Article 49 of the GDPR. More information can be found on the <abbr title="Information Commissioners Office">ICO</abbr> website.</p>
-
-<p>If the UK leaves the <abbr title="European Union">EU</abbr> without a deal, the GDPR would be brought into UK law. This and the Data Protection Act 2018 will continue to apply to data transferred within or from the UK.</p>
-
-<p>In addition to any existing contracts, you will need to make sure that any new contract you put in place after Brexit which includes the processing of personal data in the <abbr title="European Union">EU</abbr>, provides the additional safeguards required.</p>
-
-<p>You will need to make sure all your documentation such as Data Protection Impact Assessments (<abbr title="Data Protection Impact Assessments">DPIA</abbr>) and privacy notices are up to date, to reflect any changes you are making to your ways of working.</p>
-</div>
-
-<p>Data controllers and data processors should keep following the <a rel="external" href="https://ico.org.uk/for-organisations/data-protection-and-brexit/"><abbr title="Information Commissioners Office">ICO</abbr> website</a> for progress of the discussions with the <abbr title="European Union">EU</abbr> on the adequacy agreement with the <abbr title="European Union">EU</abbr>, which will allow the UK to process personal data freely across the <abbr title="European Economic Area, which includes the EU">EEA</abbr>. You should also keep up to date with guidance from the department on data protection issues.</p>
 
 <h2 id="definitions">Definitions</h2>
 
-<p>In this note, the following terms are afforded the definitions provided by Article 4 of the General Data Protection Regulation (GDPR):</p>
+<h3 id="general-data-protection-regulation-gdpr">General Data Protection Regulation (<abbr title="General Data Protection Regulation">GDPR</abbr>)</h3>
+
+<p><abbr title="General Data Protection Regulation">GDPR</abbr> will be brought into UK law and the <a rel="external" href="https://ico.org.uk/" class="govuk-link">Information Commissioner</a> will remain the UK’s independent supervisory authority on data protection.</p>
+
+<p>The Data Protection Act 2018 will continue to apply to data transferred within or from the UK.</p>
+
+<h3 id="personal-data">Personal data</h3>
+
+<p>Personal data includes, but is not limited to:</p>
 
 <ul>
-  <li>‘personal data’ is a broad concept that covers any information that relates to an identified or identifiable individual</li>
-  <li>data ‘controller’ refers to any person, company, or other body that determines the purpose and means by which personal data is processed</li>
-  <li>data ‘processor’ is any person who handles personal data on the instructions of a controller (for example storing, collecting or analysing data as part of a service provided to the controller)</li>
+  <li>
+    <p>contact information about pupils, students, learners, staff and carers</p>
+  </li>
+  <li>
+    <p>health information</p>
+  </li>
+  <li>
+    <p>details about recipients of pupil premium</p>
+  </li>
+  <li>
+    <p>employee references</p>
+  </li>
+  <li>
+    <p>safeguarding information about an individual</p>
+  </li>
+  <li>
+    <p>passport information, if planning trips to the <abbr title="European Union">EU</abbr></p>
+  </li>
+  <li>
+    <p>pupil exam references and results</p>
+  </li>
 </ul>
+
+<h3 id="data-controller">Data controller</h3>
+
+<p>Data controller means a person, company or other body that determines the purpose and means by which personal data is processed.</p>
+
+<p>Educational establishments, such as schools, colleges and universities, are often data controllers in their own right.</p>
+
+<h3 id="data-processor">Data processor</h3>
+
+<p>Data processor means anyone who handles personal data on the instructions of a controller. Examples include, storing, collecting or analysing data as part of a service provided to the controller.</p>
+
+<h3 id="data-protection-officer">Data protection officer</h3>
+
+<p><abbr title="General Data Protection Regulation">GDPR</abbr> requires all organisations to appoint a data protection officer. Data protection officer duties include advising on data protection obligations, monitoring internal compliance and providing advice on data protection impact assessments. Read the <a rel="external" href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-officers" class="govuk-link"><abbr title="Information Commissioner's Office">ICO</abbr> guidance about data protection officers</a>.</p>
+
+<h2 id="steps-you-should-take">Steps you should take</h2>
+
+<p>These steps will help you plan how you can continue to share and receive personal data lawfully.</p>
+
+<p>You should:</p>
+
+<ul>
+  <li>
+    <p>continue to carry out your own risk review</p>
+  </li>
+  <li>
+    <p>get legal advice if you are not sure</p>
+  </li>
+  <li>
+    <p>make sure you are complying effectively with <abbr title="General Data Protection Regulation">GDPR</abbr></p>
+  </li>
+  <li>
+    <p>use the <abbr title="Information Commissioner's Office">ICO</abbr> free <a rel="external" href="https://ico.org.uk/for-organisations/" class="govuk-link">web resources</a> to determine what changes, if any, you may need to make</p>
+  </li>
+</ul>
+
+<p>There will be no immediate changes to data protection law or any new restrictions on sharing data with the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein, or Norway, from 1 February 2020.</p>
+
+<h3 id="sharing-data-with-the-eu-iceland-liechtenstein-and-norway">Sharing data with the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein and Norway</h3>
+
+<p>Contact anyone you share personal data with within the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein or Norway.</p>
+
+<p>You should explain you can still share personal data lawfully with them once the UK leaves the <abbr title="European Union">EU</abbr>.</p>
+
+<h3 id="receiving-data-from-the-eu-iceland-liechtenstein-and-norway">Receiving data from the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein and Norway</h3>
+
+<p>Identify where you receive data from the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein, or Norway, and determine:</p>
+
+<ul>
+  <li>
+    <p>who the data controllers and processors are</p>
+  </li>
+  <li>
+    <p>where the data is stored</p>
+  </li>
+</ul>
+
+<h3 id="contracts-new-and-existing">Contracts: new and existing</h3>
+
+<p>Ensure that contracts, which include the processing of personal data in the <abbr title="European Union">EU</abbr>, provide the additional safeguards required.</p>
+
+<p>This applies to:</p>
+
+<ul>
+  <li>
+    <p>existing contracts</p>
+  </li>
+  <li>
+    <p>new contracts you put in place after the UK leaves the <abbr title="European Union">EU</abbr></p>
+  </li>
+</ul>
+
+<h3 id="data-protection-impact-assessments-dpia-and-privacy-notices">Data Protection Impact Assessments (<abbr title="Data Protection Impact Assessments">DPIA</abbr>) and privacy notices</h3>
+
+<p>Review and update with your <a rel="external" href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-officers" class="govuk-link">data protection officer</a> (or whoever has responsibility for data protection in your organisation):</p>
+
+<ul>
+  <li>
+    <p>Data Protection Impact Assessments (<abbr title="Data Protection Impact Assessments">DPIA</abbr>)</p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/government/publications/data-protection-and-privacy-privacy-notices" class="govuk-link">Privacy Notices</a></p>
+  </li>
+</ul>
+
+<p>Make sure they:</p>
+
+<ul>
+  <li>
+    <p>are up-to-date</p>
+  </li>
+  <li>
+    <p>reflect any changes you are making to your ways of working</p>
+  </li>
+</ul>
+
+<h3 id="further-information">Further information</h3>
+
+<p>Read the guidance on the <a rel="external" href="https://ico.org.uk/for-organisations/" class="govuk-link">Information Commissioner’s Office website</a> for more information on data protection.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 27 March 2019
+    <br></br>Last updated 31 January 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-31T14:59:51.000+00:00">31 January 2020</time>
+              <p class="app-c-published-dates__change-note">Updated with data protection actions education providers should continue to take.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-19T17:24:36.000+01:00">19 August 2019</time>
+              <p class="app-c-published-dates__change-note">Format updates have been made to highlight actions that people need to take. A link has also been added that allows people to sign up for email alerts to get the latest information about Brexit.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-27T16:54:00.000+00:00">27 March 2019</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -176,32 +299,15 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
-  <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-7b963b55" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
-        Related content
-      </h2>
-
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7b963b55" data-module="gem-toggle">
-
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/protected-species-when-to-apply-for-a-licence-to-survey-film-or-photograph-them" data-track-options="{"dimension28":"4","dimension29":"Protected species: when to apply for a licence to survey, film or photograph them"}" href="/guidance/protected-species-when-to-apply-for-a-licence-to-survey-film-or-photograph-them">Protected species: when to apply for a licence to survey, film or photograph them</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/news/home-secretarys-statement-on-woolwich-attack" data-track-options="{"dimension28":"4","dimension29":"Home Secretary's statement on Woolwich attack"}" href="/government/news/home-secretarys-statement-on-woolwich-attack">Home Secretary's statement on Woolwich attack</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/european-structural-investment-funds/environment-and-resource-efficiency-call-in-the-marches-transition-region-of-shropshire-and-telford-wrekin-oc36r18p-0891" data-track-options="{"dimension28":"4","dimension29":"CLOSED: Environment and Resource Efficiency: call in The Marches transition region of Shropshire and Telford \u0026 Wrekin (OC36R18P 0891)"}" href="/european-structural-investment-funds/environment-and-resource-efficiency-call-in-the-marches-transition-region-of-shropshire-and-telford-wrekin-oc36r18p-0891">CLOSED: Environment and Resource Efficiency: call in The Marches transition region of Shropshire and Telford & Wrekin (OC36R18P 0891)</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/corporation-tax-amendments-to-reform-of-loss-relief-rules" data-track-options="{"dimension28":"4","dimension29":"Corporation Tax: amendments to reform of loss relief rules"}" href="/government/publications/corporation-tax-amendments-to-reform-of-loss-relief-rules">Corporation Tax: amendments to reform of loss relief rules</a></li>
-
-  </ul>
-</nav>
-
-  </div>
 
 
 </div>
@@ -222,14 +328,14 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a223be50" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a4ef7c79" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a223be50" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-a4ef7c79" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/education" data-track-options="{"dimension28":"1","dimension29":"Education, training and skills"}" href="/education">Education, training and skills</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/topic/schools-colleges-childrens-services/data-collection-statistical-returns" data-track-options="{"dimension28":"1","dimension29":"Data collection and statistical returns"}" href="/topic/schools-colleges-childrens-services/data-collection-statistical-returns">Data collection and statistical returns</a></li>
 
   </ul>
 </nav>
