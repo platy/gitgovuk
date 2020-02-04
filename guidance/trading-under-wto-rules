@@ -12,9 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How to trade with other countries if there is no UK trade agreement in place.
-  </p>
+  <p class="gem-c-lead-paragraph">How to trade with other countries if there is no UK trade agreement in place after the transition period. </p>
 
   </div>
 </div>
@@ -25,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 August 2019
+    <br></br>Last updated 4 February 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-international-trade">Department for International Trade</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-international-trade">Department for International Trade</a>
                 </span>
             </dd>
         </dl>
@@ -49,6 +49,25 @@
 
 
 
+  <section class="app-c-header-notice" aria-label="notice" role="region">
+    <div class="app-c-header-notice__header">
+      <h2 class="app-c-header-notice__title">The UK has left the EU</h2>
+    </div>
+
+    <div class="app-c-header-notice__content">
+      <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It'll be updated if anything changes. </p>
+        <div class="app-c-header-notice__links">
+            <p class="govuk-body app-c-header-notice__link-intro">For current information, read: </p>
+            <ul class="app-c-header-notice__list govuk-list">
+                <li><a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/starting-to-export" data-track-label="exporting and doing business abroad" class="app-c-header-notice__link" href="/starting-to-export">exporting and doing business abroad</a></li>
+                <li><a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/starting-to-import" data-track-label="importing into the UK" class="app-c-header-notice__link" href="/starting-to-import">importing into the UK</a></li>
+            </ul>
+        </div>
+
+        <p class="app-c-header-notice__text govuk-body">You can also read about <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/transition" data-track-label="the transition period" class="govuk-link" href="/transition">the transition period</a>.</p>
+    </div>
+  </section>
+
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
@@ -56,86 +75,117 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#how-your-business-operations-will-change-under-wto-rules" data-track-options="{"dimension29":"How your business operations will change under WTO rules"}" href="#how-your-business-operations-will-change-under-wto-rules">How your business operations will change under WTO rules</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#existing-trading-arrangements" data-track-options="{"dimension29":"Existing trading arrangements"}" href="#existing-trading-arrangements">Existing trading arrangements</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#how-your-business-operations-will-change-under-wto-rules" data-track-options="{"dimension29":"How your business operations will change under WTO rules"}" href="#how-your-business-operations-will-change-under-wto-rules">How your business operations will change under WTO rules</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#more-information" data-track-options="{"dimension29":"More information"}" href="#more-information">More information</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>If there is no trade agreement between the UK and another country after Brexit, you will have to trade with that country under World Trade Organization (WTO) rules.</p>
+<p>If there is no trade agreement between the UK and another World Trade Organization (<abbr title="World Trade Organization">WTO</abbr>) member after the transition period, you will have to trade with that country under <abbr title="World Trade Organization">WTO</abbr> rules.</p>
 
-<h2 id="how-your-business-operations-will-change-under-wto-rules">How your business operations will change under WTO rules</h2>
+<h2 id="existing-trading-arrangements">Existing trading arrangements</h2>
 
-<h3 id="wto-and-the-most-favoured-nation-rule">WTO and the Most Favoured Nation rule</h3>
+<p>The EU has <a rel="external" href="https://ec.europa.eu/commission/publications/template-note-verbale-sent-international-partners-after-signature-withdrawal-agreement_en" class="govuk-link">issued a notification</a> to third countries stating that the UK is to be treated as a member state for the purposes of EU trade agreements during the transition period.</p>
 
-<p>WTO rules state that the same trading terms must be applied to all countries, unless there is a trade agreement between 2 or more countries. This is known as <a rel="external" href="https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm">Most Favoured Nation treatment</a>.</p>
+<p>After the transition period ends, EU trade agreements will no longer apply to the UK. The UK is seeking to reproduce the effects of these existing EU trade agreements, in order to ensure continuity of trading arrangements for UK businesses.</p>
 
-<p>Most Favoured Nation means that the UK cannot offer better trading terms to one country and not another, unless it has a trade agreement that allows it to do so.</p>
+<p>Find out more about <a href="https://www.gov.uk/guidance/uk-trade-agreements-with-non-eu-countries" class="govuk-link">UK trade agreements with non-EU countries</a>.</p>
+
+<h2 id="how-your-business-operations-will-change-under-wto-rules">How your business operations will change under <abbr title="World Trade Organization">WTO</abbr> rules</h2>
+
+<h3 id="wto-and-the-most-favoured-nation-rule">
+<abbr title="World Trade Organization">WTO</abbr> and the Most Favoured Nation rule</h3>
+
+<p><abbr title="World Trade Organization">WTO</abbr> rules state that the same trading terms must be applied to all <abbr title="World Trade Organization">WTO</abbr> members, unless, for example, there is a trade agreement between 2 or more countries. This is known as <a rel="external" href="https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm" class="govuk-link">Most Favoured Nation (<abbr title="Most Favoured Nation">MFN</abbr>) treatment</a>.</p>
+
+<p><abbr title="Most Favoured Nation">MFN</abbr> means that the UK cannot offer better trading terms to one country and not to <abbr title="World Trade Organization">WTO</abbr> members, unless, for example, it has a trade agreement.</p>
 
 <h3 id="paying-tariffs-on-imported-goods-into-the-uk">Paying tariffs on imported goods into the UK</h3>
 
-<p>You may need to pay different rates of tariffs on imports into the UK.</p>
-
-<div class="call-to-action">
-<p>Read <a href="https://www.gov.uk/guidance/check-temporary-rates-of-customs-duty-on-imports-after-eu-exit">guidance on the temporary tariff regime</a> that may apply to you if there’s a no-deal Brexit.</p>
-</div>
+<p>After the transition period, you may need to pay different rates of tariffs on imports into the UK.</p>
 
 <h3 id="paying-tariffs-on-exports-from-the-uk">Paying tariffs on exports from the UK</h3>
 
-<p>You may need to pay different rates of tariffs on exports from the UK.</p>
+<p>After the transition period, an importer in another country may need to pay different rates of tariffs on exports from the UK.</p>
 
-<p>The tariffs on your exports will vary by country. Each country decides their own import tariffs.  If you are exporting a product to a country that the UK has no trade agreement with, you will pay the tariff rate applied in that country to its imports.</p>
+<p>The tariffs on your exports will vary by country. Each country decides their own import tariffs. If you are exporting a product to a country that the UK has no trade agreement with after the transition period, the importer will pay the non-preferential tariff rate applied in that country to its imports.</p>
 
-<h3 id="trading-services">Trading services</h3>
+<h3 id="trading-in-services">Trading in services</h3>
 
-<p>To provide services in other countries you will need to follow the terms set out in the legislation of the host country. This includes commitments that the host country applies to all WTO members.</p>
+<p>To provide services in other countries you will need to follow the terms set out in the legislation of the host country. This includes commitments that the host country applies to all <abbr title="World Trade Organization">WTO</abbr> members.</p>
 
 <div class="call-to-action">
-<p>Read the <a rel="external" href="http://i-tip.wto.org/services/default.aspx">WTO General Agreement on Trade in Services (GATS)</a>.</p>
+<p>Read the <a rel="external" href="http://i-tip.wto.org/services/default.aspx" class="govuk-link"><abbr title="World Trade Organization">WTO</abbr> General Agreement on Trade in Services (GATS)</a>.</p>
 </div>
 
 <h3 id="public-procurement-contracts">Public procurement contracts</h3>
 
-<p>Find out about the <a href="https://www.gov.uk/government/publications/government-procurement-agreement-uk-participation-after-eu-exit">government procurement agreement (GPA)</a> in a no-deal Brexit.</p>
+<p>Find out about the <a href="https://www.gov.uk/government/publications/government-procurement-agreement-uk-participation-after-eu-exit" class="govuk-link">Government Procurement Agreement (GPA)</a> during the transition period.</p>
 
 <div class="call-to-action">
-<p><a rel="external" href="https://www.contactus.trade.gov.uk/office-finder/">Contact your trade adviser</a> to find out more about how WTO rules may change the way you trade with other countries.</p>
+<p><a rel="external" href="https://www.contactus.trade.gov.uk/office-finder/" class="govuk-link">Contact your trade adviser</a> to find out more about how <abbr title="World Trade Organization">WTO</abbr> rules may change the way you trade with other countries.</p>
 </div>
 
-<div class="call-to-action">
-<p><a href="https://www.gov.uk/guidance/uk-trade-agreements-with-non-eu-countries-in-a-no-deal-brexit">Find out what trade agreements are in place or under discussion</a></p>
-</div>
+<h2 id="more-information">More information</h2>
 
-<h2 id="stay-up-to-date">Stay up to date</h2>
-<p>This page will be updated if anything changes, including if a deal is agreed.
-<br></br><a href="https://www.gov.uk/email-signup?link=/government/organisations/department-for-international-trade">Sign up for email alerts from DIT</a> to get the latest information.
-$CTA</p>
+<p>Check:</p>
+
+<ul>
+  <li><a href="https://www.gov.uk/check-duties-customs-exporting" class="govuk-link">duties and customs procedures for exporting goods</a></li>
+  <li><a href="https://www.gov.uk/get-rules-tariffs-trade-with-uk" class="govuk-link">tariffs, taxes and rules to trade with the UK</a></li>
+</ul>
+
+<p>Find out:</p>
+
+<ul>
+  <li><a href="https://www.gov.uk/guidance/uk-trade-agreements-with-non-eu-countries" class="govuk-link">what trade agreements are in place or under discussion</a></li>
+</ul>
+
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 August 2019
+    <br></br>Last updated 4 February 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-02-04T13:27:37.000+00:00">4 February 2020</time>
+              <p class="app-c-published-dates__change-note">Updated as the EU has notified those countries with which it has trade agreements that EU trade agreements can continue to apply to the UK during the transition period.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-15T16:31:00.000+01:00">15 August 2019</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -150,8 +200,39 @@ $CTA</p>
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-c59bfb9a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c59bfb9a" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/the-customs-tariff-rate-quotas-regulation" data-track-options="{"dimension28":"4","dimension29":"The Customs (Tariff Rate Quotas) Regulation"}" href="/government/publications/the-customs-tariff-rate-quotas-regulation">The Customs (Tariff Rate Quotas) Regulation</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/continuing-the-uks-trade-relationship-with-georgia-parliamentary-report" data-track-options="{"dimension28":"4","dimension29":"Continuing the UK's trade relationship with Georgia: parliamentary report"}" href="/government/publications/continuing-the-uks-trade-relationship-with-georgia-parliamentary-report">Continuing the UK's trade relationship with Georgia: parliamentary report</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/the-customs-tariff-establishment-eu-exit-regulations" data-track-options="{"dimension28":"4","dimension29":"The Customs Tariff (Establishment) (EU Exit) Regulations"}" href="/government/publications/the-customs-tariff-establishment-eu-exit-regulations">The Customs Tariff (Establishment) (EU Exit) Regulations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/continuing-the-uks-trade-relationship-with-the-swiss-confederation-and-the-principality-of-liechtenstein-parliamentary-report" data-track-options="{"dimension28":"4","dimension29":"Continuing the UK's trade relationship with the Swiss Confederation and the Principality of Liechtenstein: parliamentary report"}" href="/government/publications/continuing-the-uks-trade-relationship-with-the-swiss-confederation-and-the-principality-of-liechtenstein-parliamentary-report">Continuing the UK's trade relationship with the Swiss Confederation and the Principality of Liechtenstein: parliamentary report</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
 
 
 </div>
@@ -172,16 +253,16 @@ $CTA</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2e337579" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-020781bb" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2e337579" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-020781bb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"3","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/business-and-industry/exporting" data-track-options="{"dimension28":"3","dimension29":"Exporting"}" href="/business-and-industry/exporting">Exporting</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/business-and-industry/importing" data-track-options="{"dimension28":"3","dimension29":"Importing"}" href="/business-and-industry/importing">Importing</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/business-and-industry/exporting" data-track-options="{"dimension28":"3","dimension29":"Exporting"}" href="/business-and-industry/exporting">Exporting</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/business-and-industry/importing" data-track-options="{"dimension28":"3","dimension29":"Importing"}" href="/business-and-industry/importing">Importing</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"3","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
 
   </ul>
 </nav>
