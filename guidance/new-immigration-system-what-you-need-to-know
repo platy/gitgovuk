@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 28 January 2020
+    <br></br>Last updated 19 February 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -53,14 +55,60 @@
   <div class="govuk-grid-column-two-thirds">
     
 
-      <div id="contents" class="app-c-contents-list-with-body">
+      <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">Contents</h2>
+
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#visa-application-process" data-track-options="{"dimension29":"Visa application process"}" href="#visa-application-process">Visa application process</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#skilled-workers" data-track-options="{"dimension29":"Skilled workers"}" href="#skilled-workers">Skilled workers</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#global-talent-scheme" data-track-options="{"dimension29":"Global talent scheme"}" href="#global-talent-scheme">Global talent scheme</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#low-skilled-workers" data-track-options="{"dimension29":"Low-skilled workers"}" href="#low-skilled-workers">Low-skilled workers</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#international-students-and-graduates" data-track-options="{"dimension29":"International students and graduates"}" href="#international-students-and-graduates">International students and graduates</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#other-visa-routes" data-track-options="{"dimension29":"Other visa routes"}" href="#other-visa-routes">Other visa routes</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#visiting-the-uk" data-track-options="{"dimension29":"Visiting the UK"}" href="#visiting-the-uk">Visiting the UK</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#eu-citizens-living-in-the-uk-by-31-december-2020" data-track-options="{"dimension29":"EU citizens living in the UK by 31 December 2020"}" href="#eu-citizens-living-in-the-uk-by-31-december-2020">EU citizens living in the UK by 31 December 2020</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#crossing-the-uk-border" data-track-options="{"dimension29":"Crossing the UK border"}" href="#crossing-the-uk-border">Crossing the UK border</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#proving-immigration-status-in-the-uk" data-track-options="{"dimension29":"Proving immigration status in the UK"}" href="#proving-immigration-status-in-the-uk">Proving immigration status in the UK</a>
+
+        </li>
+    </ol>
+</nav>
+      </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <p>This page will be updated with the latest information about the new points-based immigration system as it becomes available.</p>
-
-<p>On 28 January 2020 the Migration Advisory Committee (MAC) published its <a href="https://www.gov.uk/government/publications/migration-advisory-committee-mac-report-points-based-system-and-salary-thresholds" class="govuk-link">report to the Home Secretary on a points-based immigration system</a>. The government is currently considering the report’s recommendations before setting out further details on the UK’s future immigration system.</p>
 
 <div class="call-to-action">
 <p>Sign up for email alerts to get updates on the new immigration system:</p>
@@ -71,18 +119,129 @@
 </ul>
 </div>
 
-<p>There will be no change to the rights and status of EU citizens currently living in the UK until 30 June 2021. EU citizens and their families can apply to the <a href="https://www.gov.uk/settled-status-eu-citizens-families" class="govuk-link">EU Settlement Scheme</a> to continue living in the UK.</p>
+<p>On 19 February 2020, the government set out the details of the <a href="https://www.gov.uk/government/publications/the-uks-points-based-immigration-system-policy-statement" class="govuk-link">UK’s points-based immigration system</a>. These new arrangements will take effect from 1 January 2021, once freedom of movement with the European Union (EU) has ended. It will treat EU and non-EU citizens equally and aims to attract people who can contribute to the UK’s economy. Irish citizens will continue to be able to enter and live in the UK as they do now.</p>
+
+<h2 id="visa-application-process">Visa application process</h2>
+
+<p>New immigration routes will open from autumn 2020 for applications to work, live and study in the UK from 1 January 2021.</p>
+
+<p>You’ll be able to apply and pay for your visa online.</p>
+
+<p>When you apply, you’ll be asked to provide your biometric information. The process for this is:</p>
+
+<h3 id="eu-eea-and-swiss-citizens">EU, EEA and Swiss citizens</h3>
+
+<p>For most visas you’ll provide a digital photo of your face using a smartphone app. You will not have to give your fingerprints.</p>
+
+<p>For a small number of minor visa routes (to be confirmed later this year) you’ll need to go to an overseas visa application centre to have your photo taken.</p>
+
+<h3 id="non-eu-citizens">Non-EU citizens</h3>
+
+<p>You’ll continue to submit your fingerprints and a photo at an <a href="https://www.gov.uk/apply-to-come-to-the-uk/attend-an-appointment" class="govuk-link">overseas visa application centre</a>.</p>
+
+<h2 id="skilled-workers">Skilled workers</h2>
+
+<p>The points-based system will include a route for skilled workers who have a job offer from an approved employer sponsor.</p>
+
+<p>From January 2021, the job you’re offered will need to be at a required skill level of <a href="https://www.gov.uk/what-different-qualification-levels-mean" class="govuk-link">RQF3 or above</a> (equivalent to A level). You’ll also need to be able to speak English. The minimum general salary threshold will be reduced to £25,600.</p>
+
+<p>If you will earn less than this - but no less than £20,480 - you may still be able to apply by ‘trading’ points on specific characteristics against your salary. For example, if you have a job offer in a <a href="https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-k-shortage-occupation-list" class="govuk-link">shortage occupation</a> or have a PhD relevant to the job.</p>
+
+<p>Details of how the points system will work are in the <a href="https://www.gov.uk/government/publications/the-uks-points-based-immigration-system-policy-statement" class="govuk-link">policy statement</a>.</p>
+
+<p>If you’re an employer planning to sponsor skilled migrants from 2021, and are not currently an approved sponsor, you should consider <a href="https://www.gov.uk/uk-visa-sponsorship-employers" class="govuk-link">getting approved now</a>.</p>
+
+<h2 id="global-talent-scheme">Global talent scheme</h2>
+
+<p>The <a href="https://www.gov.uk/government/news/boost-for-uk-science-with-unlimited-visa-offer-to-worlds-brightest-and-best" class="govuk-link">global talent scheme</a> will be opened up to EU, EEA and Swiss citizens. It will allow highly-skilled scientists and researchers to come to the UK without a job offer.</p>
+
+<h2 id="low-skilled-workers">Low-skilled workers</h2>
+
+<p>There will not be an immigration route specifically for low-skilled workers.</p>
+
+<p>The seasonal agricultural visa pilot scheme will be expanded - recognising the significant reliance this sector has on low-skilled temporary workers.</p>
+
+<h2 id="international-students-and-graduates">International students and graduates</h2>
+
+<p>Student visa routes will be opened up to EU, EEA and Swiss citizens. You’ll be able to apply for a visa to study in the UK if you:</p>
+
+<ul>
+  <li>have been offered a place on a course</li>
+  <li>can speak, read, write and understand English</li>
+  <li>have enough money to support yourself and pay for your course</li>
+</ul>
+
+<p>A new graduate immigration route will be available to international students who have completed a degree in the UK from summer 2021. You’ll be able to work, or look for work, in the UK at any skill level for up to 2 years.</p>
+
+<h2 id="other-visa-routes">Other visa routes</h2>
+
+<p>Short-term work visas in specific sectors (the current ‘Tier 5’) and investor, business development and talent visas (the current ‘Tier 1’) will be opened up to EU citizens.</p>
+
+<h2 id="visiting-the-uk">Visiting the UK</h2>
+
+<p>EU, EEA and Swiss citizens and other non-visa nationals will not require a visa to enter the UK when visiting the UK for up to 6 months. All migrants looking to enter the UK for other reasons (such as work or study) will need to apply for a visa in advance.</p>
+
+<h2 id="eu-citizens-living-in-the-uk-by-31-december-2020">EU citizens living in the UK by 31 December 2020</h2>
+
+<p>If you’re an EU, EEA or Swiss citizen living in the UK before 31 December 2020, you and your family can apply to the <a href="https://www.gov.uk/settled-status-eu-citizens-families" class="govuk-link">EU Settlement Scheme</a> to continue living in the UK after 30 June 2021.</p>
+
+<h2 id="crossing-the-uk-border">Crossing the UK border</h2>
+
+<p>Citizens of Australia, Canada, Japan, New Zealand, the United States of America, Singapore and South Korea - with a biometric chip in their passports - will continue to be able to use ePassport gates to pass through the border on arrival. EU, EEA and Swiss citizens will also be able to use ePassport gates (this will be kept under review).</p>
+
+<p>EU, EEA and Swiss citizens will continue to be able to cross the UK border using a valid passport.</p>
+
+<p>We may stop accepting EU, EEA and Swiss national ID cards for entry to the UK after 2020. We’ll announce further details, including the date for this change, in advance. However, if you begin living in the UK before 31 December 2020 and have status under the <a href="https://www.gov.uk/settled-status-eu-citizens-families" class="govuk-link">EU Settlement Scheme</a>, you’ll be able to use your national identity card to enter the UK until at least 31 December 2025.</p>
+
+<h2 id="proving-immigration-status-in-the-uk">Proving immigration status in the UK</h2>
+
+<h3 id="eu-citizens">EU citizens</h3>
+
+<p>EU, EEA and Swiss citizens will use an <a href="https://www.gov.uk/view-prove-immigration-status" class="govuk-link">online service</a> to view their immigration status and to prove their status to others.</p>
+
+<p>Employers, landlords and public service providers will continue to accept EU citizens’ passports and identity cards as evidence of their immigration status until 30 June 2021.</p>
+
+<p><a href="https://www.gov.uk/guidance/employing-eu-eea-and-swiss-citizens-and-their-family-members-after-brexit" class="govuk-link">Guidance for employers</a> is available on carrying out right to work checks on EU citizens and their family members in the UK.</p>
+
+<h3 id="non-eu-citizens-1">Non-EU citizens</h3>
+
+<p>Non-EU citizens will continue to use a physical document to prove their immigration status.</p>
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 28 January 2020
+    <br></br>Last updated 19 February 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-02-19T09:00:37.000+00:00">19 February 2020</time>
+              <p class="app-c-published-dates__change-note">Information added from policy statement on the UK's points-based immigration system.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-28T10:15:00.000+00:00">28 January 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
+      <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
   </div>
   </div>
   
@@ -97,6 +256,31 @@
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-fb4ff294" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-fb4ff294" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/register-of-licensed-sponsors-workers" data-track-options="{"dimension28":"5","dimension29":"Register of licensed sponsors: workers"}" href="/government/publications/register-of-licensed-sponsors-workers">Register of licensed sponsors: workers</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/notice-of-rights-and-entitlements-ukranian" data-track-options="{"dimension28":"5","dimension29":"Notice of rights and entitlements: Ukrainian"}" href="/government/publications/notice-of-rights-and-entitlements-ukranian">Notice of rights and entitlements: Ukrainian</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/notice-of-rights-and-entitlements-gujarati" data-track-options="{"dimension28":"5","dimension29":"Notice of rights and entitlements: Gujarati"}" href="/government/publications/notice-of-rights-and-entitlements-gujarati">Notice of rights and entitlements: Gujarati</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/eu-settlement-scheme-application-processing-times" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: application processing times"}" href="/government/publications/eu-settlement-scheme-application-processing-times">EU Settlement Scheme: application processing times</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/rights-and-status-of-frontier-workers-in-the-uk-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Rights and status of frontier workers in the UK from 1 January 2021"}" href="/government/publications/rights-and-status-of-frontier-workers-in-the-uk-from-1-january-2021">Rights and status of frontier workers in the UK from 1 January 2021</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -118,9 +302,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0734ca1c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9ee51a80" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-0734ca1c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-9ee51a80" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
