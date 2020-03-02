@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 September 2018
-    <br></br>Last updated 21 February 2020
+    <br></br>Last updated 2 March 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -72,10 +72,6 @@
 <table>
   <tbody>
     <tr>
-      <td>27 February</td>
-      <td><a rel="external" href="https://www.eventbrite.co.uk/e/british-embassy-outreach-meeting-agen-tickets-78144679841" class="govuk-link">Agen</a></td>
-    </tr>
-    <tr>
       <td>9 March</td>
       <td><a rel="external" href="https://www.eventbrite.co.uk/e/british-embassy-outreach-meeting-la-rochelle-tickets-95412249607" class="govuk-link">La Rochelle</a></td>
     </tr>
@@ -93,6 +89,20 @@
   </tbody>
 </table>
 
+<section class="attachment embedded" id="attachment_4039110">
+  <div class="attachment-thumb">
+      <a class="govuk-link" tabindex="-1" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869725/FEB_2020_Q_A.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869725/thumbnail_FEB_2020_Q_A.pdf.png"></img></a>
+  </div>
+  <div class="attachment-details">
+    <h2 class="title"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869725/FEB_2020_Q_A.pdf" class="govuk-link">Facebook Q&A FEB 2020</a></h2>
+    <p class="metadata">
+        <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">1.18MB</span>, <span class="page-length">37 pages</span>
+    </p>
+
+
+  </div>
+</section>
+
 <p>We are running regular Q&As on <a rel="external" href="https://www.facebook.com/ukinfrance/" class="govuk-link">our Facebook page</a>. Follow us for updates.</p>
 
 <h3 id="previous-citizens-outreach-meetings-across-france">Previous citizens outreach meetings across France</h3>
@@ -101,6 +111,10 @@
 
 <table>
   <tbody>
+    <tr>
+      <td>27 February</td>
+      <td>Agen</td>
+    </tr>
     <tr>
       <td>11 February</td>
       <td>Civray 2pm</td>
@@ -511,7 +525,11 @@
                   <path fill="#FFF" d="M17.892 10.751h1.787V8.009L17.216 8c-2.73 0-3.352 2.045-3.352 3.353v1.828h-1.581v2.824h1.581V24h3.322v-7.995h2.242l.291-2.824h-2.533V11.52c.001-.623.415-.769.706-.769z"></path>
                 </svg>
 
-            </span><span class="visually-hidden">Share on </span>Facebook</a>
+            </span>          <span class="govuk-visually-hidden">
+              Share on
+          </span>
+          <span class="visually-hidden">Share on </span>Facebook
+</a>
         </li>
         <li class="gem-c-share-links__list-item">
           <a target="_blank" rel="noopener noreferrer external" data-track-category="social media" data-track-action="twitter" data-track-options="{"socialAction":"share","socialNetwork":"twitter","socialTarget":"https://twitter.com/share?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fnews%2Finformation-and-events-for-british-citizens-in-france\u0026text=Information%20and%20events%20for%20British%20citizens%20in%20France"}" class="gem-c-share-links__link " href="https://twitter.com/share?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fnews%2Finformation-and-events-for-british-citizens-in-france&text=Information%20and%20events%20for%20British%20citizens%20in%20France">
@@ -521,7 +539,11 @@
                   <path fill="#FFF" d="M8 21.027a9.286 9.286 0 0 0 5.032 1.475c6.038 0 9.34-5.002 9.34-9.339 0-.143-.004-.284-.012-.425a6.619 6.619 0 0 0 1.639-1.699c-.6.265-1.234.439-1.885.516a3.287 3.287 0 0 0 1.443-1.816 6.571 6.571 0 0 1-2.086.797 3.28 3.28 0 0 0-5.592 2.993 9.311 9.311 0 0 1-6.766-3.43 3.294 3.294 0 0 0-.443 1.651 3.28 3.28 0 0 0 1.46 2.732 3.278 3.278 0 0 1-1.488-.411v.041a3.288 3.288 0 0 0 2.633 3.22 3.28 3.28 0 0 1-1.481.055 3.285 3.285 0 0 0 3.065 2.281 6.59 6.59 0 0 1-4.076 1.404A6.76 6.76 0 0 1 8 21.027z"></path>
                 </svg>
 
-            </span><span class="visually-hidden">Share on </span>Twitter</a>
+            </span>          <span class="govuk-visually-hidden">
+              Share on
+          </span>
+          <span class="visually-hidden">Share on </span>Twitter
+</a>
         </li>
     </ul>
 </div>
@@ -529,10 +551,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 September 2018
-    <br></br>Last updated 21 February 2020
+    <br></br>Last updated 2 March 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-03-02T14:37:15.000+00:00">2 March 2020</time>
+              <p class="app-c-published-dates__change-note">February 2020 Facebook Q&A added</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-02-21T11:27:02.000+00:00">21 February 2020</time>
               <p class="app-c-published-dates__change-note">New events added in La Rochelle and Agen</p>
@@ -701,14 +727,14 @@ Nantes 25/02</p>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-e7efb74b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-9025d77c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e7efb74b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-9025d77c" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -716,9 +742,9 @@ Nantes 25/02</p>
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france" data-track-options="{"dimension28":"5","dimension29":"France: Voisins Voices - newsletter for the British community in France"}" href="/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france">France: Voisins Voices - newsletter for the British community in France</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/how-to-buy-property-in-france" data-track-options="{"dimension28":"5","dimension29":"France: buying property"}" href="/guidance/how-to-buy-property-in-france">France: buying property</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/france-list-of-lawyers" data-track-options="{"dimension28":"5","dimension29":"France: lawyers"}" href="/government/publications/france-list-of-lawyers">France: lawyers</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-finland" data-track-options="{"dimension28":"5","dimension29":"Living in Finland"}" href="/guidance/living-in-finland">Living in Finland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-luxembourg" data-track-options="{"dimension28":"5","dimension29":"Living in Luxembourg"}" href="/guidance/living-in-luxembourg">Living in Luxembourg</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/mobile-roaming-after-eu-exit" data-track-options="{"dimension28":"5","dimension29":"Using your mobile in EU and EEA countries after the UK leaves the EU"}" href="/guidance/mobile-roaming-after-eu-exit">Using your mobile in EU and EEA countries after the UK leaves the EU</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-finland" data-track-options="{"dimension28":"5","dimension29":"Living in Finland"}" href="/guidance/living-in-finland">Living in Finland</a></li>
 
   </ul>
 </nav>
@@ -745,9 +771,9 @@ Nantes 25/02</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-93b2349c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dac2dca4" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-93b2349c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-dac2dca4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -761,9 +787,9 @@ Nantes 25/02</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-93b2349c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-dac2dca4" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-93b2349c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-dac2dca4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
