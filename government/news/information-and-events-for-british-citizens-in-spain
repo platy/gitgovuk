@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 November 2018
-    <br></br>Last updated 3 March 2020
+    <br></br>Last updated 5 March 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -85,12 +85,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>CANCELLED - ‘POP UP’ Wednesday 4 March, 10:30am-12:30pm</td>
-      <td>Puerto de la Cruz (Tenerife)</td>
-      <td>The English Library, C/ Irlanda 5, 38400 Puerto de la Cruz</td>
-      <td>CANCELLED</td>
-    </tr>
-    <tr>
       <td>‘POP UP’ Monday 9 March, 10:00am-2:00pm</td>
       <td>Oliva (Valencia)</td>
       <td>Tia Chia Cafeteria, Mercat Municipal de Oliva (Municipal Market), Plaça Joan Baptista Escrivà, s/n, 46780 Oliva</td>
@@ -149,6 +143,12 @@
       <td>Barcelona City</td>
       <td>Brexit Information Point - Oficina de Atención a las Empresas, Carrer Roc Boronat 117, 08018 Barcelona</td>
       <td><a rel="external" href="https://www.barcelona.cat/internationalwelcome/en/brexit-info" class="govuk-link">Book an appointment here</a></td>
+    </tr>
+    <tr>
+      <td>Tuesday 7 April, 12:00pm-1:30pm</td>
+      <td>Ayamonte (Huelva)</td>
+      <td>Centro Cultural Casa Grande, Calle Huelva 37, 21400 Ayamonte</td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
@@ -1448,10 +1448,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 November 2018
-    <br></br>Last updated 3 March 2020
+    <br></br>Last updated 5 March 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-03-05T10:50:24.000+00:00">5 March 2020</time>
+              <p class="app-c-published-dates__change-note">New information on citizens outreach meetings across Spain.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-03-03T13:44:34.000+00:00">3 March 2020</time>
               <p class="app-c-published-dates__change-note">New information on citizens outreach meetings across Spain.</p>
@@ -1692,14 +1696,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-2b109247" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-dd4760fa" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2b109247" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-dd4760fa" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -1736,9 +1740,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-77763621" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-df24490f" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-77763621" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-df24490f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1753,9 +1757,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-77763621" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-df24490f" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-77763621" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-df24490f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
