@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Poland, including guidance on Brexit, residency, passports and healthcare.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Poland, including guidance on residency, passports, healthcare and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 November 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 10 March 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,7 +62,7 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -69,59 +70,67 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#driving-in-poland" data-track-options="{"dimension29":"Driving in Poland"}" href="#driving-in-poland">Driving in Poland</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#driving-in-poland" data-track-options="{"dimension29":"Driving in Poland"}" href="#driving-in-poland">Driving in Poland</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-poland" data-track-options="{"dimension29":"Working in Poland"}" href="#working-in-poland">Working in Poland</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#working-in-poland" data-track-options="{"dimension29":"Working in Poland"}" href="#working-in-poland">Working in Poland</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
 </a>
 
         </li>
@@ -133,7 +142,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
@@ -147,7 +156,7 @@
 
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The <abbr title="United Kingdom">UK</abbr> is leaving the <abbr title="European Union">EU</abbr>. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>
@@ -158,49 +167,57 @@
 
 <h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
 
-<p>The British Embassy regularly holds events across Poland for <abbr title="United Kingdom">UK</abbr> nationals. Attend one of our <a href="https://www.gov.uk/government/news/community-connect-britsinpoland" class="govuk-link">citizen outreach meetings</a> to keep up to date on working and living in Poland after Brexit.</p>
+<p>The British Embassy regularly holds events across Poland for <abbr title="United Kingdom">UK</abbr> nationals. Attend one of our <a href="https://www.gov.uk/government/news/community-connect-britsinpoland" class="govuk-link">citizen outreach meetings</a> to keep up to date on working and living in Poland.</p>
 
-<p>You can also read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the <abbr title="European Union">EU</abbr>: prepare for Brexit</a>.</p>
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
+
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the <abbr title="United Kingdom">UK</abbr>’s withdrawal from the <abbr title="European Union">EU</abbr> and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the <abbr title="European Union">EU</abbr> broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in Poland at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Poland.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information</p>
+
+<p>In the meantime, make sure you are registered as a resident in Poland. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>Check the <a href="https://www.gov.uk/foreign-travel-advice/poland/entry-requirements" class="govuk-link">entry requirements for Poland</a>.</p>
 
-<p>If you’re staying in Poland for more than 3 months, you must <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/obywatele-ue-oraz-eogszwajcarii-i-czlonkowie-ich-rodzin/wymagane-formalnosci/obywatele-ue/zarejestrowanie-pobytu/" class="govuk-link">register your address with the Department of Foreigners at your local Voivodeship office</a>.</p>
+<h3 id="residency">Residency</h3>
+
+<p>If you are resident in Poland before the transition period ends on 31 December 2020, you will be able to stay.</p>
+
+<p>If you’re staying in Poland for more than 3 months, you must <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/obywatele-ue-oraz-eogszwajcarii-i-czlonkowie-ich-rodzin/wymagane-formalnosci/obywatele-ue/zarejestrowanie-pobytu/" class="govuk-link">register your address with the Department of Foreigners at your local Voivodeship office</a> if you haven’t done so yet.</p>
 
 <p>You can also find out how to apply for <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/obywatele-ue-oraz-eogszwajcarii-i-czlonkowie-ich-rodzin/zasady-wjazdu-i-pobytu/" class="govuk-link">permanent residency at your local Voivodeship office</a>.</p>
 
-<p><a rel="external" href="https://udsc.gov.pl/kontakt/instytucje-wspolpracujace/instytucje-rzadowe/" class="govuk-link">Check the locations of local Voivodeship offices in Poland</a> and where you should register your stay.</p>
+<p><a rel="external" href="https://udsc.gov.pl/kontakt/instytucje-wspolpracujace/instytucje-rzadowe/" class="govuk-link">Check the locations of local Voivodeship Offices in Poland</a> and where you should register your stay.</p>
+
+<p>Read the <a rel="external" href="https://udsc.gov.pl/en/rules-of-stay-of-british-citizens-in-poland-after-brexit/" class="govuk-link">Polish Office for Foreigners guidance on residency and the transition period</a> and their <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/brexit/faq/" class="govuk-link">Frequently Asked Questions</a>.</p>
 
 <p>If the authorities think you may be a Polish national, for example if you have Polish parents, grandparents or great grandparents, they might research your family history. Your application may take longer than usual to process.</p>
 
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
-
-<p>Read the <a rel="external" href="https://udsc.gov.pl/en/rules-of-stay-of-british-citizens-in-poland-after-brexit/" class="govuk-link">Polish Office for Foreigners dedicated page on Brexit</a>.</p>
-
-<p>If you are resident in Poland before the end of the implementation period on 31 December 2020 you will be able to stay.</p>
-
-<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
+<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available.</p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the <abbr title="European Union">EU</abbr> with your <abbr title="United Kingdom">UK</abbr> passport.</p>
+
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from Poland</a>.</p>
 
-<p>See our <a href="https://www.gov.uk/foreign-travel-advice/poland" class="govuk-link">travel advice for Poland</a> and <a href="https://www.gov.uk/foreign-travel-advice/poland/email-signup" class="govuk-link">sign up to email alerts for up-to-date travel information</a> on local laws and customs, safety and emergencies.</p>
-
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
-
-<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
 
 <p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
-
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the <abbr title="European Union">EU</abbr> with your <abbr title="United Kingdom">UK</abbr> passport.</p>
 
 <p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-poland" class="govuk-link">sign up for updates</a> to this guidance.</p>
 
 <h2 id="driving-in-poland">Driving in Poland</h2>
 
-<p><abbr title="United Kingdom">UK</abbr> licences are only valid in Poland for the first 6 months of residence.  After 6 months, you must exchange your driving licence for a Polish licence. You can still use your Polish licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
+
+<p><abbr title="United Kingdom">UK</abbr> licences are only valid in Poland for the first 6 months of residence. After 6 months, you must exchange your driving licence for a Polish licence. You can still use your Polish licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
 
 <p>For information on driving in Poland, read the information on:</p>
 
@@ -223,19 +240,23 @@
 
 <p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk" class="govuk-link">taking a vehicle out of the <abbr title="United Kingdom">UK</abbr></a>.</p>
 
-<p>You should read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/taxes/index_en.htm" class="govuk-link">car registration and taxes in Poland</a>. You may be exempt from some of these taxes. If so you will need certificates of exemption.</p>
-
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
+<p>You should read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/taxes/index_en.htm" class="govuk-link">car registration and taxes in Poland</a>. You may be exempt from some of these taxes. If so, you will need certificates of exemption.</p>
 
 <h2 id="healthcare">Healthcare</h2>
 
+<p>If you are living in Poland or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Poland as you do now, provided you remain resident.</p>
+
 <p>You must be registered for healthcare as a resident in Poland, and if necessary, with healthcare insurance.</p>
+
+<p>Read the Polish Ministry of Health <a rel="external" href="https://www.gov.pl/web/zdrowie/informacja-nt-konsekwencji-uporzadkowanego-brexitu" class="govuk-link">guidance about the transition period and your healthcare rights in Poland</a> (in Polish).</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-poland" class="govuk-link">guidance on who can access healthcare in Poland and how to register</a>.</p>
 
 <h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
 <p>If you live in Poland and receive an exportable <abbr title="United Kingdom">UK</abbr> pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the <abbr title="United Kingdom">UK</abbr>. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>You can <a rel="external" href="https://contactcentreservices.nhsbsa.nhs.uk/selfnhsukokb/AskUs_EHIC/en-gb/6696/application-forms-and-evidence/16477/s1-form-what-is-this-and-how-do-i-obtain-one" class="govuk-link">apply for an S1 certificate</a> through the Business Services Authority.</p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</h3>
 
@@ -250,45 +271,46 @@
 </li>
 </ul>
 
-<p>If you are a student, read the <abbr title="National Health Service">NHS</abbr> <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">guidance on healthcare and studying abroad</a>.</p>
-
-<p>You can find an <a href="https://www.gov.uk/government/publications/poland-list-of-medical-facilities" class="govuk-link">English-speaking doctor in Poland</a>.</p>
-
-<p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a>.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
 <p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your <abbr title="European Health Insurance Card">EHIC</abbr>, as you did before, during this time.</p>
 
-<p>If you are living in Poland or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Poland as you do now, provided you remain resident.</p>
+<p>You should also read guidance on:</p>
+
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li>finding an <a href="https://www.gov.uk/government/publications/poland-list-of-medical-facilities" class="govuk-link">English-speaking doctor in Poland</a>
+</li>
+  <li><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking your prescriptions are legal</a></li>
+</ul>
 
 <h2 id="working-in-poland">Working in Poland</h2>
 
-<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another <abbr title="European Union">EU</abbr> country</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an <abbr title="European Union">EU</abbr> country</a>.</p>
 
 <p>You may need to apply for a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link"><abbr title="United Kingdom">UK</abbr> police certificate</a>.</p>
 
-<h3 id="working-in-poland-after-brexit">Working in Poland after Brexit</h3>
+<p>If you are resident in Poland on or before 31 December 2020, your right to work will stay the same, as long as you remain resident in Poland.</p>
 
-<p>Your right to work will stay the same, as long as you remain resident in Poland.</p>
+<h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
 
-<h3 id="education-and-professional-qualifications">Education and professional qualifications</h3>
+<p>If you are resident in Poland on or before 31 December 2020, your right to study will stay the same, as long as you remain resident in Poland.</p>
 
-<p>Get your <a rel="external" href="https://prk.men.gov.pl/en/9en/" class="govuk-link"><abbr title="United Kingdom">UK</abbr> professional qualifications recognised in Poland</a> before Brexit.</p>
+<p>Read the Polish government’s information about <a rel="external" href="https://www.gov.pl/web/edukacja/ksztalcenie-dzieci-obywateli-zjednoczonego-krolestwa-wielkiej-brytanii-i-irlandii-polnocnej-w-polsce-po-jego-wystapieniu-z-unii-europejskiej" class="govuk-link">access to education in Poland for children of <abbr title="United Kingdom">UK</abbr> nationals (in Polish)</a>.</p>
+
+<h3 id="professional-qualifications">Professional qualifications</h3>
+
+<p>Get your <a rel="external" href="https://prk.men.gov.pl/en/9en/" class="govuk-link"><abbr title="United Kingdom">UK</abbr> professional qualifications recognised in Poland</a>.</p>
 
 <p>Recognition decisions made on qualifications obtained in the <abbr title="United Kingdom">UK</abbr> or the <abbr title="European Union">EU</abbr> before 31 December 2020 are not affected.</p>
 
 <p>If you have not had your professional qualifications recognised, you will have until 31 December 2020 to submit an application under the current rules.</p>
 
-<p>Read the <a rel="external" href="https://www.brexit.gov.pl/wp-content/uploads/2019/08/kwalifikacje-zawodowe-a-brexit.pdf" class="govuk-link">Polish government website about professional qualifications and Brexit</a> and the <a rel="external" href="https://www.archiwum.nauka.gov.pl/en/recognition-of-professional-qualifications-directive-2005-36-ec/" class="govuk-link">guidance about professional qualifications</a> issued by the Ministry of Science and Higher Education.</p>
-
-<p>Your right to study will stay the same, as long as you remain resident in Poland.</p>
-
-<p>Read the Polish government’s Brexit information about <a rel="external" href="https://www.gov.pl/web/edukacja/ksztalcenie-dzieci-obywateli-zjednoczonego-krolestwa-wielkiej-brytanii-i-irlandii-polnocnej-w-polsce-po-jego-wystapieniu-z-unii-europejskiej" class="govuk-link">access to education in Poland for children of <abbr title="United Kingdom">UK</abbr> nationals</a> (in Polish)</p>
+<p>Read the <a rel="external" href="https://www.brexit.gov.pl/wp-content/uploads/2019/08/kwalifikacje-zawodowe-a-brexit.pdf" class="govuk-link">Polish government website about professional qualifications</a> and the <a rel="external" href="https://www.archiwum.nauka.gov.pl/en/recognition-of-professional-qualifications-directive-2005-36-ec/" class="govuk-link">guidance about professional qualifications</a> issued by the Ministry of Science and Higher Education.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The <abbr title="United Kingdom">UK</abbr> has a double-taxation agreement with Poland to ensure people do not pay tax on the same income in both countries.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> has a double taxation agreement with Poland to ensure you do not pay tax on the same income in both countries. You should direct individual taxpayer questions about double taxation to the relevant tax authority.</p>
+
+<p>Existing double taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Poland have not changed.</p>
 
 <p>You should read the guidance on:</p>
 
@@ -308,19 +330,13 @@
 
 <p>If you are employed or self-employed in the <abbr title="European Union">EU</abbr> or EEA and you have a <abbr title="United Kingdom">UK</abbr>-issued A1/E101 form, you will remain subject to <abbr title="United Kingdom">UK</abbr> legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Poland. You should direct individual taxpayer questions about double-taxation to the relevant tax authority.</p>
-
 <h2 id="pensions">Pensions</h2>
 <p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<p>There will be no changes before 31 December 2020 to the rules on claiming the <abbr title="United Kingdom">UK</abbr> State Pension in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>If you retire in Poland, you can claim:</p>
 
 <ul>
-  <li>your <abbr title="United Kingdom">UK</abbr> State Pension or new <a href="https://www.gov.uk/international-pension-centre" class="govuk-link"><abbr title="United Kingdom">UK</abbr> State Pension</a>. Please contact the International Pensions Centre to claim</li>
+  <li>your <abbr title="United Kingdom">UK</abbr> State Pension or new <a href="https://www.gov.uk/international-pension-centre" class="govuk-link"><abbr title="United Kingdom">UK</abbr> State Pension</a>. Please contact the <a href="https://www.gov.uk/international-pension-centre" class="govuk-link">International Pensions Centre</a> to claim</li>
   <li>your Polish pension from the <a rel="external" href="https://lang.zus.pl/en/" class="govuk-link">Polish Social Insurance Institution</a>, if you have worked in Poland</li>
   <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm" class="govuk-link">pensions from working abroad, if you have worked in other <abbr title="European Union">EU</abbr> countries</a></li>
 </ul>
@@ -329,19 +345,23 @@
 
 <p>If you get a ‘life certificate’ from the <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link"><abbr title="United Kingdom">UK</abbr> Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don´t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming the <abbr title="United Kingdom">UK</abbr> State Pension in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>You can continue to receive your <abbr title="United Kingdom">UK</abbr> State Pension if you live in the <abbr title="European Union">EU</abbr>, EEA or Switzerland and you can still claim your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
 
-<p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020 you will get your <abbr title="United Kingdom">UK</abbr> State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>..</p>
+<p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020 you will get your <abbr title="United Kingdom">UK</abbr> State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance</a>.</p>
 
 <p>If you are living in Poland by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
 
-<p>If you work and pay social security contributions in Poland, you will still be able to count your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Polish pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Poland, you will still be able to count your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Polish pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the <abbr title="European Union">EU</abbr></a>.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming <abbr title="United Kingdom">UK</abbr> benefits in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
+<p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are moving or retiring abroad.</p>
 
 <p>You may still be able to claim some <abbr title="United Kingdom">UK</abbr> benefits like child and disability benefits if you live in Poland. You can:</p>
 
@@ -360,13 +380,21 @@
 
 <p>You may be eligible to claim some Polish social security benefits. To find out if you are entitled to Polish benefits and how to claim, read the <a rel="external" href="https://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_en.htm" class="govuk-link"><abbr title="European Union">EU</abbr>’s guidance on claiming benefits in Poland</a>.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-january-2020">Benefits after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming <abbr title="United Kingdom">UK</abbr> benefits in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020, you will continue to receive any <abbr title="United Kingdom">UK</abbr> benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Poland, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Polish contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Poland, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Polish contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the <abbr title="European Union">EU</abbr></a>.</p>
 
 <h2 id="voting">Voting</h2>
+
+<p>You cannot vote in local municipal elections in Poland or European Parliament elections.</p>
+
+<p>The <abbr title="United Kingdom">UK</abbr> is working with the Polish government to explore whether any solution can be found for <abbr title="United Kingdom">UK</abbr> nationals to vote in future local elections. We will update this guidance when more information is available.</p>
 
 <p>You may be able to vote in some <abbr title="United Kingdom">UK</abbr> elections. You can:</p>
 
@@ -375,16 +403,6 @@
   <li>
 <a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
 </ul>
-
-<p>If you’re resident in Poland, you can <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">vote in local municipal and European parliamentary elections</a>.</p>
-
-<p>You should register on the electoral roll in the municipality where you are permanently residing no later than 5 days before the election.</p>
-
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
-
-<p>After Brexit, you may not be able to vote in local elections in Poland. The <abbr title="United Kingdom">UK</abbr> is pursuing a bilateral agreement with Poland to secure the right to vote in local elections for <abbr title="United Kingdom">UK</abbr> nationals living in Poland.</p>
-
-<p>After Brexit, you will no longer be able to vote in European elections.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
@@ -411,7 +429,7 @@
 
 <p>Read our guidance on <a href="https://www.gov.uk/guidance/guidance-for-buying-property-abroad" class="govuk-link">buying a property abroad</a>.</p>
 
-<p>After Brexit, you may have to get a permit from the Minister responsible for home affairs to buy property.</p>
+<p>You may need to get a permit from the Minister responsible for home affairs to buy property.</p>
 
 <h2 id="pets">Pets</h2>
 
@@ -419,7 +437,7 @@
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a>.</p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet to the <abbr title="United Kingdom">UK</abbr></a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -456,10 +474,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 November 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 10 March 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-03-10T15:45:37.000+00:00">10 March 2020</time>
+              <p class="app-c-published-dates__change-note">A new link to the Polish Office for Foreigners' FAQs on residency rights and an updated link to Polish government guidance on healthcare.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-24T09:10:46.000+00:00">24 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
@@ -560,8 +582,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -569,48 +591,48 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-4446c19f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-f9e1d673" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-4446c19f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f9e1d673" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-lithuania" data-track-options="{"dimension28":"5","dimension29":"Living in Lithuania"}" href="/guidance/living-in-lithuania">Living in Lithuania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-greece" data-track-options="{"dimension28":"5","dimension29":"Living in Greece"}" href="/guidance/living-in-greece">Living in Greece</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-portugal" data-track-options="{"dimension28":"5","dimension29":"Living in Portugal"}" href="/guidance/living-in-portugal">Living in Portugal</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-4446c19f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-f9e1d673" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-4446c19f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-f9e1d673" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-poland--2" data-track-options="{"dimension28":"2","dimension29":"Poland: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-poland--2">Poland: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-poland" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Poland"}" href="/guidance/healthcare-in-poland">Healthcare in Poland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-poland" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Poland"}" href="/guidance/healthcare-in-poland">Healthcare for UK nationals living in Poland</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-4446c19f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-f9e1d673" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-4446c19f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-f9e1d673" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -642,9 +664,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1cd049aa" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5800a3ff" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1cd049aa" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-5800a3ff" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
