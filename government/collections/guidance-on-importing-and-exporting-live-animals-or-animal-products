@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Collection
     </p>
@@ -10,28 +8,26 @@
     Guidance on importing and exporting live animals or animal products
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Collection of guidance and forms for importing and exporting live animals or animal products.
-  </p>
+  <p class="gem-c-lead-paragraph">Collection of guidance and forms for importing and exporting live animals or animal products.</p>
 
+    
     
     
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 12 September 2014
-    <br></br>Last updated 21 February 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 23 March 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -41,7 +37,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a> and <a href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a> and <a class="govuk-link" href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
                 </span>
             </dd>
         </dl>
@@ -49,61 +45,76 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#guidance-for-eu-exit" data-track-options="{"dimension29":"Guidance for EU exit"}" href="#guidance-for-eu-exit">Guidance for EU exit</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#topical-issues" data-track-options="{"dimension29":"Topical issues"}" href="#topical-issues">Topical issues</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#topical-issues" data-track-options="{"dimension29":"Topical issues"}" href="#topical-issues">Topical issues</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#imports-to-the-uk-from-non-eu-countries" data-track-options="{"dimension29":"Imports to the UK from non-EU countries"}" href="#imports-to-the-uk-from-non-eu-countries">Imports to the UK from non-EU countries</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#imports-from-non-eu-countries" data-track-options="{"dimension29":"Imports from non-EU countries"}" href="#imports-from-non-eu-countries">Imports from non-EU countries</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#exporting-from-the-uk-to-all-countries" data-track-options="{"dimension29":"Exporting from the UK to all countries"}" href="#exporting-from-the-uk-to-all-countries">Exporting from the UK to all countries</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#eu-trade" data-track-options="{"dimension29":"EU trade"}" href="#eu-trade">EU trade</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#moving-goods-or-animals-between-eu-countries" data-track-options="{"dimension29":"Moving goods or animals between EU countries"}" href="#moving-goods-or-animals-between-eu-countries">Moving goods or animals between EU countries</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#balai-directive" data-track-options="{"dimension29":"Balai Directive"}" href="#balai-directive">Balai Directive</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#balai-directive:-animals,-semen-and-embryos-for-research,-display-and-conservation" data-track-options="{"dimension29":"Balai Directive: animals, semen and embryos for research, display and conservation"}" href="#balai-directive:-animals,-semen-and-embryos-for-research,-display-and-conservation">Balai Directive: animals, semen and embryos for research, display and conservation</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#circus-and-animal-acts" data-track-options="{"dimension29":"Circus and animal acts"}" href="#circus-and-animal-acts">Circus and animal acts</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#circus-and-animal-acts" data-track-options="{"dimension29":"Circus and animal acts"}" href="#circus-and-animal-acts">Circus and animal acts</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#endangered-species" data-track-options="{"dimension29":"Endangered species"}" href="#endangered-species">Endangered species</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#endangered-species" data-track-options="{"dimension29":"Endangered species"}" href="#endangered-species">Endangered species</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#non-native-animals" data-track-options="{"dimension29":"Non-native animals"}" href="#non-native-animals">Non-native animals</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#non-native-animals" data-track-options="{"dimension29":"Non-native animals"}" href="#non-native-animals">Non-native animals</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#poultry-health-scheme" data-track-options="{"dimension29":"Poultry Health Scheme"}" href="#poultry-health-scheme">Poultry Health Scheme</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#poultry-health-scheme" data-track-options="{"dimension29":"Poultry Health Scheme"}" href="#poultry-health-scheme">Poultry Health Scheme</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#animal-pathogens" data-track-options="{"dimension29":"Animal pathogens"}" href="#animal-pathogens">Animal pathogens</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#animal-pathogens" data-track-options="{"dimension29":"Animal pathogens"}" href="#animal-pathogens">Animal pathogens</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#artificial-breeding-controls" data-track-options="{"dimension29":"Artificial breeding controls"}" href="#artificial-breeding-controls">Artificial breeding controls</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#artificial-breeding-controls" data-track-options="{"dimension29":"Artificial breeding controls"}" href="#artificial-breeding-controls">Artificial breeding controls</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#welfare-of-animals-in-transport" data-track-options="{"dimension29":"Welfare of animals in transport"}" href="#welfare-of-animals-in-transport">Welfare of animals in transport</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#welfare-of-animals-in-transport" data-track-options="{"dimension29":"Welfare of animals in transport"}" href="#welfare-of-animals-in-transport">Welfare of animals in transport</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#importing-and-exporting-from-1-january-2021" data-track-options="{"dimension29":"Importing and exporting from 1 January 2021"}" href="#importing-and-exporting-from-1-january-2021">Importing and exporting from 1 January 2021</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       <div class="responsive-bottom-margin">
@@ -114,56 +125,18 @@
 
 <p>This collection of guidance specifically covers importing and exporting live animals or animal products.</p>
 
-<p>We also have specific guidance on <a href="https://www.gov.uk/take-pet-abroad">pet travel: entering/returning to the UK</a>.</p>
+<p>There’s also specific guidance on <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">pet travel: entering/returning to the UK</a>.</p>
+
+<div class="call-to-action">
+<h3 id="coronavirus-covid-19-send-application-by-email">Coronavirus (COVID-19): send application by email</h3>
+<p>If possible, you should send any applications by email as staff may not be able to collect post during the coronavirus outbreak.</p>
+
+<p>Please apply in advance to avoid delay - we are dealing with a high volume of applications.</p>
 </div>
 </div>
-
-
-  <h3 class="group-title" id="guidance-for-eu-exit">Guidance for EU exit</h3>
-    
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
-</div>
 </div>
 
 
-  <div data-module="track-click">
-        <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" data-track-options="{"dimension28":"2","dimension29":"Importing animals, animal products and high-risk food and feed not of animal origin if the UK leaves the EU with no deal"}" class="gem-c-document-list__item-title  " href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">Importing animals, animal products and high-risk food and feed not of animal origin if the UK leaves the EU with no deal</a>
-
-
-
-          <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-03-19T12:09:39+00:00">
-                    19 March 2019
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Guidance
-              </li>
-          </ul>
-      </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.2" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"2","dimension29":"Exporting animals, animal products, fish and fishery products if the UK leaves the EU with no deal"}" class="gem-c-document-list__item-title  " href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals, animal products, fish and fishery products if the UK leaves the EU with no deal</a>
-
-
-
-          <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-03-25T09:47:04+00:00">
-                    25 March 2019
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Guidance
-              </li>
-          </ul>
-      </li>
-    </ol>
-
-  </div>
   <h3 class="group-title" id="topical-issues">Topical issues</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
@@ -174,26 +147,29 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/guidance/imports-and-exports-of-animals-and-animal-products-topical-issues" data-track-options="{"dimension28":"1","dimension29":"Imports, exports and EU trade of animals and animal products: topical issues"}" class="gem-c-document-list__item-title  " href="/guidance/imports-and-exports-of-animals-and-animal-products-topical-issues">Imports, exports and EU trade of animals and animal products: topical issues</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/guidance/imports-and-exports-of-animals-and-animal-products-topical-issues" data-track-options="{"dimension28":"1","dimension29":"Imports, exports and EU trade of animals and animal products: topical issues"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/imports-and-exports-of-animals-and-animal-products-topical-issues">Imports, exports and EU trade of animals and animal products: topical issues</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-04-04T12:40:15+01:00">
-                     4 April 2019
+                  <time datetime="2019-12-11T17:47:57+00:00">
+                    11 December 2019
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
               </li>
           </ul>
+
+
       </li>
     </ol>
 
   </div>
-  <h3 class="group-title" id="imports-from-non-eu-countries">Imports from non-EU countries</h3>
+  <h3 class="group-title" id="imports-to-the-uk-from-non-eu-countries">Imports to the UK from non-EU countries</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
@@ -203,40 +179,47 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries" data-track-options="{"dimension28":"4","dimension29":"Importing live animals or animal products from non-EU countries"}" class="gem-c-document-list__item-title  " href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries">Importing live animals or animal products from non-EU countries</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries" data-track-options="{"dimension28":"4","dimension29":"Importing live animals or animal products from non-EU countries"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries">Importing live animals or animal products from non-EU countries</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-01-24T14:51:37+00:00">
-                    24 January 2019
+                  <time datetime="2019-08-21T14:43:02+01:00">
+                    21 August 2019
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.2" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations" data-track-options="{"dimension28":"4","dimension29":"Importing live animals or animal products from non-EU countries: general licences and authorisations"}" class="gem-c-document-list__item-title  " href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations">Importing live animals or animal products from non-EU countries: general licences and authorisations</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.2" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations" data-track-options="{"dimension28":"4","dimension29":"Importing live animals or animal products from non-EU countries: general licences and authorisations"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations">Importing live animals or animal products from non-EU countries: general licences and authorisations</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-03-05T16:15:07+00:00">
-                     5 March 2019
+                  <time datetime="2020-03-19T08:00:49+00:00">
+                    19 March 2020
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.3" data-track-label="/government/publications/animal-products-and-pathogens-application-for-import-licence" data-track-options="{"dimension28":"4","dimension29":"Animal pathogens and products: application for import licence"}" class="gem-c-document-list__item-title  " href="/government/publications/animal-products-and-pathogens-application-for-import-licence">Animal pathogens and products: application for import licence</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.3" data-track-label="/government/publications/animal-products-and-pathogens-application-for-import-licence" data-track-options="{"dimension28":"4","dimension29":"Animal pathogens and products: import licence application"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/animal-products-and-pathogens-application-for-import-licence">Animal pathogens and products: import licence application</a>
 
 
 
@@ -250,9 +233,12 @@
                   Form
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.4" data-track-label="/government/publications/live-animals-not-pet-dogs-cats-ferrets-application-for-import-licence" data-track-options="{"dimension28":"4","dimension29":"Live animals (not pet dogs, cats, ferrets): application for import licence"}" class="gem-c-document-list__item-title  " href="/government/publications/live-animals-not-pet-dogs-cats-ferrets-application-for-import-licence">Live animals (not pet dogs, cats, ferrets): application for import licence</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.4" data-track-label="/government/publications/live-animals-not-pet-dogs-cats-ferrets-application-for-import-licence" data-track-options="{"dimension28":"4","dimension29":"Live animals (not pet dogs, cats, ferrets): import licence application"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/live-animals-not-pet-dogs-cats-ferrets-application-for-import-licence">Live animals (not pet dogs, cats, ferrets): import licence application</a>
 
 
 
@@ -266,11 +252,13 @@
                   Form
               </li>
           </ul>
+
+
       </li>
     </ol>
 
   </div>
-  <h3 class="group-title" id="eu-trade">EU trade</h3>
+  <h3 class="group-title" id="exporting-from-the-uk-to-all-countries">Exporting from the UK to all countries</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
@@ -280,24 +268,155 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade" data-track-options="{"dimension28":"3","dimension29":"Moving live animals or animal products as part of EU trade"}" class="gem-c-document-list__item-title  " href="/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade">Moving live animals or animal products as part of EU trade</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/guidance/export-live-animals-special-rules" data-track-options="{"dimension28":"6","dimension29":"Export live animals"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/export-live-animals-special-rules">Export live animals</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-02-20T12:24:11+00:00">
-                    20 February 2019
+                  <time datetime="2019-10-21T10:33:13+01:00">
+                    21 October 2019
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.2" data-track-label="/government/publications/assembly-centre-for-eu-trade-of-livestock-application" data-track-options="{"dimension28":"3","dimension29":"Assembly centre for EU trade of livestock: application"}" class="gem-c-document-list__item-title  " href="/government/publications/assembly-centre-for-eu-trade-of-livestock-application">Assembly centre for EU trade of livestock: application</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.2" data-track-label="/guidance/export-livestock-and-poultry" data-track-options="{"dimension28":"6","dimension29":"Export livestock and poultry"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/export-livestock-and-poultry">Export livestock and poultry</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2019-09-03T15:52:40+01:00">
+                     3 September 2019
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.3" data-track-label="/guidance/export-animal-bones-protein-and-other-by-products-special-rules" data-track-options="{"dimension28":"6","dimension29":"Export animal bones, protein and other by-products"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/export-animal-bones-protein-and-other-by-products-special-rules">Export animal bones, protein and other by-products</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2019-08-07T11:49:52+01:00">
+                     7 August 2019
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.4" data-track-label="/guidance/export-animal-semen-ova-and-embryos-special-rules" data-track-options="{"dimension28":"6","dimension29":"Export animal semen, ova and embryos"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/export-animal-semen-ova-and-embryos-special-rules">Export animal semen, ova and embryos</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2019-08-23T18:02:03+01:00">
+                    23 August 2019
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.5" data-track-label="/guidance/export-food-for-animals-special-rules" data-track-options="{"dimension28":"6","dimension29":"Export food for animals"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/export-food-for-animals-special-rules">Export food for animals</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2019-08-23T09:50:55+01:00">
+                    23 August 2019
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.6" data-track-label="/guidance/export-food-and-agricultural-products-special-rules" data-track-options="{"dimension28":"6","dimension29":"Export food, drink and agricultural products"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/export-food-and-agricultural-products-special-rules">Export food, drink and agricultural products</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2019-10-01T10:03:42+01:00">
+                     1 October 2019
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+
+
+      </li>
+    </ol>
+
+  </div>
+  <h3 class="group-title" id="moving-goods-or-animals-between-eu-countries">Moving goods or animals between EU countries</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
+      <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+        <ol class="gem-c-document-list">
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade" data-track-options="{"dimension28":"3","dimension29":"Moving live animals or animal products as part of EU trade"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade">Moving live animals or animal products as part of EU trade</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2019-08-20T17:12:27+01:00">
+                    20 August 2019
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.2" data-track-label="/government/publications/assembly-centre-for-eu-trade-of-livestock-application" data-track-options="{"dimension28":"3","dimension29":"Assembly centre for EU trade of livestock: application"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/assembly-centre-for-eu-trade-of-livestock-application">Assembly centre for EU trade of livestock: application</a>
 
 
 
@@ -311,9 +430,12 @@
                   Form
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/dealers-premises-for-eu-trade-in-sheep-and-goats-application" data-track-options="{"dimension28":"3","dimension29":"Dealer’s premises for EU trade in sheep and goats: application"}" class="gem-c-document-list__item-title  " href="/government/publications/dealers-premises-for-eu-trade-in-sheep-and-goats-application">Dealer’s premises for EU trade in sheep and goats: application</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/dealers-premises-for-eu-trade-in-sheep-and-goats-application" data-track-options="{"dimension28":"3","dimension29":"Dealer’s premises for EU trade in sheep and goats: application"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/dealers-premises-for-eu-trade-in-sheep-and-goats-application">Dealer’s premises for EU trade in sheep and goats: application</a>
 
 
 
@@ -327,11 +449,13 @@
                   Form
               </li>
           </ul>
+
+
       </li>
     </ol>
 
   </div>
-  <h3 class="group-title" id="balai-directive">Balai Directive</h3>
+  <h3 class="group-title" id="balai-directive:-animals,-semen-and-embryos-for-research,-display-and-conservation">Balai Directive: animals, semen and embryos for research, display and conservation</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
@@ -341,53 +465,62 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.1" data-track-label="/guidance/balai-directive-moving-live-animals-semen-and-embryos" data-track-options="{"dimension28":"3","dimension29":"Balai Directive: moving live animals, semen and embryos"}" class="gem-c-document-list__item-title  " href="/guidance/balai-directive-moving-live-animals-semen-and-embryos">Balai Directive: moving live animals, semen and embryos</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.1" data-track-label="/guidance/balai-directive-moving-live-animals-semen-and-embryos" data-track-options="{"dimension28":"3","dimension29":"Balai Directive: moving live animals, semen and embryos"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/balai-directive-moving-live-animals-semen-and-embryos">Balai Directive: moving live animals, semen and embryos</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2015-03-11T17:21:00+00:00">
-                    11 March 2015
+                  <time datetime="2020-02-17T11:38:26+00:00">
+                    17 February 2020
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.2" data-track-label="/government/publications/balai-directive-approved-premises" data-track-options="{"dimension28":"3","dimension29":"Balai Directive and EU trade in animals: approved premises"}" class="gem-c-document-list__item-title  " href="/government/publications/balai-directive-approved-premises">Balai Directive and EU trade in animals: approved premises</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.2" data-track-label="/government/publications/balai-directive-approved-premises" data-track-options="{"dimension28":"3","dimension29":"Balai Directive and EU trade in animals: approved premises"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/balai-directive-approved-premises">Balai Directive and EU trade in animals: approved premises</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-04-01T12:36:19+01:00">
-                     1 April 2019
+                  <time datetime="2020-03-17T10:29:02+00:00">
+                    17 March 2020
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.3" data-track-label="/government/publications/balai-directive-application-to-import-and-export-live-animals" data-track-options="{"dimension28":"3","dimension29":"Balai Directive: application to import and export live animals"}" class="gem-c-document-list__item-title  " href="/government/publications/balai-directive-application-to-import-and-export-live-animals">Balai Directive: application to import and export live animals</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.3" data-track-label="/government/publications/balai-directive-application-to-import-and-export-live-animals" data-track-options="{"dimension28":"3","dimension29":"Balai Directive: application to import and export live animals"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/balai-directive-application-to-import-and-export-live-animals">Balai Directive: application to import and export live animals</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2014-10-01T15:14:08+01:00">
-                     1 October 2014
+                  <time datetime="2019-05-08T12:51:52+01:00">
+                     8 May 2019
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Form
               </li>
           </ul>
+
+
       </li>
     </ol>
 
@@ -402,8 +535,9 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/guidance/register-a-travelling-circus-or-animal-act-to-travel-in-the-eu" data-track-options="{"dimension28":"2","dimension29":"Register a travelling circus or animal act to travel in the EU"}" class="gem-c-document-list__item-title  " href="/guidance/register-a-travelling-circus-or-animal-act-to-travel-in-the-eu">Register a travelling circus or animal act to travel in the EU</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/guidance/register-a-travelling-circus-or-animal-act-to-travel-in-the-eu" data-track-options="{"dimension28":"2","dimension29":"Register a travelling circus or animal act to travel in the EU"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/register-a-travelling-circus-or-animal-act-to-travel-in-the-eu">Register a travelling circus or animal act to travel in the EU</a>
 
 
 
@@ -417,9 +551,12 @@
                   Guidance
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.2" data-track-label="/government/publications/circus-or-animal-act-registration" data-track-options="{"dimension28":"2","dimension29":"Circus or animal act: registration"}" class="gem-c-document-list__item-title  " href="/government/publications/circus-or-animal-act-registration">Circus or animal act: registration</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.2" data-track-label="/government/publications/circus-or-animal-act-registration" data-track-options="{"dimension28":"2","dimension29":"Circus or animal act: registration"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/circus-or-animal-act-registration">Circus or animal act: registration</a>
 
 
 
@@ -433,6 +570,8 @@
                   Form
               </li>
           </ul>
+
+
       </li>
     </ol>
 
@@ -447,37 +586,43 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.1" data-track-label="/guidance/cites-imports-and-exports" data-track-options="{"dimension28":"2","dimension29":"Endangered species: imports and exports and commercial use"}" class="gem-c-document-list__item-title  " href="/guidance/cites-imports-and-exports">Endangered species: imports and exports and commercial use</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.1" data-track-label="/guidance/cites-imports-and-exports" data-track-options="{"dimension28":"2","dimension29":"Check if you need a CITES permit to import or export endangered species"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/cites-imports-and-exports">Check if you need a CITES permit to import or export endangered species</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-01-16T11:59:10+00:00">
-                    16 January 2019
+                  <time datetime="2019-07-22T10:04:29+01:00">
+                    22 July 2019
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.2" data-track-label="/government/publications/endangered-species-application-for-import-and-export-permit" data-track-options="{"dimension28":"2","dimension29":"Endangered species: application for import and export permit"}" class="gem-c-document-list__item-title  " href="/government/publications/endangered-species-application-for-import-and-export-permit">Endangered species: application for import and export permit</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.2" data-track-label="/government/publications/endangered-species-application-for-import-and-export-permit" data-track-options="{"dimension28":"2","dimension29":"Endangered species: apply for an import and export permit"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/endangered-species-application-for-import-and-export-permit">Endangered species: apply for an import and export permit</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2018-03-19T15:00:58+00:00">
-                    19 March 2018
+                  <time datetime="2020-03-23T15:06:33+00:00">
+                    23 March 2020
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Form
               </li>
           </ul>
+
+
       </li>
     </ol>
 
@@ -492,8 +637,9 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="8.1" data-track-label="/guidance/importing-non-native-animals" data-track-options="{"dimension28":"1","dimension29":"Importing non-native animals"}" class="gem-c-document-list__item-title  " href="/guidance/importing-non-native-animals">Importing non-native animals</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="8.1" data-track-label="/guidance/importing-non-native-animals" data-track-options="{"dimension28":"1","dimension29":"Importing non-native animals"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/importing-non-native-animals">Importing non-native animals</a>
 
 
 
@@ -507,6 +653,8 @@
                   Guidance
               </li>
           </ul>
+
+
       </li>
     </ol>
 
@@ -521,37 +669,43 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.1" data-track-label="/guidance/poultry-health-scheme-how-to-register" data-track-options="{"dimension28":"2","dimension29":"Poultry Health Scheme: how to register"}" class="gem-c-document-list__item-title  " href="/guidance/poultry-health-scheme-how-to-register">Poultry Health Scheme: how to register</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.1" data-track-label="/guidance/poultry-health-scheme-how-to-register" data-track-options="{"dimension28":"2","dimension29":"Poultry Health Scheme: how to register"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/poultry-health-scheme-how-to-register">Poultry Health Scheme: how to register</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2018-07-06T08:34:59+01:00">
-                     6 July 2018
+                  <time datetime="2019-04-17T17:09:31+01:00">
+                    17 April 2019
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.2" data-track-label="/government/publications/poultry-health-scheme-list-of-members" data-track-options="{"dimension28":"2","dimension29":"Poultry Health Scheme: list of members"}" class="gem-c-document-list__item-title  " href="/government/publications/poultry-health-scheme-list-of-members">Poultry Health Scheme: list of members</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.2" data-track-label="/government/publications/poultry-health-scheme-list-of-members" data-track-options="{"dimension28":"2","dimension29":"Poultry Health Scheme: list of members"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/poultry-health-scheme-list-of-members">Poultry Health Scheme: list of members</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-04-01T14:24:51+01:00">
-                     1 April 2019
+                  <time datetime="2020-03-20T14:41:46+00:00">
+                    20 March 2020
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
               </li>
           </ul>
+
+
       </li>
     </ol>
 
@@ -566,8 +720,9 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.1" data-track-label="/guidance/bringing-non-specified-animal-pathogens-or-carriers-into-the-uk" data-track-options="{"dimension28":"1","dimension29":"Bringing non-specified animal pathogens or carriers into the UK"}" class="gem-c-document-list__item-title  " href="/guidance/bringing-non-specified-animal-pathogens-or-carriers-into-the-uk">Bringing non-specified animal pathogens or carriers into the UK</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.1" data-track-label="/guidance/bringing-non-specified-animal-pathogens-or-carriers-into-the-uk" data-track-options="{"dimension28":"1","dimension29":"Bringing non-specified animal pathogens or carriers into the UK"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/bringing-non-specified-animal-pathogens-or-carriers-into-the-uk">Bringing non-specified animal pathogens or carriers into the UK</a>
 
 
 
@@ -581,6 +736,8 @@
                   Guidance
               </li>
           </ul>
+
+
       </li>
     </ol>
 
@@ -595,8 +752,9 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.1" data-track-label="/government/publications/bovine-and-boar-semen-collection-and-breeding-licence-application" data-track-options="{"dimension28":"1","dimension29":"Bovine and boar semen collection and breeding: licence application"}" class="gem-c-document-list__item-title  " href="/government/publications/bovine-and-boar-semen-collection-and-breeding-licence-application">Bovine and boar semen collection and breeding: licence application</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.1" data-track-label="/government/publications/bovine-and-boar-semen-collection-and-breeding-licence-application" data-track-options="{"dimension28":"1","dimension29":"Bovine and boar semen collection and breeding: licence application"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/bovine-and-boar-semen-collection-and-breeding-licence-application">Bovine and boar semen collection and breeding: licence application</a>
 
 
 
@@ -610,6 +768,8 @@
                   Form
               </li>
           </ul>
+
+
       </li>
     </ol>
 
@@ -624,8 +784,9 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.1" data-track-label="/guidance/farm-animal-welfare-during-transportation" data-track-options="{"dimension28":"8","dimension29":"Live transport: welfare regulations"}" class="gem-c-document-list__item-title  " href="/guidance/farm-animal-welfare-during-transportation">Live transport: welfare regulations</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.1" data-track-label="/guidance/farm-animal-welfare-during-transportation" data-track-options="{"dimension28":"8","dimension29":"Live transport: welfare regulations"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/farm-animal-welfare-during-transportation">Live transport: welfare regulations</a>
 
 
 
@@ -639,9 +800,12 @@
                   Guidance
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.2" data-track-label="/government/publications/contingency-plan-template-for-type-2-transporters" data-track-options="{"dimension28":"8","dimension29":"Type 2 animal transporters: contingency plan template"}" class="gem-c-document-list__item-title  " href="/government/publications/contingency-plan-template-for-type-2-transporters">Type 2 animal transporters: contingency plan template</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.2" data-track-label="/government/publications/contingency-plan-template-for-type-2-transporters" data-track-options="{"dimension28":"8","dimension29":"Type 2 animal transporters: contingency plan template"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/contingency-plan-template-for-type-2-transporters">Type 2 animal transporters: contingency plan template</a>
 
 
 
@@ -655,9 +819,12 @@
                   Form
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.3" data-track-label="/government/publications/journey-log" data-track-options="{"dimension28":"8","dimension29":"Journey logs: animal exports"}" class="gem-c-document-list__item-title  " href="/government/publications/journey-log">Journey logs: animal exports</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.3" data-track-label="/government/publications/journey-log" data-track-options="{"dimension28":"8","dimension29":"Journey logs: animal exports"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/journey-log">Journey logs: animal exports</a>
 
 
 
@@ -671,25 +838,31 @@
                   Form
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.4" data-track-label="/government/publications/application-for-a-united-kingdom-animal-transporter-authorisation-for-type-1-authorisations-valid-for-journeys-over-65km-and-up-to-8-hours" data-track-options="{"dimension28":"8","dimension29":"UK animal transporter: application for type 1 authorisation"}" class="gem-c-document-list__item-title  " href="/government/publications/application-for-a-united-kingdom-animal-transporter-authorisation-for-type-1-authorisations-valid-for-journeys-over-65km-and-up-to-8-hours">UK animal transporter: application for type 1 authorisation</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.4" data-track-label="/government/publications/application-for-a-united-kingdom-animal-transporter-authorisation-for-type-1-authorisations-valid-for-journeys-over-65km-and-up-to-8-hours" data-track-options="{"dimension28":"8","dimension29":"UK animal transporter: application for type 1 authorisation"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/application-for-a-united-kingdom-animal-transporter-authorisation-for-type-1-authorisations-valid-for-journeys-over-65km-and-up-to-8-hours">UK animal transporter: application for type 1 authorisation</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-01-08T11:45:22+00:00">
-                     8 January 2019
+                  <time datetime="2020-01-16T12:11:06+00:00">
+                    16 January 2020
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Form
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.5" data-track-label="/government/publications/application-for-a-united-kingdom-animal-transporter-authorisation-for-type-2-authorisations-valid-for-all-journeys-including-over-8-hours" data-track-options="{"dimension28":"8","dimension29":"UK animal transporter: application for type 2 authorisation"}" class="gem-c-document-list__item-title  " href="/government/publications/application-for-a-united-kingdom-animal-transporter-authorisation-for-type-2-authorisations-valid-for-all-journeys-including-over-8-hours">UK animal transporter: application for type 2 authorisation</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.5" data-track-label="/government/publications/application-for-a-united-kingdom-animal-transporter-authorisation-for-type-2-authorisations-valid-for-all-journeys-including-over-8-hours" data-track-options="{"dimension28":"8","dimension29":"UK animal transporter: application for type 2 authorisation"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/application-for-a-united-kingdom-animal-transporter-authorisation-for-type-2-authorisations-valid-for-all-journeys-including-over-8-hours">UK animal transporter: application for type 2 authorisation</a>
 
 
 
@@ -703,9 +876,12 @@
                   Form
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.6" data-track-label="/government/publications/welfare-of-animals-transport-order-2006-application-for-inspection" data-track-options="{"dimension28":"8","dimension29":"Welfare of Animals (Transport) Order 2006: inspection application"}" class="gem-c-document-list__item-title  " href="/government/publications/welfare-of-animals-transport-order-2006-application-for-inspection">Welfare of Animals (Transport) Order 2006: inspection application</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.6" data-track-label="/government/publications/welfare-of-animals-transport-order-2006-application-for-inspection" data-track-options="{"dimension28":"8","dimension29":"Welfare of Animals (Transport) Order 2006: inspection application"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/welfare-of-animals-transport-order-2006-application-for-inspection">Welfare of Animals (Transport) Order 2006: inspection application</a>
 
 
 
@@ -719,9 +895,12 @@
                   Form
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.7" data-track-label="/government/publications/united-kingdom-animal-transport-certificate-and-contingency-plan-template-for-a-specific-journey" data-track-options="{"dimension28":"8","dimension29":"UK animal transport certificate and contingency plan for specific journey"}" class="gem-c-document-list__item-title  " href="/government/publications/united-kingdom-animal-transport-certificate-and-contingency-plan-template-for-a-specific-journey">UK animal transport certificate and contingency plan for specific journey</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.7" data-track-label="/government/publications/united-kingdom-animal-transport-certificate-and-contingency-plan-template-for-a-specific-journey" data-track-options="{"dimension28":"8","dimension29":"UK animal transport certificate and contingency plan for specific journey"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/united-kingdom-animal-transport-certificate-and-contingency-plan-template-for-a-specific-journey">UK animal transport certificate and contingency plan for specific journey</a>
 
 
 
@@ -735,9 +914,12 @@
                   Form
               </li>
           </ul>
+
+
       </li>
-      <li class="gem-c-document-list__item ">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.8" data-track-label="/government/publications/animal-transport-contingency-plan-template-for-specific-journey" data-track-options="{"dimension28":"8","dimension29":"Animal transport: contingency plan template for specific journey"}" class="gem-c-document-list__item-title  " href="/government/publications/animal-transport-contingency-plan-template-for-specific-journey">Animal transport: contingency plan template for specific journey</a>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.8" data-track-label="/government/publications/animal-transport-contingency-plan-template-for-specific-journey" data-track-options="{"dimension28":"8","dimension29":"Animal transport: contingency plan template for specific journey"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/animal-transport-contingency-plan-template-for-specific-journey">Animal transport: contingency plan template for specific journey</a>
 
 
 
@@ -751,6 +933,59 @@
                   Form
               </li>
           </ul>
+
+
+      </li>
+    </ol>
+
+  </div>
+  <h3 class="group-title" id="importing-and-exporting-from-1-january-2021">Importing and exporting from 1 January 2021</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
+      <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+        <ol class="gem-c-document-list">
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="13.1" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" data-track-options="{"dimension28":"2","dimension29":"Importing animals, animal products and high-risk food and feed not of animal origin from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">Importing animals, animal products and high-risk food and feed not of animal origin from 1 January 2021</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2019-12-13T14:35:40+00:00">
+                    13 December 2019
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="13.2" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"2","dimension29":"Exporting animals and animal products to the EU from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals and animal products to the EU from 1 January 2021</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2019-11-04T16:37:59+00:00">
+                     4 November 2019
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+
+
       </li>
     </ol>
 
@@ -758,31 +993,35 @@
 
       </div>
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 September 2014
-    <br></br>Last updated 21 February 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 23 March 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-03-23T15:15:30.000+00:00">23 March 2020</time>
+              <p class="app-c-published-dates__change-note">Added coronavirus statement on sending applications by email.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-02-21T15:45:22.000+00:00">21 February 2019</time>
-              Added guidance on importing and exporting after the UK leaves the EU
+              <p class="app-c-published-dates__change-note">Added guidance on importing and exporting after the UK leaves the EU</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2015-12-16T13:01:12.000+00:00">16 December 2015</time>
-              Removed message on flooding at Carlisle
+              <p class="app-c-published-dates__change-note">Removed message on flooding at Carlisle</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2015-10-01T10:16:50.000+01:00">1 October 2015</time>
-              Added link to new guidance on importing non-native animals
+              <p class="app-c-published-dates__change-note">Added link to new guidance on importing non-native animals</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2015-03-24T17:36:42.000+00:00">24 March 2015</time>
-              Added links to new guides on general imports licences and authorisations, and topical issues.
+              <p class="app-c-published-dates__change-note">Added links to new guides on general imports licences and authorisations, and topical issues.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2014-09-12T00:00:00.000+01:00">12 September 2014</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -792,7 +1031,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -804,11 +1043,43 @@
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-1e3ef716" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1e3ef716" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries" data-track-options="{"dimension28":"5","dimension29":"Importing live animals or animal products from non-EU countries"}" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries">Importing live animals or animal products from non-EU countries</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/farm-animal-welfare-during-transportation" data-track-options="{"dimension28":"5","dimension29":"Live transport: welfare regulations"}" href="/guidance/farm-animal-welfare-during-transportation">Live transport: welfare regulations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/export-live-animals-special-rules" data-track-options="{"dimension28":"5","dimension29":"Export live animals"}" href="/guidance/export-live-animals-special-rules">Export live animals</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations" data-track-options="{"dimension28":"5","dimension29":"Importing live animals or animal products from non-EU countries: general licences and authorisations"}" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations">Importing live animals or animal products from non-EU countries: general licences and authorisations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" data-track-options="{"dimension28":"5","dimension29":"Importing animals, animal products and high-risk food and feed not of animal origin from 1 January 2021"}" href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal">Importing animals, animal products and high-risk food and feed not of animal origin from 1 January 2021</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
 
 
 </div>
@@ -818,8 +1089,8 @@
 </div>
 
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -829,9 +1100,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-34421bee" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f7d18a87" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-34421bee" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-f7d18a87" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
