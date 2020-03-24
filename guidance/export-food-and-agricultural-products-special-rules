@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Check if you need a certificate to export food, drink and agricultural products, and what you'll need to do in a no-deal Brexit.</p>
+  <p class="gem-c-lead-paragraph">Check if you need a certificate to export food, drink and agricultural products.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 November 2016
-    <br></br>Last updated 23 August 2019
+    <br></br>Last updated 24 March 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,27 +62,23 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#prepare-for-brexit" data-track-options="{"dimension29":"Prepare for Brexit"}" href="#prepare-for-brexit">Prepare for Brexit</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#processed-foods" data-track-options="{"dimension29":"Processed food and drinks: current rules"}" href="#processed-foods">Processed food and drinks: current rules</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#processed-foods" data-track-options="{"dimension29":"Processed food and drinks: current rules"}" href="#processed-foods">Processed food and drinks: current rules</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#meat-dairy-animal-products" data-track-options="{"dimension29":"Meat, fish, dairy and other animal products: current rules"}" href="#meat-dairy-animal-products">Meat, fish, dairy and other animal products: current rules</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#meat-dairy-animal-products" data-track-options="{"dimension29":"Meat, fish, dairy and other animal products: current rules"}" href="#meat-dairy-animal-products">Meat, fish, dairy and other animal products: current rules</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#plants" data-track-options="{"dimension29":"Vegetables, fruit and other plants used as food: current rules"}" href="#plants">Vegetables, fruit and other plants used as food: current rules</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#plants" data-track-options="{"dimension29":"Vegetables, fruit and other plants used as food: current rules"}" href="#plants">Vegetables, fruit and other plants used as food: current rules</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#grain" data-track-options="{"dimension29":"Grain: current rules"}" href="#grain">Grain: current rules</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#grain" data-track-options="{"dimension29":"Grain"}" href="#grain">Grain</a>
-
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#sugar" data-track-options="{"dimension29":"Sugar and rice: current rules"}" href="#sugar">Sugar and rice: current rules</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#sugar" data-track-options="{"dimension29":"Sugar and rice: current rules"}" href="#sugar">Sugar and rice: current rules</a>
 
         </li>
     </ol>
@@ -91,54 +88,39 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<div class="call-to-action">
-<h2 id="prepare-for-brexit">Prepare for Brexit</h2>
-<p>The rules for moving food, drink and animal products will change if there’s a no-deal Brexit. Get ready if you’re:</p>
-
-<ul>
-  <li><a href="https://www.gov.uk/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">exporting animal products</a></li>
-  <li><a href="https://www.gov.uk/guidance/the-food-and-drink-sector-and-preparing-for-eu-exit">in the food and drink sector</a></li>
-  <li><a href="https://www.gov.uk/guidance/the-farming-sector-and-preparing-for-eu-exit">in farming</a></li>
-</ul>
-</div>
-
 <p>You may need a certificate or to follow special rules to export:</p>
 
 <ul>
   <li>
-<a href="#processed-foods">processed food and drinks</a>, including flour and spices</li>
+<a href="#processed-foods" class="govuk-link">processed food and drinks</a>, including flour and spices</li>
   <li>
-<a href="#meat-dairy-animal-products">meat, fish, dairy and other animal products</a> like honey and gelatine</li>
-  <li><a href="#plants">vegetables, fruit and other plants used as food</a></li>
+<a href="#meat-dairy-animal-products" class="govuk-link">meat, fish, dairy and other animal products</a> like honey and gelatine</li>
+  <li><a href="#plants" class="govuk-link">vegetables, fruit and other plants used as food</a></li>
   <li>
-<a href="#grain">grain</a> (outside the <abbr title="European Union">EU</abbr> only)</li>
+<a href="#grain" class="govuk-link">grain</a> (outside the <abbr title="European Union">EU</abbr> only)</li>
   <li>
-<a href="#sugar">sugar and rice</a> (outside the <abbr title="European Union">EU</abbr> only)</li>
+<a href="#sugar" class="govuk-link">sugar and rice</a> (outside the <abbr title="European Union">EU</abbr> only)</li>
 </ul>
 
-<p>You can check each country’s rules by talking to your importer or getting help <a href="https://www.gov.uk/government/collections/exporting-country-guides">researching your export market</a>.</p>
+<p>You can check each country’s rules by talking to your importer or getting help <a href="https://www.gov.uk/government/collections/exporting-country-guides" class="govuk-link">researching your export market</a>.</p>
 
-<p>There’s a ban on most food exports to Russia. Contact the Animal and Plant Health Agency (<abbr title="Animal and Plant Health Agency">APHA</abbr>) <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle">Centre for International Trade Carlisle</a> for details.</p>
+<p>There’s a ban on most food exports to Russia. Contact the Animal and Plant Health Agency (<abbr title="Animal and Plant Health Agency">APHA</abbr>) <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle" class="govuk-link">Centre for International Trade Carlisle</a> for details.</p>
 
 <h2 id="processed-foods">Processed food and drinks: current rules</h2>
 
-<p>Within the <a href="https://www.gov.uk/eu-eea"><abbr title="European Union">EU</abbr></a>, you don’t need a certificate or to follow special rules to move processed foods or drinks.</p>
+<p>Within the <a href="https://www.gov.uk/eu-eea" class="govuk-link"><abbr title="European Union">EU</abbr></a>, you don’t need a certificate or to follow special rules to move processed foods or drinks.</p>
 
 <p>Outside the <abbr title="European Union">EU</abbr>, check with the food authority in the country you’re exporting to. They’ll tell you if you need ‘certificates of free sale’ (and which type), or any other types of export certification.</p>
 
-<p>If you export any soft drinks with added sugar, you may need to register for the <a href="https://www.gov.uk/guidance/soft-drinks-industry-levy">Soft Drinks Industry Levy</a>. You can claim a credit for any exported drinks you pay the levy on.</p>
+<p>If you export any soft drinks with added sugar, you may need to register for the <a href="https://www.gov.uk/guidance/soft-drinks-industry-levy" class="govuk-link">Soft Drinks Industry Levy</a>. You can claim a credit for any exported drinks you pay the levy on.</p>
 
-<p>If your food or drink contains animal products, also check if you need an <a href="#meat-dairy-animal-products-outside-EU">export health certificate</a>. This is only required in special cases.</p>
+<p>If your food or drink contains animal products, also check if you need an <a href="#meat-dairy-animal-products-outside-EU" class="govuk-link">export health certificate</a>. This is only required in special cases.</p>
 
-<p>There’s a ban on exporting <a href="https://www.gov.uk/guidance/export-luxury-goods-to-north-korea-or-syria-special-rules">caviar, caviar substitutes, truffles and goods containing truffles to North Korea</a>.</p>
+<p>There’s a ban on exporting <a href="https://www.gov.uk/guidance/export-luxury-goods-to-north-korea-or-syria-special-rules" class="govuk-link">caviar, caviar substitutes, truffles and goods containing truffles to North Korea</a>.</p>
 
 <h3 id="apply-for-a-certificate-of-free-sale">Apply for a certificate of free sale</h3>
 
-<p>Save a copy of the <span id="attachment_3613365" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/758817/CoFS_app_form_human_use_dcc1_v10.0_Nov_18.doc">application form</a>
-  (<span class="type">MS Word Document</span>, <span class="file-size">128KB</span>)
-</span>
- to your computer. Fill in all relevant parts, then email it to <a href="mailto:trader@rpa.gov.uk">trader@rpa.gov.uk</a></p>
+<p>Save a copy of the <span id="attachment_4082325" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/758817/CoFS_app_form_human_use_dcc1_v10.0_Nov_18.doc" class="govuk-link">application form</a> (<span class="type">MS Word Document</span>, <span class="file-size">128KB</span>)</span> to your computer. Fill in all relevant parts, then email it to <a href="mailto:trader@rpa.gov.uk" class="govuk-link">trader@rpa.gov.uk</a></p>
 
 <p>Valid forms are processed within 5 working days of receiving them. You should allow 10 working days from sending your application to receiving your certificate(s) back.</p>
 
@@ -151,13 +133,13 @@
 <p>Rural Payments Agency<br></br>
 Telephone:  03300 416 500<br></br>
 Monday to Friday: 8:30am to 5pm<br></br>
-<a href="https://www.gov.uk/call-charges">Find out about call charges</a>.</p>
+<a href="https://www.gov.uk/call-charges" class="govuk-link">Find out about call charges</a>.</p>
 
 <h3 id="getting-another-type-of-export-certification">Getting another type of export certification</h3>
 
 <p>Some countries require another type of export certificate for certain products.</p>
 
-<p>If your product was made in the UK, you check with <a rel="external" href="https://www.food.gov.uk/enforcement/find-food-safety-team">the food safety team</a> in the local authority where your product was manufactured.</p>
+<p>If your product was made in the UK, you check with <a rel="external" href="https://www.food.gov.uk/contact/consumers/find-details/contact-a-local-food-safety-team" class="govuk-link">the food safety team</a> in the local authority where your product was manufactured.</p>
 
 <h2 id="meat-dairy-animal-products">Meat, fish, dairy and other animal products: current rules</h2>
 
@@ -170,10 +152,10 @@ Monday to Friday: 8:30am to 5pm<br></br>
   <li>gelatine, lard or blood</li>
 </ul>
 
-<p>What you need to do depends on if you’re exporting <a href="#meat-dairy-animal-products-within-EU">within the <abbr title="European Union">EU</abbr></a> or <a href="#meat-dairy-animal-products-outside-EU">outside the <abbr title="European Union">EU</abbr></a>.</p>
+<p>What you need to do depends on if you’re exporting <a href="#meat-dairy-animal-products-within-EU" class="govuk-link">within the <abbr title="European Union">EU</abbr></a> or <a href="#meat-dairy-animal-products-outside-EU" class="govuk-link">outside the <abbr title="European Union">EU</abbr></a>.</p>
 
 <div class="call-to-action">
-<p>There are different rules for animal products that will be used as <a href="https://www.gov.uk/guidance/export-food-for-animals-special-rules">food for animals</a>.</p>
+<p>There are different rules for animal products that will be used as <a href="https://www.gov.uk/guidance/export-food-for-animals-special-rules" class="govuk-link">food for animals</a>.</p>
 </div>
 
 <h3 id="meat-dairy-animal-products-within-EU">Within the <abbr title="European Union">EU</abbr>
@@ -198,19 +180,19 @@ Monday to Friday: 8:30am to 5pm<br></br>
 
 <div class="call-to-action">
 <p>There are some types of products you cannot export and some cases where you don’t need a certificate. 
-If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you need, contact <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening"><abbr title="Animal and Plant Health Agency">APHA</abbr></a>.</p>
+If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you need, contact <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening" class="govuk-link"><abbr title="Animal and Plant Health Agency">APHA</abbr></a>.</p>
 </div>
 
 <p>The <abbr title="Export Health Certificate">EHC</abbr> is an official document that confirms your export meets the health requirements of the destination country.</p>
 
 <p>An official vet or inspector will check that your export meets the health requirements of the destination country. They’ll complete and sign the certificate, and give it to you.</p>
 
-<p>Find out <a href="https://www.gov.uk/guidance/get-an-export-health-certificate">how to apply for an <abbr title="Export Health Certificate">EHC</abbr> and download the forms</a>.</p>
+<p>Find out <a href="https://www.gov.uk/guidance/get-an-export-health-certificate" class="govuk-link">how to apply for an <abbr title="Export Health Certificate">EHC</abbr> and download the forms</a>.</p>
 
 <h3 id="use-the-most-up-to-date-ehc">Use the most up to date <abbr title="Export Health Certificate">EHC</abbr>
 </h3>
 
-<p>EHCs are sometimes updated when export agreements are changed so make sure you are using the latest version of a certificate. The <a href="https://www.gov.uk/export-health-certificates"><abbr title="Export Health Certificate">EHC</abbr> form finder</a> will always have the latest version.</p>
+<p>EHCs are sometimes updated when export agreements are changed so make sure you are using the latest version of a certificate. The <a href="https://www.gov.uk/export-health-certificates" class="govuk-link"><abbr title="Export Health Certificate">EHC</abbr> form finder</a> will always have the latest version.</p>
 
 <p>Out of date forms will be rejected and cause delays to your exports.</p>
 
@@ -218,24 +200,12 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
 
 <h2 id="plants">Vegetables, fruit and other plants used as food: current rules</h2>
 
-<p>What you need to do depends on if you’re exporting <a href="#plants-within-EU">within the <abbr title="European Union">EU</abbr></a> or <a href="#plants-outside-EU">outside the <abbr title="European Union">EU</abbr></a>.</p>
+<p>What you need to do depends on if you’re exporting <a href="#plants-within-EU" class="govuk-link">within the <abbr title="European Union">EU</abbr></a> or <a href="#plants-outside-EU" class="govuk-link">outside the <abbr title="European Union">EU</abbr></a>.</p>
 
 <h3 id="plants-within-EU">Within the <abbr title="European Union">EU</abbr>
 </h3>
 
-<p>Check if your <span id="attachment_3613366" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571354/plant-passports-fruit-plants.pdf">fruit</a>
-  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">97.2KB</span>, <span class="page-length">1 page</span>)
-</span>
- or <span id="attachment_3613367" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571355/plant-passports-veg-plants.pdf">vegetables</a>
-  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">157KB</span>, <span class="page-length">1 page</span>)
-</span>
- need a supplier document.</p>
-
-<p>If you need a supplier document, contact the <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices">Plant Health Office</a> to apply.</p>
-
-<p>If you don’t need one, you don’t have to do anything to move plants used as food within the <abbr title="European Union">EU</abbr>. But you always have to comply with the normal standards to <a href="https://www.gov.uk/guidance/comply-with-marketing-standards-for-fresh-fruit-and-vegetables">sell fresh fruit and vegetables</a>.</p>
+<p>You always have to comply with the normal standards to <a href="https://www.gov.uk/guidance/comply-with-marketing-standards-for-fresh-fruit-and-vegetables" class="govuk-link">sell fresh fruit and vegetables</a>.</p>
 
 <h3 id="plants-outside-EU">Outside the <abbr title="European Union">EU</abbr>
 </h3>
@@ -244,82 +214,70 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
 
 <p>Check with the country that you’re exporting to if you need a certificate.</p>
 
-<p>There are different rules for <a href="#grain">grain</a>.</p>
+<p>There are different rules for <a href="#grain" class="govuk-link">grain</a>.</p>
 
 <div class="call-to-action">
-<p>You need to apply a different way to export plants from <a rel="external" href="https://www.sasa.gov.uk/plant-health/plant-health-licensing">Scotland</a> and <a rel="external" href="https://www.daera-ni.gov.uk/services/daera-online-services">Northern Ireland</a>.</p>
+<p>You need to apply a different way to export plants from <a rel="external" href="https://www.sasa.gov.uk/plant-health/plant-health-licensing" class="govuk-link">Scotland</a> and <a rel="external" href="https://www.daera-ni.gov.uk/services/daera-online-services" class="govuk-link">Northern Ireland</a>.</p>
 </div>
 
 <h3 id="apply-for-a-plant-health-certificate">Apply for a plant health certificate</h3>
 
-<p>You usually must apply for your plants to be tested before you get a plant health certificate.</p>
+<p>You usually must apply for your plants to be inspected or tested before you get a plant health certificate.</p>
 
 <div class="call-to-action">
-<p>If you’re a member of the <a href="https://www.gov.uk/guidance/plant-health-propagation-scheme">Plant Health Propagation Scheme</a> or the <a href="https://www.gov.uk/guidance/the-seed-potato-classification-scheme">Seed Potato Classification Scheme</a>, you may not need a certificate. Contact <abbr title="Animal and Plant Health Agency">APHA</abbr> to find out.</p>
+<p>If you’re a member of the <a href="https://www.gov.uk/guidance/fruit-propagation-certification-scheme" class="govuk-link">Fruit Propagation Certification Scheme</a> or the <a href="https://www.gov.uk/guidance/the-seed-potato-classification-scheme" class="govuk-link">Seed Potato Classification Scheme</a>, you may not need a certificate. Contact <abbr title="Animal and Plant Health Agency">APHA</abbr> to find out.</p>
 </div>
 
 <p>Apply by filling in the appropriate form for:</p>
 
 <ul>
-  <li>
-    <p><span id="attachment_3613368" class="attachment-inline">
-<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/781228/form-phe60_potatoes.pdf">potatoes</a>
-(<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">185KB</span>, <span class="page-length">3 pages</span>)
-</span></p>
-  </li>
-  <li>
-    <p>other <span id="attachment_3613369" class="attachment-inline">
-<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/636074/form-phe36.pdf">plants, including fruit and vegetables</a>
-(<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">83.2KB</span>, <span class="page-length">2 pages</span>)
-</span></p>
-  </li>
-  <li>
-    <p>plants from <span id="attachment_3613370" class="attachment-inline">
-<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571363/form-hh87.pdf">outside the <abbr title="European Union">EU</abbr> that were stored, repacked or split up</a>
-(<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">681KB</span>, <span class="page-length">2 pages</span>)
-</span></p>
-  </li>
+  <li><span id="attachment_4082328" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/781228/form-phe60_potatoes.pdf" class="govuk-link">potatoes</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">185KB</span>, <span class="page-length">3 pages</span>)</span></li>
+  <li>other <span id="attachment_4082329" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/636074/form-phe36.pdf" class="govuk-link">plants, including fruit and vegetables</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">83.2KB</span>, <span class="page-length">2 pages</span>)</span>
+</li>
+  <li>plants from <span id="attachment_4082330" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571363/form-hh87.pdf" class="govuk-link">outside the <abbr title="European Union">EU</abbr> that were stored, repacked or split up</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">681KB</span>, <span class="page-length">2 pages</span>)</span>
+</li>
 </ul>
 
-<p>Return the completed form to <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate">your local <abbr title="Animal and Plant Health Agency">APHA</abbr> office</a>.</p>
+<p>Return the completed form to <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate" class="govuk-link">your local <abbr title="Animal and Plant Health Agency">APHA</abbr> office</a>.</p>
 
 <p>If your plants pass testing, you’ll get your certificate in 7 days.</p>
 
-<p>You can contact <abbr title="Animal and Plant Health Agency">APHA</abbr> to check whether you:</p>
+<p>You can contact <abbr title="Animal and Plant Health Agency">APHA</abbr> to check whether you need a soil inspection for the plants you’re exporting - use the <a href="https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling" class="govuk-link">soil inspection form</a> if you do.</p>
 
-<ul>
-  <li>need a soil inspection for the plants you’re exporting - use the <a href="https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling">soil inspection form</a> if you do</li>
-  <li>need to wash soil from the roots of the plants you export - the USA, New Zealand and some other countries require this</li>
-</ul>
+<p>You can also check the import requirements for the country you plan to export to. You may need to wash soil from the roots of the plants you export - the USA, New Zealand and some other countries require this.</p>
 
 <h3 id="fees">Fees</h3>
 
-<p>The fees for export inspections is £70.76, with a minimum fee of £141.52.</p>
+<p>The fees for export inspections change on 1 October 2019.</p>
 
-<p>Fees are charged for every quarter of an hour or part of that time that an inspection and associated activities takes, including the time it takes inspectors to travel to your site.</p>
+<p>The fees are £63.80, with a minimum fee of £127.60.</p>
 
-<p>The fee to issue a phytosanitary certificate is £22.59 per certificate.</p>
+<p>The fees for the audit of a grain inspection are £26.40, with a minimum fee of £52.80.</p>
 
-<p>The fee for a laboratory examination is £30.76 per sample tested.</p>
+<p>The fees are payable for each 15 minutes (or part thereof) spent in carrying out the inspection and any associated activities. These associated activities include the time it takes inspectors to travel to your site and any administration relevant to that inspection, subject to the minimum fees.</p>
 
-<h3 id="reduced-fees-for-small-businesses">Reduced fees for small businesses</h3>
+<p>An additional fee of £15.76 is charged if you submit an application for an export in paper form rather than online.</p>
 
-<p>You can <span id="attachment_3613371" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/781230/form-phe3__application-for-export-services.pdf">apply for a 50% discount</a>
-  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">219KB</span>, <span class="page-length">1 page</span>)
-</span>
- for the first £500 of <abbr title="Animal and Plant Health Agency">APHA</abbr> services in a financial year if either of the following apply:</p>
+<p>Issue of a phytosanitary certificate fee is £25.52 per certificate.</p>
+
+<p>Laboratory examination fee is £33.56 per sample tested.</p>
+
+<p>Amendment of a certificate at the request of an exporter is £15.76.</p>
+
+<h3 id="reduced-fees">Reduced fees</h3>
+
+<p>You can <span id="attachment_4082331" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/835535/form-phe3.pdf" class="govuk-link">apply for a 50% discount</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">231KB</span>, <span class="page-length">1 page</span>)</span> for the first £1500 of <abbr title="Animal and Plant Health Agency">APHA</abbr> services in a financial year if either of the following apply:</p>
 
 <ul>
   <li>you’re not registered for VAT</li>
   <li>your certified exports were worth less than £5,000 in the last financial year</li>
 </ul>
 
-<h2 id="grain">Grain</h2>
+<h2 id="grain">Grain: current rules</h2>
 
 <p>The table lists countries known to require a plant health certificate and whether an import permit or any further testing is required.</p>
 
-<p>Additional countries where there has been no recent trade in grain may also require a certificate and you should check with <abbr title="Animal and Plant Health Agency">APHA</abbr> <a href="mailto:phastplantproducts@apha.gsi.gov.uk">phastplantproducts@apha.gsi.gov.uk</a> before sending consignments.</p>
+<p>Additional countries where there has been no recent trade in grain may also require a certificate and you should check with <abbr title="Animal and Plant Health Agency">APHA</abbr> <a href="mailto:phastplantproducts@apha.gov.uk" class="govuk-link">phastplantproducts@apha.gov.uk</a> before sending consignments.</p>
 
 <p>You do not need a plant health certificate to send grain to the <abbr title="European Union">EU</abbr>.</p>
 
@@ -492,11 +450,7 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
 
 <h3 id="plant-health-certificate-grain">Apply for a plant health certificate for grain</h3>
 
-<p>If a plant health certificate is required, you should complete the first 3 sections of the  <span id="attachment_3613372" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571372/form-hh93.pdf">plant health certificate application form</a>
-  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">193KB</span>, <span class="page-length">2 pages</span>)
-</span>
- and return to <abbr title="Animal and Plant Health Agency">APHA</abbr> <a href="mailto:phastplantproducts@apha.gsi.gov.uk">phastplantproducts@apha.gsi.gov.uk</a> at least 5 working days before loading to ship.</p>
+<p>If a plant health certificate is required, you should complete the first 3 sections of the  <span id="attachment_4082332" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571372/form-hh93.pdf" class="govuk-link">plant health certificate application form</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">193KB</span>, <span class="page-length">2 pages</span>)</span> and return to <abbr title="Animal and Plant Health Agency">APHA</abbr> <a href="mailto:phastplantproducts@apha.gov.uk" class="govuk-link">phastplantproducts@apha.gov.uk</a> at least 5 working days before loading to ship.</p>
 
 <p>If an import permit is also required, you should obtain this from the country you are exporting to and forward a copy to <abbr title="Animal and Plant Health Agency">APHA</abbr> with your application.</p>
 
@@ -504,17 +458,9 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
 
 <p>If specified grain pests are identified in the loaded grain, then you will have to arrange for the grain to be treated by a professional company.</p>
 
-<p>When all the grain has been inspected and loaded, you should complete the remaining sections of the  <span id="attachment_3613372" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571372/form-hh93.pdf">plant health certificate application form</a>
-  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">193KB</span>, <span class="page-length">2 pages</span>)
-</span>
- and return to <abbr title="Animal and Plant Health Agency">APHA</abbr> to issue the certificate.</p>
+<p>When all the grain has been inspected and loaded, you should complete the remaining sections of the  <span id="attachment_4082332" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571372/form-hh93.pdf" class="govuk-link">plant health certificate application form</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">193KB</span>, <span class="page-length">2 pages</span>)</span> and return to <abbr title="Animal and Plant Health Agency">APHA</abbr> to issue the certificate.</p>
 
-<p>More detailed guidance about phytosanitary certification of grain for export can be found in the  <span id="attachment_3613373" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/781223/guidance_notes_GSOP1.pdf">guidance notes GSOP1</a>
-  (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">944KB</span>, <span class="page-length">11 pages</span>)
-</span>
-.</p>
+<p>More detailed guidance about phytosanitary certification of grain for export can be found in the  <span id="attachment_4082333" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/781223/guidance_notes_GSOP1.pdf" class="govuk-link">guidance notes GSOP1</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">944KB</span>, <span class="page-length">11 pages</span>)</span>.</p>
 
 <h2 id="sugar">Sugar and rice: current rules</h2>
 
@@ -524,23 +470,15 @@ If you cannot find the <abbr title="Export Health Certificate">EHC</abbr> you ne
 
 <h3 id="apply-for-a-mandatory-export-licence">Apply for a mandatory export licence</h3>
 
-<p>You need to get a trader registration number from the <a href="#if-you-need-help">Rural Payments Agency</a> (<abbr title="Rural payments Agency">RPA</abbr>).</p>
+<p>You need to get a trader registration number from the <a href="#if-you-need-help" class="govuk-link">Rural Payments Agency</a> (<abbr title="Rural payments Agency">RPA</abbr>).</p>
 
 <p>Ask them if there is a security deposit to pay on your goods and how much it will be.</p>
 
-<p>Fill in the <span id="attachment_3613374" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571375/il2_Export_Licence_Application_Form__AGREX__v2.0.doc">mandatory export licence application form</a>
-  (<span class="type">MS Word Document</span>, <span class="file-size">359KB</span>)
-</span>
-.</p>
+<p>Fill in the <span id="attachment_4082334" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571375/il2_Export_Licence_Application_Form__AGREX__v2.0.doc" class="govuk-link">mandatory export licence application form</a> (<span class="type">MS Word Document</span>, <span class="file-size">359KB</span>)</span>.</p>
 
-<p>Your licence will be issued through the <a href="https://www.gov.uk/guidance/chief-trader-import-and-export-processing-system">CHIEF system</a>. You can also ask for a paper licence if the countries you’re trading with require this.</p>
+<p>Your licence will be issued through the <a href="https://www.gov.uk/guidance/chief-trader-import-and-export-processing-system" class="govuk-link">CHIEF system</a>. You can also ask for a paper licence if the countries you’re trading with require this.</p>
 
-<p>You can email your licence application to <abbr title="Rural payments Agency">RPA</abbr> or send it by fax or post. If you want to email it, you need to apply for approval. Complete and return a <span id="attachment_3613375" class="attachment-inline">
-  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/709980/il3_ver_4.0.doc">Licensing - Submission/Notification of emails (form il3)</a>
-  (<span class="type">MS Word Document</span>, <span class="file-size">330KB</span>)
-</span>
- before submitting your licence application.</p>
+<p>You can email your licence application to <abbr title="Rural payments Agency">RPA</abbr> or send it by fax or post. If you want to email it, you need to apply for approval. Complete and return a <span id="attachment_4082335" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874837/Licensing_-_Submission__Notification_of_emails__il3_v5.0_Mar_20_.pdf" class="govuk-link">Licensing - Submission/Notification of emails (form il3)</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">195KB</span>, <span class="page-length">1 page</span>)</span> before submitting your licence application.</p>
 
 <p>If you’d like to cancel or amend your application, you must do this before midday on the day you apply.</p>
 
@@ -563,52 +501,60 @@ Monday to Friday, 8:30am to 5pm</p>
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 November 2016
-    <br></br>Last updated 23 August 2019
+    <br></br>Last updated 24 March 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-03-24T12:37:29.000+00:00">24 March 2020</time>
+              <p class="app-c-published-dates__change-note">Minor updates to IL3 form.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-01T10:03:42.000+01:00">1 October 2019</time>
+              <p class="app-c-published-dates__change-note">Updated fees section due to 2019 regulations</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-23T14:47:44.000+01:00">23 August 2019</time>
-              Restructured the links to no-deal information into a call out box to increase visibility and made some minor stylistic changes.
+              <p class="app-c-published-dates__change-note">Restructured the links to no-deal information into a call out box to increase visibility and made some minor stylistic changes.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-25T09:38:52.000+00:00">25 March 2019</time>
-              Updated these publications with EU Exit information:
+              <p class="app-c-published-dates__change-note">Updated these publications with EU Exit information:
 Application for Export Services at Concessionary Rates
 Export of potatoes to non-ec countries Inspection application form / Consignment note
-Phytosanitary Certification of Grain for Export
+Phytosanitary Certification of Grain for Export</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-02-20T12:24:45.000+00:00">20 February 2019</time>
-              Added information for exporters about how to get an export health certificate if the UK leaves the EU without a deal.
+              <p class="app-c-published-dates__change-note">Added information for exporters about how to get an export health certificate if the UK leaves the EU without a deal.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-11-19T09:28:26.000+00:00">19 November 2018</time>
-              Grain information updated
+              <p class="app-c-published-dates__change-note">Grain information updated</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-11-05T17:36:37.000+00:00">5 November 2018</time>
-              EHC list updated
+              <p class="app-c-published-dates__change-note">EHC list updated</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-10-09T13:42:07.000+01:00">9 October 2018</time>
-              Export Health Certificate list updated
+              <p class="app-c-published-dates__change-note">Export Health Certificate list updated</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-07-06T08:38:34.000+01:00">6 July 2018</time>
-              EHC List updated
+              <p class="app-c-published-dates__change-note">EHC List updated</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-04-05T10:57:57.000+01:00">5 April 2018</time>
-              Updated inspection fees due to fee changes from 6 April 2018.
+              <p class="app-c-published-dates__change-note">Updated inspection fees due to fee changes from 6 April 2018.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-01-17T11:03:43.000+00:00">17 January 2018</time>
-              Added a link to the Soft Drinks Industry Levy guide and changed the title to include 'drink'. From January 2018, exporters of certain drinks with added sugar might have to pay a levy.
+              <p class="app-c-published-dates__change-note">Added a link to the Soft Drinks Industry Levy guide and changed the title to include 'drink'. From January 2018, exporters of certain drinks with added sugar might have to pay a levy.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2016-11-11T12:24:00.000+00:00">11 November 2016</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -633,24 +579,30 @@ Phytosanitary Certification of Grain for Export
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-7fe2f1dc" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-5ea0a74a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7fe2f1dc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-5ea0a74a" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"2","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/atp-rules-on-carrying-perishable-foodstuffs-in-road-vehicles" data-track-options="{"dimension28":"2","dimension29":"Transport perishable food in or out of the UK by road"}" href="/guidance/atp-rules-on-carrying-perishable-foodstuffs-in-road-vehicles">Transport perishable food in or out of the UK by road</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/starting-to-export" data-track-options="{"dimension28":"2","dimension29":"Exporting and doing business abroad"}" href="/starting-to-export">Exporting and doing business abroad</a></li>
 
   </ul>
@@ -658,9 +610,9 @@ Phytosanitary Certification of Grain for Export
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-7fe2f1dc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-5ea0a74a" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-7fe2f1dc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-5ea0a74a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -671,7 +623,22 @@ Phytosanitary Certification of Grain for Export
   </ul>
 </nav>
 
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-5ea0a74a" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-5ea0a74a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products" data-track-options="{"dimension28":"1","dimension29":"Guidance on importing and exporting live animals or animal products"}" href="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products">Guidance on importing and exporting live animals or animal products</a></li>
+
+  </ul>
+</nav>
+
   </div>
+
 
 
 </div>
@@ -692,9 +659,9 @@ Phytosanitary Certification of Grain for Export
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6015a226" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f46ff3eb" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6015a226" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-f46ff3eb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
