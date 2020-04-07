@@ -1,8 +1,6 @@
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="gem-c-title
-  
-  gem-c-title--margin-bottom-5">
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
     <p class="gem-c-title__context">
       Guidance
     </p>
@@ -10,26 +8,23 @@
     EU Settlement Scheme: apply for an administrative review
   </h1>
 </div>
-
   </div>
   
-  <div class="column-two-thirds">
+  <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How to apply for an administrative review under the EU Settlement Scheme.
-  </p>
+  <p class="gem-c-lead-paragraph">How to apply for an administrative review under the EU Settlement Scheme.</p>
 
   </div>
 </div>
 
-<div class="grid-row">
+<div class="govuk-grid-row">
   <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata" lang="en">
+    <div class="app-c-published-dates " lang="en">
     Published 15 November 2018
-    <br></br>Last updated 23 April 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 7 April 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -39,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
+                  <a class="govuk-link" href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
                 </span>
             </dd>
         </dl>
@@ -47,7 +42,7 @@
   </div>
 
     </div>
-    <div class="column-one-third">
+    <div class="govuk-grid-column-one-third">
     </div>
   </div>
 </div>
@@ -55,40 +50,59 @@
 
 
 
-<div class="grid-row">
-  <div class="column-two-thirds">
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
     
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
       <h2 class="gem-c-contents-list__title">Contents</h2>
 
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#how-to-apply" data-track-options="{"dimension29":"How to apply"}" href="#how-to-apply">How to apply</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#if-you-applied-to-the-eu-settlement-scheme" data-track-options="{"dimension29":"If you applied to the EU Settlement Scheme"}" href="#if-you-applied-to-the-eu-settlement-scheme">If you applied to the EU Settlement Scheme</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#sending-new-information-or-evidence" data-track-options="{"dimension29":"Sending new information or evidence"}" href="#sending-new-information-or-evidence">Sending new information or evidence</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#if-your-settled-or-pre-settled-status-was-cancelled-at-the-border" data-track-options="{"dimension29":"If your settled or pre-settled status was cancelled at the border"}" href="#if-your-settled-or-pre-settled-status-was-cancelled-at-the-border">If your settled or pre-settled status was cancelled at the border</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#get-a-decision" data-track-options="{"dimension29":"Get a decision"}" href="#get-a-decision">Get a decision</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#if-you-arrived-with-an-eu-settlement-scheme-family-permit-and-your-leave-was-cancelled-at-the-border" data-track-options="{"dimension29":"If you arrived with an EU Settlement Scheme family permit and your leave was cancelled at the border"}" href="#if-you-arrived-with-an-eu-settlement-scheme-family-permit-and-your-leave-was-cancelled-at-the-border">If you arrived with an EU Settlement Scheme family permit and your leave was cancelled at the border</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#withdraw-your-request" data-track-options="{"dimension29":"Withdraw your request"}" href="#withdraw-your-request">Withdraw your request</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#how-to-apply" data-track-options="{"dimension29":"How to apply"}" href="#how-to-apply">How to apply</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#contact-us" data-track-options="{"dimension29":"Contact us"}" href="#contact-us">Contact us</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#sending-new-information-or-evidence" data-track-options="{"dimension29":"Sending new information or evidence"}" href="#sending-new-information-or-evidence">Sending new information or evidence</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#get-a-decision" data-track-options="{"dimension29":"Get a decision"}" href="#get-a-decision">Get a decision</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#withdraw-your-request" data-track-options="{"dimension29":"Withdraw your request"}" href="#withdraw-your-request">Withdraw your request</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#contact-us" data-track-options="{"dimension29":"Contact us"}" href="#contact-us">Contact us</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>You’ll be told in your decision letter if you can apply for the decision on your application under the <a href="https://www.gov.uk/settled-status-eu-citizens-families">EU Settlement Scheme</a> to be reviewed. This is called an administrative review.</p>
+<h2 id="if-you-applied-to-the-eu-settlement-scheme">If you applied to the EU Settlement Scheme</h2>
+
+<p>You’ll be told in your decision letter if you can apply for the decision on your application under the <a href="https://www.gov.uk/settled-status-eu-citizens-families" class="govuk-link">EU Settlement Scheme</a> to be reviewed. This is called an administrative review.</p>
 
 <p>You’ll find your decision letter attached to the email we sent you following your application under the scheme.</p>
 
@@ -101,13 +115,39 @@
 
 <p>You can apply for an administrative review from inside or outside the UK.</p>
 
-<p>You can also make a new application under the EU Settlement Scheme at any point, for example if you want to move from pre-settled status to settled status. This application will be free.</p>
+<p>You can also make a new application under the EU Settlement Scheme at any point - for example, if you want to move from pre-settled status to settled status. This application will be free.</p>
+
+<h2 id="if-your-settled-or-pre-settled-status-was-cancelled-at-the-border">If your settled or pre-settled status was cancelled at the border</h2>
+
+<p>You’ll be told in the letter given to you at the border if you can apply for the decision to cancel your settled or pre-settled status to be reviewed.</p>
+
+<p>You can apply for an administrative review if your settled or pre-settled status was cancelled because:</p>
+
+<ul>
+  <li>there has been a change in your circumstances</li>
+  <li>you gave false information</li>
+</ul>
+
+<p>You can apply for an administrative review from inside or outside the UK.</p>
+
+<h2 id="if-you-arrived-with-an-eu-settlement-scheme-family-permit-and-your-leave-was-cancelled-at-the-border">If you arrived with an EU Settlement Scheme family permit and your leave was cancelled at the border</h2>
+
+<p>You’ll be told in the letter given to you at the border if you can apply for the decision to cancel your leave under the EU Settlement Scheme to be reviewed.</p>
+
+<p>You can apply for an administrative review if your leave was cancelled because:</p>
+
+<ul>
+  <li>there has been a change in your circumstances</li>
+  <li>you gave false information</li>
+</ul>
+
+<p>You can apply for an administrative review from inside or outside the UK.</p>
 
 <h2 id="how-to-apply">How to apply</h2>
 
 <p>You must make your application for administrative review within 28 days of the date on your decision email.</p>
 
-<p>You’ll need to complete the <a rel="external" href="https://visas-immigration.service.gov.uk/product/administrative-review">administrative review application form</a>.</p>
+<p>You’ll need to complete the <a rel="external" href="https://visas-immigration.service.gov.uk/product/administrative-review" class="govuk-link">administrative review application form</a>.</p>
 
 <p>You must use a separate form for each person applying for a review, whether they’re a child or an adult.</p>
 
@@ -136,7 +176,7 @@
 
 <h2 id="withdraw-your-request">Withdraw your request</h2>
 
-<p>To ask to withdraw your request for a review, please email <a href="mailto:admin.review.enquiries@homeoffice.gov.uk">admin.review.enquiries@homeoffice.gov.uk</a>. You must include:</p>
+<p>To ask to withdraw your request for a review, please email <a href="mailto:admin.review.enquiries@homeoffice.gov.uk" class="govuk-link">admin.review.enquiries@homeoffice.gov.uk</a>. You must include:</p>
 
 <ul>
   <li>‘EUSS’ followed by your Unique Application Number in the subject line</li>
@@ -147,33 +187,37 @@
 
 <h2 id="contact-us">Contact us</h2>
 
-<p>If you have problems using the administrative review form, please contact <a href="mailto:admin.review.enquiries@homeoffice.gov.uk">admin.review.enquiries@homeoffice.gov.uk</a>.</p>
+<p>If you have problems using the administrative review form, please contact <a href="mailto:admin.review.enquiries@homeoffice.gov.uk" class="govuk-link">admin.review.enquiries@homeoffice.gov.uk</a>.</p>
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 November 2018
-    <br></br>Last updated 23 April 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 7 April 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-04-07T16:49:34.000+01:00">7 April 2020</time>
+              <p class="app-c-published-dates__change-note">Added content on applying for an administrative review after leave under the EU Settlement Scheme, or settled or pre-settled status, was cancelled at the border.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-23T13:30:04.000+01:00">23 April 2019</time>
-              Updated admin review process.
+              <p class="app-c-published-dates__change-note">Updated admin review process.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-30T07:00:06.000+00:00">30 March 2019</time>
-              Updated to add information about applying for an administrative review from outside the UK
+              <p class="app-c-published-dates__change-note">Updated to add information about applying for an administrative review from outside the UK</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-01-18T12:23:46.000+00:00">18 January 2019</time>
-              Added information that applications for administrative review must be made from inside the UK
+              <p class="app-c-published-dates__change-note">Added information that applications for administrative review must be made from inside the UK</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-11-15T11:56:00.000+00:00">15 November 2018</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -183,7 +227,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -195,28 +239,51 @@
   </div>
   </div>
   
-<div class="column-one-third">
+<div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-435577bf" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-e06070c1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-435577bf" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e06070c1" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-435577bf" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/eu-settlement-scheme-evidence-of-relationship-to-an-eu-citizen" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: evidence of relationship to an EU citizen"}" href="/guidance/eu-settlement-scheme-evidence-of-relationship-to-an-eu-citizen">EU Settlement Scheme: evidence of relationship to an EU citizen</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/eu-settlement-scheme-public-test-phase-applicant-eligibility" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme public test phase: applicant eligibility"}" href="/guidance/eu-settlement-scheme-public-test-phase-applicant-eligibility">EU Settlement Scheme public test phase: applicant eligibility</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-id-document-scanner-locations" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: ID document scanner locations"}" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations">EU Settlement Scheme: ID document scanner locations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/eu-settlement-scheme-uk-tax-and-benefits-records-automated-check" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: UK tax and benefits records automated check"}" href="/guidance/eu-settlement-scheme-uk-tax-and-benefits-records-automated-check">EU Settlement Scheme: UK tax and benefits records automated check</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/eu-settlement-scheme-applying-from-outside-the-uk" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: applying from outside the UK"}" href="/guidance/eu-settlement-scheme-applying-from-outside-the-uk">EU Settlement Scheme: applying from outside the UK</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-e06070c1" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-e06070c1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
 
   </ul>
 </nav>
@@ -224,15 +291,16 @@
   </div>
 
 
-</div>
 
 </div>
 
 </div>
 
+</div>
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
         
   <div class="gem-c-contextual-footer">
     
@@ -242,15 +310,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1582419b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-65de6fc0" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1582419b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-65de6fc0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/entering-staying-uk/rights-eu-eea-citizens" data-track-options="{"dimension28":"2","dimension29":"Rights of EU and EEA citizens"}" href="/entering-staying-uk/rights-eu-eea-citizens">Rights of EU and EEA citizens</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"2","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
 
   </ul>
 </nav>
