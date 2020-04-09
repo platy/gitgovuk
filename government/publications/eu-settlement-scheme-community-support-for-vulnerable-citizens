@@ -13,9 +13,7 @@
 
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Organisations funded to provide support to vulnerable and at risk EU citizens applying to the EU Settlement Scheme.
-  </p>
+  <p class="gem-c-lead-paragraph">Organisations funded to provide support to vulnerable and at risk EU citizens applying to the EU Settlement Scheme.</p>
 
   </div>
 </div>
@@ -26,8 +24,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 14 May 2019
-    <br></br>Last updated 28 August 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 9 April 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -37,7 +35,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/home-office">Home Office</a> and <a href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
+                  <a class="govuk-link" href="/government/organisations/home-office">Home Office</a> and <a class="govuk-link" href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
                 </span>
             </dd>
         </dl>
@@ -53,19 +51,21 @@
 
 
 
+
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds responsive-bottom-margin">
     
     <div class="responsive-bottom-margin">
-       <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="documents-title">Documents</h2>
+        <section id="documents">
+    <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  ">Documents</h2>
 
 
-<div aria-labelledby="documents-title">
-  
+      
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3619720">
+      <section class="attachment embedded" id="attachment_4120393">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" href="/government/publications/eu-settlement-scheme-community-support-for-vulnerable-citizens/list-of-organisations"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/eu-settlement-scheme-community-support-for-vulnerable-citizens/list-of-organisations"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
   <div class="attachment-details">
     <h2 class="title"><a href="/government/publications/eu-settlement-scheme-community-support-for-vulnerable-citizens/list-of-organisations">List of organisations</a></h2>
@@ -78,13 +78,15 @@
 </section>
 </div>
 
-</div>
-
-<h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="details-title">Details</h2>
+  </section>
 
 
-<div aria-labelledby="details-title">
-  
+
+      <section id="details">
+        <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  ">Details</h2>
+
+
+        
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <p>Charities and voluntary organisations across the UK are being funded to provide help and information to vulnerable EU, EEA and Swiss citizens applying to the EU Settlement Scheme.</p>
@@ -93,33 +95,40 @@
 
 <p>The 57 organisations are located across the UK to ensure services are available to those who most need it.</p>
 
-<p><a href="https://www.gov.uk/help-eu-settlement-scheme">Find support near you</a>.</p>
+<div class="call-to-action">
+<p>Some services may not be available because of coronavirus (COVID-19). Contact the organisation directly to check the latest opening hours and support available.</p>
+</div>
 
-<p>Find out more about the <a href="https://www.gov.uk/settled-status-eu-citizens-families">EU Settlement Scheme</a> including how to apply.</p>
+<p><a href="https://www.gov.uk/help-eu-settlement-scheme" class="govuk-link">Find support near you</a>.</p>
+
+<p>Find out more about the <a href="https://www.gov.uk/settled-status-eu-citizens-families" class="govuk-link">EU Settlement Scheme</a> including how to apply.</p>
 </div>
 </div>
 
-</div>
-
+      </section>
     </div>
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 14 May 2019
-    <br></br>Last updated 28 August 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 9 April 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-04-09T16:46:36.000+01:00">9 April 2020</time>
+              <p class="app-c-published-dates__change-note">Added guidance about coronavirus (COVID-19).</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-28T16:55:59.000+01:00">28 August 2019</time>
-              Information for the East European Resource Centre and Royal Association for Deaf people updated.
+              <p class="app-c-published-dates__change-note">Information for the East European Resource Centre and Royal Association for Deaf people updated.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-09T09:22:29.000+01:00">9 August 2019</time>
-              Added biographical information for each organisation.
+              <p class="app-c-published-dates__change-note">Added biographical information for each organisation.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-05-14T13:08:00.000+01:00">14 May 2019</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -130,37 +139,43 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-ffd74ade" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-a8a5a059" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-ffd74ade" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a8a5a059" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-settlement-scheme-assisted-digital-service" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: Assisted Digital service"}" href="/government/publications/eu-settlement-scheme-assisted-digital-service">EU Settlement Scheme: Assisted Digital service</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/eu-settlement-scheme-public-test-phase-applicant-eligibility" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme public test phase: applicant eligibility"}" href="/guidance/eu-settlement-scheme-public-test-phase-applicant-eligibility">EU Settlement Scheme public test phase: applicant eligibility</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/informator-do-systemu-osiedlenczego-dla-obywateli-ue-tlumaczenie-na-jezyk-polski-polish" data-track-options="{"dimension28":"5","dimension29":"Informator do systemu osiedleńczego dla obywateli UE – tłumaczenie na język Polski (Polish)"}" href="/government/publications/informator-do-systemu-osiedlenczego-dla-obywateli-ue-tlumaczenie-na-jezyk-polski-polish">Informator do systemu osiedleńczego dla obywateli UE – tłumaczenie na język Polski (Polish)</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: frontier workers and their family members"}" href="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members">EU Settlement Scheme: frontier workers and their family members</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/eu-settlement-scheme-id-document-scanner-locations" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: ID document scanner locations"}" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations">EU Settlement Scheme: ID document scanner locations</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/eu-settlement-scheme-applicant-information" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: applicant information"}" href="/government/collections/eu-settlement-scheme-applicant-information">EU Settlement Scheme: applicant information</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: apply as the family member of a frontier worker"}" href="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members">EU Settlement Scheme: apply as the family member of a frontier worker</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/eu-settlement-scheme-applying-from-outside-the-uk" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: applying from outside the UK"}" href="/guidance/eu-settlement-scheme-applying-from-outside-the-uk">EU Settlement Scheme: applying from outside the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/eu-settlement-scheme-id-document-scanner-locations" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: ID document scanner locations"}" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations">EU Settlement Scheme: ID document scanner locations</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-ffd74ade" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-a8a5a059" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-ffd74ade" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-a8a5a059" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -171,6 +186,7 @@
 </nav>
 
   </div>
+
 
 
 </div>
@@ -191,15 +207,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7499b39c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-19c10467" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-7499b39c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-19c10467" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/entering-staying-uk/rights-eu-eea-citizens" data-track-options="{"dimension28":"2","dimension29":"Rights of EU and EEA citizens"}" href="/entering-staying-uk/rights-eu-eea-citizens">Rights of EU and EEA citizens</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"2","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
 
   </ul>
 </nav>
