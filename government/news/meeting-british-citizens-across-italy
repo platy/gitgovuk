@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       World news story
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Meeting British citizens across Italy
   </h1>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 November 2018
-    <br></br>Last updated 2 April 2020
+    <br></br>Last updated 30 April 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -76,7 +76,7 @@
 <div class="call-to-action">
 <h3 id="citizens-rights">Citizens rights</h3>
 
-<p>For information on your rights, please see the attached <span id="attachment_4100428" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/863837/One_pager_handout_FEBRUARY.pdf" class="govuk-link">Handout on Citizens' Rights</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">245KB</span>, <span class="page-length">2 pages</span>)</span>.</p>
+<p>For information on your rights, please see the attached <span id="attachment_4176017" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/863837/One_pager_handout_FEBRUARY.pdf" class="govuk-link">Handout on Citizens' Rights</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">245KB</span>, <span class="page-length">2 pages</span>)</span>.</p>
 </div>
 
 <h2 id="previous-british-citizens-outreach-meetings-across-italy">Previous British citizens outreach meetings across Italy</h2>
@@ -195,6 +195,9 @@
 
 <ul>
   <li>
+    <p><a rel="external" href="https://www.facebook.com/notes/ukinitaly/a-message-from-jill-morris-her-majestys-ambassador/2991483237540395/" class="govuk-link">Issue 17</a>  - 30 April 2020</p>
+  </li>
+  <li>
     <p><a rel="external" href="https://www.facebook.com/notes/ukinitaly/a-message-from-jill-morris-her-majestys-ambassador/2923423624346357/" class="govuk-link">Issue 16</a> - 1 April 2020</p>
   </li>
   <li>
@@ -304,10 +307,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 November 2018
-    <br></br>Last updated 2 April 2020
+    <br></br>Last updated 30 April 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-04-30T16:00:58.000+01:00">30 April 2020</time>
+              <p class="app-c-published-dates__change-note">Newsletter from ambassador Jill Morris - 30 April 2020</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-04-02T16:01:49.000+01:00">2 April 2020</time>
               <p class="app-c-published-dates__change-note">Newsletter from ambassador Jill Morris 1 April 2020</p>
@@ -456,24 +463,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-885c303b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-985cda16" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-885c303b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-985cda16" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/holidaying-in-greece--2" data-track-options="{"dimension28":"5","dimension29":"Holidaying in Greece: information leaflet"}" href="/government/publications/holidaying-in-greece--2">Holidaying in Greece: information leaflet</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/italy-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Italy: doctors"}" href="/government/publications/italy-list-of-medical-facilitiespractitioners">Italy: doctors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-indonesia" data-track-options="{"dimension28":"5","dimension29":"Living in Indonesia"}" href="/guidance/living-in-indonesia">Living in Indonesia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/information-for-british-working-holiday-makers-in-australia" data-track-options="{"dimension28":"5","dimension29":"Information for British working holiday makers in Australia"}" href="/government/publications/information-for-british-working-holiday-makers-in-australia">Information for British working holiday makers in Australia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-morocco" data-track-options="{"dimension28":"5","dimension29":"Living in Morocco"}" href="/guidance/living-in-morocco">Living in Morocco</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/germany-residence-information-after-eu-exit" data-track-options="{"dimension28":"5","dimension29":"Germany: residency"}" href="/government/publications/germany-residence-information-after-eu-exit">Germany: residency</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/portugal-importing-your-car" data-track-options="{"dimension28":"5","dimension29":"Portugal: importing your car"}" href="/government/publications/portugal-importing-your-car">Portugal: importing your car</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/italy-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Italy: funeral directors"}" href="/government/publications/italy-list-of-funeral-directors">Italy: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"5","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-guatemala" data-track-options="{"dimension28":"5","dimension29":"Living in Guatemala"}" href="/guidance/living-in-guatemala">Living in Guatemala</a></li>
 
   </ul>
 </nav>
@@ -500,9 +507,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b1ae706f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-13d0973a" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-b1ae706f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-13d0973a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -517,9 +524,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-b1ae706f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-13d0973a" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-b1ae706f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-13d0973a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
