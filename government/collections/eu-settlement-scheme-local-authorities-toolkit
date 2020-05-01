@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Collection
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     EU Settlement Scheme: local authorities toolkit
   </h1>
@@ -26,6 +26,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 31 January 2020
+    <br></br>Last updated 1 May 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -60,7 +62,7 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#introduction-for-local-authorities" data-track-options="{"dimension29":"Introduction for local authorities"}" href="#introduction-for-local-authorities">Introduction for local authorities</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#guidance-for-local-authorities" data-track-options="{"dimension29":"Guidance for local authorities"}" href="#guidance-for-local-authorities">Guidance for local authorities</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -80,7 +82,11 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#translated-materials" data-track-options="{"dimension29":"Translated materials"}" href="#translated-materials">Translated materials</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#social-media-graphics-and-videos" data-track-options="{"dimension29":"Social media graphics and videos"}" href="#social-media-graphics-and-videos">Social media graphics and videos</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#translated-materials" data-track-options="{"dimension29":"Translated materials"}" href="#translated-materials">Translated materials</a>
 
         </li>
     </ol>
@@ -98,7 +104,7 @@
 </div>
 
 
-  <h3 class="group-title" id="introduction-for-local-authorities">Introduction for local authorities</h3>
+  <h3 class="group-title" id="guidance-for-local-authorities">Guidance for local authorities</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
@@ -109,10 +115,9 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/eu-settlement-scheme-introduction-for-local-authorities" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: introduction for local authorities"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-introduction-for-local-authorities">EU Settlement Scheme: introduction for local authorities</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/eu-settlement-scheme-introduction-for-local-authorities" data-track-options="{"dimension28":"2","dimension29":"EU Settlement Scheme: introduction for local authorities"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-introduction-for-local-authorities">EU Settlement Scheme: introduction for local authorities</a>
 
 
 
@@ -126,6 +131,26 @@
                   Promotional material
               </li>
           </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.2" data-track-label="/government/publications/eu-settlement-scheme-looked-after-children-and-care-leavers-guidance" data-track-options="{"dimension28":"2","dimension29":"EU Settlement Scheme: looked-after children and care leavers guidance"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-looked-after-children-and-care-leavers-guidance">EU Settlement Scheme: looked-after children and care leavers guidance</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2020-05-01T13:19:35+01:00">
+                     1 May 2020
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+
 
       </li>
     </ol>
@@ -142,7 +167,6 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/government/publications/eu-settlement-scheme-presentation" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: presentation"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-presentation">EU Settlement Scheme: presentation</a>
@@ -160,6 +184,7 @@
               </li>
           </ul>
 
+
       </li>
     </ol>
 
@@ -175,7 +200,6 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/government/publications/eu-settlement-scheme-factsheet" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: factsheet"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-factsheet">EU Settlement Scheme: factsheet</a>
@@ -193,6 +217,7 @@
               </li>
           </ul>
 
+
       </li>
     </ol>
 
@@ -208,7 +233,6 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/government/publications/eu-settlement-scheme-leaflet" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: leaflet"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-leaflet">EU Settlement Scheme: leaflet</a>
@@ -226,6 +250,7 @@
               </li>
           </ul>
 
+
       </li>
     </ol>
 
@@ -240,7 +265,6 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.1" data-track-label="/government/publications/eu-settlement-scheme-poster" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: poster"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-poster">EU Settlement Scheme: poster</a>
@@ -258,6 +282,39 @@
               </li>
           </ul>
 
+
+      </li>
+    </ol>
+
+  </div>
+  <h3 class="group-title" id="social-media-graphics-and-videos">Social media graphics and videos</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
+      <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+        <ol class="gem-c-document-list">
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/government/publications/eu-settlement-scheme-social-media-graphics-and-videos" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: social media graphics and videos"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-social-media-graphics-and-videos">EU Settlement Scheme: social media graphics and videos</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2020-02-13T15:56:32+00:00">
+                    13 February 2020
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Promotional material
+              </li>
+          </ul>
+
+
       </li>
     </ol>
 
@@ -273,10 +330,9 @@
 
   <div data-module="track-click">
         <ol class="gem-c-document-list">
-
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/government/collections/eu-settlement-scheme-translated-information-materials" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: translated information materials"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/collections/eu-settlement-scheme-translated-information-materials">EU Settlement Scheme: translated information materials</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.1" data-track-label="/government/collections/eu-settlement-scheme-translated-information-materials" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: translated information materials"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/collections/eu-settlement-scheme-translated-information-materials">EU Settlement Scheme: translated information materials</a>
 
 
 
@@ -291,6 +347,7 @@
               </li>
           </ul>
 
+
       </li>
     </ol>
 
@@ -298,8 +355,22 @@
 
       </div>
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 31 January 2020
+    <br></br>Last updated 1 May 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-05-01T13:19:46.000+01:00">1 May 2020</time>
+              <p class="app-c-published-dates__change-note">Guidance on assisting looked-after children and care leavers published.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-31T15:57:00.000+00:00">31 January 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -329,6 +400,29 @@
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-bf8aa225" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-bf8aa225" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-settlement-scheme-factsheet" data-track-options="{"dimension28":"3","dimension29":"EU Settlement Scheme: factsheet"}" href="/government/publications/eu-settlement-scheme-factsheet">EU Settlement Scheme: factsheet</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/eu-settlement-scheme-community-groups-toolkit" data-track-options="{"dimension28":"3","dimension29":"EU Settlement Scheme: community groups toolkit"}" href="/government/collections/eu-settlement-scheme-community-groups-toolkit">EU Settlement Scheme: community groups toolkit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-leaflet" data-track-options="{"dimension28":"3","dimension29":"EU Settlement Scheme: leaflet"}" href="/government/publications/eu-settlement-scheme-leaflet">EU Settlement Scheme: leaflet</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -350,9 +444,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a348f202" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3d39bcdd" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a348f202" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-3d39bcdd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
