@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 29 January 2020
-    <br></br>Last updated 4 May 2020
+    <br></br>Last updated 15 May 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -135,7 +135,7 @@
     </tr>
     <tr>
       <td><a href="https://www.gov.uk/government/collections/cariforum-uk-economic-partnership-agreement" class="govuk-link">CARIFORUM trade bloc</a></td>
-      <td style="text-align: right">3,246</td>
+      <td style="text-align: right">3,226</td>
     </tr>
     <tr>
       <td><a href="https://www.gov.uk/government/collections/uk-central-america-association-agreement" class="govuk-link">Central America</a></td>
@@ -148,7 +148,7 @@
     <tr>
       <td>
 <a href="https://www.gov.uk/government/collections/esa-uk-economic-partnership-agreement-epa--2" class="govuk-link">Eastern and Southern Africa (ESA) trade bloc</a> </td>
-      <td style="text-align: right">1,680</td>
+      <td style="text-align: right">1,615</td>
     </tr>
     <tr>
       <td><a href="https://www.gov.uk/government/collections/uk-faroe-islands-free-trade-agreement-fta" class="govuk-link">Faroe Islands</a></td>
@@ -189,7 +189,7 @@
     </tr>
     <tr>
       <td><a href="https://www.gov.uk/government/collections/uk-pacific-economic-partnership-agreement" class="govuk-link">Pacific states</a></td>
-      <td style="text-align: right">323</td>
+      <td style="text-align: right">309</td>
     </tr>
     <tr>
       <td><a href="https://www.gov.uk/government/collections/uk-palestinian-authority-political-trade-and-partnership-agreement" class="govuk-link">Palestinian Authority</a></td>
@@ -368,10 +368,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 29 January 2020
-    <br></br>Last updated 4 May 2020
+    <br></br>Last updated 15 May 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-05-15T14:44:23.000+01:00">15 May 2020</time>
+              <p class="app-c-published-dates__change-note">Updated the total UK trade statistics to correct an error.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-05-04T12:11:28.000+01:00">4 May 2020</time>
               <p class="app-c-published-dates__change-note">Updated 'Trade agreements that have been signed’ table after publication of the Office for National Statistics' UK trade statistics.</p>
@@ -417,32 +421,32 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-11f20cc1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-09697703" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-11f20cc1" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-09697703" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/uk-andean-countries-trade-agreement" data-track-options="{"dimension28":"4","dimension29":"UK-Andean countries trade agreement"}" href="/government/collections/uk-andean-countries-trade-agreement">UK-Andean countries trade agreement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/the-uks-trade-agreements" data-track-options="{"dimension28":"4","dimension29":"The UK’s trade agreements"}" href="/government/collections/the-uks-trade-agreements">The UK’s trade agreements</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/the-uks-approach-to-trade-negotiations-with-the-us" data-track-options="{"dimension28":"4","dimension29":"The UK's approach to trade negotiations with the US"}" href="/government/publications/the-uks-approach-to-trade-negotiations-with-the-us">The UK's approach to trade negotiations with the US</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/collections/cariforum-uk-economic-partnership-agreement" data-track-options="{"dimension28":"4","dimension29":"CARIFORUM-UK economic partnership agreement"}" href="/government/collections/cariforum-uk-economic-partnership-agreement">CARIFORUM-UK economic partnership agreement</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/collections/the-uks-trade-agreements" data-track-options="{"dimension28":"4","dimension29":"The UK’s trade agreements"}" href="/government/collections/the-uks-trade-agreements">The UK’s trade agreements</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/collections/esa-uk-economic-partnership-agreement-epa--2" data-track-options="{"dimension28":"4","dimension29":"ESA-UK economic partnership agreement (EPA)"}" href="/government/collections/esa-uk-economic-partnership-agreement-epa--2">ESA-UK economic partnership agreement (EPA)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/collections/cariforum-uk-economic-partnership-agreement" data-track-options="{"dimension28":"4","dimension29":"CARIFORUM-UK economic partnership agreement"}" href="/government/collections/cariforum-uk-economic-partnership-agreement">CARIFORUM-UK economic partnership agreement</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-11f20cc1" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-09697703" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-11f20cc1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-09697703" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -474,9 +478,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d6139830" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8451c701" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d6139830" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8451c701" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
