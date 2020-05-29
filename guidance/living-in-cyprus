@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Cyprus
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to and living in Cyprus, including Brexit guidance, residency, healthcare and driving.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to and living in Cyprus, including guidance on residency, healthcare, driving and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 22 March 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 29 May 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,11 +62,11 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#contents" data-track-options="{"dimension29":"Contents"}" href="#contents">Contents</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus-covid-19" data-track-options="{"dimension29":"Coronavirus (COVID-19)"}" href="#coronavirus-covid-19">Coronavirus (COVID-19)</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -73,63 +74,67 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-cyprus" data-track-options="{"dimension29":"Working in Cyprus"}" href="#working-in-cyprus">Working in Cyprus</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#working-in-cyprus" data-track-options="{"dimension29":"Working in Cyprus"}" href="#working-in-cyprus">Working in Cyprus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#driving-in-cyprus" data-track-options="{"dimension29":"Driving in Cyprus"}" href="#driving-in-cyprus">Driving in Cyprus</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#driving-in-cyprus" data-track-options="{"dimension29":"Driving in Cyprus"}" href="#driving-in-cyprus">Driving in Cyprus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -140,28 +145,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="contents">Contents</h2>
-<ol>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#brexit-what-you-should-do" class="govuk-link">Brexit: what you should do</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#stay-up-to-date" class="govuk-link">Stay up to date</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#visas-and-residency" class="govuk-link">Visas and residency</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#passports-and-travel" class="govuk-link">Passports and travel</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#healthcare" class="govuk-link">Healthcare</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#working-in-cyprus" class="govuk-link">Working in Cyprus</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#education-and-professional-qualifications" class="govuk-link">Education and professional qualifications</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#money-and-tax" class="govuk-link">Money and tax</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#pensions" class="govuk-link">Pensions</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#benefits" class="govuk-link">Benefits</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#driving-in-cyprus" class="govuk-link">Driving in Cyprus</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#voting" class="govuk-link">Voting</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#births-deaths-and-getting-married" class="govuk-link">Births, deaths and getting married</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#pets" class="govuk-link">Pets</a></li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#emergencies" class="govuk-link">Emergencies</a></li>
-  <li>[Accommodation and buying property[(https://www.gov.uk/guidance/living-in-cyprus#accommodation-and-buying-property)</li>
-  <li><a href="https://www.gov.uk/guidance/living-in-cyprus#returning-to-the-uk" class="govuk-link">Returning to the UK</a></li>
-</ol>
-
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
@@ -173,9 +157,13 @@
 </ul>
 </div>
 
+<h2 id="coronavirus-covid-19">Coronavirus (COVID-19)</h2>
+
+<p>You should follow the advice of the Cyprus Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/cyprus" class="govuk-link">Cyprus travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>
@@ -187,50 +175,69 @@
 <p>You can also:</p>
 
 <ul>
-  <li>read the <a rel="external" href="http://www.moi.gov.cy/moi/CRMD/crmd.nsf/All/C482CD407E0903D8C225830E00384072" class="govuk-link">Cypriot government webpage on how to prepare for Brexit</a>
-</li>
-  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the EU: Prepare for Brexit</a>
+  <li>read the <a rel="external" href="http://www.moi.gov.cy/moi/CRMD/crmd.nsf/All/C482CD407E0903D8C225830E00384072" class="govuk-link">Cypriot government webpage for information about how Cyprus is implementing the Withdrawal Agreement for UK nationals living in Cyprus</a>
 </li>
 </ul>
+
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
+
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the UK’s withdrawal from the EU and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the EU broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in Cyprus at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Cyprus.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information.</p>
+
+<p>In the meantime, make sure you are registered as a resident in Cyprus. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>Check the <a href="https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements" class="govuk-link">entry requirements for Cyprus</a>.</p>
 
-<p>You must register as a Cypriot resident if you plan to stay in Cyprus for more than 3 months. You will get a <a rel="external" href="http://www.moi.gov.cy/moi/CRMD/crmd.nsf/All/B20E184509AB8C5DC2257D1F001EF6F2?OpenDocument" class="govuk-link">registration certificate</a> from the Ministry of the Interior, Civil Registry and Migration Department. 
- <a rel="external" href="http://www.moi.gov.cy/moi/crmd/crmd.nsf/contact_en/contact_en?OpenDocument&ExpandSection=7#_Section7" class="govuk-link">Contact details are available here</a>.</p>
+<h3 id="residency">Residency</h3>
+
+<p>If you are resident in Cyprus before the transition period ends on 31 December 2020, you will be able to continue to live, work and access services as you do now.</p>
+
+<p>You must register as a Cypriot resident if you plan to stay in Cyprus for more than 3 months. You will get a <a rel="external" href="http://www.moi.gov.cy/moi/CRMD/crmd.nsf/All/B20E184509AB8C5DC2257D1F001EF6F2?OpenDocument" class="govuk-link">registration certificate</a> from the Ministry of the Interior, Civil Registry and Migration Department. <a rel="external" href="http://www.moi.gov.cy/moi/crmd/crmd.nsf/contact_en/contact_en?OpenDocument&ExpandSection=7#_Section7" class="govuk-link">Contact details are available here</a>.</p>
 
 <p>After living in Cyprus for more than 5 years, you can <a rel="external" href="http://www.moi.gov.cy/moi/CRMD/crmd.nsf/All/B20E184509AB8C5DC2257D1F001EF6F2?OpenDocument" class="govuk-link">apply for permanent residence</a> (MEU3).</p>
 
-<p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
+<p>Read the <a rel="external" href="http://www.moi.gov.cy/moi/crmd/crmd.nsf/All/C482CD407E0903D8C225830E00384072" class="govuk-link">Cypriot government guidance</a> residency in Cyprus.</p>
 
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
+<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available.</p>
 
-<p>If you are resident in Cyprus before the end of the implementation period on 31 December 2020 you will be able to stay.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.
+UK National Support Fund</p>
 
-<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
+<p>On 6 March 2020 the [FCO announced funding[(https://www.gov.uk/government/news/uk-government-allocates-3-million-to-support-uk-nationals-in-the-eu) for organisations to provide practical support to UK nationals who may find it harder to complete their residency applications. </p>
 
-<p>Read the <a rel="external" href="http://www.moi.gov.cy/moi/crmd/crmd.nsf/All/C482CD407E0903D8C225830E00384072" class="govuk-link">Cypriot government guidance on Brexit</a> and residency in Cyprus in both a deal and no deal scenario.</p>
+<p>These organisations will help individuals who may find it harder to complete the necessary paperwork to secure their residency rights, including pensioners, disabled people, those living in remote areas or who have mobility difficulties, and those who require help with language translation or interpretation. 
+In Cyprus, two organisations are providing this practical support: SSAFA (specifically for armed forces veterans) and Cyprus Residency Planning Group (CRPG). If you or someone you know may find it harder to complete the paperwork, you can contact them using the details below to discuss how they may be able to help you.</p>
 
-<p>If you are a resident in Cyprus, you are advised to carry your Republic of Cyprus-issued residency documents when entering/exiting the Republic of Cyprus. If you are not a resident in the Republic of Cyprus and cannot show that you hold a residency document, you will likely be subject to the 90-day limit rule.</p>
+<p>SSAFA:  800 77058 (freephone)
+Mon - Fri 09.00-17.30 
+ukvie.support@ssafa.org.uk</p>
+
+<p>CRPG:   800 09009 (freephone)
+Mon – Fri 09.00-13.00
+contactus@cyprus-crpg.org</p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from Cyprus</a>.</p>
 
-<p>Your passport should be valid for the proposed duration of your stay in Cyprus; you don’t need any additional period of validity on your passport beyond this. However, if you’re travelling to the north of Cyprus, their administration advises that your passport should be valid for at least 6 months from your date of entry to the north.</p>
+<p>Check your passport is valid before you book your trip. You’ll need to renew your passport before travelling if you do not have enough time left on your passport.</p>
 
-<p>Read our <a href="https://www.gov.uk/foreign-travel-advice/cyprus" class="govuk-link">travel advice</a> for Cyprus and sign up to <a href="https://www.gov.uk/foreign-travel-advice/cyprus/email-signup" class="govuk-link">email alerts for up-to-date travel information</a> on local laws and customs, safety and emergencies.</p>
+<p>Your passport should be valid for the proposed duration of your stay in Cyprus. However, if you’re travelling to the north of Cyprus, their administration advises that your passport should be valid for at least 6 months from your date of entry to the north.</p>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
-
-<p>Check your passport is valid before you book your trip.You’ll need to renew your passport before travelling if you do not have enough time left on your passport. before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
-
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
-
-<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-cyprus" class="govuk-link">sign up</a> for updates to this guidance.</p>
+<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-cyprus" class="govuk-link">sign up for updates to this guidance</a>.</p>
 
 <h2 id="healthcare">Healthcare</h2>
+
+<p>If you are living in Cyprus or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Cyprus as you do now, provided you remain legally resident.</p>
 
 <p>You must be properly registered for healthcare as a resident in Cyprus, as well as registering, where necessary, with a health insurer.</p>
 
@@ -238,7 +245,13 @@
 
 <p>You can find information about the new <a rel="external" href="https://www.gesy.org.cy/" class="govuk-link">Cypriot state healthcare system GESY on their website</a>. We strongly advise you to take out private medical insurance if you are not eligible for state healthcare.</p>
 
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
 <p>If you live in Cyprus and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>You can <a rel="external" href="https://contactcentreservices.nhsbsa.nhs.uk/selfnhsukokb/AskUs_EHIC/en-gb/6696/application-forms-and-evidence/16477/s1-form-what-is-this-and-how-do-i-obtain-one" class="govuk-link">apply for an S1 certificate</a> through the Business Services Authority.</p>
+
+<h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
 
 <p>If you are resident in Cyprus, you must not use a European Health Insurance Card (EHIC) from the UK to access healthcare in Cyprus.</p>
 
@@ -251,48 +264,45 @@
 </li>
 </ul>
 
-<p>If you are a student, read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">NHS guidance on healthcare and studying abroad</a>.</p>
+<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time.</p>
 
-<p>You can find <a href="https://www.gov.uk/government/publications/cyprus-list-of-hospitals" class="govuk-link">English-speaking doctors in Cyprus</a>.</p>
+<p>If you are travelling, make sure you have comprehensive travel insurance. The existing EHIC arrangements are not an alternative to travel insurance, as some health-related costs, including for medical repatriation, ongoing medical treatment and non-urgent treatment are not covered. The EHIC is also not valid in north Cyprus.</p>
 
-<p>You should <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions</a> are legal in Cyprus.</p>
+<p>You should also read guidance on:</p>
 
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time. 
-If you a’re living in Cyprus or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Cyprus as you do now, provided you remain resident.</p>
-
-<p>If you are travelling, make sure you have comprehensive travel insurance. The existing EHIC arrangements are not an alternative to travel insurance, as some health-related costs, including for medical repatriation, ongoing medical treatment and non-urgent treatment, are not covered. The EHIC is also not valid in north Cyprus.</p>
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li>finding <a href="https://www.gov.uk/government/publications/cyprus-list-of-hospitals" class="govuk-link">English-speaking doctors in Cyprus</a>
+</li>
+  <li>
+<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking your prescriptions</a> are legal in Cyprus</li>
+</ul>
 
 <h2 id="working-in-cyprus">Working in Cyprus</h2>
 
-<p>If you are registered as a resident in Cyprus, you have the right to work in Cyprus. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an EU country</a>.</p>
 
-<p>To apply for a job you may need to provide a  <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK police certificate</a>.</p>
+<p>To apply for a job you may need to provide a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK police certificate</a>.</p>
 
-<h3 id="working-in-cyprus-after-brexit">Working in Cyprus after Brexit</h3>
-
-<p>Your right to work will stay the same, as long as you remain resident in Cyprus.</p>
+<p>If you are resident in Cyprus on or before 31 December 2020, your right to work will stay the same, as long as you remain resident in Cyprus.</p>
 
 <h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
 
-<h3 id="studying-in-cyprus">Studying in Cyprus</h3>
+<p>If you are legally resident in Cyprus on or before 31 December 2020, your right to study in Cyprus will stay the same, as long as you remain a resident in Cyprus.</p>
 
-<p>Your right to study in Cyprus will stay the same , as long as you remain a resident in Cyprus.</p>
-
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/uk-students-in-the-eu-continuing-your-studies" class="govuk-link">continuing your studies in EU countries after Brexit</a>.</p>
+<p>Read the guidance on <a href="https://www.gov.uk/guidance/uk-students-in-the-eu-continuing-your-studies" class="govuk-link">continuing your studies in EU countries</a>.</p>
 
 <h3 id="professional-qualifications">Professional qualifications</h3>
 
-<p>The European Commission has published <a rel="external" href="https://ec.europa.eu/info/sites/info/files/slides_professional-qualifications-ip-justice-consumers_en.pdf" class="govuk-link">guidance on professional qualifications</a>. If you have already been recognised by an EU country as holding valid professional qualifications, this will remain valid after Brexit. If you hold qualifications gained in the UK, you should obtain recognition before the UK leaves the EU.</p>
+<p>If you have already been recognised by an EU country as holding valid professional qualifications, this will remain valid after 31 January 2020.</p>
 
-<p>If you have already been recognised by an EU country as holding valid professional qualifications, this will remain valid after Brexit.</p>
-
-<p>If you have not had your professional qualifications recognised, you will have until the end of the implementation period on 31 December 2020 to submit an application under the current rules.</p>
+<p>If you have not had your professional qualifications recognised, you can submit an application under the current rules until 31 December 2020.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The UK has a <a href="https://www.gov.uk/government/publications/cyprus-tax-treaties" class="govuk-link">double-taxation agreement</a> with Cyprus to make sure that people do not pay tax on the same income in both countries.</p>
+<p>The UK has a <a href="https://www.gov.uk/government/publications/cyprus-tax-treaties" class="govuk-link">double taxation agreement</a> with Cyprus to ensure you do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in Cyprus have not changed.</p>
 
 <p>You should read the guidance on:</p>
 
@@ -306,19 +316,13 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
 
 <h3 id="national-insurance">National Insurance</h3>
 
-<p>Find out if you can  <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
+<p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
 
 <p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
-
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Cyprus. You should send questions about double taxation to the relevant tax authority.</p>
 
 <h2 id="pensions">Pensions</h2>
 
 <p>You will need to <a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">tell the UK government offices that deal with your benefits, pension and tax if you are moving or retiring abroad</a>.</p>
-
-<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you retire in Cyprus, you can claim:</p>
 
@@ -332,19 +336,23 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you must fill it in promptly, otherwise your payments may be suspended.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
 
-<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance</a>.</p>
 
 <p>If you are living in Cyprus by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your UK State Pension.</p>
 
-<p>If you work and pay social security contributions in Cyprus, you will still be able to add your UK social security contributions towards your Cypriot pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Cyprus, you will still be able to add your UK social security contributions towards your Cypriot pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
+<p>You will need to <a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">tell the UK government offices that deal with your benefits, pension and tax if you are moving or retiring abroad</a>.</p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in Cyprus.</p>
 
@@ -363,15 +371,21 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
 
 <p>You may be able to <a rel="external" href="https://ec.europa.eu/social/main.jsp?catId=1105&langId=ensee" class="govuk-link">claim some Cyprus social security benefits</a>. When you are checking whether you are eligible for benefits in Cyprus you should make sure you declare any National Insurance contributions you made in the UK.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-january-2020">Benefits after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Cyprus, you will still be able to add your UK social security contributions towards your Cypriot contribution-based benefits. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Cyprus, you will still be able to add your UK social security contributions towards your Cypriot contribution-based benefits. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
 
 <h2 id="driving-in-cyprus">Driving in Cyprus</h2>
 
-<p>If you are resident in Cyprus, you should <a rel="external" href="http://www.mcw.gov.cy/mcw/rtd/rtd.nsf/rtd23_en/rtd23_en?OpenDocument" class="govuk-link">exchange your UK licence for a Cypriot one before Brexit.</a> You can still use your Cypriot licence in the UK for short visits, or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
+
+<p>If you are resident in Cyprus, you should <a rel="external" href="http://www.mcw.gov.cy/mcw/rtd/rtd.nsf/rtd23_en/rtd23_en?OpenDocument" class="govuk-link">exchange your UK licence for a Cypriot one</a>. You can still use your Cypriot licence in the UK for short visits, or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
 <p>For information on driving in Cyprus, read the guidance on:</p>
 
@@ -382,7 +396,7 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
   <li><a href="https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security#road-travel" class="govuk-link">standards of driving in Cyprus</a></li>
 </ul>
 
-<h3 id="bringing-a-vehicle-from-the-uk-to-cyprus">Bringing a vehicle from the UK to Cyprus</h3>
+<h3 id="bringing-a-uk-registered-vehicle-to-cyprus">Bringing a UK-registered vehicle to Cyprus</h3>
 
 <p>You cannot import vehicles through the northern part of Cyprus. The authorities may seize your vehicle.</p>
 
@@ -392,31 +406,21 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
 
 <p>You may be exempt from some of these taxes. If so you will need certificates of exemption.</p>
 
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
-
-<p>Read our <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit" class="govuk-link">guidance on driving in the EU after Brexit</a>.</p>
-
 <h2 id="voting">Voting</h2>
+
+<p>After 31 January 2020, UK nationals are no longer eligible to vote in local and European Parliament elections.</p>
 
 <p>You may be able to vote in some UK elections. You can:</p>
 
 <ul>
-  <li><a rel="external" href="https://www.yourvotematters.co.uk/can-i-vote/overseas" class="govuk-link">check if you are able to vote</a></li>
+  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
   <li>
 <a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
 </ul>
 
-<p>If you’re resident in Cyprus, <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">you can vote in local municipal and European Parliamentary elections.</a></p>
-
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
-
-<p>After Brexit you will no longer be eligible to vote in local and European Parliament elections.</p>
-
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
-<p>If your child in born in Cyprus, you will need to <a href="https://www.gov.uk/register-a-birth" class="govuk-link">register a birth abroad.</a></p>
+<p>If your child is born in Cyprus, you will need to <a href="https://www.gov.uk/register-a-birth" class="govuk-link">register a birth abroad.</a></p>
 
 <p>If someone dies in Cyprus, you can:</p>
 
@@ -442,7 +446,7 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a>.</p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet to the UK</a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -474,10 +478,14 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 March 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 29 May 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-05-29T11:31:59.000+01:00">29 May 2020</time>
+              <p class="app-c-published-dates__change-note">Visas and residency section updated to include information about how to access the UK National Support Fund for those who may find it harder to complete their residency applications.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-24T10:16:11.000+00:00">24 January 2020</time>
               <p class="app-c-published-dates__change-note">Read updated guidance for Implementation Period until 31 December 2020</p>
@@ -582,8 +590,8 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -591,48 +599,48 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-b50412cc" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-e187ee0a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b50412cc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e187ee0a" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-finland" data-track-options="{"dimension28":"5","dimension29":"Living in Finland"}" href="/guidance/living-in-finland">Living in Finland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-norway" data-track-options="{"dimension28":"5","dimension29":"Living in Norway"}" href="/guidance/living-in-norway">Living in Norway</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-latvia" data-track-options="{"dimension28":"5","dimension29":"Living in Latvia"}" href="/guidance/living-in-latvia">Living in Latvia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-ireland" data-track-options="{"dimension28":"5","dimension29":"Living in Ireland"}" href="/guidance/living-in-ireland">Living in Ireland</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-b50412cc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-e187ee0a" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-b50412cc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-e187ee0a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-cyprus" data-track-options="{"dimension28":"2","dimension29":"Cyprus: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-cyprus">Cyprus: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-cyprus" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Cyprus"}" href="/guidance/healthcare-in-cyprus">Healthcare in Cyprus</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-cyprus" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Cyprus"}" href="/guidance/healthcare-in-cyprus">Healthcare for UK nationals living in Cyprus</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-b50412cc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-e187ee0a" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-b50412cc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-e187ee0a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -664,9 +672,9 @@ If you a’re living in Cyprus or move there permanently before 31 December 2020
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a5b8cdb8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e2f6dc7f" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a5b8cdb8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-e2f6dc7f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
