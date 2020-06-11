@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 November 2018
-    <br></br>Last updated 14 May 2020
+    <br></br>Last updated 11 June 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -69,7 +69,10 @@
 
 <h2 id="outreach">Upcoming British citizens outreach meetings</h2>
 
-<p>We have a ‘Post a Question’ session today at 14.00 on <a rel="external" href="https://www.facebook.com/photo/?fbid=3841765295894336&set=a.275532022517699" class="govuk-link">Facebook</a>. Please note this is not a live session in that the questions will be answered subsequently.</p>
+<ul>
+  <li>
+<a rel="external" href="https://www.facebook.com/ukinitaly" class="govuk-link">live Q & A session</a>  17 June 17:00 – 18:00</li>
+</ul>
 
 <div class="call-to-action">
 <h3 id="for-the-latest-updates-and-information-events">For the latest updates and information events</h3>
@@ -90,6 +93,9 @@
 <h3 id="previous-british-citizens-outreach-meetings-across-italy">Previous British citizens outreach meetings across Italy</h3>
 
 <ul>
+  <li>
+    <p>14 May 2020 - Facebook ‘Post a Question’ session</p>
+  </li>
   <li>
     <p>24 February 2020 - Florence</p>
   </li>
@@ -315,10 +321,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 November 2018
-    <br></br>Last updated 14 May 2020
+    <br></br>Last updated 11 June 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-11T12:26:29.000+01:00">11 June 2020</time>
+              <p class="app-c-published-dates__change-note">Facebook Q&A session added  - 11-06-20</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-05-14T11:48:42.000+01:00">14 May 2020</time>
               <p class="app-c-published-dates__change-note">Reminder for 'post a question' today at 1400</p>
@@ -487,24 +497,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-55703aa0" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b0d0f06b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-55703aa0" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b0d0f06b" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-bulgaria" data-track-options="{"dimension28":"5","dimension29":"Living in Bulgaria"}" href="/guidance/living-in-bulgaria">Living in Bulgaria</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-finland" data-track-options="{"dimension28":"5","dimension29":"Living in Finland"}" href="/guidance/living-in-finland">Living in Finland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-norway" data-track-options="{"dimension28":"5","dimension29":"Living in Norway"}" href="/guidance/living-in-norway">Living in Norway</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"5","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/sweden-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Sweden: medical facilities and practitioners"}" href="/government/publications/sweden-list-of-medical-facilitiespractitioners">Sweden: medical facilities and practitioners</a></li>
 
   </ul>
 </nav>
@@ -531,9 +541,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0adb9a14" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9ab336b0" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-0adb9a14" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-9ab336b0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -548,9 +558,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-0adb9a14" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-9ab336b0" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-0adb9a14" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-9ab336b0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
