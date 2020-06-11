@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Norway
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Norway, including guidance on Brexit, residency, passports and driving.
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Norway, including guidance on residency, passports and driving.
 </p>
 
   </div>
@@ -24,7 +24,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 26 June 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 11 June 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -51,6 +51,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -62,71 +63,75 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#driving-in-norway" data-track-options="{"dimension29":"Driving in Norway"}" href="#driving-in-norway">Driving in Norway</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-norway" data-track-options="{"dimension29":"Working in Norway"}" href="#working-in-norway">Working in Norway</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#driving-in-norway" data-track-options="{"dimension29":"Driving in Norway"}" href="#driving-in-norway">Driving in Norway</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-norway" data-track-options="{"dimension29":"Working in Norway"}" href="#working-in-norway">Working in Norway</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -137,19 +142,25 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
 <ul>
   <li>
-<a rel="external" href="https://www.udi.no/en/want-to-apply/the-registration-scheme-for-eueea-nationals/?nav-veiviser=12896" class="govuk-link">register as a resident</a> in Norway</li>
+<a rel="external" href="https://www.udi.no/en/want-to-apply/?c=gbr" class="govuk-link">register as a resident</a> in Norway</li>
+  <li>keep up to date with the <a rel="external" href="https://www.udi.no/en/important-messages/brexit-transition-period-for-british-citizens-in-norway-until-31.-december-2020/" class="govuk-link">Norwegian government guidance on the new residency permit</a>
+</li>
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the Norwegian Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/norway" class="govuk-link">Norway travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-norway" class="govuk-link">email alerts on living in Norway</a>
@@ -161,7 +172,8 @@
 <p>You can also:</p>
 
 <ul>
-  <li>check the <a rel="external" href="https://www.regjeringen.no/en/topics/european-policy/brits_brexit/id2630241/" class="govuk-link">Norwegian government advice page</a> on Brexit</li>
+  <li>check the <a rel="external" href="https://www.regjeringen.no/en/topics/european-policy/brits_brexit/id2630241/" class="govuk-link">Norwegian government advice page</a>
+</li>
   <li>read the <a href="https://www.gov.uk/government/news/eea-efta-separation-agreement" class="govuk-link"><abbr title="European Economic Area">EEA</abbr> <abbr title="European Free Trade Area">EFTA</abbr> Separation Agreement</a>
 </li>
 </ul>
@@ -169,6 +181,10 @@
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>Check the <a href="https://www.gov.uk/foreign-travel-advice/norway/entry-requirements" class="govuk-link">entry requirements for Norway</a>.</p>
+
+<h3 id="residency">Residency</h3>
+
+<p>If you are resident in Norway before the transition period ends on 31 December 2020, you will be able to stay.</p>
 
 <p>If you’re staying in Norway for more than 3 months, you need to register with the Norwegian Directorate of Immigration (<abbr title="Norwegian Directorate of Immigration">UDI</abbr>). You’ll need to <a rel="external" href="https://selfservice.udi.no/en-gb/" class="govuk-link">fill in a <abbr title="Norwegian Directorate of Immigration">UDI</abbr> application form and book an appointment</a>. You must bring the completed application and documents with you to the appointment.</p>
 
@@ -196,33 +212,37 @@
 
 <p>Once you have your residency permit, you can apply for a Norwegian personal number from the local people register (Folkeregister). See more on the <a rel="external" href="https://www.udi.no/en/" class="govuk-link">Norwegian Directorate of Immigration website</a>.</p>
 
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
+<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-norway" class="govuk-link">sign up for updates</a> to this guidance.</p>
 
-<p>If you are resident in Norway before the implementation period ends on 31 December 2020, you will be able to stay.</p>
+<h3 id="uk-national-support-fund">UK National Support Fund</h3>
 
-<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-norway" class="govuk-link">sign up for updates</a> to this guidance.</p>
+<p>On 6 March 2020 the <a href="https://www.gov.uk/government/news/uk-government-allocates-3-million-to-support-uk-nationals-in-the-eu" class="govuk-link">FCO announced funding</a> for organisations to provide practical support to UK nationals who may have difficulty completing their residency applications. </p>
+
+<p>These organisations will help individuals who may find it harder to complete the necessary paperwork to secure their residency rights, including pensioners, disabled people, those living in remote areas or who have mobility difficulties, and those who require help with language translation or interpretation.</p>
+
+<p>In Norway, this practical support is being provided by The AIRE Centre. If you or someone you know may have difficulty completing the paperwork, you can contact them using the details below to discuss how they may be able to help you.</p>
+
+<h3 id="the-aire-centre">The AIRE Centre</h3>
+
+<p>Email: <a href="mailto:eurobrits@airecentre.org" class="govuk-link">eurobrits@airecentre.org</a></p>
+
+<p>Website: <a rel="external" href="https://www.airecentre.org/" class="govuk-link">www.airecentre.org</a></p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport</a> from Norway.</p>
 
-<p>See our <a href="https://www.gov.uk/foreign-travel-advice/norway" class="govuk-link">travel advice for Norway</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
-
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
-
-<p>Check your passport is valid for travel before you book your trip. For trips to the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU, your passport should be valid for the proposed duration of your stay.</p>
-
-<p>You’ll need to renew your passport before travelling if you do not have enough time left on your passport.</p>
-
-<p>The rules on travel will stay the same until the implementation period ends on 31 December 2020. During this time you can continue to travel to countries in the Schengen area or elsewhere in the EU with your UK passport.</p>
+<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
 
 <p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-norway" class="govuk-link">sign up for updates</a> to this guidance.</p>
 
 <h2 id="driving-in-norway">Driving in Norway</h2>
 
-<p>You should exchange your UK licence for a Norwegian licence. You can still use your Norwegian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+<p>Driving licence rules will stay the same until at least 31 December 2020.</p>
 
-<p>Whilst the UK remains in the EU, UK licences can be exchanged for Norwegian ones without having to take a test.</p>
+<p>You should exchange your UK licence for a Norwegian licence. You can still use your Norwegian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
 <p>For information on driving in Norway, read our guidance on:</p>
 
@@ -241,25 +261,19 @@
 
 <p>You can read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/norway/index_en.htm" class="govuk-link">car registration rules and taxes in Norway</a>. You may be exempt from some of these taxes. If so, you will need certificates of exemption.</p>
 
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
-
-<p>Driving licence rules will stay the same during the implementation period.</p>
-
 <h2 id="working-in-norway">Working in Norway</h2>
 
-<p>See <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
+<p>See <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an EU country</a>.</p>
 
-<p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/acro_std.aspx?id=2379" class="govuk-link">UK criminal records check</a>.</p>
+<p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK criminal records check</a>.</p>
 
 <p>Once you have a job offer, you need to apply for a personal number at your local police station or your local <a rel="external" href="http://www.sua.no/en/" class="govuk-link">service centre for foreign workers</a>.</p>
 
-<h3 id="working-in-norway-after-brexit">Working in Norway after Brexit</h3>
-
-<p>Your right to work will not change as long as you remain resident in Norway.</p>
+<p>If you are resident in Norway on or before 31 December 2020, your right to work will not change as long as you remain resident in Norway.</p>
 
 <h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
 
-<p>Get your UK professional qualifications recognised in Norway before Brexit. For help with this:</p>
+<p>Get your UK professional qualifications recognised in Norway before 31 December 2020. For help with this:</p>
 
 <ul>
   <li>find out where to request recognition of your qualifications on the <a rel="external" href="https://www.nokut.no/en/about-nokut/" class="govuk-link">Norwegian Agency for Quality Assurance in Education (NOKUT) website</a>
@@ -268,15 +282,17 @@
 </li>
 </ul>
 
-<p>If you hold a professional qualification that has already been recognised by an <abbr title="European Economic Area">EEA</abbr> country, it will still be valid after Brexit.</p>
+<p>If you hold a professional qualification that has already been recognised by an <abbr title="European Economic Area">EEA</abbr> country, it will still be valid after 31 January 2020.</p>
 
-<p>If you have not had your professional qualifications recognised, you will have until 31 December 2020 to submit an application under the current rules.</p>
+<p>If you have not had your professional qualifications recognised, you can submit an application under the current rules until 31 December 2020.</p>
 
 <h3 id="studying-in-norway">Studying in Norway</h3>
 
-<p>If you are legally resident in Norway before the implementation period ends, your right to student finance will remain unchanged as long as you remain resident in Norway.</p>
+<p>If you are resident in Norway on or before 31 December 2020, your right to student finance will remain unchanged, as long as you remain resident in Norway.</p>
 
 <h2 id="healthcare">Healthcare</h2>
+
+<p>Social security coordination is covered by the Separation Agreement for those residing in Norway. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Norway before the transition period ends on 31 December 2020, for as long as they remain in scope of the agreement. This includes students and S1 holders.</p>
 
 <p>Make sure you are correctly registered for healthcare as a resident in Norway.</p>
 
@@ -288,9 +304,11 @@
 
 <p>If you live in Norway and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
 
+<p>You can <a rel="external" href="https://contactcentreservices.nhsbsa.nhs.uk/selfnhsukokb/AskUs_EHIC/en-gb/6696/application-forms-and-evidence/16477/s1-form-what-is-this-and-how-do-i-obtain-one" class="govuk-link">apply for an S1 certificate</a> through the Business Services Authority.</p>
+
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
 
-<p>If you are resident in Norway, you must not use a European Health Insurance Card (EHIC) from the UK to access healthcare in Norway.</p>
+<p>If you are resident in Norway, you must not use an EHIC from the UK to access healthcare in Norway.</p>
 
 <p>When you travel from Norway for a temporary stay in another European Economic Area (<abbr title="European Economic Area">EEA</abbr>) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay:</p>
 
@@ -301,25 +319,25 @@
 </li>
 </ul>
 
-<p>If you are a student, read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">NHS guidance on healthcare and studying abroad</a>.</p>
+<p>You can also continue to use your EHIC, as you did before, until the transition period ends on 31 December 2020. If you’re travelling to other countries make sure you have comprehensive health insurance.</p>
+
+<p>You should also read guidance on:</p>
+
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li>
+<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking your prescriptions are legal</a> in Norway</li>
+</ul>
 
 <p>You can only change your GP twice in a year. <a rel="external" href="http://paguro.net/destinations/moving-to-norway/all-documents-oslo/norway_oslo_doctor" class="govuk-link">Find English-speaking doctors and dentists in Norway</a>.</p>
 
 <p>Ask your doctor about a <a rel="external" href="https://helsenorge.no/other-languages/english" class="govuk-link">health insurance receipt card</a> at your first GP visit.</p>
 
-<p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a> in Norway.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>Social security coordination is covered by the Separation Agreement for those residing in Norway. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Norway before the end of the implementation period for as long as they remain in scope of the agreement. This includes students and S1 holders.</p>
-
-<p>You can also continue to use your EHIC, as you did before, during the implementation period.</p>
-
-<p>If you’re travelling to other countries make sure you have comprehensive health insurance.</p>
-
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The UK has a double-taxation agreement with Norway to ensure people do not pay tax on the same income in both countries.</p>
+<p>The UK has a double taxation agreement with Norway to ensure you do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in Norway have not changed.</p>
 
 <p>You can read our guidance on:</p>
 
@@ -340,10 +358,6 @@
 
 <p>If you are employed or self-employed in the EU or <abbr title="European Economic Area">EEA</abbr> and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Norway. Send your questions about double-taxation to the relevant tax authority.</p>
-
 <h2 id="pensions">Pensions</h2>
 
 <p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
@@ -361,11 +375,13 @@
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
 
-<p>Social security co-ordination is covered by the Separation Agreement for those residing in Norway. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Norway before the end of the implementation period, for as long as they reside in an <abbr title="European Economic Area">EEA</abbr> <abbr title="European Free Trade Area">EFTA</abbr> state (Iceland, Liechtenstein or Norway). This includes the right to an uprated UK State Pension.</p>
+<p>Social security co-ordination is covered by the Separation Agreement for those residing in Norway. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Norway before the transition period ends on 31 December 2020, for as long as they reside in an <abbr title="European Economic Area">EEA</abbr> <abbr title="European Free Trade Area">EFTA</abbr> state (Iceland, Liechtenstein or Norway). This includes the right to an uprated UK State Pension.</p>
 
 <h2 id="benefits">Benefits</h2>
+
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in Norway. You can:</p>
 
@@ -382,23 +398,21 @@
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you’ve worked in the UK</a> from HMRC if you are asked for this.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-january-2020">Benefits after 31 January 2020</h3>
 
-<p>The UK government will continue to pay State Pension, child benefits and disability benefits to those eligible in the EU after Brexit.</p>
-
-<p>Social security coordination is covered by the Separation Agreement. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Norway before the end of the implementation period, for as long as they reside in Norway.</p>
+<p>Social security coordination is covered by the Separation Agreement. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Norway before the transition period ends on 31 December 2020, for as long as they reside in Norway.</p>
 
 <h2 id="voting">Voting</h2>
+
+<p>If you’re resident in Norway, you can <a rel="external" href="https://valg.no/en/about-the-election/about-the-election/norwegian-municipal-and-county-council-elections/" class="govuk-link">vote in local elections</a>.</p>
 
 <p>You may be able to vote in some UK elections. You can:</p>
 
 <ul>
-  <li><a rel="external" href="https://www.yourvotematters.co.uk/can-i-vote/overseas" class="govuk-link">check if you are able to vote</a></li>
+  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
   <li>
-<a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
+<a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> to vote</li>
 </ul>
-
-<p>If you’re resident in Norway, you can <a rel="external" href="https://valg.no/en/about-the-election/about-the-election/norwegian-municipal-and-county-council-elections/" class="govuk-link">vote in local elections</a>.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
@@ -473,10 +487,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 26 June 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 11 June 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-11T14:11:07.000+01:00">11 June 2020</time>
+              <p class="app-c-published-dates__change-note">Visas and residency section updated to include information about how to access the UK National Support Fund for those who may find it harder to complete their residency applications.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T18:06:39.000+00:00">23 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity and how to get your professional qualifications recognised if the UK leaves the EU with a deal</p>
@@ -557,8 +575,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -566,48 +584,48 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-97ee1631" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b56e263e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-97ee1631" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b56e263e" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-switzerland" data-track-options="{"dimension28":"5","dimension29":"Living in Switzerland"}" href="/guidance/living-in-switzerland">Living in Switzerland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-liechtenstein" data-track-options="{"dimension28":"5","dimension29":"Living in Liechtenstein"}" href="/guidance/living-in-liechtenstein">Living in Liechtenstein</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-the-eu-prepare-for-brexit" data-track-options="{"dimension28":"5","dimension29":"Living in the EU: prepare for Brexit"}" href="/guidance/living-in-the-eu-prepare-for-brexit">Living in the EU: prepare for Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/eea-efta-separation-agreement-and-explainer" data-track-options="{"dimension28":"5","dimension29":"EEA EFTA Separation Agreement and Explainer"}" href="/government/publications/eea-efta-separation-agreement-and-explainer">EEA EFTA Separation Agreement and Explainer</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-belgium" data-track-options="{"dimension28":"5","dimension29":"Living in Belgium"}" href="/guidance/living-in-belgium">Living in Belgium</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-hungary" data-track-options="{"dimension28":"5","dimension29":"Living in Hungary"}" href="/guidance/living-in-hungary">Living in Hungary</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-97ee1631" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-b56e263e" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-97ee1631" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-b56e263e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-norway" data-track-options="{"dimension28":"2","dimension29":"Norway: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-norway">Norway: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-norway" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Norway"}" href="/guidance/healthcare-in-norway">Healthcare in Norway</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-norway" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Norway"}" href="/guidance/healthcare-in-norway">Healthcare for UK nationals living in Norway</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-97ee1631" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-b56e263e" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-97ee1631" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-b56e263e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -639,9 +657,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-50abc403" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-16883d11" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-50abc403" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-16883d11" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
