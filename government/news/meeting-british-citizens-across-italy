@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 November 2018
-    <br></br>Last updated 11 June 2020
+    <br></br>Last updated 12 June 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -209,6 +209,9 @@
 
 <ul>
   <li>
+    <p><a rel="external" href="https://www.facebook.com/notes/ukinitaly/a-message-from-jill-morris-her-majestys-ambassador/3090678924287492/" class="govuk-link">Issue 18</a> - 9 June 2020</p>
+  </li>
+  <li>
     <p><a rel="external" href="https://www.facebook.com/notes/ukinitaly/a-message-from-jill-morris-her-majestys-ambassador/2991483237540395/" class="govuk-link">Issue 17</a>  - 30 April 2020</p>
   </li>
   <li>
@@ -321,10 +324,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 November 2018
-    <br></br>Last updated 11 June 2020
+    <br></br>Last updated 12 June 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-12T08:49:54.000+01:00">12 June 2020</time>
+              <p class="app-c-published-dates__change-note">Newsletter from ambassador Jill Morris</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-11T12:26:29.000+01:00">11 June 2020</time>
               <p class="app-c-published-dates__change-note">Facebook Q&A session added  - 11-06-20</p>
@@ -497,14 +504,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-b0d0f06b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-664fc246" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b0d0f06b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-664fc246" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -541,9 +548,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9ab336b0" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d0c679df" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-9ab336b0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d0c679df" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -558,9 +565,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-9ab336b0" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-d0c679df" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-9ab336b0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-d0c679df" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
