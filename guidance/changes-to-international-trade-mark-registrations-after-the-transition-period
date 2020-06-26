@@ -1,11 +1,11 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Changes to international trade mark registrations after the transition period
+    Changes to international trade mark registrations after 1 January 2021
   </h1>
 </div>
   </div>
@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 30 January 2020
+    <br></br>Last updated 26 June 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -49,7 +51,7 @@
 
   <section class="app-c-header-notice" aria-label="notice" role="region">
     <div class="app-c-header-notice__header">
-      <h2 class="app-c-header-notice__title">The UK is leaving the EU</h2>
+      <h2 class="app-c-header-notice__title">The UK has left the EU</h2>
     </div>
 
     <div class="app-c-header-notice__content">
@@ -57,7 +59,7 @@
         <div class="app-c-header-notice__links">
             <p class="govuk-body app-c-header-notice__link-intro">
               For current information, read: 
-              <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/government/publications/protecting-your-uk-intellectual-property-abroad/protecting-your-design-abroad" data-track-label="Protecting your design abroad" class="app-c-header-notice__link" href="/government/publications/protecting-your-uk-intellectual-property-abroad/protecting-your-design-abroad">Protecting your design abroad</a>
+              <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/government/publications/protecting-your-uk-intellectual-property-abroad/protecting-your-trade-mark-abroad" data-track-label="Protecting your trade mark abroad" class="app-c-header-notice__link" href="/government/publications/protecting-your-uk-intellectual-property-abroad/protecting-your-trade-mark-abroad">Protecting your trade mark abroad</a>
             </p>
         </div>
 
@@ -70,28 +72,377 @@
   <div class="govuk-grid-column-two-thirds">
     
 
-      <div id="contents" class="app-c-contents-list-with-body">
+      <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">Contents</h2>
+
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#comparable-trade-mark-ir" data-track-options="{"dimension29":"Comparable trade mark (IR)\n"}" href="#comparable-trade-mark-ir">Comparable trade mark (IR)
+</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#effect-of-international-eu-subsequent-designations" data-track-options="{"dimension29":"Effect of international (EU) subsequent designations"}" href="#effect-of-international-eu-subsequent-designations">Effect of international (EU) subsequent designations</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#numbering-of-comparable-trade-mark" data-track-options="{"dimension29":"Numbering of comparable trade mark"}" href="#numbering-of-comparable-trade-mark">Numbering of comparable trade mark</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#pending-applications" data-track-options="{"dimension29":"Pending applications"}" href="#pending-applications">Pending applications</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#pending-applications-to-transform-an-international-registration" data-track-options="{"dimension29":"Pending applications to transform an international registration"}" href="#pending-applications-to-transform-an-international-registration">Pending applications to transform an international registration</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#opt-out-of-receiving-a-uk-comparable-trade-mark" data-track-options="{"dimension29":"Opt out of receiving a UK comparable trade mark"}" href="#opt-out-of-receiving-a-uk-comparable-trade-mark">Opt out of receiving a UK comparable trade mark</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#renewals-and-restoration" data-track-options="{"dimension29":"Renewals and restoration"}" href="#renewals-and-restoration">Renewals and restoration</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#effect-of-priority-and-seniority-claims" data-track-options="{"dimension29":"Effect of priority and seniority claims"}" href="#effect-of-priority-and-seniority-claims">Effect of priority and seniority claims</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#certification-and-collective-marks" data-track-options="{"dimension29":"Certification and collective marks"}" href="#certification-and-collective-marks">Certification and collective marks</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#use-and-reputation" data-track-options="{"dimension29":"Use and reputation"}" href="#use-and-reputation">Use and reputation</a>
+
+        </li>
+    </ol>
+</nav>
+      </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
+<div class="call-to-action">
 <p>On 1 January 2021, protected international trade mark registrations designating the <abbr title="European Union">EU</abbr> will no longer be valid in the UK.</p>
 
-<p>If you own an existing right, you do not need to do anything at this stage.</p>
+<p>On this day these rights will be immediately and automatically replaced by UK rights.</p>
 
-<p>The <abbr title="Intellectual Property Office">IPO</abbr> and <abbr title="World Intellectual Property Organization">WIPO</abbr> are discussing options that will ensure rights holders do not lose protection in the UK for their internationally protected <abbr title="European Union">EU</abbr> designations on 1 January 2021.</p>
+<p>If you own an existing right, you do not need to do anything at this stage.</p>
+</div>
+
+<h2 id="comparable-trade-mark-ir">Comparable trade mark <abbr title="International registration">(IR)</abbr>
+</h2>
+
+<h3 id="creation-of-the-comparable-uk-trade-mark">Creation of the comparable UK trade mark</h3>
+
+<p>For all protected international (<abbr title="European Union">EU</abbr>) trade mark designations we will create comparable UK trade marks, which will be recorded on the UK register.</p>
+
+<p>International trade mark registrations protected in the <abbr title="European Union">EU</abbr> under the Madrid Protocol will no longer enjoy protection in the UK after 1 January 2021.</p>
+
+<p>To address this, on 1 January 2021 we will create a comparable trade mark <abbr title="International registration">(IR)</abbr> in relation to each international (<abbr title="European Union">EU</abbr>) trade mark designation which has protected status immediately before 1 January 2021.</p>
+
+<p>Each new UK right will be treated as if applied for and registered under UK law, and may be challenged, assigned, licensed or renewed separately from the original international registration.</p>
+
+<p>If you designated the <abbr title="European Union">EU</abbr> in your international application, the filing
+and registration date of your comparable trade mark <abbr title="International registration">(IR)</abbr> will correspond to the date of your international registration.</p>
+
+<p>This date will also apply for the purposes of future UK renewal.</p>
+
+<p>Comparable trade marks will be created at no cost to the holder of the international trade mark, and we are ensuring that minimal administrative burden will be placed upon the rights holder.</p>
+
+<h2 id="effect-of-international-eu-subsequent-designations">Effect of international (<abbr title="European Union">EU</abbr>) subsequent designations</h2>
+
+<p>If you have designated the <abbr title="European Union">EU</abbr> more than once in your international registration <abbr title="International registration">(IR)</abbr> (for example, in your original application and through a later-filed subsequent designation) we will create a comparable trade mark <abbr title="International registration">(IR)</abbr> for each designation that has been protected in the <abbr title="European Union">EU</abbr>.</p>
+
+<p>This means that after 1 January 2021 you may hold multiple comparable UK trade marks corresponding to a single international registration.</p>
+
+<p>Where multiple comparable trade marks are created from a single international registration, each right will be independent.</p>
+
+<p>In all cases, the filing and registration date accorded to the comparable trade mark <abbr title="International registration">(IR)</abbr> will correspond to the date on which protection in the <abbr title="European Union">EU</abbr> was conferred.</p>
+
+<p>Where an <abbr title="European Union">EU</abbr> designation was obtained as part of an application for an international registration, the filing and registration date of the resulting comparable trade mark <abbr title="International registration">(IR)</abbr> will correspond to the date of the international registration.</p>
+
+<p>However, where <abbr title="European Union">EU</abbr> protection was obtained as a result of a subsequent designation, the relevant date of the resulting comparable trade mark <abbr title="International registration">(IR)</abbr> will be the date on which your request for subsequent designation was recorded in the international register.</p>
+
+<p>In all cases, the date of completion of the registration procedure recorded against your comparable trade mark <abbr title="International registration">(IR)</abbr> will be the publication date of the EUIPO bulletin confirming that <abbr title="European Union">EU</abbr> protection was not refused.</p>
+
+<h2 id="numbering-of-comparable-trade-mark">Numbering of comparable trade mark</h2>
+
+<p>The number allocated to the comparable trade mark <abbr title="International registration">(IR)</abbr> will be the last 8 digits of the international (<abbr title="European Union">EU</abbr>) trade mark prefixed with UK008. This will provide users with a means for identifying UK rights created from international registrations and distinguishing them from existing UK trade marks.</p>
+
+<p>The following examples demonstrate how comparable UK trade marks <abbr title="International registration">(IR)</abbr> will be codified:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Existing IR (EU) trade mark</th>
+      <th scope="col">Comparable UK trade mark (IR)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>000000977</td>
+      <td>UK00800000977</td>
+    </tr>
+    <tr>
+      <td>000025197</td>
+      <td>UK00800025197</td>
+    </tr>
+    <tr>
+      <td>000340513</td>
+      <td>UK00800340513</td>
+    </tr>
+    <tr>
+      <td>017867542</td>
+      <td>UK00817867542</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="pending-applications">Pending applications</h2>
+
+<p>If you hold a pending <abbr title="European Union">EU</abbr> designation on 1 January 2021, you will be able to apply to register a UK trade mark in the 9 months after 1 January 2021 and retain the earlier filing date of the pending <abbr title="European Union">EU</abbr> designation.</p>
+
+<p>We will only be creating comparable trade marks <abbr title="International registration">(IR)</abbr> from international (<abbr title="European Union">EU</abbr>) designations that are protected immediately before 1 January 2021</p>
+
+<p>Automatic creation of UK comparable marks will not apply to those <abbr title="European Union">EU</abbr> designations that, having been requested prior to 1 January 2021, have not, at 1 January 2021, been subject to a statement of protection issued by the EUIPO.</p>
+
+<p>If you have previously submitted an application for protection of an international (<abbr title="European Union">EU</abbr>) trade mark, and you have an international registration that is dated before 1 January 2021, you may claim that date in a UK application for the same trade mark.</p>
+
+<p>The same applies if you have sought <abbr title="European Union">EU</abbr> protection by requesting a subsequent designation, and it was recorded on the International Register before 1 January 2021.</p>
+
+<p>In both cases, you may claim the earlier date of the international registration or subsequent designation if you apply to register the same trade mark within 9 months after 1 January 2021.</p>
+
+<p>Where an application for protection of an international (<abbr title="European Union">EU</abbr>) trade mark or a request for <abbr title="European Union">EU</abbr> protection via a subsequent designation was submitted at a national office before 1 January 2021, you may not receive confirmation of the international registration or subsequent designation until after 1 January 2021.</p>
+
+<p>In this scenario, you can still claim the earlier international (<abbr title="European Union">EU</abbr>) date when applying to register the same trade mark in the UK.</p>
+
+<p>To do so, the UK application must be filed within 9 months of the date on which the international registration was recorded by <abbr title="World Intellectual Property Organization">WIPO</abbr> or, in the case of a subsequent designation, the date on which the request for <abbr title="European Union">EU</abbr> protection was recorded in the International
+Register.</p>
+
+<p>Where a UK application claiming the earlier international (<abbr title="European Union">EU</abbr>) date is filed at <abbr title="Intellectual Property Office">IPO</abbr> within either of the two 9-month periods referred to above, the application will be examined under UK law.</p>
+
+<p>Our digital and paper forms will be amended to include a new section for claiming the earlier date of the corresponding international registration.</p>
+
+<p>These applications will be treated as a UK trade mark application. They will be examined under UK law. In these circumstances, the standard UK fee structure will apply. Further information on <a href="https://www.gov.uk/government/publications/trade-mark-forms-and-fees" class="govuk-link">trade mark fees</a> is available.</p>
+
+<p>Users should note that international (<abbr title="European Union">EU</abbr>) trade marks that have been subject to a notice of refusal issued by the EUIPO prior to 1 January 2021 cannot be used for the purposes of claiming an earlier date when filing a corresponding UK application.</p>
+
+<h2 id="pending-applications-to-transform-an-international-registration">Pending applications to transform an international registration</h2>
+
+<p>If your international registration has been cancelled and you have filed a request to transform your international trade mark (<abbr title="European Union">EU</abbr>) into an <abbr title="European Union">EU</abbr> trade mark which is still pending at 1 January 2021, you may file a UK trade mark application.</p>
+
+<p>Provided that your application is submitted to <abbr title="Intellectual Property Office">IPO</abbr> within 9 months of 1 January 2021, you will be able to claim the earlier date assigned to the <abbr title="European Union">EU</abbr> designation.</p>
+
+<p>Where the corresponding <abbr title="European Union">EU</abbr> designation was protected at the time of its cancellation, the date that may be claimed for the UK application will be the date of the international registration.</p>
+
+<p>Where <abbr title="European Union">EU</abbr> protection was obtained through a subsequent designation, the date on which the request was recorded in the international register may be claimed for the UK application.</p>
+
+<p>Where the <abbr title="European Union">EU</abbr> designation was not yet protected at the time of its cancellation, you may claim the date of the international application. In the case of a subsequent designation, you may claim the date on which the request was recorded in the international register.</p>
+
+<p>In all cases, if a priority claim under the Paris Convention was attached to your cancelled international registration, you may claim that date against your UK application. This will be effective for the purposes of determining which rights take precedence.</p>
+
+<h2 id="opt-out-of-receiving-a-uk-comparable-trade-mark">Opt out of receiving a UK comparable trade mark</h2>
+
+<p>If you do not wish to hold the new right, you may opt out of holding it.</p>
+
+<p>Owners of protected international (<abbr title="European Union">EU</abbr>) trade marks may opt out of receiving a UK comparable trade mark. They are able to do this through the same opt out mechanism as is being provided for holders of Registered Community Designs (<abbr title="Registered Community Designs">RCD</abbr>), international (<abbr title="European Union">EU</abbr>) Designs, and <abbr title="European Union">EU</abbr> trade marks.</p>
+
+<p>If you wish to opt out, you will need to submit a short notice providing the number of the international registration together with details of any persons with a registered interest in the right.</p>
+
+<p>The effect of such an opt out is that the comparable trade mark <abbr title="International registration">(IR)</abbr> will be treated as if it had never been applied for or registered under UK law.</p>
+
+<p>If your international registration contains more than one <abbr title="European Union">EU</abbr> designation because of a subsequent request for protection, you will receive multiple comparable trade marks <abbr title="International registration">(IR)</abbr>.
+In this scenario, a single opt out request will apply to all comparable trade marks <abbr title="International registration">(IR)</abbr> held by the requestor. More information on opt out is provided in the section of this business
+guidance dedicated to RCDs.</p>
+
+<p><a href="https://www.gov.uk/guidance/eu-trademark-protection-and-comparable-uk-trademarks" class="govuk-link">Trade mark-specific guidance on opt out</a> is available.</p>
+
+<h2 id="renewals-and-restoration">Renewals and restoration</h2>
+
+<p>For future renewals, comparable trade marks <abbr title="International registration">(IR)</abbr> that have been created from a protected <abbr title="European Union">EU</abbr> designation filed as part of an international application will inherit the existing renewal date of the corresponding international registration.</p>
+
+<p>Where created from an <abbr title="European Union">EU</abbr> subsequent designation, the comparable mark will adopt the date of that subsequent designation for the purpose of future renewal.</p>
+
+<p>The UK renewal date for comparable trade marks <abbr title="International registration">(IR)</abbr> that correspond to an <abbr title="European Union">EU</abbr> subsequent designation will be different from that recorded against the corresponding international registration.</p>
+
+<p>As with comparable trade marks created from <abbr title="European Union trade mark">EUTMs</abbr>, we will send renewal reminder notices to holders of comparable trade marks <abbr title="International registration">(IR)</abbr> which are due to expire at any point after the 6-month period following 1 January 2021.</p>
+
+<p>A new approach is being introduced to accommodate comparable trade marks <abbr title="International registration">(IR)</abbr> that expire within the 6-month period following 1 January 2021.</p>
+
+<p>Provision is also being made for international registrations that have expired within the 6 months prior to 1 January 2021 and which are still in their late renewal period.</p>
+
+<h3 id="comparable-trade-marks-which-expire-after-1-january-2021">Comparable trade marks which expire after 1 January 2021</h3>
+
+<p>Where your comparable trade mark <abbr title="International registration">(IR)</abbr> expires within the period of 6 months immediately after 1 January 2021, we will send you a reminder renewal notice on the actual date of expiry (or as soon as is practicable after that date).</p>
+
+<p>This notice will inform you that the registration of the comparable trade mark <abbr title="International registration">(IR)</abbr> has expired, and that we will provide you with a further 6-month renewal period. This will run from the date of the notice.</p>
+
+<p>You should note the following:</p>
+
+<ul>
+  <li>this procedure equates to renewal of a comparable trade mark <abbr title="International registration">(IR)</abbr> after its expiry date has passed</li>
+  <li>the ‘late’ renewal of rights which have expired at any time within the 6 months after 1 January 2021 will not be subject to an additional late renewal fee</li>
+  <li>where your comparable trade mark <abbr title="International registration">(IR)</abbr> corresponds to an <abbr title="European Union">EU</abbr> subsequent designation, its renewal date will be different from the renewal date accorded to the international registration</li>
+  <li>where the ten-year anniversary of the date of your <abbr title="European Union">EU</abbr> subsequent designation falls at any time after 1 January 2021, that date shall become your comparable trade mark’s renewal date. You will still be required to renew it at the <abbr title="Intellectual Property Office">IPO</abbr>
+</li>
+  <li>renewal of your corresponding international registration at <abbr title="World Intellectual Property Organization">WIPO</abbr> will have no bearing on renewal of the comparable trade mark</li>
+  <li>where an international registration’s renewal date falls after 1 January 2021, early payment of the renewal fee at <abbr title="World Intellectual Property Organization">WIPO</abbr>, on a date prior to 1 January 2021, will have no effect in respect of the comparable trade mark <abbr title="International registration">(IR)</abbr>.</li>
+  <li>any comparable trade mark <abbr title="International registration">(IR)</abbr> with a renewal date falling at any time after 1 January 2021 will be subject to a UK renewal action and fee. This will be regardless of whether a renewal action was taken on the corresponding international registration before 1 January 2021</li>
+  <li>where the comparable UK right is not renewed, it will be removed from the register but may be restored at a later date in accordance with existing UK law</li>
+</ul>
+
+<h3 id="international-trade-marks-which-expire-before-1-january-2021">International trade marks which expire before 1 January 2021</h3>
+
+<p>We will also create a comparable trade mark <abbr title="International registration">(IR)</abbr> from any international registration that has expired in the 6 months prior to 1 January 2021.</p>
+
+<p>These UK rights will hold an ‘expired’ status, and their continued effect in the UK will be dependent upon late renewal of the corresponding international registration at <abbr title="World Intellectual Property Organization">WIPO</abbr>.
+You should note the following:</p>
+
+<ul>
+  <li>where that registration has been subject to late renewal, and the holder has informed the <abbr title="Intellectual Property Office">IPO</abbr> about such action, the late renewal of the international registration will have effect on the expired comparable trade mark</li>
+  <li>this means that the comparable trade mark will be automatically renewed as a result of the international registration’s late renewal</li>
+  <li>in this scenario, you will not be required to pay any renewal fees in respect of your renewal of the comparable trade mark <abbr title="International registration">(IR)</abbr> which derived from the international trade mark</li>
+  <li>where your comparable trade mark <abbr title="International registration">(IR)</abbr> corresponds to an <abbr title="European Union">EU</abbr> subsequent designation, it will inherit the date of <abbr title="European Union">EU</abbr> protection for that designation. This date will be used for future renewals</li>
+</ul>
+
+<h3 id="validity-of-new-uk-expiry-date">Validity of ‘new’ UK expiry date</h3>
+
+<p>The ‘new’ UK expiry date adopted by the comparable trade mark will be redundant in the following circumstances:</p>
+
+<ul>
+  <li>where the <abbr title="European Union">EU</abbr> subsequent designation relates to an international registration that has expired in the 6 months prior to 1 January 2021 and has not yet been renewed, and</li>
+  <li>where the international registration is still in its late-renewal period</li>
+  <li>the UK expiry date will only become effective once the corresponding international registration has itself been renewed at <abbr title="World Intellectual Property Organization">WIPO</abbr>
+</li>
+</ul>
+
+<p>How this affects you will depend upon the dates of your international registration and <abbr title="European Union">EU</abbr> subsequent designation. In some scenarios, you may be obliged to pay a UK renewal fee very soon after renewing your international registration.</p>
+
+<p>Conversely, your comparable trade mark may enjoy nearly ten years’ protection before your first UK renewal is triggered.</p>
+
+<p>Users should note that holders must inform the <abbr title="Intellectual Property Office">IPO</abbr> that their corresponding international registration has been late-renewed at <abbr title="World Intellectual Property Organization">WIPO</abbr> by sending an email to <a href="mailto:WIPOrenewaltrademarks@ipo.gov.uk" class="govuk-link">WIPOrenewaltrademarks@ipo.gov.uk</a>. The notice must be submitted within 9 months of 1 January 2021.</p>
+
+<p>Failure to provide notification within that period will result in the comparable trade mark <abbr title="International registration">(IR)</abbr> being removed from the UK register.</p>
+
+<p>The comparable trade mark <abbr title="International registration">(IR)</abbr> will be treated as if it had never been applied for or registered under UK law. This will be the case even if that international registration has been subject to late renewal.</p>
+
+<h2 id="effect-of-priority-and-seniority-claims">Effect of priority and seniority claims</h2>
+
+<h3 id="priority-date">Priority date</h3>
+
+<p>A priority date claimed under the Paris Convention that has been recorded against the corresponding international (<abbr title="European Union">EU</abbr>) trade mark will be inherited by the comparable UK trade mark.</p>
+
+<p>The date of that priority claim will have effect where proceedings involve a comparable UK trade mark <abbr title="International registration">(IR)</abbr> with a priority claim inherited from the corresponding international (<abbr title="European Union">EU</abbr>) designation.</p>
+
+<h3 id="seniority-of-a-trade-mark">Seniority of a trade mark</h3>
+
+<p>Seniority is a concept which derives from <abbr title="European Union">EU</abbr> legislation. It applies only to <abbr title="European Union">EU</abbr> trade marks (EUTM), UK trade marks that have been converted from <abbr title="European Union trade mark">EUTMs</abbr>, and international <abbr title="European Union">EU</abbr> designations.</p>
+
+<p>From 1 January 2021 it will also apply to the UK comparable trade marks
+which derive from <abbr title="European Union trade mark">EUTMs</abbr> or international trade marks (<abbr title="European Union">EU</abbr>) which themselves claimed seniority of a trade mark.</p>
+
+<p>It allows a business to consolidate their national registered trade marks into one single international (<abbr title="European Union">EU</abbr>) designation (or EUTM).</p>
+
+<p>It does this by retaining the ‘senior’ dates of those national rights and recording them against the international (<abbr title="European Union">EU</abbr>) designation (or EUTM).</p>
+
+<p>Where the national marks are surrendered or allowed to lapse, the owner is deemed to have the same rights as they would have if the earlier national mark(s) had continued to be registered.</p>
+
+<p>Seniority can determine the effective date of an existing international (<abbr title="European Union">EU</abbr>) designation. We have ensured that seniority claims based on earlier UK or international (UK) trade marks will be recognised.</p>
+
+<p>The new law ensures that any seniority claim based on an earlier UK or international (UK) trade mark which has been recorded against an international (<abbr title="European Union">EU</abbr>) designation will be retained by the comparable UK trade mark. The retention of existing priority and seniority dates in comparable UK trade marks will be automatic.</p>
+
+<p>As the holder of an international (<abbr title="European Union">EU</abbr>) right, you will not be required to inform us of any earlier effective dates. This is because filing, priority and seniority information will be automatically transferred onto the new UK right.</p>
+
+<p>The UK application process will provide you with a means for recording priority and seniority dates for applications corresponding to a pending international (<abbr title="European Union">EU</abbr>) application filed within 9 months after 1 January 2021.</p>
+
+<h2 id="certification-and-collective-marks">Certification and collective marks</h2>
+
+<p>As with conventional <abbr title="European Union">EU</abbr> Trade Marks, we will create comparable UK rights from all <abbr title="European Union">EU</abbr> certification and collective marks registered at EUIPO before 1 January 2021.
+Certification and collective marks perform a different function to conventional trade marks.</p>
+
+<p>Certification marks provide a guarantee that goods or services bearing the mark meet a defined standard or possess a particular characteristic.</p>
+
+<p>Collective marks indicate that the goods or services originate from members of a trade association, rather than just one trader.</p>
+
+<p>The registration of both certification and collective marks is subject to the registering authority’s approval of regulations governing how the marks are used.</p>
+
+<p>These regulations must be available for third parties to view and, in the case of many International (<abbr title="European Union">EU</abbr>) designations being treated as <abbr title="European Union">EU</abbr> certification and collective marks, they will be in languages other than English.</p>
+
+<p>As with conventional protected trade marks designating the <abbr title="European Union">EU</abbr>, we will create comparable UK rights from all international (<abbr title="European Union">EU</abbr>) trade marks which, for the purposes of the European Union Trade Mark Regulation, are treated as <abbr title="European Union">EU</abbr> certification and collective marks, and which are protected immediately before 1 January 2021.</p>
+
+<p>We will not automatically import onto the UK trade mark register the regulations governing use of those international (<abbr title="European Union">EU</abbr>) rights.</p>
+
+<p>We will also not request that the holder provide an English translation immediately after 1 January 2021. Instead, where you become the holder of a comparable UK certification or collective mark, we will contact you when we need to inspect the regulations (for example, where the mark becomes subject to proceedings).</p>
+
+<p>Where the regulations are in a language other than English, we will at that point request a translation.</p>
+
+<p>Failure to provide translated regulations will result in loss of the right.</p>
+
+<h2 id="use-and-reputation">Use and reputation</h2>
+
+<p>The new law ensures that any use of the mark in the <abbr title="European Union">EU</abbr>, whether inside or outside of the UK, which has been made prior to 1 January 2021, will count as use of the comparable UK right.</p>
+
+<p>For a national trade mark, an uninterrupted period of five years of non-use in the UK can render a mark vulnerable to challenge.</p>
+
+<p>Applying this approach to comparable UK trade marks created on 1 January 2021, many of which will correspond to international (<abbr title="European Union">EU</abbr>) trade marks that have never been used in the UK, would fail to provide sufficient protection for those new comparable rights.</p>
+
+<p>It would likely lead to outcomes that are both unintended and unjust.</p>
+
+<p>To address this issue, the new law ensures that any use of the mark in the <abbr title="European Union">EU</abbr>, whether inside or outside of the UK, which has been made prior to 1 January 2021, will count as use of the comparable UK right.</p>
+
+<p>Where the relevant five-year period includes time prior to 1 January 2021, use in the <abbr title="European Union">EU</abbr> will be considered in assessing whether there has been use of the mark.</p>
+
+<p>Where the period includes any time after 1 January 2021, use of the comparable trade mark in the <abbr title="European Union">EU</abbr> (and outside of the UK) within that period will not be taken into account.</p>
+
+<p>In all cases, the five-year period of suspended use is activated by last use of the corresponding international (<abbr title="European Union">EU</abbr>) trade mark or comparable trade mark.</p>
+
+<p>Where that use was of the corresponding international (<abbr title="European Union">EU</abbr>) trade mark, and it was made in the <abbr title="European Union">EU</abbr> prior to 1 January 2021 (whether inside or outside of the UK), it will count for the purposes of the comparable trade mark.</p>
+
+<p>A similar approach is being applied to the assessment of reputation.</p>
+
+<p>In relation to the consideration of any time prior to 1 January 2021, reputation of the corresponding international (<abbr title="European Union">EU</abbr>) trade mark, in the <abbr title="European Union">EU</abbr> but not necessarily in the UK, will be considered for the purposes of the comparable UK right.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 30 January 2020
+    <br></br>Last updated 26 June 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-26T11:59:24.000+01:00">26 June 2020</time>
+              <p class="app-c-published-dates__change-note">Owners of international trade marks and designs designating the EU will have comparable UK rights automatically created at the end of the transition period based on their international rights protected through the Madrid and Hague systems.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-30T16:19:00.000+00:00">30 January 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
+      <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
   </div>
   </div>
   
@@ -127,9 +478,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f18a0b53" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0c5fa20a" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-f18a0b53" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-0c5fa20a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
