@@ -113,7 +113,7 @@
 <p>You can add the rest of the information required at any time before your consignment arrives by updating your notification.</p>
 
 <h3 id="updating-a-notification">Updating a notification</h3>
-<p>You can update your notification in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> if you do not have all the details when you first submit it or if something changes. If your notification is shown as ‘in progress’ you’ll need to call the relevant <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details" class="govuk-link">border control post</a> (<abbr title="border control post">BCP</abbr>) to ask them for access to make your changes.</p>
+<p>You can update your notification in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> if you do not have all the details when you first submit it or if something changes.</p>
 
 <p><a class="gem-c-button govuk-button govuk-button--start" role="button" href="https://import-products-animals-food-feed.service.gov.uk/notification/prd/protected/notifications"> Start Now <svg class="govuk-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewbox="0 0 33 40" role="presentation" focusable="false"><path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z"></path></svg></a></p>
 
@@ -128,6 +128,10 @@
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-29T12:03:31.000+01:00">29 June 2020</time>
+              <p class="app-c-published-dates__change-note">Removed "If your notification is shown as ‘in progress’ you’ll need to call the relevant border control post (BCP) to ask them for access to make your changes" because it only applies to non-EU imports.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-29T10:47:32.000+01:00">29 June 2020</time>
               <p class="app-c-published-dates__change-note">Added information on how and when to submit and update a notification.</p>
@@ -189,14 +193,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-4e6edf40" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-8de138df" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-4e6edf40" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-8de138df" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -232,9 +236,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-22e77ac8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2b223ee6" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-22e77ac8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-2b223ee6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
