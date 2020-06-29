@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Germany
   </h1>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 May 2013
-    <br></br>Last updated 12 February 2020
+    <br></br>Last updated 29 June 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -66,71 +66,75 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#applying-for-german-citizenship" data-track-options="{"dimension29":"Applying for German citizenship"}" href="#applying-for-german-citizenship">Applying for German citizenship</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#Passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#Passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#applying-for-german-citizenship" data-track-options="{"dimension29":"Applying for German citizenship"}" href="#applying-for-german-citizenship">Applying for German citizenship</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#Passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#Passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#working-and-studying-in-germany" data-track-options="{"dimension29":"Working and studying in Germany"}" href="#working-and-studying-in-germany">Working and studying in Germany</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-and-studying-in-germany" data-track-options="{"dimension29":"Working and studying in Germany"}" href="#working-and-studying-in-germany">Working and studying in Germany</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#driving-in-germany" data-track-options="{"dimension29":"Driving in Germany"}" href="#driving-in-germany">Driving in Germany</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#driving-in-germany" data-track-options="{"dimension29":"Driving in Germany"}" href="#driving-in-germany">Driving in Germany</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
 </a>
 
         </li>
@@ -147,11 +151,14 @@
 <p>You should:</p>
 
 <ul>
-  <li>
-<a href="https://www.gov.uk/guidance/living-in-germany#visas-and-residency" class="govuk-link">register as a resident</a> in Germany, including registering at your local registration office and applying for a new residence permit</li>
+  <li><a href="https://www.gov.uk/guidance/living-in-germany#visas-and-residency" class="govuk-link">register at your local registration office</a></li>
   <li><a href="https://www.gov.uk/guidance/living-in-germany#working-and-studying-in-germany" class="govuk-link">get your professional qualifications recognised</a></li>
 </ul>
 </div>
+
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the German Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/germany" class="govuk-link">Germany travel advice</a> for our latest guidance.</p>
 
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
@@ -190,23 +197,17 @@
 
 <p>Whenever you move home in Germany, you must register at your new address.</p>
 
-<p>If you are resident in Germany before the transition period ends on 31 December 2020, you will be able to stay.</p>
+<p>If you are resident in Germany before the transition period ends on 31 December 2020, you will be able to stay. To confirm your rights under the Withdrawal Agreement, you will need to <a href="https://www.gov.uk/government/publications/germany-residence-information-after-eu-exit/foreigners-authorities-in-germany" class="govuk-link">obtain a new residence document</a>.</p>
 
-<p>To confirm your rights under the Withdrawal Agreement and stay after 31 December 2020, you must <a href="https://www.gov.uk/government/publications/germany-residence-information-after-eu-exit/foreigners-authorities-in-germany" class="govuk-link">apply for a new residence permit from your local Foreigners Authority (Ausländerbehörde)</a>.</p>
+<p>The German authorities have not yet confirmed the process to obtain the residency document, but once it is announced you will have until at least 30 June 2021 to submit your request. You will need a valid passport when requesting a residence document.</p>
 
-<p>You will need a valid passport when applying for a residence permit.</p>
-
-<p>The German authorities have not yet confirmed the new residency application processes. We will update this guidance as soon as information is available.</p>
-
-<p><abbr title="United Kingdom">UK</abbr> nationals will be able to continue to move to Germany until the transition period ends on 31 December 2020, as now.</p>
-
-<p>For more information, see the <a rel="external" href="https://www.bmi.bund.de/SharedDocs/faqs/EN/themen/verfassung/brexit/faqs-brexit.html" class="govuk-link">Federal Ministry of the Interior’s FAQs on residency and citizenship</a>.</p>
+<p>We will update this guidance as soon as information is available. For more information, read the <a rel="external" href="https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/constitution/brexit/faqs-brexit.html" class="govuk-link">German Federal Interior Ministry’s guidance and follow their recommended actions</a>.</p>
 
 <h2 id="applying-for-german-citizenship">Applying for German citizenship</h2>
 
 <p>If you are permanently resident in Germany, you may be able to <a rel="external" href="https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html" class="govuk-link">apply for German citizenship</a> (in German).</p>
 
-<p>The <abbr title="United Kingdom">UK</abbr> has no restrictions on dual nationality. Germany only allows dual nationality in exceptional cases. Find information on the <a rel="external" href="https://www.bmi.bund.de/SharedDocs/faqs/EN/themen/verfassung/brexit/faqs-brexit.html" class="govuk-link">Federal Ministry of the Interior’s FAQs on residency and citizenship</a>.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> has no restrictions on dual nationality. Germany only allows dual nationality in exceptional cases. Find information on the <a rel="external" href="https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/constitution/brexit/faqs-brexit.html" class="govuk-link">Federal Ministry of the Interior’s FAQs on residency and citizenship</a>.</p>
 
 <h2 id="Passports-and-travel">Passports and travel</h2>
 
@@ -222,15 +223,13 @@
 
 <h2 id="healthcare">Healthcare</h2>
 
-<p>If you are living in Germany or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Germany as you do now, provided you remain resident.</p>
+<p>Health insurance is compulsory in Germany. As a resident in Germany, you must register with a health insurer (Krankenkasse) to access healthcare. This is usually done through your employer. Ask your employer’s HR department for more information.</p>
 
-<p>As a resident in Germany, you must register with a health insurance company (Krankenkasse) to access healthcare. This is usually done through your employer. Ask your employer’s HR department for more information.</p>
+<p>You are able to choose your <a rel="external" href="https://www.gkv-spitzenverband.de/service/versicherten_service/krankenkassenliste/krankenkassen.jsp" class="govuk-link">health insurer</a> (in German) and in some cases you can choose private health insurance (private Krankenversicherung) instead of the standard statutory health insurance (gesetzliche Krankenversicherung).</p>
 
-<p>Read the German government’s <a rel="external" href="https://www.bmas.de/SharedDocs/Downloads/DE/PDF-Publikationen/a998-social-security-at-a-glance-total-summary.pdf?__blob=publicationFile&v=8" class="govuk-link">guide on social security in Germany</a>.</p>
+<p>If you are living in Germany or move there permanently before the transition period ends on 31 December 2020, you’ll have life-long healthcare rights in Germany as you do now, provided you remain resident.</p>
 
-<p>You are able to choose your <a rel="external" href="https://www.gkv-spitzenverband.de/service/versicherten_service/krankenkassenliste/krankenkassen.jsp" class="govuk-link">health insurance provider</a> (in German) and in some cases you can choose private health insurance (private Krankenversicherung) instead of the standard statutory health insurance (gesetzliche Krankenversicherung).</p>
-
-<p>If you are resident in Germany and have statutory or private health insurance from a German provider, your access to healthcare will remain the same. This applies if you are an employee or self-employed.</p>
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-germany" class="govuk-link">guidance on accessing healthcare in Germany</a>  and the German government’s  <a rel="external" href="https://www.bmas.de/SharedDocs/Downloads/DE/PDF-Publikationen/a998-social-security-at-a-glance-total-summary.pdf?__blob=publicationFile&v=8" class="govuk-link">guidance on social security in Germany</a>.</p>
 
 <h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
@@ -284,7 +283,7 @@
 <a rel="external" href="https://www.bundesjustizamt.de/DE/Themen/Buergerdienste/BZR/Inland/FAQ_node.html" class="govuk-link">German criminal record check (Führungszeugnis)</a> (in German) which can be ordered from your local registry office (Meldebehörde)</li>
 </ul>
 
-<p>For further information, read the FAQs of the <a rel="external" href="https://www.bmas.de/DE/Themen/Soziales-Europa-und-Internationales/Europa/Brexit/brexit.html" class="govuk-link">German Federal Ministry of Labour and Social Affairs</a> (in German) and the <a rel="external" href="https://www.arbeitsagentur.de/information-about-brexit-british" class="govuk-link">Federal Employment Agency</a>.</p>
+<p>For further information, read this <a rel="external" href="https://www.bmas.de/DE/Themen/Soziales-Europa-und-Internationales/Europa/Brexit/brexit.html" class="govuk-link">guidance from the Federal Ministry of Labour and Social Affairs</a> (in German) and the <a rel="external" href="https://www.arbeitsagentur.de/information-about-brexit-british" class="govuk-link">Federal Employment Agency</a>.</p>
 
 <h3 id="education">Education</h3>
 
@@ -385,7 +384,7 @@
 
 <p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the <abbr title="European Union">EU</abbr></a>.</p>
 
-<p>Read the <a rel="external" href="https://www.bmas.de/DE/Themen/Soziales-Europa-und-Internationales/Europa/Brexit/Fragen-und-Antworten/faq-brexit.html?fbclid=IwAR17xi2f655Vo26Md7qo2hQIbNjRJ3hLkBCh9Wdw05ebIE6gpm2L54stdGU" class="govuk-link">German Federal Ministry of Labour and Social Affairs’ FAQs</a> (in German).</p>
+<p>Read <a rel="external" href="https://www.bmas.de/DE/Themen/Soziales-Europa-und-Internationales/Europa/Brexit/brexit.html" class="govuk-link">guidance from the Federal Ministry of Labour and Social Affairs</a> (in German).</p>
 
 <h2 id="benefits">Benefits</h2>
 
@@ -423,13 +422,13 @@
 
 <p>Driving licence exchange rules will stay the same until 31 December 2020.</p>
 
-<p>If you are a resident in Germany, you must exchange your <abbr title="United Kingdom">UK</abbr> licence for a German one within 6 months of moving to Germany. You can still use your German licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
+<p>If you are a resident in Germany, you must exchange your <abbr title="United Kingdom">UK</abbr> licence for a German one within 6 months of moving to Germany. You can still use your German licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>. Driving licences are issued at local authority level in Germany. Your local Bürgeramt can advise you on where you can go to exchange your licence.</p>
 
 <p>An International Driving Permit is not a suitable alternative to exchanging your licence.</p>
 
 <p>If your <abbr title="United Kingdom">UK</abbr> driving licence is lost, stolen or expires, you will not be able to renew it with the <abbr title="United Kingdom">UK</abbr> Driver and Vehicle Licensing Agency (<abbr title="Driver and Vehicle Licensing Agency">DVLA</abbr>) while you are resident in Germany.</p>
 
-<p>Read our guidance on:</p>
+<p>Read more guidance on:</p>
 
 <ul>
   <li><a href="https://www.gov.uk/driving-abroad" class="govuk-link">driving abroad</a></li>
@@ -541,10 +540,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 May 2013
-    <br></br>Last updated 12 February 2020
+    <br></br>Last updated 29 June 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-29T14:37:35.000+01:00">29 June 2020</time>
+              <p class="app-c-published-dates__change-note">Visa and residency section updated to include new information on residence documents: click the link ‘obtain a new residence document’. You can send us your questions during our Facebook Q&A (30 June). See the ‘attend a citizen outreach meeting’ section.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-02-12T15:13:09.000+00:00">12 February 2020</time>
               <p class="app-c-published-dates__change-note">New information on the Withdrawal Agreement, and an updated link to German Interior Ministry information on residency rights</p>
@@ -702,48 +705,48 @@ Information about importing a UK-registered vehicle added to driving in Germany 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-7b632f2d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-ca5300f8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7b632f2d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-ca5300f8" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"5","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-europe" data-track-options="{"dimension28":"5","dimension29":"Living in Europe"}" href="/guidance/living-in-europe">Living in Europe</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-spain" data-track-options="{"dimension28":"5","dimension29":"Living in Spain"}" href="/guidance/living-in-spain">Living in Spain</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-greece" data-track-options="{"dimension28":"5","dimension29":"Living in Greece"}" href="/guidance/living-in-greece">Living in Greece</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-7b632f2d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-ca5300f8" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-7b632f2d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-ca5300f8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-germany" data-track-options="{"dimension28":"2","dimension29":"Germany: notarial and documentary services guide"}" href="/guidance/notarial-and-documentary-services-guide-for-germany">Germany: notarial and documentary services guide</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-germany" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Germany"}" href="/guidance/healthcare-in-germany">Healthcare in Germany</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-germany" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Germany"}" href="/guidance/healthcare-in-germany">Healthcare for UK nationals living in Germany</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-7b632f2d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-ca5300f8" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-7b632f2d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-ca5300f8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -775,9 +778,9 @@ Information about importing a UK-registered vehicle added to driving in Germany 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1b97b502" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4f1490c4" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1b97b502" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-4f1490c4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
