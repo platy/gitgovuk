@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Slovakia
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Slovakia, including guidance on Brexit, residency, passports and driving.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Slovakia, including guidance on residency, healthcare, passports and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 22 May 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 29 June 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,67 +62,75 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-slovakia" data-track-options="{"dimension29":"Working in Slovakia"}" href="#working-in-slovakia">Working in Slovakia</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#working-in-slovakia" data-track-options="{"dimension29":"Working in Slovakia"}" href="#working-in-slovakia">Working in Slovakia</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-slovakia" data-track-options="{"dimension29":"Driving in Slovakia"}" href="#driving-in-slovakia">Driving in Slovakia</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-getting-married" data-track-options="{"dimension29":"Births, deaths, getting married"}" href="#births-deaths-getting-married">Births, deaths, getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#driving-in-slovakia" data-track-options="{"dimension29":"Driving in Slovakia"}" href="#driving-in-slovakia">Driving in Slovakia</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-getting-married" data-track-options="{"dimension29":"Births, deaths, getting married"}" href="#births-deaths-getting-married">Births, deaths, getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
 </a>
 
         </li>
@@ -133,7 +142,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
@@ -143,9 +152,13 @@
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the Slovak Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/slovakia" class="govuk-link">Slovakia travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The <abbr title="United Kingdom">UK</abbr> is leaving the <abbr title="European Union">EU</abbr>. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-slovakia" class="govuk-link">email alerts to this guidance</a>
@@ -155,47 +168,78 @@
 </ul>
 
 <h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
-<p>The British Embassy regularly holds events across Slovakia for <abbr title="United Kingdom">UK</abbr> nationals. <a href="https://www.gov.uk/government/news/british-embassy-outreach-events-in-slovakia" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Slovakia after Brexit.</p>
+<p>The British Embassy regularly holds events across Slovakia for <abbr title="United Kingdom">UK</abbr> nationals. <a href="https://www.gov.uk/government/news/british-embassy-outreach-events-in-slovakia" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Slovakia.</p>
 
 <p>You can also:</p>
 
 <ul>
-  <li>read the Slovak Foreigners Police <a rel="external" href="http://www.minv.sk/?brexit-2&fbclid=IwAR3rW7wdXUJl2_wA5sFZdhrEX3wpg-Ad96nH2DKwQVoy638MhnxJ_g9Kp88" class="govuk-link">information for <abbr title="United Kingdom">UK</abbr> nationals on residence</a> in relation to Brexit</li>
-  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the <abbr title="European Union">EU</abbr>: prepare for Brexit</a>
-</li>
+  <li>read the Slovak Foreigners Police <a rel="external" href="http://www.minv.sk/?brexit-2&fbclid=IwAR3rW7wdXUJl2_wA5sFZdhrEX3wpg-Ad96nH2DKwQVoy638MhnxJ_g9Kp88" class="govuk-link">information for <abbr title="United Kingdom">UK</abbr> nationals on residence</a> in Slovakia</li>
 </ul>
+
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
+
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the <abbr title="United Kingdom">UK</abbr>’s withdrawal from the <abbr title="European Union">EU</abbr> and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the <abbr title="European Union">EU</abbr> broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in Slovakia at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Slovakia.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information</p>
+
+<p>In the meantime, make sure you are registered as a resident in Slovakia. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p><a href="https://www.gov.uk/foreign-travel-advice/slovakia/entry-requirements" class="govuk-link">Check the entry requirements for Slovakia</a>.</p>
 
-<p>If you’re staying in Slovakia for more than 3 months, you must register with your local <a rel="external" href="https://www.minv.sk/?the-units-of-foreign-police-of-the-police-force" class="govuk-link">foreign police department</a>. You can also read the Ministry of the Interior’s <a rel="external" href="https://www.minv.sk/?residence-of-an-foreigner" class="govuk-link">guide to residence of foreign nationals in Slovakia</a>. You can book your appointment online with <a rel="external" href="https://www.minv.sk/?objednavaci-system-na-ocp" class="govuk-link">the Slovak Foreigners Police Units</a>.</p>
+<h3 id="residency">Residency</h3>
 
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
+<p>If you are resident in Slovakia before transition period ends on 31 December 2020 you will be able to stay.</p>
 
-<p>If you are resident in Slovakia before the end of the implementation period on 31 December 2020 you will be able to stay.</p>
+<p>If you’re staying in Slovakia for more than 3 months, you must register with your local Foreigners Police department as soon as possible. You should read the Ministry of the Interior’s <a rel="external" href="https://www.minv.sk/?residence-of-an-foreigner" class="govuk-link">guide to residence of foreign nationals in Slovakia</a>.</p>
 
-<p>If there are changes to residency registration processes after Brexit, we will update this page as soon as information is available.</p>
+<p><a rel="external" href="https://www.minv.sk/?the-units-of-foreign-police-of-the-police-force" class="govuk-link">Check the address of your local Foreigners Police department</a> where you must register your stay. You can also check how to book an appointment online with <a rel="external" href="https://www.minv.sk/?objednavaci-system-na-ocp" class="govuk-link">the Slovak Foreigners Police Units</a> (in Slovak).</p>
+
+<p>You will need to obtain a new Residence Card before 30 June 2021. Read the <a rel="external" href="http://www.minv.sk/?brexit-2" class="govuk-link">Slovak Ministry of Interior guidance on the transition period and residency</a>.</p>
+
+<p>If there are changes to residency registration processes, we will update this page as soon as information is available.</p>
+
+<p>Read our <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">guidance on moving or retiring abroad</a>.</p>
+
+<h3 id="uk-national-support-fund">
+<abbr title="United Kingdom">UK</abbr> National Support Fund</h3>
+
+<p>On 6 March 2020 the <a href="https://www.gov.uk/government/news/uk-government-allocates-3-million-to-support-uk-nationals-in-the-eu" class="govuk-link"><abbr title="Foreign and Commonwealth Office">FCO</abbr> announced funding</a> for organisations to provide practical support to <abbr title="United Kingdom">UK</abbr> nationals who may have difficulty completing their residency applications. </p>
+
+<p>These organisations will help individuals who may find it harder to complete the necessary paperwork to secure their residency rights, including pensioners, disabled people, those living in remote areas or who have mobility difficulties, and those who require help with language translation or interpretation.</p>
+
+<p>In Slovakia, this practical support is being provided by The International Organisation for Migration. If you or someone you know may have difficulty completing the paperwork, you can contact them using the details below to discuss how they may be able to help you.</p>
+
+<h4 id="the-international-organisation-for-migration-iom">The International Organisation for Migration (IOM)</h4>
+
+<p>Helpline: 00421 908 342 340 available during the following hours:</p>
+
+<p>Monday - Tuesday: 14:00 - 16:00 and Wednesday - Thursday 10:00 - 12:00</p>
+
+<p>Email:  <a href="mailto:UKnationalsSK@iom.int" class="govuk-link">UKnationalsSK@iom.int</a></p>
+
+<p>Personal consultations are available upon appointment only.</p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the <abbr title="European Union">EU</abbr> with your <abbr title="United Kingdom">UK</abbr> passport.</p>
+
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from Slovakia</a>.</p>
 
-<p>Read our <a href="https://www.gov.uk/foreign-travel-advice/slovakia" class="govuk-link">travel advice for Slovakia</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
-
-<p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
-
-<p><a href="https://www.gov.uk/check-a-passport-for-travel-to-europe" class="govuk-link">Check your passport is valid for travel</a> before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
 
 <p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
-
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the <abbr title="European Union">EU</abbr> with your <abbr title="United Kingdom">UK</abbr> passport.</p>
 
 <p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-slovakia" class="govuk-link">sign up for updates</a> to this guidance.</p>
 
 <h2 id="healthcare">Healthcare</h2>
+
+<p>If you are living in Slovakia or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Slovakia as you do now, provided you remain resident.</p>
 
 <p>Health insurance is compulsory in Slovakia and there are 3 insurance companies you can use:</p>
 
@@ -209,9 +253,13 @@
 
 <p>You need to take your insurance card when visiting a doctor.</p>
 
+<p>Read our guidance on who can <a href="https://www.gov.uk/guidance/healthcare-in-slovakia" class="govuk-link">access healthcare in Slovakia and how to register</a>.</p>
+
 <h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
 <p>If you live in Slovakia and receive an exportable <abbr title="United Kingdom">UK</abbr> pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the <abbr title="United Kingdom">UK</abbr>. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>You can <a rel="external" href="https://contactcentreservices.nhsbsa.nhs.uk/selfnhsukokb/AskUs_EHIC/en-gb/6696/application-forms-and-evidence/16477/s1-form-what-is-this-and-how-do-i-obtain-one" class="govuk-link">apply for an S1 certificate</a> through the Business Services Authority.</p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</h3>
 
@@ -226,33 +274,31 @@
 </li>
 </ul>
 
-<p>If you are a student, <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">read the <abbr title="National Health Service">NHS</abbr> guidance on healthcare and studying abroad</a>.</p>
+<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your <abbr title="European Health Insurance Card">EHIC</abbr> as you did before during this time.</p>
 
-<p>You can find <a href="https://www.gov.uk/government/publications/slovakia-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctors in Slovakia</a>.</p>
+<p>You should also read guidance on:</p>
 
-<p>You must <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a> in Slovakia.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your <abbr title="European Health Insurance Card">EHIC</abbr>, as you did before, during this time.</p>
-
-<p>If you are living in Slovakia or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Slovakia as you do now, provided you remain resident.</p>
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li>finding <a href="https://www.gov.uk/government/publications/slovakia-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctors in Slovakia</a>
+</li>
+  <li>
+<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking if your prescriptions are legal</a> in Slovakia</li>
+</ul>
 
 <h2 id="working-in-slovakia">Working in Slovakia</h2>
 
-<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another <abbr title="European Union">EU</abbr> country</a>.</p>
+<p>If you are resident in Slovakia on or before 31 December 2020, your right to work will stay the same, as long as you remain resident in Slovakia.</p>
+
+<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an <abbr title="European Union">EU</abbr> country</a>.</p>
 
 <p>You may need to apply for a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link"><abbr title="United Kingdom">UK</abbr> police certificate</a>.</p>
 
 <p>Your employer must notify the local labour office within 7 working days of you starting your job.</p>
 
-<h4 id="working-in-slovakia-after-brexit">Working in Slovakia after Brexit</h4>
-
-<p>Your right to work will stay the same, as long as you remain resident in Slovakia.</p>
-
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The <abbr title="United Kingdom">UK</abbr> has a double-taxation agreement with Slovakia to ensure people do not pay tax on the same income in both countries.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> has a double taxation agreement with Slovakia to ensure you do not pay tax on the same income in both countries. Existing double taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Slovakia have not changed.</p>
 
 <p>Read guidance about:</p>
 
@@ -262,7 +308,7 @@
   <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/slovakia/index_en.htm" class="govuk-link">paying income tax in Slovakia</a></li>
 </ul>
 
-<p>You should obtain professional advice on paying tax in Slovakia. <a href="https://www.gov.uk/government/publications/slovakia-list-of-lawyers" class="govuk-link">Find an English speaking lawyer in Slovakia</a>.</p>
+<p>You should obtain professional advice on paying tax in Slovakia. <a href="https://www.gov.uk/government/publications/slovakia-list-of-lawyers" class="govuk-link">Find an English-speaking lawyer in Slovakia</a>.</p>
 
 <h3 id="national-insurance">National Insurance</h3>
 
@@ -270,15 +316,9 @@
 
 <p>If you are employed or self-employed in the <abbr title="European Union">EU</abbr> or EEA and you have a <abbr title="United Kingdom">UK</abbr>-issued A1/E101 form, you will remain subject to <abbr title="United Kingdom">UK</abbr> legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Slovakia. You should send your taxpayer queries about double taxation relief to the relevant tax authority.</p>
-
 <h2 id="pensions">Pensions</h2>
 
 <p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<p>There will be no changes before 31 December 2020 to the rules on claiming the <abbr title="United Kingdom">UK</abbr> State Pension in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>If you retire in Slovakia you can claim:</p>
 
@@ -292,23 +332,27 @@
 
 <p>If you have worked in the <abbr title="United Kingdom">UK</abbr> or any other <abbr title="European Union">EU</abbr> Member State you need to indicate this on the form. The Slovak authorities will liaise with the relevant governments and agree on the amount that should be paid to you. Each <abbr title="European Union">EU</abbr> Member State where you have worked will send you the appropriate pension payments separately to your bank account. The <abbr title="United Kingdom">UK</abbr> or Slovak authorities will contact you directly if they need further information.</p>
 
-<h4 id="life-certificates">Life certificates</h4>
+<h4 id="life-certificates-for-uk-state-pensions">Life certificates for <abbr title="United Kingdom">UK</abbr> State Pensions</h4>
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the <abbr title="United Kingdom">UK</abbr> Pension Service</a>, you must respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming the <abbr title="United Kingdom">UK</abbr> State Pension in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>You can continue to receive your <abbr title="United Kingdom">UK</abbr> State Pension if you live in the <abbr title="European Union">EU</abbr>, EEA or Switzerland and you can still claim your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
 
-<p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020 you will get your <abbr title="United Kingdom">UK</abbr> State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020 you will get your <abbr title="United Kingdom">UK</abbr> State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance</a>.</p>
 
 <p>If you are living in Slovakia by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
 
-<p>If you work and pay social security contributions in Slovakia, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Slovak pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Slovakia, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Slovak pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the <abbr title="European Union">EU</abbr></a>.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming <abbr title="United Kingdom">UK</abbr> benefits in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
+<p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are moving or retiring abroad.</p>
 
 <p>You may still be able to claim some <abbr title="United Kingdom">UK</abbr> benefits like child and disability benefits if you live in Slovakia. You should:</p>
 
@@ -325,15 +369,21 @@
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you’ve worked in the <abbr title="United Kingdom">UK</abbr></a> from HMRC if you are asked for this.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-december-2020">Benefits after 31 December 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming <abbr title="United Kingdom">UK</abbr> benefits in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020, you will continue to receive any <abbr title="United Kingdom">UK</abbr> benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Slovakia, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Slovak contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Slovakia, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Slovak contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the <abbr title="European Union">EU</abbr></a>.</p>
 
 <h2 id="driving-in-slovakia">Driving in Slovakia</h2>
 
-<p>If you are a resident in Slovakia, you can exchange your <abbr title="United Kingdom">UK</abbr> licence for a Slovak driving licence after 185 days. You can still use your Slovak licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
+
+<p>If you are a resident in Slovakia, you can voluntarily exchange your <abbr title="United Kingdom">UK</abbr> licence for a Slovak driving licence after 185 days. You can still use your Slovak licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
 
 <p>Read our guidance on:</p>
 
@@ -349,11 +399,11 @@
 
 <p>You should read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/index_en.htm" class="govuk-link">car registration and taxes</a> in Slovakia. You may be exempt from some of these taxes. If so, you will need certificates of exemption.</p>
 
-<h3 id="driving-in-slovakia-after-brexit">Driving in Slovakia after Brexit</h3>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
-
 <h2 id="voting">Voting</h2>
+
+<p>You can vote and stand in local elections in Slovakia if you are a registered resident in Slovakia.</p>
+
+<p>You cannot vote in national parliamentary elections in Slovakia or European Parliament elections.</p>
 
 <p>You may be able to vote in some <abbr title="United Kingdom">UK</abbr> elections. You can:</p>
 
@@ -362,12 +412,6 @@
   <li>
 <a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
 </ul>
-
-<p>If you’re resident in Slovakia, you can vote in local municipal and European parliamentary elections. You can read the <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">European Union’s guidance on voting in Slovakia</a>.</p>
-
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
-
-<p>You will continue to be able to vote and stand in local elections. You will no longer be eligible to vote in European Parliament elections.</p>
 
 <h2 id="births-deaths-getting-married">Births, deaths, getting married</h2>
 
@@ -406,7 +450,7 @@
 
 <p>If you’re travelling with your pet for the first time, you must visit your vet to obtain a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a>.</p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet into the <abbr title="United Kingdom">UK</abbr></a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -445,10 +489,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 May 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 29 June 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-29T16:33:48.000+01:00">29 June 2020</time>
+              <p class="app-c-published-dates__change-note">Visas and residency section updated to include information about how to access the UK National Support Fund for those who may find it harder to complete their residency applications.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T14:58:06.000+00:00">23 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
@@ -549,8 +597,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -558,47 +606,48 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-de90e3bd" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-d0a66f95" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-de90e3bd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d0a66f95" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-hungary" data-track-options="{"dimension28":"5","dimension29":"Living in Hungary"}" href="/guidance/living-in-hungary">Living in Hungary</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-estonia" data-track-options="{"dimension28":"5","dimension29":"Living in Estonia"}" href="/guidance/living-in-estonia">Living in Estonia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks" data-track-options="{"dimension28":"5","dimension29":"Townhall meeting for British nationals - opening remarks"}" href="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks">Townhall meeting for British nationals - opening remarks</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-latvia" data-track-options="{"dimension28":"5","dimension29":"Living in Latvia"}" href="/guidance/living-in-latvia">Living in Latvia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-finland" data-track-options="{"dimension28":"5","dimension29":"Living in Finland"}" href="/guidance/living-in-finland">Living in Finland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-luxembourg" data-track-options="{"dimension28":"5","dimension29":"Living in Luxembourg"}" href="/guidance/living-in-luxembourg">Living in Luxembourg</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-de90e3bd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-d0a66f95" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-de90e3bd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-d0a66f95" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-slovakia" data-track-options="{"dimension28":"1","dimension29":"Slovakia: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-slovakia">Slovakia: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-slovakia" data-track-options="{"dimension28":"2","dimension29":"Slovakia: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-slovakia">Slovakia: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-slovakia" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Slovakia"}" href="/guidance/healthcare-in-slovakia">Healthcare for UK nationals living in Slovakia</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-de90e3bd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d0a66f95" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-de90e3bd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-d0a66f95" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -630,9 +679,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2c4560d7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ef383b55" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2c4560d7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-ef383b55" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
