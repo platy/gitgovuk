@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Use IPAFFS to notify authorities that you’re importing animals and germinal products into England, Scotland and Wales.</p>
+  <p class="gem-c-lead-paragraph">Use IPAFFS to notify authorities that you’re importing live animals and germinal products into England, Scotland and Wales from the EU.</p>
 
   </div>
 </div>
@@ -77,17 +77,17 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>The Import of Products, Animals, Food and Feed System (<abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>) is the notification system for importing animals, animal products, high-risk food and animal feed of non-animal origin.</p>
-
-<p>You must use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> to notify the Animal and Plant Health Agency (APHA) about imports from the EU to Great Britain (GB) of live animals and germinal products.</p>
+<p>Use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> to notify the Animal and Plant Health Agency (APHA) about imports from the EU to Great Britain (GB) of live animals and germinal products.</p>
 
 <div class="call-to-action">
 <p>You must continue to use <abbr title="Trade Control and Expert System">TRACES</abbr> to notify APHA for imports into the UK from non-EU countries until 1 January 2021.</p>
 </div>
 
-<p>If you’re importing of live animals and germinal products from the EU to Northern Ireland you must notify the <a rel="external" href="https://www.daera-ni.gov.uk/contact" class="govuk-link">Department of Agriculture, Environment and Rural Affairs</a> (DAERA).</p>
+<p>If you’re importing live animals and germinal products from the EU to Northern Ireland you must notify the <a rel="external" href="https://www.daera-ni.gov.uk/contact" class="govuk-link">Department of Agriculture, Environment and Rural Affairs</a> (DAERA).</p>
 
-<p>You do not have to notify APHA of products of animal origin (POAO) or high risk food and feed not of animal origin (HRFNAO), coming into the UK from the EU unless there’s a safeguard measure in place.</p>
+<p>You do not have to notify APHA of products of animal origin (POAO) coming into the UK from the EU unless there’s a safeguard measure in place.</p>
+
+<p>You do not have to notify APHA of high risk food and feed not of animal origin (HRFNAO) coming into the UK from the EU.</p>
 
 <p>Find out more about <a href="https://www.gov.uk/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade" class="govuk-link">moving live animals or animal products as part of EU trade</a>.</p>
 
@@ -107,13 +107,29 @@
 
 <p>If you’re the first person to register on behalf of a business or organisation you automatically become the organisation administrator for that business. You will have the permissions to invite and remove team members.  Make sure that you allocate at least one other team member to an organisation administrator role so that you can share the management of the account.</p>
 
-<h2 id="when-to-submit--a-notification">When to submit  a notification</h2>
-<p>You must submit your notification in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> between 24 hrs and 30 working days before your consignment is due to arrive.</p>
+<h3 id="registration-guides">Registration guides</h3>
+<p>Find out how to register if you’re a:</p>
 
-<p>You can add the rest of the information required at any time before your consignment arrives by updating your notification.</p>
+<ul>
+  <li><span id="attachment_4313787" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896298/IPAFFS_EU_Registration_Guide_-_Sole_Trader.pdf" class="govuk-link">sole trader</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">287KB</span>, <span class="page-length">6 pages</span>)</span></li>
+  <li><span id="attachment_4313791" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896304/IPAFFS_Limited_Company_PLC_LLP_Charity_registration_guide.pdf" class="govuk-link">limited company, public limited company, limited liability partnership or charity</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">289KB</span>, <span class="page-length">7 pages</span>)</span></li>
+</ul>
+
+<h2 id="when-to-submit--a-notification">When to submit  a notification</h2>
+<p>You must submit your notification in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> 24 hrs before your consignment is due to arrive. You can submit your notification up to 30 days in advance.</p>
+
+<h3 id="what-you-need">What you need</h3>
+<p>You need to know:</p>
+
+<ul>
+  <li>what you’re importing</li>
+  <li>the date and the estimated time the consignment will arrive at the border control post</li>
+  <li>which country it will come from and the country in which it is consigned if they are different</li>
+  <li>the consignment’s destination</li>
+</ul>
 
 <h3 id="updating-a-notification">Updating a notification</h3>
-<p>You can update your notification in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> if you do not have all the details when you first submit it or if something changes.</p>
+<p>You can update your notification in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> if you do not have all the details when you first submit it or if something changes at any time before your consignment arrives.</p>
 
 <p><a class="gem-c-button govuk-button govuk-button--start" role="button" href="https://import-products-animals-food-feed.service.gov.uk/notification/prd/protected/notifications"> Start Now <svg class="govuk-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewbox="0 0 33 40" role="presentation" focusable="false"><path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z"></path></svg></a></p>
 
@@ -128,6 +144,10 @@
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-29T16:14:18.000+01:00">29 June 2020</time>
+              <p class="app-c-published-dates__change-note">Added registration guides.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-29T12:03:31.000+01:00">29 June 2020</time>
               <p class="app-c-published-dates__change-note">Removed "If your notification is shown as ‘in progress’ you’ll need to call the relevant border control post (BCP) to ask them for access to make your changes" because it only applies to non-EU imports.</p>
@@ -193,14 +213,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-8de138df" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-71f1ee86" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-8de138df" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-71f1ee86" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -236,9 +256,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2b223ee6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-893aaad6" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2b223ee6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-893aaad6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
