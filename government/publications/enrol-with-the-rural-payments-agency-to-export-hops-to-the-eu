@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Form
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Enrol with the Rural Payments Agency to export hops to the EU
   </h1>
@@ -24,7 +24,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 24 October 2019
-    <br></br>Last updated 10 February 2020
+    <br></br>Last updated 1 July 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -57,23 +57,23 @@
   <div class="govuk-grid-column-two-thirds responsive-bottom-margin">
     
     <div class="responsive-bottom-margin">
-       <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="documents-title">Documents</h2>
+        <section id="documents">
+    <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  ">Documents</h2>
 
 
-<div aria-labelledby="documents-title">
-  
+      
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3979726">
+      <section class="attachment embedded" id="attachment_4320532">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864537/AoE_enrolment_form_V1.0_Oct_19.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864537/thumbnail_AoE_enrolment_form_V1.0_Oct_19.pdf.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896915/Attestation_of_Equivalence__aoee_V2.0_Jul_20_.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896915/thumbnail_Attestation_of_Equivalence__aoee_V2.0_Jul_20_.pdf.png"></img></a>
   </div>
   <div class="attachment-details">
-    <h2 class="title"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864537/AoE_enrolment_form_V1.0_Oct_19.pdf">AoE enrolment form</a></h2>
+    <h2 class="title"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896915/Attestation_of_Equivalence__aoee_V2.0_Jul_20_.pdf">AoE enrolment form</a></h2>
     <p class="metadata">
         <span class="references">
           Ref: <span class="unique_reference">AoE enrolment form</span>
         </span>
-        <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">180KB</span>, <span class="page-length">2 pages</span>
+        <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">166KB</span>, <span class="page-length">2 pages</span>
     </p>
 
 
@@ -81,13 +81,15 @@
 </section>
 </div>
 
-</div>
-
-<h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="details-title">Details</h2>
+  </section>
 
 
-<div aria-labelledby="details-title">
-  
+
+      <section id="details">
+        <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  ">Details</h2>
+
+
+        
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <p>The European Union (EU) requires that an Attestation of Equivalence (AoE) is used to export hops and hops products to the EU from third countries.</p>
@@ -121,16 +123,19 @@
 </div>
 </div>
 
-</div>
-
+      </section>
     </div>
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 24 October 2019
-    <br></br>Last updated 10 February 2020
+    <br></br>Last updated 1 July 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-01T14:49:17.000+01:00">1 July 2020</time>
+              <p class="app-c-published-dates__change-note">Accessible version of Attestation of Equivalence form added</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-02-10T11:44:01.000+00:00">10 February 2020</time>
               <p class="app-c-published-dates__change-note">Update to the title of the link to the AoE enrolment form</p>
@@ -156,6 +161,28 @@
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-2ffb4924" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2ffb4924" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/poultry-meat-marketing-standards-when-the-uk-leaves-the-eu" data-track-options="{"dimension28":"2","dimension29":"Poultry meat marketing standards from 1 January 2021"}" href="/guidance/poultry-meat-marketing-standards-when-the-uk-leaves-the-eu">Poultry meat marketing standards from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/hops-and-hops-products-marketing-standards-if-the-uk-leaves-the-eu-without-a-deal" data-track-options="{"dimension28":"2","dimension29":"Hops and hops products marketing standards from 1 January 2021"}" href="/guidance/hops-and-hops-products-marketing-standards-if-the-uk-leaves-the-eu-without-a-deal">Hops and hops products marketing standards from 1 January 2021</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -177,9 +204,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3426031e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8ee754f8" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-3426031e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8ee754f8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
