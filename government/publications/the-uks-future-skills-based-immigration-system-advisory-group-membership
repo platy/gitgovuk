@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Policy paper
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     The UK's future skills-based immigration system: advisory group membership
   </h1>
@@ -13,9 +13,7 @@
 
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    Membership list of the UK's future skills-based immigration system advisory groups.
-  </p>
+  <p class="gem-c-lead-paragraph">Membership list of the UK's future skills-based immigration system advisory groups.</p>
 
   </div>
 </div>
@@ -26,8 +24,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 June 2019
-    <br></br>Last updated 24 July 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 1 July 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -37,7 +35,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/home-office">Home Office</a> and <a href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
+                  <a class="govuk-link" href="/government/organisations/home-office">Home Office</a> and <a class="govuk-link" href="/government/organisations/uk-visas-and-immigration">UK Visas and Immigration</a>
                 </span>
             </dd>
         </dl>
@@ -53,19 +51,21 @@
 
 
 
+
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds responsive-bottom-margin">
     
     <div class="responsive-bottom-margin">
-       <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="documents-title">Documents</h2>
+        <section id="documents">
+    <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  ">Documents</h2>
 
 
-<div aria-labelledby="documents-title">
-  
+      
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_3545878">
+      <section class="attachment embedded" id="attachment_4307576">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" href="/government/publications/the-uks-future-skills-based-immigration-system-advisory-group-membership/the-uks-future-skills-based-immigration-system-advisory-group-membership"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/the-uks-future-skills-based-immigration-system-advisory-group-membership/the-uks-future-skills-based-immigration-system-advisory-group-membership"><img alt src="https://www.gov.uk/assets/whitehall/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
   <div class="attachment-details">
     <h2 class="title"><a href="/government/publications/the-uks-future-skills-based-immigration-system-advisory-group-membership/the-uks-future-skills-based-immigration-system-advisory-group-membership">The UK's future skills-based immigration system: advisory group membership</a></h2>
@@ -78,13 +78,15 @@
 </section>
 </div>
 
-</div>
-
-<h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="details-title">Details</h2>
+  </section>
 
 
-<div aria-labelledby="details-title">
-  
+
+      <section id="details">
+        <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  ">Details</h2>
+
+
+        
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <p>The advisory groups will have ongoing discussions over 2019 on policy, system design and implementation. The groups will meet on a regular basis and explore in detail the contents of the proposals. Members of the advisory groups are required to represent a composite view from their industry and members.</p>
@@ -92,28 +94,30 @@
 </div>
 </div>
 
-</div>
-
+      </section>
     </div>
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 June 2019
-    <br></br>Last updated 24 July 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 1 July 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-01T13:11:29.000+01:00">1 July 2020</time>
+              <p class="app-c-published-dates__change-note">Updated list of advisory groups.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-07-24T12:57:40.000+01:00">24 July 2019</time>
-              Scottish Trade Unions Congress and Trades Union Congress added to the National advisory group membership list.
-
+              <p class="app-c-published-dates__change-note">Scottish Trade Unions Congress and Trades Union Congress added to the National advisory group membership list.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-21T15:26:31.000+01:00">21 June 2019</time>
-              Updated to remove CBI Wales from National Advisory Group and change Talent Scotland to Scottish Enterprise
+              <p class="app-c-published-dates__change-note">Updated to remove CBI Wales from National Advisory Group and change Talent Scotland to Scottish Enterprise</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-06-17T14:43:00.000+01:00">17 June 2019</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -124,33 +128,15 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
-  <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-424ae851" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
-        Related content
-      </h2>
-
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-424ae851" data-module="gem-toggle">
-
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/the-uks-future-skills-based-immigration-system-engagement-programme" data-track-options="{"dimension28":"5","dimension29":"The UK’s future skills-based immigration system: engagement programme"}" href="/guidance/the-uks-future-skills-based-immigration-system-engagement-programme">The UK’s future skills-based immigration system: engagement programme</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/short-term-students" data-track-options="{"dimension28":"5","dimension29":"Short-term students"}" href="/government/publications/short-term-students">Short-term students</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/the-uks-future-skills-based-immigration-system" data-track-options="{"dimension28":"5","dimension29":"The UK's future skills-based immigration system"}" href="/government/publications/the-uks-future-skills-based-immigration-system">The UK's future skills-based immigration system</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/rights-and-status-of-frontier-workers-in-the-uk-after-brexit" data-track-options="{"dimension28":"5","dimension29":"Rights and status of frontier workers in the UK after Brexit"}" href="/government/publications/rights-and-status-of-frontier-workers-in-the-uk-after-brexit">Rights and status of frontier workers in the UK after Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/police-cautions" data-track-options="{"dimension28":"5","dimension29":"Police cautions"}" href="/government/publications/police-cautions">Police cautions</a></li>
-
-  </ul>
-</nav>
-
-  </div>
 
 
 </div>
@@ -171,15 +157,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-49ef6cc9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4b28874d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-49ef6cc9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-4b28874d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/entering-staying-uk" data-track-options="{"dimension28":"2","dimension29":"Entering and staying in the UK"}" href="/entering-staying-uk">Entering and staying in the UK</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"2","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
 
   </ul>
 </nav>
