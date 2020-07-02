@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       World news story
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Information and events for UK nationals living in Portugal
   </h1>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 22 November 2018
-    <br></br>Last updated 17 March 2020
+    <br></br>Last updated 2 July 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -81,8 +81,8 @@
   <tbody>
     <tr>
       <td>Ask the Embassy</td>
-      <td>Live Q&A on your rights under the Withdrawal Agreement</td>
-      <td>POSTPONED</td>
+      <td>Live Q&A on residency, healthcare and driving in Portugal</td>
+      <td>Wednesday, 15 July 12.00 – 12.30 pm</td>
       <td><a rel="external" href="https://www.facebook.com/BritsInPortugal/" class="govuk-link">Brits in Portugal Facebook page</a></td>
     </tr>
   </tbody>
@@ -328,10 +328,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 November 2018
-    <br></br>Last updated 17 March 2020
+    <br></br>Last updated 2 July 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-02T16:55:27.000+01:00">2 July 2020</time>
+              <p class="app-c-published-dates__change-note">Upcoming Live Q&A on 15 July</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-03-17T16:59:22.000+00:00">17 March 2020</time>
               <p class="app-c-published-dates__change-note">Update to outreach events page</p>
@@ -452,24 +456,20 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-b9dbf5ba" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-303eda9a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b9dbf5ba" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-303eda9a" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/portugal-list-of-lawyers" data-track-options="{"dimension28":"5","dimension29":"Portugal: lawyers"}" href="/government/publications/portugal-list-of-lawyers">Portugal: lawyers</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/portugal-list-of-financial-advisors-fiscal-consultants" data-track-options="{"dimension28":"5","dimension29":"Portugal: financial advisors and consultants"}" href="/government/publications/portugal-list-of-financial-advisors-fiscal-consultants">Portugal: financial advisors and consultants</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/germany-list-of-medical-practitionersfacilities" data-track-options="{"dimension28":"5","dimension29":"Germany: doctors"}" href="/government/publications/germany-list-of-medical-practitionersfacilities">Germany: doctors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks" data-track-options="{"dimension28":"5","dimension29":"Townhall meeting for British nationals - opening remarks"}" href="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks">Townhall meeting for British nationals - opening remarks</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/portugal-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Portugal: funeral directors"}" href="/government/publications/portugal-list-of-funeral-directors">Portugal: funeral directors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/portugal-list-of-financial-advisors-fiscal-consultants" data-track-options="{"dimension28":"1","dimension29":"Portugal: financial advisors and consultants"}" href="/government/publications/portugal-list-of-financial-advisors-fiscal-consultants">Portugal: financial advisors and consultants</a></li>
 
   </ul>
 </nav>
@@ -496,9 +496,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-40bb5b71" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e8cab220" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-40bb5b71" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-e8cab220" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -510,9 +510,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-40bb5b71" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-e8cab220" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-40bb5b71" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-e8cab220" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
