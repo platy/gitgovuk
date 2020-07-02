@@ -1,18 +1,18 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Trading CITES-listed specimens through UK ports and airports if there's a no-deal Brexit
+    Trading CITES-listed specimens through UK ports and airports from 1 January 2021
   </h1>
 </div>
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Designated land, sea and air ports for trading or moving CITES-listed endangered animals, plants, or their parts and derivatives after Brexit.</p>
+  <p class="gem-c-lead-paragraph">Designated land, sea and air ports for trading or moving CITES-listed endangered animals, plants, or their parts and derivatives from 1 January 2021.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 16 January 2019
-    <br></br>Last updated 8 November 2019
+    <br></br>Last updated 2 July 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -49,6 +49,24 @@
 
 
 
+  <section class="app-c-header-notice" aria-label="notice" role="region">
+    <div class="app-c-header-notice__header">
+      <h2 class="app-c-header-notice__title">The UK has left the EU</h2>
+    </div>
+
+    <div class="app-c-header-notice__content">
+      <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It'll be updated if anything changes. </p>
+        <div class="app-c-header-notice__links">
+            <p class="govuk-body app-c-header-notice__link-intro">
+              For current information, read: 
+              <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/guidance/cites-imports-and-exports" data-track-label="Check if you need a CITES permit to import or export endangered species" class="app-c-header-notice__link" href="/guidance/cites-imports-and-exports">Check if you need a CITES permit to import or export endangered species</a>
+            </p>
+        </div>
+
+        <p class="app-c-header-notice__text govuk-body">You can also read about <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/transition" data-track-label="the transition period" class="govuk-link" href="/transition">the transition period</a>.</p>
+    </div>
+  </section>
+
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
@@ -61,26 +79,27 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
-
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#designated-poe" data-track-options="{"dimension29":"\nCITES-designated points of entry and exit"}" href="#designated-poe">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#designated-poe" data-track-options="{"dimension29":"\nCITES-designated points of entry and exit"}" href="#designated-poe">
 CITES-designated points of entry and exit</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#additional-port-arrangements-for-cites-specimens" data-track-options="{"dimension29":"Additional port arrangements for CITES specimens"}" href="#additional-port-arrangements-for-cites-specimens">Additional port arrangements for CITES specimens</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#additional-port-arrangements-for-cites-specimens" data-track-options="{"dimension29":"Additional port arrangements for CITES specimens"}" href="#additional-port-arrangements-for-cites-specimens">Additional port arrangements for CITES specimens</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#cites-specimens-entering-the-uk-from-the-eu" data-track-options="{"dimension29":"\nCITES specimens entering the UK from the EU"}" href="#cites-specimens-entering-the-uk-from-the-eu">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#cites-specimens-entering-the-uk-from-the-eu" data-track-options="{"dimension29":"\nCITES specimens entering the UK from the EU"}" href="#cites-specimens-entering-the-uk-from-the-eu">
 CITES specimens entering the UK from the EU</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#cites-species-coming-into-the-uk-from-outside-the-eu" data-track-options="{"dimension29":"\nCITES species coming into the UK from outside the EU"}" href="#cites-species-coming-into-the-uk-from-outside-the-eu">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#cites-species-coming-into-the-uk-from-outside-the-eu" data-track-options="{"dimension29":"\nCITES species coming into the UK from outside the EU"}" href="#cites-species-coming-into-the-uk-from-outside-the-eu">
 CITES species coming into the UK from outside the EU</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#cites-specimens-transiting-through-the-uk" data-track-options="{"dimension29":"\nCITES specimens transiting through the UK"}" href="#cites-specimens-transiting-through-the-uk">
+CITES specimens transiting through the UK</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -94,22 +113,14 @@ CITES species coming into the UK from outside the EU</a>
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<div class="call-to-action">
-<h2 id="stay-up-to-date">Stay up to date</h2>
-
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. <a href="https://www.gov.uk/email-signup?topic=%2Fbrexit" class="govuk-link">Sign up for email alerts</a> to get the latest information.</p>
-
-<p><a rel="external" href="https://public.govdelivery.com/accounts/UKDEFRA/subscriber/topics?qsp=CODE_RED" class="govuk-link">Sign up for Defra alerts</a> about Brexit and the trade sector.</p>
-</div>
-
 <p>The UK will continue to comply with the <a rel="external" href="http://www.cites.org/eng" class="govuk-link">Convention on International Trade in Endangered Species of Wild Fauna and Flora</a> (<abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr>).</p>
 
-<p>Your trade routes may change if there’s a no-deal Brexit. You’ll need to import (bring in) or export (take out) <a href="https://www.gov.uk/guidance/cites-controls-import-and-export-of-protected-species#common-examples" class="govuk-link"><abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimens</a> through the designated land, sea and air ports.</p>
+<p>Your trade routes may change from 1 January 2021. You’ll need to import (bring in) or export (take out) <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimens through the designated land, sea and air ports.</p>
 
 <h2 id="designated-poe">
 <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr>-designated points of entry and exit</h2>
 
-<p>The customs offices at the following points of entry and exit will be designated for <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> trade if there’s a no-deal Brexit.</p>
+<p>The customs offices at the following points of entry and exit will be designated for <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> trade from 1 January 2021.</p>
 
 <p>You can use these airports:</p>
 
@@ -135,8 +146,7 @@ CITES species coming into the UK from outside the EU</a>
 <ul>
   <li><a href="https://www.gov.uk/guidance/moving-cites-specimens-through-belfast-seaport-in-a-no-deal-brexit" class="govuk-link">Belfast Seaport</a></li>
   <li><a href="https://www.gov.uk/guidance/moving-cites-specimens-through-the-port-of-dover-in-a-no-deal-brexit" class="govuk-link">Dover</a></li>
-  <li>
-<a href="https://www.gov.uk/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit" class="govuk-link">Eurotunnel</a> - present documents at Ashford (for imports) or Ebbsfleet (for exports)</li>
+  <li><a href="https://www.gov.uk/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit" class="govuk-link">Eurotunnel</a></li>
   <li>Felixstowe</li>
   <li>Harwich international</li>
   <li>Holyhead</li>
@@ -145,7 +155,7 @@ CITES species coming into the UK from outside the EU</a>
   <li>Plymouth</li>
   <li>Poole</li>
   <li>Portsmouth International Port</li>
-  <li>Southampton Eastleigh</li>
+  <li>Southampton ABP</li>
   <li>Tilbury (Port of London)</li>
 </ul>
 
@@ -162,14 +172,14 @@ CITES species coming into the UK from outside the EU</a>
 
 <h2 id="additional-port-arrangements-for-cites-specimens">Additional port arrangements for <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimens</h2>
 
-<p>There are additional arrangements if you’re using roll on roll off (<abbr title="roll on roll off">RoRo</abbr>) services, Eurotunnel, or moving specimens between the Republic of Ireland and Northern Ireland.</p>
+<p>There are additional arrangements if you’re using roll on roll off (<abbr title="roll on roll off">RoRo</abbr>) services or Eurotunnel.</p>
 
 <h3 id="using-roll-on-roll-off-roro-services">Using roll on roll off (<abbr title="roll on roll off">RoRo</abbr>) services</h3>
 
 <p>You’ll be able to use <abbr title="roll on roll off">RoRo</abbr> services, for example car ferries, at the following ports:</p>
 
 <ul>
-  <li>Dover - present documents at Dover Western Docks</li>
+  <li>Dover</li>
   <li>Eurotunnel</li>
   <li>Felixstowe</li>
   <li>Harwich</li>
@@ -182,17 +192,9 @@ CITES species coming into the UK from outside the EU</a>
 
 <h3 id="importing-and-exporting-cites-specimens-through-eurotunnel">Importing and exporting <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimens through Eurotunnel</h3>
 
-<p>To import <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimens into the UK through <a href="https://www.gov.uk/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit" class="govuk-link">Eurotunnel</a> you must present your <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> documents for endorsement at Ashford. You must <a href="https://www.gov.uk/guidance/customs-declarations-for-goods-brought-into-the-eu" class="govuk-link">make a customs declaration on the CHIEF system</a> before you transport them.</p>
+<p>To import <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimens into the UK through <a href="https://www.gov.uk/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit" class="govuk-link">Eurotunnel</a> you must present your <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> documents for endorsement, and <a href="https://www.gov.uk/guidance/customs-declarations-for-goods-brought-into-the-eu" class="govuk-link">make a customs declaration on the CHIEF system</a> before you transport them.</p>
 
-<p>If you’re exporting specimens from the UK through Eurotunnel, you should prepare for it to be very busy. You may present your <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> documents to Border Force at Ebbsfleet, but if possible present it at another <a href="#designated-poe" class="govuk-link">suitable designated point of entry and exit</a> away from Kent before you travel through Eurotunnel.</p>
-
-<h3 id="moving-specimens-between-the-republic-of-ireland-and-northern-ireland">Moving specimens between the Republic of Ireland and Northern Ireland</h3>
-
-<p>To import <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimens into Northern Ireland from the Republic of Ireland over land, you must <a href="https://www.gov.uk/guidance/customs-declarations-for-goods-brought-into-the-eu" class="govuk-link">make a customs declaration on the CHIEF system</a> before you transport them.</p>
-
-<p><abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> checks must be carried out at <a href="https://www.gov.uk/guidance/moving-cites-specimens-through-belfast-seaport-in-a-no-deal-brexit" class="govuk-link">Belfast Seaport</a>. You must present your <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> documents for inspection and endorsement by Border Force when you import or export over the land border.</p>
-
-<p>Read more about <a href="https://www.gov.uk/guidance/trading-and-moving-from-northern-ireland-to-ireland-in-a-no-deal-brexit" class="govuk-link">trading goods between Northern Ireland and Ireland if there’s a no-deal Brexit</a>.</p>
+<p>If you’re exporting specimens from the UK through Eurotunnel, you should prepare for it to be very busy. You must present your <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> documents to Border Force at a <a href="#designated-poe" class="govuk-link">suitable designated point of entry and exit</a> before you travel through Eurotunnel.</p>
 
 <h2 id="cites-specimens-entering-the-uk-from-the-eu">
 <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimens entering the UK from the EU</h2>
@@ -209,7 +211,7 @@ You must check the guidance and use the correct point of entry and exit if you�
 
 <h3 id="moving-live-animals-and-animal-products">Moving live animals and animal products</h3>
 
-<p>The following airports will be designated to handle live <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> animals coming directly from non-EU countries after Brexit:</p>
+<p>The following airports are designated to handle live <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> animals coming directly from non-EU countries:</p>
 
 <table>
   <thead>
@@ -246,7 +248,7 @@ You must check the guidance and use the correct point of entry and exit if you�
   </tbody>
 </table>
 
-<p id="live-animal-airports">Read the guidance about <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details" class="govuk-link">border inspection posts (<abbr title="Border Inspection Posts">BIPs</abbr>) for animals and animal products</a>.</p>
+<p id="live-animal-airports">Read the guidance about <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details" class="govuk-link">border control posts (<abbr title="Border Control Posts">BCP</abbr>) for animals and animal products</a>.</p>
 
 <h3 id="moving-products-of-animal-origin-poao">Moving products of animal origin (<abbr title="product of animal origin">POAO</abbr>)</h3>
 
@@ -260,7 +262,7 @@ You must check the guidance and use the correct point of entry and exit if you�
 
 <h3 id="moving-food-not-of-animal-origin-fnao">Moving food not of animal origin (<abbr title="food not of animal origin">FNAO</abbr>)</h3>
 
-<p>You can <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" class="govuk-link">move food not of animal origin (<abbr title="food not of animal origin">FNAO</abbr>)</a> for human consumption or animal feed through designated points of entry or exit for <a rel="external" href="https://www.food.gov.uk/business-guidance/importing-high-risk-foods" class="govuk-link">high risk foods</a>.</p>
+<p>You can <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-if-the-UK-leaves-the-EU-with-no-deal" class="govuk-link">move food not of animal origin (<abbr title="food not of animal origin">FNAO</abbr>)</a> for human consumption or animal feed through designated points of entry or exit for <a rel="external" href="https://www.food.gov.uk/business-guidance/importing-high-risk-food-and-feed" class="govuk-link">high risk foods</a>.</p>
 
 <h3 id="moving-controlled-plants-or-plant-products-or-forestry-materials-fm">Moving controlled plants or plant products or forestry materials (<abbr title="forestry material">FM</abbr>)</h3>
 
@@ -277,6 +279,26 @@ You must check the guidance and use the correct point of entry and exit if you�
   <li><a href="https://www.gov.uk/guidance/import-wood-wood-products-or-bark-from-non-eu-countries" class="govuk-link">Import wood, wood products or bark from non-EU countries</a></li>
 </ul>
 
+<h2 id="cites-specimens-transiting-through-the-uk">
+<abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimens transiting through the UK</h2>
+
+<p>You’ll need <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> documents from each country if your specimen passes through the UK when moving between EU countries.</p>
+
+<p>For example, to move a <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimen from France to the Republic of Ireland (<abbr title="Republic of Ireland">RoI</abbr>) through the UK, you would need an:</p>
+
+<ul>
+  <li>export permit from France</li>
+  <li>import and re-export permit from the UK</li>
+  <li>import permit from <abbr title="Republic of Ireland">RoI</abbr>
+</li>
+</ul>
+
+<p>You must use a <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> designated point of entry and exit in the UK, and present your documents to the UK Border Force.</p>
+
+<p>If your specimen passes through the UK when moving between a non-EU country (third country) and an EU country, you may be able to get a transit exemption so you do not need to get UK <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> documents. Contact <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#customer-service-centres-csc" class="govuk-link">APHA Centre for International Trade: Bristol</a> to check if you can get an exemption.</p>
+
+<p>You can contact <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#customer-service-centres-csc" class="govuk-link">APHA Centre for International Trade: Bristol</a> for advice if your <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> specimen will transit through the UK.</p>
+
 <h2 id="contact-defra">Contact Defra</h2>
 
 <p>You can <a href="https://www.gov.uk/guidance/contact-defra#animal-health-and-welfare" class="govuk-link">contact Defra for support</a> with trading or moving endangered animals or plants listed under <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr>.</p>
@@ -288,33 +310,37 @@ You must check the guidance and use the correct point of entry and exit if you�
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 16 January 2019
-    <br></br>Last updated 8 November 2019
+    <br></br>Last updated 2 July 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-02T11:44:16.000+01:00">2 July 2020</time>
+              <p class="app-c-published-dates__change-note">Added new section on CITES specimens transiting through the UK.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-11-08T14:55:45.000+00:00">8 November 2019</time>
-              Added table of airports designated to handle live CITES animals coming directly from non-EU countries after Brexit.
+              <p class="app-c-published-dates__change-note">Added table of airports designated to handle live CITES animals coming directly from non-EU countries after Brexit.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-21T09:02:56.000+01:00">21 October 2019</time>
-              CTA change to reflect the latest deal status
+              <p class="app-c-published-dates__change-note">CTA change to reflect the latest deal status</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-24T10:32:50.000+01:00">24 September 2019</time>
-              Added a requirement to use the CHIEF system to import specimens through Eurotunnel.
+              <p class="app-c-published-dates__change-note">Added a requirement to use the CHIEF system to import specimens through Eurotunnel.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-09-19T14:02:03.000+01:00">19 September 2019</time>
-              Added more information about CITES-designated points of entry and exit, including additional arrangements for roll on roll off (RoRo) services, Eurotunnel, and moving specimens between the Republic of Ireland and Northern Ireland.
+              <p class="app-c-published-dates__change-note">Added more information about CITES-designated points of entry and exit, including additional arrangements for roll on roll off (RoRo) services, Eurotunnel, and moving specimens between the Republic of Ireland and Northern Ireland.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-02-07T14:50:23.000+00:00">7 February 2019</time>
-              Corrected and added ports.
+              <p class="app-c-published-dates__change-note">Corrected and added ports.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-01-16T11:59:00.000+00:00">16 January 2019</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -340,63 +366,61 @@ You must check the guidance and use the correct point of entry and exit if you�
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
-
-      <div class="gem-c-step-nav-related " data-module="track-click">
-    <h2 class="gem-c-step-nav-related__heading">
-      <span class="gem-c-step-nav-related__pretitle">Part of</span>
-        </h2>
-        <ul class="gem-c-step-nav-related__links">
-            <li class="gem-c-step-nav-related__link-item">
-              <a href="/prepare-import-to-uk-after-brexit" class="gem-c-step-nav-related__link" data-track-category="stepNavPartOfClicked" data-track-action="Part of" data-track-label="/prepare-import-to-uk-after-brexit" data-track-dimension="Get your business ready to import from the EU to the UK after Brexit" data-track-dimension-index="29" data-track-options="{"dimension96" : "db1149f5-f60a-4d02-be0c-9c9db2828665" }">
-                Get your business ready to import from the EU to the UK after Brexit
-              </a>
-            </li>
-            <li class="gem-c-step-nav-related__link-item">
-              <a href="/prepare-export-from-uk-after-brexit" class="gem-c-step-nav-related__link" data-track-category="stepNavPartOfClicked" data-track-action="Part of" data-track-label="/prepare-export-from-uk-after-brexit" data-track-dimension="Get your business ready to export from the UK to the EU after Brexit" data-track-dimension-index="29" data-track-options="{"dimension96" : "e169b2ac-8c90-4789-8e6c-3657729e21b2" }">
-                Get your business ready to export from the UK to the EU after Brexit
-              </a>
-            </li>
-        </ul>
-  </div>
 
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-1628b5e3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-bc576ae0" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1628b5e3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-bc576ae0" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit" data-track-options="{"dimension28":"3","dimension29":"Moving CITES specimens through Eurotunnel from 1 January 2021"}" href="/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit">Moving CITES specimens through Eurotunnel from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/trading-and-moving-endangered-species-protected-by-cites-if-theres-no-withdrawal-deal" data-track-options="{"dimension28":"3","dimension29":"Trading and moving endangered species protected by CITES from 1 January 2021"}" href="/guidance/trading-and-moving-endangered-species-protected-by-cites-if-theres-no-withdrawal-deal">Trading and moving endangered species protected by CITES from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/moving-cites-specimens-through-the-port-of-dover-in-a-no-deal-brexit" data-track-options="{"dimension28":"3","dimension29":"Moving CITES specimens through the Port of Dover from 1 January 2021"}" href="/guidance/moving-cites-specimens-through-the-port-of-dover-in-a-no-deal-brexit">Moving CITES specimens through the Port of Dover from 1 January 2021</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-1628b5e3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-bc576ae0" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-1628b5e3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-bc576ae0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit" data-track-options="{"dimension28":"3","dimension29":"Moving CITES specimens through Eurotunnel in a no-deal Brexit"}" href="/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit">Moving CITES specimens through Eurotunnel in a no-deal Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/moving-cites-specimens-through-the-port-of-dover-in-a-no-deal-brexit" data-track-options="{"dimension28":"3","dimension29":"Moving CITES specimens through the Port of Dover in a no-deal Brexit"}" href="/guidance/moving-cites-specimens-through-the-port-of-dover-in-a-no-deal-brexit">Moving CITES specimens through the Port of Dover in a no-deal Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/moving-cites-specimens-through-belfast-seaport-in-a-no-deal-brexit" data-track-options="{"dimension28":"3","dimension29":"Moving CITES specimens through Belfast Seaport in a no-deal Brexit"}" href="/guidance/moving-cites-specimens-through-belfast-seaport-in-a-no-deal-brexit">Moving CITES specimens through Belfast Seaport in a no-deal Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/moving-cites-specimens-through-the-port-of-dover-in-a-no-deal-brexit" data-track-options="{"dimension28":"3","dimension29":"Moving CITES specimens through the Port of Dover from 1 January 2021"}" href="/guidance/moving-cites-specimens-through-the-port-of-dover-in-a-no-deal-brexit">Moving CITES specimens through the Port of Dover from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit" data-track-options="{"dimension28":"3","dimension29":"Moving CITES specimens through Eurotunnel from 1 January 2021"}" href="/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit">Moving CITES specimens through Eurotunnel from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/moving-cites-specimens-through-belfast-seaport-in-a-no-deal-brexit" data-track-options="{"dimension28":"3","dimension29":"Moving CITES specimens through Belfast Seaport from 1 January 2021"}" href="/guidance/moving-cites-specimens-through-belfast-seaport-in-a-no-deal-brexit">Moving CITES specimens through Belfast Seaport from 1 January 2021</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-bc576ae0" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-bc576ae0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/trading-with-the-uk-as-an-overseas-exporter" data-track-options="{"dimension28":"1","dimension29":"Trading with the UK as an overseas exporter"}" href="/government/collections/trading-with-the-uk-as-an-overseas-exporter">Trading with the UK as an overseas exporter</a></li>
 
   </ul>
 </nav>
@@ -423,9 +447,9 @@ You must check the guidance and use the correct point of entry and exit if you�
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a6a5a224" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dee5b5f5" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a6a5a224" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-dee5b5f5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
