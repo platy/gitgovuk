@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Foreign travel insurance
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Wherever you’re travelling, it's important to take out comprehensive travel insurance before you go</p>
+  <p class="gem-c-lead-paragraph">Wherever you’re travelling, it's important to take out comprehensive travel insurance before you go.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 22 March 2013
-    <br></br>Last updated 7 January 2020
+    <br></br>Last updated 3 July 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,55 +62,59 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#overview" data-track-options="{"dimension29":"Overview"}" href="#overview">Overview</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#covid-19" data-track-options="{"dimension29":"COVID-19"}" href="#covid-19">COVID-19</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#choosing-a-travel-insurance-policy" data-track-options="{"dimension29":"Choosing a travel insurance policy"}" href="#choosing-a-travel-insurance-policy">Choosing a travel insurance policy</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#overview" data-track-options="{"dimension29":"Overview"}" href="#overview">Overview</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#what-your-travel-insurance-policy-should-cover" data-track-options="{"dimension29":"What your travel insurance policy should cover"}" href="#what-your-travel-insurance-policy-should-cover">What your travel insurance policy should cover</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#choosing-a-travel-insurance-policy" data-track-options="{"dimension29":"Choosing a travel insurance policy"}" href="#choosing-a-travel-insurance-policy">Choosing a travel insurance policy</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#after-brexit" data-track-options="{"dimension29":"Travel insurance after Brexit"}" href="#after-brexit">Travel insurance after Brexit</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#what-your-travel-insurance-policy-should-cover" data-track-options="{"dimension29":"What your travel insurance policy should cover"}" href="#what-your-travel-insurance-policy-should-cover">What your travel insurance policy should cover</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#policy-extras" data-track-options="{"dimension29":"Policy extras"}" href="#policy-extras">Policy extras</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#travel-eu" data-track-options="{"dimension29":"Travel to the EU"}" href="#travel-eu">Travel to the EU</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#policy-exclusions" data-track-options="{"dimension29":"Policy exclusions"}" href="#policy-exclusions">Policy exclusions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#policy-extras" data-track-options="{"dimension29":"Policy extras"}" href="#policy-extras">Policy extras</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#travel-insurance-after-starting-travel-or-changing-your-plans" data-track-options="{"dimension29":"Travel insurance after starting travel or changing your plans"}" href="#travel-insurance-after-starting-travel-or-changing-your-plans">Travel insurance after starting travel or changing your plans</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#policy-exclusions" data-track-options="{"dimension29":"Policy exclusions"}" href="#policy-exclusions">Policy exclusions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#insurance-for-temporary-and-permanent-residents-overseas" data-track-options="{"dimension29":"Insurance for temporary and permanent residents overseas"}" href="#insurance-for-temporary-and-permanent-residents-overseas">Insurance for temporary and permanent residents overseas</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#travel-insurance-after-starting-travel-or-changing-your-plans" data-track-options="{"dimension29":"Travel insurance after starting travel or changing your plans"}" href="#travel-insurance-after-starting-travel-or-changing-your-plans">Travel insurance after starting travel or changing your plans</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#making-a-travel-insurance-claim" data-track-options="{"dimension29":"Making a travel insurance claim"}" href="#making-a-travel-insurance-claim">Making a travel insurance claim</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#insurance-for-temporary-and-permanent-residents-overseas" data-track-options="{"dimension29":"Insurance for temporary and permanent residents overseas"}" href="#insurance-for-temporary-and-permanent-residents-overseas">Insurance for temporary and permanent residents overseas</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#other-financial-protection" data-track-options="{"dimension29":"Other financial protection"}" href="#other-financial-protection">Other financial protection</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#making-a-travel-insurance-claim" data-track-options="{"dimension29":"Making a travel insurance claim"}" href="#making-a-travel-insurance-claim">Making a travel insurance claim</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#atol-atol" data-track-options="{"dimension29":"Air Travel Organiser’s Licensing (ATOL)"}" href="#atol-atol">Air Travel Organiser’s Licensing (ATOL)</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#other-financial-protection" data-track-options="{"dimension29":"Other financial protection"}" href="#other-financial-protection">Other financial protection</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#specialistl-insurance" data-track-options="{"dimension29":"More information and help finding specialist insurance"}" href="#specialistl-insurance">More information and help finding specialist insurance</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#atol-atol" data-track-options="{"dimension29":"Air Travel Organiser’s Licensing (ATOL)"}" href="#atol-atol">Air Travel Organiser’s Licensing (ATOL)</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#complaints-about-services" data-track-options="{"dimension29":"Complaints about services"}" href="#complaints-about-services">Complaints about services</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#specialistl-insurance" data-track-options="{"dimension29":"More information and help finding specialist insurance"}" href="#specialistl-insurance">More information and help finding specialist insurance</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#complaints-about-services" data-track-options="{"dimension29":"Complaints about services"}" href="#complaints-about-services">Complaints about services</a>
 
         </li>
     </ol>
@@ -119,6 +124,16 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
+<div class="call-to-action">
+<h2 id="covid-19">COVID-19</h2>
+
+<p>From 4 July some countries and territories are <a href="https://www.gov.uk/guidance/coronavirus-covid-19-countries-and-territories-exempt-from-advice-against-all-but-essential-international-travel" class="govuk-link">exempted from the global advisory against all but essential international travel</a>. If you decide to travel during the coronavirus (COVID-19) pandemic, it is even more important that you have appropriate travel insurance.</p>
+
+<p>If you already have a travel insurance policy, you should check what cover it provides for coronavirus-related events, including medical cover and travel disruption. If you are choosing a new policy, make sure you check how it covers these issues.</p>
+
+<p>If you do not have appropriate insurance before you travel, you could be liable for emergency costs including medical treatment. We recommend you buy your travel insurance as soon as possible after booking your trip.</p>
+</div>
+
 <h2 id="overview">Overview</h2>
 
 <p>Wherever you’re travelling, getting the right travel insurance is one of the most important things to do before you go. It could save you and your family a lot of money and difficulty if things go wrong before or during your trip.</p>
@@ -235,11 +250,11 @@
 
 <p>If you have difficulty finding cover for reasons associated with a medical condition, you can <a href="#specialistl-insurance" class="govuk-link">contact a specialist provider</a>.</p>
 
-<p>If you are travelling in the European Economic Area or Switzerland, you should apply for a free <a href="https://www.gov.uk/government/publications/european-health-insurance-card-ehic" class="govuk-link">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</a>   The <a href="https://www.gov.uk/government/publications/european-health-insurance-card-ehic" class="govuk-link"><abbr title="European Health Insurance Card">EHIC</abbr></a> gives you the right to access emergency state-provided healthcare during a temporary stay in those countries</p>
+<p>If you are travelling in the European Economic Area or Switzerland, before 31 December 2020, you can apply for and continue to use your <a href="https://www.gov.uk/european-health-insurance-card" class="govuk-link">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</a> during this time, as you did before. The <abbr title="European Health Insurance Card">EHIC</abbr> gives you the right to access emergency state-provided healthcare during a temporary stay in those countries.</p>
 
 <p>Remember that the <abbr title="European Health Insurance Card">EHIC</abbr> is not an alternative to travel insurance. It will not cover any private medical healthcare or costs, such as mountain rescue in ski resorts, being flown back to the UK, or lost or stolen property. It is not valid on cruises.</p>
 
-<p>The <abbr title="European Health Insurance Card">EHIC</abbr> may not be valid after Brexit. See <a href="#after-brexit" class="govuk-link">Travel insurance after Brexit</a></p>
+<p>See <a href="#travel-eu" class="govuk-link">Travel to the EU</a></p>
 
 <h3 id="adventure-and-sports-activities">Adventure and sports activities</h3>
 
@@ -249,13 +264,19 @@
 
 <p>Use of quad bikes is typically not covered.</p>
 
-<h2 id="after-brexit">Travel insurance after Brexit</h2>
+<h2 id="travel-eu">Travel to the EU</h2>
 
-<p>The <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/" class="govuk-link">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</a> may not be valid after <a href="https://www.gov.uk/brexit" class="govuk-link">Brexit</a>. You should make sure your travel insurance covers your healthcare needs.</p>
+<p>There are no changes to the rules on travelling to the EU before the transition period ends on 31 December 2020.</p>
 
-<p>If you’re travelling in the European Economic Area or Switzerland, check for the latest information on the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/" class="govuk-link">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</a> online, or by phone on 0300 330 1350.</p>
+<p>If you are travelling in the European Economic Area or Switzerland during this time, you can apply for and continue to use your European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>), as you did before. The <abbr title="European Health Insurance Card">EHIC</abbr> gives you the right to access emergency state-provided healthcare during a temporary stay in those countries.</p>
 
-<p>Whether there’s a Brexit deal or not, when taking out travel insurance you should also check:</p>
+<p>Check for the latest information on <a href="https://www.gov.uk/european-health-insurance-card" class="govuk-link">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</a> online, or by phone on 0300 330 1350.</p>
+
+<p>Remember that the <abbr title="European Health Insurance Card">EHIC</abbr> is not an alternative to travel insurance. It will not cover any private medical healthcare or costs, such as mountain rescue in ski resorts, being flown back to the UK, or lost or stolen property. It is not valid on cruises.</p>
+
+<p>You should make sure your travel insurance covers your healthcare needs.</p>
+
+<p>When taking out travel insurance you should also check:</p>
 
 <ul>
   <li>the level of healthcare cover it includes</li>
@@ -263,9 +284,7 @@
   <li>the terms and conditions</li>
 </ul>
 
-<p>If you already have travel insurance, contact your insurer if you have any questions about travel after Brexit.</p>
-
-<p>There may also be changes to your <a href="https://www.gov.uk/guidance/driving-in-the-eu-after-brexit" class="govuk-link">vehicle insurance when driving in the EU after Brexit</a>.</p>
+<p>Contact your insurer if you have any questions about your travel cover.</p>
 
 <h2 id="policy-extras">Policy extras</h2>
 
@@ -456,42 +475,45 @@ If you need urgent consular assistance while abroad, <a href="https://www.gov.uk
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 March 2013
-    <br></br>Last updated 7 January 2020
+    <br></br>Last updated 3 July 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-03T15:36:18.000+01:00">3 July 2020</time>
+              <p class="app-c-published-dates__change-note">New information on making sure your travel insurance covers you for coronavirus-related events</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-07T15:40:11.000+00:00">7 January 2020</time>
-              Update to contents including addition of new segments; travel insurance after starting travel or changing your plans, making a travel insurance claim, other financial protection and if you’re not covered.
-
+              <p class="app-c-published-dates__change-note">Update to contents including addition of new segments; travel insurance after starting travel or changing your plans, making a travel insurance claim, other financial protection and if you’re not covered.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-22T18:11:41.000+00:00">22 March 2019</time>
-              Added information on financial protection of package holidays.
+              <p class="app-c-published-dates__change-note">Added information on financial protection of package holidays.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-20T08:23:28.000+00:00">20 March 2019</time>
-              Information on the use of European Health Insurance cards (EHIC) in the event of a no deal added to the EU Exit update section
+              <p class="app-c-published-dates__change-note">Information on the use of European Health Insurance cards (EHIC) in the event of a no deal added to the EU Exit update section</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-12-19T14:44:01.000+00:00">19 December 2018</time>
-              EU Exit update with advice on checking insurance coverage when travelling to Europe after the UK leaves the EU.
+              <p class="app-c-published-dates__change-note">EU Exit update with advice on checking insurance coverage when travelling to Europe after the UK leaves the EU.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2017-10-25T15:32:21.000+01:00">25 October 2017</time>
-              Content and format changes
+              <p class="app-c-published-dates__change-note">Content and format changes</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2017-07-26T16:50:04.000+01:00">26 July 2017</time>
-              Inclusion of Association of Travel Insurance Intermediaries (ATII) information.
+              <p class="app-c-published-dates__change-note">Inclusion of Association of Travel Insurance Intermediaries (ATII) information.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2017-07-11T15:47:45.000+01:00">11 July 2017</time>
-              Updated information on travel insurance
+              <p class="app-c-published-dates__change-note">Updated information on travel insurance</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2013-03-22T14:42:00.000+00:00">22 March 2013</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -517,8 +539,8 @@ If you need urgent consular assistance while abroad, <a href="https://www.gov.uk
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -526,33 +548,33 @@ If you need urgent consular assistance while abroad, <a href="https://www.gov.uk
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-84b74add" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-5b62360d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-84b74add" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-5b62360d" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/foreign-travel-checklist" data-track-options="{"dimension28":"5","dimension29":"Foreign travel checklist"}" href="/guidance/foreign-travel-checklist">Foreign travel checklist</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice" data-track-options="{"dimension28":"5","dimension29":"About Foreign and Commonwealth Office travel advice"}" href="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice">About Foreign and Commonwealth Office travel advice</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice" data-track-options="{"dimension28":"5","dimension29":"Lesbian, Gay, Bisexual and Transgender foreign travel advice"}" href="/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice">Lesbian, Gay, Bisexual and Transgender foreign travel advice</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-the-usa" data-track-options="{"dimension28":"5","dimension29":"Living in the USA"}" href="/guidance/living-in-the-usa">Living in the USA</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/tropical-cyclones" data-track-options="{"dimension28":"5","dimension29":"Tropical cyclones"}" href="/guidance/tropical-cyclones">Tropical cyclones</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice" data-track-options="{"dimension28":"5","dimension29":"About Foreign and Commonwealth Office travel advice"}" href="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice">About Foreign and Commonwealth Office travel advice</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/cruise-ship-travel" data-track-options="{"dimension28":"5","dimension29":"Cruise ship travel"}" href="/guidance/cruise-ship-travel">Cruise ship travel</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/spain-travel-during-coronavirus-border-crossing-with-france" data-track-options="{"dimension28":"5","dimension29":"Spain travel during coronavirus: border crossing with France"}" href="/government/publications/spain-travel-during-coronavirus-border-crossing-with-france">Spain travel during coronavirus: border crossing with France</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/support-for-british-nationals-abroad-a-guide" data-track-options="{"dimension28":"5","dimension29":"Support for British nationals abroad: A guide"}" href="/government/publications/support-for-british-nationals-abroad-a-guide">Support for British nationals abroad: A guide</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/how-to-deal-with-a-crisis-overseas" data-track-options="{"dimension28":"5","dimension29":"What to do if you’re affected by a crisis overseas"}" href="/guidance/how-to-deal-with-a-crisis-overseas">What to do if you’re affected by a crisis overseas</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-84b74add" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-5b62360d" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-84b74add" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-5b62360d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -560,17 +582,17 @@ If you need urgent consular assistance while abroad, <a href="https://www.gov.uk
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/foreign-travel-advice-for-people-with-mental-health-issues" data-track-options="{"dimension28":"5","dimension29":"Travel and mental health"}" href="/guidance/foreign-travel-advice-for-people-with-mental-health-issues">Travel and mental health</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice" data-track-options="{"dimension28":"5","dimension29":"About Foreign and Commonwealth Office travel advice"}" href="/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice">About Foreign and Commonwealth Office travel advice</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/foreign-travel-checklist" data-track-options="{"dimension28":"5","dimension29":"Foreign travel checklist"}" href="/guidance/foreign-travel-checklist">Foreign travel checklist</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/festival-travel-checklist" data-track-options="{"dimension28":"5","dimension29":"Festival travel checklist"}" href="/guidance/festival-travel-checklist">Festival travel checklist</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/winter-sports-stay-safe-on-the-slopes" data-track-options="{"dimension28":"5","dimension29":"Preparing for winter sports abroad #SkiSafe"}" href="/guidance/winter-sports-stay-safe-on-the-slopes">Preparing for winter sports abroad #SkiSafe</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/winter-sports-stay-safe-on-the-slopes" data-track-options="{"dimension28":"5","dimension29":"Preparing for winter sports abroad #SkiSafe"}" href="/guidance/winter-sports-stay-safe-on-the-slopes">Preparing for winter sports abroad #SkiSafe</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/festival-travel-checklist" data-track-options="{"dimension28":"5","dimension29":"Festival travel checklist"}" href="/guidance/festival-travel-checklist">Festival travel checklist</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-84b74add" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-5b62360d" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-84b74add" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-5b62360d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -602,9 +624,9 @@ If you need urgent consular assistance while abroad, <a href="https://www.gov.uk
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6054b1e7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-61fcec1d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6054b1e7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-61fcec1d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
