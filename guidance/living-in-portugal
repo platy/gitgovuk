@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Portugal
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Portugal, including guidance on Brexit, residency, healthcare and passports.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Portugal, including guidance on residency, healthcare, passports and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 22 March 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 7 July 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -62,67 +62,75 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#driving-in-portugal" data-track-options="{"dimension29":"Driving in Portugal"}" href="#driving-in-portugal">Driving in Portugal</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-and-studying-in-portugal" data-track-options="{"dimension29":"Working and studying in Portugal"}" href="#working-and-studying-in-portugal">Working and studying in Portugal</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#driving-in-portugal" data-track-options="{"dimension29":"Driving in Portugal"}" href="#driving-in-portugal">Driving in Portugal</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-and-studying-in-portugal" data-track-options="{"dimension29":"Working and studying in Portugal"}" href="#working-and-studying-in-portugal">Working and studying in Portugal</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
 </a>
 
         </li>
@@ -134,7 +142,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You must:</p>
 
@@ -148,9 +156,13 @@
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the Portuguese Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/portugal" class="govuk-link">Portugal travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The <abbr title="United Kingdom">UK</abbr> is leaving the <abbr title="European Union">EU</abbr>. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>
@@ -161,30 +173,64 @@
 
 <h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
 
-<p>The British Embassy regularly holds events across Portugal for <abbr title="United Kingdom">UK</abbr> nationals. <a href="https://www.gov.uk/government/news/information-and-events-for-uk-nationals-living-in-portugal" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Portugal after Brexit.</p>
+<p>The British Embassy regularly holds events across Portugal for <abbr title="United Kingdom">UK</abbr> nationals. <a href="https://www.gov.uk/government/news/information-and-events-for-uk-nationals-living-in-portugal" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Portugal.</p>
 
 <p>You can also:</p>
 
 <ul>
   <li>contact the <a rel="external" href="https://www.contact-embassy.service.gov.uk/?country=Portugal&post=British%20Embassy%20Lisbon" class="govuk-link">British Embassy in Portugal</a>
 </li>
-  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the <abbr title="European Union">EU</abbr>: prepare for Brexit</a>
-</li>
 </ul>
+
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
+
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the <abbr title="United Kingdom">UK</abbr>’s withdrawal from the <abbr title="European Union">EU</abbr> and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the <abbr title="European Union">EU</abbr> broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in Portugal at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Portugal.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information.</p>
+
+<p>In the meantime, make sure you are registered as a resident in Portugal. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
-<p>If you are resident in Portugal before the implementation period ends on 31 December 2020, you will be able to stay.</p>
+<p>Check the <a href="https://www.gov.uk/foreign-travel-advice/portugal/entry-requirements" class="govuk-link">entry requirements for Portugal</a>.</p>
 
-<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
+<h3 id="residency">Residency</h3>
+
+<p>If you are resident in Portugal before the end of the transition period on 31 December 2020, you will be able to stay.</p>
+
+<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available.</p>
 
 <p>For more information:</p>
 
 <ul>
-  <li>read the <a rel="external" href="https://www.portaldiplomatico.mne.gov.pt/images/pdf/Folheto_Brexit_EN.PDF" class="govuk-link">Portuguese government’s leaflet on your residency rights after Brexit</a>
-</li>
-  <li>visit the <a rel="external" href="https://www.portaldiplomatico.mne.gov.pt/politica-externa/brexit" class="govuk-link">Portuguese Ministry of Foreign Affairs web page</a> (in Portuguese)</li>
+  <li>
+    <p>read the Border and Immigration Agency (SEF) <a rel="external" href="https://imigrante.sef.pt/en/brexit/" class="govuk-link">guidance on residency rights for <abbr title="United Kingdom">UK</abbr> nationals</a> (in English)</p>
+  </li>
+  <li>
+    <p>visit the <a rel="external" href="https://www.portaldiplomatico.mne.gov.pt/politica-externa/brexit" class="govuk-link">Portuguese Ministry of Foreign Affairs web page</a> (in Portuguese)</p>
+  </li>
 </ul>
+
+<h3 id="uk-nationals-support-fund">
+<abbr title="United Kingdom">UK</abbr> Nationals Support Fund</h3>
+
+<p>On 6 March 2020 the <a href="https://www.gov.uk/government/news/uk-government-allocates-3-million-to-support-uk-nationals-in-the-eu" class="govuk-link"><abbr title="Foreign and Commonwealth Office">FCO</abbr> announced funding</a> for organisations to provide practical support to <abbr title="United Kingdom">UK</abbr> nationals who may have difficulty completing their residency applications. </p>
+
+<p>These organisations will help individuals who may find it harder to complete the necessary paperwork to secure their residency rights, including pensioners, disabled people, those living in remote areas or who have mobility difficulties, and those who require help with language translation or interpretation.</p>
+
+<p>In Portugal, this practical support is being provided by The International Organisation for Migration. If you or someone you know may have difficulty completing the paperwork, you can contact them using the details below to discuss how they may be able to help you.</p>
+
+<h3 id="the-international-organisation-for-migration-iom">The International Organisation for Migration (IOM)</h3>
+
+<p>Helpline: +351 913 886 456</p>
+
+<p>Website: <a href="https://unitedkingdom.iom.int/uknsf-portugal" class="govuk-link">https://unitedkingdom.iom.int/uknsf-portugal</a></p>
+
+<p>Email: <a href="mailto:UKNationalsPT@iom.int" class="govuk-link">UKNationalsPT@iom.int</a></p>
 
 <h2 id="healthcare">Healthcare</h2>
 
@@ -192,62 +238,64 @@
 
 <p>Once you are registered as a resident in Portugal, you are entitled to state healthcare. You need to register at your local health centre (centro de saúde) and get a user <abbr title="identity">ID</abbr> number (health number) by showing your residence certificate and your passport.</p>
 
-<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-portugal-including-madeira" class="govuk-link">guidance on how you can register for healthcare in Portugal and how the healthcare system works</a>.</p>
 
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
 <p>If you live in Portugal and receive an exportable <abbr title="United Kingdom">UK</abbr> pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the <abbr title="United Kingdom">UK</abbr>. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>You can <a rel="external" href="https://contactcentreservices.nhsbsa.nhs.uk/selfnhsukokb/AskUs_EHIC/en-gb/6696/application-forms-and-evidence/16477/s1-form-what-is-this-and-how-do-i-obtain-one" class="govuk-link">apply for an S1 certificate</a> through the Business Services Authority.</p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</h3>
 
-<p>If you are resident in Portugal, you must not use your <abbr title="European Health Insurance Card">EHIC</abbr> from the <abbr title="United Kingdom">UK</abbr> to access healthcare in Portugal.</p>
+<p>If you are resident in Portugal, you must not use your <abbr title="European Health Insurance Card">EHIC</abbr> from the <abbr title="United Kingdom">UK</abbr> to access healthcare in Portugal, unless you are a student or posted-worker.</p>
 
 <p>When you travel from Portugal for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an <abbr title="European Health Insurance Card">EHIC</abbr> to access state-provided healthcare in that country. During that short stay:</p>
 
 <ul>
   <li>the <abbr title="European Health Insurance Card">EHIC</abbr> covers treatment that is medically necessary until your planned return home</li>
   <li>an <abbr title="European Health Insurance Card">EHIC</abbr> is not a replacement for comprehensive travel insurance</li>
-  <li>for more information read our <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice pages</a> and <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">advice on foreign travel insurance</a>.</li>
+  <li>for more information read our <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice pages</a> and <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">advice on foreign travel insurance</a>
+</li>
 </ul>
 
 <p>You should apply for a Portuguese-issued European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>) for visits outside of Portugal if you are either:</p>
 
 <ul>
   <li>registered with Portuguese Social Security (if you are working or the dependent of someone working in Portugal), or</li>
-  <li>resident in Portugal and do not have healthcare cover from the <abbr title="United Kingdom">UK</abbr> or another Member State (for example if you are not entitled to an S1), but have a healthcare user number (número de utente).</li>
+  <li>resident in Portugal and do not have healthcare cover from the <abbr title="United Kingdom">UK</abbr> or another Member State (for example if you are not entitled to an S1), but have a healthcare user number (Número de Utente de Saúde).</li>
 </ul>
 
-<p>The Portuguese government has more <a rel="external" href="http://www.seg-social.pt/pedido-cartao-europeu-seguro-doenca" class="govuk-link">information on how to apply</a> (in Portuguese), including an application form which you should complete and hand in at your nearest Social Security office. Your Portuguese <abbr title="European Health Insurance Card">EHIC</abbr> will continue to be valid in most <abbr title="European Union">EU</abbr> countries and Switzerland after Brexit, but may no longer be valid in the <abbr title="United Kingdom">UK</abbr>.</p>
+<p>The Portuguese government has more <a rel="external" href="http://www.seg-social.pt/pedido-cartao-europeu-seguro-doenca" class="govuk-link">information on how to apply</a> (in Portuguese), including an application form which you should complete and hand in at your nearest Social Security office.</p>
 
-<p>If you are a student, read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link"><abbr title="National Health Service">NHS</abbr> guidance on healthcare and studying abroad</a>.</p>
+<p>You can also continue to use your <abbr title="European Health Insurance Card">EHIC</abbr>, as you did before, during the transition period, until 31 December 2020.</p>
 
-<p>You can find an <a href="https://www.gov.uk/government/publications/portugal-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctor in Portugal</a>.</p>
+<p>You should also read guidance on:</p>
 
-<p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a> in Portugal.</p>
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li>finding <a href="https://www.gov.uk/government/publications/portugal-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctors in Portugal</a>
+</li>
+  <li>
+<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking your prescriptions are legal</a> in Portugal</li>
+</ul>
 
 <p>Send questions about access to healthcare in Portugal to <a href="mailto:healthcare.portugal@fco.gov.uk" class="govuk-link">healthcare.portugal@fco.gov.uk</a></p>
 
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your <abbr title="European Health Insurance Card">EHIC</abbr>, as you did before, during this time.</p>
-
-<p>If you are living in Portugal or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Portugal as you do now, provided you remain resident.</p>
-
 <h2 id="passports-and-travel">Passports and travel</h2>
+
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the <abbr title="European Union">EU</abbr> with your <abbr title="United Kingdom">UK</abbr> passport.</p>
 
 <p>You can <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">apply for or renew your British passport from Portugal</a>.</p>
 
-<p>Read our <a href="https://www.gov.uk/foreign-travel-advice/portugal" class="govuk-link">travel advice for Portugal</a> and sign up to email alerts for up-to-date information on local laws and customs, safety and emergencies.</p>
-
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
-
-<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity beyond this.</p>
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
 
 <p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on it.</p>
-
-<p>The rules on travel will stay the same until the implementation period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the <abbr title="European Union">EU</abbr> with your <abbr title="United Kingdom">UK</abbr> passport.</p>
 
 <p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-portugal" class="govuk-link">sign up for updates</a> to this guidance.</p>
 
 <h2 id="driving-in-portugal">Driving in Portugal</h2>
+
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
 
 <p>For information on driving in Portugal, read our guidance on:</p>
 
@@ -266,6 +314,8 @@
 
 <p>Use your Portuguese licence if you need to drive in the <abbr title="United Kingdom">UK</abbr> and other <abbr title="European Union">EU</abbr> countries as a visitor. Exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>, as long as you originally passed your test in the <abbr title="United Kingdom">UK</abbr> or in an <abbr title="European Union">EU</abbr> country.</p>
 
+<p>Find more information on recognition and exchange of driving licences in the <a rel="external" href="http://www.imt-ip.pt/sites/IMTT/Portugues/Noticias/Paginas/Brexit-Cartas-Conducao-DrivingLicences.aspx" class="govuk-link">Instituto da Mobilidade e de Transportes (<abbr title="Instituto da Mobilidade e de Transportes">IMT</abbr>) guidance</a> (available in Portuguese and English).</p>
+
 <p>If you are resident in Portugal and your <abbr title="United Kingdom">UK</abbr> driving licence is lost, stolen or expires, you will not be able to renew it with the <abbr title="United Kingdom">UK</abbr> Driver and Vehicle Licensing Agency (<abbr title="Driver and Vehicle Licensing Agency">DVLA</abbr>).</p>
 
 <h3 id="bringing-a-uk-registered-vehicle-to-portugal">Bringing a <abbr title="United Kingdom">UK</abbr>-registered vehicle to Portugal</h3>
@@ -276,15 +326,9 @@
 
 <p>You can read the European Union´s <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/portugal/index_en.htm" class="govuk-link">guidance on car registration rules and taxes in Portugal</a>. You may be exempt from some of these taxes. If so, you will need certificates of exemption.</p>
 
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
-
-<p>Find more information on recognition and exchange of driving licences in the <a rel="external" href="http://www.imt-ip.pt/sites/IMTT/Portugues/Noticias/Paginas/Brexit-Cartas-Conducao-DrivingLicences.aspx" class="govuk-link">Instituto da Mobilidade e de Transportes (<abbr title="Instituto da Mobilidade e de Transportes">IMT</abbr>) guidance on the Brexit</a> (available in Portuguese and English).</p>
-
 <h2 id="working-and-studying-in-portugal">Working and studying in Portugal</h2>
 
-<p>If you are registered as a resident in Portugal, you have the right to work in Portugal. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another <abbr title="European Union">EU</abbr> country</a>.</p>
+<p>If you are registered as a resident in Portugal on or before 31 December 2020, you will maintain your right to work in Portugal, as long as you remain resident. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an <abbr title="European Union">EU</abbr> country</a>.</p>
 
 <p>To apply for a job you may need to provide a:</p>
 
@@ -297,9 +341,11 @@
   <li><a rel="external" href="https://www.scotland.police.uk/access-to-information/data-protection/" class="govuk-link">copy of your Police Scotland record</a></li>
 </ul>
 
-<h3 id="working-in-portugal-after-brexit">Working in Portugal after Brexit</h3>
+<h3 id="studying-in-portugal">Studying in Portugal</h3>
 
-<p>If you are resident before the implementation period ends on 31 December 2020, your right to work will not change after Brexit.</p>
+<p>If you are resident in Portugal on or before 31 December 2020, your right to study in Portugal will stay the same, as long as you remain resident.</p>
+
+<p>For more information read <a href="https://www.gov.uk/guidance/uk-students-in-the-eu-continuing-your-studies" class="govuk-link">studying in the European Union</a>.</p>
 
 <h3 id="british-qualifications">British qualifications</h3>
 
@@ -318,17 +364,11 @@
 
 <p>You can read our guidance on the <a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/735072/Leaflet_re_certifying_educational_docs_January_2017.pdf" class="govuk-link">certification of British qualifications</a>.</p>
 
-<h3 id="studying-in-portugal-after-brexit">Studying in Portugal after Brexit</h3>
-
-<p>Your right to study will stay the same, as long as you remain resident.</p>
-
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/uk-students-in-the-eu-continuing-your-studies" class="govuk-link">continuing your studies in the European Union after Brexit</a>.</p>
-
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The <abbr title="United Kingdom">UK</abbr> has a double-taxation agreement with Portugal to make sure that people do not pay tax on the same income in both countries.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> has a double taxation agreement with Portugal to ensure you do not pay tax on the same income in both countries. Existing double taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Portugal have not changed.</p>
 
-<p>If you are a Portuguese resident, you must declare your global income to the Portuguese authorities, no matter which country it came from. You can ask the relevant tax authority about double taxation relief.</p>
+<p>If you are a Portuguese resident, you must declare your global income to the Portuguese authorities, no matter which country it came from.  Ask the relevant tax authority about double taxation relief.</p>
 
 <p>If you are not a resident, you will only pay tax on income that came from Portugal.</p>
 
@@ -350,15 +390,9 @@
 
 <p>If you are employed or self-employed in the <abbr title="European Union">EU</abbr> or EEA and you have a <abbr title="United Kingdom">UK</abbr>-issued A1/E101 form, you will remain subject to <abbr title="United Kingdom">UK</abbr> legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Portugal. You should send your taxpayer questions about double-taxation to the relevant tax authority.</p>
-
 <h2 id="pensions">Pensions</h2>
 
 <p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<p>There will be no changes before 31 December 2020 to the rules on claiming the <abbr title="United Kingdom">UK</abbr> State Pension in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>If you retire in Portugal, you can claim:</p>
 
@@ -372,19 +406,23 @@
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">life certificate from the <abbr title="United Kingdom">UK</abbr> Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming the <abbr title="United Kingdom">UK</abbr> State Pension in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>You can continue to receive your <abbr title="United Kingdom">UK</abbr> State Pension if you live in the <abbr title="European Union">EU</abbr>, EEA or Switzerland and you can still claim your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
 
-<p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020, you will get your <abbr title="United Kingdom">UK</abbr> State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020, you will get your <abbr title="United Kingdom">UK</abbr> State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance</a>.</p>
 
 <p>If you are living in Portugal by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
 
-<p>If you work and pay social security contributions in Portugal, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Portuguese pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Portugal, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Portuguese pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the <abbr title="European Union">EU</abbr></a>.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming <abbr title="United Kingdom">UK</abbr> benefits in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
+<p>You must tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <p>You may still be able to claim some <abbr title="United Kingdom">UK</abbr> benefits like child and disability benefits if you live in Portugal. You should:</p>
 
@@ -401,11 +439,15 @@
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you have worked in the <abbr title="United Kingdom">UK</abbr></a> from HMRC if you are asked for this.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-january-2020">Benefits after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming <abbr title="United Kingdom">UK</abbr> benefits in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020, you will continue to receive any <abbr title="United Kingdom">UK</abbr> benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Portugal, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Portuguese contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Portugal, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Portuguese contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the <abbr title="European Union">EU</abbr></a>.</p>
 
 <h2 id="accommodation-and-buying-property">Accommodation and buying property</h2>
 
@@ -421,23 +463,18 @@
 
 <h2 id="voting">Voting</h2>
 
+<p>The <abbr title="United Kingdom">UK</abbr> has signed a bilateral agreement with Portugal on <abbr title="United Kingdom">UK</abbr> nationals’ right to vote in local elections. The agreement guarantees that if you were living in Portugal before 31 January 2020 you maintain the right to vote and stand in local elections.</p>
+
+<p>If you move to Portugal after 31 January 2020, you will be able to vote in local elections after 3 years of residency After 5 years of residency you will be able to stand and be elected for local office.</p>
+
+<p>You cannot vote in European Parliament elections.</p>
+
 <p>You may be able to vote in some <abbr title="United Kingdom">UK</abbr> elections. You can:</p>
 
 <ul>
   <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
-  <li>
-<a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter if you would like to vote</a>.</li>
+  <li><a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter if you would like to vote</a></li>
 </ul>
-
-<p>If you’re resident in Portugal, you can <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">vote in local municipal Portuguese elections and European parliamentary elections</a>.</p>
-
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
-
-<p>The <abbr title="United Kingdom">UK</abbr> has signed a bilateral agreement with Portugal on <abbr title="United Kingdom">UK</abbr> nationals’ right to vote in local elections. The agreement guarantees that <abbr title="United Kingdom">UK</abbr> nationals who are living in Portugal on the day the <abbr title="United Kingdom">UK</abbr> leaves the <abbr title="European Union">EU</abbr> will maintain the right to vote in local elections and hold office in the future.</p>
-
-<p>It also recognises the right of <abbr title="United Kingdom">UK</abbr> nationals who move to Portugal after Brexit to vote in local elections after 3 years of residency and to stand and be elected for local office after 5 years of residency.</p>
-
-<p><abbr title="United Kingdom">UK</abbr> nationals resident in Portugal will no longer be eligible to vote in European elections after Brexit.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
@@ -472,7 +509,7 @@
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a>.</p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet to the <abbr title="United Kingdom">UK</abbr></a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -502,10 +539,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 March 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 7 July 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-07T13:04:29.000+01:00">7 July 2020</time>
+              <p class="app-c-published-dates__change-note">Visas and residency section updated to include information about how to access the UK National Support Fund for those who may find it harder to complete their residency applications</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T18:49:27.000+00:00">23 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
@@ -653,48 +694,48 @@ In addition: Updated information on subject access request - amended website lin
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-28989443" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-24c6cdc1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-28989443" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-24c6cdc1" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"5","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-bulgaria" data-track-options="{"dimension28":"5","dimension29":"Living in Bulgaria"}" href="/guidance/living-in-bulgaria">Living in Bulgaria</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-finland" data-track-options="{"dimension28":"5","dimension29":"Living in Finland"}" href="/guidance/living-in-finland">Living in Finland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"5","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-greece" data-track-options="{"dimension28":"5","dimension29":"Living in Greece"}" href="/guidance/living-in-greece">Living in Greece</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-ireland" data-track-options="{"dimension28":"5","dimension29":"Living in Ireland"}" href="/guidance/living-in-ireland">Living in Ireland</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-28989443" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-24c6cdc1" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-28989443" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-24c6cdc1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-portugal" data-track-options="{"dimension28":"2","dimension29":"Portugal: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-portugal">Portugal: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-portugal-including-madeira" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Portugal"}" href="/guidance/healthcare-in-portugal-including-madeira">Healthcare in Portugal</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-portugal-including-madeira" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Portugal"}" href="/guidance/healthcare-in-portugal-including-madeira">Healthcare for UK nationals living in Portugal</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-28989443" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-24c6cdc1" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-28989443" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-24c6cdc1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -726,9 +767,9 @@ In addition: Updated information on subject access request - amended website lin
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5594c724" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3ac952d5" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-5594c724" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-3ac952d5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
