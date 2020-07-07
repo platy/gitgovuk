@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 November 2018
-    <br></br>Last updated 1 July 2020
+    <br></br>Last updated 7 July 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -64,7 +64,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h3 id="outreach-activity--covid-19">Outreach activity & COVID-19</h3>
+<h3 id="outreach-activity-and-covid-19">Outreach activity and COVID-19</h3>
 <p>As a precautionary measure, all of our outreach events will take place online until further notice. For our latest guidance on the COVID-19 outbreak in Spain, see our <a href="https://www.gov.uk/foreign-travel-advice/spain" class="govuk-link">Spain travel advice.</a></p>
 </div>
 
@@ -78,6 +78,7 @@
       <th scope="col">Date and time</th>
       <th scope="col">Location</th>
       <th scope="col">Venue</th>
+      <th scope="col">Registration</th>
     </tr>
   </thead>
   <tbody>
@@ -86,6 +87,13 @@
       <td>ONLINE</td>
       <td>FACEBOOK LIVE Q&A - <a rel="external" href="https://www.facebook.com/BritsInSpain/" class="govuk-link">Brits in Spain Facebook page</a>
 </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>EXTERNAL EVENT - Friday 31 July, 3:00pm - 4:00pm</td>
+      <td>ONLINE</td>
+      <td>Webinar hosted by ‘My Lawyer in Spain’ with Charmaine Arbouin, British Consul as panelist</td>
+      <td><a rel="external" href="https://www.facebook.com/events/276912847057767/" class="govuk-link">Register here for this event</a></td>
     </tr>
   </tbody>
 </table>
@@ -523,7 +531,7 @@
     </tr>
     <tr>
       <td>10 October</td>
-      <td>Calvià (Mallorca)</td>
+      <td>Calvi�� (Mallorca)</td>
       <td> </td>
     </tr>
     <tr>
@@ -1385,10 +1393,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 November 2018
-    <br></br>Last updated 1 July 2020
+    <br></br>Last updated 7 July 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-07T08:55:40.000+01:00">7 July 2020</time>
+              <p class="app-c-published-dates__change-note">Addition of new online external event on Friday 31 July</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-01T15:43:28.000+01:00">1 July 2020</time>
               <p class="app-c-published-dates__change-note">Information on forthcoming Facebook Live Q&A event on Wednesday 8 July</p>
@@ -1641,14 +1653,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-77d87849" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-118d0cea" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-77d87849" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-118d0cea" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -1685,9 +1697,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8d2eff4a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-050feb0d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8d2eff4a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-050feb0d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1702,9 +1714,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-8d2eff4a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-050feb0d" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-8d2eff4a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-050feb0d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
