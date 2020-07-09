@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Luxembourg
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Luxembourg, including guidance on Brexit, residency, passports and driving.</p>
+  <p class="gem-c-lead-paragraph">Official information  for UK nationals moving to or living in Luxembourg, including guidance on residency, healthcare, passports and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 April 2018
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 9 July 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,67 +62,75 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#driving-in-luxembourg" data-track-options="{"dimension29":"Driving in Luxembourg"}" href="#driving-in-luxembourg">Driving in Luxembourg</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-luxembourg" data-track-options="{"dimension29":"Working in Luxembourg"}" href="#working-in-luxembourg">Working in Luxembourg</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#driving-in-luxembourg" data-track-options="{"dimension29":"Driving in Luxembourg"}" href="#driving-in-luxembourg">Driving in Luxembourg</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-in-luxembourg" data-track-options="{"dimension29":"Working in Luxembourg"}" href="#working-in-luxembourg">Working in Luxembourg</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married-or-civil-partnership" data-track-options="{"dimension29":"Births, deaths and getting married or civil partnership"}" href="#births-deaths-and-getting-married-or-civil-partnership">Births, deaths and getting married or civil partnership</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married-or-civil-partnership" data-track-options="{"dimension29":"Births, deaths and getting married or civil partnership"}" href="#births-deaths-and-getting-married-or-civil-partnership">Births, deaths and getting married or civil partnership</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -132,7 +141,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
@@ -141,65 +150,76 @@
 <a rel="external" href="http://luxembourg.public.lu/en/vivre/sinstaller/declarer/index.html" class="govuk-link">register as resident</a> in Luxembourg</li>
   <li>
 <a href="https://www.gov.uk/guidance/living-in-luxembourg#driving-in-luxembourg" class="govuk-link">exchange your UK driving licence</a> for a Luxembourgish one</li>
-  <li>read the <a rel="external" href="https://guichet.public.lu/fr/support/faq-brexit.html" class="govuk-link">Luxembourg government’s information on Brexit</a>
+  <li>read the <a rel="external" href="https://guichet.public.lu/fr/support/faq-brexit.html" class="govuk-link">Luxembourg government’s guidance for UK nationals living there</a>
 </li>
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+<p>You should follow the advice of the Luxembourg Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/luxembourg" class="govuk-link">Luxembourg travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-luxembourg" class="govuk-link">email alerts on living in Luxembourg</a>
 </li>
   <li>follow your local British Embassy on <a rel="external" href="https://www.facebook.com/Britishembassyluxembourg" class="govuk-link">Facebook</a>
 </li>
-  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the EU: prepare for Brexit</a>
-</li>
 </ul>
+
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
+
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the UK’s withdrawal from the EU and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the EU broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in Luxembourg at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Luxembourg.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information</p>
+
+<p>In the meantime, make sure you are registered as a resident in Luxembourg. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>Check <a href="https://www.gov.uk/foreign-travel-advice/luxembourg/entry-requirements" class="govuk-link">entry requirements for Luxembourg</a> in our travel advice.</p>
 
-<p>You are required to register at the local town hall (“commune”) in Luxembourg when you arrive.</p>
+<h3 id="residency">Residency</h3>
 
-<p>If you plan to stay in Luxembourg for more than 90 days, you must make a declaration of arrival (déclaration d’arrivée) at the local town hall (commune) in your locality within 8 days. Within 3 months of arrival, you must get an address registration certificate (déclaration d’enregistrement) from the Commune. The Luxembourg government has <a rel="external" href="https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/arrivee-luxembourg/depart-arrivee-commune.html" class="govuk-link">more information on registering in Luxembourg</a>.</p>
+<p>If you are resident in Luxembourg before the transition period ends on 31 December 2020, you will be able to stay.</p>
 
-<p>If you are applying for nationality or residency and require a ’casier judiciaire’, you must <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">apply for a police certificate</a> from the ACRO Criminal Records Office. If you have never resided in the UK, please record this in the ‘additional information’ section on the application form.</p>
+<p>You must obtain a new residence document in line with the Withdrawal Agreement by 30 June 2021.</p>
 
-<p>If you have lived in Luxembourg legally for a continuous period of 5 years, you automatically acquire the right of permanent residence in Luxembourg. You can get an ‘attestation de séjour permanent’ from your local commune or <a rel="external" href="https://guichet.public.lu/content/dam/guichet/catalogue-formulaires/immigration-citoyen-UE/attestation-sejour-permanent-citoyen-UE/attestation-sejour-permanent-ue.pdf" class="govuk-link">fill in the ‘attestation’ form</a> and send to the address on the form.</p>
+<p>If you have previously registered as a resident you must complete an application form to obtain the new document from the Immigration Department in Luxembourg City. Read the <a rel="external" href="https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-britannique/document-sejour-ressortissant-britannique-membre-famille.html" class="govuk-link">Luxembourg government’s guidance on the application process</a> and complete the application form at the bottom of the page.</p>
 
-<p>Read our <a href="https://www.gov.uk/foreign-travel-advice/luxembourg" class="govuk-link">travel advice for Luxembourg</a> and sign up for up-to-date information on local laws and customs and safety and emergencies.</p>
+<p>If you move to Luxembourg before 31 December 2020, you must first make a declaration of arrival (déclaration d’arrivée) at the local town hall (commune) in your locality within 8 days. Within 3 months of arrival, you must get an address registration certificate (déclaration d’enregistrement) from the Commune. Once you have received your address registration certificate you will need to get the new document, in line with the Withdrawal Agreement.</p>
+
+<p>If you require a criminal record check (‘casier judiciaire’), you must <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">apply for a police certificate</a> from the ACRO Criminal Records Office. If you have never resided in the UK, please record this in the ‘additional information’ section on the application form.</p>
+
+<p>Read the Luxembourg government’s <a rel="external" href="https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/arrivee-luxembourg/depart-arrivee-commune.html" class="govuk-link">guidance on registering in Luxembourg</a></p>
 
 <p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
-<h3 id="visas-and-residency-visas-after-brexit">Visas and residency visas after Brexit</h3>
-
-<p>If you are resident in Luxembourg before the end of the implementation period on 31 December 2020 you will be able to stay.</p>
-
-<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
-
-<p>Read the <a rel="external" href="https://gouvernement.lu/en/dossiers/2019/brexit.html#bloub-1" class="govuk-link">Luxembourg government’s guidance on residency rules and registration processes after Brexit</a>.</p>
-
 <h2 id="passports-and-travel">Passports and travel</h2>
+
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
 
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport online from Luxembourg</a>.</p>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
 
-<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
-
-<p>You’ll need <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on it.</p>
-
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on it.</p>
 
 <p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-luxembourg" class="govuk-link">sign up for updates</a> to this guidance.</p>
 
 <h2 id="driving-in-luxembourg">Driving in Luxembourg</h2>
 
-<p>You must exchange your UK licence for a Luxembourg one. You can still use your Luxembourg licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+<p>You should exchange your UK licence for a Luxembourg one. You can still use your Luxembourg licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
+
+<p>Read the <a rel="external" href="https://guichet.public.lu/fr/support/faq-brexit.html" class="govuk-link">Luxembourg government’s guidance on licences</a>.</p>
 
 <p>For information on driving in Luxembourg, read our guidance on:</p>
 
@@ -217,22 +237,23 @@
 
 <p>You can read the EU’s <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/index_en.htm" class="govuk-link">guidance on vehicle registration abroad</a> and <a rel="external" href="https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/achat-importation-vehicule-etranger/vehicule-demenagement-transfrontalier.html" class="govuk-link">importing a vehicle into Luxembourg</a>. You may be exempt from some taxes. If so, you will need certificates of exemption.</p>
 
-<h3 id="driving-in-luxembourg-after-brexit">Driving in Luxembourg after Brexit</h3>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
-
-<p>Read the <a rel="external" href="https://guichet.public.lu/fr/support/faq-brexit.html" class="govuk-link">Luxembourg government’s guidance on licences</a> (in French).</p>
-
 <h2 id="healthcare">Healthcare</h2>
+
+<p>If you are living in Luxembourg or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Luxembourg as you do now, provided you remain resident.</p>
 
 <p>Read the <a href="https://www.gov.uk/guidance/healthcare-in-luxembourg" class="govuk-link">guidance on accessing healthcare in Luxembourg and how to register</a>.</p>
 
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
 <p>If you live in Luxembourg and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You must apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>You can <a rel="external" href="https://contactcentreservices.nhsbsa.nhs.uk/selfnhsukokb/AskUs_EHIC/en-gb/6696/application-forms-and-evidence/16477/s1-form-what-is-this-and-how-do-i-obtain-one" class="govuk-link">apply for an S1 certificate</a> through the Business Services Authority.</p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
 
-<p>If you are resident in Luxembourg, you must not use your EHIC from the UK to access healthcare in Luxembourg.
-When you travel from Luxembourg for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay:</p>
+<p>If you are resident in Luxembourg, you must not use your EHIC from the UK to access healthcare in Luxembourg.</p>
+
+<p>When you travel from Luxembourg for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay:</p>
 
 <ul>
   <li>the EHIC covers treatment that is medically necessary until your planned return home</li>
@@ -241,33 +262,29 @@ When you travel from Luxembourg for a temporary stay in another European Economi
 </li>
 </ul>
 
-<p>Read the <a rel="external" href="https://gouvernement.lu/en/dossiers/2019/brexit.html#bloub-3" class="govuk-link">Luxembourg government’s information on Brexit</a>.</p>
-
-<p>You can find <a href="https://www.gov.uk/government/publications/luxembourg-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctors in Luxembourg</a>.</p>
-
-<p>You must <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a>.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
 <p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time.</p>
 
-<p>If you are living in Luxembourg or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Luxembourg as you do now, provided you remain resident.</p>
+<p>You should also read guidance on:</p>
+
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li><a href="https://www.gov.uk/government/publications/luxembourg-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctors in Luxembourg</a></li>
+  <li><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking if your prescriptions are legal</a></li>
+</ul>
 
 <h2 id="working-in-luxembourg">Working in Luxembourg</h2>
 
-<p>If you are registered as a resident in Luxembourg, you have the right to work in Luxembourg. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
+<p>If you are registered as a resident in Luxembourg, you have the right to work in Luxembourg. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an EU country</a>.</p>
 
 <p>Check if you need to apply for a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK criminal records certificate</a>, known in Luxembourg as a ‘casier judiciare.’</p>
 
-<h3 id="working-in-luxembourg-after-brexit">Working in Luxembourg after Brexit</h3>
-
-<p>You will maintain you right to work as long as you remain resident in Luxembourg.</p>
-
-<p>Read the <a rel="external" href="https://gouvernement.lu/en/dossiers/2019/brexit.html" class="govuk-link">Luxembourg government’s information about Brexit</a>.</p>
+<p>If you are resident in Luxembourg on or before 31 December 2020, you will maintain your right to work, as long as you remain resident in Luxembourg.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The UK has a <a href="https://www.gov.uk/government/publications/luxembourg-tax-treaties" class="govuk-link">double-taxation agreement with Luxembourg</a> to make sure that people do not pay tax on the same income in both countries. You should direct individual taxpayer questions about double-taxation relief to the relevant tax authority.</p>
+<p>The UK has a <a href="https://www.gov.uk/government/publications/luxembourg-tax-treaties" class="govuk-link">double taxation agreement with Luxembourg</a> to ensure you do not pay tax on the same income in both countries. You should direct individual taxpayer questions about double-taxation relief to the relevant tax authority.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in Luxembourg have not changed.</p>
 
 <p>Read:</p>
 
@@ -288,15 +305,9 @@ When you travel from Luxembourg for a temporary stay in another European Economi
 
 <p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Luxembourg.</p>
-
 <h2 id="pensions">Pensions</h2>
 
 <p>You must tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you retire in Luxembourg, you can claim:</p>
 
@@ -312,19 +323,23 @@ When you travel from Luxembourg for a temporary stay in another European Economi
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you must respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
 
-<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance</a>.</p>
 
 <p>If you are living in Luxembourg by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your UK State Pension.</p>
 
-<p>If  you work and pay social security contributions in Luxembourg, you will still be able to add your UK social security contributions towards your Luxembourg pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Luxembourg, you will still be able to add your UK social security contributions towards your Luxembourg pension. This will happen even if you claim your pension after  31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
+<p>You must tell the UK government offices that deal with your benefits, pension and tax if you are moving or retiring abroad.</p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in Luxembourg. You should:</p>
 
@@ -337,17 +352,23 @@ When you travel from Luxembourg for a temporary stay in another European Economi
 
 <p>Many income-related benefits such as Pension Credit and Housing Benefit cannot be paid to you if you’re abroad for more than 4 weeks.</p>
 
-<p>You may be eligible to claim some Luxembourg social security benefits – read about <a rel="external" href="http://ec.europa.eu/social/main.jsp?catId=1120&langId=en" class="govuk-link">Luxembourg social security benefits</a>.</p>
+<p>You may be eligible to claim some Luxembourg social security benefits – read about <a rel="external" href="https://ec.europa.eu/social/home.jsp?langId=en" class="govuk-link">Luxembourg social security benefits</a>.</p>
 
 <p>You can request <a href="https://www.gov.uk/get-proof-employment-history" class="govuk-link">proof of the time you have worked in the UK</a> from HMRC and any <a href="https://www.gov.uk/government/publications/national-insurance-statement-of-national-insurance-contributions-ca3916" class="govuk-link">social security contributions made</a> if you are asked for this.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-january-2020">Benefits after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Luxembourg, your UK social security contributions will be taken into account when applying for Luxembourg contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Luxembourg, your UK social security contributions will be taken into account when applying for Luxembourg contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
 
 <h2 id="voting">Voting</h2>
+
+<p>If you have been resident in Luxembourg for at least five years, you can vote in local elections in Luxembourg. You cannot vote in national elections in Luxembourg or European Parliament elections.</p>
 
 <p>You may be able to vote in some UK elections. You can:</p>
 
@@ -356,12 +377,6 @@ When you travel from Luxembourg for a temporary stay in another European Economi
   <li>
 <a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
 </ul>
-
-<p>If you’re resident in Luxembourg, you can vote in <a rel="external" href="https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/participation-elections/inscription-listes-electorales-communales.html" class="govuk-link">local municipal elections</a> and <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">European parliamentary elections</a>.</p>
-
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
-
-<p>After Brexit, if you are resident in Luxembourg, you will still continue to be able to vote in local elections in Luxembourg.</p>
 
 <h2 id="births-deaths-and-getting-married-or-civil-partnership">Births, deaths and getting married or civil partnership</h2>
 
@@ -393,11 +408,12 @@ When you travel from Luxembourg for a temporary stay in another European Economi
 <p>You can read our guidance on <a href="https://www.gov.uk/guidance/guidance-for-buying-property-abroad" class="govuk-link">buying a property abroad</a>.</p>
 
 <h2 id="pets">Pets</h2>
+
 <p>Current pet travel rules will stay the same until 31 December 2020.</p>
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a> page.</p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet to the UK</a> page.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -418,8 +434,7 @@ When you travel from Luxembourg for a temporary stay in another European Economi
 <p>Read the guidance on <a href="https://www.gov.uk/guidance/returning-to-the-uk" class="govuk-link">returning to the UK permanently</a> which includes information on, amongst other things, tax, access to services and bringing family members.</p>
 
 <h3 id="disclaimer">Disclaimer</h3>
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Luxembourg authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information</p>
-
+<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Luxembourg authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information.</p>
 </div>
 </div>
 
@@ -427,10 +442,14 @@ When you travel from Luxembourg for a temporary stay in another European Economi
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 April 2018
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 9 July 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-09T13:08:58.000+01:00">9 July 2020</time>
+              <p class="app-c-published-dates__change-note">Visa and residency section updated with information about how to apply for the new residency document</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T17:15:59.000+00:00">23 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
@@ -511,8 +530,8 @@ When you travel from Luxembourg for a temporary stay in another European Economi
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -520,48 +539,48 @@ When you travel from Luxembourg for a temporary stay in another European Economi
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-7eb114aa" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-0fa0e8a7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7eb114aa" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-0fa0e8a7" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-estonia" data-track-options="{"dimension28":"5","dimension29":"Living in Estonia"}" href="/guidance/living-in-estonia">Living in Estonia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-slovakia" data-track-options="{"dimension28":"5","dimension29":"Living in Slovakia"}" href="/guidance/living-in-slovakia">Living in Slovakia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-liechtenstein" data-track-options="{"dimension28":"5","dimension29":"Living in Liechtenstein"}" href="/guidance/living-in-liechtenstein">Living in Liechtenstein</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-slovakia" data-track-options="{"dimension28":"5","dimension29":"Living in Slovakia"}" href="/guidance/living-in-slovakia">Living in Slovakia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-slovenia" data-track-options="{"dimension28":"5","dimension29":"Living in Slovenia"}" href="/guidance/living-in-slovenia">Living in Slovenia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-7eb114aa" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-0fa0e8a7" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-7eb114aa" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-0fa0e8a7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-luxembourg" data-track-options="{"dimension28":"2","dimension29":"Luxembourg: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-luxembourg">Luxembourg: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-luxembourg" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Luxembourg"}" href="/guidance/healthcare-in-luxembourg">Healthcare in Luxembourg</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-luxembourg" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Luxembourg"}" href="/guidance/healthcare-in-luxembourg">Healthcare for UK nationals living in Luxembourg</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-7eb114aa" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-0fa0e8a7" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-7eb114aa" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-0fa0e8a7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -593,9 +612,9 @@ When you travel from Luxembourg for a temporary stay in another European Economi
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1ea13327" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-57bb2e05" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1ea13327" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-57bb2e05" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
