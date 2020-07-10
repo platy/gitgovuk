@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       World news story
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Information and events for British citizens in Belgium
   </h1>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 21 December 2018
-    <br></br>Last updated 13 March 2020
+    <br></br>Last updated 10 July 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -67,13 +67,33 @@
 
 <h2 id="upcoming-uk-citizens-outreach-meetings-across-belgium">Upcoming UK citizens’ outreach meetings across Belgium</h2>
 
-<div class="call-to-action">
-<p>The event in Mons on Thursday 26 March has been cancelled in the light of of the ongoing and evolving situation regarding COVID-19. We hope to reschedule later in the year. In the meantime we are looking to organise Facebook Q&A’s in the coming weeks, where you will be able to submit your questions to us online.</p>
-</div>
+<ul>
+  <li>
+    <p>virtual drop-in session (on Facebook), Wednesday 5 August 2020, 5:00pm - 7:00pm</p>
+  </li>
+  <li>
+    <p>virtual drop-in session (on Facebook), Wednesday 2 September 2020, 5:00pm - 7:00pm</p>
+  </li>
+  <li>
+    <p>virtual drop-in session (on Facebook), Wednesday 7 October 2020, 5:00pm - 7:00pm</p>
+  </li>
+  <li>
+    <p>virtual drop-in session (on Facebook), Wednesday 4 November 2020, 5:00pm - 7:00pm</p>
+  </li>
+  <li>
+    <p>virtual drop-in session (on Facebook), Wednesday 2 December 2020, 5:00pm - 7:00pm</p>
+  </li>
+</ul>
 
 <h3 id="previous-uk-citizens-outreach-meetings-across-belgium">Previous UK citizens’ outreach meetings across Belgium</h3>
 
 <ul>
+  <li>
+    <p>virtual drop-in session (on Facebook), Thursday 2 July 2020</p>
+  </li>
+  <li>
+    <p>virtual drop-in session (on Facebook), Wednesday 6 May 2020</p>
+  </li>
   <li>
     <p>Brussels, Tuesday 25 February 2020</p>
   </li>
@@ -224,10 +244,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 21 December 2018
-    <br></br>Last updated 13 March 2020
+    <br></br>Last updated 10 July 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-10T15:08:47.000+01:00">10 July 2020</time>
+              <p class="app-c-published-dates__change-note">Updates to upcoming virtual UK citizens' outreach meetings across Belgium</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-03-13T10:51:18.000+00:00">13 March 2020</time>
               <p class="app-c-published-dates__change-note">Citizens outreach meeting in Mons on 26 March cancelled due to the ongoing and evolving situation regarding coronovirus (COVID-19).</p>
@@ -286,31 +310,6 @@
 
 
     
-  <div class="gem-c-related-navigation">
-
-      <h2 id="related-nav-related_items-16be13f9" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
-        Related content
-      </h2>
-
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-16be13f9" data-module="gem-toggle">
-
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/italy-list-of-medical-facilitiespractitioners" data-track-options="{"dimension28":"5","dimension29":"Italy: doctors"}" href="/government/publications/italy-list-of-medical-facilitiespractitioners">Italy: doctors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-belgium" data-track-options="{"dimension28":"5","dimension29":"Living in Belgium"}" href="/guidance/living-in-belgium">Living in Belgium</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/netherlands-list-of-funeral-directors" data-track-options="{"dimension28":"5","dimension29":"Netherlands: funeral directors"}" href="/government/publications/netherlands-list-of-funeral-directors">Netherlands: funeral directors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/holidaying-in-greece--2" data-track-options="{"dimension28":"5","dimension29":"Holidaying in Greece: information leaflet"}" href="/government/publications/holidaying-in-greece--2">Holidaying in Greece: information leaflet</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/geographical-names-and-information" data-track-options="{"dimension28":"5","dimension29":"Geographical names index"}" href="/government/publications/geographical-names-and-information">Geographical names index</a></li>
-
-  </ul>
-</nav>
-
-  </div>
 
 
 
@@ -332,9 +331,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-da967407" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ddc9d102" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-da967407" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-ddc9d102" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -349,9 +348,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-da967407" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-ddc9d102" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-da967407" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-ddc9d102" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
