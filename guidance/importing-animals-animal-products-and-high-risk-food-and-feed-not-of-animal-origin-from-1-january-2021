@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 10 June 2020
+    <br></br>Last updated 13 July 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -68,7 +70,13 @@
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    
+      <div class="app-c-important-metadata app-c-important-metadata--bottom-margin">
+    <dl data-module="track-click">
+      <dt class="app-c-important-metadata__term">Applies to: </dt>
+      <dd class="app-c-important-metadata__definition">Wales, England, and Scotland</dd>
+    </dl>
+  </div>
+
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
@@ -81,27 +89,19 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#import-from-a-non-eu-country-via-the-eu" data-track-options="{"dimension29":"Import from a non-EU country via the EU"}" href="#import-from-a-non-eu-country-via-the-eu">Import from a non-EU country via the EU</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#import-from-an-eu-country" data-track-options="{"dimension29":"Import from an EU country"}" href="#import-from-an-eu-country">Import from an EU country</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#import-from-an-eu-country" data-track-options="{"dimension29":"Import from an EU country"}" href="#import-from-an-eu-country">Import from an EU country</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#import-from-an-eu-country-from-1-january-2021" data-track-options="{"dimension29":"Import from an EU country from 1 January 2021"}" href="#import-from-an-eu-country-from-1-january-2021">Import from an EU country from 1 January 2021</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#transits-via-the-uk-from-a-non-eu-country-into-the-eu" data-track-options="{"dimension29":"Transits via the UK from a non-EU country into the EU"}" href="#transits-via-the-uk-from-a-non-eu-country-into-the-eu">Transits via the UK from a non-EU country into the EU</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#import-from-an-eu-country-from-1-april-2021" data-track-options="{"dimension29":"Import from an EU country from 1 April 2021"}" href="#import-from-an-eu-country-from-1-april-2021">Import from an EU country from 1 April 2021</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#documents-for-transporters" data-track-options="{"dimension29":"Documents for transporters"}" href="#documents-for-transporters">Documents for transporters</a>
-
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#other-import-requirements" data-track-options="{"dimension29":"Other import requirements"}" href="#other-import-requirements">Other import requirements</a>
-
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#trade-agreements" data-track-options="{"dimension29":"Trade agreements"}" href="#trade-agreements">Trade agreements</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#import-from-an-eu-country-from-1-july-2021" data-track-options="{"dimension29":"Import from an EU country from 1 July 2021"}" href="#import-from-an-eu-country-from-1-july-2021">Import from an EU country from 1 July 2021</a>
 
         </li>
     </ol>
@@ -111,242 +111,162 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>The process for notifying the UK authorities about imports will change from 1 January 2021.</p>
-
 <h2 id="import-from-a-non-eu-country">Import from a non-EU country</h2>
 
 <p>You’ll no longer have access to the EU’s import system <abbr title="Trade Control and Expert System">TRACES</abbr> (Trade Control and Expert System) from 1 January 2021.</p>
 
-<p>You’ll need to use the UK’s new <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link">Import of Products, Animals, Food and Feed System (<abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>)</a> for imports of:</p>
+<p>You’ll need to use the UK’s new <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link">Import of Products, Animals, Food and Feed System</a> (<abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr>) for imports of:</p>
 
 <ul>
   <li>live animals</li>
-  <li>products of animal origin (<abbr title="Products of animal origin">POAO</abbr>) subject to veterinary checks</li>
+  <li>products of animal origin (<abbr title="products of animal origin">POAO</abbr>) subject to veterinary checks</li>
   <li>high-risk food and feed not of non-animal origin</li>
   <li>germplasm (also called germinal products)</li>
   <li>animal by-products not intended for human consumption (<abbr title="Animal by-product">ABP</abbr>) subject to veterinary checks</li>
 </ul>
 
-<p>Health certificates and other documentation currently used for imports will be accepted by the UK for 6 months from 1 January 2021. You’ll then need to use a new UK health certificate.</p>
+<p>Health certificates and other documentation are being reviewed and further guidance will follow.</p>
 
 <h3 id="high-risk-food-or-feed-of-non-animal-origin">High-risk food or feed of non-animal origin</h3>
-<p>You must continue to import high-risk food or feed of non-animal origin into the UK through a border control post (BCP), previously called a border inspection post (<abbr title="Border inspection post">BIP</abbr>) or designated point of entry (<abbr title="Designated point of entry">DPE</abbr>). <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details" class="govuk-link">Find out which BCP you should use</a>.</p>
+
+<p>You must continue to import high-risk food or feed of non-animal origin into the UK through a border control post (<abbr title="border control post">BCP</abbr>), previously called a border inspection post (<abbr title="Border inspection post">BIP</abbr>) or designated point of entry (<abbr title="Designated point of entry">DPE</abbr>). <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details" class="govuk-link">Find out which <abbr title="border control post">BCP</abbr> you should use</a>.</p>
 
 <h3 id="live-animals-germplasm-poaos-and-abp">Live animals, germplasm, POAOs and <abbr title="Animal by-product">ABP</abbr>
 </h3>
-<p>You must continue to import live animals, germplasm, POAOs and <abbr title="Animal by-product">ABP</abbr> that are subject to vet checks into the UK through a UK border control post (BCP). <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details" class="govuk-link">Find out which BCP you should use</a>.</p>
+<p>You must continue to import live animals, germplasm, POAOs and <abbr title="Animal by-product">ABP</abbr> that are subject to vet checks into the UK through a UK border control post (<abbr title="border control post">BCP</abbr>). <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details" class="govuk-link">Find out which <abbr title="border control post">BCP</abbr> you should use</a>.</p>
 
-<p>Importers should check if the CN code for their product is listed in <a rel="external" href="https://eur-lex.europa.eu/homepage.html" class="govuk-link">Commission Implementing Regulation 2019/2007</a> to find out if the <abbr title="Products of animal origin">POAO</abbr> or <abbr title="Animal by-product">ABP</abbr> must be vet checked at a border control port (BCP).</p>
+<p>Importers should check if the CN code for their product is listed in <a rel="external" href="https://eur-lex.europa.eu/homepage.html" class="govuk-link">Commission Implementing Regulation 2019/2007</a> to find out if the <abbr title="products of animal origin">POAO</abbr> or <abbr title="Animal by-product">ABP</abbr> must be vet checked at a border control port (<abbr title="border control post">BCP</abbr>).</p>
 
-<p>You must use <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link"><abbr title="Import of products, animals, food and feed system">IPAFFS</abbr></a> to notify the UK BCP at least one working day before your consignment is due to arrive.</p>
+<p>You must use <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link"><abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr></a> to notify the UK <abbr title="border control post">BCP</abbr> at least one working day before your consignment is due to arrive.</p>
 
-<p>For imports of certain POAOs and <abbr title="Animal by-product">ABP</abbr> that do not require veterinary checks at a BCP, there is no requirement to pre-notify a port of the arrival of the consignment.</p>
-
-<h2 id="import-from-a-non-eu-country-via-the-eu">Import from a non-EU country via the EU</h2>
-<p>The process for transit consignments coming to the UK via the EU depends on what you’re importing.</p>
-
-<h4 id="poao-and-high-risk-food-and-feed-not-of-animal-origin">
-<abbr title="Products of animal origin">POAO</abbr> and high-risk food and feed not of animal origin</h4>
-<p>You must use <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link"><abbr title="Import of products, animals, food and feed system">IPAFFS</abbr></a> for imports of products of animal origin and high-risk food and feed not of animal origin.</p>
-
-<p><abbr title="Products of animal origin">POAO</abbr> transiting through the EU to the UK can only enter the UK through a UK BCP - it cannot enter Northern Ireland across the land border with Ireland. For more information, <a rel="external" href="https://www.daera-ni.gov.uk/articles/daera-import-guidance-northern-ireland-after-eu-exit-0" class="govuk-link">see the guidance from the Department for Agriculture, Environment and Rural Affairs (<abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr>)</a>.</p>
-
-<p>You must also get your consignment checked at a UK BCP for <abbr title="Products of animal origin">POAO</abbr> or high-risk food and feed not of animal origin.</p>
-
-<h4 id="live-animals-and-germplasm">Live animals and germplasm</h4>
-<p>Live animals and germplasm can use any UK port if they have:</p>
-
-<ul>
-  <li>full veterinary checks with favourable results at a recognised <a rel="external" href="https://ec.europa.eu/food/animals/vet-border-control/bip-contacts_en" class="govuk-link">EU BCP</a>
-</li>
-  <li>a valid Common Health Entry Document (CHED), previously known as the Common Veterinary Entry Document (CVED), sent to HMRC UK</li>
-</ul>
-
-<p>For live animals, you must also email a completed <a href="https://www.gov.uk/government/publications/eu-import-of-animals-and-products-notify-authorities" class="govuk-link">IV66 import notification form</a> and copy of the valid EU CHED to Animal Plant Health Agency (<abbr title="Animal and Plant Health Agency">APHA</abbr>) Centre of International Trade (CIT) at <a href="mailto:GBImports@apha.gov.uk" class="govuk-link">GBImports@apha.gov.uk</a> at least 24 hours before arrival.</p>
-
-<p>For commercial dogs, you must also email <abbr title="Animal and Plant Health Agency">APHA</abbr> CIT at <a href="mailto:GBImports@apha.gov.uk" class="govuk-link">GBImports@apha.gov.uk</a> proof of the time and date of arrival, a completed <a href="https://www.gov.uk/government/publications/eu-import-of-animals-and-products-notify-authorities" class="govuk-link">IV66 import notification form</a>, a copy of the valid EU CHED and a copy of the Export Health Certificate.</p>
-
-<p>For imports to Northern Ireland, email scanned copies of the CHED and health certificates to the Department of Agriculture, Environment and Rural Affairs (<abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr>) at <a href="mailto:tradeadminport@daeri-ni.gov.uk" class="govuk-link">tradeadminport@daeri-ni.gov.uk</a> as soon as they’re available.</p>
-
-<p>If full veterinary checks in the EU have not been carried out, consignments must be checked at a UK BCP approved for the commodity you are importing. You must also pre-notify on <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>.</p>
-
-<h3 id="animal-by-products-not-intended-for-human-consumption-abp">Animal by-products not intended for human consumption (<abbr title="Animal by-product">ABP</abbr>)</h3>
-<p>For animal by-products that do not require veterinary checks at a BCP, there is no requirement to pre-notify a port of arrival of the consignment.</p>
-
-<p><abbr title="Animal by-product">ABP</abbr> subject to veterinary checks at a border control post may use any UK port if they have:</p>
-
-<ul>
-  <li>full veterinary checks with favourable results at a recognised UK BCP</li>
-  <li>a valid Common Health Entry Document (CHED), previously known as the Common Veterinary Entry Document (CVED), sent to HMRC UK</li>
-</ul>
-
-<p>For imports to Northern Ireland, email scanned copies of the CHED and health certificates to the Department of Agriculture, Environment and Rural Affairs (<abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr>) at <a href="mailto:tradeadminport@daeri-ni.gov.uk" class="govuk-link">tradeadminport@daeri-ni.gov.uk</a> as soon as they’re available.</p>
-
-<p>If full veterinary checks in the EU have not been carried out, consignments must be checked at a UK BCP approved for the commodity you are importing. You must also pre-notify using <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>.</p>
+<p>For imports of certain POAOs and <abbr title="Animal by-product">ABP</abbr> that do not require veterinary checks at a <abbr title="border control post">BCP</abbr>, there is no requirement to pre-notify a port of the arrival of the consignment.</p>
 
 <h2 id="import-from-an-eu-country">Import from an EU country</h2>
-<p>You’ll no longer have access to the EU’s import system <abbr title="Trade Control and Expert System">TRACES</abbr> (Trade Control and Expert System) from 1 January 2021.</p>
+<p>The UK has left the EU. There will be new processes that importers must follow. These processes will start in 3 stages.</p>
 
-<p>Initially the <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link">Import of Products, Animals, Food and Feed System (<abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>)</a> will not be used to notify of EU imports and you must use the <a href="https://www.gov.uk/government/publications/eu-import-of-animals-and-products-notify-authorities" class="govuk-link">IV66 form</a> to notify UK authorities of certain imports.</p>
+<p>From 1 January 2021 the UK will operate a full, external border with the EU. This means that there will be controls on the movement of goods between England, Scotland and Wales and the EU.</p>
 
-<p>IV66 is required for notification of:</p>
-
-<ul>
-  <li>live animals</li>
-  <li>germplasm</li>
-  <li>certain Category 1 and Category 2 <abbr title="Animal by-product">ABP</abbr> material (which have been authorised prior to import)</li>
-  <li>Category 3 animal by-products of processed animal protein</li>
-  <li>any <a rel="external" href="http://apha.defra.gov.uk/official-vets/Guidance/bip/iin/animal-prod-hum-cons.htm" class="govuk-link">meat and dairy product subject to safeguard measures</a>
-</li>
-</ul>
-
-<p>If you did not need to notify on <abbr title="Trade Control and Expert System">TRACES</abbr> before 31 January 2020, you will not need to notify under IV66.</p>
-
-<p>You must also follow the IV66 process if you’re importing to the UK from:</p>
+<p>You’ll need to use <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link"><abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr></a> for imports of:</p>
 
 <ul>
-  <li>the crown dependencies (Jersey, Guernsey and the Isle of Man)</li>
-  <li>Switzerland, Norway or Liechtenstein</li>
-  <li>Iceland, except for live animal imports, which still need to be notified on <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> and enter via a BCP</li>
+  <li>live animals including equines</li>
+  <li>products of animal origin (<abbr title="products of animal origin">POAO</abbr>) subject to veterinary checks</li>
+  <li>high-risk food and feed not of animal origin</li>
+  <li>germplasm (known as germinal products)</li>
+  <li>animal by-products (<abbr title="Animal by-products">ABPs</abbr>) not intended for human consumption subject to veterinary checks</li>
 </ul>
 
-<p>The process for EU imports is:</p>
+<h2 id="import-from-an-eu-country-from-1-january-2021">Import from an EU country from 1 January 2021</h2>
+<p>There are new rules for importing animal products, live animals and germinal products into England, Scotland and Wales from the EU from 1 January 2021.</p>
 
-<ol>
-  <li>UK importers must notify <abbr title="Animal and Plant Health Agency">APHA</abbr> of imports into the UK by submitting the <a href="https://www.gov.uk/government/publications/eu-import-of-animals-and-products-notify-authorities" class="govuk-link">IV66 form</a>.</li>
-  <li>
-<abbr title="Animal and Plant Health Agency">APHA</abbr> provides the importer a Unique Notification Number (<abbr title="Unique notification number">UNN</abbr>).</li>
-  <li>Importers give the EU exporter/Official Veterinarian (<abbr title="Official Veterinarian">OV</abbr>) the <abbr title="Unique notification number">UNN</abbr> - this must be added to the commercial documentation or health certificate (if one is required).</li>
-  <li>The UK importer is responsible for providing <abbr title="Animal and Plant Health Agency">APHA</abbr> with the completed health certificate (if one is required), which will be manually matched to the notification they previously raised.</li>
-  <li>Once received, <abbr title="Animal and Plant Health Agency">APHA</abbr> will undertake all checks required on the health certificate.</li>
-  <li>Where appropriate, <abbr title="Animal and Plant Health Agency">APHA</abbr> will undertake a risk-based post-import check (as happens currently).</li>
-</ol>
-
-<h3 id="live-animals-and-germplasm-1">Live animals and germplasm</h3>
-<p>If the live animals and germplasm are coming from the EU, Switzerland, Norway and Liechtenstein, you must notify <abbr title="Animal and Plant Health Agency">APHA</abbr> or <abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr> in Northern Ireland at least 24 hours in advance.</p>
-
-<p><abbr title="Animal and Plant Health Agency">APHA</abbr> only needs to be notified of germplasm from Iceland - live animal imports from Iceland will need to be notified on <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>.</p>
-
-<p>Importers must also notify <abbr title="Animal and Plant Health Agency">APHA</abbr> for live animals that have to be notified under Trade in Animals and Related Products Regulations (<abbr title="Trade in Animals and Related Products">TARP</abbr>) (for example, insects, reptiles and amphibians) but these do not need a health certificate or official documentation</p>
-
-<p>Check the import information notes on the <a rel="external" href="http://apha.defra.gov.uk/official-vets/Guidance/bip/iin/index.htm" class="govuk-link"><abbr title="Animal and Plant Health Agency">APHA</abbr> vet gateway</a> if you’re not sure what documents you need.</p>
-
-<h3 id="products-of-animal-origin">Products of animal origin</h3>
-
-<p>Products of animal origin (<abbr title="Products of animal origin">POAO</abbr>) arriving in the UK from the EU will not need to notify using IV66 unless the consignment is coming from an EU member state with disease outbreak safeguard measures in place.</p>
-
-<p>Imports from the EU of <abbr title="Products of animal origin">POAO</abbr> will not need to be accompanied by a health certificate, unless a health certificate was required on the commodity before 31 January 2020.</p>
-
-<p>Check the import information notes on the <a rel="external" href="http://apha.defra.gov.uk/official-vets/Guidance/bip/iin/index.htm" class="govuk-link"><abbr title="Animal and Plant Health Agency">APHA</abbr> vet gateway</a> if you’re not sure what documents you need.</p>
-
-<h3 id="food-and-feed">Food and feed</h3>
-<p>The process for importing feed and food from the EU to the UK won’t change from 1 January 2021.
-There will be no additional controls or checks - if you did not use <abbr title="Trade Control and Expert System">TRACES</abbr>, you will not need to use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> or IV66.</p>
-
-<h3 id="abp-not-for-human-consumption">
-<abbr title="Animal by-product">ABP</abbr> not for human consumption</h3>
-<p>There will be no additional controls or checks for <a href="https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal" class="govuk-link">Category 3 <abbr title="Animal by-product">ABP</abbr></a> imports other than Category 3 processed animal protein (PAP) from the EU. If you did not use <abbr title="Trade Control and Expert System">TRACES</abbr>, you will not need to use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> or IV66.</p>
-
-<p>Importers must notify <abbr title="Animal and Plant Health Agency">APHA</abbr> using the IV66 notification process for:</p>
-
-<ul>
-  <li>Category 1 and category 2 material (other than research and diagnostic samples)</li>
-  <li>Category 3 processed animal protein (PAP) travelling under a DOCOM (notify <abbr title="Animal and Plant Health Agency">APHA</abbr> when the consignment arrives)</li>
-</ul>
-
-<p>However, once the UK is classed as a non-EU country, under EU law EU member states may be prohibited or restricted from exporting certain <abbr title="Animal by-product">ABP</abbr> to the UK:</p>
-
-<ul>
-  <li>
-<abbr title="Animal by-product">ABP</abbr> and derived products for incineration or landfill</li>
-  <li>Category 1 and Category 2 material</li>
-  <li>products derived from Category 1 and 2 material for purposes other than incineration or landfill</li>
-</ul>
-
-<p>Importers should check which Category 1 and Category 2 material can be imported to the UK in Article 25(4) and Article 26 of <a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02011R0142-20190731&qid=1571819603831&from=EN" class="govuk-link">Regulation (EU) No 142/2011</a>.</p>
-
-<p><abbr title="Department for Environment, Food and Rural Affairs">Defra</abbr> is not banning such imports and will update this guidance when the process is confirmed.</p>
-
-<h2 id="transits-via-the-uk-from-a-non-eu-country-into-the-eu">Transits via the UK from a non-EU country into the EU</h2>
-<p>Consignments from a non-EU country that pass through the UK on their way to the EU have several options.</p>
-
-<h3 id="live-animals-germplasm-and-abp">Live animals, germplasm and <abbr title="Animal by-product">ABP</abbr>
+<h3 id="animal-products-poao-and-abps">Animal Products: <abbr title="products of animal origin">POAO</abbr> and <abbr title="Animal by-products">ABPs</abbr>
 </h3>
-<p>For live animals, you should check with the EU that transit through the UK is allowed.</p>
+<p><abbr title="Animal by-products">ABPs</abbr> are in either high risk or low risk categories. Find out what products are in the <a href="https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal#abp-categories-explained" class="govuk-link">different <abbr title="Animal by-product">ABP</abbr> categories</a>.</p>
 
-<p>Consignments of live animals, germplasm and <abbr title="Animal by-product">ABP</abbr> subject to veterinary checks at a BCP that are imported into the EU from a non-EU country via the UK must enter and be checked at a designated UK BCP.</p>
+<p>You must use <abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr> to pre-notify the arrival of high-risk <abbr title="Animal by-products">ABPs</abbr>.</p>
 
-<p>Once document, identity and physical checks (where applicable) are done by the entry BCP, the consignment can leave via any UK exit point to travel on to the EU. The consignment does not have to exit via a UK BCP. Live animals, <abbr title="Animal by-product">ABP</abbr> subject to veterinary checks at a BCP  and germplasm will only be tested if non-compliance is suspected.</p>
+<p>Most <abbr title="Animal by-products">ABPs</abbr> will continue to be accompanied by commercial documentation when you import them from the EU. <a href="https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening" class="govuk-link">Contact the Animal Plant Health Agency</a> (<abbr title="Animal and Plant Health Agency">APHA</abbr>) if you’re unsure whether you need a commercial document.</p>
 
-<p>You must use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> to notify of transit consignments subject to veterinary checks. When completing Part 1 of the CHED, the exit BCP details selected should be the same as the entry BCP details - for example, if the consignment enters the UK at Heathrow Airport and leaves at Dover Port, then the entry and exit BCP details should both be Heathrow Airport.</p>
+<p>New import requirements for low-risk <abbr title="Animal by-products">ABPs</abbr> or <abbr title="products of animal origin">POAO</abbr> will not apply until 1 July 2021.</p>
 
-<p>You must submit a full Export Health Certificate to the UK BCP. All consignments must be accompanied by an EU Export Health Certificate and enter the EU at an EU BCP approved for the type of commodity, where appropriate checks will be carried out.</p>
+<h3 id="live-animals-and-germinal-products">Live animals and germinal products</h3>
+<p>From 1 January 2021 live animals, including equines and germinal products imported from the EU, will be subject to new import controls.</p>
 
-<p>For <abbr title="Animal by-product">ABP</abbr> that’s not subject to veterinary checks at a BCP, there is no requirement to pre-notify a port of the arrival of the consignment.</p>
-
-<h3 id="poao-subject-to-full-sanitary-and-phytosanitary-sps-checks">
-<abbr title="Products of animal origin">POAO</abbr> subject to full sanitary and phytosanitary (SPS) checks</h3>
-
-<p>Consignments of <abbr title="Products of animal origin">POAO</abbr> imported into the EU from a non-EU country via the UK must enter the UK at a designated UK BCP.</p>
-
-<p>Once checks are performed by the UK BCP, the consignment can leave via any UK exit point to travel on to the EU.</p>
-
-<p>You must use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> to notify of transit consignments subject to veterinary checks. When completing Part 1 of the CHED, the exit BCP details selected should be the same as the entry BCP details - for example, if the consignment enters the UK at Heathrow Airport and leaves at Dover Port, then the entry and exit BCP details should both be Heathrow Airport.</p>
-
-<p>You must make sure a full Export Health Certificate (including both animal and public health attestations) is completed by the exporting non-EU country competent authority. This must travel with the consignment into the UK. You will also need a separate EU Export Health Certificate for export to the EU.</p>
-
-<p>You should confirm with the UK entry BCP that the consignment will not exit via a BCP and that full veterinary checks on the consignment will be required. Your consignment may be subject to physical checks, random or targeted laboratory testing, and may be detained or delayed.</p>
-
-<h3 id="poao-treated-as-a-uk-transit">
-<abbr title="Products of animal origin">POAO</abbr> treated as a UK transit</h3>
-
-<p>You can also follow the normal transit procedure for <abbr title="Products of animal origin">POAO</abbr> entering and exiting via a UK BCP. This allows you to submit a UK Transit Health Certificate instead of a full UK Export Health Certificate.</p>
-
-<p>All consignments need to be accompanied by an EU Export Health Certificate and enter the EU at an EU BCP approved for the type of commodity, where appropriate checks will be carried out.</p>
-
-<h2 id="documents-for-transporters">Documents for transporters</h2>
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit-lorry-and-goods-vehicle-drivers" class="govuk-link">preparing to drive in the EU after 31 January 2020</a>.</p>
-
-<p>If you’re a UK transporter transporting live animals in the EU, you’ll need to appoint a representative in an EU country. You’ll also need to apply to the relevant government department to get a:</p>
+<p>Goods must be:</p>
 
 <ul>
-  <li>transporter authorisation</li>
-  <li>certificate of competence</li>
-  <li>vehicle approval certificate</li>
-  <li>journey log (where necessary)</li>
-</ul>
-
-<h2 id="other-import-requirements">Other import requirements</h2>
-
-<p>You will have to apply customs, excise and VAT procedures to goods traded with the EU. 
-You must:</p>
-
-<ul>
-  <li>get an <a href="https://www.gov.uk/eori" class="govuk-link">Economic Operator Register and Identification (<abbr title="Economic Operator Register and Identification">EORI</abbr>) number</a> to be able to trade</li>
-  <li>check for <a href="https://www.gov.uk/guidance/check-temporary-rates-of-customs-duty-on-imports-after-eu-exit" class="govuk-link">potential EU trade tariff changes</a>
-</li>
-  <li>find out the <a href="https://www.gov.uk/guidance/finding-commodity-codes-for-imports-or-exports" class="govuk-link">commodity code</a> for your goods</li>
-  <li>determine the <a href="https://www.gov.uk/government/publications/notice-252-valuation-of-imported-goods-for-customs-purposes-vat-and-trade-statistics/notice-252-valuation-of-imported-goods-for-customs-purposes-vat-and-trade-statistics" class="govuk-link">value of your goods</a>
-</li>
-  <li>check if your goods are <a href="https://www.gov.uk/duty-free-goods/banned-and-restricted-goods" class="govuk-link">prohibited or restricted</a>
-</li>
-  <li>choose the <a href="https://www.gov.uk/government/publications/uk-trade-tariff-customs-procedure-codes/customs-procedure-codes-box-37" class="govuk-link">correct customs procedure code (<abbr title="Customs procedure code">CPC</abbr>)</a> for your goods</li>
-  <li>declare your import to customs - find out how in the guidance on <a href="https://www.gov.uk/guidance/importing-goods-from-outside-the-eu" class="govuk-link">importing from outside the EU</a>
+  <li>accompanied by an Export Health Certificate (<abbr title="Export Health Certificate">EHC</abbr>)</li>
+  <li>pre-notified by the importer using <abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr>
 </li>
 </ul>
 
-<p>Read <a href="https://www.gov.uk/prepare-import-to-uk-after-brexit" class="govuk-link">how to get your business ready to import after 1 January 2021</a>.</p>
+<h2 id="import-from-an-eu-country-from-1-april-2021">Import from an EU country from 1 April 2021</h2>
+<p>There are new rules for importing animal products, live animals and germinal products, and high-risk food and feed not of animal origin into England, Scotland and Wales from the EU from 1 April 2021.</p>
 
-<h2 id="trade-agreements">Trade agreements</h2>
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/uk-trade-agreements-with-non-eu-countries-in-a-no-deal-brexit" class="govuk-link">free trade agreements with non-EU countries from 1 January 2021</a>.</p>
+<h3 id="animal-products-poao-and-abps-1">Animal Products: <abbr title="products of animal origin">POAO</abbr> and <abbr title="Animal by-products">ABPs</abbr>
+</h3>
+<p>From 1 April 2021, <abbr title="products of animal origin">POAO</abbr> imports must be:</p>
+
+<ul>
+  <li>accompanied by an <abbr title="Export Health Certificate">EHC</abbr> so they can have remote documentary checks</li>
+  <li>pre-notified by the importer using <abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr>
+</li>
+</ul>
+
+<p>Import requirements for high-risk <abbr title="Animal by-products">ABPs</abbr> introduced on 1 January 2021 will continue to apply.</p>
+
+<p>New import requirements for low-risk <abbr title="Animal by-products">ABPs</abbr> will not apply until 1 July 2021.</p>
+
+<h3 id="live-animals-and-germinal-products-1">Live animals and germinal products</h3>
+<p>Import controls on live animals, including equines and germinal products, will remain unchanged from those introduced on 1 January 2021 until 1 July 2021.</p>
+
+<h3 id="high-risk-food-and-feed-not-of-animal-origin">High-risk food and feed not of animal origin</h3>
+<p>From 1 April 2021, anyone importing high-risk food and feed not of animal origin (<abbr title="High-Risk Food and Feed Not of Animal Origin">HRFNAO</abbr>) must use <abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr> to submit import pre-notifications.</p>
+
+<h2 id="import-from-an-eu-country-from-1-july-2021">Import from an EU country from 1 July 2021</h2>
+<p>There are new rules for importing animal products, live animals and germinal products, and high-risk food and feed not of animal origin into England, Scotland and Wales from the EU from 1 July 2021.</p>
+
+<h3 id="animal-products-poao-and-abps-2">Animal Products: <abbr title="products of animal origin">POAO</abbr> and <abbr title="Animal by-products">ABPs</abbr>
+</h3>
+<p>From 1 July 2021 <abbr title="products of animal origin">POAO</abbr> and <abbr title="Animal by-products">ABPs</abbr> must enter England, Scotland or Wales through a Border Control Post (<abbr title="border control post">BCP</abbr>).</p>
+
+<p>Goods must be:</p>
+
+<ul>
+  <li>accompanied by an <abbr title="Export Health Certificate">EHC</abbr> so they can have remote documentary checks</li>
+  <li>pre-notified by the importer using <abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr>
+</li>
+  <li>entered through a <abbr title="border control post">BCP</abbr> so they’re available for documentary, identity and physical checks</li>
+</ul>
+
+<h3 id="live-animals-and-germinal-products-2">Live animals and germinal products</h3>
+<p>From 1 July 2021, new import requirements will apply to live animals, including equines and germinal products from the EU.</p>
+
+<p>Goods must be:</p>
+
+<ul>
+  <li>accompanied by an <abbr title="Export Health Certificate">EHC</abbr> so they can have documentary checks</li>
+  <li>pre-notified by the importer using <abbr title="Import of Products, Animals, Food and Feed System">IPAFFS</abbr>
+</li>
+  <li>entered through a <abbr title="border control post">BCP</abbr> so they’re available for documentary, identity and physical checks</li>
+</ul>
+
+<h3 id="high-risk-food-and-feed-not-of-animal-origin-1">High-risk food and feed not of animal origin</h3>
+
+<p>From 1 July 2021, anyone importing high-risk food and feed not of animal origin must:</p>
+
+<ul>
+  <li>submit import pre-notifications at least one working day in advance of the goods’ arrival</li>
+  <li>enter them through a <abbr title="border control post">BCP</abbr> so they can have documentary checks, and if necessary identity and physical checks</li>
+</ul>
+
+<p>Find a full list of <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details/live-animals-and-animal-products-border-control-posts-bcp-in-the-uk" class="govuk-link">UK <abbr title="border control posts">BCPs</abbr></a>.</p>
+
+<div class="call-to-action">
+<p>New rules for importing fish and <abbr title="Convention on International Trade in Endangered Species of flora and fauna">CITES</abbr>-listed goods will be published in this guide before 2021.</p>
+</div>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 June 2020
+    <br></br>Last updated 13 July 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-13T16:09:55.000+01:00">13 July 2020</time>
+              <p class="app-c-published-dates__change-note">New sections on importing from an EU country added, including the rules from 1 January 2021, 1 April 2021 and 1 July 2021.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-10T12:05:00.000+01:00">10 June 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -378,37 +298,44 @@ You must:</p>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-9fd2afa4" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-64d98fd9" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-9fd2afa4" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-64d98fd9" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-9fd2afa4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal" data-track-options="{"dimension28":"7","dimension29":"Export fish to the EU from 1 January 2021"}" href="/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal">Export fish to the EU from 1 January 2021</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.2 Detailed guidance" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"7","dimension29":"Exporting animals and animal products to the EU from 1 January 2021"}" href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals and animal products to the EU from 1 January 2021</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.3 Detailed guidance" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries" data-track-options="{"dimension28":"7","dimension29":"Importing live animals or animal products from non-EU countries"}" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries">Importing live animals or animal products from non-EU countries</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.4 Detailed guidance" data-track-label="/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade" data-track-options="{"dimension28":"7","dimension29":"Moving live animals or animal products as part of EU trade"}" href="/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade">Moving live animals or animal products as part of EU trade</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.5 Detailed guidance" data-track-label="/guidance/pet-travel-to-europe-after-brexit" data-track-options="{"dimension28":"7","dimension29":"Pet travel to Europe from 1 January 2021"}" href="/guidance/pet-travel-to-europe-after-brexit">Pet travel to Europe from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"5","dimension29":"Exporting animals and animal products to the EU from 1 January 2021"}" href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals and animal products to the EU from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/import-of-products-animals-food-and-feed-system" data-track-options="{"dimension28":"5","dimension29":"Import of products, animals, food and feed system (IPAFFS)"}" href="/guidance/import-of-products-animals-food-and-feed-system">Import of products, animals, food and feed system (IPAFFS)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/uk-border-inspection-posts-contact-details" data-track-options="{"dimension28":"5","dimension29":"UK border control posts: contact details"}" href="/government/publications/uk-border-inspection-posts-contact-details">UK border control posts: contact details</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries" data-track-options="{"dimension28":"5","dimension29":"Importing live animals or animal products from non-EU countries"}" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries">Importing live animals or animal products from non-EU countries</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products" data-track-options="{"dimension28":"5","dimension29":"Guidance on importing and exporting live animals or animal products"}" href="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products">Guidance on importing and exporting live animals or animal products</a></li>
 
-      <li class="gem-c-related-navigation__link toggle-wrap">
-        <a href="#" class="gem-c-related-navigation__toggle" data-controls="toggle_related_guides" data-expanded="false" data-toggled-text="Show fewer">
-          + 2 more
-        </a>
-      </li>
+  </ul>
+</nav>
 
-      <li class="gem-c-related-navigation__link gem-c-related-navigation__link--truncated-links">
-        <span id="toggle_related_guides" class="gem-c-related-navigation__toggle-more js-hidden">
-          <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.6 Detailed guidance" data-track-label="/guidance/trading-and-moving-endangered-species-protected-by-cites-if-theres-no-withdrawal-deal" data-track-options="{"dimension28":"7","dimension29":"Trading and moving endangered species protected by CITES from 1 January 2021"}" href="/guidance/trading-and-moving-endangered-species-protected-by-cites-if-theres-no-withdrawal-deal">Trading and moving endangered species protected by CITES from 1 January 2021</a> and <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.7 Detailed guidance" data-track-label="/guidance/import-of-products-animals-food-and-feed-system-ipaffs-guidance" data-track-options="{"dimension28":"7","dimension29":"Using the Import of Products, Animals, Food and Feed System (IPAFFS)"}" href="/guidance/import-of-products-animals-food-and-feed-system-ipaffs-guidance">Using the Import of Products, Animals, Food and Feed System (IPAFFS)</a>
-        </span>
-      </li>
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-64d98fd9" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-64d98fd9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal" data-track-options="{"dimension28":"6","dimension29":"Export fish to the EU from 1 January 2021"}" href="/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal">Export fish to the EU from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"6","dimension29":"Exporting animals and animal products to the EU from 1 January 2021"}" href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals and animal products to the EU from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries" data-track-options="{"dimension28":"6","dimension29":"Importing live animals or animal products from non-EU countries"}" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries">Importing live animals or animal products from non-EU countries</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade" data-track-options="{"dimension28":"6","dimension29":"Moving live animals or animal products as part of EU trade"}" href="/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade">Moving live animals or animal products as part of EU trade</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/pet-travel-to-europe-after-brexit" data-track-options="{"dimension28":"6","dimension29":"Pet travel to Europe from 1 January 2021"}" href="/guidance/pet-travel-to-europe-after-brexit">Pet travel to Europe from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.6 Detailed guidance" data-track-label="/guidance/trading-and-moving-endangered-species-protected-by-cites-if-theres-no-withdrawal-deal" data-track-options="{"dimension28":"6","dimension29":"Trading and moving endangered species protected by CITES from 1 January 2021"}" href="/guidance/trading-and-moving-endangered-species-protected-by-cites-if-theres-no-withdrawal-deal">Trading and moving endangered species protected by CITES from 1 January 2021</a></li>
+
   </ul>
 </nav>
 
@@ -434,9 +361,9 @@ You must:</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3cff637a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c2132c2b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-3cff637a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-c2132c2b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
