@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">You can record your goods in your commercial records and make a supplementary declaration 6 months later. You will not need to submit an entry summary declaration.</p>
+  <p class="gem-c-lead-paragraph">You can record goods in your own records and make a supplementary declaration up to 6 months later. You will not need to submit an entry summary declaration.</p>
 
   </div>
 </div>
@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 10 July 2020
+    <br></br>Last updated 13 July 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -81,7 +83,7 @@
 <p>You or <a href="https://www.gov.uk/guidance/appoint-someone-to-deal-with-customs-on-your-behalf" class="govuk-link">someone who does your import declarations for you</a> will also need to have the following in place before you make your first supplementary declaration:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/using-simplified-declarations-for-imports" class="govuk-link">authorisation to use entry in the declarant’s records</a></li>
+  <li><a href="https://www.gov.uk/guidance/using-simplified-declarations-for-imports" class="govuk-link">authorisation to use simplified declarations for imports</a></li>
   <li><a href="https://www.gov.uk/government/publications/import-and-export-request-for-chief-access-c1800" class="govuk-link">a CHIEF badge</a></li>
   <li>
 <a href="https://www.gov.uk/government/publications/chief-customs-freight-simplified-procedures-cfsp-contact-list" class="govuk-link">software</a> that works with CHIEF</li>
@@ -99,8 +101,22 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 July 2020
+    <br></br>Last updated 13 July 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-13T13:04:40.000+01:00">13 July 2020</time>
+              <p class="app-c-published-dates__change-note">This guidance has been updated to clarify that you need to be authorised to make simplified declarations for imports before you make your supplementary declaration.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-10T11:43:00.000+01:00">10 July 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -111,51 +127,198 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+
+      <div class="gem-c-step-nav-related gem-c-step-nav-related--singular" data-module="track-click">
+    <h2 class="gem-c-step-nav-related__heading">
+      <span class="gem-c-step-nav-related__pretitle">Part of</span>
+          <a href="/prepare-to-import-to-great-britain-from-january-2021" class="gem-c-step-nav-related__link" data-track-category="stepNavPartOfClicked" data-track-action="Part of" data-track-label="/prepare-to-import-to-great-britain-from-january-2021" data-track-dimension="Prepare to import goods from the EU to Great Britain from 1 January 2021" data-track-dimension-index="29" data-track-options="{"dimension96" : "1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5" }">
+            Prepare to import goods from the EU to Great Britain from 1 January 2021
+          </a>
+        </h2>
+  </div>
+
+
+      <div data-module="gemstepnav" class="gem-c-step-nav js-hidden " data-id="1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5" data-show-text="show" data-hide-text="hide" data-show-all-text="Show all" data-hide-all-text="Hide all">
+    <ol class="gem-c-step-nav__steps">
+        <li class="gem-c-step-nav__step js-step
+          " id="check-if-you-should-follow-this-step-by-step" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="1">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 1<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check if you should follow this step by step
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-if-you-should-follow-this-step-by-step-1">
+              <p class="gem-c-step-nav__paragraph">You should follow different guidance if you're: </p>
+
+              <ul class="gem-c-step-nav__list gem-c-step-nav__list--choice" data-length="2">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="1.1" class="gem-c-step-nav__link js-link" href="/government/publications/notice-144-trade-imports-by-post-how-to-complete-customs-documents?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">receiving goods by post </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="1.2" class="gem-c-step-nav__link js-link" href="/import-goods-outside-eu?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">importing goods from countries outside the EU, Switzerland, Norway, Iceland and Liechtenstein </a></li>
+</ul>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="find-out-how-to-declare-goods-from-1-january-2021" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="2">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 2<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Find out how to declare goods from 1 January 2021
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-find-out-how-to-declare-goods-from-1-january-2021-2">
+              <p class="gem-c-step-nav__paragraph">From 1 January 2021, you'll need to make customs declarations when you import goods from the EU, Switzerland, Norway, Iceland and Liechtenstein. These are the same rules that currently apply for importing goods from the rest of the world. </p>
+
+              <p class="gem-c-step-nav__paragraph">You can make the declarations yourself or hire someone else such as a courier, freight forwarder or customs agent.</p>
+
+              <ol class="gem-c-step-nav__list " data-length="2">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.1" class="gem-c-step-nav__link js-link" href="/guidance/appoint-someone-to-deal-with-customs-on-your-behalf?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">Get someone to deal with customs for you </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.2" class="gem-c-step-nav__link js-link" href="/guidance/customs-declarations-for-goods-brought-into-the-eu?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">Find out how to make customs declarations yourself </a></li>
+</ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="check-the-new-rules-for-your-type-of-goods" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="3">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--logic">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      and
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check the new rules for your type of goods 
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-the-new-rules-for-your-type-of-goods-3">
+              <p class="gem-c-step-nav__paragraph">From 1 January 2021, the rules for importing some types of goods will change. </p>
+
+              <ol class="gem-c-step-nav__list " data-length="3">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="3.1" class="gem-c-step-nav__link js-link" href="/guidance/import-licences-and-certificates-from-1-january-2021?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">Check what import licences or certificates you need </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="3.2" class="gem-c-step-nav__link js-link" href="/guidance/labelling-and-marketing-standards-from-1-january-2021?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">Check the labelling and marketing standards for food, plant seeds and manufactured goods </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="3.3" class="gem-c-step-nav__link js-link" href="/guidance/importing-excise-goods-from-the-eu-in-a-no-deal-brexit?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">Check the rules for importing alcohol, tobacco and certain oils </a></li>
+</ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="make-sure-you-have-an-eori-number-starting-with-gb" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="4">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 3<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Make sure you have an EORI number starting with GB
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-make-sure-you-have-an-eori-number-starting-with-gb-4">
+              <p class="gem-c-step-nav__paragraph">You need an EORI number that starts with GB to import goods from 1 January 2021.</p>
+
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="4.1" class="gem-c-step-nav__link js-link" href="/eori?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">Get an EORI number </a></li></ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="check-the-rate-of-tax-and-duty-you-ll-need-to-pay" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="5">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 4<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check the rate of tax and duty you’ll need to pay
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-the-rate-of-tax-and-duty-you-ll-need-to-pay-5">
+              <p class="gem-c-step-nav__paragraph">You need to pay customs duties and VAT on all imports. </p>
+
+              <ol class="gem-c-step-nav__list " data-length="2">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="5.1" class="gem-c-step-nav__link js-link" href="/check-tariffs-1-january-2021?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">Check the rate of customs duty on imports from 1 January 2021 </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="5.2" class="gem-c-step-nav__link js-link" href="/vat-rates?step-by-step-nav=1ddb4c89-1fe9-4ad0-b561-c1b0158e6bc5">Check the rate of VAT </a></li>
+</ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          gem-c-step-nav__step--active" aria-current="step" data-show id="check-if-you-can-make-the-importing-process-quicker" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="6">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 5<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check if you can make the importing process quicker
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-if-you-can-make-the-importing-process-quicker-6">
+              <p class="gem-c-step-nav__paragraph">From 1 January 2021, you'll need to make customs declarations when you import goods from the EU, Switzerland, Norway, Iceland and Liechtenstein. </p>
+
+              <p class="gem-c-step-nav__paragraph">In some situations, you can delay making a declaration for up to 6 months after you imported the goods. </p>
+
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item gem-c-step-nav__list-item--active"><a data-position="6.1" class="gem-c-step-nav__link js-link" href="#content"><span class="gem-c-step-nav__link-active-context visuallyhidden">You are currently viewing: </span>Check if you can declare your goods later to make the importing process quicker </a></li></ol>
+
+          </div>
+
+        </li>
+    </ol>
+  </div>
+
+
+
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
   <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
   <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
-
-
-    
-
-
-
 </div>
 
 </div>
 
 </div>
-
-
-  <div class="govuk-grid-row">
-    <div class="govuk-grid-column-two-thirds">
-        
-  <div class="gem-c-contextual-footer">
-    
-  <div class="gem-c-related-navigation">
-
-
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8c5a3f38" data-module="gem-toggle">
-
-    <h2 id="related-nav-topics-8c5a3f38" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/topic/business-tax/import-export" data-track-options="{"dimension28":"1","dimension29":"Import, export and customs for businesses"}" href="/topic/business-tax/import-export">Import, export and customs for businesses</a></li>
-
-  </ul>
-</nav>
-
-  </div>
-
-  </div>
-
-
-    </div>
-  </div>
