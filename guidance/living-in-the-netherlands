@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in the Netherlands
   </h1>
@@ -12,8 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to and living in the Netherlands need to know, including Brexit guidance, residency, healthcare and driving.
-</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to and living in the Netherlands, including guidance on residency, healthcare, driving and the Withdrawal Agreement. </p>
 
   </div>
 </div>
@@ -24,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 May 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 5 August 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -51,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -62,75 +62,79 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#studying" data-track-options="{"dimension29":"Studying"}" href="#studying">Studying</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#studying" data-track-options="{"dimension29":"Studying"}" href="#studying">Studying</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working" data-track-options="{"dimension29":"Working"}" href="#working">Working</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working" data-track-options="{"dimension29":"Working"}" href="#working">Working</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#driving" data-track-options="{"dimension29":"Driving"}" href="#driving">Driving</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting-after-brexit" data-track-options="{"dimension29":"Voting after Brexit"}" href="#voting-after-brexit">Voting after Brexit</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#driving" data-track-options="{"dimension29":"Driving"}" href="#driving">Driving</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -141,7 +145,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
@@ -153,9 +157,13 @@
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the Dutch government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/netherlands/travel-advice-help-and-support" class="govuk-link">Netherlands travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li><a href="https://www.gov.uk/email-signup/?topic=/world/living-in-netherlands" class="govuk-link">sign up for email alerts</a></li>
@@ -164,72 +172,142 @@
 </li>
 </ul>
 
-<h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
-
-<p>The British Embassy holds events across the Netherlands for UK nationals. <a href="https://www.gov.uk/government/news/information-and-events-for-british-citizens-in-the-netherlands" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in the Netherlands after Brexit.</p>
-
 <p>You can also:</p>
 
 <ul>
-  <li>read the Dutch <a rel="external" href="https://ind.nl/en/Pages/Brexit.aspx" class="govuk-link">Immigration and Naturalisation Service (<abbr title="Immigration and Naturalisation Service">IND</abbr>) website on how to prepare for Brexit</a>
+  <li>read the Dutch <a rel="external" href="https://ind.nl/en/Pages/Brexit-(UK-Withdrawal-Agreement).aspx" class="govuk-link">Immigration and Naturalisation Service (<abbr title="Immigration and Naturalisation Service">IND</abbr>) guidance on living in the Netherlands</a>
 </li>
-  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the EU: prepare for Brexit</a>
+  <li>read the Dutch government’s <a rel="external" href="https://www.government.nl/topics/brexit/question-and-answer" class="govuk-link">Q&A for UK nationals living in the Netherlands</a>
 </li>
+  <li>contact the <abbr title="Immigration and Naturalisation Service">IND</abbr> Brexit information line: +31 (0)88 04 30410 if you need help making your residency application, or have questions on residency</li>
 </ul>
+
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
+
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the UK’s withdrawal from the EU and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the EU broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in the Netherlands at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in the Netherlands.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
-<p>You may want to check the <a href="https://www.gov.uk/foreign-travel-advice/netherlands/entry-requirements" class="govuk-link">entry requirements for the Netherlands</a>.</p>
+<h3 id="residency">Residency</h3>
 
-<p>You must carry photographic ID at all times. If you are in the Netherlands for more than 3 months, you must apply for your residence permit (verblijfsdocument). To do this, you must register with your local Municipality Administration (Gemeente) who can tell you what documents you will need.</p>
+<p>If you are lawfully resident in the Netherlands on or before 31 December 2020, you will be able to stay. You will need to obtain the new residency card by 30 June 2021, in line with the Withdrawal Agreement.</p>
 
-<p>If there are changes to residency rules or registration processes after Brexit, we will update this guidance as soon as information is available.</p>
+<h3 id="citizen-service-number-bsn">Citizen service number (BSN)</h3>
 
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
+<p>Everyone living in the Netherlands must have a citizen service number, often referred to as a BSN (burgerservicenummer). You must register with your local municipality (gemeente) and you will be assigned a citizen service number (BSN).</p>
 
-<p>If you are resident in the Netherlands before the end of the implementation period on 31 December, 2020, you will be able to stay.</p>
+<p>You must apply for a BSN within 5 days of arriving in the Netherlands. You will need to make an appointment with the municipality (gemeente) in which you live. Information on how to book an appointments and what documentation you will need will be on your local gemeente’s website.</p>
 
-<p>After Brexit, you will need a new residence document. During the implementation period, the Immigration and Naturalisation Service (<abbr title="Immigration and Naturalisation Service">IND</abbr>) will write to you at your registered address held by your local council (gemeente). The letter will tell you how to obtain the new residence document.</p>
+<p>A BSN is required for a variety of administrative procedures in the Netherlands. You will need one in order to work, open a bank account, arrange health insurance, visit a doctor or hospital, or apply for benefits.</p>
 
-<p>Read the Dutch Immigration and Naturalisation Service’s <a rel="external" href="https://ind.nl/en/pages/brexit-conditions-for-permanent-stay-in-the-netherlands-after-the-transition-period.aspx" class="govuk-link">guidance on residency and how to obtain new residence documents.</a></p>
+<p>If you leave the Netherlands and later return, you’ll keep the same BSN when you re-register with the municipality.</p>
 
-<p>We will include further information about changes to residency registration processes after Brexit as soon as it’s available.</p>
+<p>Read the Dutch government <a rel="external" href="https://www.government.nl/topics/personal-data/citizen-service-number-bsn" class="govuk-link">guidance about BSN numbers</a>.</p>
+
+<h3 id="registering-in-the-personal-records-database">Registering in the Personal Records Database</h3>
+
+<p>Every resident of the Netherlands must be registered in the Personal Records Database, referred to as the BRP  (Basisregistratie Personen) which is held by the local municipality Administration (gemeente). You may request to do this at the same time as you apply for your BSN.</p>
+
+<p>If you move house, you should make sure you re-register again at your new address. The <abbr title="Immigration and Naturalisation Service">IND</abbr> and other government bodies will use the BRP to contact you, if they need to.</p>
+
+<h3 id="the-new-residency-document">The new residency document</h3>
+
+<p>The Immigration and Naturalisation Service (<abbr title="Immigration and Naturalisation Service">IND</abbr>) is in the process of contacting all currently registered UK nationals registered in the BRP to invite them to apply for residency under the Withdrawal Agreement.</p>
+
+<p>When correctly registered in the BRP, you will receive a letter inviting you to apply online for a residency document in line with the Withdrawal Agreement. The letter will explain the process and the documents you will need when you apply. You should apply for the new document within 4 weeks of receiving your letter. Call the <abbr title="Immigration and Naturalisation Service">IND</abbr> information line if you cannot submit your application on time on +31 (0)88 04 30410.</p>
+
+<p>Before starting your online application, make sure that you have all the following:</p>
+
+<ul>
+  <li>
+<a rel="external" href="https://ind.nl/en/Pages/Apply-for-a-temporary-residence-document.aspx#7907af3b-5e55-400a-bbbc-569e9c44e919" class="govuk-link">DigiD with sms code</a> or DigiD app. If you do not yet have a DigiD, apply for it on <a rel="external" href="https://www.digid.nl/en/" class="govuk-link">www.digid.nl/en</a>. You should also read the explanation about the <a rel="external" href="https://www.digid.nl/en/login-methods/digid-app/" class="govuk-link">DigiD app</a> (in Dutch and English)</li>
+  <li>
+<a rel="external" href="https://www.ideal.nl/en/" class="govuk-link">iDEAL</a> (online payment method) to pay for your application. You need a Dutch bank account to set this up</li>
+  <li>scanned copy of the pages of your passport showing your personal details and period of validity</li>
+  <li>scanned copy of any other documents you need to upload. Read the <abbr title="Immigration and Naturalisation Service">IND</abbr> guidance on what documents you will need for <a rel="external" href="https://ind.nl/en/Pages/Apply-for-a-temporary-residence-document.aspx#documents" class="govuk-link">temporary residency</a> or for <a rel="external" href="https://ind.nl/en/Pages/Apply-for-a-permanent-residence-document.aspx#documents" class="govuk-link">permanent residency</a>
+</li>
+  <li>BSN number</li>
+  <li>(optional) V-number: This is a unique identification number used by the <abbr title="Immigration and Naturalisation Service">IND</abbr>, you can find it on your invitation letter</li>
+</ul>
+
+<p>You may also apply by downloading a paper version of the application form from the <abbr title="Immigration and Naturalisation Service">IND</abbr> website and by sending it to the <abbr title="Immigration and Naturalisation Service">IND</abbr> by post.</p>
+
+<p>You can submit an application for other family members within the same household at the same time as your own. You need their documents to do so.</p>
+
+<p>Read the <a rel="external" href="https://ind.nl/en/Pages/Living-in-the-Netherlands-after-Brexit.aspx#invitation" class="govuk-link"><abbr title="Immigration and Naturalisation Service">IND</abbr> guidance to find out when you will receive an invitation to apply for a residence document</a>.</p>
+
+<h3 id="decision-on-your-application-and-biometrics">Decision on your application and biometrics</h3>
+
+<p>You will receive a decision on your application through your <a rel="external" href="https://ind.nl/en/Pages/Message-Box.aspx" class="govuk-link">DigiD message box</a> (Berichtenbox). The decision will be written in Dutch.</p>
+
+<p>If your application is successful, you will be invited to book an appointment online to have your biometrics taken.  The <abbr title="Immigration and Naturalisation Service">IND</abbr> will need your fingerprints, a passport photo and signature. You can choose whether you would like to book your appointment at an <a rel="external" href="https://ind.nl/en/Pages/Message-Box.aspx" class="govuk-link"><abbr title="Immigration and Naturalisation Service">IND</abbr> desk or at an expat centre</a>.</p>
+
+<p>The <abbr title="Immigration and Naturalisation Service">IND</abbr> will aim to have your biometric residency card ready within 2 weeks of your appointment. It will be delivered to your home by the IPKD (Interdepartementale Post-en Koeriersdienst), a Dutch governmental organisation specialising in courier services. Read the Dutch government <a rel="external" href="https://ind.nl/en/Pages/Coronavirus.aspx" class="govuk-link">guidance on how you will receive your residency car</a> (open the Brexit tab under FAQs).</p>
+
+<p>You are not required to carry your new biometric residence permit during the transition period.</p>
+
+<p>Read the <a rel="external" href="https://ind.nl/en/Pages/Biometrics-appointment-after-Brexit.aspx" class="govuk-link"><abbr title="Immigration and Naturalisation Service">IND</abbr> guidance on biometric appointments an how to book one</a>.</p>
+
+<h3 id="other-residency-documents">Other residency documents</h3>
+
+<p>If you already have a valid EU residence document (duurzaam verblijf), you will still need a new residence document. The <abbr title="Immigration and Naturalisation Service">IND</abbr> will assess your situation, and if you are correctly registered in the BRP they will contact you about exchanging your current document for a new one, free of charge.</p>
+
+<p>Read the <a rel="external" href="https://ind.nl/en/Pages/Living-in-the-Netherlands-after-Brexit.aspx#EU_duurzaam" class="govuk-link"><abbr title="Immigration and Naturalisation Service">IND</abbr> guidance on how to exchange EU residency documents</a>.</p>
+
+<p>If you are currently outside of the Netherlands, and you haven’t provided your address, then the <abbr title="Immigration and Naturalisation Service">IND</abbr> will not be able to contact you to arrange the exchange. If you want to discuss your circumstances and what you need to do, call the <abbr title="Immigration and Naturalisation Service">IND</abbr>’s information line: +31 (0)88 04 30410.</p>
+
+<h3 id="dutch-nationality-or-other-eu-nationalities">Dutch nationality or other EU nationalities</h3>
+
+<p>If you have Dutch citizenship or a valid Dutch national residence permit, you don’t need a new residence document and you will not receive a letter from the <abbr title="Immigration and Naturalisation Service">IND</abbr>.</p>
+
+<p>If you have another EU nationality you may not receive a letter from the <abbr title="Immigration and Naturalisation Service">IND</abbr>.</p>
+
+<p>Read the <a rel="external" href="https://ind.nl/en/Pages/Living-in-the-Netherlands-after-Brexit.aspx#3" class="govuk-link"><abbr title="Immigration and Naturalisation Service">IND</abbr> guidance on residency rights</a>.</p>
+
+<h3 id="arriving-in-the-netherlands-after-1-january-2021">Arriving in the Netherlands after 1 January 2021</h3>
+
+<p>If you arrive in the Netherlands after 31 December 2020 and you are not coming for the purpose of family reunification under the Withdrawal Agreement, different immigration requirements will apply.</p>
+
+<p>Read the <a rel="external" href="https://ind.nl/en/Pages/Living-in-the-Netherlands-after-Brexit.aspx#2" class="govuk-link"><abbr title="Immigration and Naturalisation Service">IND</abbr> guidance on moving to the Netherlands after 1 January 2021</a>.</p>
 
 <h2 id="studying">Studying</h2>
 
-<p>If you are in the Netherlands for study purposes only, your educational institution will apply for a residence permit on your behalf. The educational institution can only submit a residence permit application for you if they are recognised as a sponsor by the <abbr title="Immigration and Naturalisation Service">IND</abbr>.</p>
+<p>If you are living in the Netherlands on or before 31 December 2020, you will still be entitled to receive student finance and pay statutory tuition fees as long as you meet the <a rel="external" href="https://ind.nl/en/Pages/Brexit.aspx?fbclid=IwAR0LLjcivDH-K2YESM5okzG9DdhxbHEbZ_Et_JHLW5pmkMJGd99dZnz5n1I" class="govuk-link">residency conditions</a>.</p>
 
-<p>To obtain a residence permit for study, you must:</p>
+<p>Due to coronavirus, some Higher Education providers may be offering their courses online only. You should contact your educational institution for guidance on how this may affect you.</p>
+
+<p>To study in the Netherlands, you need to obtain a residence permit. To do so you must:</p>
 
 <ul>
-  <li>be enrolled for a full-time day course at an educational institution that is recognised as a sponsor</li>
+  <li>be enrolled for a full-time day course at an <a rel="external" href="https://ind.nl/en/Documents/Public_Register_Educational_institutions.pdf" class="govuk-link">educational institution that is recognised as a sponsor</a>
+</li>
   <li>have enough money for at least 1 year’s maintenance</li>
   <li>be insured against medical expenses whilst you are in the Netherlands</li>
 </ul>
 
-<p>If you are under 30 and live in the Netherlands for study purposes only, you cannot enrol with a Dutch health insurer for the mandatory basic health insurance. See ‘Studying after Brexit’ on what to do after Brexit about health insurance.</p>
+<p>If you are under 30 and live in the Netherlands for study purposes only, you cannot enrol with a Dutch health insurer for the mandatory basic health insurance. Read the NHS guidance on <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a>.</p>
 
-<p>If you have a part-time job during your studies, you become subject to Dutch social security legislation and are required to have mandatory basic health insurance with a Dutch health insurer. This is also the case if you have a zero hours contract, volunteer position or internship.</p>
+<p>If you have a part-time job during your studies, you become subject to Dutch social security legislation and are required to have mandatory basic health insurance with a Dutch health insurer. This includes if you have a zero hours contract, volunteer position or internship.</p>
 
-<h3 id="studying-after-brexit">Studying after Brexit</h3>
+<p>If you are coming to study in the Netherlands after 31 December 2020, you should contact your Higher Education provider so that you can check what fees you may have to pay.</p>
 
-<p>You will be able to study in the Netherlands broadly as before. You will be able to use a UK-issued EHIC card.</p>
+<p>We will update this guidance when more information is available.</p>
 
-<p>If you work or volunteer alongside your studies, you will become subject to Dutch social security provisions and must take out mandatory health insurance.</p>
-
-<p>For more information visit the <a rel="external" href="https://www.nuffic.nl/en/" class="govuk-link">Nuffic website</a> and read the Dutch government’s <a rel="external" href="https://www.government.nl/topics/brexit/question-and-answer/how-will-brexit-affect-british-nationals-studying-in-the-netherlands" class="govuk-link">guidance on studying in the Netherlands after Brexit.</a></p>
+<p>For more information visit the <a rel="external" href="https://www.nuffic.nl/en/" class="govuk-link">Nuffic website</a></p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from the Netherlands</a>.</p>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
-
-<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
 
 <p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
-
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
 
 <p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-netherlands" class="govuk-link">sign up for updates</a> on this guidance.</p>
 
@@ -237,7 +315,19 @@
 
 <p>If you move to the Netherlands, you must arrange <a rel="external" href="https://www.government.nl/topics/health-insurance" class="govuk-link">health insurance</a> within 4 months of your arrival. The basic Dutch health insurance (basis verzekering) covers general medical care, such as visits to a local GP and hospital care. You can read guidance on <a rel="external" href="https://www.zorgverzekering.org/eng/" class="govuk-link">health insurance in the Netherlands</a>.</p>
 
-<p>If you are resident in the Netherlands, you must not use a European Health Insurance Card (EHIC) from the UK to access healthcare in the Netherlands.</p>
+<p>If you are a resident and purchase basic Dutch health insurance, your access to healthcare will not change.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-the-netherlands" class="govuk-link">guidance on who can access healthcare in the Netherlands and how to register</a>.</p>
+
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
+<p>If you live in the Netherlands and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-the-netherlands#s1" class="govuk-link">guidance on how to get an S1 form</a>.</p>
+
+<h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
+
+<p>If you are resident in the Netherlands, you must not use your EHIC from the UK to access healthcare in the Netherlands.</p>
 
 <p>When you travel from the Netherlands for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay:</p>
 
@@ -248,41 +338,44 @@
 </li>
 </ul>
 
-<p>Find an <a href="https://www.gov.uk/government/publications/the-netherlands-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctor in the Netherlands</a>.</p>
+<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time.</p>
 
-<p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check that your prescriptions are legal</a>.</p>
+<p>You should also read guidance on:</p>
+
+<ul>
+  <li>finding an <a href="https://www.gov.uk/government/publications/the-netherlands-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctor in the Netherlands</a>
+</li>
+  <li><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking that your prescriptions are legal</a></li>
+</ul>
 
 <p>If you are a student, read further information about healthcare:</p>
 
 <ul>
   <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">NHS guidance on EHICs and studying abroad</a></li>
   <li>
-<a rel="external" href="https://www.studyinholland.nl/prepare/insurance/studying-and-health-insurance-in-holland" class="govuk-link">Netherlands’ government’s guidance on healthcare for international students</a> in the Netherlands</li>
+<a rel="external" href="https://www.studyinholland.nl/plan-your-stay/insurance" class="govuk-link">Netherlands’ government’s guidance on healthcare for international students</a> in the Netherlands</li>
 </ul>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time.</p>
-
-<p>If you are a resident and purchase mandatory health insurance, your access to healthcare will remain the same after Brexit.</p>
-
-<p>If you are living in the Netherlands or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in the Netherlands as you do now, provided you remain resident.</p>
 
 <h2 id="working">Working</h2>
 
-<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an EU country</a>.</p>
 
-<p>You may need to apply for a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK police certificate</a>.</p>
+<p>To apply for a job you may need to apply for a:</p>
 
-<p>You may need a <a rel="external" href="https://www.justis.nl/producten/vog/certificate-of-conduct/" class="govuk-link">Certificate of Conduct (VOG) Netherlands</a>.</p>
+<ul>
+  <li><a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK police certificate</a></li>
+  <li><a rel="external" href="https://www.justis.nl/producten/vog/certificate-of-conduct.aspx" class="govuk-link">Certificate of Conduct (VOG) Netherlands</a></li>
+</ul>
 
-<h3 id="working-after-brexit">Working after Brexit</h3>
+<p>If you are resident in the Netherlands on or before 31 December 2020, your right to work will not change, as long as you remain resident in the Netherlands.</p>
 
-<p>Your right to work will not change, as long as you remain resident in the Netherlands.</p>
+<p>If you arrive in the Netherlands after 31 December 2020, you will be subject to the rules applicable to non-EU nationals and may need a work permit. Read the Dutch government’s <a rel="external" href="https://www.government.nl/topics/brexit/question-and-answer/as-a-british-national-will-i-need-a-work-permit-to-work-in-the-netherlands-after-brexit" class="govuk-link">guidance on who will need a work permit</a>.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The UK has a double-taxation agreement with the Netherlands to ensure people do not pay tax on the same income in both countries.</p>
+<p>The UK has a double taxation agreement with the Netherlands to ensure you do not pay tax on the same income in both countries.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in the Netherlands have not changed.</p>
 
 <p>For more information, you can read our guidance on:</p>
 
@@ -301,15 +394,9 @@
 
 <p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in the Netherlands. Send your questions about double taxation to the relevant tax authority.</p>
-
 <h2 id="pensions">Pensions</h2>
 
 <p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you retire in the Netherlands, you can claim:</p>
 
@@ -325,19 +412,23 @@
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-december-2020">Pensions after 31 December 2020</h3>
 
-<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
+<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
-<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance</a>.</p>
 
 <p>If you are living in the Netherlands before by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your UK State Pension.</p>
 
-<p>If you work and pay social security contributions in the Netherlands, you will still be able to add your UK social security contributions towards your Dutch pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in the Netherlands, you will still be able to add your UK social security contributions towards your Dutch pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>If you are considering moving to the Netherlands on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and may change. Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
+
+<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in the Netherlands.</p>
 
@@ -356,11 +447,15 @@
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you’ve worked in the UK from HMRC</a> if you are asked for this.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-december-2020">Benefits after 31 December 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in the Netherlands, your UK social security contributions will be taken into account when applying for Dutch contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in the Netherlands, your UK social security contributions will be taken into account when applying for Dutch contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>If you are considering moving to the Netherlands on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and may change. Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
 
 <h2 id="driving">Driving</h2>
 
@@ -396,20 +491,18 @@
 
 <h2 id="voting">Voting</h2>
 
+<p>Once you are registered in the Personal Records Database (BRP) you can vote in the Water Board Elections.</p>
+
+<p>If you have been resident in the Netherlands for 5 years or more you can vote and stand in local municipal elections.</p>
+
+<p>You cannot vote in European Parliament elections.</p>
+
 <p>You may be able to vote in some UK elections. You can:</p>
 
 <ul>
   <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
-  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">register as an overseas voter</a></li>
+  <li><a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a></li>
 </ul>
-
-<p>Currently, if you are resident in the Netherlands you can vote in local municipal and European parliamentary elections. For more information you can read the European Union’s <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">guidance on elections abroad</a>.</p>
-
-<h2 id="voting-after-brexit">Voting after Brexit</h2>
-
-<p>You will not be able to vote in European Parliament elections.</p>
-
-<p>We will provide more information about voting rights in the Netherlands as soon as it become available.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
@@ -449,7 +542,7 @@
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel.</a></p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet to the UK.</a></p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -480,10 +573,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 May 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 5 August 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-08-05T11:50:56.000+01:00">5 August 2020</time>
+              <p class="app-c-published-dates__change-note">Visas and residency section updated with further information on the new residency system</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-24T09:48:53.000+00:00">24 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
@@ -580,8 +677,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -589,48 +686,48 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-d8325f15" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-f8d30851" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d8325f15" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f8d30851" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-germany" data-track-options="{"dimension28":"5","dimension29":"Living in Germany"}" href="/guidance/living-in-germany">Living in Germany</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-cyprus" data-track-options="{"dimension28":"5","dimension29":"Living in Cyprus"}" href="/guidance/living-in-cyprus">Living in Cyprus</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-slovakia" data-track-options="{"dimension28":"5","dimension29":"Living in Slovakia"}" href="/guidance/living-in-slovakia">Living in Slovakia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-d8325f15" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-f8d30851" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-d8325f15" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-f8d30851" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-the-netherlands" data-track-options="{"dimension28":"2","dimension29":"Netherlands: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-the-netherlands">Netherlands: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-the-netherlands" data-track-options="{"dimension28":"2","dimension29":"Healthcare in the Netherlands"}" href="/guidance/healthcare-in-the-netherlands">Healthcare in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-the-netherlands" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in the Netherlands"}" href="/guidance/healthcare-in-the-netherlands">Healthcare for UK nationals living in the Netherlands</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d8325f15" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-f8d30851" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-d8325f15" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-f8d30851" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -662,9 +759,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-67e798e7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-36bd09db" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-67e798e7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-36bd09db" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
