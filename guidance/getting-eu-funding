@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 5 August 2020
+    <br></br>Last updated 11 August 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -106,6 +108,7 @@
   <li><a rel="external" href="https://eacea.ec.europa.eu/europe-for-citizens_en" class="govuk-link">Europe for Citizens</a></li>
   <li><a rel="external" href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502,31094503;programCode=EDIDP" class="govuk-link">European Defence Industrial Development Programme</a></li>
   <li><a rel="external" href="https://ec.europa.eu/info/strategy/eu-budget/documents/european-development-fund_en" class="govuk-link">European Development Fund (EDF)</a></li>
+  <li><a rel="external" href="https://ec.europa.eu/europeaid/how/finance/eidhr_en.htm_en" class="govuk-link">European Instrument for Democracy & Human Rights (EIDHR)</a></li>
   <li><a href="https://www.gov.uk/guidance/european-maritime-and-fisheries-fund-emff-before-you-apply" class="govuk-link">European Maritime and Fisheries Fund (EMFF)</a></li>
   <li><a rel="external" href="https://ec.europa.eu/regional_policy/en/policy/what/glossary/e/european-neighbourhood-investment" class="govuk-link">European Neighbourhood Instrument (ENI)</a></li>
   <li><a href="https://www.gov.uk/guidance/england-2014-to-2020-european-structural-and-investment-funds" class="govuk-link">European Regional Development Fund (ERDF)</a></li>
@@ -132,8 +135,22 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 5 August 2020
+    <br></br>Last updated 11 August 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-08-11T17:43:18.000+01:00">11 August 2020</time>
+              <p class="app-c-published-dates__change-note">Added European Instrument for Democracy & Human Rights (EIDHR) to the list.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-08-05T12:33:00.000+01:00">5 August 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -165,14 +182,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-dfe2bd45" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-d6606193" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-dfe2bd45" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d6606193" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -205,9 +222,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9edc5d37" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d5dd8ab0" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-9edc5d37" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d5dd8ab0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
