@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Returning to the UK
   </h1>
@@ -24,6 +24,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 3 October 2019
+    <br></br>Last updated 14 August 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -45,6 +47,7 @@
     </div>
   </div>
 </div>
+
 
 
 
@@ -112,7 +115,15 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#recognition-of-professional-qualifications" data-track-options="{"dimension29":"Recognition of professional qualifications"}" href="#recognition-of-professional-qualifications">Recognition of professional qualifications</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#access-to-apprenticeships" data-track-options="{"dimension29":"Access to apprenticeships"}" href="#access-to-apprenticeships">Access to apprenticeships</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#access-to-higher-and-further-education" data-track-options="{"dimension29":"Access to higher and further education"}" href="#access-to-higher-and-further-education">Access to higher and further education</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#recognition-of-professional-qualifications" data-track-options="{"dimension29":"Recognition of professional qualifications"}" href="#recognition-of-professional-qualifications">Recognition of professional qualifications</a>
 
         </li>
     </ol>
@@ -123,82 +134,144 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <h2 id="ending-your-time-living-abroad">Ending your time living abroad</h2>
-<p>The government has published <a href="https://www.gov.uk/government/collections/overseas-living-in-guides">guidance for UK nationals living abroad</a>, including actions you need to take to return to the UK from the country you currently live in. </p>
+<p>The government has published <a href="https://www.gov.uk/government/collections/overseas-living-in-guides" class="govuk-link">guidance for UK nationals living abroad</a>, including actions you need to take to return to the UK from the country you currently live in. </p>
 
 <h2 id="bringing-family-members-to-the-uk">Bringing family members to the UK</h2>
-<p>Family members who do not have UK citizenship or settled status will be able to live with you in the UK following a successful application for a <a href="https://www.gov.uk/uk-family-visa">family visa</a>. Family members with UK citizenship or settled status will not need to apply for a visa.</p>
+<p>Family members with UK citizenship or settled status can live permanently in the UK and will not need to take further action to do so.</p>
+
+<p>Family members without UK citizenship or settled status will be able to live permanently in the UK subject to immigration rules, for which <a href="https://www.gov.uk/browse/visas-immigration/settle-in-the-uk" class="govuk-link">further guidance is available</a>. Example situations for UK nationals’ family members without UK citizenship or settled status are included below.</p>
+
+<h3 id="returning-from-the-eu">Returning from the EU</h3>
+<p>UK nationals’ children and existing close family members (including spouses, partners, parents and grandparents) who are moving to the UK from the EU, after the UK has left the EU, will be able to do so without the need for a visa until 29 March 2022. Those moving to the UK after 29 March 2022 will need to apply for a visa.</p>
+
+<p>Other dependent family members and future spouses of UK nationals (where the relationship was established with the UK national after the UK has left the EU) who are returning to the UK from the EU, after the UK has left the EU, will be able to do so without the need for a visa until 31 December 2020. Those moving to the UK after 31 December 2020 will need to apply for a visa.</p>
+
+<h3 id="returning-from-outside-of-the-eu">Returning from outside of the EU</h3>
+<p>UK nationals’ family members with EEA or Swiss citizenship who live outside the EU and are moving to the UK after the UK has left the EU will be able to do so, without the need for a visa, until 31 December 2020.</p>
+
+<p>UK nationals’ family members without EEA or Swiss citizenship who live outside the EU and are moving to the UK after the UK has left the EU will be able to do so following a successful application for a <a href="https://www.gov.uk/uk-family-visa" class="govuk-link">family visa</a>.</p>
 
 <h2 id="bringing-pets-to-the-uk">Bringing pets to the UK</h2>
-<p>Guidance is available on how to <a href="https://www.gov.uk/bring-your-pet-to-uk">bring a pet dog, cat or ferret to the UK</a>. There’s a different <a href="https://www.gov.uk/bringing-food-animals-plants-into-uk">process for other animals</a>.</p>
+<p>Guidance is available on how to <a href="https://www.gov.uk/bring-your-pet-to-uk" class="govuk-link">bring a pet dog, cat or ferret to the UK</a>. There’s a different <a href="https://www.gov.uk/bringing-food-animals-plants-into-uk" class="govuk-link">process for other animals</a>.</p>
 
 <h2 id="moving-personal-belongings-to-the-uk">Moving personal belongings to the UK</h2>
-<p>You have tax and customs responsibilities when you <a href="https://www.gov.uk/moving-to-uk">move your personal belongings to the UK from abroad</a>.</p>
+<p>You have tax and customs responsibilities when you <a href="https://www.gov.uk/moving-to-uk" class="govuk-link">move your personal belongings to the UK from abroad</a>.</p>
 
 <h2 id="tax-if-you-return-to-the-uk">Tax if you return to the UK</h2>
-<p>You may need to <a href="https://www.gov.uk/tax-return-uk">take action to ensure you are able to pay UK tax</a>, for instance by registering for Self-Assessment. UK residents pay tax on UK income and gains and must also pay tax on any foreign income and gains.</p>
+<p>You may need to <a href="https://www.gov.uk/tax-return-uk" class="govuk-link">take action to ensure you are able to pay UK tax</a>, for instance by registering for Self-Assessment. UK residents pay tax on UK income and gains and must also pay tax on any foreign income and gains.</p>
 
 <h2 id="access-to-benefits">Access to benefits</h2>
-<p>UK nationals considering returning to the UK and planning to make new applications for benefits should <a href="https://www.gov.uk/browse/benefits">check eligibility requirements</a>.</p>
+<p>UK nationals considering returning to the UK and planning to make new applications for benefits should <a href="https://www.gov.uk/browse/benefits" class="govuk-link">check eligibility requirements</a>.</p>
 
 <h2 id="access-to-housing-services">Access to housing services</h2>
-<p>You should check your eligibility with your local council if you intend to apply for housing services such as <a href="https://www.gov.uk/council-housing">council housing</a> or <a href="https://www.gov.uk/emergency-housing-if-homeless">homelessness assistance</a>.  If you are considering returning to the UK you should ensure that you have secured somewhere to live prior to returning.  If you need any advice or assistance to do so, contact either the local council in the area you are considering returning to, or a local advice agency – such as Citizens Advice – to discuss the housing options in the area.</p>
+<p>You should check your eligibility with your local council if you intend to apply for housing services such as <a href="https://www.gov.uk/council-housing" class="govuk-link">council housing</a> or <a href="https://www.gov.uk/emergency-housing-if-homeless" class="govuk-link">homelessness assistance</a>.  If you are considering returning to the UK you should ensure that you have secured somewhere to live prior to returning.  If you need any advice or assistance to do so, contact either the local council in the area you are considering returning to, or a local advice agency – such as Citizens Advice – to discuss the housing options in the area.</p>
 
 <h2 id="access-to-nhs-services">Access to NHS services</h2>
-<p>To get free NHS healthcare you will need to prove that you’ve <a href="https://www.gov.uk/guidance/using-the-nhs-when-you-return-to-live-in-the-uk">returned to the UK to live</a> and you meet the ordinary residence test.</p>
+<p>To get free NHS healthcare you will need to prove that you’ve <a href="https://www.gov.uk/guidance/using-the-nhs-when-you-return-to-live-in-the-uk" class="govuk-link">returned to the UK to live</a> and you meet the ordinary residence test.</p>
 
 <p>For more information on access to healthcare in Scotland, Wales and Northern Ireland, visit the websites for health services in each country:</p>
 
 <ul>
-  <li><a rel="external" href="https://www2.gov.scot/Topics/Health/">Scotland</a></li>
-  <li><a rel="external" href="http://www.wales.nhs.uk/">Wales</a></li>
-  <li><a rel="external" href="https://www.health-ni.gov.uk/">Northern Ireland</a></li>
+  <li><a rel="external" href="https://www2.gov.scot/Topics/Health/" class="govuk-link">Scotland</a></li>
+  <li><a rel="external" href="http://www.wales.nhs.uk/" class="govuk-link">Wales</a></li>
+  <li><a rel="external" href="https://www.health-ni.gov.uk/" class="govuk-link">Northern Ireland</a></li>
 </ul>
 
 <h2 id="access-to-adult-social-care-services">Access to adult social care services</h2>
-<p>You can <a href="https://www.gov.uk/apply-needs-assessment-social-services">apply for a needs assessment from social services</a> if you need access to services such as help in your home or residential care in England or Wales.</p>
+<p>You can <a href="https://www.gov.uk/apply-needs-assessment-social-services" class="govuk-link">apply for a needs assessment from social services</a> if you need access to services such as help in your home or residential care in England or Wales.</p>
 
 <p>For information on access to adult social care services in Scotland and Northern Ireland, visit the websites for social care services in each country:</p>
 
 <ul>
-  <li><a rel="external" href="https://www2.gov.scot/Topics/Health/">Scotland</a></li>
-  <li><a rel="external" href="https://www.nidirect.gov.uk/articles/arranging-health-and-social-care">Northern Ireland</a></li>
+  <li><a rel="external" href="https://www2.gov.scot/Topics/Health/" class="govuk-link">Scotland</a></li>
+  <li><a rel="external" href="https://www.nidirect.gov.uk/articles/arranging-health-and-social-care" class="govuk-link">Northern Ireland</a></li>
 </ul>
 
 <h2 id="transport-assistance">Transport assistance</h2>
-<p>You may be eligible for <a href="https://www.gov.uk/transport-disabled">assistance with your transportation</a> when travelling to the UK, such as receiving help at an airport. You may also be eligible for assistance once resident in the UK, such as access to the <a rel="external" href="https://www.motability.co.uk/">Motability Scheme</a> and a <a href="https://www.gov.uk/government/collections/blue-badge-scheme">disabled parking badge (blue badge)</a> or a <a href="https://www.gov.uk/apply-for-disabled-bus-pass">disabled</a> or <a href="https://www.gov.uk/apply-for-elderly-person-bus-pass">older person’s</a> bus pass.</p>
+<p>You may be eligible for <a href="https://www.gov.uk/transport-disabled" class="govuk-link">assistance with your transportation</a> when travelling to the UK, such as receiving help at an airport. You may also be eligible for assistance once resident in the UK, such as access to the <a rel="external" href="https://www.motability.co.uk/" class="govuk-link">Motability Scheme</a> and a <a href="https://www.gov.uk/government/collections/blue-badge-scheme" class="govuk-link">disabled parking badge (blue badge)</a> or a <a href="https://www.gov.uk/apply-for-disabled-bus-pass" class="govuk-link">disabled</a> or <a href="https://www.gov.uk/apply-for-elderly-person-bus-pass" class="govuk-link">older person’s</a> bus pass.</p>
 
 <h2 id="driving-licenses-and-vehicle-insurance">Driving licenses and vehicle insurance</h2>
-<p>EU and EEA-issued driving licences will continue to be recognised after Brexit. If you hold a non-EU/EEA driving licence, you will either need to exchange your licence for a UK licence, or in some cases, apply for a new UK driving licence and retake your driving test. Further information is available on <a href="https://www.gov.uk/exchange-foreign-driving-licence">exchanging your licence</a>.</p>
+<p>EU and EEA-issued driving licences will continue to be recognised after Brexit. If you hold a non-EU/EEA driving licence, you will either need to exchange your licence for a UK licence, or in some cases, apply for a new UK driving licence and retake your driving test. Further information is available on <a href="https://www.gov.uk/exchange-foreign-driving-licence" class="govuk-link">exchanging your licence</a>.</p>
 
 <p>If you’re bringing an EU-registered vehicle to the UK, you will need to obtain a motor insurance Green Card or valid proof of insurance from your insurer. If you are bringing a trailer or caravan alongside your vehicle, you will need a separate Green Card for each vehicle.</p>
 
 <h2 id="vat-on-vehicles-imported-to-the-uk">VAT on vehicles imported to the UK</h2>
-<p>Notify <a href="https://www.gov.uk/importing-vehicles-into-the-uk">HMRC</a> about vehicles brought into the UK from abroad using the online <a href="https://www.gov.uk/nova-log-in">Notification of Vehicle Arrival Procedures</a> (NOVA) system to ensure that VAT is correctly paid.</p>
+<p>Notify <a href="https://www.gov.uk/importing-vehicles-into-the-uk" class="govuk-link">HMRC</a> about vehicles brought into the UK from abroad using the online <a href="https://www.gov.uk/nova-log-in" class="govuk-link">Notification of Vehicle Arrival Procedures</a> (NOVA) system to ensure that VAT is correctly paid.</p>
 
 <h2 id="access-to-primary-and-secondary-schooling">Access to primary and secondary schooling</h2>
-<p>If your child is aged 4 or over, contact your local council in England to find out <a href="https://www.gov.uk/schools-admissions/applying">how to apply for a state school place. State schools do not charge fees for education</a>.</p>
+<p>If your child is aged 4 or over, contact your local council in England to find out <a href="https://www.gov.uk/schools-admissions/applying" class="govuk-link">how to apply for a state school place</a>. State schools do not charge fees for education.</p>
+
+<p>Be aware that if you’re returning to the UK from another country, your child’s new school is unlikely to follow the same curriculum as the country you’re moving from.</p>
 
 <p>For information on school places in Scotland, Wales and Northern Ireland, visit the websites for school places in each country:</p>
 
 <ul>
-  <li><a rel="external" href="https://www.mygov.scot/register-your-child-for-a-school/">Scotland</a></li>
-  <li><a rel="external" href="https://gov.wales/school-admissions-and-appeals-frequently-asked-questions">Wales</a></li>
-  <li><a rel="external" href="https://www.nidirect.gov.uk/articles/applying-school-place">Northern Ireland</a></li>
+  <li><a rel="external" href="https://www.mygov.scot/register-your-child-for-a-school/" class="govuk-link">Scotland</a></li>
+  <li><a rel="external" href="https://gov.wales/school-admissions-and-appeals-frequently-asked-questions" class="govuk-link">Wales</a></li>
+  <li><a rel="external" href="https://www.nidirect.gov.uk/articles/applying-school-place" class="govuk-link">Northern Ireland</a></li>
 </ul>
 
-<p>For families with younger children, guidance is available on <a href="https://www.gov.uk/get-childcare">childcare</a>.</p>
+<p>For families with younger children, guidance is available on <a href="https://www.gov.uk/get-childcare" class="govuk-link">childcare</a>.</p>
+
+<h2 id="access-to-apprenticeships">Access to apprenticeships</h2>
+
+<p>If you’re returning to live in the UK and planning to apply for an apprenticeship in England read the relevant guidance on becoming an apprentice for further information.</p>
+
+<p>There is specific guidance on <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eea-and-switzerland-access-to-apprenticeships" class="govuk-link">access to apprenticeships in England for UK nationals in the EU, Iceland, Liechtenstein, Norway and Switzerland</a>.</p>
+
+<p>For information on apprenticeships in Scotland, Wales and Northern Ireland, visit the websites for each country</p>
+
+<ul>
+  <li><a rel="external" href="https://www.apprenticeships.scot/" class="govuk-link">Scotland</a></li>
+  <li><a rel="external" href="https://businesswales.gov.wales/skillsgateway/skills-and-training-programmes/apprenticeships" class="govuk-link">Wales</a></li>
+  <li><a rel="external" href="https://www.nidirect.gov.uk/campaigns/apprenticeships" class="govuk-link">Northern Ireland</a></li>
+</ul>
+
+<h2 id="access-to-higher-and-further-education">Access to higher and further education</h2>
+
+<p>If you’re planning to take a higher or further education course in England read the relevant guidance to find out what support you may be able to get and make an application:</p>
+
+<ul>
+  <li>Undergraduate student finance</li>
+  <li>Postgraduate study</li>
+  <li>Further education courses and funding</li>
+</ul>
+
+<p>There is specific guidance on <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eea-and-switzerland-access-to-higher-education-and-19-further-education" class="govuk-link">access to higher and further education for UK nationals arriving from the EU, Iceland, Liechtenstein, Norway or Switzerland</a>.</p>
+
+<p>For information on student support in Scotland, Wales and Northern Ireland visit the websites for each country</p>
+
+<ul>
+  <li><a rel="external" href="https://www.saas.gov.uk/" class="govuk-link">Scotland</a></li>
+  <li><a rel="external" href="https://www.studentfinancewales.co.uk/" class="govuk-link">Wales</a></li>
+  <li><a rel="external" href="https://www.studentfinanceni.co.uk/" class="govuk-link">Northern Ireland</a></li>
+</ul>
 
 <h2 id="recognition-of-professional-qualifications">Recognition of professional qualifications</h2>
 <p>You may need to ensure your professional qualifications are recognised if you intend to practice in a regulated profession in the UK. Contact the relevant regulator to find out how to have your qualifications recognised.</p>
 
-<p>Further guidance is available on <a href="https://www.gov.uk/guidance/providing-services-including-those-of-a-qualified-professional-after-brexit">how professions and services will be regulated if there’s a no-deal Brexit</a>.</p>
+<p>Further guidance is available on <a href="https://www.gov.uk/guidance/providing-services-to-any-country-in-the-eu-iceland-liechtenstein-norway-or-switzerland-after-eu-exit#recognition-of-professional-qualifications" class="govuk-link">how professions and services will be regulated from 1 January 2021</a>.</p>
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 3 October 2019
+    <br></br>Last updated 14 August 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-08-14T15:09:23.000+01:00">14 August 2020</time>
+              <p class="app-c-published-dates__change-note">Added new sections on access to apprenticeships and higher and further education.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-03T11:00:00.000+01:00">3 October 2019</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -220,8 +293,40 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-b425909f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b425909f" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-europe" data-track-options="{"dimension28":"5","dimension29":"Living in Europe"}" href="/guidance/living-in-europe">Living in Europe</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-germany" data-track-options="{"dimension28":"5","dimension29":"Living in Germany"}" href="/guidance/living-in-germany">Living in Germany</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"5","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): travellers exempt from border rules in the UK"}" href="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules">Coronavirus (COVID-19): travellers exempt from border rules in the UK</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
 
 
 </div>
@@ -242,14 +347,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-385ee248" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a5ff81d4" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-385ee248" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-a5ff81d4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/entering-staying-uk/permanent-stay-uk" data-track-options="{"dimension28":"1","dimension29":"Permanent stay in the UK"}" href="/entering-staying-uk/permanent-stay-uk">Permanent stay in the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/entering-staying-uk/permanent-stay-uk" data-track-options="{"dimension28":"2","dimension29":"Permanent stay in the UK"}" href="/entering-staying-uk/permanent-stay-uk">Permanent stay in the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"2","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
 
   </ul>
 </nav>
