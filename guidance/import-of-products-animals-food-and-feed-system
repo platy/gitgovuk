@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Use IPAFFS to notify authorities that you’re importing live animals and germinal products into England, Scotland and Wales from the EU.</p>
+  <p class="gem-c-lead-paragraph">Use IPAFFS to notify authorities that you’re importing live animals and germinal products, and products of animal origin into England, Scotland and Wales.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 18 March 2019
-    <br></br>Last updated 29 June 2020
+    <br></br>Last updated 26 August 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -62,12 +62,16 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#register-for-ipaffs" data-track-options="{"dimension29":"Register for IPAFFS\n"}" href="#register-for-ipaffs">Register for IPAFFS
-</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#import-from-the-eu" data-track-options="{"dimension29":"Import from the EU"}" href="#import-from-the-eu">Import from the EU</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#when-to-submit--a-notification" data-track-options="{"dimension29":"When to submit  a notification"}" href="#when-to-submit--a-notification">When to submit  a notification</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#import-from-non-eu-countries" data-track-options="{"dimension29":"Import from non-EU countries"}" href="#import-from-non-eu-countries">Import from non-EU countries</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#register-for-ipaffs" data-track-options="{"dimension29":"Register for IPAFFS\n"}" href="#register-for-ipaffs">Register for IPAFFS
+</a>
 
         </li>
     </ol>
@@ -77,19 +81,27 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>Use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> to notify the Animal and Plant Health Agency (APHA) about imports from the EU to Great Britain (GB) of live animals and germinal products.</p>
-
-<div class="call-to-action">
-<p>You must continue to use <abbr title="Trade Control and Expert System">TRACES</abbr> to notify APHA for imports into the UK from non-EU countries until 1 January 2021.</p>
-</div>
+<h2 id="import-from-the-eu">Import from the EU</h2>
+<p>Use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> to notify the Animal and Plant Health Agency (<abbr title="Animal and Plant Health Agency">APHA</abbr>) about imports from the EU to Great Britain (GB) of live animals and germinal products.</p>
 
 <p>If you’re importing live animals and germinal products from the EU to Northern Ireland you must notify the <a rel="external" href="https://www.daera-ni.gov.uk/contact" class="govuk-link">Department of Agriculture, Environment and Rural Affairs</a> (DAERA).</p>
 
-<p>You do not have to notify APHA of products of animal origin (POAO) coming into the UK from the EU unless there’s a safeguard measure in place.</p>
+<p>You do not have to notify <abbr title="Animal and Plant Health Agency">APHA</abbr> of products of animal origin (<abbr title="products of animal origin">POAO</abbr>) coming into the UK from the EU unless there’s a safeguard measure in place.</p>
 
-<p>You do not have to notify APHA of high risk food and feed not of animal origin (HRFNAO) coming into the UK from the EU.</p>
+<p>You do not have to notify <abbr title="Animal and Plant Health Agency">APHA</abbr> of high risk food and feed not of animal origin (<abbr title="high risk food and feed not of animal origin">HRFNAO</abbr>) coming into the UK from the EU.</p>
 
 <p>Find out more about <a href="https://www.gov.uk/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade" class="govuk-link">moving live animals or animal products as part of EU trade</a>.</p>
+
+<h2 id="import-from-non-eu-countries">Import from non-EU countries</h2>
+<p>From 7 September 2020, you must use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> to notify authorities of Great Britain (GB) imports of products of animal origin (<abbr title="products of animal origin">POAO</abbr>) from non-EU countries. These products were previously notified on a CVED-P in Traces Classic.</p>
+
+<p>This does not apply to imports into Northern Ireland. Imports to Northern Ireland must be notified on <abbr title="Trade Control and Expert System">TRACES</abbr> NT from 15 September 2020.</p>
+
+<p>All GB import notifications must be made on <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> from 1 January 2021.</p>
+
+<p>Use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> to notify <abbr title="Animal and Plant Health Agency">APHA</abbr> about imports from the EU to GB of live animals and germinal products, and <abbr title="products of animal origin">POAO</abbr>.</p>
+
+<p>You must continue to use <abbr title="Trade Control and Expert System">TRACES</abbr> NT to notify authorities of imports of live animals and <abbr title="high risk food and feed not of animal origin">HRFNAO</abbr> into the UK from non-EU countries. When the process changes, this guide will explain what you must do.</p>
 
 <h2 id="register-for-ipaffs">Register for <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>
 </h2>
@@ -105,31 +117,17 @@
   <li>Companies House number if you’re registering on behalf of a limited company</li>
 </ul>
 
-<p>If you’re the first person to register on behalf of a business or organisation you automatically become the organisation administrator for that business. You will have the permissions to invite and remove team members.  Make sure that you allocate at least one other team member to an organisation administrator role so that you can share the management of the account.</p>
+<p>If you’re the first person to register on behalf of a business or organisation you automatically become the organisation administrator for that business. You will have the permissions to invite and remove team members.</p>
+
+<p>Make sure that you allocate at least one other team member to an organisation administrator role so that you can share the management of the account.</p>
 
 <h3 id="registration-guides">Registration guides</h3>
 <p>Find out how to register if you’re a:</p>
 
 <ul>
-  <li><span id="attachment_4313787" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896298/IPAFFS_EU_Registration_Guide_-_Sole_Trader.pdf" class="govuk-link">sole trader</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">287KB</span>, <span class="page-length">6 pages</span>)</span></li>
-  <li><span id="attachment_4313791" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896304/IPAFFS_Limited_Company_PLC_LLP_Charity_registration_guide.pdf" class="govuk-link">limited company, public limited company, limited liability partnership or charity</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">289KB</span>, <span class="page-length">7 pages</span>)</span></li>
+  <li><span id="attachment_4472061" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896298/IPAFFS_EU_Registration_Guide_-_Sole_Trader.pdf" class="govuk-link">sole trader</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">287KB</span>, <span class="page-length">6 pages</span>)</span></li>
+  <li><span id="attachment_4472062" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896304/IPAFFS_Limited_Company_PLC_LLP_Charity_registration_guide.pdf" class="govuk-link">limited company, public limited company, limited liability partnership or charity</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">289KB</span>, <span class="page-length">7 pages</span>)</span></li>
 </ul>
-
-<h2 id="when-to-submit--a-notification">When to submit  a notification</h2>
-<p>You must submit your notification in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> 24 hrs before your consignment is due to arrive. You can submit your notification up to 30 days in advance.</p>
-
-<h3 id="what-you-need">What you need</h3>
-<p>You need to know:</p>
-
-<ul>
-  <li>what you’re importing</li>
-  <li>the date and the estimated time the consignment will arrive at the border control post</li>
-  <li>which country it will come from and the country in which it is consigned if they are different</li>
-  <li>the consignment’s destination</li>
-</ul>
-
-<h3 id="updating-a-notification">Updating a notification</h3>
-<p>You can update your notification in <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> if you do not have all the details when you first submit it or if something changes at any time before your consignment arrives.</p>
 
 <p><a class="gem-c-button govuk-button govuk-button--start" role="button" href="https://import-products-animals-food-feed.service.gov.uk/notification/prd/protected/notifications"> Start Now <svg class="govuk-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewbox="0 0 33 40" role="presentation" focusable="false"><path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z"></path></svg></a></p>
 
@@ -140,10 +138,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 18 March 2019
-    <br></br>Last updated 29 June 2020
+    <br></br>Last updated 26 August 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-08-26T09:24:52.000+01:00">26 August 2020</time>
+              <p class="app-c-published-dates__change-note">Explained that "from 7 September 2020, you must use IPAFFS to notify authorities of GB imports of products of animal origin (POAO) from non-EU countries." Clarified processes about importing from EU and non-EU countries.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-06-29T16:14:18.000+01:00">29 June 2020</time>
               <p class="app-c-published-dates__change-note">Added registration guides.</p>
@@ -213,23 +215,23 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-71f1ee86" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-a325931b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-71f1ee86" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a325931b" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-import-of-animals-and-products-notify-authorities" data-track-options="{"dimension28":"4","dimension29":"EU import of animals, germplasm and animal by-products: notify authorities"}" href="/government/publications/eu-import-of-animals-and-products-notify-authorities">EU import of animals, germplasm and animal by-products: notify authorities</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-from-1-january-2021" data-track-options="{"dimension28":"4","dimension29":"Importing animals, animal products and high-risk food and feed not of animal origin from 1 January 2021"}" href="/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-from-1-january-2021">Importing animals, animal products and high-risk food and feed not of animal origin from 1 January 2021</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/collections/eu-import-health-certificates" data-track-options="{"dimension28":"4","dimension29":"EU import health certificates"}" href="/government/collections/eu-import-health-certificates">EU import health certificates</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/keeping-livestock-healthy-disease-controls-and-prevention" data-track-options="{"dimension28":"4","dimension29":"Keeping livestock healthy: disease controls and prevention"}" href="/guidance/keeping-livestock-healthy-disease-controls-and-prevention">Keeping livestock healthy: disease controls and prevention</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/uk-border-inspection-posts-contact-details" data-track-options="{"dimension28":"4","dimension29":"UK border control posts: contact details"}" href="/government/publications/uk-border-inspection-posts-contact-details">UK border control posts: contact details</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries" data-track-options="{"dimension28":"4","dimension29":"Importing live animals or animal products from non-EU countries"}" href="/guidance/importing-live-animals-or-animal-products-from-non-eu-countries">Importing live animals or animal products from non-EU countries</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products" data-track-options="{"dimension28":"4","dimension29":"Guidance on importing and exporting live animals or animal products"}" href="/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products">Guidance on importing and exporting live animals or animal products</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/trading-cites-listed-species-through-uk-ports-and-airports-after-brexit" data-track-options="{"dimension28":"4","dimension29":"Trading CITES-listed specimens through UK ports and airports from 1 January 2021"}" href="/guidance/trading-cites-listed-species-through-uk-ports-and-airports-after-brexit">Trading CITES-listed specimens through UK ports and airports from 1 January 2021</a></li>
 
   </ul>
 </nav>
@@ -256,9 +258,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-893aaad6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-736aaccb" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-893aaad6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-736aaccb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
