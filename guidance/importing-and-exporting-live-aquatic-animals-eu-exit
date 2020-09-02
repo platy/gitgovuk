@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 25 February 2019
-    <br></br>Last updated 24 August 2020
+    <br></br>Last updated 2 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -58,10 +58,11 @@
           <p class="app-c-header-notice__text govuk-body">The UK has left the EU, and the transition period after Brexit comes to an end this year.</p>
           <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It will be updated if anything changes.</p>
         <div class="app-c-header-notice__links">
-            <p class="govuk-body app-c-header-notice__link-intro">
-              For current information, read: 
-              <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/guidance/import-or-export-live-fish-and-shellfish" data-track-label="Rules on importing live fish and shellfish for aquaculture and ornamental purposes" class="app-c-header-notice__link" href="/guidance/import-or-export-live-fish-and-shellfish">Rules on importing live fish and shellfish for aquaculture and ornamental purposes</a>
-            </p>
+            <p class="govuk-body app-c-header-notice__link-intro">For current information, read: </p>
+            <ul class="app-c-header-notice__list govuk-list">
+                <li><a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/guidance/import-or-export-live-fish-and-shellfish" data-track-label="Rules on importing live fish and shellfish for aquaculture and ornamental purposes" class="app-c-header-notice__link" href="/guidance/import-or-export-live-fish-and-shellfish">Rules on importing live fish and shellfish for aquaculture and ornamental purposes</a></li>
+                <li><a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/guidance/export-live-fish-and-shellfish-for-aquaculture-and-ornamental" data-track-label="Rules on exporting live fish and shellfish for aquaculture and ornamental purposes " class="app-c-header-notice__link" href="/guidance/export-live-fish-and-shellfish-for-aquaculture-and-ornamental">Rules on exporting live fish and shellfish for aquaculture and ornamental purposes </a></li>
+            </ul>
         </div>
 
         <p class="app-c-header-notice__text govuk-body">You can also read about <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/transition" data-track-label="the transition period" class="govuk-link" href="/transition">the transition period</a>.</p>
@@ -86,11 +87,27 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#importing-and-exporting" data-track-options="{"dimension29":"Importing and exporting"}" href="#importing-and-exporting">Importing and exporting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#wales-and-england" data-track-options="{"dimension29":"Wales and England"}" href="#wales-and-england">Wales and England</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#contacts" data-track-options="{"dimension29":"Contacts"}" href="#contacts">Contacts</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#importing-and-exporting" data-track-options="{"dimension29":"Importing and Exporting"}" href="#importing-and-exporting">Importing and Exporting</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#border-and-customs-offices" data-track-options="{"dimension29":"Border and customs offices"}" href="#border-and-customs-offices">Border and customs offices</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#importing-or-exporting-cites-specimens" data-track-options="{"dimension29":"Importing or exporting CITES specimens"}" href="#importing-or-exporting-cites-specimens">Importing or exporting CITES specimens</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#data-protection" data-track-options="{"dimension29":"Data protection"}" href="#data-protection">Data protection</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#contacts" data-track-options="{"dimension29":"Contacts"}" href="#contacts">Contacts</a>
 
         </li>
     </ol>
@@ -100,15 +117,11 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>This page is currently undergoing review and will be updated with new information and guidance shortly. Please check back soon for the latest information.</p>
+<h2 id="wales-and-england">Wales and England</h2>
 
-<h2 id="importing-and-exporting">Importing and exporting</h2>
+<p>This guidance applies only to live fish, molluscs and crustaceans imported or exported for aquaculture and ornamental purposes and includes live shellfish for purification (depuration) prior to consumption. It does not apply to dead fish and shellfish, fish and shellfish products, or live shellfish for immediate consumption.</p>
 
-<p>There are some actions you’ll need to take if you import or export live aquatic animals between the UK and EU.</p>
-
-<p>From 1 January 2021, there are some actions you’ll need to take in order to import and export live aquatic animals (fish molluscs, crustaceans) to the EU for aquaculture and ornamental purposes. This includes the export of live bivalve molluscs to the EU for immediate processing, or purification (depuration) prior to human consumption.</p>
-
-<p>You do not need an animal health certificate for scallops, you will need a <a href="https://www.gov.uk/government/publications/import-aquaculture-animals-or-products-health-certificate" class="govuk-link">product certificate.</a></p>
+<p>Find out how to <a href="https://www.gov.uk/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal" class="govuk-link">export</a> and <a href="https://www.gov.uk/guidance/import-fish-after-a-no-deal-brexit" class="govuk-link">import</a> wild-caught marine fish and fishery product for human consumption from 1 January 2021.</p>
 
 <p>For information on live aquatic animal imports and exports to and from other UK territories and Crown Dependencies, contact:</p>
 
@@ -122,131 +135,169 @@
 
 <p><a rel="external" href="https://www.gov.im/categories/business-and-industries/agriculture/fish-health-surveillance-testing/authorised-aquaculture-production-businesses/" class="govuk-link">Isle of Man</a></p>
 
-<h3 id="importing-or-exporting-cites-specimens">Importing or exporting CITES specimens</h3>
+<p>This guidance does not currently apply to UK businesses moving goods into, out of, or through Northern Ireland. Further information will be added to GOV.UK in the coming weeks. Find out more about <a href="https://www.gov.uk/guidance/moving-goods-into-out-of-or-through-northern-ireland-from-1-january-2021" class="govuk-link">moving goods into, out of, or through Northern Ireland from 1 January 2021</a>.</p>
 
-<p>The <a href="https://www.gov.uk/guidance/moving-cites-specimens-through-eurotunnel-in-a-no-deal-brexit" class="govuk-link">Eurotunnel</a> will be a point of entry and exit for trading or moving CITES species from 1 January 2021.</p>
+<h2 id="importing-and-exporting">Importing and Exporting</h2>
 
-<p>The <a href="https://www.gov.uk/guidance/moving-cites-specimens-through-the-port-of-dover-in-a-no-deal-brexit" class="govuk-link">Port of Dover</a> will be a point of entry and exit for trading or moving CITES specimens from 1 January 2021.</p>
+<h3 id="preparing-for-changes-to-trade-at-the-uk-eu-border">Preparing for changes to trade at the UK-<abbr title="European Union">EU</abbr> border</h3>
 
-<h3 id="fish-product-for-human-consumption">Fish product for human consumption</h3>
+<p>To minimise disruption to your business at the border points there are <a href="https://www.gov.uk/transition" class="govuk-link">actions</a> you will now need to take to prepare for the end of the transition period.</p>
 
-<p>Find out how to <a href="https://www.gov.uk/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal" class="govuk-link">export</a> and <a href="https://www.gov.uk/guidance/import-fish-after-a-no-deal-brexit" class="govuk-link">import</a> wild-caught marine fish and fishery product for human consumption from 1 January 2021.</p>
+<h3 id="import-from-an-eu-country">Import from an <abbr title="European Union">EU</abbr> country</h3>
 
-<h3 id="preparing-for-changes-to-trade-at-the-uk-eu-border">Preparing for changes to trade at the UK-EU border</h3>
+<p>The UK has left the <abbr title="European Union">EU</abbr>. There will be new processes that importers must follow. These processes will start in 3 stages.</p>
 
-<p>To minimise disruption to your business at border points, you should take the following steps:</p>
+<p>1) From 1 January 2021:</p>
 
-<ol>
-  <li>
-    <p><a href="https://www.gov.uk/guidance/get-a-uk-eori-number-to-trade-within-the-eu" class="govuk-link">Get a UK Economic Operator Registration and Identification number</a> so you can continue to import or export goods and apply for authorisation that will make customs processes easier for you.</p>
-  </li>
-  <li>
-    <p>Decide if you want to hire an import-export agent, or <a href="https://www.gov.uk/guidance/declaring-your-goods-at-customs-if-the-uk-leaves-the-eu-with-no-deal" class="govuk-link">make the declarations yourself</a>.</p>
-  </li>
-  <li>
-    <p>Contact the organisation that moves your goods, for example a haulage firm, to find out what information they need to make the declarations for your goods or if you will need to make them yourself.</p>
-  </li>
-</ol>
-
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/customs-procedures-if-the-uk-leaves-the-eu-without-a-deal" class="govuk-link">simplified customs procedures for trading with the EU if we leave without a deal</a>.</p>
-
-<p>Further information is provided in <a href="https://www.gov.uk/government/publications/no-deal-brexit-advice-for-businesses-only-trading-with-the-eu" class="govuk-link">HMRC’s advice for businesses trading with the EU</a>.</p>
-
-<h3 id="importing-live-aquatic-animals-from-the-eu">Importing live aquatic animals from the EU</h3>
-
-<p>From 1 January 2021, the government will continue to ensure a smooth transition by making no changes for at least 6 months to current import controls or notification requirements for live animals and animal products imported direct from the EU and <abbr title="European Economic Area">EEA</abbr>.</p>
-
-<p>This means that trade can continue as it is through the current points of entry for at least 6 months, with no requirement to direct consignments through a Border Inspection Post and follow existing guidance.</p>
-
-<p>Any amendments to the import requirements for live aquatic animals for aquaculture and ornamental purposes into the UK after this 6-month period are subject to ongoing negotiations.</p>
-
-<p>Read the guidance for more information on the current <a href="https://www.gov.uk/guidance/import-or-export-live-fish-and-shellfish" class="govuk-link">rules for importing live aquatic animals</a>.</p>
-
-<h3 id="importing-live-aquatic-animals-from-non-eu-countries">Importing live aquatic animals from non EU countries</h3>
-
-<p>Existing EU model health certificates and establishment listings will be accepted for at least 6 months from 1 January 2021. If you import live animals or animal products, fish, shellfish or fish products from non-EU (third) countries, whether directly or transiting through the EU, your consignment must be checked at a Border Control Post (BCP).</p>
-
-<p>To ensure imports of live animals, products of animal origin, animal by-products, germplasm and high-risk food and feed not of animal origin can continue after the transition period, the UK is launching a new system called the Import of Products, Animals, Food and Seed System (<abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>).</p>
-
-<p><a href="https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs" class="govuk-link">The Department for Environment, Food and Rural Affairs (<abbr title="Department for Environment, Food and Rural Affairs">Defra</abbr>)</a> is releasing <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> in phases. You can use <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> if you’re importing live animals, animal products and high-risk food and feed not of animal origin from non-EU countries.</p>
-
-<p><a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link">Register for <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr></a> and create notifications for consignments arriving on or after 1 January 2021.</p>
-
-<p>Find out more about how to use it in the <a href="https://www.gov.uk/guidance/importing-animals-animal-products-and-high-risk-food-and-feed-not-of-animal-origin-after-eu-exit" class="govuk-link"><abbr title="Import of products, animals, food and feed system">IPAFFS</abbr> user guidance</a>.</p>
-
-<p>Find out how to <a href="https://www.gov.uk/guidance/import-or-export-live-fish-and-shellfish?_sm_au_=iVVD5SvVW1qsJ817" class="govuk-link">import live aquatic animals from third countries</a>.</p>
-
-<p>Understand when you need to use a  <a href="https://www.gov.uk/guidance/importing-live-animals-or-animal-products-from-non-eu-countries#getting-imports-checked-at-a-bip" class="govuk-link">UK BCPs</a>.</p>
-
-<h3 id="exporting-live-aquatic-animals">Exporting live aquatic animals</h3>
-
-<p>Check with the Competent Authority or Official Service for Aquatic Animal Health in the destination country or via their <a href="https://www.gov.uk/government/publications/foreign-embassies-in-the-uk" class="govuk-link">embassy in the UK</a> to find out what documentation you need.</p>
-
-<h3 id="exports-to-the-eu">Exports to the EU</h3>
-
-<p>If an Export Animal Health Certificate (<abbr title="Export Animal Health Certificate">EAHC</abbr>) is required, you must <a href="https://www.gov.uk/guidance/export-live-fish-and-shellfish-for-aquaculture-and-ornamental" class="govuk-link">contact the Fish Health Inspectorate at <abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> to apply for an Export Animal Health Certificate.</a> <abbr title="Export Animal Health Certificates">EAHCs</abbr> must be signed by a <abbr title="Fish Health Inspectorate">FHI</abbr> following an inspection of the consignment.</p>
-
-<p>The consignment must enter the EU via a <a href="https://www.gov.uk/guidance/importing-live-animals-or-animal-products-from-non-eu-countries?_sm_au_=iVVD5SvVW1qsJ817#getting-imports-checked-at-a-border-inspection-post-bip" class="govuk-link">BCP within the EU.</a> You’ll need to consider if your current trade routes could be affected.</p>
-
-<p>Find an <a rel="external" href="https://ec.europa.eu/food/animals/vet-border-control/bip_en" class="govuk-link">EU-approved BCP</a>.</p>
-
-<p>You must follow the EU customs processes for third countries, for example completing customs declarations and paying tariffs.</p>
-
-<p>The UK has applied for third country status and the UK government is confident that the UK meets the animal health requirements for live aquatic animals.</p>
-
-<p>The Fish Health Inspectorate at <a href="https://www.gov.uk/government/organisations/centre-for-environment-fisheries-and-aquaculture-science" class="govuk-link"><abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr></a> manages the administration of the model animal health certificates required for exports of live aquatic animals for aquaculture and for ornamental purposes, in a format that meets EU requirements.</p>
-
-<p>The animal health certificates are for the import into the EU of:</p>
+<p>The UK will operate a full, external border with the <abbr title="European Union">EU</abbr>. This means that live aquatic animals imported from the <abbr title="European Union">EU</abbr> will be subject to new import controls. They must be:</p>
 
 <ul>
-  <li>aquaculture animals for farming, relaying, put and take fisheries and open ornamental facilities</li>
-  <li>ornamental aquatic animals intended for closed ornamental facilities</li>
-  <li>salamanders and newts</li>
+  <li>
+    <p>pre-notified by the importer using the UK’s new Import of Products, Animals, Food and Feed System <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link"><abbr title="Import of products, animals, food and feed system">IPAFFS</abbr></a> for all imports of live fish, molluscs and shellfish and their eggs and gametes.</p>
+  </li>
+  <li>
+    <p>you must use <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link"><abbr title="Import of products, animals, food and feed system">IPAFFS</abbr></a> to pre-notify at least one working day before your consignment is due to arrive.</p>
+  </li>
+  <li>
+    <p>accompanied by an export animal health certificate which meets UK standards for entry into England and Wales.</p>
+  </li>
+  <li>
+    <p>current requirements to be <a href="https://www.gov.uk/guidance/import-or-export-live-fish-and-shellfish" class="govuk-link">authorised to import by the Fish Health Inspectorate (<abbr title="Fish Health Inspectorate">FHI</abbr>)</a> will remain unchanged.</p>
+  </li>
 </ul>
 
-<h3 id="trade-agreements">Trade agreements</h3>
+<p>2) From 1 April 2021:</p>
 
-<p>If the UK leaves the EU without a deal, there will be no implementation period. In this scenario, the government will seek to bring into force UK-third country agreements from exit day, or as soon as possible afterwards. These new agreements will replicate existing EU agreements as far as possible. Details of each agreement will be shared with parliament and the public when they have been agreed.</p>
+<p>Further changes will be introduced for animal products (POAO’s and ABP’s) and for high-risk food and feed not of animal origin.</p>
 
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/uk-trade-agreements-with-non-eu-countries-in-a-no-deal-brexit" class="govuk-link">existing free trade agreements from 1 January 2021</a></p>
+<p>Import controls on live animals, including live aquatic animals for aquaculture and ornamental purposes, will remain unchanged from those introduced on 1 January 2021 until 1 July 2021.</p>
 
-<h3 id="tariffs">Tariffs</h3>
+<p>3) From 1 July 2021:</p>
 
-<p>From 1 January 2021, goods traded between the UK and the EU after exit will be subject to the same requirements as third country goods, including duty payments.</p>
+<p>New import requirements will apply to live aquatic animals imported from the <abbr title="European Union">EU</abbr>. They must be:</p>
 
-<p>The EU will require importers of UK goods to pay customs duty at the most favoured nation rate under the <a rel="external" href="http://madb.europa.eu/madb/euTariffs.htm" class="govuk-link">EU’s Common Commercial Tariff</a>. In general, it will be the responsibility of the EU importer rather than the UK exporter to declare imports to the appropriate Member State customs authority and pay any tariff due.</p>
+<ul>
+  <li>
+    <p>accompanied by an export animal health certificate so they can have documentary checks. UK model animal health certificates are under review and will be made available through the <abbr title="Fish Health Inspectorate">FHI</abbr> on completion.</p>
+  </li>
+  <li>
+    <p>pre-notified by the importer using <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr></p>
+  </li>
+  <li>
+    <p>entered through a Border Control Post (<abbr title="Border Control Post">BCP</abbr>) so they’re available for documentary, identity and physical checks.</p>
+  </li>
+</ul>
 
-<h3 id="data-protection">Data protection</h3>
+<h3 id="full-list-of-uk-bcpshttpswwwgovukgovernmentpublicationsuk-border-inspection-posts-contact-detailslive-animals-and-animal-products-border-control-posts-bcp-in-the-uk"><a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details/live-animals-and-animal-products-border-control-posts-bcp-in-the-uk" class="govuk-link">Full list of UK BCPs</a></h3>
 
-<p>Youll need to make sure your business follows data protection law.</p>
+<h3 id="import-from-a-non-eu-country">Import from a non-<abbr title="European Union">EU</abbr> country</h3>
 
-<p>If you operate across the EU or exchange personal data with organisations in the <abbr title="European Economic Area">EEA</abbr>, there may be changes that you need to make before the UK leaves the EU. Read the <a href="https://www.gov.uk/government/publications/data-protection-eu-exit-guidance/leaving-the-eu-without-a-deal-6-steps-to-take" class="govuk-link">6 step process</a> and the data protection guidance from the <a rel="external" href="https://ico.org.uk/for-organisations/data-protection-and-brexit/data-protection-if-there-s-no-brexit-deal/" class="govuk-link">Information Commissioner’s Office</a>.</p>
+<p>You’ll no longer have access to the <abbr title="European Union">EU</abbr>’s import system TRACES (Trade Control and Expert System) from 1 January 2021.</p>
 
-<p>You can also check if you can use <a rel="external" href="https://ico.org.uk/for-organisations/data-protection-and-brexit/standard-contractual-clauses-for-transfers-from-the-eea-to-the-uk-interactive-tool/" class="govuk-link">standard contractual clauses</a> for transfers from the <abbr title="European Economic Area">EEA</abbr> to the UK.</p>
+<p>You’ll need to use the <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link">UK’s new Import of Products, Animals, Food and Feed System (<abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>)</a> for all imports of live fish, molluscs and shellfish and their eggs and gametes.</p>
+
+<p>You must use <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link"><abbr title="Import of products, animals, food and feed system">IPAFFS</abbr></a> to notify the <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details/live-animals-and-animal-products-border-control-posts-bcp-in-the-uk" class="govuk-link">UK <abbr title="Border Control Post">BCP</abbr></a> at least one working day before your consignment is due to arrive.</p>
+
+<p>Export animal health certificates are required. Health certificates and other documentation are being reviewed and further guidance will follow. <a href="https://www.gov.uk/government/groups/fish-health-inspectorate" class="govuk-link">Contact <abbr title="Fish Health Inspectorate">FHI</abbr></a> for the required document.</p>
+
+<p>You must continue to import live animals into the UK through a <a href="https://www.gov.uk/government/publications/uk-border-inspection-posts-contact-details" class="govuk-link">UK border control post (<abbr title="Border Control Post">BCP</abbr>)</a> formerly known as Border Inspection Posts (BIPs).</p>
+
+<h3 id="export-to-an-eu-country">Export to an <abbr title="European Union">EU</abbr> Country</h3>
+
+<p>From 1 January 2021, new export requirements will apply to live aquatic animals exported to the <abbr title="European Union">EU</abbr>. You’ll need:</p>
+
+<ul>
+  <li>
+    <p>an export animal health certificate. Check with the Competent Authority or Official Service for Aquatic Animal Health in the destination country or via their <a href="https://www.gov.uk/government/publications/foreign-embassies-in-the-uk" class="govuk-link">embassy in the UK</a> to find out what export animal health certificate is required.</p>
+  </li>
+  <li>
+    <p>contact the <a href="https://www.gov.uk/government/groups/fish-health-inspectorate" class="govuk-link">Fish Health Inspectorate (<abbr title="Fish Health Inspectorate">FHI</abbr>) at <abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr></a> to apply for an <a href="https://www.gov.uk/government/collections/aquatic-animal-health-and-movements-forms" class="govuk-link">Export Animal Health Certificate</a>. Certificates must be signed by a Fish Health Inspector following an inspection of the consignment. You will need to give the <abbr title="Fish Health Inspectorate">FHI</abbr> a minimum of 5 working days’ notice in advance of export to request a certificate and inspection.</p>
+  </li>
+  <li>
+    <p>to get your goods checked at a <a href="https://www.gov.uk/guidance/importing-and-exporting-live-aquatic-animals-eu-exit-Border-and-customs-offices" class="govuk-link">border control post (<abbr title="Border Control Post">BCP</abbr>)</a>, that can accept your type of goods in the first <abbr title="European Union">EU</abbr> country they enter.</p>
+  </li>
+  <li>
+    <p>make sure your importer/ <abbr title="European Union">EU</abbr>-based import agent has notified the <abbr title="Border Control Post">BCP</abbr> that your consignment is arriving - check with the <abbr title="Border Control Post">BCP</abbr> for how much notice needs to be given.</p>
+  </li>
+  <li>
+    <p>to comply with wider <a href="https://www.gov.uk/transition" class="govuk-link">HMRC guidance</a> on customs requirements for exporting to the <abbr title="European Union">EU</abbr>.</p>
+  </li>
+</ul>
+
+<h3 id="export-to-a-non-eu-country">Export to a non-<abbr title="European Union">EU</abbr> country</h3>
+
+<p>There’s unlikely to be any change to the current export rules and processes for countries outside the <abbr title="European Union">EU</abbr>. Make sure you check the <a href="https://www.gov.uk/guidance/export-live-fish-and-shellfish-for-aquaculture-and-ornamental" class="govuk-link">existing guidance.</a></p>
+
+<h2 id="border-and-customs-offices">Border and customs offices</h2>
+
+<p>You must get your animals and animal products checked at an <abbr title="European Union">EU</abbr> <abbr title="Border Control Post">BCP</abbr>, from 1 January 2021.</p>
+
+<p>These checks are made to protect:</p>
+
+<ul>
+  <li>
+    <p>animal health and welfare</p>
+  </li>
+  <li>
+    <p>public health</p>
+  </li>
+</ul>
+
+<p>Your goods may be refused entry, seized, destroyed or returned to the UK, if they arrive at:</p>
+
+<ul>
+  <li>
+    <p>an <abbr title="European Union">EU</abbr> port without a <abbr title="Border Control Post">BCP</abbr></p>
+  </li>
+  <li>
+    <p>a <abbr title="Border Control Post">BCP</abbr> that can’t check your type of product</p>
+  </li>
+</ul>
+
+<h3 id="find-the-correct-bcp-for-your-goods">Find the correct <abbr title="Border Control Post">BCP</abbr> for your goods</h3>
+
+<p>You must find a <abbr title="Border Control Post">BCP</abbr> that can accept your type of goods - as not all BCPs accept all goods. Consider how to redirect your trade route if needed.</p>
+
+<p>There are more than 400 BCPs in the <abbr title="European Union">EU</abbr> and they’re usually at <abbr title="European Union">EU</abbr> ports and airports.
+<a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1563184991622&uri=CELEX:02009D0821-20190107" class="govuk-link">Check the main list of BCPs.</a> There have been <a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1571221942453&uri=CELEX:32019D1678" class="govuk-link">8 extra BCPs</a> added in early October 2019.</p>
+
+<p>All <abbr title="European Union">EU</abbr> BCPs require advance notice of goods arriving. Check with the <abbr title="Border Control Post">BCP</abbr> you’re planning to use for how much notice is needed.</p>
+
+<p>Contact your importer or agent in the <abbr title="European Union">EU</abbr> to make sure they notify the <abbr title="Border Control Post">BCP</abbr> through TRACES of the arrival of the consignment. They must do this within the time limits set out by the <abbr title="Border Control Post">BCP</abbr>.</p>
+
+<h3 id="what-happens-if-your-goods-fail-inspection-at-a-bcp">What happens if your goods fail inspection at a <abbr title="Border Control Post">BCP</abbr>?</h3>
+
+<p>If your goods fail inspection because of risks to animal or public health, they will be destroyed immediately. 
+The <abbr title="Border Control Post">BCP</abbr> will not usually contact the exporter directly.</p>
+
+<h2 id="importing-or-exporting-cites-specimens">Importing or exporting CITES specimens</h2>
+
+<p>Additional rules apply to endangered species under CITES. <a href="https://www.gov.uk/guidance/trading-and-moving-endangered-species-protected-by-cites-if-theres-no-withdrawal-deal" class="govuk-link">Find out how to trade and move species protected by CITES from 1 January 2021.</a></p>
+
+<h2 id="data-protection">Data protection</h2>
+
+<p>You’ll need to make sure your business follows data protection law.</p>
+
+<p>If you operate across the <abbr title="European Union">EU</abbr> or exchange personal data with organisations in the <abbr title="European Economic Area">EEA</abbr>, there may be changes that you need to make before the UK leaves the <abbr title="European Union">EU</abbr>. Read the guidance on data protection during and after the transition period.</p>
+
+<p>You can also check if you can use standard contractual clauses for transfers from the <abbr title="European Economic Area">EEA</abbr> to the <abbr title="European Union">EU</abbr>.</p>
 
 <h2 id="contacts">Contacts</h2>
 
-<div class="contact " id="contact_1510">
-  <div class="content">
-    <h3>Fish Health Inspectorate</h3>
+<div class="address"><div class="adr org fn"><p>
 
-    <div class="vcard contact-inner">
+Fish Health Inspectorate
+<br></br><abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> Barrack road
+<br></br>Weymouth
+<br></br>Dorset
+<br></br>DT4 8UB
+<br></br>
+<br></br>Monday to Thursday 9am to 5pm and Fridays 9am til 4:30pm
+<br></br>01305 206700
+<br></br>
+</p></div></div>
 
-        <div class="email-url-number">
-            <p class="email">
-              <span class="type">Email</span>
-              <a class="govuk-link" href="mailto:%20fhi@cefas.co.uk"> fhi@cefas.co.uk</a>
-            </p>
-            <p class="tel">
-              <span class="type">Monday to Friday, 9am to 5pm</span>
-              01305 206700
-            </p>
-        </div>
-
-
-    </div>
-  </div>
-</div>
+<p><a href="mailto:fhi@cefas.co.uk" class="govuk-link">fhi@cefas.co.uk</a></p>
 
 </div>
 </div>
@@ -255,10 +306,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 25 February 2019
-    <br></br>Last updated 24 August 2020
+    <br></br>Last updated 2 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-02T10:27:18.000+01:00">2 September 2020</time>
+              <p class="app-c-published-dates__change-note">Significant changes throughout the page for more clarity on exporting and importing live aquatic animals for aquaculture and for ornamental purposes for post transition period.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-08-24T14:48:59.000+01:00">24 August 2020</time>
               <p class="app-c-published-dates__change-note">Added note to emphasise that guidance is being updated.</p>
@@ -316,14 +371,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-706ab00f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-d42e04c1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-706ab00f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d42e04c1" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -337,25 +392,25 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-706ab00f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-d42e04c1" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-706ab00f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-d42e04c1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/import-or-export-live-fish-and-shellfish" data-track-options="{"dimension28":"3","dimension29":"Import live fish and shellfish for aquaculture and ornamental"}" href="/guidance/import-or-export-live-fish-and-shellfish">Import live fish and shellfish for aquaculture and ornamental</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal" data-track-options="{"dimension28":"3","dimension29":"Export fish to the EU from 1 January 2021"}" href="/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal">Export fish to the EU from 1 January 2021</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"3","dimension29":"Exporting animals and animal products to the EU from 1 January 2021"}" href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals and animal products to the EU from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" data-track-options="{"dimension28":"3","dimension29":"Exporting animals and animal products to the EU from 1 January 2021"}" href="/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal">Exporting animals and animal products to the EU from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/export-live-fish-and-shellfish-for-aquaculture-and-ornamental" data-track-options="{"dimension28":"3","dimension29":"Export live fish and shellfish for aquaculture and ornamental"}" href="/guidance/export-live-fish-and-shellfish-for-aquaculture-and-ornamental">Export live fish and shellfish for aquaculture and ornamental</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-706ab00f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d42e04c1" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-706ab00f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-d42e04c1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -387,9 +442,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7492abdf" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8f6bdd34" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-7492abdf" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8f6bdd34" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
