@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 10 July 2020
-    <br></br>Last updated 7 August 2020
+    <br></br>Last updated 4 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/cabinet-office">Cabinet Office</a>, <a class="govuk-link" href="/government/organisations/northern-ireland-office">Northern Ireland Office</a>, and <a class="govuk-link" href="/government/organisations/government-digital-service">Government Digital Service</a>
+                  <a class="govuk-link" href="/government/organisations/cabinet-office">Cabinet Office</a> and <a class="govuk-link" href="/government/organisations/northern-ireland-office">Northern Ireland Office</a>
                 </span>
             </dd>
         </dl>
@@ -60,9 +60,16 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<div class="call-to-action">
-<p><a href="https://www.gov.uk/government/publications/moving-goods-under-the-northern-ireland-protocol" class="govuk-link">Detailed guidance for UK businesses moving goods into, out of, or through Northern Ireland can be found here</a>.</p>
-</div>
+<h2 id="guidance-for-businesses">Guidance for businesses</h2>
+
+<p>You can:</p>
+
+<ul>
+  <li>read <a href="https://www.gov.uk/government/publications/moving-goods-under-the-northern-ireland-protocol" class="govuk-link">guidance on moving goods into, out of, or through Northern Ireland</a>
+</li>
+  <li>get <a href="https://www.gov.uk/guidance/trader-support-service" class="govuk-link">information about the Trader Support Service</a>
+</li>
+</ul>
 
 <h2 id="the-northern-ireland-protocol">The Northern Ireland Protocol</h2>
 
@@ -78,10 +85,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 July 2020
-    <br></br>Last updated 7 August 2020
+    <br></br>Last updated 4 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-04T16:57:43.000+01:00">4 September 2020</time>
+              <p class="app-c-published-dates__change-note">Added a link to the Trader Support Service.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-08-07T07:10:30.000+01:00">7 August 2020</time>
               <p class="app-c-published-dates__change-note">Added link to new guidance.</p>
@@ -112,24 +123,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-55bbfe7b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-d5a79891" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-55bbfe7b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d5a79891" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/speeches/outside-the-eu-a-bright-future-awaits-britain" data-track-options="{"dimension28":"5","dimension29":"Outside the EU, a bright future awaits Britain"}" href="/government/speeches/outside-the-eu-a-bright-future-awaits-britain">Outside the EU, a bright future awaits Britain</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/declaring-goods-brought-into-great-britain-from-the-eu-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Declaring goods brought into Great Britain from the EU from 1 January 2021"}" href="/guidance/declaring-goods-brought-into-great-britain-from-the-eu-from-1-january-2021">Declaring goods brought into Great Britain from the EU from 1 January 2021</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/the-border-operating-model" data-track-options="{"dimension28":"5","dimension29":"The Border Operating Model"}" href="/government/publications/the-border-operating-model">The Border Operating Model</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/appoint-someone-to-deal-with-customs-on-your-behalf" data-track-options="{"dimension28":"5","dimension29":"Get someone to deal with customs for you"}" href="/guidance/appoint-someone-to-deal-with-customs-on-your-behalf">Get someone to deal with customs for you</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/uk-transition-communications-resources" data-track-options="{"dimension28":"5","dimension29":"UK Transition communications resources"}" href="/government/publications/uk-transition-communications-resources">UK Transition communications resources</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/new-protocol-on-irelandnorthern-ireland-and-political-declaration" data-track-options="{"dimension28":"5","dimension29":"New Protocol on Ireland/Northern Ireland and Political Declaration"}" href="/government/publications/new-protocol-on-irelandnorthern-ireland-and-political-declaration">New Protocol on Ireland/Northern Ireland and Political Declaration</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/speeches/the-future-relationship-between-the-uk-and-the-eu" data-track-options="{"dimension28":"5","dimension29":"The Future Relationship between the UK and the EU"}" href="/government/speeches/the-future-relationship-between-the-uk-and-the-eu">The Future Relationship between the UK and the EU</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/moving-goods-under-the-northern-ireland-protocol" data-track-options="{"dimension28":"5","dimension29":"Moving goods under the Northern Ireland Protocol"}" href="/government/publications/moving-goods-under-the-northern-ireland-protocol">Moving goods under the Northern Ireland Protocol</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/the-border-operating-model" data-track-options="{"dimension28":"5","dimension29":"The Border Operating Model"}" href="/government/publications/the-border-operating-model">The Border Operating Model</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/list-of-customs-agents-and-fast-parcel-operators" data-track-options="{"dimension28":"5","dimension29":"List of customs agents and fast parcel operators from 1 January 2021"}" href="/guidance/list-of-customs-agents-and-fast-parcel-operators">List of customs agents and fast parcel operators from 1 January 2021</a></li>
 
   </ul>
 </nav>
@@ -156,9 +167,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-cac0aa07" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3c840c1d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-cac0aa07" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-3c840c1d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
