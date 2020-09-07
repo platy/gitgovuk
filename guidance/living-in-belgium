@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Belgium
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Belgium, including guidance on Brexit, residency, healthcare and passports.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Belgium, including guidance on residency, healthcare, passports and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 May 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 7 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a> and <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>
                 </span>
             </dd>
         </dl>
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,71 +62,79 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#residency" data-track-options="{"dimension29":"Visas and residency"}" href="#residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#residency" data-track-options="{"dimension29":"Visas and residency"}" href="#residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#driving-in-belgium" data-track-options="{"dimension29":"Driving in Belgium"}" href="#driving-in-belgium">Driving in Belgium</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-belgium" data-track-options="{"dimension29":"Working in Belgium"}" href="#working-in-belgium">Working in Belgium</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#driving-in-belgium" data-track-options="{"dimension29":"Driving in Belgium"}" href="#driving-in-belgium">Driving in Belgium</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-in-belgium" data-track-options="{"dimension29":"Working in Belgium"}" href="#working-in-belgium">Working in Belgium</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -136,7 +145,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
@@ -150,9 +159,13 @@
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the <a rel="external" href="https://www.info-coronavirus.be/en/" class="govuk-link">advice of the Belgian Government</a> and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/belgium" class="govuk-link">Belgium travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>
@@ -163,22 +176,27 @@
 
 <h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
 
-<p>The British Embassy regularly holds events across Belgium for UK nationals. <a href="https://www.gov.uk/government/news/information-and-events-for-british-citizens-in-belgium" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Belgium after Brexit.</p>
+<p>The British Embassy regularly holds events across Belgium for UK nationals. <a href="https://www.gov.uk/government/news/information-and-events-for-british-citizens-in-belgium" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Belgium.</p>
 
-<p>You can also:</p>
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
 
-<ul>
-  <li>read the 14 February 2019 update from the Belgian government on UK nationals’ <a rel="external" href="https://dofi.ibz.be/sites/dvzoe/EN/Application-guides/Pages/Brexit-Deal.aspx" class="govuk-link">rights to reside</a>
-</li>
-  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the EU: prepare for Brexit</a>
-</li>
-</ul>
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the UK’s withdrawal from the EU and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the EU broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in Belgium at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Belgium.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information.</p>
+
+<p>In the meantime, make sure you are registered as a resident in Belgium. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="residency">Visas and residency</h2>
 
 <p>Check the <a href="https://www.gov.uk/foreign-travel-advice/belgium/entry-requirements" class="govuk-link">entry requirements for Belgium</a>.</p>
 
 <p>You must carry photographic ID at all times.</p>
+
+<h3 id="residency">Residency</h3>
 
 <p>You must register at your local town hall (commune/gemeente) within 8 days of arriving in Belgium. You might be asked to bring:</p>
 
@@ -194,36 +212,50 @@
 
 <p>The police will verify your address by making a house call. If you’re not at home when a police officer calls, the officer will leave a card giving you an appointment at your local police station.</p>
 
-<p>Once the police have verified your address, you’ll get a statement of registration and you can apply for an electronic residence card, valid for 5 years, at a cost of around €20.</p>
+<p>Once the police have verified your address, you’ll get a statement of registration and you can apply for an electronic residence card, valid for 5 years, at a cost of around €20. You must inform your commune/gemeente of any change in circumstances. For example, if you change address or your marital status, so that registration can be kept up-to-date. The same rules apply to children.</p>
 
-<p>There are many types of residency cards in Belgium, the following are the most relevant for UK nationals resident in Belgium:</p>
+<p>There are many types of residency cards in Belgium, the following are currently the most relevant for UK nationals resident in Belgium:</p>
 
 <ul>
   <li>E card: for EU citizens resident in Belgium less than 5 years</li>
   <li>E+ card: for EU citizens resident in Belgium more than 5 years</li>
-  <li>F card: for non-EU spouses of an EU citizen, resident in Belgium less than 5 years</li>
-  <li>F+ card: for non-EU spouses of an EU citizen, resident in Belgium more than 5 years</li>
+  <li>F card: for non-EU family members (e.g. spouses) of an EU citizen, resident in Belgium less than 5 years</li>
+  <li>F+ card: for non-EU family members (e.g. spouses) of an EU citizen, resident in Belgium more than 5 years</li>
 </ul>
 
-<h3 id="residency-after-brexit">Residency after Brexit</h3>
+<p>All UK nationals resident in Belgium at the end of the transition period will need to obtain a new residency card that indicates that their rights are covered under the Withdrawal Agreement.</p>
 
-<p>During the implementation period, you will receive a letter from your commune/gemeente explaining how to obtain a new residency card.</p>
+<p>You will receive a letter from your Commune/Gemeente before 31 December 2020 explaining how to get this new residency card. You do not need to take any action until you receive this letter.</p>
 
-<p>There will be no change in residency rules or registration procedures if you arrive in Belgium before the end of the implementation period on 31 December 2020. UK nationals legally resident in Belgium before the implementation period ends will be able to stay.</p>
+<p>There will be no change in residency rules or registration procedures if you arrive in Belgium before 1 January 2021. UK nationals legally resident in Belgium that have started the registration process at the local town hall before the transition period ends will be able to stay.</p>
 
-<p>Read the Belgian government’s <a rel="external" href="https://dofi.ibz.be/sites/dvzoe/EN/Application-guides/Pages/Brexit-Deal.aspx" class="govuk-link">guidance on residency rights if there is a deal</a>.</p>
+<p>Read the Belgian government’s <a rel="external" href="https://dofi.ibz.be/sites/dvzoe/EN/Application-guides/Pages/Brexit-Deal.aspx" class="govuk-link">guidance on residency rights</a>.</p>
 
-<p>Please note that residency is separate to nationality.</p>
+<p>Please note that residency is separate to citizenship.</p>
+
+<h3 id="special-id-card-holders">Special ID card holders</h3>
+
+<p>If you are resident in Belgium on a special ID card (“P” card) before 31 December 2020, you will also be considered to be in scope of the Withdrawal Agreement. Should you wish to, you will be entitled to register with your commune/gemeente and obtain the new residency card. You will still be able to do this after the end of the transition period.</p>
+
+<p><a rel="external" href="https://diplomatie.belgium.be/en/services/Protocol/brexit/deal" class="govuk-link">Read the Belgian government’s guidance on special ID card holders.</a></p>
 
 <h2 id="healthcare">Healthcare</h2>
 
-<p>You must register with a healthcare insurer (mutuelle/ziekenfonds) to access the healthcare system if you are resident in Belgium. If you are working, both you and your employer will make contributions to your social security and healthcare system through the mutuelle/ziekenfonds. The amount you have to pay is set by the Belgian government.</p>
+<p>If you are living in Belgium or move there permanently before 31 December 2020 you’ll have life-long healthcare rights in Belgium as you do now, provided you remain resident.</p>
 
-<p>Read the guidance on who can <a href="https://www.gov.uk/guidance/healthcare-in-belgium/" class="govuk-link">access healthcare in Belgium and how to register.</a></p>
+<p>You must register with a healthcare insurer (mutuelle/ziekenfonds) to access the healthcare system if you are resident in Belgium. If you are working, both you and your employer will make contributions to your social security and healthcare system through the mutuelle/ziekenfonds. The amount you have to pay is set by the Belgian government.</p>
 
 <p>When you visit a doctor or pharmacist, you need to pay and then send the receipt to your mutuelle/ziekenfonds. The amount you’ll be refunded depends on the health services covered by your insurance.</p>
 
+<p>Check the <a rel="external" href="https://www.belgium.be/en/brexit/i_am_private_citizen/british_citizens_belgium/health_and_social_security_entitlements" class="govuk-link">Belgian government guidance on health and social security entitlements</a>.</p>
+
+<p>Read our guidance on who can <a href="https://www.gov.uk/guidance/healthcare-in-belgium/" class="govuk-link">access healthcare in Belgium and how to register</a>.</p>
+
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
 <p>If you live in Belgium and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p><a href="https://www.gov.uk/guidance/healthcare-in-belgium#s1" class="govuk-link">Read our guidance on how to get an S1 form.</a></p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
 
@@ -238,39 +270,53 @@
 </li>
 </ul>
 
-<p>If you are a student, <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">read the NHS guidance on healthcare and studying abroad</a>.</p>
-
-<p>You can <a href="https://www.gov.uk/government/publications/belgium-list-of-medical-facilitiespractitioners" class="govuk-link">find English-speaking doctors</a> in Belgium.</p>
-
-<p><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">Check your prescriptions are legal</a> in Belgium.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
 <p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time.</p>
 
-<p>If you are living in Belgium or move there permanently before 31 December 2020 you’ll have life-long healthcare rights in Belgium as you do now, provided you remain resident.</p>
+<p>You should also read guidance on:</p>
 
-<p>Check the <a rel="external" href="https://www.belgium.be/en/brexit/i_am_private_citizen/british_citizens_belgium/health_and_social_security_entitlements" class="govuk-link">Belgian government guidance on health and social security entitlements</a>.</p>
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li><a href="https://www.gov.uk/foreign-travel-advice/belgium/health" class="govuk-link">health advice for Belgium</a></li>
+  <li>finding <a href="https://www.gov.uk/government/publications/belgium-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctors in Belgium</a>
+</li>
+  <li><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking if your prescriptions are legal</a></li>
+</ul>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time, you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
+
 <p><a href="https://www.gov.uk/overseas-passports" class="govuk-link">You can apply for or renew your British passport online</a> from Belgium.</p>
 
-<p>Read <a href="https://www.gov.uk/foreign-travel-advice/belgium" class="govuk-link">travel advice for Belgium</a> and <a href="https://www.gov.uk/foreign-travel-advice/belgium/email-signup" class="govuk-link">sign up to email alerts for up-to-date travel information</a> on local laws and customs, safety and emergencies.</p>
+<h3 id="passports-from-1-january-2021">Passports from 1 January 2021</h3>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+<p><a href="https://www.gov.uk/check-a-passport-travel-europe-1-january-2021" class="govuk-link">Check your passport is valid for travel</a> before you book your trip.</p>
 
-<p><a href="https://www.gov.uk/check-a-passport-for-travel-to-europe" class="govuk-link">Check your passport is valid for travel</a> before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+<p>From 1 January 2021, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). This requirement does not apply if you are entering or transiting to Belgium, and you are in scope of the Withdrawal Agreement.</p>
 
-<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the Schengen area or elsewhere in the EU with your UK passport.</p>
+<p>You will need to <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
 
-<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-belgium" class="govuk-link">sign up for updates</a> to this guidance.</p>
+<p>As a non-EEA national, different border checks will apply when travelling to other EU or Schengen area countries. You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from EU, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
+
+<h3 id="entry-requirements">Entry requirements</h3>
+
+<p>From 1 January 2021, you will be able to travel to other Schengen area countries for up to 90 days in any 180-day period without a visa for purposes such as tourism. This is a rolling 180-day period.</p>
+
+<p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
+
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and the Ireland will not change.</p>
+
+<p>Different rules will apply to EU countries that are not part of the Schengen Area. <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">Check each country’s travel advice page</a> for information on entry requirements.</p>
 
 <h2 id="driving-in-belgium">Driving in Belgium</h2>
 
-<p>If you are a resident in Belgium, <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/belgium/index_en.htm" class="govuk-link">exchange your UK licence for a Belgian driving licence</a>. You can still use your Belgian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
+
+<p>If you are a resident in Belgium, you should <a rel="external" href="https://mobilit.belgium.be/en/road_traffic/driving_licence/brexit" class="govuk-link">exchange your UK licence for a Belgian driving licence</a>. You can still use your Belgian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
 <p>For information on driving in Belgium, read the guidance on:</p>
 
@@ -301,48 +347,40 @@
 
 <p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk" class="govuk-link">taking a vehicle out of the UK</a>.</p>
 
-<p>If you spend more than 6 months of the year in Belgium with your UK-registered car, you must <a rel="external" href="https://www.belgium.be/fr/mobilite/vehicules/immatriculation/bureaux_de_la_div" class="govuk-link">register your vehicle with the Belgian authorities (in French)</a>. You can read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/belgium/index_en.htm" class="govuk-link">car registration rules and taxes</a>. You may be exempt from some of these taxes. If so you will need certificates of exemption.</p>
-
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
+<p>If you are registered as a resident in Belgium, you must <a rel="external" href="https://www.belgium.be/fr/mobilite/vehicules/immatriculation" class="govuk-link">register your vehicle with the Belgian authorities</a>. You can read the European Union’s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/belgium/index_en.htm" class="govuk-link">car registration rules and taxes</a>. You may be exempt from some of these taxes. If so you will need certificates of exemption.</p>
 
 <h2 id="working-in-belgium">Working in Belgium</h2>
 
-<p>If you are registered as a resident in Belgium you have the right to work in Belgium. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
+<p>If you are registered as a resident in Belgium you have the right to work in Belgium. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an EU country</a>.</p>
 
 <p>To apply for a job you may need to apply for a:</p>
 
 <ul>
   <li><a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK police certificate</a></li>
-  <li>Belgian criminal records certificate (extrait de casier judiciaire/uittreksel uit het strafregister), which you can request at your local town hall (commune/gemeente)</li>
+  <li>Belgian criminal records certificate (‘extrait de casier judiciaire’/’uittreksel uit het strafregister’), which you can request at your local town hall (commune/gemeente)</li>
 </ul>
 
-<h3 id="working-in-belgium-after-brexit">Working in Belgium after Brexit</h3>
-
-<p>You will maintain your right to work, as long as you remain legally resident in Belgium.</p>
+<p>If you are resident in Belgium on or before 31 December 2020, you will maintain your right to work, as long as you remain resident in Belgium.</p>
 
 <h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
 
-<h3 id="studying-in-belgium-after-brexit">Studying in Belgium after Brexit</h3>
+<p>If you are resident in Belgium on or before 31 December 2020, your right to study in Belgium will stay the same, as long as you remain resident.</p>
 
-<p>Your right to study in Belgium will stay the same, as long as you remain legally resident in Belgium.</p>
-
-<p>For more information <a href="https://www.gov.uk/guidance/studying-in-the-european-union-after-brexit" class="govuk-link">read studying in the European Union after Brexit</a>.</p>
+<p>For more information read <a href="https://www.gov.uk/guidance/studying-in-the-european-union-after-brexit" class="govuk-link">studying in the European Union</a>.</p>
 
 <h3 id="professional-qualifications">Professional qualifications</h3>
 
-<p>The European Commission has published <a rel="external" href="https://ec.europa.eu/info/sites/info/files/slides_professional-qualifications-ip-justice-consumers_en.pdf" class="govuk-link">guidance on professional qualifications</a>.</p>
+<p>If you have already been recognised by an EU country as holding valid professional qualifications, this will remain valid after 31 January 2020.</p>
 
-<p>If you have already been recognised by an EU country as holding valid professional qualifications, this will remain valid after Brexit.</p>
-
-<p>If you have not had your professional qualifications recognised, you will have until the end of the implementation period on 31 December 2020 to submit an application under the current rules.</p>
+<p>If you have not had your professional qualifications recognised, you can submit an application under the current rules until 31 December 2020.</p>
 
 <p>If you need to take action to secure the recognition of your academic or professional qualification in Belgium, <a rel="external" href="https://business.belgium.be/en/managing_your_business/qualifications_professionnelles" class="govuk-link">visit the Business Belgium website</a>.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The UK has a double-taxation agreement with Belgium to ensure people do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
+<p>The UK has a double taxation agreement with Belgium to ensure you do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in Belgium have not changed.</p>
 
 <p>Read guidance about:</p>
 
@@ -354,6 +392,8 @@
 
 <p>You should get professional advice on paying tax in Belgium.</p>
 
+<h3 id="declaration-of-assets">Declaration of assets</h3>
+
 <p>All residents must declare assets outside Belgium, including bank accounts, securities, rights, insurance, annuities and property. The declaration is separate to the annual tax return, and there are severe penalties and criminal charges if you do not comply.</p>
 
 <h3 id="national-insurance">National Insurance</h3>
@@ -362,15 +402,9 @@
 
 <p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Belgium.</p>
-
 <h2 id="pensions">Pensions</h2>
 
 <p>Tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you retire in Belgium, you can claim:</p>
 
@@ -384,21 +418,25 @@
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-december-2020">Pensions after 31 December 2020</h3>
 
-<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
+<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
-<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the new <a href="https://www.gov.uk/new-state-pension" class="govuk-link">State Pension guidance</a>.</p>
 
 <p>If you are living in Belgium by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your UK State Pension.</p>
 
-<p>If you work and pay social security contributions in Belgium, you will still be able to add your UK social security contributions towards your Belgian pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Belgium, you will be able to add your UK social security contributions towards your Belgian pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>If you are considering moving to Belgium on or after 1 January 2020 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and may change. <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">Check our guidance on benefits and pensions in the EU.</a></p>
+
+<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
+<p>Tell the UK government offices that deal with your benefits, pension and tax if you are moving or retiring abroad.</p>
 
-<p>You may still be able to claim some UK benefits like child and disability benefits if you live in Belgium.</p>
+<p>You may be able to claim some UK benefits like child and disability benefits if you live in Belgium.</p>
 
 <p>You should:</p>
 
@@ -422,25 +460,21 @@
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you’ve worked in the UK from HMRC</a> if you are asked for this.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-december-2020">Benefits after 31 December 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Belgium, your UK social security contributions will be taken into account when applying for Belgian contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Belgium, your UK social security contributions will be taken into account when applying for Belgian contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>If you are considering moving to Belgium on or after 1 January 2020 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and may change.[Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU.</a></p>
 
 <h2 id="voting">Voting</h2>
 
-<p>You may be able to vote in some UK elections.</p>
+<p>If you have been resident in Belgium for more than 5 years, you can vote in local elections.</p>
 
-<p>You can:</p>
-
-<ul>
-  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
-  <li>
-<a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
-</ul>
-
-<p>Whilst the UK is a member of the EU, if you’re resident in Belgium, <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">you can vote and stand in Belgian local municipal and European parliamentary elections</a>. To do so, you must:</p>
+<p>To do so, you must:</p>
 
 <ul>
   <li>register on the municipal register where you live</li>
@@ -448,13 +482,15 @@
   <li>confirm your status every 2 to 5 years to remain registered and be able to vote</li>
 </ul>
 
-<p>You cannot vote in federal or regional elections in Belgium.</p>
+<p>You cannot vote in federal or regional elections in Belgium or European Parliament elections.</p>
 
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
+<p>You may be able to vote in some UK elections. For this, you can:</p>
 
-<p>UK nationals resident in Belgium will no longer be eligible to vote in European Parliament elections after Brexit.</p>
-
-<p>UK nationals resident in Belgium for more than 5 years will continue to be able to vote in local elections after Brexit.</p>
+<ul>
+  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
+  <li>
+<a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
+</ul>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
@@ -488,11 +524,11 @@
 
 <h2 id="pets">Pets</h2>
 
-<p>Current pet travel rules will stay the same during the implementation perioduntil 31 December 2020.</p>
+<p>Current pet travel rules will stay the same during the transition period until 31 December 2020.</p>
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p><a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">Read guidance on pet travel.</a></p>
+<p><a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">Read guidance on bringing your pet to the UK.</a></p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -513,11 +549,11 @@
 
 <h4 id="if-you-have-further-questions">If you have further questions</h4>
 
-<p><a rel="external" href="https://www.contact-embassy.service.gov.uk/?country=Belgium&post=British%20Embassy%20Brussels" class="govuk-link">Contact us through our web form if you have a specific question on how Brexit will affect your rights.</a></p>
+<p><a rel="external" href="https://www.contact-embassy.service.gov.uk/?country=Belgium&post=British%20Embassy%20Brussels" class="govuk-link">Contact us through our web form</a> if you have a specific question on living in Belgium.</p>
 
 <h3 id="disclaimer">Disclaimer</h3>
 
-<p>This information is provided as a guide only. Definitive information should be obtained from the Belgian authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information.</p>
+<p>This information is provided as a guide only. Definitive information should be obtained from the Belgian authorities. The Foreign, Commonwealth & Development Office will not be liable for any inaccuracies in this information.</p>
 </div>
 </div>
 
@@ -525,10 +561,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 May 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 7 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-07T14:05:24.000+01:00">7 September 2020</time>
+              <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T16:47:37.000+00:00">23 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
@@ -613,8 +653,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -622,48 +662,48 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-7e05ea87" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-19265bb5" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7e05ea87" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-19265bb5" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-cyprus" data-track-options="{"dimension28":"5","dimension29":"Living in Cyprus"}" href="/guidance/living-in-cyprus">Living in Cyprus</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-ireland" data-track-options="{"dimension28":"5","dimension29":"Living in Ireland"}" href="/guidance/living-in-ireland">Living in Ireland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-bulgaria" data-track-options="{"dimension28":"5","dimension29":"Living in Bulgaria"}" href="/guidance/living-in-bulgaria">Living in Bulgaria</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-norway" data-track-options="{"dimension28":"5","dimension29":"Living in Norway"}" href="/guidance/living-in-norway">Living in Norway</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-cyprus" data-track-options="{"dimension28":"5","dimension29":"Living in Cyprus"}" href="/guidance/living-in-cyprus">Living in Cyprus</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-7e05ea87" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-19265bb5" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-7e05ea87" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-19265bb5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-belgium" data-track-options="{"dimension28":"2","dimension29":"Belgium: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-belgium">Belgium: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-belgium" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Belgium"}" href="/guidance/healthcare-in-belgium">Healthcare in Belgium</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-belgium" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Belgium"}" href="/guidance/healthcare-in-belgium">Healthcare for UK nationals living in Belgium</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-7e05ea87" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-19265bb5" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-7e05ea87" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-19265bb5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -695,9 +735,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-89fbf130" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-447c6501" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-89fbf130" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-447c6501" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
