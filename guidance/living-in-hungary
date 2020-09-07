@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Hungary
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Hungary, including guidance on Brexit, residency, healthcare and driving.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Hungary, including guidance on residency, healthcare, driving and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>
                 </span>
             </dd>
         </dl>
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,75 +62,83 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#driving-in-hungary" data-track-options="{"dimension29":"Driving in Hungary"}" href="#driving-in-hungary">Driving in Hungary</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-hungary" data-track-options="{"dimension29":"Working in Hungary"}" href="#working-in-hungary">Working in Hungary</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#driving-in-hungary" data-track-options="{"dimension29":"Driving in Hungary"}" href="#driving-in-hungary">Driving in Hungary</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-in-hungary" data-track-options="{"dimension29":"Working in Hungary"}" href="#working-in-hungary">Working in Hungary</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#other-useful-information" data-track-options="{"dimension29":"Other useful information"}" href="#other-useful-information">Other useful information</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#other-useful-information" data-track-options="{"dimension29":"Other useful information"}" href="#other-useful-information">Other useful information</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 20" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -140,7 +149,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <ul>
   <li>
@@ -150,9 +159,13 @@
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the Hungarian Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/hungary" class="govuk-link">Hungary travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-hungary" class="govuk-link">email alerts on living in Hungary</a>
@@ -163,16 +176,26 @@
 
 <h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
 
-<p>The British Embassy regularly holds events across Hungary for UK nationals. <a href="https://www.gov.uk/government/news/information-and-events-for-british-citizens-in-hungary" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Hungary after Brexit.</p>
+<p>The British Embassy regularly holds events across Hungary for UK nationals. <a href="https://www.gov.uk/government/news/information-and-events-for-british-citizens-in-hungary" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Hungary.</p>
 
 <p>You can also:</p>
 
 <ul>
-  <li>read the <a rel="external" href="https://brexit.kormany.hu/information-for-uk-nationals-and-their-family-members" class="govuk-link">Hungarian government’s guidance on Brexit</a>
-</li>
-  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the EU: prepare for Brexit</a>
+  <li>read the <a rel="external" href="https://brexit.kormany.hu/information-for-uk-nationals-and-their-family-members" class="govuk-link">Hungarian government’s guidance for UK nationals living in Hungary</a>
 </li>
 </ul>
+
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
+
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the UK’s withdrawal from the EU and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the EU broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in Hungary at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Hungary.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information</p>
+
+<p>In the meantime, make sure you are registered as a resident in Hungary. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
@@ -180,39 +203,38 @@
 
 <p>You must carry your ID or passport at all times – a copy of your ID or passport won’t be accepted.</p>
 
-<p>If you’re staying more than 3 months, you must register at your local <a rel="external" href="http://www.bmbah.hu/index.php?lang=en" class="govuk-link">National Directorate General for Aliens Policing</a> (Országos Idegenrendésztei Főigazgatóság).</p>
+<h3 id="residency">Residency</h3>
+<p>If you are resident in Hungary before the transition period ends on 31 December 2020, you will be able to stay. The Hungarian government is committed to protecting the current rights of UK nationals legally resident in Hungary from 31 December 2020.</p>
+
+<p>If you’re staying more than 3 months, you must register at your local <a rel="external" href="http://www.bmbah.hu/index.php?lang=en" class="govuk-link">National Directorate General for Aliens Policing</a> (Országos Idegenrendészeti Főigazgatóság).</p>
 
 <p>You should receive your registration certificate on the spot; your address card will be delivered through the post.</p>
 
 <p>If you move to a different town in Hungary, you must register your address again at the local registry office <a rel="external" href="https://kormanyablak.hu/hu" class="govuk-link">(Kormányablak)</a>.</p>
 
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
+<p>For more information read the Hungarian government’s <a rel="external" href="https://brexit.kormany.hu/information-for-uk-nationals-and-their-family-members" class="govuk-link">guidance for UK nationals living in Hungary.</a></p>
 
-<p>If you are resident in Hungary before the end of the implementation period on 31 December 2020, you will be able to stay. The Hungarian government is committed to protecting the current rights of UK nationals legally resident in Hungary from 31 December 2020.</p>
-
-<p>For more information read the Hungarian government’s <a rel="external" href="https://brexit.kormany.hu/information-for-uk-nationals-and-their-family-members" class="govuk-link">guidance on Brexit.</a></p>
-
-<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
+<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available.</p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
-<p><a href="https://www.gov.uk/overseas-passports" class="govuk-link">Apply for or renew your British passport</a> from Hungary.</p>
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
 
-<p>See our <a href="https://www.gov.uk/foreign-travel-advice/hungary" class="govuk-link">travel advice for Hungary</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
+<p><a href="https://www.gov.uk/overseas-passports" class="govuk-link">Apply for or renew your British passport online</a> from Hungary.</p>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
-
-<p><a href="https://www.gov.uk/check-a-passport-for-travel-to-europe" class="govuk-link">Check your passport is valid for travel</a> before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
 
 <p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport before travelling</a> if you do not have enough time left on your passport.</p>
-
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
 
 <p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-hungary" class="govuk-link">sign up for updates</a> to this guidance.</p>
 
 <h2 id="driving-in-hungary">Driving in Hungary</h2>
 
-<p>If you are a resident in Hungary, you must exchange your UK licence for a Hungarian driving licence before the UK leaves the EU. You can still use your Hungarian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
+
+<p>Holders of UK driving licences who are resident in Hungary may use their UK licence for a period of one year from the date their residence in Hungary began. After one year, they should exchange their UK licence for a local driving licence. There is no requirement to retake any exams during this process, both for EU and non-EU citizens.</p>
+
+<p>You can still use your Hungarian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
 <p>Read the guidance on:</p>
 
@@ -235,27 +257,31 @@
   <li>first aid kit</li>
 </ul>
 
-<p>Holders of UK driving licences who are resident in Hungary may use their UK licence for a period of one year from the date their residence in Hungary began. After one year, they should exchange their UK licence for a local driving licence. There is no requirement to retake any exams during this process, both for EU and non-EU citizens.</p>
-
 <h3 id="bringing-a-uk-registered-vehicle-to-hungary">Bringing a UK-registered vehicle to Hungary</h3>
 
 <p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk" class="govuk-link">taking a vehicle out of the UK</a>.</p>
 
 <p>Read the <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/hungary/index_en.htm" class="govuk-link">European Union’s guidance on car registration and taxes in Hungary</a>. You may be exempt from some of these taxes. If so you will need certificates of exemption.</p>
 
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
-
 <h2 id="healthcare">Healthcare</h2>
+
+<p>If you are living in Hungary or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Hungary as you do now, provided you remain resident.</p>
 
 <p>You must be registered for healthcare as a resident in Hungary, and if necessary, healthcare insurance.</p>
 
-<p>Read the guidance on who is able to <a href="https://www.gov.uk/guidance/healthcare-in-hungary" class="govuk-link">access healthcare in Hungary and how to register</a>.</p>
-
-<p>If you are employed in Hungary, state health insurance is normally arranged through your employer. Insurance contributions will be deducted from your wages. If you’re self-employed, you can arrange to make <a rel="external" href="http://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/az_egsszsegbiztositas_szolgaltatasaira_jogosultak/egeszsegugyi_szolgaltatasi_jarulekfizetes/egeszsegugyi_szolgaltatasi_jarulek.html#Ki%20k%C3%B6teles%20eg%C3%A9szs%C3%A9g%C3%BCgyi%20szolg%C3%A1ltat%C3%A1si%20j%C3%A1rul%C3%A9" class="govuk-link">voluntary contributions</a> through the National Tax and Customs Administration Office.</p>
+<p>If you are employed in Hungary, state health insurance is normally arranged through your employer. Insurance contributions will be deducted from your wages. If you’re self-employed, you can arrange to make <a rel="external" href="http://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/az_egsszsegbiztositas_szolgaltatasaira_jogosultak/egeszsegugyi_szolgaltatasi_jarulekfizetes/egeszsegugyi_szolgaltatasi_jarulek.html#Ki%20k%C3%B6teles%20eg%C3%A9szs%C3%A9g%C3%BCgyi%20szolg%C3%A1ltat%C3%A1si%20j%C3%A1rul%C3%A9" class="govuk-link">voluntary contributions</a> (in Hungarian) through the National Tax and Customs Administration Office.</p>
 
 <p>If you’re seconded to Hungary by your company, there are special rules regarding health insurance. You should contact your company’s HR department.</p>
+
+<p>The Hungarian government has committed to protecting the current rights of UK nationals. Find more information on the <a rel="external" href="https://brexit.kormany.hu/information-for-uk-nationals-and-their-family-members" class="govuk-link">Hungarian government’s dedicated website.</a></p>
+
+<p>Read our guidance on who is able to <a href="https://www.gov.uk/guidance/healthcare-in-hungary" class="govuk-link">access healthcare in Hungary and how to register.</a></p>
+
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
+<p>If you live in Hungary and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>Read our guidance on <a href="https://www.gov.uk/guidance/healthcare-in-hungary#s1" class="govuk-link">how to get an S1 form.</a></p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</h3>
 
@@ -270,51 +296,47 @@
 </li>
 </ul>
 
-<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+<p>You should also read guidance on:</p>
 
-<p>If you live in Hungary and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
-
-<p>If you are a student, read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">NHS guidance on healthcare and studying abroad</a>.</p>
-
-<p>You can <a href="https://www.gov.uk/government/publications/hungary-list-of-medical-facilitiespractitioners" class="govuk-link">find an English-speaking doctor in Hungary</a>.</p>
-
-<p><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">Check your prescriptions are legal</a> in Hungary.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your <abbr title="European Health Insurance Card">EHIC</abbr>, as you did before, during this time.</p>
-
-<p>If you are living in Hungary or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Hungary as you do now, provided you remain resident.</p>
-
-<p>The Hungarian government has committed to protecting the current rights of UK nationals. Find more information on the Hungarian government’s <a rel="external" href="https://brexit.kormany.hu/information-for-uk-nationals-and-their-family-members" class="govuk-link">dedicated website.</a></p>
+<ul>
+  <li>
+    <p><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/government/publications/hungary-list-of-medical-facilitiespractitioners" class="govuk-link">finding an English-speaking doctor in Hungary</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">Checking your prescriptions are legal in Hungary</a></p>
+  </li>
+</ul>
 
 <h2 id="working-in-hungary">Working in Hungary</h2>
 
-<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an EU country</a>.</p>
 
 <p>You may need to apply for a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK police certificate</a>.</p>
 
-<h3 id="working-in-hungary-after-brexit">Working in Hungary after Brexit</h3>
-
-<p>Your right to work will stay the same, as long as you remain resident in Hungary.</p>
+<p>If you are resident in Hungary on or before 31 December 2020, your right to work will stay the same, as long as you remain resident in Hungary.</p>
 
 <h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
 
-<h3 id="studying-in-hungary">Studying in Hungary</h3>
+<p>If you are resident in Hungary on or before 31 December 2020, your right to study in Hungary will stay the same, as long as you remain resident in Hungary.</p>
 
-<p>Your right to study in Hungary will stay the same, as long as you remain resident in Hungary.</p>
-
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/uk-students-in-the-eu-continuing-your-studies" class="govuk-link">continuing your studies in the European Union after Brexit</a>.</p>
+<p>Read the guidance on <a href="https://www.gov.uk/guidance/uk-students-in-the-eu-continuing-your-studies" class="govuk-link">continuing your studies in the European Union.</a></p>
 
 <h3 id="professional-qualifications">Professional qualifications</h3>
 
-<p>Professional qualifications from the UK, or an EU country, will remain valid if they have been recognised by the Hungarian authorities before 31 December 2020.</p>
+<p>If you have already been recognised by an EU country as holding valid professional qualifications, this will remain valid after 31 January 2020.</p>
+
+<p>If you have not had your professional qualifications recognised, you can submit an application under the current rules until 31 December 2020.</p>
 
 <p>Read the Hungarian government’s <a rel="external" href="https://brexit.kormany.hu/conditions-of-employment-recognition-of-professional-qualifications" class="govuk-link">guidance on how to request recognition of your qualifications</a>.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The UK has a double-taxation agreement with Hungary to ensure people do not pay tax on the same income in both countries.</p>
+<p>The UK has a double taxation agreement with Hungary to ensure people do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in Hungary have not changed following the UK’s withdrawal from the EU.</p>
 
 <p>Read guidance on:</p>
 
@@ -336,11 +358,7 @@
 
 <p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
 
-<p>If you are employed or self-employed in the EU and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
-
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Hungary. Send your questions about double taxation to the relevant tax authority.</p>
+<p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
 <h2 id="pensions">Pensions</h2>
 
@@ -360,19 +378,23 @@
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-december-2020">Pensions after 31 December 2020</h3>
 
-<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
+<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
-<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions.</a></p>
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance.</a></p>
 
 <p>If you are living in Hungary by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your UK State Pension.</p>
 
-<p>If you work and pay social security contributions in Hungary, you will still be able to add your UK social security contributions towards your Hungarian pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Hungary, you will still be able to add your UK social security contributions towards your Hungarian pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>If you are considering moving to Hungary on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and may change. Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU.</a></p>
+
+<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">moving or retiring abroad.</a></p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in Hungary.</p>
 
@@ -391,26 +413,29 @@
 
 <p>Under existing Hungarian legislation, Hungarian citizens (including those who have repatriated to Hungary and persons holding dual nationality) as well as citizens of other EU Member States over the age of 65 years can travel free of charge on public transport services in Hungary, including BKV in Budapest.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-december-2020">Benefits after 31 December 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Hungary, your UK social security contributions will be taken into account when applying for Hungarian contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Hungary, your UK social security contributions will be taken into account when applying for Hungarian contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>If you are considering moving to Hungary on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and may change. 
+Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU.</a></p>
 
 <h2 id="voting">Voting</h2>
+
+<p>If you are permanent resident in Hungary before the transition period ends on 31 December 2020 you can vote in local municipal elections.</p>
+
+<p>You cannot vote in European Parliament elections.</p>
 
 <p>You may be able to vote in some UK elections.</p>
 
 <ul>
-  <li><a rel="external" href="https://www.yourvotematters.co.uk/can-i-vote/overseas" class="govuk-link">check if you are able to vote</a></li>
+  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
   <li><a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter if you would like to vote</a></li>
 </ul>
-
-<p>If you’re resident in Hungary, you can <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">vote in local municipal and European Parliamentary Elections</a>.</p>
-
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
-
-<p>After Brexit, if you are resident in Hungary you will continue to be able to vote in local elections. You will no longer be eligible to vote in European Parliament elections.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
@@ -441,7 +466,7 @@
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel.</a></p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet to the UK.</a></p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -480,7 +505,7 @@
 
 <h3 id="disclaimer">Disclaimer</h3>
 
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Hungarian authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information.</p>
+<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Hungarian authorities. The Foreign, Commonwealth & Development Office will not be liable for any inaccuracies in this information.</p>
 
 </div>
 </div>
@@ -593,8 +618,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -602,48 +627,48 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-1175a3b8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-d0add4bd" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1175a3b8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d0add4bd" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks" data-track-options="{"dimension28":"5","dimension29":"Townhall meeting for British nationals - opening remarks"}" href="/government/speeches/townhall-meeting-for-british-nationals-opening-remarks">Townhall meeting for British nationals - opening remarks</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-slovakia" data-track-options="{"dimension28":"5","dimension29":"Living in Slovakia"}" href="/guidance/living-in-slovakia">Living in Slovakia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-estonia" data-track-options="{"dimension28":"5","dimension29":"Living in Estonia"}" href="/guidance/living-in-estonia">Living in Estonia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-latvia" data-track-options="{"dimension28":"5","dimension29":"Living in Latvia"}" href="/guidance/living-in-latvia">Living in Latvia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-1175a3b8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-d0add4bd" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-1175a3b8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-d0add4bd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-hungary" data-track-options="{"dimension28":"2","dimension29":"Hungary: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-hungary">Hungary: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-hungary" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Hungary"}" href="/guidance/healthcare-in-hungary">Healthcare in Hungary</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-hungary" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Hungary"}" href="/guidance/healthcare-in-hungary">Healthcare for UK nationals living in Hungary</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1175a3b8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d0add4bd" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-1175a3b8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-d0add4bd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -675,9 +700,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f52632d2" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-36a6892b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-f52632d2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-36a6892b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
