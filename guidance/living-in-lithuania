@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Lithuania
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Lithuania, including Brexit guidance, residency, healthcare and driving.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Lithuania, including guidance on residency, healthcare, driving and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 23 April 2018
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 7 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a> and <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>
                 </span>
             </dd>
         </dl>
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,67 +62,75 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#driving-in-lithuania" data-track-options="{"dimension29":"Driving in Lithuania"}" href="#driving-in-lithuania">Driving in Lithuania</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#driving-in-lithuania" data-track-options="{"dimension29":"Driving in Lithuania"}" href="#driving-in-lithuania">Driving in Lithuania</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-and-studying-in-lithuania" data-track-options="{"dimension29":"Working and studying in Lithuania"}" href="#working-and-studying-in-lithuania">Working and studying in Lithuania</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-and-studying-in-lithuania" data-track-options="{"dimension29":"Working and studying in Lithuania"}" href="#working-and-studying-in-lithuania">Working and studying in Lithuania</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -132,7 +141,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
@@ -141,17 +150,18 @@
     <p><a rel="external" href="https://www.migracija.lt/brexit" class="govuk-link">register as a resident</a> in Lithuania</p>
   </li>
   <li>
-    <p><a rel="external" href="https://www.regitra.lt/en/services/driving-licences/what-do-i-need-to-know-about-exchanging-driving-licence-after-brexit-without-agreement" class="govuk-link">exchange your UK driving licence</a> for a Lithuanian one</p>
-  </li>
-  <li>
-    <p>read the <a rel="external" href="https://vrm.lrv.lt/en/brexit-updated-2019-04-09" class="govuk-link">Brexit section on the Lithuanian Ministry of the Interior’s website</a></p>
+    <p><a rel="external" href="https://www.regitra.lt/en/services/driving-licences/what-do-i-need-to-know-about-exchanging-driving-licence-after-brexit" class="govuk-link">exchange your UK driving licence</a> for a Lithuanian one</p>
   </li>
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the Lithuanian Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/lithuania" class="govuk-link">Lithuania travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>follow British Embassy in Lithuania on <a rel="external" href="https://www.facebook.com/ukinlithuania" class="govuk-link">Facebook</a> and <a rel="external" href="https://twitter.com/ukinlithuania" class="govuk-link">Twitter</a>
@@ -162,25 +172,35 @@
 
 <h3 id="attend-an-outreach-event">Attend an outreach event</h3>
 
-<p>The British Embassy regularly holds events across Lithuania for UK nationals. <a href="https://www.gov.uk/government/news/events-for-british-citizens-in-lithuania" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Lithuania after Brexit.</p>
+<p>The British Embassy holds events across Lithuania for UK nationals. <a href="https://www.gov.uk/government/news/events-for-british-citizens-in-lithuania" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Lithuania.</p>
 
-<ul>
-  <li><a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">You can also read Living in the EU: prepare for Brexit</a></li>
-</ul>
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
+
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the UK’s withdrawal from the EU and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the EU broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in Lithuania at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Lithuania.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information</p>
+
+<p>In the meantime, make sure you are registered as a resident in Lithuania. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>Check the <a href="https://www.gov.uk/foreign-travel-advice/lithuania/entry-requirements" class="govuk-link">entry requirements for Lithuania</a>.</p>
 
+<h3 id="residency">Residency</h3>
+
+<p>If you are resident in Lithuania before the transition period ends on 31 December 2020, you will be able to stay.</p>
+
 <p>If you intend to live and work in Lithuania for longer than 3 months between January to June, or July to December, starting from your first day of entry into Lithuania, you must apply for a residence permit from the <a rel="external" href="https://www.migracija.lt/brexit" class="govuk-link">Migration Department</a> under the Ministry of Interior of the Republic of Lithuania.</p>
 
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
-
-<p>If you are resident in Lithuania before the end of the implementation period on 31 December 2020, you will be able to stay.</p>
-
-<p>If there are changes to residency rules or registration processes after Brexit, we will update this guidance as soon as information is available.</p>
+<p>If there are changes to residency rules or registration processes, we will update this guidance as soon as information is available.</p>
 
 <h2 id="driving-in-lithuania">Driving in Lithuania</h2>
+
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
 
 <p>If you are a resident in Lithuania you should exchange your UK licence for a Lithuanian licence. You can still use your Lithuanian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
@@ -192,37 +212,55 @@
   <li><a href="https://www.gov.uk/foreign-travel-advice/lithuania/safety-and-security" class="govuk-link">road travel in Lithuania</a></li>
 </ul>
 
-<h4 id="bringing-a-uk-registered-vehicle-to-lithuania">Bringing a UK-registered vehicle to Lithuania</h4>
+<h3 id="bringing-a-uk-registered-vehicle-to-lithuania">Bringing a UK-registered vehicle to Lithuania</h3>
 
 <p>Read the <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/lithuania/index_en.htm" class="govuk-link">EU’s guidance on car registration rules and taxes in Lithuania</a>.</p>
 
 <p>You may be exempt from some of these taxes. If so, you will need certificates of exemption.</p>
 
-<h4 id="driving-after-brexit">Driving after Brexit</h4>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
-
 <h2 id="passports-and-travel">Passports and travel</h2>
+
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
 
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from Lithuania</a>.</p>
 
-<h4 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h4>
+<h3 id="passports-from-1-january-2021">Passports from 1 January 2021</h3>
 
-<p><a href="https://www.gov.uk/check-a-passport-for-travel-to-europe" class="govuk-link">Check your passport is valid for travel</a> before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+<p><a href="https://www.gov.uk/check-a-passport-travel-europe-1-january-2021" class="govuk-link">Check your passport is valid for travel</a> before you book your trip.</p>
 
-<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+<p>From 1 January 2021, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). This requirement does not apply if you are entering or transiting to Lithuania, and you are in scope of the Withdrawal Agreement.</p>
 
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
-<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-lithuania" class="govuk-link">sign up for updates</a> to this guidance.</p>
+<p>You will need to <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+
+<p>As a non-EEA national, different border checks will apply when travelling to other EU or Schengen area countries. You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from EU, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
+
+<h3 id="entry-requirements">Entry requirements</h3>
+
+<p>From 1 January 2021, you will be able to travel to other Schengen area countries for up to 90 days in any 180-day period without a visa for purposes such as tourism. This is a rolling 180-day period.</p>
+
+<p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
+
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and the Ireland will not change.</p>
+
+<p>Different rules will apply to EU countries that are not part of the Schengen Area. Check each country’s <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice page</a> for information on entry requirements.</p>
 
 <h2 id="healthcare">Healthcare</h2>
 
+<p>If you’re living in Lithuania or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Lithuania as you do now, provided you remain resident.</p>
+
 <p>You must register for healthcare as a resident in Lithuania, and if necessary, for health insurance.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-lithuania" class="govuk-link">guidance on who can access healthcare in Lithuania and how to register</a>.</p>
 
 <h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
 <p>If you live in Lithuania and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You must apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-lithuania#s1" class="govuk-link">guidance on how to get an S1 form</a>.</p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
 
@@ -239,63 +277,56 @@
 </li>
 </ul>
 
-<p>If you are a student, read the NHS <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">guidance on healthcare and studying abroad</a>.</p>
-
-<p>Read our <a href="https://www.gov.uk/foreign-travel-advice/lithuania/health" class="govuk-link">health advice for Lithuania</a>.</p>
-
-<p>You can <a href="https://www.gov.uk/government/publications/lithuania-list-of-medical-facilitiespractitioners" class="govuk-link">find English-speaking doctors in Lithuania</a>.</p>
-
-<p><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">Check your prescriptions are legal</a> in Lithuania.</p>
-
-<h4 id="healthcare-after-brexit">Healthcare after Brexit</h4>
-
 <p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time.</p>
 
-<p>If you’re living in Lithuania or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Lithuania as you do now, provided you remain resident.</p>
+<p>You should also read guidance on:</p>
+
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li><a href="https://www.gov.uk/foreign-travel-advice/lithuania/health" class="govuk-link">health advice for Lithuania</a></li>
+  <li><a href="https://www.gov.uk/government/publications/lithuania-list-of-medical-facilitiespractitioners" class="govuk-link">finding English-speaking doctors in Lithuania</a></li>
+  <li>
+<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking your prescriptions are legal</a> in Lithuania</li>
+</ul>
 
 <h2 id="working-and-studying-in-lithuania">Working and studying in Lithuania</h2>
 
-<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an EU country</a>.</p>
 
 <p>You may need to <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">apply for a UK police certificate</a>.</p>
 
-<h4 id="working-in-lithuania-after-brexit">Working in Lithuania after Brexit</h4>
+<p>If you are resident in Lithuania on or before 31 December 2020, your right to work will remain the same, as long as you remain resident in Lithuania.</p>
 
-<p>Your right to work will remain the same, as long as you remain resident in Lithuania.</p>
+<h3 id="studying-in-lithuania">Studying in Lithuania</h3>
 
-<h4 id="studying-in-lithuania">Studying in Lithuania</h4>
-
-<p>Your right to study in Lithuania will remain the same, as long as you remain resident in Lithuania.</p>
+<p>If you are resident in Lithuania on or before 31 December 2020, your right to study in Lithuania will remain the same, as long as you remain resident in Lithuania.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The UK has a double-taxation agreement with Lithuania to ensure people do not pay tax on the same income in both countries.</p>
+<p>The UK has a double taxation agreement with Lithuania to ensure you do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in Lithuania have not changed.</p>
 
 <p>Read guidance on:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea" class="govuk-link">telling HMRC if you leave the UK to live abroad</a></li>
-  <li><a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice" class="govuk-link">tax on your UK income if you live abroad</a></li>
+  <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk" class="govuk-link">tax if you leave the UK to live abroad</a></li>
+  <li>paying <a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice" class="govuk-link">tax on your UK income if you live abroad</a>
+</li>
   <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/lithuania/index_en.htm" class="govuk-link">paying income tax in Lithuania by the European Union</a></li>
 </ul>
 
 <p>You should get professional advice on paying tax in Lithuania. <a href="https://www.gov.uk/government/publications/lithuania-list-of-lawyers" class="govuk-link">Find an English-speaking lawyer in Lithuania</a>.</p>
 
-<h4 id="national-insurance">National Insurance</h4>
+<h3 id="national-insurance">National Insurance</h3>
 
 <p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
 
 <p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
-<h4 id="money-and-tax-after-brexit">Money and tax after Brexit</h4>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Lithuania. Direct your questions about double-taxation relief to the relevant tax authority.</p>
-
 <h2 id="pensions">Pensions</h2>
 
 <p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<p>There will be no change before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you retire in Lithuania, you can claim:</p>
 
@@ -307,23 +338,27 @@
 </li>
 </ul>
 
-<h4 id="life-certificates-for-uk-state-pensions">Life certificates for UK State Pensions</h4>
+<h3 id="life-certificates-for-uk-state-pensions">Life certificates for UK State Pensions</h3>
 
 <p>If you get <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">a ‘life certificate’ form from the UK Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h4 id="pensions-after-brexit">Pensions after Brexit</h4>
+<h3 id="pensions-after-31-december-2020">Pensions after 31 December 2020</h3>
 
-<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
+<p>There will be no change before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
-<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in <a href="https://www.gov.uk/new-state-pension" class="govuk-link">the new State Pension guidance</a>.</p>
 
 <p>If you are living in Lithuania by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your UK State Pension.</p>
 
-<p>If you work and pay social security contributions in Lithuania, you will still be able to add your UK social security contributions towards your Lithuanian pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Lithuania, you will still be able to add your UK social security contributions towards your Lithuanian pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>If you are considering moving to Lithuania on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and may change. Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
+
+<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are moving or retiring abroad.</p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in Lithuania.</p>
 
@@ -340,13 +375,21 @@
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you’ve worked in the UK</a> from HMRC if you are asked for this.</p>
 
-<h4 id="benefits-after-brexit">Benefits after Brexit</h4>
+<h3 id="benefits-after-31-december--2020">Benefits after 31 December  2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Lithuania, your UK social security contributions will be taken into account when applying for Lithuanian contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Lithuania, your UK social security contributions will be taken into account when applying for Lithuanian contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>If you are considering moving to Lithuania on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and may change. Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
 
 <h2 id="voting">Voting</h2>
+
+<p>If you have been living in Lithuania for more than 5 years and are registered as a permanent resident, you can vote in local municipal elections.</p>
+
+<p>You cannot vote in European Parliament elections.</p>
 
 <p>You may be able to vote in some UK elections.</p>
 
@@ -355,12 +398,6 @@
   <li>
 <a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
 </ul>
-
-<p>If you’re resident in Lithuania, you can <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">vote in local municipal and European parliamentary elections</a>.</p>
-
-<h4 id="voting-after-brexit">Voting after Brexit</h4>
-
-<p>After Brexit, you will no longer be eligible to vote in local and European Parliament elections.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
@@ -396,7 +433,7 @@
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a>.</p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet to the UK</a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -412,7 +449,7 @@
 
 <h3 id="disclaimer">Disclaimer</h3>
 
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Lithuanian authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information.</p>
+<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Lithuanian authorities. The Foreign, Commonwealth & Development Office will not be liable for any inaccuracies in this information.</p>
 </div>
 </div>
 
@@ -420,10 +457,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 23 April 2018
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 7 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-07T12:48:18.000+01:00">7 September 2020</time>
+              <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T13:53:49.000+00:00">23 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
@@ -496,8 +537,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -505,48 +546,48 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-f6336f10" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-93ac2425" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f6336f10" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-93ac2425" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-norway" data-track-options="{"dimension28":"5","dimension29":"Living in Norway"}" href="/guidance/living-in-norway">Living in Norway</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-bulgaria" data-track-options="{"dimension28":"5","dimension29":"Living in Bulgaria"}" href="/guidance/living-in-bulgaria">Living in Bulgaria</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-f6336f10" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-93ac2425" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-f6336f10" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-93ac2425" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-in-lithuania" data-track-options="{"dimension28":"2","dimension29":"Lithuania: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-in-lithuania">Lithuania: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-lithuania" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Lithuania"}" href="/guidance/healthcare-in-lithuania">Healthcare in Lithuania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-lithuania" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Lithuania"}" href="/guidance/healthcare-in-lithuania">Healthcare for UK nationals living in Lithuania</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-f6336f10" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-93ac2425" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-f6336f10" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-93ac2425" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -578,9 +619,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-980f3028" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-47a5a87d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-980f3028" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-47a5a87d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
