@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in the Czech Republic
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to and living in the Czech Republic, including Brexit guidance, residency, healthcare and driving.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to and living in the Czech Republic, including guidance on residency, healthcare, driving and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 November 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 7 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a> and <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>
                 </span>
             </dd>
         </dl>
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,67 +62,75 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-and-studying-in-the-czech-republic" data-track-options="{"dimension29":"Working and studying in the Czech Republic"}" href="#working-and-studying-in-the-czech-republic">Working and studying in the Czech Republic</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#working-and-studying-in-the-czech-republic" data-track-options="{"dimension29":"Working and studying in the Czech Republic"}" href="#working-and-studying-in-the-czech-republic">Working and studying in the Czech Republic</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-the-czech-republic" data-track-options="{"dimension29":"Driving in the Czech Republic"}" href="#driving-in-the-czech-republic">Driving in the Czech Republic</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-marriages" data-track-options="{"dimension29":"Births, deaths and marriages"}" href="#births-deaths-and-marriages">Births, deaths and marriages</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#driving-in-the-czech-republic" data-track-options="{"dimension29":"Driving in the Czech Republic"}" href="#driving-in-the-czech-republic">Driving in the Czech Republic</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-marriages" data-track-options="{"dimension29":"Births, deaths and marriages"}" href="#births-deaths-and-marriages">Births, deaths and marriages</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -132,7 +141,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
@@ -142,69 +151,103 @@
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+<p>You should follow the advice of the Czech Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/czech-republic" class="govuk-link">Czech Republic travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>
-    <p><a href="https://www.gov.uk/email-signup/?topic=/world/living-in-czech-republic" class="govuk-link">sign up for email alerts</a> to this guidance</p>
-  </li>
-  <li>
-    <p>follow the British Embassy Prague on <a rel="external" href="https://www.facebook.com/BritsinCR/" class="govuk-link">Facebook</a> and <a rel="external" href="https://twitter.com/UKinCR" class="govuk-link">Twitter</a></p>
-  </li>
+<a href="https://www.gov.uk/email-signup/?topic=/world/living-in-czech-republic" class="govuk-link">sign up for email alerts</a> to this guidance</li>
+  <li>follow the British Embassy Prague on <a rel="external" href="https://www.facebook.com/BritsinCR/" class="govuk-link">Facebook</a> and <a rel="external" href="https://twitter.com/UKinCR" class="govuk-link">Twitter</a>
+</li>
 </ul>
-
-<h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
-
-<p>The British Embassy regularly holds events across Czech Republic for UK nationals. <a href="https://www.gov.uk/government/news/open-evening-for-british-citizens-in-the-czech-republic" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in the Czech Republic after Brexit.</p>
 
 <p>You can also:</p>
 
 <ul>
-  <li>read the Czech government’s website on <a rel="external" href="https://www.brexitinfo.cz/?page_id=442" class="govuk-link">how to prepare for Brexit.</a>
-</li>
-  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the EU: prepare for Brexit</a>
+  <li>read the Czech Ministry of Interior’s <a rel="external" href="https://www.mvcr.cz/mvcren/docDetail.aspx?docid=22252147&doctype=ART" class="govuk-link">FAQs on residency and the Withdrawal Agreement</a>
 </li>
 </ul>
+
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
+
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the UK’s withdrawal from the EU and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the EU broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in the Czech Republic at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in the Czech Republic.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information.</p>
+
+<p>In the meantime, make sure you are registered as a resident in the Czech Republic. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>Check <a href="https://www.gov.uk/foreign-travel-advice/czech-republic/entry-requirements" class="govuk-link">the entry requirements for the Czech Republic</a>.</p>
 
-<p>You need to secure a <a rel="external" href="https://www.mvcr.cz/mvcren/article/temporary-residence.aspx" class="govuk-link">Czech residence permit</a> before Brexit if you want to guarantee your stay in the Czech Republic.</p>
+<h3 id="residency">Residency</h3>
+
+<p>If you are resident in the Czech Republic before the transition period ends on 31 December 2020, you will be able to stay.</p>
+
+<p>You need to secure a <a rel="external" href="https://www.mvcr.cz/mvcren/article/temporary-residence.aspx" class="govuk-link">Czech residence permit</a> if you want to guarantee your stay in the Czech Republic.</p>
 
 <p>You must register your stay with the <a rel="external" href="https://www.policie.cz/clanek/hlaseni-pobytu-cizincu.aspx" class="govuk-link">Czech Foreign Police</a> (in Czech) first. You will need this confirmation of your registration with the Foreign Police when you apply for Czech residency status.</p>
 
+<p>You can also read <a rel="external" href="https://www.mvcr.cz/mvcren/docDetail.aspx?docid=22252147&doctype=ART" class="govuk-link">Czech Ministry of Interior Q&A website</a>.</p>
+
+<p>In 2021, Czech authorities will issue all registered UK residents with a biometric residence permit. We will update this guidance when more information is available about this process.</p>
+
+<p>If you move to the Czech Republic after 31 December 2020, different immigration requirements will apply. We will update this page when further information is available.</p>
+
 <p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
-
-<p>If you are resident in the Czech Republic before the end of the implementation period on 31 December 2020, you will be able to stay.</p>
-
-<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+
+<p>Check your passport is valid for travel. Your passport should be valid for the proposed duration of your stay.</p>
+
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from the Czech Republic</a>.</p>
 
-<p>You can look at our <a href="https://www.gov.uk/foreign-travel-advice/czech-republic" class="govuk-link">travel advice for the Czech Republic</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
+<h3 id="passports-from-1-january-2021">Passports from 1 January 2021</h3>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+<p><a href="https://www.gov.uk/check-a-passport-travel-europe-1-january-2021" class="govuk-link">Check your passport is valid for travel</a> before you book your trip.</p>
 
-<p>Check your passport is valid for travel. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+<p>From 1 January 2021, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). This requirement does not apply if you are entering or transiting to the Czech Republic, and you are in scope of the Withdrawal Agreement.</p>
 
-<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+<p>You will need to <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
 
-<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-czech-republic" class="govuk-link">sign up for updates</a> to this guidance.</p>
+<p>As a non-EEA national, different border checks will apply when travelling to other EU or Schengen area countries. You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from EU, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
+
+<h3 id="entry-requirements">Entry requirements</h3>
+<p>From 1 January 2021, you will be able to travel to other Schengen area countries for up to 90 days in any 180-day period without a visa for purposes such as tourism. This is a rolling 180-day period.</p>
+
+<p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
+
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and the Ireland will not change.</p>
+
+<p>Different rules will apply to EU countries that are not part of the Schengen Area. Check each country’s <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice</a> page for information on entry requirements.</p>
 
 <h2 id="healthcare">Healthcare</h2>
 
+<p>If you are living in the Czech Republic or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in the Czech Republic as you do now, provided you remain resident.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-the-czech-republic" class="govuk-link">guidance on who can access healthcare in the Czech Republic and how to register</a>.</p>
+
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
 <p>If you live in the Czech Republic and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You must apply for a certificate of entitlement known as an S1 certificate.</p>
 
-<p>If you are resident in the Czech Republic, you must not use a European Health Insurance Card (EHIC) from the UK for healthcare in the Czech Republic.</p>
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-the-czech-republic#s1" class="govuk-link">guidance on how to get an S1 form.</a></p>
+
+<h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
+
+<p>If you are resident in the Czech Republic, you must not use your EHIC from the UK for healthcare in the Czech Republic.</p>
 
 <p>When you travel from the Czech Republic for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay:</p>
 
@@ -220,56 +263,49 @@
   </li>
 </ul>
 
-<p>If you are a student, read the NHS <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">guidance on healthcare and studying abroad</a>.</p>
-
-<p>You can <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">find an English-speaking doctor in the Czech Republic</a>.</p>
-
-<p>You must also <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a> in the Czech Republic.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
 <p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time.</p>
 
-<p>If you are living in the Czech Republic or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in the Czech Republic as you do now, provided you remain resident.</p>
+<p>You should also read guidance on:</p>
 
-<p>For more information, read the Czech Health Insurance Bureau’s website for <a rel="external" href="https://www.kancelarzp.cz/en/2-uncategorised/586-brexit-en" class="govuk-link">guidance on access to the Czech healthcare system after Brexit</a>.</p>
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">finding an English-speaking doctor in the Czech Republic</a></li>
+  <li>
+<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking your prescriptions are legal</a> in the Czech Republic</li>
+</ul>
 
 <h2 id="working-and-studying-in-the-czech-republic">Working and studying in the Czech Republic</h2>
 
-<p>If you are registered as a resident in the Czech Republic, you have the right to work in the Czech Republic. Read our <a href="https://www.gov.uk/working-abroad" class="govuk-link">guidance on working in another EU country</a>.</p>
+<p>If you are registered as a resident in the Czech Republic, you have the right to work in the Czech Republic. Read our <a href="https://www.gov.uk/working-abroad" class="govuk-link">guidance on working in an EU country</a>.</p>
 
 <p>You may need to apply for one or both of the following:</p>
 
 <ul>
-  <li>
-    <p><a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK criminal records certificate</a></p>
-  </li>
-  <li>
-    <p><a rel="external" href="https://www.ceskaposta.cz/en/sluzby/egovernment/czechpoint/sluzby-czechpoint" class="govuk-link">extract from the Czech Criminal Register</a></p>
-  </li>
+  <li><a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK criminal records certificate</a></li>
+  <li><a rel="external" href="https://www.ceskaposta.cz/en/sluzby/egovernment/czechpoint/sluzby-czechpoint" class="govuk-link">extract from the Czech Criminal Register</a></li>
 </ul>
 
-<h3 id="working-in-the-czech-republic-after-brexit">Working in the Czech Republic after Brexit</h3>
+<p>If you are resident in the Czech Republic on or before 31 December 2020, your right to work will not change, as long as you remain resident in the Czech Republic.</p>
 
-<p>Your right to work will not change, as long as you remain resident in the Czech Republic.</p>
+<h3 id="professional-qualifications">Professional qualifications</h3>
 
-<p>If you gained your professional qualification in the UK before Brexit, it will continue to be recognised by Czech authorities.</p>
+<p>If you have already been recognised by an EU country as holding valid professional qualifications, this will remain valid after 31 January 2020.</p>
 
-<p><a rel="external" href="https://ec.europa.eu/info/sites/info/files/slides_professional-qualifications-ip-justice-consumers_en.pdf" class="govuk-link">Recognition decisions made on qualifications obtained in the UK or the EU</a> before the end of the implementation period on 31 December 2020 are not affected.</p>
+<p>If you have not had your professional qualifications recognised, you can submit an application under the current rules until 31 December 2020.</p>
 
-<p>If you have not had your professional qualifications recognised, you will have until the end of the implementation period to submit an application under the current rules.</p>
+<h3 id="studying-in-the-czech-republic">Studying in the Czech Republic</h3>
 
-<h3 id="studying-in-the-czech-republic-after-brexit">Studying in the Czech Republic after Brexit</h3>
+<p>You can continue in, or enrol into, study programmes taught in Czech free of charge after 31 January 2020. Fees for programmes taught in English will not change as a result of the UK leaving the EU.</p>
 
-<p>If you are enrolled at a Czech university, Brexit will not affect your fees. You will be able to continue in, or enrol into, study programmes taught in Czech free of charge. Fees for programmes taught in English will also not change.</p>
-
-<p>Read the guidance on <a href="https://www.gov.uk/guidance/uk-students-in-the-eu-continuing-your-studies" class="govuk-link">continuing your studies in the European Union after Brexit</a>.</p>
+<p>Read the guidance on <a href="https://www.gov.uk/guidance/uk-students-in-the-eu-continuing-your-studies" class="govuk-link">continuing your studies in the European Union</a>.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>If you work in the Czech Republic, you have the same <a rel="external" href="http://www.czech.cz/en/Business/How-it-works-here/Justice,-legal-environment/Tax-duties-of-foreigners-in-the-Czech-Republic" class="govuk-link">tax rights and duties</a> as Czech citizens.</p>
+<p>If you work in the Czech Republic, you have the same <a rel="external" href="https://www.financnisprava.cz/en/taxes/tax-obligation" class="govuk-link">tax rights and duties</a> as Czech citizens.</p>
 
-<p>The UK has a double-taxation agreement with the Czech Republic to ensure people do not pay tax on the same income in both countries.</p>
+<p>The UK has a double taxation agreement with the Czech Republic to ensure you do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in the Czech Republic have not changed.</p>
 
 <p>Read guidance about:</p>
 
@@ -297,47 +333,40 @@
 
 <p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in the Czech Republic. Send your questions about double taxation to the relevant tax authority.</p>
-
 <h2 id="pensions">Pensions</h2>
 
 <p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you retire in the Czech Republic, you can claim:</p>
 
 <ul>
   <li>
-    <p><a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">your UK State Pension</a> or <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new UK State Pension</a>. Contact the <a href="https://www.gov.uk/international-pension-centre" class="govuk-link">International Pension Centre</a> to claim</p>
-  </li>
-  <li>
-    <p>your <a rel="external" href="https://ec.europa.eu/social/main.jsp?catId=1106&langId=en&intPageId=4478" class="govuk-link">Czech and UK State Pension</a> from the <a rel="external" href="http://www.cssz.cz/en/contacts" class="govuk-link">Czech Social Security Administration</a> if you worked in the Czech Republic</p>
-  </li>
-  <li>
-    <p><a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm" class="govuk-link">pensions from working in other EU countries</a></p>
-  </li>
+<a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">your UK State Pension</a> or <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new UK State Pension</a>. Contact the <a href="https://www.gov.uk/international-pension-centre" class="govuk-link">International Pension Centre</a> to claim</li>
+  <li>your <a rel="external" href="https://ec.europa.eu/social/main.jsp?catId=1106&langId=en&intPageId=4478" class="govuk-link">Czech and UK State Pension</a> from the <a rel="external" href="https://www.cssz.cz/web/en" class="govuk-link">Czech Social Security Administration</a> if you worked in the Czech Republic</li>
+  <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/retire-abroad/state-pensions-abroad/index_en.htm" class="govuk-link">pensions from working in other EU countries</a></li>
 </ul>
 
 <h3 id="life-certificates-for-uk-state-pensions">Life certificates for UK State Pensions</h3>
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-december-2020">Pensions after 31 December 2020</h3>
 
-<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
+<p>There will be no changes by 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
-<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance</a>.</p>
 
 <p>If you are living in the Czech Republic by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your UK State Pension.</p>
 
-<p>If you work and pay social security contributions in the Czech Republic, you will still be able to add your UK social security contributions towards your Czech pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in the Czech Republic, you will still be able to add your UK social security contributions towards your Czech pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>If you are considering moving to the Czech Republic on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and may change. Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU.</a></p>
+
+<p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in the Czech Republic.</p>
 
@@ -356,13 +385,19 @@
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you have worked in the UK</a> from HMRC if you are asked for this.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-december-2020">Benefits after 31 December 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in the Czech Republic, your UK social security contributions will be taken into account when applying for Czech contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in the Czech Republic, your UK social security contributions will be taken into account when applying for Czech contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>If you are considering moving to the Czech Republic on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the EU and my change. Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU.</a>.</p>
 
 <h2 id="driving-in-the-czech-republic">Driving in the Czech Republic</h2>
+
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
 
 <p>If you are resident in the Czech Republic, <a rel="external" href="http://www.mdcr.cz/Zivotni-situace/Ridicske-prukazy" class="govuk-link">exchange your UK licence for a Czech one</a> (in Czech). You can do this at <a rel="external" href="https://www.mdcr.cz/Dokumenty/Silnicni-doprava/Registrace-vozidel/Obecni-urady-s-rozsirenou-pusobnosti" class="govuk-link">any municipality with extended competence</a> (in Czech). You will need to provide at least two documents proving you are resident in the Czech Republic for more than 185 days in a calendar year. This can be your permanent residency permit, temporary residency permit, lease agreement, property ownership listing, employment contract, etc.</p>
 
@@ -371,12 +406,9 @@
 <p>For information on driving in the Czech Republic, read our guidance on:</p>
 
 <ul>
-  <li>
-    <p>what you need to <a href="https://www.gov.uk/driving-abroad" class="govuk-link">drive abroad</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.gov.uk/foreign-travel-advice/czech-republic/safety-and-security#road-travel" class="govuk-link">driving rules in the Czech Republic</a></p>
-  </li>
+  <li>what you need to <a href="https://www.gov.uk/driving-abroad" class="govuk-link">drive abroad</a>
+</li>
+  <li><a href="https://www.gov.uk/foreign-travel-advice/czech-republic/safety-and-security#road-travel" class="govuk-link">driving rules in the Czech Republic</a></li>
 </ul>
 
 <h3 id="bringing-a-uk-registered-vehicle-into-the-czech-republic">Bringing a UK-registered vehicle into the Czech Republic</h3>
@@ -385,28 +417,17 @@
 
 <p>If you spend more than 185 days in the Czech Republic with your UK-registered car, you must <a rel="external" href="http://www.mdcr.cz/Zivotni-situace/Registr-vozidel?lang=en-GB" class="govuk-link">register your vehicle</a> with Czech authorities.</p>
 
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
-
 <h2 id="voting">Voting</h2>
+
+<p>You cannot vote in local or national parliamentary elections in the Czech Republic or European Parliament elections.</p>
 
 <p>You may be able to vote in some UK elections.</p>
 
 <ul>
+  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
   <li>
-    <p><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</p>
-  </li>
+<a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> to vote</li>
 </ul>
-
-<p>If you are resident in the Czech Republic, you can <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">vote in municipal and European parliamentary elections</a>. You cannot vote in national parliamentary elections in the Czech Republic.</p>
-
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
-
-<p>UK nationals will no longer be eligible to vote in local or European Parliament elections after Brexit.</p>
 
 <h2 id="births-deaths-and-marriages">Births, deaths and marriages</h2>
 
@@ -453,7 +474,7 @@
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a>.</p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet to the UK</a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -479,7 +500,7 @@
 <p>Read the guidance on <a href="https://www.gov.uk/guidance/returning-to-the-uk" class="govuk-link">returning to the UK permanently</a> which includes information on, amongst other things, tax, access to services and bringing family members.</p>
 
 <h3 id="disclaimer">Disclaimer</h3>
-<p>This information is provided as a guide only. Definitive information should be obtained from the Czech authorities. The Foreign and Commonwealth Office (FCO) is not liable for any inaccuracies in this information.</p>
+<p>This information is provided as a guide only. Definitive information should be obtained from the Czech authorities. The Foreign, Commonwealth & Development Office (FCDO) is not liable for any inaccuracies in this information.</p>
 
 </div>
 </div>
@@ -488,10 +509,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 November 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 7 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-07T15:05:39.000+01:00">7 September 2020</time>
+              <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-24T09:22:44.000+00:00">24 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
@@ -588,8 +613,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -597,48 +622,48 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-0db0a2db" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-8f5d3a89" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-0db0a2db" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-8f5d3a89" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-bulgaria" data-track-options="{"dimension28":"5","dimension29":"Living in Bulgaria"}" href="/guidance/living-in-bulgaria">Living in Bulgaria</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-lithuania" data-track-options="{"dimension28":"5","dimension29":"Living in Lithuania"}" href="/guidance/living-in-lithuania">Living in Lithuania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-finland" data-track-options="{"dimension28":"5","dimension29":"Living in Finland"}" href="/guidance/living-in-finland">Living in Finland</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-0db0a2db" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-8f5d3a89" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-0db0a2db" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-8f5d3a89" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-the-czech-republic" data-track-options="{"dimension28":"2","dimension29":"Czech Republic: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-the-czech-republic">Czech Republic: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-the-czech-republic" data-track-options="{"dimension28":"2","dimension29":"Healthcare in the Czech Republic"}" href="/guidance/healthcare-in-the-czech-republic">Healthcare in the Czech Republic</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-the-czech-republic" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in the Czech Republic"}" href="/guidance/healthcare-in-the-czech-republic">Healthcare for UK nationals living in the Czech Republic</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-0db0a2db" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-8f5d3a89" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-0db0a2db" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-8f5d3a89" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -670,9 +695,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-cef4c290" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8b896563" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-cef4c290" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8b896563" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
