@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Estonia
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Estonia, including guidance on Brexit, residency, healthcare and passports.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Estonia, including guidance on residency, healthcare, passports and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 November 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 7 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a> and <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>
                 </span>
             </dd>
         </dl>
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,71 +62,79 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visia-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visia-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports" data-track-options="{"dimension29":"Passports and travel"}" href="#passports">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visa-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visa-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#driving-in-estonia" data-track-options="{"dimension29":"Driving in Estonia"}" href="#driving-in-estonia">Driving in Estonia</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-estonia" data-track-options="{"dimension29":"Working in Estonia"}" href="#working-in-estonia">Working in Estonia</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#passports" data-track-options="{"dimension29":"Passports and travel"}" href="#passports">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#driving-in-estonia" data-track-options="{"dimension29":"Driving in Estonia"}" href="#driving-in-estonia">Driving in Estonia</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-in-estonia" data-track-options="{"dimension29":"Working in Estonia"}" href="#working-in-estonia">Working in Estonia</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#education" data-track-options="{"dimension29":"Education"}" href="#education">Education</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
 </a>
 
         </li>
@@ -137,7 +146,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <ul>
   <li>
@@ -152,9 +161,13 @@
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the Estonian Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/estonia" class="govuk-link">Estonian travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The <abbr title="United Kingdom">UK</abbr> is leaving the <abbr title="European Union">EU</abbr>. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-estonia" class="govuk-link">email alerts on living in Estonia</a>
@@ -165,31 +178,46 @@
 
 <h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
 
-<p>The British Embassy regularly holds events across Estonia for <abbr title="United Kingdom">UK</abbr> nationals. <a rel="external" href="https://www.facebook.com/BritishEmbassyTallinn/events" class="govuk-link">Attend one of our citizens’ outreach meetings</a> to keep up to date on working and living in Estonia after Brexit.</p>
+<p>The British Embassy holds events across Estonia for <abbr title="United Kingdom">UK</abbr> nationals. <a rel="external" href="https://www.facebook.com/BritishEmbassyTallinn/events" class="govuk-link">Attend one of our citizens’ outreach meetings</a> to keep up to date on working and living in Estonia.</p>
 
 <p>You can also:</p>
 
 <ul>
-  <li>read the Brexit section on the <a rel="external" href="https://vm.ee/en/what-do-you-need-know-regard-brexit" class="govuk-link">Ministry of Foreign Affairs of Estonia website</a>
+  <li>read the information on the <a rel="external" href="https://vm.ee/en/what-do-you-need-know-regard-brexit" class="govuk-link">Ministry of Foreign Affairs of Estonia website</a>
 </li>
-  <li><a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">read Living in the <abbr title="European Union">EU</abbr>: prepare for Brexit</a></li>
 </ul>
 
-<h2 id="visia-and-residency">Visas and residency</h2>
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
 
-<p>Check the <a href="https://www.gov.uk/foreign-travel-advice/estonia/entry-requirements" class="govuk-link">entry requirements for Estonia</a>.</p>
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the <abbr title="United Kingdom">UK</abbr>’s withdrawal from the <abbr title="European Union">EU</abbr> and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the <abbr title="European Union">EU</abbr> broadly as you did before 31 January 2020.</p>
 
-<p>You must <a rel="external" href="https://www.siseministeerium.ee/en/residence-procedures" class="govuk-link">register on the Estonian Population Register</a> if you’ll be in Estonia for more than 3 months and <a rel="external" href="https://www2.politsei.ee/en/teenused/isikut-toendavad-dokumendid/id-kaart/" class="govuk-link">apply for an <abbr title="identity card">ID</abbr> card</a>. All Estonian citizens and residents over 15 must have an <abbr title="identity card">ID</abbr> card.</p>
+<p>If you are resident in Estonia at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Estonia.</p>
 
-<h3 id="residency-after-brexit">Residency after Brexit</h3>
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information</p>
 
-<p>Information on residency after Brexit, and latest updates are on <a rel="external" href="https://www.siseministeerium.ee/en/activities/citizenship-and-migration/brexit" class="govuk-link">the Estonian Ministry of Interior’s website</a>.</p>
+<p>In the meantime, make sure you are registered as a resident in Estonia. We will update this guidance as soon as more information becomes available.</p>
 
-<p>If you are resident in Estonia before the end of the implementation period on 31 December 2020 you will be able to stay.</p>
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe.</a></p>
 
-<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
+<h2 id="visa-and-residency">Visas and residency</h2>
+
+<p>Check the <a href="https://www.gov.uk/foreign-travel-advice/estonia/entry-requirements" class="govuk-link">entry requirements for Estonia.</a></p>
+
+<h3 id="residency">Residency</h3>
+
+<p>If you are resident in Estonia before the transition period ends on 31 December 2020, you will be able to stay.</p>
+
+<p>You must <a rel="external" href="https://www.siseministeerium.ee/en/residence-procedures" class="govuk-link">register on the Estonian Population Register</a> if you’ll be in Estonia for more than 3 months and <a rel="external" href="https://www2.politsei.ee/en/teenused/isikut-toendavad-dokumendid/id-kaart/" class="govuk-link">apply for an <abbr title="identity card">ID</abbr> card.</a> All Estonian citizens and residents over 15 must have an <abbr title="identity card">ID</abbr> card.</p>
+
+<p>Information and updates on residency is on the <a rel="external" href="https://www.siseministeerium.ee/en/activities/citizenship-and-migration/brexit" class="govuk-link">Estonian Ministry of Interior’s website.</a></p>
+
+<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available.</p>
+
+<p>If you plan to move to or retire in Estonia, read our <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">guidance on moving or retiring abroad.</a></p>
 
 <h2 id="healthcare">Healthcare</h2>
+
+<p>If you are living in Estonia or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Estonia as you do now, provided you remain resident.</p>
 
 <p>You must register for healthcare as a resident in Estonia, as well as registering, where necessary, with a health insurer.</p>
 
@@ -197,9 +225,13 @@
 
 <p>You can use your Estonian <abbr title="identity card">ID</abbr> card or Residence Permit card to get prescriptions.</p>
 
+<p>Read our guidance on who can <a href="https://www.gov.uk/guidance/healthcare-in-estonia" class="govuk-link">access healthcare in Estonia and how to register.</a></p>
+
 <h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
 <p>If you live in Estonia and receive an exportable <abbr title="United Kingdom">UK</abbr> pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the <abbr title="United Kingdom">UK</abbr>. You must apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-estonia#s1" class="govuk-link">guidance on how to get an S1 form.</a></p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</h3>
 
@@ -214,42 +246,53 @@
 </li>
 </ul>
 
-<p>If you are a student, read <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">the <abbr title="National Health Service">NHS</abbr> guidance on healthcare and studying abroad</a></p>
+<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your <abbr title="European Health Insurance Card">EHIC</abbr>, as you did before, during this time.</p>
 
-<p>You can find <a href="https://www.gov.uk/government/publications/estonia-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctors in Estonia</a>.</p>
+<p>You should also read guidance on:</p>
+
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li>finding <a href="https://www.gov.uk/government/publications/estonia-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctors in Estonia</a>
+</li>
+</ul>
 
 <p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal in Estonia</a>.</p>
 
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your <abbr title="European Health Insurance Card">EHIC</abbr>, as you did before, during this time.</p>
-
-<p>If you are living in Estonia or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Estonia as you do now, provided you remain resident.</p>
-
-<p>You must confirm your residency status and decide how you will ensure access to healthcare if there’s no deal.</p>
-
 <h2 id="passports" class="and-travel">Passports and travel</h2>
 
-<p>You can apply for or <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your British passport from Estonia</a>. 
-If you plan to move to or retire in Estonia, read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the Schengen area or elsewhere in the <abbr title="European Union">EU</abbr> with your <abbr title="United Kingdom">UK</abbr> passport.</p>
 
-<p>Read our <a href="https://www.gov.uk/foreign-travel-advice/estonia" class="govuk-link">travel advice for Estonia</a> and <a href="https://www.gov.uk/foreign-travel-advice/estonia/email-signup" class="govuk-link">sign up for up-to-date information on local laws and customs, safety and emergencies</a>.</p>
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
-
-<p><a href="https://www.gov.uk/check-a-passport-for-travel-to-europe" class="govuk-link">Check your passport is valid for travel</a> before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
-
-<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
-
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> of elsewhere in the <abbr title="European Union">EU</abbr> with your <abbr title="United Kingdom">UK</abbr> passport until the passport expires.</p>
-
-<p>We will update these pages with details of any changes to the rules as soon as information is available. You should sign up for updates to this guidance.</p>
-
-<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-estonia" class="govuk-link">sign up for updates</a> to this guidance.</p>
+<p>You can apply for or <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your British passport from Estonia</a>.</p>
 
 <p>Read travel document requirements for visitors in Estonia from the <a rel="external" href="https://vm.ee/en/travel-document-requirements-visitors" class="govuk-link">Estonian Ministry of Foreign Affairs</a>.</p>
 
+<h3 id="passports-from-1-january-2021">Passports from 1 January 2021</h3>
+
+<p><a href="https://www.gov.uk/check-a-passport-travel-europe-1-january-2021" class="govuk-link">Check your passport is valid for travel</a> before you book your trip.</p>
+
+<p>From 1 January 2021, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). This requirement does not apply if you are entering or transiting to Estonia, and you are in scope of the Withdrawal Agreement.</p>
+
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
+
+<p>You will need to <a rel="external" href="https://gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+
+<p>As a non-EEA national, different border checks will apply when travelling to other <abbr title="European Union">EU</abbr> or Schengen area countries. You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from <abbr title="European Union">EU</abbr>, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
+
+<h3 id="entry-requirements">Entry requirements</h3>
+
+<p>From 1 January 2021, you will be able to travel to other Schengen area countries for up to 90 days in any 180-day period without a visa for purposes such as tourism. This is a rolling 180-day period.</p>
+
+<p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
+
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the <abbr title="United Kingdom">UK</abbr> and the Ireland will not change.</p>
+
+<p>Different rules will apply to <abbr title="European Union">EU</abbr> countries that are not part of the Schengen Area. Check each country’s <a rel="external" href="https://gov.uk/foreign-travel-advice" class="govuk-link">travel advice page</a> for information on entry requirements.</p>
+
 <h2 id="driving-in-estonia">Driving in Estonia</h2>
+
+<p>Driving licence rules will stay the same until 31 December 2020.</p>
 
 <p>If you are resident in Estonia, you should <a rel="external" href="https://www.mnt.ee/eng/driver/driving-licence/foreign-driving-licence" class="govuk-link">exchange your <abbr title="United Kingdom">UK</abbr> licence for an Estonian one</a> with the Estonian Road Administration. You can use your Estonian licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
 
@@ -276,15 +319,9 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
 
 <p>You should read the <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/estonia/index_en.htm" class="govuk-link"><abbr title="European Union">EU</abbr>’s guidance on car registration and taxes in Estonia</a>. You may be exempt from some of these taxes. If so you will need certificates of exemption.</p>
 
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
-
-<p>Driving licence rules will stay the same during the implementation period until 31 December 2020.</p>
-
-<p>If you register for residence in Estonia after Brexit, your <a rel="external" href="https://www.mnt.ee/eng/driver/driving-licence/foreign-driving-licence#2" class="govuk-link"><abbr title="United Kingdom">UK</abbr> driving licence will be valid in Estonia for 12 months</a>, from the day you registered.</p>
-
 <h2 id="working-in-estonia">Working in Estonia</h2>
 
-<p>If you are registered as a resident in Estonia, you have the right to work. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another <abbr title="European Union">EU</abbr> country</a>. To apply for a job you may need to provide a:</p>
+<p>If you are registered as a resident in Estonia, you have the right to work in Estonia. Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an <abbr title="European Union">EU</abbr> country</a>. To apply for a job you may need to provide a:</p>
 
 <ul>
   <li>
@@ -297,24 +334,24 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
 
 <p>If you require a record of your employment history in Estonia contact the <a rel="external" href="https://www.sotsiaalkindlustusamet.ee/en" class="govuk-link">Estonian Ministry of Social Affairs</a>.</p>
 
-<h3 id="working-in-estonia-after-brexit">Working in Estonia after Brexit</h3>
+<p>If you are resident in Estonia on or before 31 December 2020, your right to work will stay the same, as long as you remain resident in Estonia.</p>
 
-<p>Your right to work will stay the same, as long as you remain resident in Estonia.</p>
+<h2 id="education">Education</h2>
 
-<h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
+<p>If you are resident in Estonia on or before 31 December 2020, your right to study in Estonia will stay the same, as long as you remain resident in Estonia.</p>
 
-<p>Your right to study in Estonia will stay the same, as long as you remain resident in Estonia.</p>
-
-<p>For information on education, read <a href="https://www.gov.uk/guidance/studying-in-the-european-union-after-brexit" class="govuk-link">studying in the European Union after Brexit</a>.</p>
+<p>For information on education, read <a href="https://www.gov.uk/guidance/studying-in-the-european-union-after-brexit" class="govuk-link">studying in the European Union</a>.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The <abbr title="United Kingdom">UK</abbr> has a double-taxation agreement with Estonia to ensure people do not pay tax on the same income in both countries.</p>
+<p>The <abbr title="United Kingdom">UK</abbr> has a double taxation agreement with Estonia to ensure you do not pay tax on the same income in both countries.</p>
+
+<p>Existing double taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Estonia have not changed following the <abbr title="United Kingdom">UK</abbr>’s withdrawal from the <abbr title="European Union">EU</abbr>.</p>
 
 <p>You should read the guidance on:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk" class="govuk-link">telling HMRC if you leave the <abbr title="United Kingdom">UK</abbr> to live abroad</a></li>
+  <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk" class="govuk-link">tax if you leave the <abbr title="United Kingdom">UK</abbr> to live abroad</a></li>
   <li><a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice" class="govuk-link">tax on your <abbr title="United Kingdom">UK</abbr> income if you live abroad</a></li>
   <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/estonia/index_en.htm" class="govuk-link">paying income tax in Estonia</a></li>
   <li><a rel="external" href="https://www.emta.ee/eng/private-client/declaration-income/income-tax-information-employees" class="govuk-link">paying income tax in Estonia from the Estonian Tax and Customs Board</a></li>
@@ -328,15 +365,9 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
 
 <p>If you are employed or self-employed in the <abbr title="European Union">EU</abbr> or EEA and you have a <abbr title="United Kingdom">UK</abbr>-issued A1/E101 form, you will remain subject to <abbr title="United Kingdom">UK</abbr> legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for <abbr title="United Kingdom">UK</abbr> nationals living in Estonia. Send your taxpayer questions about double taxation to the relevant tax authority.</p>
-
 <h2 id="pensions">Pensions</h2>
 
 <p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<p>There will be no changes before 31 December 2020 to the rules on claiming the <abbr title="United Kingdom">UK</abbr> State Pension in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>If you retire in Estonia, you can claim:</p>
 
@@ -356,19 +387,23 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the <abbr title="United Kingdom">UK</abbr> Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-december-2020">Pensions after 31 December 2020</h3>
 
-<p>You can continue to receive your <abbr title="United Kingdom">UK</abbr> State Pension if you live in the <abbr title="European Union">EU</abbr>, EEA or Switzerland and you can still claim your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
+<p>There will be no changes before 31 December 2020 to the rules on claiming the <abbr title="United Kingdom">UK</abbr> State Pension in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
-<p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020 you will get your <abbr title="United Kingdom">UK</abbr> State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020 you will get your <abbr title="United Kingdom">UK</abbr> State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance.</a></p>
 
 <p>If you are living in Estonia by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
 
-<p>If you work and pay social security contributions in Estonia, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Estonian pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Estonia, you will still be able to add your <abbr title="United Kingdom">UK</abbr> social security contributions towards your Estonian pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>If you are considering moving to Estonia on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the <abbr title="European Union">EU</abbr> and may change. Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the <abbr title="European Union">EU</abbr>.</a></p>
+
+<p>You can continue to receive your <abbr title="United Kingdom">UK</abbr> State Pension if you live in the <abbr title="European Union">EU</abbr>, EEA or Switzerland and you can still claim your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming <abbr title="United Kingdom">UK</abbr> benefits in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
+<p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad.</a></p>
 
 <p>You may still be able to claim some <abbr title="United Kingdom">UK</abbr> benefits like child and disability benefits if you live in Estonia. You should:</p>
 
@@ -389,30 +424,32 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
 
 <p>Find out about <a rel="external" href="https://www.eesti.ee/en/pensions-social-services-and-allowances/benefits-and-allowances/" class="govuk-link">Estonian benefits and Allowances from the Estonian State Portal</a>.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-december-2020">Benefits after 31 December 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming <abbr title="United Kingdom">UK</abbr> benefits in the <abbr title="European Union">EU</abbr>, EEA or Switzerland as a result of the <abbr title="United Kingdom">UK</abbr> leaving the <abbr title="European Union">EU</abbr>.</p>
 
 <p>If you are living in the <abbr title="European Union">EU</abbr>, EEA or Switzerland by 31 December 2020, you will continue to receive any <abbr title="United Kingdom">UK</abbr> benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Estonia, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Estonian contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Estonia, your <abbr title="United Kingdom">UK</abbr> social security contributions will be taken into account when applying for Estonian contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>If you are considering moving to Estonia on or after 1 January 2021 and you are not covered by the Withdrawal Agreement, the rules depend on negotiations with the <abbr title="European Union">EU</abbr> and may change. Check our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the <abbr title="European Union">EU</abbr>.</a></p>
 
 <h2 id="voting">Voting</h2>
+
+<p>If you’re resident in Estonia, you can <a rel="external" href="https://www.valimised.ee/en/right-vote" class="govuk-link">vote in local municipal elections</a>.</p>
+
+<p>You cannot vote in national elections or European Parliament elections.</p>
 
 <p>You may be able to vote in some <abbr title="United Kingdom">UK</abbr> elections. You can:</p>
 
 <ul>
   <li>
-    <p><a rel="external" href="https://www.yourvotematters.co.uk/can-i-vote/overseas" class="govuk-link">check if you are able to vote</a></p>
+    <p><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></p>
   </li>
   <li>
-    <p><a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</p>
+    <p><a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter if you would like to vote</a></p>
   </li>
 </ul>
-
-<p>If you’re resident in Estonia, you can <a rel="external" href="https://www.valimised.ee/en/right-vote" class="govuk-link">vote in local municipal elections</a> and in <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">European Parliamentary Elections</a>.</p>
-
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
-
-<p>You will continue to be able to vote in local elections if you have permanent residence or a long-term residence permit. You will no longer be eligible to vote in European Parliament elections.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
@@ -453,7 +490,7 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
 
 <p>If you’re travelling with your pet for the first time, you must visit your vet to obtain a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a>.</p>
+<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on bringing your pet to the <abbr title="United Kingdom">UK</abbr>.</a></p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -482,7 +519,7 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
 
 <h3 id="disclaimer">Disclaimer</h3>
 
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Estonian authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information.</p>
+<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Estonian authorities. The Foreign, Commonwealth & Development Office will not be liable for any inaccuracies in this information.</p>
 
 </div>
 </div>
@@ -491,10 +528,14 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 November 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 7 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-07T15:09:14.000+01:00">7 September 2020</time>
+              <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T13:45:11.000+00:00">23 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension uprating if the UK leaves the EU with a deal.</p>
@@ -587,8 +628,8 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -596,48 +637,48 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-2c5502bb" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-c793703a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2c5502bb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c793703a" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-latvia" data-track-options="{"dimension28":"5","dimension29":"Living in Latvia"}" href="/guidance/living-in-latvia">Living in Latvia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-hungary" data-track-options="{"dimension28":"5","dimension29":"Living in Hungary"}" href="/guidance/living-in-hungary">Living in Hungary</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-luxembourg" data-track-options="{"dimension28":"5","dimension29":"Living in Luxembourg"}" href="/guidance/living-in-luxembourg">Living in Luxembourg</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-finland" data-track-options="{"dimension28":"5","dimension29":"Living in Finland"}" href="/guidance/living-in-finland">Living in Finland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-slovenia" data-track-options="{"dimension28":"5","dimension29":"Living in Slovenia"}" href="/guidance/living-in-slovenia">Living in Slovenia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"5","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-new-zealand" data-track-options="{"dimension28":"5","dimension29":"Living in New Zealand"}" href="/guidance/living-in-new-zealand">Living in New Zealand</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-2c5502bb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-c793703a" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-2c5502bb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-c793703a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-estonia" data-track-options="{"dimension28":"2","dimension29":"Estonia: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-estonia">Estonia: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-estonia" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Estonia"}" href="/guidance/healthcare-in-estonia">Healthcare in Estonia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-estonia" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Estonia"}" href="/guidance/healthcare-in-estonia">Healthcare for UK nationals living in Estonia</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2c5502bb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-c793703a" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-2c5502bb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-c793703a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -669,9 +710,9 @@ If you plan to move to or retire in Estonia, read our guidance on <a href="https
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6d002042" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-17142a00" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6d002042" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-17142a00" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
