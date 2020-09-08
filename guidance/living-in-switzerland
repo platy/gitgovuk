@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Switzerland
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Switzerland, including guidance on Brexit, residency, passports and driving.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Switzerland, including guidance on residency, passports and driving.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 26 June 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 8 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a> and <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>
                 </span>
             </dd>
         </dl>
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,75 +62,79 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#the-uk-swiss-citizens-rights-agreement" data-track-options="{"dimension29":"The UK-Swiss Citizens’ Rights Agreement"}" href="#the-uk-swiss-citizens-rights-agreement">The UK-Swiss Citizens’ Rights Agreement</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-uk-swiss-citizens-rights-agreement" data-track-options="{"dimension29":"The UK-Swiss Citizens’ Rights Agreement"}" href="#the-uk-swiss-citizens-rights-agreement">The UK-Swiss Citizens’ Rights Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#international-permits-cartes-de-lgitimation" data-track-options="{"dimension29":"International permits (cartes de légitimation)"}" href="#international-permits-cartes-de-lgitimation">International permits (cartes de légitimation)</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#international-permits-cartes-de-lgitimation" data-track-options="{"dimension29":"International permits (cartes de légitimation)"}" href="#international-permits-cartes-de-lgitimation">International permits (cartes de légitimation)</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#driving-in-switzerland" data-track-options="{"dimension29":"Driving in Switzerland"}" href="#driving-in-switzerland">Driving in Switzerland</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#driving-in-switzerland" data-track-options="{"dimension29":"Driving in Switzerland"}" href="#driving-in-switzerland">Driving in Switzerland</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-in-switzerland" data-track-options="{"dimension29":"Working in Switzerland"}" href="#working-in-switzerland">Working in Switzerland</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#working-in-switzerland" data-track-options="{"dimension29":"Working in Switzerland"}" href="#working-in-switzerland">Working in Switzerland</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -140,7 +145,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <ul>
   <li>
@@ -150,9 +155,12 @@
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+<p>You should follow the advice of the Swiss Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/switzerland" class="govuk-link">Switzerland</a> travel advice for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li><a href="https://www.gov.uk/email-signup/?topic=/world/living-in-switzerland" class="govuk-link">sign up for email alerts on living in Switzerland</a></li>
@@ -160,21 +168,22 @@
 </li>
 </ul>
 
-<p>The British Embassy regularly holds events across Switzerland as well as online (Facebook) for UK nationals. To keep up to date on working and living in Switzerland after Brexit,</p>
+<p>The British Embassy regularly holds events across Switzerland as well as online (Facebook) for UK nationals. To keep up to date on working and living in Switzerland.</p>
 
-<p>you can also:</p>
+<p>You can also:</p>
 
 <ul>
   <li>read the <a href="https://www.gov.uk/government/news/uk-agreements-with-the-eea-efta-states-and-switzerland" class="govuk-link">UK-Swiss Citizens’ Rights Agreement</a> and our <a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/767005/Explainer_-_Swiss_citizens__rights_agreement.pdf" class="govuk-link">Explainer</a>
 </li>
-  <li>look through the <a rel="external" href="https://www.eda.admin.ch/dea/en/home/verhandlungen-offene-themen/offene-themen/brexit.html" class="govuk-link">official Swiss government page on Brexit</a> and their  <a rel="external" href="https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/brexit/faq.html" class="govuk-link">questions and answers</a> on Brexit</li>
+  <li>look through the <a rel="external" href="https://www.eda.admin.ch/dea/en/home/verhandlungen-offene-themen/offene-themen/brexit.html" class="govuk-link">official Swiss government page for UK nationals living in Switzerland</a> and their <a rel="external" href="https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/brexit/faq.html" class="govuk-link">FAQs</a>
+</li>
   <li>watch our <a href="https://www.gov.uk/government/news/citizens-rights-agreements-with-the-eea-efta-states-and-switzerland" class="govuk-link">explanatory video</a>
 </li>
 </ul>
 
 <h2 id="the-uk-swiss-citizens-rights-agreement">The UK-Swiss Citizens’ Rights Agreement</h2>
 
-<p>The UK has reached an agreement with Switzerland, which protects the rights of UK nationals resident in Switzerland by the end of the implementation period 31 December 2020. After Brexit and until the end of the implementation period, nothing will change for UK nationals who can continue to live, work and move to Switzerland as they do now.</p>
+<p>The UK has reached an agreement with Switzerland, which protects the rights of UK nationals resident in Switzerland by the end of the transition period 31 December 2020. During this time, nothing will change for UK nationals who can continue to live, work and move to Switzerland.</p>
 
 <p>The agreement protects UK nationals’ right to stay and to work, including frontier workers, family reunification and access to healthcare. It also protects social security benefits, access to an uprated state pension and export benefits, and the continued recognition of professional qualifications.</p>
 
@@ -184,43 +193,55 @@
 
 <p>Check the <a href="https://www.gov.uk/foreign-travel-advice/switzerland/entry-requirements" class="govuk-link">entry requirements for Switzerland</a>.</p>
 
+<h3 id="residency">Residency</h3>
+
+<p>The UK-Swiss Citizens´ Rights Agreement will protect UK nationals resident in Switzerland at the end of the transition period on 31 December 2020. If you are in the scope of the Agreement, you will not need to take any special action to benefit from it.</p>
+
 <p>If you move to Switzerland, you must register at your local office of resident services (Einwohnerdienste or Centre du contrôle des habitants) within 14 days of arriving. Read the guidance by the Swiss government on <a rel="external" href="https://www.ch.ch/en/notification-departure-registration" class="govuk-link">notification of departure and registration</a>.</p>
 
 <p>If you stay and are employed for more than three months, you will need to apply for a residence permit with your local cantonal authority (Einwohnerdienste or Centre du contrôle des habitants).</p>
 
-<p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
-
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
-
-<p>The UK-Swiss Citizens’ Rights Agreement will protect UK nationals resident in Switzerland at the end of the implementation period on 31 December 2020. If you are in scope of the Agreement, you will not need to take any special action to benefit from it.</p>
-
 <p>You should reapply for a new permit before your existing one expires, as usual. This applies whether you hold a short or long stay permit, or a frontier worker permit.</p>
 
-<p>Current travel rules between the UK and Switzerland will continue to apply until the end of the implementation period.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <p>There are no restrictions for those coming to Switzerland to work for less than 4 months.</p>
 
 <h2 id="international-permits-cartes-de-lgitimation">International permits (cartes de légitimation)</h2>
 
-<p><a rel="external" href="https://www.eda.admin.ch/missions/mission-onu-geneve/en/home/manual-regime-privileges-and-immunities/introduction/legitimation-card.html" class="govuk-link">International permits (cartes de légitimation)</a> will not be affected by Brexit. Special provisions will continue to apply to international permit holders wishing to retire and remain in Switzerland.</p>
+<p><a rel="external" href="https://www.eda.admin.ch/missions/mission-onu-geneve/en/home/manual-regime-privileges-and-immunities/introduction/legitimation-card.html" class="govuk-link">International permits (cartes de légitimation)</a> will not be affected by the UK leaving the EU. Special provisions will continue to apply to international permit holders wishing to retire and remain in Switzerland.</p>
 
 <p>UK nationals with an international permit are not in the scope of the UK-Swiss Citizens’ Rights Agreement.</p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>The rules on travel will stay the same until the end of the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the Schengen area or elsewhere in the EU with your UK passport.</p>
+
+<p>Check your passport is valid before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
+
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from Switzerland</a>.</p>
 
-<p>You can look at our <a href="https://www.gov.uk/foreign-travel-advice/switzerland" class="govuk-link">travel advice for Switzerland</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
+<h3 id="passports-from-1-january-2021">Passports from 1 January 2021</h3>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+<p><a href="https://www.gov.uk/check-a-passport-travel-europe-1-january-2021" class="govuk-link">Check your passport is valid for travel</a>  before you book your trip.</p>
 
-<p><a href="https://www.gov.uk/check-a-passport-for-travel-to-europe" class="govuk-link">Check your passport is valid for travel</a> before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+<p>From 1 January 2021, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). This requirement does not apply if you are entering or transiting to Switzerland, and you are in scope of the Swiss Citizens’ Rights Agreement.</p>
 
-<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the Schengen area or elsewhere in the EU with your UK passport.</p>
+<p>You will need to <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
 
-<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-switzerland" class="govuk-link">sign up for updates</a> to this guidance.</p>
+<p>As a non-EEA national, different border checks will apply when travelling to other EU or Schengen area countries. You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from EU, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
+
+<h3 id="entry-requirements">Entry requirements</h3>
+
+<p>From 1 January 2021, you will be able to travel to other Schengen area countries for up to 90 days in any 180-day period without a visa for purposes such as tourism. This is a rolling 180-day period.</p>
+
+<p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
+
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and the Ireland will not change.</p>
+
+<p>Different rules will apply to EU countries that are not part of the Schengen Area. Check each country’s <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice page</a> for information on entry requirements.</p>
 
 <h2 id="driving-in-switzerland">Driving in Switzerland</h2>
 
@@ -252,6 +273,8 @@
 
 <h2 id="healthcare">Healthcare</h2>
 
+<p>The UK-Swiss Citizens’ Rights Agreement will continue to protect the rights of UK nationals resident in Switzerland by 31 December 2020, for as long as they remain in scope. Your access to healthcare in Switzerland will not change, as long as you are covered by the agreement.</p>
+
 <p>You must take out compulsory insurance with a Swiss health insurance company no later than 3 months after arriving or beginning to work in Switzerland. You can look at the Swiss government’s website for information on:</p>
 
 <ul>
@@ -261,9 +284,13 @@
 
 <p>If you are living or working in Switzerland, you need to have <a rel="external" href="https://www.ahv-iv.ch/en/Social-insurances/Old-age-and-survivors-insurance-OASI" class="govuk-link">old-age and survivors’ insurance</a> and <a rel="external" href="https://www.ahv-iv.ch/en/Social-insurances/Disability-insurance-DI" class="govuk-link">disability insurance</a>.</p>
 
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-switzerland" class="govuk-link">guidance on who is able to access healthcare in Switzerland and how to register</a></p>
+
 <h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
 <p>If you live in Switzerland and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>You can <a rel="external" href="https://contactcentreservices.nhsbsa.nhs.uk/selfnhsukokb/AskUs_EHIC/en-gb/6696/application-forms-and-evidence/16477/s1-form-what-is-this-and-how-do-i-obtain-one" class="govuk-link">apply for an S1 certificate</a> through the Business Services Authority.</p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</h3>
 
@@ -278,15 +305,15 @@
 </li>
 </ul>
 
-<p>If you are a student, read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">NHS guidance on healthcare and studying abroad</a>.</p>
+<p>You should also read guidance on:</p>
 
-<p>You can find an <a href="https://www.gov.uk/government/publications/switzerland-and-liechtenstein-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctor in Switzerland and Liechtenstein</a>.</p>
-
-<p><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">Check if your prescriptions are legal</a> in Switzerland.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>The UK-Swiss Citizens’ Rights Agreement will continue to protect the rights of UK nationals resident in Switzerland by the end of the implementation period, for as long as they remain in scope. Your access to healthcare in Switzerland will not change, as long as you are covered by the agreement.</p>
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li>finding an <a href="https://www.gov.uk/government/publications/switzerland-and-liechtenstein-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctor in Switzerland and Liechtenstein</a>
+</li>
+  <li>
+<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking if your prescriptions are legal</a> in Switzerland</li>
+</ul>
 
 <h2 id="working-in-switzerland">Working in Switzerland</h2>
 
@@ -296,13 +323,13 @@
 
 <p>If you work 8 hours or more a week, you’re covered against <a rel="external" href="https://www.ch.ch/en/accident-insurance-who-covered/" class="govuk-link">occupational and non-occupational accidents</a> by your employer.</p>
 
-<h3 id="working-in-switzerland-after-brexit">Working in Switzerland after Brexit</h3>
-
-<p>Your right to work will stay the same until the end of the implementation period.</p>
+<p>If you are resident in Switzerland on or before 31 December 2020, your right to work will not change as long as you remain resident in Switzerland.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The UK has a double-taxation agreement with Switzerland to ensure people do not pay tax on the same income in both countries.</p>
+<p>The UK has a double taxation agreement with Switzerland to ensure people do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in Switzerland have not changed.</p>
 
 <p>Read guidance about:</p>
 
@@ -319,14 +346,9 @@
 
 <p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> so that you can protect your state pension and entitlement to other benefits and allowances.</p>
 
-<h3 id="national-insurance-for-uk-employed-and-self-employed-workers-after-brexit">National insurance for UK employed and self-employed workers after Brexit</h3>
+<h3 id="national-insurance-for-uk-employed-and-self-employed-workers-after-31-january-2020">National insurance for UK employed and self-employed workers after 31 January 2020</h3>
 
-<p>If you are living in Switzerland prior to Brexit or moving from the UK to work in Switzerland after Brexit, your position will not change before 31 December 2020. You and your employer will not need to do anything differently.
-Find out more about <a href="https://www.gov.uk/guidance/social-security-contributions-for-uk-and-eu-workers-if-the-uk-leaves-the-eu-with-no-deal" class="govuk-link">social security contributions after a no-deal Brexit</a>.</p>
-
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>The UK leaving the EU will not change existing double-taxation arrangements for UK nationals living in Switzerland. You should send your taxpayer questions about double taxation to the relevant tax authority.</p>
+<p>If you were living in Switzerland before 31 January 2020 or you move from the UK to work in Switzerland during the transition period, your position will not change before 31 December 2020. You and your employer will not need to do anything differently.</p>
 
 <h2 id="pensions">Pensions</h2>
 
@@ -352,11 +374,13 @@ Find out more about <a href="https://www.gov.uk/guidance/social-security-contrib
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
 
-<p>The UK government will continue to pay an annually uprated UK State Pension in Switzerland for UK nationals living in Switzerland by exit day, for as long as they remained covered by the <a href="https://www.gov.uk/government/news/uk-and-switzerland-sign-citizens-rights-agreement" class="govuk-link">UK-Swiss Citizens’ Rights Agreement.</a></p>
+<p>The UK government will continue to pay an annually uprated UK State Pension in Switzerland for UK nationals living in Switzerland by the end of the transition period, for as long as they remain covered by the <a href="https://www.gov.uk/government/news/uk-and-switzerland-sign-citizens-rights-agreement" class="govuk-link">UK-Swiss Citizens’ Rights Agreement.</a></p>
 
 <h2 id="benefits">Benefits</h2>
+
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">if you are moving or retiring abroad</a>.</p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in Switzerland. You should:</p>
 
@@ -375,9 +399,9 @@ Find out more about <a href="https://www.gov.uk/guidance/social-security-contrib
 
 <p>You may be eligible to claim some Swiss social security benefits. To find out if you are entitled to Swiss benefits and how to claim, read the <a rel="external" href="http://ec.europa.eu/social/main.jsp?catId=1131&langId=en" class="govuk-link">guidance on social security benefits</a> and <a rel="external" href="https://www.bsv.admin.ch/bsv/en/home/social-insurance.html" class="govuk-link">social insurances</a>.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-january-2020">Benefits after 31 January 2020</h3>
 
-<p>The UK government will continue to pay an uprated State Pension, child benefits, and disability benefits to eligible UK nationals living in Switzerland after Brexit. These rights are protected under the UK-Swiss Citizens’ Rights Agreement for those in scope.</p>
+<p>The UK government will continue to pay an uprated State Pension, child benefits, and disability benefits to eligible UK nationals living in Switzerland after 31 January 2020. These rights are protected under the UK-Swiss Citizens’ Rights Agreement for those in scope.</p>
 
 <h2 id="voting">Voting</h2>
 
@@ -454,7 +478,7 @@ Find out more about <a href="https://www.gov.uk/guidance/social-security-contrib
 <p>Read the guidance on <a href="https://www.gov.uk/guidance/returning-to-the-uk" class="govuk-link">returning to the UK permanently</a> which includes information on, amongst other things, tax, access to services and bringing family members.</p>
 
 <h3 id="disclaimer">Disclaimer</h3>
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Swiss authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information.</p>
+<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Swiss authorities. The Foreign, Commonwealth & Development Office will not be liable for any inaccuracies in this information.</p>
 
 </div>
 </div>
@@ -463,10 +487,14 @@ Find out more about <a href="https://www.gov.uk/guidance/social-security-contrib
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 26 June 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 8 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-08T09:40:58.000+01:00">8 September 2020</time>
+              <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T11:03:24.000+00:00">23 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity if the UK leaves the EU with a deal.</p>
@@ -555,8 +583,8 @@ Find out more about <a href="https://www.gov.uk/guidance/social-security-contrib
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -564,48 +592,48 @@ Find out more about <a href="https://www.gov.uk/guidance/social-security-contrib
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-e8f0d2f3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-1f031656" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e8f0d2f3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1f031656" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-norway" data-track-options="{"dimension28":"5","dimension29":"Living in Norway"}" href="/guidance/living-in-norway">Living in Norway</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-liechtenstein" data-track-options="{"dimension28":"5","dimension29":"Living in Liechtenstein"}" href="/guidance/living-in-liechtenstein">Living in Liechtenstein</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/swiss-citizens-rights-agreement-and-explainer" data-track-options="{"dimension28":"5","dimension29":"Swiss Citizens’ Rights Agreement and Explainer"}" href="/government/publications/swiss-citizens-rights-agreement-and-explainer">Swiss Citizens’ Rights Agreement and Explainer</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/eea-efta-separation-agreement-and-explainer" data-track-options="{"dimension28":"5","dimension29":"EEA EFTA Separation Agreement and Explainer"}" href="/government/publications/eea-efta-separation-agreement-and-explainer">EEA EFTA Separation Agreement and Explainer</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-norway" data-track-options="{"dimension28":"5","dimension29":"Living in Norway"}" href="/guidance/living-in-norway">Living in Norway</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-cyprus" data-track-options="{"dimension28":"5","dimension29":"Living in Cyprus"}" href="/guidance/living-in-cyprus">Living in Cyprus</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-e8f0d2f3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-1f031656" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-e8f0d2f3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-1f031656" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-switzerland" data-track-options="{"dimension28":"2","dimension29":"Switzerland: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-switzerland">Switzerland: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-switzerland" data-track-options="{"dimension28":"2","dimension29":"Healthcare in Switzerland"}" href="/guidance/healthcare-in-switzerland">Healthcare in Switzerland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-switzerland" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Switzerland"}" href="/guidance/healthcare-in-switzerland">Healthcare for UK nationals living in Switzerland</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-e8f0d2f3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1f031656" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-e8f0d2f3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-1f031656" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -637,9 +665,9 @@ Find out more about <a href="https://www.gov.uk/guidance/social-security-contrib
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8a8d22f6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-82cfe081" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8a8d22f6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-82cfe081" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
