@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Liechtenstein
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to and living in Liechtenstein, including Brexit guidance, residency, healthcare and driving. </p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to and living in Liechtenstein, including guidance on residency, healthcare and driving. </p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 13 April 2018
-    <br></br>Last updated 16 April 2019
+    <br></br>Last updated 9 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a> and <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>
                 </span>
             </dd>
         </dl>
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,67 +62,71 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-liechtenstein" data-track-options="{"dimension29":"Working in Liechtenstein"}" href="#working-in-liechtenstein">Working in Liechtenstein</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-liechtenstein" data-track-options="{"dimension29":"Working in Liechtenstein"}" href="#working-in-liechtenstein">Working in Liechtenstein</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-liechtenstein" data-track-options="{"dimension29":"Driving in Liechtenstein"}" href="#driving-in-liechtenstein">Driving in Liechtenstein</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#driving-in-liechtenstein" data-track-options="{"dimension29":"Driving in Liechtenstein"}" href="#driving-in-liechtenstein">Driving in Liechtenstein</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -132,7 +137,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <p>You should:</p>
 
@@ -140,15 +145,17 @@
   <li>
 <a rel="external" href="https://www.liechtenstein-business.li/en/living-in-liechtenstein/life-in-the-principality/residence-permits" class="govuk-link">register as a resident</a> in Liechtenstein</li>
   <li>
-<a href="https://www.gov.uk/guidance/living-in-liechtenstein#passports-and-travel" class="govuk-link">check your passport</a> is valid for travel</li>
-  <li>
 <a href="https://www.gov.uk/guidance/living-in-liechtenstein#driving-in-liechtenstein" class="govuk-link">exchange your UK driving licence</a> for a Liechtenstein one</li>
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the Liechtenstein Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/liechtenstein" class="govuk-link">Liechtenstein</a> travel advice for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-liechtenstein" class="govuk-link">email alerts on living in Liechtenstein</a>
@@ -157,50 +164,67 @@
 </li>
 </ul>
 
-<h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
-
-<p>The British Embassy regularly holds events for UK nationals in Liechtenstein. <a href="https://www.gov.uk/government/news/british-embassy-roadshows-in-switzerland" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Liechtenstein after Brexit.</p>
-
-<p>You can also:</p>
-
-<ul>
-  <li>read the <a href="https://www.gov.uk/government/publications/eea-efta-separation-agreement-and-explainer" class="govuk-link">EEA EFTA Separation Agreement</a> which will apply if the UK leaves the EU with a deal</li>
-  <li>read the <a href="https://www.gov.uk/government/news/uk-and-eea-efta-states-strike-agreement-to-protect-citizens-rights-in-a-no-deal-scenario" class="govuk-link">EEA EFTA Citizens’ Rights Agreement</a> which will apply if the UK leaves the EU without a deal</li>
-</ul>
+<p>The British Embassy regularly holds events for UK nationals in Liechtenstein and online (Facebook). To keep up to date on working and living in Liechtenstein, you can also read the <a href="https://www.gov.uk/government/publications/eea-efta-separation-agreement-and-explainer" class="govuk-link">EEA EFTA Separation Agreement</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>Check the <a href="https://www.gov.uk/foreign-travel-advice/liechtenstein/entry-requirements" class="govuk-link">entry requirements for Liechtenstein</a>.</p>
 
-<p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a> for further information.</p>
+<h3 id="residency">Residency</h3>
 
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
+<p>If you are resident in Liechtenstein before the transition period ends on 31 December 2020, you will be able to stay.</p>
 
-<p>In the event of changes to residency rules or registration processes after Brexit, we will update this page as soon as information is available</p>
+<p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
+
+<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available. You should <a href="https://www.gov.uk/email-signup?link=/world/living-in-liechtenstein" class="govuk-link">sign up for updates</a> to this guidance.</p>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the Schengen area or elsewhere in the EU with your UK passport.</p>
+
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
+
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from Liechtenstein</a>.</p>
 
-<p>You can look at our <a href="https://www.gov.uk/foreign-travel-advice/liechtenstein/" class="govuk-link">travel advice for Liechtenstein</a> and sign up for up-to-date information on local laws and customs, safety and emergencies.</p>
+<h3 id="passports-from-1-january-2021">Passports from 1 January 2021</h3>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+<p><a href="https://www.gov.uk/check-a-passport-travel-europe-1-january-2021" class="govuk-link">Check your passport is valid for travel</a> before you book your trip.</p>
 
-<p><a rel="external" href="https://www.passport.service.gov.uk/check-a-passport" class="govuk-link">Check your passport is valid for travel</a> before you book your trip. You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+<p>From 1 January 2021, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). This requirement does not apply if you are entering or transiting to Liechtenstein, and you are in scope of the EEA EFTA Separation Agreement.</p>
 
-<p>If the UK leaves the EU with a deal, nothing will change until the end of 2020. During this time you can continue to travel freely in the Schengen area with your UK passport. What happens after 2020 will form the next part of negotiations.</p>
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
-<p>If the UK leaves the EU without a deal, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
+<p>You will need to <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
 
-<p>If there’s no deal, <a rel="external" href="https://www.consilium.europa.eu/en/press/press-releases/2019/04/09/visa-free-travel-after-brexit-council-adopts-regulation/" class="govuk-link">UK nationals will not need visas for short stays elsewhere in the Schengen area, including Liechtenstein</a>. You will be able to stay in Liechtenstein, other EEA countries or Switzerland for up to 90 days within a 180 day period. You must retain evidence of travel (e.g. train and plane tickets), in case these are requested by national authorities. If you hold a residence permit from an EU Member State or Liechtenstein, you will be able to transit through the Schengen area to reach your country of residence. We will update this guidance as more information becomes available.</p>
+<p>As a non-EEA national, different border checks will apply when travelling to other EU or Schengen area countries. You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from EU, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
+
+<h3 id="entry-requirements">Entry requirements</h3>
+
+<p>From 1 January 2021, you will be able to travel to other Schengen area countries for up to 90 days in any 180-day period without a visa for purposes such as tourism. This is a rolling 180-day period.</p>
+
+<p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
+
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and Ireland will not change.</p>
+
+<p>Different rules will apply to EU countries that are not part of the Schengen Area. Check each country’s <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice page</a> for information on entry requirements.</p>
 
 <h2 id="healthcare">Healthcare</h2>
 
+<p>Social security coordination is covered by the Separation Agreement for those residing in Liechtenstein. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Liechtenstein before the transition period ends on 31 December 2020, for as long as they remain in scope. This includes students and S1 holders.</p>
+
 <p>You must register for healthcare as a resident in Liechtenstein.</p>
 
-<p>Read the guidance on who is able to <a href="https://www.gov.uk/guidance/healthcare-in-liechtenstein" class="govuk-link">access healthcare in Liechtenstein and how to register</a>.</p>
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-liechtenstein" class="govuk-link">guidance on who is able to access healthcare in Liechtenstein and how to register</a>.</p>
 
-<p>If you are resident in Liechtenstein, you must not use a European Health Insurance Card (EHIC) from the UK to access healthcare in Liechtenstein</p>
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
+<p>If you live in Liechtenstein and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+
+<p>Read our ]guidance on how to get an S1 form](https://www.gov.uk/guidance/healthcare-in-liechtenstein#s1).</p>
+
+<h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
+
+<p>If you are resident in Liechtenstein, you must not use an EHIC from the UK to access healthcare in Liechtenstein.</p>
 
 <p>When you travel from Liechtenstein for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay:</p>
 
@@ -211,43 +235,30 @@
 </li>
 </ul>
 
-<p>If you live in Liechtenstein and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+<p>You can continue to use your EHIC, as you did before, until the transition period ends on 31 December 2020. If you’re travelling to other countries make sure you have comprehensive health insurance.</p>
 
-<p>Read information about <a href="https://www.gov.uk/guidance/healthcare-in-liechtenstein" class="govuk-link">healthcare for UK nationals living in and visiting Liechtenstein</a>.</p>
+<p>You should also read guidance on:</p>
 
-<p>If you’re a student, read <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">the NHS guidance on healthcare and studying abroad</a>.</p>
-
-<p>You can find a <a href="https://www.gov.uk/government/publications/switzerland-and-liechtenstein-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctor</a> in Switzerland and Liechtenstein.</p>
-
-<p><a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">Check your prescriptions are legal</a> in Liechtenstein.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>If the UK leaves the EU with a deal, the separation agreement reached with Liechtenstein and the other EEA EFTA states will protect the rights of UK nationals resident in Liechtenstein by the end of the implementation period, for as long as they remain in scope. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Liechtenstein before Brexit, for as long as they reside in Liechtenstein. This includes students and S1 holders.</p>
-
-<p>The UK also reached an agreement with the EEA EFTA states on citizens’ rights if there’s no deal. This protects the rights of UK nationals living in the EEA EFTA states, including access to healthcare.</p>
-
-<p>Social security coordination is covered by the agreements for those residing in Liechtenstein and the other EEA EFTA states.</p>
-
-<p>If you’re travelling to other countries make sure you have comprehensive healthcare insurance.</p>
-
-<p>Read the <a href="https://www.gov.uk/guidance/healthcare-in-liechtenstein" class="govuk-link">guidance on healthcare for UK nationals in Liechtenstein and how it may change after Brexit</a>.</p>
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li>finding an <a href="https://www.gov.uk/government/publications/switzerland-and-liechtenstein-list-of-medical-facilitiespractitioners" class="govuk-link">English-speaking doctor</a> in Switzerland and Liechtenstein</li>
+  <li>
+<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking your prescriptions are legal</a> in Liechtenstein</li>
+</ul>
 
 <h2 id="working-in-liechtenstein">Working in Liechtenstein</h2>
 
-<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>, including Liechtenstein.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an EU country</a>, including Liechtenstein.</p>
 
 <p>If you live abroad and require a police certificate from the UK, you can apply for one through the <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">ACRO Criminal Record Office</a>.</p>
 
-<h3 id="working-in-liechtenstein-after-brexit">Working in Liechtenstein after Brexit</h3>
-
-<p>If there is a deal, your right to work will stay the same, as long as you remain resident in Liechtenstein</p>
-
-<p>Read the <a href="https://www.gov.uk/guidance/liechtenstein-providing-services-after-eu-exit" class="govuk-link">guidance on providing services after Brexit</a> if you’re planning to start a business, provide a service, or do a job in a regulated profession after Brexit.</p>
+<p>If you are resident in Liechtenstein on or before 31 December 2020, your right to work will stay the same, as long as you remain resident in Liechtenstein.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>The UK has a double-taxation agreement with Liechtenstein to ensure people do not pay tax on the same income in both countries.</p>
+<p>The UK has a double taxation agreement with Liechtenstein to ensure people do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
+
+<p>Existing double taxation arrangements for UK nationals living in Liechtenstein have not changed.</p>
 
 <p>Read the guidance on:</p>
 
@@ -264,19 +275,7 @@
 
 <p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
 
-<p>If you are employed or self-employed in the EU and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
-
-<p>If there’s no deal and the end date on your form is after the day the UK leaves the EU, you should contact the relevant EU or EEA authority. They will confirm whether you need to start paying social security contributions in that country after Brexit, as well as UK National Insurance contributions.</p>
-
-<p>Find out more about <a href="https://www.gov.uk/guidance/social-security-contributions-for-uk-and-eu-workers-if-the-uk-leaves-the-eu-with-no-deal" class="govuk-link">social security contributions after a no-deal Brexit</a>.</p>
-
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Liechtenstein. Send your questions about double taxation to the relevant tax authority.</p>
-
-<p>If there’s no deal, it may become more expensive to use your UK bank card in Liechtenstein.</p>
-
-<p>Read more about <a href="https://www.gov.uk/government/publications/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal/banking-insurance-and-other-financial-services-if-theres-no-brexit-deal-information-for-people-living-in-the-eea" class="govuk-link">using a bank card, insurance or other financial service after Brexit</a>.</p>
+<p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
 <h2 id="pensions">Pensions</h2>
 
@@ -296,13 +295,13 @@
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
 
-<p>Social security coordination is covered by our citizens’ rights agreements in both a deal and no-deal Brexit. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Liechtenstein before Brexit for as long as they reside in an EEA EFTA state (Iceland, Liechtenstein or Norway). This includes the right to an uprated UK State Pension.</p>
-
-<p>Read <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario" class="govuk-link">guidance on benefits and pensions if there’s no deal</a>.</p>
+<p>Social security coordination is covered by the Separation Agreement for those residing in Liechtenstein. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Liechtenstein before the transition period ends on 31 December 2020 for as long as they reside in an EEA EFTA state (Iceland, Liechtenstein or Norway). This includes the right to an uprated UK State Pension.</p>
 
 <h2 id="benefits">Benefits</h2>
+
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in Liechtenstein.</p>
 
@@ -321,15 +320,13 @@
 
 <p>You may be eligible to claim some Liechtenstein social security benefits. Read <a rel="external" href="http://ec.europa.eu/social/main.jsp?catId=1118&langId=en" class="govuk-link">Liechtenstein social security benefits</a>.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-january-2020">Benefits after 31 January 2020</h3>
 
-<p>The UK government will continue to pay child benefits, and disability benefits to those eligible in the EU after the UK leaves the EU.</p>
-
-<p>Read our <a href="https://www.gov.uk/guidance/uk-nationals-in-the-eu-benefits-and-pensions-in-a-no-deal-scenario" class="govuk-link">guidance on benefits and pensions if there’s no deal</a>.</p>
+<p>Social security coordination is covered by the Separation Agreement. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Liechtenstein before the transition period ends on 31 December 2020, for as long as they reside in Liechtenstein.</p>
 
 <h2 id="driving-in-liechtenstein">Driving in Liechtenstein</h2>
 
-<p>If you are resident in Liechtenstein, you have 12 months to swap your UK licence for a Liechtenstein one. Your UK licence will be accepted in Liechtenstein for up to 12 months. This will not be affected by Brexit.</p>
+<p>If you are resident in Liechtenstein, you have 12 months to swap your UK licence for a Liechtenstein one. Your UK licence will be accepted in Liechtenstein for up to 12 months. This will not be affected by the UK leaving the EU.</p>
 
 <p>For information on driving in Liechtenstein, read the guidance on:</p>
 
@@ -346,18 +343,12 @@
 
 <p>Read the EU´s guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/registration/taxes/index_en.htm" class="govuk-link">car registration and taxes in Liechtenstein</a>. You may be exempt from some of these taxes. If so, you will need certificates of exemption.</p>
 
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
-
-<p>If there is a deal, driving licence rules will stay the same during the transition period.</p>
-
-<p>Read our guidance on <a href="https://www.gov.uk/guidance/prepare-to-drive-in-the-eu-after-brexit" class="govuk-link">driving in the EU after the UK leaves the EU</a>.</p>
-
 <h2 id="voting">Voting</h2>
 
 <p>You may be able to vote in some UK elections.</p>
 
 <ul>
-  <li><a rel="external" href="https://www.yourvotematters.co.uk/can-i-vote/overseas" class="govuk-link">check if you are able to vote</a></li>
+  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
   <li>
 <a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter</a> if you would like to vote</li>
 </ul>
@@ -425,7 +416,7 @@
 
 <h3 id="disclaimer">Disclaimer</h3>
 
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Liechtenstein authorities. The Foreign and Commonwealth Office will not be liable for any inaccuracies in this information.</p>
+<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Liechtenstein authorities. The Foreign, Commonwealth & Development Office will not be liable for any inaccuracies in this information.</p>
 </div>
 </div>
 
@@ -433,10 +424,18 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 13 April 2018
-    <br></br>Last updated 16 April 2019
+    <br></br>Last updated 9 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-09T08:21:36.000+01:00">9 September 2020</time>
+              <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T11:11:06.000+00:00">23 January 2020</time>
+              <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity if the UK leaves the EU with a deal.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-04-16T14:05:12.000+01:00">16 April 2019</time>
               <p class="app-c-published-dates__change-note">EU Exit update: Updated sections on passports, healthcare and visas and residency</p>
@@ -501,8 +500,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -510,52 +509,36 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-3d9de093" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-0c4abc7a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3d9de093" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-0c4abc7a" data-module="gem-toggle">
 
+    <h3 id="related-nav-related_guides-0c4abc7a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-estonia" data-track-options="{"dimension28":"5","dimension29":"Living in Estonia"}" href="/guidance/living-in-estonia">Living in Estonia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-hungary" data-track-options="{"dimension28":"5","dimension29":"Living in Hungary"}" href="/guidance/living-in-hungary">Living in Hungary</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-latvia" data-track-options="{"dimension28":"5","dimension29":"Living in Latvia"}" href="/guidance/living-in-latvia">Living in Latvia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-switzerland" data-track-options="{"dimension28":"2","dimension29":"Switzerland: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-switzerland">Switzerland: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.2 Detailed guidance" data-track-label="/guidance/healthcare-in-liechtenstein" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Liechtenstein"}" href="/guidance/healthcare-in-liechtenstein">Healthcare for UK nationals living in Liechtenstein</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-3d9de093" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-0c4abc7a" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-3d9de093" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-switzerland" data-track-options="{"dimension28":"1","dimension29":"Switzerland: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-switzerland">Switzerland: notarial and documentary services</a></li>
-
-  </ul>
-</nav>
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-3d9de093" data-module="gem-toggle">
-
-    <h3 id="related-nav-collections-3d9de093" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-0c4abc7a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="3.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
 
   </ul>
 </nav>
@@ -582,9 +565,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2d63fac4" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8a2312bf" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2d63fac4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8a2312bf" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
