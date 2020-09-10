@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Ireland
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information British people moving to and living in Ireland, including Brexit guidance, residency, healthcare and driving.</p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to and living in Ireland, including guidance on residency, healthcare and driving.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 14 May 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 10 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a> and <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>
                 </span>
             </dd>
         </dl>
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,67 +62,71 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-must-do" data-track-options="{"dimension29":"Brexit: what you must do"}" href="#brexit-what-you-must-do">Brexit: what you must do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-must-do" data-track-options="{"dimension29":"What you must do"}" href="#what-you-must-do">What you must do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#working-in-ireland" data-track-options="{"dimension29":"Working in Ireland"}" href="#working-in-ireland">Working in Ireland</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#working-in-ireland" data-track-options="{"dimension29":"Working in Ireland"}" href="#working-in-ireland">Working in Ireland</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#driving-in-ireland" data-track-options="{"dimension29":"Driving in Ireland"}" href="#driving-in-ireland">Driving in Ireland</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#driving-in-ireland" data-track-options="{"dimension29":"Driving in Ireland"}" href="#driving-in-ireland">Driving in Ireland</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -132,7 +137,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-must-do">Brexit: what you must do</h2>
+<h2 id="what-you-must-do">What you must do</h2>
 
 <p>You must:</p>
 
@@ -141,17 +146,24 @@
     <p><a rel="external" href="https://ndls.ie/how-to-apply/exchange-a-uk-ni-licence.html#to-complete-an-application-prior-to-1-november-you-will-need-to-submit" class="govuk-link">exchange your UK driving licence for an Irish one</a></p>
   </li>
   <li>
-    <p>read the <a href="https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance" class="govuk-link">Common Travel Area Guidance</a> to understand what it covers</p>
+    <p>read the <a href="https://www.gov.uk/government/publications/common-travel-area-guidance" class="govuk-link">Common Travel Area Guidance</a> to understand what it covers</p>
   </li>
   <li>
     <p>if you are planning to travel to and from the UK with a pet, consult your vet</p>
   </li>
+  <li>
+    <p>get your professional qualifications recognised</p>
+  </li>
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+
+<p>You should follow the advice of the Irish Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/ireland" class="govuk-link">Ireland travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>sign up for <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-ireland" class="govuk-link">email alerts on living in Ireland</a>
@@ -160,21 +172,17 @@
 </li>
 </ul>
 
-<h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
-
-<p>The British Embassy regularly holds events across Ireland for UK citizens. <a href="https://www.gov.uk/government/news/information-for-uk-nationals-living-in-ireland" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Ireland after Brexit.</p>
-
 <p>You can also:</p>
 
 <ul>
-  <li>read the <a rel="external" href="https://www.dfa.ie/brexit/" class="govuk-link">Irish government’s website</a> on how to prepare for the UK leaving the EU</li>
+  <li>read the <a rel="external" href="https://www.dfa.ie/brexit/" class="govuk-link">Irish government’s website</a> for UK citizens living in Ireland</li>
 </ul>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>UK citizens do not need a visa or residency permit to live, work or study in Ireland. Under the Common Travel Area (<abbr title="Common Travel Area">CTA</abbr>), UK and Irish citizens can live and work freely in each other’s countries and travel freely between them. Both the UK and Irish governments are committed to protecting the <abbr title="Common Travel Area">CTA</abbr>. Read our <a href="https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance" class="govuk-link">guidance on the <abbr title="Common Travel Area">CTA</abbr></a>.</p>
 
-<p>Irish government’s citizens information has <a rel="external" href="https://www.citizensinformation.ie/en/" class="govuk-link">advice about moving to and living in Ireland</a>.</p>
+<p>Ireland’s Citizens Information service has <a rel="external" href="https://www.citizensinformation.ie/en/" class="govuk-link">advice about moving to and living in Ireland</a>.</p>
 
 <p>You must tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/claim-benefits-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
@@ -182,25 +190,41 @@
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
+<p>Your travel rights for Ireland are preserved under the <a href="https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance" class="govuk-link">Common Travel Area</a>. There will be no changes to the rules on travel between the UK and Ireland after the end of the transition period.</p>
+
+<p>The rules on travel within the rest of the EU will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the Schengen area or elsewhere in the EU with your UK passport.</p>
+
+<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
+
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for or renew your British passport from Ireland</a>.</p>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+<h3 id="passports-from-1-january-2021">Passports from 1 January 2021</h3>
 
-<p>Check your passport is valid for travel before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity beyond this.</p>
+<p><a href="https://www.gov.uk/check-a-passport-travel-europe-1-january-2021" class="govuk-link">Check your passport is valid for travel</a> before you book your trip.</p>
 
-<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on it.</p>
+<p>From 1 January 2021, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including the UK).</p>
 
-<p>The rules on travel will stay the same until the implementation period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
-<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-ireland" class="govuk-link">sign up for updates</a> to this guidance.</p>
+<p>You will need to <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
 
-<p>Your travel rights for Ireland are preserved under the <a href="https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance" class="govuk-link">Common Travel Area</a>.</p>
+<p>As a non-EEA national, different border checks will apply when travelling to other EU or Schengen area countries. You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from EU, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
+
+<h3 id="entry-requirements">Entry requirements</h3>
+
+<p>From 1 January 2021, you will be able to travel to Schengen area countries for up to 90 days in any 180-day period without a visa. This is a rolling 180-day period.</p>
+
+<p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
+
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK will not change.</p>
+
+<p>Different rules will apply to EU countries that are not part of the Schengen Area. Check each country’s <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice page</a> for information on entry requirements.</p>
 
 <h2 id="healthcare">Healthcare</h2>
 
 <p>Read our <a href="https://www.gov.uk/foreign-travel-advice/ireland/health" class="govuk-link">travel advice for Ireland</a>.</p>
 
-<p>Under the <abbr title="Common Travel Area">CTA</abbr>, UK citizens have the right to access healthcare in Ireland. When visiting, UK citizens also have the right to access needs-arising healthcare. Both governments have committed to taking steps to ensure that this will continue after the UK leaves the EU.</p>
+<p>Under the <abbr title="Common Travel Area">CTA</abbr>, UK citizens who live in Ireland have the right to access healthcare in Ireland. When visiting, UK citizens also have the right to access needs-arising healthcare.</p>
 
 <p>You may need to pay a fee to access public healthcare in Ireland on the same basis as Irish citizens. However, you may be eligible for a means tested medical card. If you do not qualify for a medical card on income grounds, you may qualify for a GP Visit card. Find information on <a rel="external" href="https://www.citizensinformation.ie/en/health/medical_cards_and_gp_visit_cards/gp_visit_cards.html" class="govuk-link">Medical and GP Visit Cards</a>.</p>
 
@@ -212,23 +236,33 @@
 
 <p>You must <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check if your prescriptions are legal</a> in Ireland.</p>
 
-<p>If you are visiting Ireland, it is important to take out comprehensive travel insurance that covers medical treatment. Read more about <a href="https://www.gov.uk/guidance/foreign-travel-insurance" class="govuk-link">what your travel insurance should cover</a>.</p>
+<p>If you are visiting Ireland, you should take out comprehensive travel insurance that covers medical treatment. Read more about <a href="https://www.gov.uk/guidance/foreign-travel-insurance" class="govuk-link">what your travel insurance should cover</a>.</p>
 
 <p>If you need emergency medical assistance, dial 999 or 112 and ask for an ambulance. If you are referred to a medical facility for treatment, contact your insurance and/or medical assistance company immediately.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
-<p>Your access to healthcare will not change after Brexit.</p>
 
 <h2 id="working-in-ireland">Working in Ireland</h2>
 
 <p>Under the <abbr title="Common Travel Area">CTA</abbr>, UK citizens do not need a visa or residency permit to live, work or study in Ireland. Both the UK and Irish governments are committed to protecting the <abbr title="Common Travel Area">CTA</abbr>.</p>
 
-<p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/acro_std.aspx?id=2379" class="govuk-link">UK criminal records check</a>. You can also get a <a rel="external" href="https://www.citizensinformation.ie/en/moving_country/moving_abroad/leaving_ireland/police_certificate.html" class="govuk-link">police certificate</a> from the Gardaí.</p>
+<p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK criminal records check</a>. You can also get a <a rel="external" href="https://www.citizensinformation.ie/en/moving_country/moving_abroad/leaving_ireland/police_certificate.html" class="govuk-link">police certificate</a> from the Gardaí.</p>
 
 <p>Read the Irish government’s <a rel="external" href="https://www.citizensinformation.ie/en/employment/" class="govuk-link">Citizens Information on employment</a>.</p>
 
-<p>UK professionals planning to practice regulated professions in Ireland should seek recognition of their professional qualifications before the implementation period ends on 31 December 2020.</p>
+<h3 id="professional-qualifications">Professional Qualifications</h3>
+
+<p>UK professionals planning to practice regulated professions in Ireland should check recognition of their professional qualifications before the implementation period ends on 31 December 2020.</p>
+
+<p>If you have already been recognised by an EU country as holding valid professional qualifications, this will remain valid.</p>
+
+<p>If you have not had your professional qualifications recognised, you can submit an application under the current rules until 31 December 2020.</p>
+
+<p>For help with this:</p>
+
+<ul>
+  <li>read the Irish government’s <a rel="external" href="https://www.citizensinformation.ie/en/returning_to_ireland/starting_work/Recognition_of_professional_qualifications_in_ireland.html#l59fac" class="govuk-link">guidance on the recognition of professional qualifications</a>
+</li>
+  <li>contact the relevant regulatory body for your profession</li>
+</ul>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
@@ -240,7 +274,7 @@
 
 <h3 id="national-insurance">National Insurance</h3>
 
-<p>If you work in Ireland, your position will not change after Brexit. The UK and Irish governments will maintain all existing arrangements for Social Insurance contributions and entitlements, following the convention that formalises the Common Travel Area social protection arrangements.</p>
+<p>The UK and Irish governments have a bilateral agreement to ensure that social security rights, including existing arrangements for social insurance contributions, will continue to be protected now the UK has left the EU.</p>
 
 <h2 id="pensions">Pensions</h2>
 
@@ -256,9 +290,7 @@
 
 <p>If you are getting a UK State Pension and receive a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible – your payments may be suspended if you do not.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
-
-<p>The UK and Irish governments have concluded a bilateral agreement to ensure that social security rights, including access to pensions, will continue to be protected after the UK leaves the EU. This agreement also means that there will be no change to the payment of your UK State Pension in Ireland. UK State Pensions will continue to be paid as now, including upratings.</p>
+<p>The UK and Irish governments have a bilateral agreement to ensure social security rights, including access to pensions. This agreement means that there will be no change to the payment of your UK State Pension in Ireland. UK State Pensions will continue to be paid as before 31 January 2020, including upratings.</p>
 
 <h2 id="benefits">Benefits</h2>
 
@@ -285,15 +317,17 @@
 
 <p>Read the <a rel="external" href="http://www.welfare.ie/en/Pages/Habitual-Residence-Condition--Guidelines-for-Deciding-Offic.aspx#sect6" class="govuk-link">Irish Department of Employment Affairs and Social Protection guidance</a> and the <a rel="external" href="https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/" class="govuk-link">Irish government’s guidance on Irish social welfare payments</a>.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
-
-<p>The UK and Irish governments have concluded a bilateral agreement to ensure that social security rights, including access to social security benefits and entitlements, will continue to be protected after the UK leaves the EU.</p>
+<p>The UK and Irish governments have a bilateral agreement to ensure that social security rights, including access to social security benefits and entitlements, will continue to be protected now the UK has left the EU.</p>
 
 <h2 id="driving-in-ireland">Driving in Ireland</h2>
 
 <p>If you live in Ireland, you should <a rel="external" href="https://ndls.ie/how-to-apply/exchange-a-uk-ni-licence.html#to-complete-an-application-prior-to-1-november-you-will-need-to-submit" class="govuk-link">exchange your UK driving licence for an Irish one</a> before the 31 December 2020.</p>
 
+<p>The rules for exchanging a UK licence will stay the same until 31 December 2020.</p>
+
 <p>If you are visiting Ireland, you can drive with your existing UK driving licence.</p>
+
+<p>Read the Irish government’s <a rel="external" href="https://www.ndls.ie/how-to-apply/exchange-a-uk-ni-licence.html" class="govuk-link">guidance on driving licences and FAQ’s</a>.</p>
 
 <p>See <a href="https://www.gov.uk/driving-abroad" class="govuk-link">driving abroad</a> and <a rel="external" href="https://www.ndls.ie/images/Documents/FAQs/FAQ%20on%20Brexit%20Implications.pdf" class="govuk-link">Irish guidance on British driving licences</a>.</p>
 
@@ -301,27 +335,27 @@
 
 <p>Read our guidance on <a href="https://www.gov.uk/taking-vehicles-out-of-uk" class="govuk-link">taking a vehicle out of the UK</a>.</p>
 
-<h3 id="driving-in-ireland-after-brexit">Driving in Ireland after Brexit</h3>
-
-<p>Driving licence rules will stay the same until 31 December 2020.</p>
-
-<p>Read the Irish government’s <a rel="external" href="https://www.ndls.ie/how-to-apply/exchange-a-uk-ni-licence.html" class="govuk-link">guidance on driving licences and FAQ’s</a>.</p>
-
 <h2 id="pets">Pets</h2>
 
-<p>Current pet travel rules will stay the same until 31 December 2020.</p>
+<p>Current pet travel rules for taking your pet to Europe and Northern Ireland will stay the same.</p>
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p>Read <a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">guidance on pet travel</a>.</p>
+<p>Read our <a href="https://www.gov.uk/guidance/pet-travel-to-europe-after-brexit" class="govuk-link">guidance on pet travel to NI and Europe from 1 January 2021</a>.</p>
+
+<p>If you are travelling to Great Britain with your pet after the 31 December 2020 and are planning on re-entering Ireland afterwards, you should contact your vet to make sure your animal has all the health and documentary preparation it needs.</p>
+
+<p>Read our <a href="https://www.gov.uk/bring-pet-to-uk" class="govuk-link">guidance on bringing your pet to Great Britain</a>.</p>
 
 <p>The Irish government has also published <a rel="external" href="https://www.agriculture.gov.ie/pets/" class="govuk-link">information on pet travel</a>.</p>
 
 <h2 id="voting">Voting</h2>
 
-<p>If you are a UK national living in Ireland you are entitled to register to vote with the relevant authorities for local and national parliamentary elections in that state on the same basis as Irish citizens.</p>
+<p>Upon reaching voting age you can register with the relevant authorities to vote in local and national parliamentary elections.</p>
 
-<p>You can read the <a rel="external" href="https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/introduction_to_the_irish_system/right_to_vote.html" class="govuk-link">Irish government’s guidance</a> on voting in Ireland.</p>
+<p>Read the <a rel="external" href="https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/introduction_to_the_irish_system/right_to_vote.html" class="govuk-link">Irish government’s guidance on voting and how to register</a>.</p>
+
+<p>You cannot vote in European parliamentary elections.</p>
 
 <p>You may be able to vote in some UK elections. You can:</p>
 
@@ -345,7 +379,7 @@
     <p>read our guidance on <a href="https://www.gov.uk/after-a-death/death-abroad" class="govuk-link">what to do after someone dies</a></p>
   </li>
   <li>
-    <p>find a <a href="https://www.gov.uk/government/publications/ireland-list-of-funeral-directors" class="govuk-link">list of funeral directors in Ireland</a></p>
+    <p>find a <a rel="external" href="https://rip.ie/services/All/Funeral_Directors" class="govuk-link">list of funeral directors in Ireland</a></p>
   </li>
   <li>
     <p>read our <a href="https://www.gov.uk/government/publications/ireland-bereavement-death-abroad" class="govuk-link">bereavement pack</a></p>
@@ -354,7 +388,7 @@
 
 <p>Find out how to <a href="https://www.gov.uk/marriage-abroad" class="govuk-link">get married abroad</a>.</p>
 
-<p>You may also need to <a href="https://www.gov.uk/government/publications/ireland-list-of-lawyers" class="govuk-link">find a lawyer in Ireland</a>.</p>
+<p>You may also need to <a rel="external" href="https://www.lawsociety.ie/" class="govuk-link">find a lawyer in Ireland</a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -376,7 +410,7 @@
 
 <h3 id="disclaimer">Disclaimer</h3>
 
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Irish authorities. The FCO will not be liable for any inaccuracies in this information.</p>
+<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Irish authorities. The FCDO will not be liable for any inaccuracies in this information.</p>
 
 </div>
 </div>
@@ -385,10 +419,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 14 May 2013
-    <br></br>Last updated 24 January 2020
+    <br></br>Last updated 10 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-10T11:25:44.000+01:00">10 September 2020</time>
+              <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-24T17:33:43.000+00:00">24 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity if the UK leaves the EU with a deal.</p>
@@ -486,47 +524,47 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-f4ba050f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-c2ee0305" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f4ba050f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c2ee0305" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-portugal" data-track-options="{"dimension28":"5","dimension29":"Living in Portugal"}" href="/guidance/living-in-portugal">Living in Portugal</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-greece" data-track-options="{"dimension28":"5","dimension29":"Living in Greece"}" href="/guidance/living-in-greece">Living in Greece</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"5","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-f4ba050f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-c2ee0305" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-f4ba050f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-c2ee0305" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/healthcare-in-ireland" data-track-options="{"dimension28":"1","dimension29":"Healthcare in Ireland"}" href="/guidance/healthcare-in-ireland">Healthcare in Ireland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/healthcare-in-ireland" data-track-options="{"dimension28":"1","dimension29":"Healthcare for UK nationals living in Ireland"}" href="/guidance/healthcare-in-ireland">Healthcare for UK nationals living in Ireland</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-f4ba050f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-c2ee0305" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-f4ba050f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-c2ee0305" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -558,9 +596,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-96fdd559" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-b700b385" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-96fdd559" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-b700b385" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
