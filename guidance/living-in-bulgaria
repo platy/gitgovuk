@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Living in Bulgaria
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Bulgaria, including guidance on Brexit, residency, healthcare and passports. </p>
+  <p class="gem-c-lead-paragraph">Official information for UK nationals moving to or living in Bulgaria, including guidance on residency, healthcare, passports and the Withdrawal Agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 22 March 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 11 September 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -34,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a> and <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>
                 </span>
             </dd>
         </dl>
@@ -50,6 +50,7 @@
 
 
 
+
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     
@@ -61,79 +62,87 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#brexit-what-you-should-do" data-track-options="{"dimension29":"Brexit: what you should do"}" href="#brexit-what-you-should-do">Brexit: what you should do</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#coronavirus" data-track-options="{"dimension29":"Coronavirus"}" href="#coronavirus">Coronavirus</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#applying-for-bulgarian-citizenship" data-track-options="{"dimension29":"Applying for Bulgarian citizenship"}" href="#applying-for-bulgarian-citizenship">Applying for Bulgarian citizenship</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#the-withdrawal-agreement" data-track-options="{"dimension29":"The Withdrawal Agreement"}" href="#the-withdrawal-agreement">The Withdrawal Agreement</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#visas-and-residency" data-track-options="{"dimension29":"Visas and residency"}" href="#visas-and-residency">Visas and residency</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#applying-for-bulgarian-citizenship" data-track-options="{"dimension29":"Applying for Bulgarian citizenship"}" href="#applying-for-bulgarian-citizenship">Applying for Bulgarian citizenship</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#driving-in-bulgaria" data-track-options="{"dimension29":"Driving in Bulgaria"}" href="#driving-in-bulgaria">Driving in Bulgaria</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#healthcare" data-track-options="{"dimension29":"Healthcare"}" href="#healthcare">Healthcare</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#working-in-bulgaria" data-track-options="{"dimension29":"Working in Bulgaria"}" href="#working-in-bulgaria">Working in Bulgaria</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#passports-and-travel" data-track-options="{"dimension29":"Passports and travel"}" href="#passports-and-travel">Passports and travel</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#driving-in-bulgaria" data-track-options="{"dimension29":"Driving in Bulgaria"}" href="#driving-in-bulgaria">Driving in Bulgaria</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#working-in-bulgaria" data-track-options="{"dimension29":"Working in Bulgaria"}" href="#working-in-bulgaria">Working in Bulgaria</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#other-useful-information" data-track-options="{"dimension29":"Other useful information"}" href="#other-useful-information">Other useful information</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 20" data-track-label="#other-useful-information" data-track-options="{"dimension29":"Other useful information"}" href="#other-useful-information">Other useful information</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 21" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK"}" href="#returning-to-the-uk">Returning to the UK</a>
 
         </li>
     </ol>
@@ -144,7 +153,7 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<h2 id="brexit-what-you-should-do">Brexit: what you should do</h2>
+<h2 id="what-you-should-do">What you should do</h2>
 
 <ul>
   <li>
@@ -156,9 +165,12 @@
 </ul>
 </div>
 
+<h2 id="coronavirus">Coronavirus</h2>
+<p>You should follow the advice of the Bulgarian Government and your local authority. You can also read our <a href="https://www.gov.uk/foreign-travel-advice/bulgaria" class="govuk-link">Bulgaria travel advice</a> for our latest guidance.</p>
+
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
-<p>The UK is leaving the EU. This page tells you how to prepare for Brexit and will be updated if anything changes. You should:</p>
+<p>You should:</p>
 
 <ul>
   <li>sign up for email alerts on <a rel="external" href="https://gov.uk/email-signup/?topic=/world/living-in-bulgaria" class="govuk-link">living in Bulgaria</a>
@@ -169,22 +181,28 @@
 
 <h3 id="attend-a-citizen-outreach-meeting">Attend a citizen outreach meeting</h3>
 
-<p>The British Embassy regularly holds events across Bulgaria for UK nationals. <a href="https://www.gov.uk/government/news/british-embassy-outreach-events-in-bulgaria" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Bulgaria after Brexit.</p>
+<p>The British Embassy regularly holds events across Bulgaria for UK nationals. <a href="https://www.gov.uk/government/news/british-embassy-outreach-events-in-bulgaria" class="govuk-link">Attend one of our citizen outreach meetings</a> to keep up to date on working and living in Bulgaria.</p>
 
-<p>You can also:</p>
+<h2 id="the-withdrawal-agreement">The Withdrawal Agreement</h2>
 
-<ul>
-  <li>read <a href="https://www.gov.uk/guidance/living-in-the-eu-prepare-for-brexit" class="govuk-link">Living in the EU: prepare for Brexit</a>
-</li>
-</ul>
+<p>The <a href="https://www.gov.uk/government/publications/new-withdrawal-agreement-and-political-declaration" class="govuk-link">Withdrawal Agreement</a> sets out the terms of the UK’s withdrawal from the EU and provides for a deal on citizens’ rights. It sets out a transition period which lasts until 31 December 2020. During this time you can continue to live, work and study in the EU broadly as you did before 31 January 2020.</p>
+
+<p>If you are resident in Bulgaria at the end of the transition period, you will be covered by the Withdrawal Agreement, and your rights will be protected for as long as you remain resident in Bulgaria.</p>
+
+<p>Any rights that are not covered by the Withdrawal Agreement will be the subject of future negotiations. Read this guidance page for more information.</p>
+
+<p>In the meantime, make sure you are registered as a resident in Bulgaria. We will update this guidance as soon as more information becomes available.</p>
+
+<p>You should also read our <a href="https://www.gov.uk/guidance/living-in-europe" class="govuk-link">guidance on living in Europe</a>.</p>
 
 <h2 id="visas-and-residency">Visas and residency</h2>
 
 <p>See <a href="https://www.gov.uk/foreign-travel-advice/bulgaria/entry-requirements" class="govuk-link">our travel advice for entry requirements for Bulgaria</a>.</p>
 
-<p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
+<h3 id="residency">Residency</h3>
 
-<p>If you are staying more than 3 months, you must apply to your nearest police department for residency.</p>
+<p>If you are resident in Bulgaria before the transition period ends on 31 December 2020 you will be able to stay.
+If you arrive during the transition period and plan to stay for more than 3 months, you must apply to your nearest police department for residency.</p>
 
 <p>You will need to provide documentation proving that:</p>
 
@@ -202,33 +220,31 @@
 
 <p>You will also need to show your passport.</p>
 
-<p>You must check with <a rel="external" href="https://mvr.bg/migration/en/index" class="govuk-link">Migration Directorate of the Ministry of Interior</a> or with your nearest police department what further documentation you may need to apply for residency.</p>
-
 <p>Once you have been resident in Bulgaria for 5 years, you can apply to Migration Directorate for a permanent residency certificate.</p>
 
 <p>See the <a rel="external" href="https://www.mvr.bg/migration/en" class="govuk-link">Ministry of Interior’s Migration Directorate website</a> for how to get long-term and permanent residence permits or contact your <a rel="external" href="https://www.mvr.bg/migration" class="govuk-link">local migration office</a> or call +359 (2) 982 4808, email: <a href="mailto:migration.mvr.bg" class="govuk-link">migration@mvr.bg</a>.</p>
 
-<h3 id="visas-and-residency-after-brexit">Visas and residency after Brexit</h3>
+<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available.</p>
 
-<p>If you are resident in Bulgaria before the end of the implementation period on 31 December 2020 you will be able to stay.</p>
+<p>Read the Bulgarian Ministry of Interior’s <a rel="external" href="https://www.mvr.bg/en/about-the-ministry/brexit/information-about-brexit" class="govuk-link">guidance on residency for UK nationals in Bulgaria</a>.</p>
 
-<p>If there are changes to residency registration processes after Brexit, we will update this guidance as soon as information is available.</p>
-
-<p>Read the Bulgarian Ministry of Interior’s <a rel="external" href="https://www.mvr.bg/en/about-the-ministry/brexit/information-about-brexit" class="govuk-link">guidance on residency and Brexit</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <h2 id="applying-for-bulgarian-citizenship">Applying for Bulgarian citizenship</h2>
 
 <p>Once you have held a permanent residence permit in Bulgaria for 5 years, you can <a rel="external" href="https://newweb.mjs.bg/en/list-of-documents/#art_12" class="govuk-link">apply for Bulgarian citizenship</a>.</p>
 
+<p>If you apply for Bulgarian citizenship after 31 January 2020, you may have to renounce your UK citizenship, based on your personal circumstances (e.g. if you are not married to a Bulgarian citizen).</p>
+
 <p>For your Bulgarian citizenship application, you may need <a href="https://www.gov.uk/order-copy-birth-death-marriage-certificate" class="govuk-link">to order a birth, marriage or death certificate from the UK</a>. You may also need a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK criminal records certificate</a> in the UK.</p>
 
 <p>You may also be required to have these and other UK <a href="https://www.gov.uk/government/publications/bulgaria-list-of-translators" class="govuk-link">documents officially translated</a> and <a href="https://www.gov.uk/get-document-legalised" class="govuk-link">legalised</a> (apostilled).</p>
 
-<h3 id="applying-for-bulgarian-citizenship-after-brexit">Applying for Bulgarian citizenship after Brexit</h3>
-
-<p>If you apply for Bulgarian citizenship after 31 January 2020, you may have to renounce your UK citizenship, based on your personal circumstances (e.g. if you are not married to a Bulgarian citizen).</p>
-
 <h2 id="healthcare">Healthcare</h2>
+
+<p>If you are living in Bulgaria or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Bulgaria as you do now, provided you remain resident.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-bulgaria" class="govuk-link">guidance on who can access healthcare in Bulgaria and how to register</a>.</p>
 
 <h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
@@ -247,81 +263,97 @@
 </li>
 </ul>
 
-<p>If you are a student, read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">NHS guidance on healthcare and studying abroad.</a></p>
-
-<p>You can find <a href="https://www.gov.uk/government/publications/bulgaria-list-of-medical-facilities" class="govuk-link">English-speaking doctors in Bulgaria.</a></p>
-
-<p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a> in Bulgaria.</p>
-
-<h3 id="healthcare-after-brexit">Healthcare after Brexit</h3>
-
 <p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your EHIC, as you did before, during this time.</p>
 
-<p>If you are living in Bulgaria or move there permanently before 31 December 2020, you’ll have life-long healthcare rights in Bulgaria as you do now, provided you remain resident.</p>
+<p>You should also read guidance on:</p>
+
+<ul>
+  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
+  <li>finding <a href="https://www.gov.uk/government/publications/bulgaria-list-of-medical-facilities" class="govuk-link">English-speaking doctors in Bulgaria</a>
+</li>
+  <li>
+<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking if your prescriptions are legal</a> in Bulgaria</li>
+</ul>
 
 <h2 id="passports-and-travel">Passports and travel</h2>
 
-<p>Read our <a href="https://www.gov.uk/foreign-travel-advice/bulgaria" class="govuk-link">travel advice for Bulgaria</a> and <a href="https://www.gov.uk/foreign-travel-advice/bulgaria/email-signup" class="govuk-link">sign up for up-to-date information</a> on local laws and customs, safety and emergencies.</p>
+<p>The rules on travel will stay the same until the transition period ends on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+
+<p>Check your passport is valid before you book your trip. Your passport should be valid for the proposed duration of your stay.</p>
 
 <p>You can <a href="https://www.gov.uk/overseas-passports" class="govuk-link">apply for your British passport from Bulgaria</a>.</p>
 
-<h3 id="passports-and-travel-after-brexit">Passports and travel after Brexit</h3>
+<h3 id="passports-from-1-january-2021">Passports from 1 January 2021</h3>
 
-<p><a href="https://www.gov.uk/check-a-passport-for-travel-to-europe" class="govuk-link">Check your passport is valid for travel</a> before you book your trip. Your passport should be valid for the proposed duration of your stay; you do not need any additional period of validity on your passport beyond this.</p>
+<p><a href="https://www.gov.uk/check-a-passport-travel-europe-1-january-2021" class="govuk-link">Check your passport is valid for travel</a> before you book your trip.</p>
 
-<p>You’ll need to <a href="https://www.gov.uk/renew-adult-passport/renew" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+<p>From 1 January 2021, you must have at least 6 months left on an adult or child passport to travel to most countries in Europe (not including Ireland). This requirement does not apply if you are entering or transiting to Bulgaria, and you are in scope of the Withdrawal Agreement.</p>
 
-<p>The rules on travel will stay the same until the end of the implementation period on 31 December 2020. During this time you can continue to travel to countries in the <a rel="external" href="https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf" class="govuk-link">Schengen area</a> or elsewhere in the EU with your UK passport.</p>
+<p>If you renewed your current passport before the previous one expired, extra months may have been added to its expiry date. Any extra months on your passport over 10 years may not count towards the 6 months needed.</p>
 
-<p>We will update these pages with details of any changes to the rules as soon as information is available. You should <a rel="external" href="https://gov.uk/email-signup/?topic=/world/living-in-bulgaria" class="govuk-link">sign up for updates</a>to this guidance.</p>
+<p>You will need to <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
+
+<p>As a non-EEA national, different border checks will apply when travelling to other EU or Schengen area countries. You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from EU, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
+
+<h3 id="entry-requirements">Entry Requirements</h3>
+
+<p>From 1 January 2021, you will be able to travel to other Schengen area countries for up to 90 days in any 180-day period without a visa for purposes such as tourism. This is a rolling 180-day period.</p>
+
+<p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
+
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and the Ireland will not change.</p>
+
+<p>Different rules will apply to EU countries that are not part of the Schengen Area. Check each country’s <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice page</a> for information on entry requirements.</p>
 
 <h2 id="driving-in-bulgaria">Driving in Bulgaria</h2>
 
-<p>Read our guidance on what you need to <a href="https://www.gov.uk/driving-abroad" class="govuk-link">drive abroad</a> and <a href="https://www.gov.uk/foreign-travel-advice/bulgaria/safety-and-security#road-travel" class="govuk-link">road travel in Bulgaria</a>.</p>
+<p>You will be able to use your UK driving licence until the transition period ends on 31 December 2020 or until your licence expires, whichever comes first.</p>
 
-<p>If you are resident in Bulgaria, you should exchange your UK licence for a Bulgarian driving licence within six months after first registering with Bulgarian authorities.</p>
+<p>If you are resident in Bulgaria, you should exchange your UK licence for a Bulgarian driving licence.  However, you must wait to do so until at least six months after you register for residency.</p>
 
 <p>To exchange your UK driving licence for a local one, contact the traffic police department at your nearest <a rel="external" href="https://www.mvr.bg/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE/other_sites" class="govuk-link">Regional Police Department</a>.</p>
 
 <p>You can still use your Bulgarian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
 
-<p>Read our guidance on <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/index_en.htm" class="govuk-link">driving licence renewal and exchange</a> and <a href="https://www.gov.uk/taking-vehicles-out-of-uk" class="govuk-link">taking a vehicle out of the UK</a>.</p>
+<p>Read the Bulgarian Ministry of Interior’s <a rel="external" href="https://www.mvr.bg/opp/%d0%b0%d0%b4%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%bd%d0%b8-%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8/%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0%d1%87%d0%b8/%d0%bf%d0%be%d0%b4%d0%bc%d1%8f%d0%bd%d0%b0-%d0%bd%d0%b0-%d1%81%d0%b2%d0%b8%d0%b4%d0%b5%d1%82%d0%b5%d0%bb%d1%81%d1%82%d0%b2%d0%be-%d0%b7%d0%b0-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%bc%d0%bf%d1%81-%d0%b8%d0%b7%d0%b4%d0%b0%d0%b4%d0%b5%d0%bd%d0%be-%d0%be%d1%82-%d0%b4%d1%80%d1%83%d0%b3%d0%b0-%d0%b4%d1%8a%d1%80%d0%b6%d0%b0%d0%b2%d0%b0-%d1%81-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d1%81%d0%ba%d0%be" class="govuk-link">on how to exchange your licence (in Bulgarian)</a>.</p>
 
-<h3 id="driving-after-brexit">Driving after Brexit</h3>
+<p>Read more about <a rel="external" href="https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-renewal-exchange/index_en.htm" class="govuk-link">driving licence renewal and exchange</a> and <a href="https://www.gov.uk/taking-vehicles-out-of-uk" class="govuk-link">taking a vehicle out of the UK</a>.</p>
 
-<p>You will be able to use your UK driving licence until the end of the implementation period on 31 December 2020 or until your licence expires, whichever comes first.</p>
-
-<p>Read the Bulgarian Ministry of Interior’s <a rel="external" href="https://www.mvr.bg/en/about-the-ministry/brexit/information-about-brexit" class="govuk-link">on how to exchange your licence after Brexit</a>.</p>
+<p>Read our guidance on what you need to <a href="https://www.gov.uk/driving-abroad" class="govuk-link">drive abroad</a> and <a href="https://www.gov.uk/foreign-travel-advice/bulgaria/safety-and-security#road-travel" class="govuk-link">road travel in Bulgaria</a>.</p>
 
 <h2 id="working-in-bulgaria">Working in Bulgaria</h2>
 
-<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in another EU country</a>.</p>
+<p>Read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an EU country</a>.</p>
 
 <p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK criminal records check</a>, known as a DBS check.</p>
 
 <p>You can get a Bulgarian criminal records certificate from the Judicial Records Register from any Bulgarian Regional Court (Районен съд) or from the Ministry of Justice. You can see details and download application forms at <a rel="external" href="http://www.justice.government.bg/44/" class="govuk-link">the Ministry of Justice website</a> (in Bulgarian language only).</p>
 
-<h3 id="working-in-bulgaria-after-brexit">Working in Bulgaria after Brexit</h3>
-
-<p>Your right to work will not change as long as you remain resident in Bulgaria.</p>
+<p>If you are resident in Bulgaria on or before 31 December 2020, your right to work will not change as long as you remain resident in Bulgaria.</p>
 
 <h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
 
-<p>For information on education, read <a href="https://www.gov.uk/guidance/studying-in-the-european-union-after-brexit" class="govuk-link">studying in the European Union after Brexit</a>.</p>
+<p>For information on education, read <a href="https://www.gov.uk/guidance/studying-in-the-european-union-after-brexit" class="govuk-link">studying in the European Union</a>.</p>
 
-<p>The European Commission has published <a rel="external" href="https://ec.europa.eu/info/sites/info/files/slides_professional-qualifications-ip-justice-consumers_en.pdf" class="govuk-link">guidance on professional qualifications</a>.</p>
+<h3 id="professional-qualifications">Professional qualifications</h3>
 
-<p><a rel="external" href="https://ec.europa.eu/info/sites/info/files/slides_professional-qualifications-ip-justice-consumers_en.pdf" class="govuk-link">Recognition decisions made on qualifications obtained in the UK or the EU</a> before the end of the implementation period on 31 December 2020 are not affected.</p>
+<p>If you have already been recognised by an EU country as holding valid professional qualifications, this will remain valid.</p>
 
-<p>If you have not had your professional qualifications recognised, you will have until the end of the implementation period to submit an application under the current rules.</p>
+<p>If you have not had your professional qualifications recognised, you can submit an application under the current rules until 31 December 2020.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
-<p>You can read our guidance on <a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk" class="govuk-link">tax if you leave the UK to live abroad</a> and <a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice" class="govuk-link">tax on your UK income if you live abroad</a>.</p>
+<p>The UK has a double taxation agreement with Bulgaria to ensure you do not pay tax on the same income in both countries. Ask the relevant tax authority your questions about double taxation relief.</p>
 
-<p>The UK has a double-taxation agreement with Bulgaria to ensure people do not pay tax on the same income in both countries.</p>
+<p>Existing double taxation arrangements for UK nationals living in Bulgaria have not changed.</p>
 
-<p>You can read our guidance about <a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/bulgaria/index_en.htm" class="govuk-link">paying income tax in Bulgaria</a>.</p>
+<p>Read guidance about:</p>
+
+<ul>
+  <li><a href="https://www.gov.uk/tax-right-retire-abroad-return-to-uk" class="govuk-link">telling HMRC if you leave the UK to live abroad</a></li>
+  <li><a href="https://www.gov.uk/tax-uk-income-live-abroad/taxed-twice" class="govuk-link">the tax on your UK income if you live abroad</a></li>
+  <li><a rel="external" href="https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/bulgaria/index_en.htm" class="govuk-link">paying income tax in Bulgaria</a></li>
+</ul>
 
 <p>In Bulgaria, you should expect to pay personal income tax and home owners’ tax. Additional taxes exist, including a vehicle tax and a fee for rubbish collection. See <a rel="external" href="https://nap.bg/en/page?id=1" class="govuk-link">National Revenue Agency</a>.</p>
 
@@ -333,15 +365,11 @@
 
 <p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
-<h3 id="money-and-tax-after-brexit">Money and tax after Brexit</h3>
-
-<p>Brexit will not change existing double-taxation arrangements for UK nationals living in Bulgaria. You should send your taxpayer questions about double taxation relief to the relevant tax authority.</p>
-
 <h2 id="pensions">Pensions</h2>
 
-<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are moving or retiring abroad. See <a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">State Pension if you retire abroad</a> and <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension</a>.</p>
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are [moving or retiring abroad](https://www.gov.uk/moving-or-retiring-abroad.</p>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
+<p>If you retire in Bulgaria, you can claim your UK <a href="https://www.gov.uk/state-pension-if-you-retire-abroad" class="govuk-link">State Pension</a> or <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension</a>.</p>
 
 <p>If you have not worked in Bulgaria, you should claim your UK State Pension by contacting the <a href="https://www.gov.uk/international-pension-centre" class="govuk-link">International Pension Centre</a>.</p>
 
@@ -351,19 +379,23 @@
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a> you need to respond as soon as possible. Your payments may be suspended if you do not.</p>
 
-<h3 id="pensions-after-brexit">Pensions after Brexit</h3>
+<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming the UK State Pension in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>You can continue to receive your UK State Pension if you live in the EU, EEA or Switzerland and you can still claim your UK State Pension.</p>
 
-<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">qualifying conditions</a>.</p>
+<p>If you are living in the EU, EEA or Switzerland by 31 December 2020 you will get your UK State Pension uprated every year for as long as you continue to live there. This will happen even if you start claiming your pension on or after 1 January 2021, as long as you meet the qualifying conditions explained in the <a href="https://www.gov.uk/new-state-pension" class="govuk-link">new State Pension guidance</a>.</p>
 
 <p>If you are living in Bulgaria by 31 December 2020, you will be able to count future social security contributions towards meeting the qualifying conditions for your UK State Pension.</p>
 
-<p>If you work and pay social security contributions in Bulgaria, you will still be able to add your UK social security contributions towards your Bulgarian pension. This will happen even if you claim your pension after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Bulgaria, you will still be able to add your UK social security contributions towards your Bulgarian pension. This will happen even if you claim your pension after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
+<p>You will need to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <p>You may still be able to claim some UK benefits like child and disability benefits if you live in Bulgaria. You should:</p>
 
@@ -380,26 +412,26 @@
 
 <p>You can <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals" class="govuk-link">request proof of the time you’ve worked in the UK</a> from HMRC if you are asked for this.</p>
 
-<h3 id="benefits-after-brexit">Benefits after Brexit</h3>
+<h3 id="benefits-after-31-january-2020">Benefits after 31 January 2020</h3>
+
+<p>There will be no changes before 31 December 2020 to the rules on claiming UK benefits in the EU, EEA or Switzerland as a result of the UK leaving the EU.</p>
 
 <p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
-<p>If you work and pay social security contributions in Bulgaria, your UK social security contributions will be taken into account when applying for Bulgaria contributions-based benefits. This will happen even if you claim contributions-based benefits after the end of the implementation period.</p>
+<p>If you work and pay social security contributions in Bulgaria, your UK social security contributions will be taken into account when applying for Bulgaria contributions-based benefits. This will happen even if you claim contributions-based benefits after 31 December 2020.</p>
+
+<p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
 
 <h2 id="voting">Voting</h2>
+
+<p>You cannot vote in local municipal elections in Bulgaria or European Parliament elections.</p>
 
 <p>You may be able to vote in some UK elections. You can:</p>
 
 <ul>
-  <li><a rel="external" href="https://www.yourvotematters.co.uk/can-i-vote/overseas" class="govuk-link">check if you are able to vote</a></li>
+  <li><a rel="external" href="https://www.electoralcommission.org.uk/i-am-a/voter/overseas-voters" class="govuk-link">check if you are able to vote</a></li>
   <li><a href="https://www.gov.uk/voting-when-abroad" class="govuk-link">register as an overseas voter to vote</a></li>
 </ul>
-
-<p>If you are resident in Bulgaria, you can <a rel="external" href="https://europa.eu/youreurope/citizens/residence/elections-abroad/index_en.htm" class="govuk-link">vote in local municipal and European Parliamentary Elections</a>.</p>
-
-<h3 id="voting-after-brexit">Voting after Brexit</h3>
-
-<p>After Brexit, you will no longer be eligible to vote in local and European Parliamentary elections.</p>
 
 <h2 id="births-deaths-and-getting-married">Births, deaths and getting married</h2>
 
@@ -431,11 +463,11 @@
 
 <h2 id="pets">Pets</h2>
 
-<p>Current pet travel rules will stay the same during the implementation period until 31 December 2020.</p>
+<p>Current pet travel rules will stay the same until 31 December 2020.</p>
 
 <p>If you’re travelling with your pet for the first time you must visit your vet to get a pet passport.</p>
 
-<p><a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">Read guidance on pet travel</a>.</p>
+<p><a href="https://www.gov.uk/take-pet-abroad" class="govuk-link">Read guidance on bringing your pet to the UK</a>.</p>
 
 <h2 id="emergencies">Emergencies</h2>
 
@@ -464,7 +496,7 @@
 <p>Read the guidance on <a href="https://www.gov.uk/guidance/returning-to-the-uk" class="govuk-link">returning to the UK permanently</a> which includes information on, amongst other things, tax, access to services and bringing family members.</p>
 
 <h3 id="disclaimer">Disclaimer</h3>
-<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Bulgarian authorities. The FCO will not be liable for any inaccuracies in this information.</p>
+<p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Bulgarian authorities. The FCDO will not be liable for any inaccuracies in this information.</p>
 </div>
 </div>
 
@@ -472,10 +504,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 March 2013
-    <br></br>Last updated 23 January 2020
+    <br></br>Last updated 11 September 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-11T14:48:35.000+01:00">11 September 2020</time>
+              <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-23T14:10:25.000+00:00">23 January 2020</time>
               <p class="app-c-published-dates__change-note">Brexit update: includes further details on passport validity, healthcare rights and State Pension updating if the UK leaves the EU with a deal.</p>
@@ -576,8 +612,8 @@
   
 <div class="gem-c-contextual-sidebar">
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit</h2>
-  <a href="/brexit" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Brexit" data-track-label="/brexit" data-track-options="{"dimension29":"Check what you need to do"}">Check what you need to do</a>
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
 
@@ -585,47 +621,48 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-d2c85039" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-79ec1859" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d2c85039" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-79ec1859" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-lithuania" data-track-options="{"dimension28":"5","dimension29":"Living in Lithuania"}" href="/guidance/living-in-lithuania">Living in Lithuania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-d2c85039" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-79ec1859" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-d2c85039" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-79ec1859" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-bulgaria--2" data-track-options="{"dimension28":"1","dimension29":"Bulgaria: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-bulgaria--2">Bulgaria: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-bulgaria--2" data-track-options="{"dimension28":"2","dimension29":"Bulgaria: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-bulgaria--2">Bulgaria: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-bulgaria" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Bulgaria"}" href="/guidance/healthcare-in-bulgaria">Healthcare for UK nationals living in Bulgaria</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d2c85039" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-79ec1859" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-d2c85039" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-79ec1859" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -657,9 +694,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-eebc7ab5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f41cebee" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-eebc7ab5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-f41cebee" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
