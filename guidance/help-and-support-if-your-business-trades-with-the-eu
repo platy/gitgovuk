@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 23 September 2020
+    <br></br>Last updated 28 September 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -55,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#exporting-and-sending-goods-outside-of-the-uk" data-track-options="{"dimension29":"Exporting and sending goods outside of the UK"}" href="#exporting-and-sending-goods-outside-of-the-uk">Exporting and sending goods outside of the UK</a>
@@ -72,7 +75,11 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#related-content" data-track-options="{"dimension29":"Related content"}" href="#related-content">Related content</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#webinars-for-exporters-of-animals-and-products-of-animal-origin-to-the-eu" data-track-options="{"dimension29":"Webinars for exporters of animals and products of animal origin to the EU"}" href="#webinars-for-exporters-of-animals-and-products-of-animal-origin-to-the-eu">Webinars for exporters of animals and products of animal origin to the EU</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#related-content" data-track-options="{"dimension29":"Related content"}" href="#related-content">Related content</a>
 
         </li>
     </ol>
@@ -127,6 +134,10 @@ the UK, including to the EU</a></p>
   <li>the customs process you will need to go through if you are bringing in goods from overseas</li>
 </ul>
 
+<h2 id="webinars-for-exporters-of-animals-and-products-of-animal-origin-to-the-eu">Webinars for exporters of animals and products of animal origin to the EU</h2>
+
+<p>Find out more about the new processes and actions that your business can take to ensure that you are ready to continue exporting live animals, fish and products of animal origin to the EU from 1 January 2021, by <a href="https://www.gov.uk/guidance/webinars-for-exporters-of-animals-and-products-of-animal-origin-to-the-eu" class="govuk-link">registering to attend Defra’s new webinar series</a>.</p>
+
 <h2 id="related-content">Related content</h2>
 
 <p><a href="https://www.gov.uk/prepare-to-import-to-great-britain-from-january-2021" class="govuk-link">Prepare to import goods from the EU to Great Britain from 1 January 2021</a></p>
@@ -137,8 +148,22 @@ the UK, including to the EU</a></p>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 23 September 2020
+    <br></br>Last updated 28 September 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-28T14:29:57.000+01:00">28 September 2020</time>
+              <p class="app-c-published-dates__change-note">Addition of link to webinars for exporters of animals and products of animal origin to the EU.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-23T11:24:00.000+01:00">23 September 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -168,6 +193,28 @@ the UK, including to the EU</a></p>
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-aa5d9e60" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-aa5d9e60" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-aa5d9e60" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/webinars-for-exporters-of-animals-and-products-of-animal-origin-to-the-eu" data-track-options="{"dimension28":"1","dimension29":"Webinars for exporters of animals and products of animal origin to the EU"}" href="/guidance/webinars-for-exporters-of-animals-and-products-of-animal-origin-to-the-eu">Webinars for exporters of animals and products of animal origin to the EU</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -189,9 +236,9 @@ the UK, including to the EU</a></p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ba44c238" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5637cba6" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-ba44c238" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-5637cba6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
