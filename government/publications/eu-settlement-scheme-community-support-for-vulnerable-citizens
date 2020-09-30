@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     EU Settlement Scheme: community support for vulnerable citizens
   </h1>
@@ -24,7 +24,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 14 May 2019
-    <br></br>Last updated 9 April 2020
+    <br></br>Last updated 1 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -58,14 +58,14 @@
     
     <div class="responsive-bottom-margin">
         <section id="documents">
-    <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  ">Documents</h2>
+    <h2 class="gem-c-heading gem-c-heading--font-size-27 gem-c-heading--mobile-top-margin  ">Documents</h2>
 
 
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_4120393">
+      <section class="attachment embedded" id="attachment_4584171">
   <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/eu-settlement-scheme-community-support-for-vulnerable-citizens/list-of-organisations"><img alt src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
+      <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/eu-settlement-scheme-community-support-for-vulnerable-citizens/list-of-organisations"><img alt src="https://www.gov.uk/assets/whitehall/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
   <div class="attachment-details">
     <h2 class="title"><a href="/government/publications/eu-settlement-scheme-community-support-for-vulnerable-citizens/list-of-organisations">List of organisations</a></h2>
@@ -83,7 +83,7 @@
 
 
       <section id="details">
-        <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  ">Details</h2>
+        <h2 class="gem-c-heading gem-c-heading--font-size-27 gem-c-heading--mobile-top-margin  ">Details</h2>
 
 
         
@@ -102,6 +102,10 @@
 <p><a href="https://www.gov.uk/help-eu-settlement-scheme" class="govuk-link">Find support near you</a>.</p>
 
 <p>Find out more about the <a href="https://www.gov.uk/settled-status-eu-citizens-families" class="govuk-link">EU Settlement Scheme</a> including how to apply.</p>
+
+<div class="call-to-action">
+<p>This information is currently out of date. Updated information about organisations funded to provide support to vulnerable and at risk EU citizens applying to the EU Settlement Scheme will be provided in due course.</p>
+</div>
 </div>
 </div>
 
@@ -110,10 +114,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 14 May 2019
-    <br></br>Last updated 9 April 2020
+    <br></br>Last updated 1 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-01T00:15:07.000+01:00">1 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated to explain that grant funded organisations information is out of date.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-04-09T16:46:36.000+01:00">9 April 2020</time>
               <p class="app-c-published-dates__change-note">Added guidance about coronavirus (COVID-19).</p>
@@ -149,33 +157,33 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-a8a5a059" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b5240e5a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a8a5a059" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b5240e5a" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/eu-settlement-scheme-public-test-phase-applicant-eligibility" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme public test phase: applicant eligibility"}" href="/guidance/eu-settlement-scheme-public-test-phase-applicant-eligibility">EU Settlement Scheme public test phase: applicant eligibility</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/informator-do-systemu-osiedlenczego-dla-obywateli-ue-tlumaczenie-na-jezyk-polski-polish" data-track-options="{"dimension28":"5","dimension29":"Informator do systemu osiedleńczego dla obywateli UE – tłumaczenie na język Polski (Polish)"}" href="/government/publications/informator-do-systemu-osiedlenczego-dla-obywateli-ue-tlumaczenie-na-jezyk-polski-polish">Informator do systemu osiedleńczego dla obywateli UE – tłumaczenie na język Polski (Polish)</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: apply as the family member of a frontier worker"}" href="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members">EU Settlement Scheme: apply as the family member of a frontier worker</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/eu-settlement-scheme-applying-from-outside-the-uk" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: applying from outside the UK"}" href="/guidance/eu-settlement-scheme-applying-from-outside-the-uk">EU Settlement Scheme: applying from outside the UK</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/eu-settlement-scheme-id-document-scanner-locations" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: ID document scanner locations"}" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations">EU Settlement Scheme: ID document scanner locations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-settlement-scheme-looked-after-children-and-care-leavers-guidance" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: looked-after children and care leavers guidance"}" href="/government/publications/eu-settlement-scheme-looked-after-children-and-care-leavers-guidance">EU Settlement Scheme: looked-after children and care leavers guidance</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/eu-settlement-scheme-update" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: update"}" href="/government/publications/eu-settlement-scheme-update">EU Settlement Scheme: update</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-id-document-scanner-locations" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: ID document scanner locations"}" href="/government/publications/eu-settlement-scheme-id-document-scanner-locations">EU Settlement Scheme: ID document scanner locations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: apply as the family member of a frontier worker"}" href="/government/publications/eu-settlement-scheme-frontier-workers-and-their-family-members">EU Settlement Scheme: apply as the family member of a frontier worker</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/eu-settlement-scheme-bulgarian" data-track-options="{"dimension28":"5","dimension29":"Наръчник за Схемата за уседналост на граждани на ЕС (EU Settlement Scheme): Превод на български език (Bulgarian)"}" href="/government/publications/eu-settlement-scheme-bulgarian">Наръчник за Схемата за уседналост на граждани на ЕС (EU Settlement Scheme): Превод на български език (Bulgarian)</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-a8a5a059" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-b5240e5a" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-a8a5a059" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-b5240e5a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -207,9 +215,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-19c10467" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-78ece517" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-19c10467" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-78ece517" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
