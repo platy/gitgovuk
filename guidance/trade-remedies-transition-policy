@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Trade remedies transition policy
   </h1>
@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 6 February 2020
+    <br></br>Last updated 30 September 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -55,32 +57,25 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#trade-remedies-during-the-transition-period" data-track-options="{"dimension29":"Trade remedies during the transition period"}" href="#trade-remedies-during-the-transition-period">Trade remedies during the transition period</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#transition-reviews" data-track-options="{"dimension29":"Transition reviews"}" href="#transition-reviews">Transition reviews</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#transition-reviews" data-track-options="{"dimension29":"Transition reviews"}" href="#transition-reviews">Transition reviews</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#safeguard-measures" data-track-options="{"dimension29":"Safeguard measures"}" href="#safeguard-measures">Safeguard measures</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#safeguard-measures" data-track-options="{"dimension29":"Safeguard measures"}" href="#safeguard-measures">Safeguard measures</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#steel-safeguard-measures" data-track-options="{"dimension29":"Steel safeguard measures"}" href="#steel-safeguard-measures">Steel safeguard measures</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#anti-dumping-and-anti-subsidy-trade-remedy-measures" data-track-options="{"dimension29":"Anti-dumping and anti-subsidy trade remedy measures"}" href="#anti-dumping-and-anti-subsidy-trade-remedy-measures">Anti-dumping and anti-subsidy trade remedy measures</a>
-
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#expiry-reviews-and-the-uk-government-transition-policy" data-track-options="{"dimension29":"Expiry reviews and the UK government transition policy"}" href="#expiry-reviews-and-the-uk-government-transition-policy">Expiry reviews and the UK government transition policy</a>
-
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#recent-updates-to-measures-being-maintained-or-terminated" data-track-options="{"dimension29":"Recent updates to measures being maintained or terminated"}" href="#recent-updates-to-measures-being-maintained-or-terminated">Recent updates to measures being maintained or terminated</a>
 
         </li>
     </ol>
@@ -94,15 +89,13 @@
 
 <p>The Department for International Trade assessed which of the existing EU anti-dumping and anti-subsidy trade remedies mattered to the UK. This was done via a <a href="https://www.gov.uk/government/consultations/call-for-evidence-to-identify-uk-interest-in-existing-eu-trade-remedy-measures/outcome/final-findings-of-the-call-for-evidence-into-uk-interest-in-existing-eu-trade-remedy-measures" class="govuk-link">Call for Evidence consultation</a> with UK industry and other interested parties, including international industry.</p>
 
-<h2 id="trade-remedies-during-the-transition-period">Trade remedies during the transition period</h2>
+<p>Trade remedy investigations will continue to be carried out by the EU on behalf of the UK and all existing EU trade remedy measures will continue to be applied at the UK’s border until 31 December 2020.</p>
 
-<p>During the transition period the UK will still be a member of the EU Single Market and the Customs Union. Trade remedy investigations will continue to be carried out by the EU on behalf of the UK and all existing EU trade remedy measures will continue to be applied at the UK’s border.</p>
-
-<p>We will continue to monitor any new trade remedy measures introduced by the EU before the UK begins operating its own independent trade policy. Where there is known UK producer interest in any new measure we will reach out to the relevant parties to assess whether the measure should be transitioned or terminated at the end of the transition period.</p>
+<p>We will continue to monitor any new trade remedy measures introduced by the EU before the UK begins operating its own independent trade policy. Where there is known UK producer interest in any new measure we will reach out to the relevant parties to assess whether the measure should be transitioned or terminated on 31 December 2020.</p>
 
 <h2 id="transition-reviews">Transition reviews</h2>
 
-<p>All anti-dumping, anti-subsidy and safeguard measures that the UK keeps will undergo a UK-wide transition review led by the Trade Remedies Investigations Directorate (<abbr title="Trade Remedies Investigations Directorate">TRID</abbr>). Transition reviews will assess whether the current measure is appropriate for the UK market and whether it should be varied changed or terminated. For further information please read our <a href="https://www.gov.uk/guidance/trade-remedies-investigations-directorate-trid-dumping-and-subsidisation-investigations-guidance" class="govuk-link">Trade Remedies Investigations Directorate (<abbr title="Trade Remedies Investigations Directorate">TRID</abbr>) dumping, subsidisation and safeguarding investigations guidance</a> document and <abbr title="Trade Remedies Investigations Directorate">TRID</abbr>’s operational guidance.</p>
+<p>All anti-dumping, anti-subsidy and safeguard measures that the UK keeps will undergo a UK-wide transition review led by the <a href="https://www.gov.uk/government/organisations/trade-remedies-investigations-directorate" class="govuk-link">Trade Remedies Investigations Directorate</a> (<abbr title="Trade Remedies Investigations Directorate">TRID</abbr>). Transition reviews will assess whether the current measure is appropriate for the UK market and whether it should be varied changed or terminated. For further information please read our <a href="https://www.gov.uk/guidance/trade-remedies-investigations-directorate-trid-dumping-and-subsidisation-investigations-guidance" class="govuk-link">Trade Remedies Investigations Directorate (<abbr title="Trade Remedies Investigations Directorate">TRID</abbr>) dumping, subsidisation and safeguarding investigations guidance</a> document and <abbr title="Trade Remedies Investigations Directorate">TRID</abbr>’s operational guidance.</p>
 
 <p>Before starting a transition review <abbr title="Trade Remedies Investigations Directorate">TRID</abbr> will ask us to publish a Notice of Determination . We will publish Notices of Determination as and when they are required. Once we have published a Notice of Determination <abbr title="Trade Remedies Investigations Directorate">TRID</abbr> will then issue a Notice of Initiation to formally begin the transition review of the measure.</p>
 
@@ -112,9 +105,192 @@
 
 <h2 id="safeguard-measures">Safeguard measures</h2>
 
-<p>The UK has committed to maintaining any definitive EU safeguard measures where there is a UK interest in doing so. As with the maintained definitive anti-dumping and anti-subsidy measures, <abbr title="Trade Remedies Investigations Directorate">TRID</abbr> will conduct a UK-wide transition review to assess whether the measure is appropriate for the UK market, and as such whether it should be varied or terminated.</p>
+<p>The UK has committed to maintaining the EU safeguard measures where there is a UK interest in doing so. As with the maintained definitive anti-dumping and anti-subsidy measures, <abbr title="Trade Remedies Investigations Directorate">TRID</abbr> will conduct a UK-wide transition review to assess whether the measure is appropriate for the UK market, and as such whether it should be varied or terminated.</p>
 
-<p>DIT will provide further details on the transition of the EU’s safeguard measure on 28 steel product categories in due course.</p>
+<h2 id="steel-safeguard-measures">Steel safeguard measures</h2>
+
+<p>DIT has identified 19 product categories covered by the existing EU steel safeguard measure where UK production exists. These would therefore need to be transitioned in order to provide continuity to UK producers.</p>
+
+<p>The remaining associated product categories, where no UK production exists, will not be transitioned and the tariff rate quotas will therefore cease to apply at 11pm on 31 December 2020.</p>
+
+<h3 id="uk-specific-tariff-rate-quotas">UK specific tariff rate quotas</h3>
+
+<p>In order to ensure the transitioned safeguard measures work specifically for the UK from the first day it is operating an independent trade policy, DIT also collected information regarding historical trade flows of steel products between 2015 and 2017 that fall under this measure in order to permit a recalculation of the tariff rate quotas (<abbr title="tariff rate quotas">TRQs</abbr>).</p>
+
+<p>The UK specific <abbr title="tariff rate quotas">TRQs</abbr> were recalculated using the same method deployed by the European Commission. The UK specific <abbr title="tariff rate quotas">TRQs</abbr> for the 19 product categories the UK is transitioning are available in the Secretary of State’s <a href="https://www.gov.uk/government/publications/notice-of-determination-safeguard-measures-on-certain-steel-products-application-of-tariff-rate-quotas" class="govuk-link">Notice of Determination</a> for this measure.</p>
+
+<h3 id="steel-products-to-be-transitioned-or-terminated">Steel products to be transitioned or terminated</h3>
+
+<p>Below is the list of the 26 EU product categories against which the UK will either transition or terminate within the safeguard measure.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Product category number</th>
+      <th scope="col">Steel Product Categories subject to EU Safeguard Measures</th>
+      <th scope="col">Subject to UK Safeguard Measures?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Non-Alloy and Other Alloy Hot Rolled Sheets and Strips</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Non-Alloy and Other Alloy Cold Rolled Sheets</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>3A</td>
+      <td>Electrical Sheets (other than GOES)</td>
+      <td>Terminate</td>
+    </tr>
+    <tr>
+      <td>3B</td>
+      <td>Electrical Sheets (other than GOES)</td>
+      <td>Terminate</td>
+    </tr>
+    <tr>
+      <td>4A</td>
+      <td>Metallic Coated Sheets</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>4B</td>
+      <td>Metallic Coated Sheets</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Organic Coated Sheets</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Tin Mill products</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Non-Alloy and Other Alloy Quarto Plates</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Stainless Hot Rolled Sheets and Strips</td>
+      <td>Terminate</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Stainless Cold Rolled Sheets and Strips</td>
+      <td>Terminate</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Stainless Hot Rolled Quarto Plates</td>
+      <td>Terminate</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Non-Alloy and Other Alloy Merchant Bars and Light Sections</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Rebars</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Stainless Bars and Light Sections</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Stainless Wire Rod</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Non-Alloy and Other Alloy Wire Rod</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Angles, Shapes and Sections of Iron or Non Alloy Steel</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Sheet Piling</td>
+      <td>Terminate</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Railway Material</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Gas pipes</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Hollow sections</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Seamless Stainless Tubes and Pipes</td>
+      <td>Terminate</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Other Seamless Tubes</td>
+      <td>Terminate</td>
+    </tr>
+    <tr>
+      <td>25A</td>
+      <td>Large welded tubes</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>25B</td>
+      <td>Large welded tubes</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>Other Welded Pipes</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Non-Alloy and other alloy cold finished bars</td>
+      <td>Maintain</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Non-Alloy Wire</td>
+      <td>Maintain</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Note: Product Category 11, Grain-Oriented Electrical Sheet, and Product Category 23, Bearing Tubes and Pipes, are not listed because the EU concluded that these product categories should not be subject to a safeguard measure.</p>
+
+<p>Further information relating to a break-down of the country specific and residual <abbr title="tariff rate quotas">TRQs</abbr> per product category can be found in the Secretary of State’s <a href="https://www.gov.uk/government/publications/notice-of-determination-safeguard-measures-on-certain-steel-products-application-of-tariff-rate-quotas" class="govuk-link">Notice of Determination</a>  for this measure.</p>
+
+<h3 id="next-steps-and-transition-review">Next steps and transition review</h3>
+
+<p>The UK specific <abbr title="tariff rate quotas">TRQs</abbr> on the 19 product categories outlined above will be brought into effect at 11pm on 31 December 2020, following the publication a taxation notice from the Secretary of State for International Trade.</p>
+
+<p>The Trade Remedies Investigations Directorate - as the UK’s competent trade remedies authority pending the establishment of the Trade Remedies Authority - will conduct a transition reviews of the definitive safeguard measures across the 19 steel product categories to ensure these measures fully reflect the UK market situation.</p>
+
+<p>These reviews will consider whether it is appropriate to vary the tariff rate quota associated with the product category on a country by country basis. Further information can be found at the Trade Remedies Investigation Directorate <a href="https://www.gov.uk/government/publications/the-uk-trade-remedies-investigations-process/transition-review-of-eu-steel-safeguard-measures" class="govuk-link">operational guidance on the transition review of EU steel safeguard measures</a>.</p>
 
 <h2 id="anti-dumping-and-anti-subsidy-trade-remedy-measures">Anti-dumping and anti-subsidy trade remedy measures</h2>
 
@@ -122,13 +298,13 @@
 
 <p>If you are aware of any changes to UK production and/or market share of the products covered by any of the trade remedy measures listed below, please contact <a href="mailto:traderemedies@trade.gov.uk" class="govuk-link">traderemedies@trade.gov.uk</a>.</p>
 
-<h2 id="expiry-reviews-and-the-uk-government-transition-policy">Expiry reviews and the UK government transition policy</h2>
+<h3 id="expiry-reviews-and-the-uk-government-transition-policy">Expiry reviews and the UK government transition policy</h3>
 
 <p>A measure marked with a ‘*’ in the below table signifies that the European Commission is currently conducting an Expiry Review on this measure. An Expiry Review determines if the measure were to expire, whether dumping and injury would probably continue or recur. An Expiry Review can result only in the repeal or continuation of the duties in force. If measures are maintained, they will normally remain in force for another five years. An Expiry Review cannot lead to a change in the level or form of the duties; these can only be changed by the European Commission as the result of an Interim Review.</p>
 
 <p>Should the European Commission conclude that a measure which the UK is transitioning should be terminated (either by letting the measure lapse or via an Expiry Review), then this measure will fall away and will not be transitioned over to the UK’s independent trade remedies system.</p>
 
-<h2 id="recent-updates-to-measures-being-maintained-or-terminated">Recent updates to measures being maintained or terminated</h2>
+<h3 id="recent-updates-to-measures-being-maintained-or-terminated">Recent updates to measures being maintained or terminated</h3>
 
 <p>This table will be updated to reflect changes at the EU-level in the measures the UK will maintain or terminate. Recent updates are stated below:</p>
 
@@ -136,7 +312,7 @@
   <li>the EU merged the anti-dumping measures on Ironing Boards (AD506 and AD548)</li>
   <li>the EU did not renew the Bioethanol measure against the USA (AD580), meaning that it fell away from the Call for Evidence findings - the Call for Evidence concluded that this measure should be transitioned</li>
   <li>the EU did not renew the Manganese Dioxide measure against South Africa (AD520), meaning that it fell away from the Call for Evidence findings - the Call for Evidence concluded that this measure should be terminated</li>
-  <li>the EU imposed an anti-dumping measure on Urea and ammonium nitrate (AD649) - DIT assessed this measure, working with UK producers and sector stakeholders to do so, and determined that this measure should be terminated as it did not meet the criteria of the Call for Evidence</li>
+  <li>the EU imposed an anti-dumping measure on Urea ammonium nitrate (AD649) - DIT assessed this measure, working with UK producers and sector stakeholders to do so, and determined that this measure should be terminated as it did not meet the criteria of the Call for Evidence</li>
   <li>the EU imposed an anti-dumping measure on Indonesian Biodiesel (AS650) - DIT assessed this measure, working with UK producers and sector stakeholders to do so, and determined that this measure should be maintained as it met criteria of the Call for Evidence</li>
 </ul>
 
@@ -757,10 +933,10 @@
       <td>Maintain</td>
     </tr>
     <tr>
-      <td>Urea and Ammonium Nitrate</td>
+      <td>Urea Ammonium Nitrate</td>
       <td>AD649</td>
       <td>Russia, Trinidad, Tobago, USA</td>
-      <td> </td>
+      <td>Terminate</td>
     </tr>
     <tr>
       <td>Welded tubes and pipes of iron or non-alloy steel</td>
@@ -794,8 +970,22 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 6 February 2020
+    <br></br>Last updated 30 September 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-30T14:00:09.000+01:00">30 September 2020</time>
+              <p class="app-c-published-dates__change-note">Updated the details on steel safeguard measures.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-02-06T12:27:00.000+00:00">6 February 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -825,6 +1015,31 @@
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-51f8b5f1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-51f8b5f1" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/trade-remedies-investigations-directorate-trid-dumping-and-subsidisation-investigations-guidance" data-track-options="{"dimension28":"5","dimension29":"Trade Remedies Investigations Directorate (TRID) dumping, subsidisation and safeguarding investigations guidance"}" href="/guidance/trade-remedies-investigations-directorate-trid-dumping-and-subsidisation-investigations-guidance">Trade Remedies Investigations Directorate (TRID) dumping, subsidisation and safeguarding investigations guidance</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/the-uk-trade-remedies-investigations-process" data-track-options="{"dimension28":"5","dimension29":"The UK trade remedies investigations process"}" href="/government/publications/the-uk-trade-remedies-investigations-process">The UK trade remedies investigations process</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/the-magenta-book" data-track-options="{"dimension28":"5","dimension29":"The Magenta Book"}" href="/government/publications/the-magenta-book">The Magenta Book</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/open-policy-making-toolkit" data-track-options="{"dimension28":"5","dimension29":"Open Policy Making toolkit"}" href="/guidance/open-policy-making-toolkit">Open Policy Making toolkit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/futures-toolkit-for-policy-makers-and-analysts" data-track-options="{"dimension28":"5","dimension29":"Futures toolkit for policy-makers and analysts"}" href="/government/publications/futures-toolkit-for-policy-makers-and-analysts">Futures toolkit for policy-makers and analysts</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -846,9 +1061,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-54ed1359" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8a0bf8dd" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-54ed1359" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8a0bf8dd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
