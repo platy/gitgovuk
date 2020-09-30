@@ -26,7 +26,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 31 January 2020
-    <br></br>Last updated 1 May 2020
+    <br></br>Last updated 1 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -57,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#guidance-for-local-authorities" data-track-options="{"dimension29":"Guidance for local authorities"}" href="#guidance-for-local-authorities">Guidance for local authorities</a>
@@ -100,6 +101,10 @@
 <p>These products have been designed to make it easy for you to provide clear and accurate information to the EU citizens and family members you are supporting, including looked after children.</p>
 
 <p>The content includes print and digital assets, covering the key areas of the EU Settlement Scheme: eligibility, the application process, the wide range of support available and the deadline.</p>
+
+<div class="call-to-action">
+<p>The information included in these toolkit documents referencing grant funded organisations is out of date. We will update these documents in due course.</p>
+</div>
 </div>
 </div>
 
@@ -114,7 +119,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/eu-settlement-scheme-introduction-for-local-authorities" data-track-options="{"dimension28":"2","dimension29":"EU Settlement Scheme: introduction for local authorities"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-introduction-for-local-authorities">EU Settlement Scheme: introduction for local authorities</a>
@@ -122,15 +127,15 @@
 
 
           <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2020-01-31T15:50:10+00:00">
-                    31 January 2020
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Promotional material
-              </li>
-          </ul>
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-01-31T15:50:10+00:00">
+                      31 January 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Promotional material
+</li>          </ul>
 
 
       </li>
@@ -141,19 +146,19 @@
 
 
           <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2020-05-01T13:19:35+01:00">
-                     1 May 2020
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Guidance
-              </li>
-          </ul>
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-05-04T14:46:29+01:00">
+                       4 May 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Guidance
+</li>          </ul>
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="presentation">Presentation</h3>
@@ -166,7 +171,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/government/publications/eu-settlement-scheme-presentation" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: presentation"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-presentation">EU Settlement Scheme: presentation</a>
@@ -174,19 +179,19 @@
 
 
           <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2020-01-31T15:54:00+00:00">
-                    31 January 2020
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Promotional material
-              </li>
-          </ul>
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-01-31T15:54:00+00:00">
+                      31 January 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Promotional material
+</li>          </ul>
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="factsheet">Factsheet</h3>
@@ -199,7 +204,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/government/publications/eu-settlement-scheme-factsheet" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: factsheet"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-factsheet">EU Settlement Scheme: factsheet</a>
@@ -207,19 +212,19 @@
 
 
           <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2020-01-31T15:56:49+00:00">
-                    31 January 2020
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Promotional material
-              </li>
-          </ul>
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-01-31T15:56:49+00:00">
+                      31 January 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Promotional material
+</li>          </ul>
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="leaflet">Leaflet</h3>
@@ -232,7 +237,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/government/publications/eu-settlement-scheme-leaflet" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: leaflet"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-leaflet">EU Settlement Scheme: leaflet</a>
@@ -240,19 +245,19 @@
 
 
           <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2020-01-31T15:56:10+00:00">
-                    31 January 2020
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Promotional material
-              </li>
-          </ul>
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-01-31T15:56:00+00:00">
+                      31 January 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Promotional material
+</li>          </ul>
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="poster">Poster</h3>
@@ -264,7 +269,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.1" data-track-label="/government/publications/eu-settlement-scheme-poster" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: poster"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-poster">EU Settlement Scheme: poster</a>
@@ -272,19 +277,19 @@
 
 
           <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2020-01-31T15:59:43+00:00">
-                    31 January 2020
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Promotional material
-              </li>
-          </ul>
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-01-31T15:59:43+00:00">
+                      31 January 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Promotional material
+</li>          </ul>
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="social-media-graphics-and-videos">Social media graphics and videos</h3>
@@ -296,7 +301,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/government/publications/eu-settlement-scheme-social-media-graphics-and-videos" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: social media graphics and videos"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/eu-settlement-scheme-social-media-graphics-and-videos">EU Settlement Scheme: social media graphics and videos</a>
@@ -304,19 +309,19 @@
 
 
           <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2020-02-13T15:56:32+00:00">
-                    13 February 2020
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Promotional material
-              </li>
-          </ul>
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-02-13T15:56:32+00:00">
+                      13 February 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Promotional material
+</li>          </ul>
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="translated-materials">Translated materials</h3>
@@ -329,7 +334,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.1" data-track-label="/government/collections/eu-settlement-scheme-translated-information-materials" data-track-options="{"dimension28":"1","dimension29":"EU Settlement Scheme: translated information materials"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/collections/eu-settlement-scheme-translated-information-materials">EU Settlement Scheme: translated information materials</a>
@@ -337,19 +342,19 @@
 
 
           <ul class="gem-c-document-list__item-metadata">
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2019-03-30T07:00:06+00:00">
-                    30 March 2019
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Collection
-              </li>
-          </ul>
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2019-03-30T07:00:06+00:00">
+                      30 March 2019
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Collection
+</li>          </ul>
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
 
@@ -357,10 +362,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 31 January 2020
-    <br></br>Last updated 1 May 2020
+    <br></br>Last updated 1 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-01T00:15:07.000+01:00">1 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated to explain that grant funded organisations information is out of date.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-05-01T13:19:46.000+01:00">1 May 2020</time>
               <p class="app-c-published-dates__change-note">Guidance on assisting looked-after children and care leavers published.</p>
@@ -402,22 +411,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-bf8aa225" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-6b4fc120" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-bf8aa225" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6b4fc120" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-settlement-scheme-factsheet" data-track-options="{"dimension28":"3","dimension29":"EU Settlement Scheme: factsheet"}" href="/government/publications/eu-settlement-scheme-factsheet">EU Settlement Scheme: factsheet</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/eu-settlement-scheme-community-groups-toolkit" data-track-options="{"dimension28":"3","dimension29":"EU Settlement Scheme: community groups toolkit"}" href="/government/collections/eu-settlement-scheme-community-groups-toolkit">EU Settlement Scheme: community groups toolkit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/eu-settlement-scheme-leaflet" data-track-options="{"dimension28":"3","dimension29":"EU Settlement Scheme: leaflet"}" href="/government/publications/eu-settlement-scheme-leaflet">EU Settlement Scheme: leaflet</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eu-settlement-scheme-poster" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: poster"}" href="/government/publications/eu-settlement-scheme-poster">EU Settlement Scheme: poster</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/eu-settlement-scheme-factsheet" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: factsheet"}" href="/government/publications/eu-settlement-scheme-factsheet">EU Settlement Scheme: factsheet</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/collections/eu-settlement-scheme-community-groups-toolkit" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: community groups toolkit"}" href="/government/collections/eu-settlement-scheme-community-groups-toolkit">EU Settlement Scheme: community groups toolkit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/eu-settlement-scheme-leaflet" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: leaflet"}" href="/government/publications/eu-settlement-scheme-leaflet">EU Settlement Scheme: leaflet</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/eu-settlement-scheme-social-media-graphics-and-videos" data-track-options="{"dimension28":"5","dimension29":"EU Settlement Scheme: social media graphics and videos"}" href="/government/publications/eu-settlement-scheme-social-media-graphics-and-videos">EU Settlement Scheme: social media graphics and videos</a></li>
 
   </ul>
 </nav>
@@ -444,9 +455,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3d39bcdd" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2470a008" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-3d39bcdd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-2470a008" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
