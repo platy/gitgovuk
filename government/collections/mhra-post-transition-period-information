@@ -15,7 +15,7 @@
   <p class="gem-c-lead-paragraph">Guidance for industry and organisations to follow from 1 January 2021.</p>
 
     
-      <section class="app-c-header-notice" aria-label="notice" role="region">
+      <section class="app-c-header-notice" aria-label="notice" role="region" lang="en">
     <div class="app-c-header-notice__header">
       <h2 class="app-c-header-notice__title">New rules for January 2021</h2>
     </div>
@@ -38,7 +38,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 1 September 2020
-    <br></br>Last updated 4 September 2020
+    <br></br>Last updated 1 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -69,9 +69,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#clinical-trials" data-track-options="{"dimension29":"Clinical trials"}" href="#clinical-trials">Clinical trials</a>
@@ -135,7 +136,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/guidance/registration-of-clinical-trials-for-investigational-medicinal-products-and-publication-of-summary-results-from-1-january-2021" data-track-options="{"dimension28":"2","dimension29":"Registration of clinical trials for investigational medicinal products and publication of summary results from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/registration-of-clinical-trials-for-investigational-medicinal-products-and-publication-of-summary-results-from-1-january-2021">Registration of clinical trials for investigational medicinal products and publication of summary results from 1 January 2021</a>
@@ -174,7 +175,7 @@
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="devices">Devices</h3>
@@ -186,7 +187,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/guidance/regulating-medical-devices-from-1-january-2021" data-track-options="{"dimension28":"1","dimension29":"Regulating medical devices from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/regulating-medical-devices-from-1-january-2021">Regulating medical devices from 1 January 2021</a>
@@ -206,7 +207,7 @@
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="licensing">Licensing</h3>
@@ -218,10 +219,48 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/guidance/conditional-marketing-authorisations-exceptional-circumstances-marketing-authorisations-and-national-scientific-advice-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Conditional Marketing Authorisations, exceptional circumstances Marketing Authorisations and national scientific advice from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/conditional-marketing-authorisations-exceptional-circumstances-marketing-authorisations-and-national-scientific-advice-from-1-january-2021">Conditional Marketing Authorisations, exceptional circumstances Marketing Authorisations and national scientific advice from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/guidance/supplying-medicines-to-northern-ireland-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Supplying medicines to Northern Ireland from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/supplying-medicines-to-northern-ireland-from-1-january-2021">Supplying medicines to Northern Ireland from 1 January 2021</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-10-01T18:35:10+01:00">
+                       1 October 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Guidance
+</li>          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.2" data-track-label="/guidance/how-the-mhra-will-manage-orphan-medicinal-products-from-1-january-2021-in-great-britain-gb" data-track-options="{"dimension28":"14","dimension29":"How the MHRA will manage orphan medicinal products from 1 January 2021 in Great Britain (GB)"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/how-the-mhra-will-manage-orphan-medicinal-products-from-1-january-2021-in-great-britain-gb">How the MHRA will manage orphan medicinal products from 1 January 2021 in Great Britain (GB)</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-10-01T18:35:18+01:00">
+                       1 October 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Guidance
+</li>          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.3" data-track-label="/guidance/conditional-marketing-authorisations-exceptional-circumstances-marketing-authorisations-and-national-scientific-advice-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Conditional Marketing Authorisations, exceptional circumstances Marketing Authorisations and national scientific advice from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/conditional-marketing-authorisations-exceptional-circumstances-marketing-authorisations-and-national-scientific-advice-from-1-january-2021">Conditional Marketing Authorisations, exceptional circumstances Marketing Authorisations and national scientific advice from 1 January 2021</a>
 
 
 
@@ -240,7 +279,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.2" data-track-label="/guidance/registering-new-packaging-information-for-medicines-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Registering new packaging information for medicines from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/registering-new-packaging-information-for-medicines-from-1-january-2021">Registering new packaging information for medicines from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.4" data-track-label="/guidance/registering-new-packaging-information-for-medicines-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Registering new packaging information for medicines from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/registering-new-packaging-information-for-medicines-from-1-january-2021">Registering new packaging information for medicines from 1 January 2021</a>
 
 
 
@@ -259,7 +298,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.3" data-track-label="/guidance/guidance-on-the-handling-of-applications-for-centrally-authorised-products-caps-pending-on-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Guidance on the handling of applications for Centrally Authorised Products (CAPs) pending on 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/guidance-on-the-handling-of-applications-for-centrally-authorised-products-caps-pending-on-1-january-2021">Guidance on the handling of applications for Centrally Authorised Products (CAPs) pending on 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.5" data-track-label="/guidance/guidance-on-the-handling-of-applications-for-centrally-authorised-products-caps-pending-on-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Guidance on the handling of applications for Centrally Authorised Products (CAPs) pending on 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/guidance-on-the-handling-of-applications-for-centrally-authorised-products-caps-pending-on-1-january-2021">Guidance on the handling of applications for Centrally Authorised Products (CAPs) pending on 1 January 2021</a>
 
 
 
@@ -278,7 +317,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.4" data-track-label="/guidance/how-marketing-authorisation-applications-referred-under-article-29-will-be-handled-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"How Marketing Authorisation Applications referred under Article 29 will be handled from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/how-marketing-authorisation-applications-referred-under-article-29-will-be-handled-from-1-january-2021">How Marketing Authorisation Applications referred under Article 29 will be handled from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.6" data-track-label="/guidance/how-marketing-authorisation-applications-referred-under-article-29-will-be-handled-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"How Marketing Authorisation Applications referred under Article 29 will be handled from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/how-marketing-authorisation-applications-referred-under-article-29-will-be-handled-from-1-january-2021">How Marketing Authorisation Applications referred under Article 29 will be handled from 1 January 2021</a>
 
 
 
@@ -297,7 +336,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.5" data-track-label="/guidance/converting-parallel-distribution-notices-pdns-to-uk-parallel-import-licences-pils-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Converting Parallel Distribution Notices (PDNs) to UK Parallel Import Licences (PILs) from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/converting-parallel-distribution-notices-pdns-to-uk-parallel-import-licences-pils-from-1-january-2021">Converting Parallel Distribution Notices (PDNs) to UK Parallel Import Licences (PILs) from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.7" data-track-label="/guidance/converting-parallel-distribution-notices-pdns-to-uk-parallel-import-licences-pils-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Converting Parallel Distribution Notices (PDNs) to UK Parallel Import Licences (PILs) from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/converting-parallel-distribution-notices-pdns-to-uk-parallel-import-licences-pils-from-1-january-2021">Converting Parallel Distribution Notices (PDNs) to UK Parallel Import Licences (PILs) from 1 January 2021</a>
 
 
 
@@ -316,7 +355,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.6" data-track-label="/guidance/handling-of-active-substance-master-files-and-certificates-of-suitability-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Handling of Active Substance Master Files and Certificates of Suitability from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/handling-of-active-substance-master-files-and-certificates-of-suitability-from-1-january-2021">Handling of Active Substance Master Files and Certificates of Suitability from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.8" data-track-label="/guidance/handling-of-active-substance-master-files-and-certificates-of-suitability-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Handling of Active Substance Master Files and Certificates of Suitability from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/handling-of-active-substance-master-files-and-certificates-of-suitability-from-1-january-2021">Handling of Active Substance Master Files and Certificates of Suitability from 1 January 2021</a>
 
 
 
@@ -335,7 +374,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.7" data-track-label="/guidance/reference-medicinal-products-rmps-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Reference Medicinal Products (RMPs) from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/reference-medicinal-products-rmps-from-1-january-2021">Reference Medicinal Products (RMPs) from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.9" data-track-label="/guidance/reference-medicinal-products-rmps-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Reference Medicinal Products (RMPs) from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/reference-medicinal-products-rmps-from-1-january-2021">Reference Medicinal Products (RMPs) from 1 January 2021</a>
 
 
 
@@ -354,7 +393,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.8" data-track-label="/guidance/converting-centrally-authorised-products-caps-to-uk-marketing-authorisations-mas-from-1-january-2021-grandfathering-and-managing-lifecycle-chan" data-track-options="{"dimension28":"12","dimension29":"Converting Centrally Authorised Products (CAPs) to UK Marketing Authorisations (MAs) from 1 January 2021, 'grandfathering' and managing lifecycle changes"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/converting-centrally-authorised-products-caps-to-uk-marketing-authorisations-mas-from-1-january-2021-grandfathering-and-managing-lifecycle-chan">Converting Centrally Authorised Products (CAPs) to UK Marketing Authorisations (MAs) from 1 January 2021, 'grandfathering' and managing lifecycle changes</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.10" data-track-label="/guidance/converting-centrally-authorised-products-caps-to-uk-marketing-authorisations-mas-from-1-january-2021-grandfathering-and-managing-lifecycle-chan" data-track-options="{"dimension28":"14","dimension29":"Converting Centrally Authorised Products (CAPs) to UK Marketing Authorisations (MAs) from 1 January 2021, 'grandfathering' and managing lifecycle changes"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/converting-centrally-authorised-products-caps-to-uk-marketing-authorisations-mas-from-1-january-2021-grandfathering-and-managing-lifecycle-chan">Converting Centrally Authorised Products (CAPs) to UK Marketing Authorisations (MAs) from 1 January 2021, 'grandfathering' and managing lifecycle changes</a>
 
 
 
@@ -373,7 +412,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.9" data-track-label="/guidance/renewing-marketing-authorisations-for-medicines-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Renewing Marketing Authorisations for medicines from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/renewing-marketing-authorisations-for-medicines-from-1-january-2021">Renewing Marketing Authorisations for medicines from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.11" data-track-label="/guidance/renewing-marketing-authorisations-for-medicines-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Renewing Marketing Authorisations for medicines from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/renewing-marketing-authorisations-for-medicines-from-1-january-2021">Renewing Marketing Authorisations for medicines from 1 January 2021</a>
 
 
 
@@ -392,7 +431,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.10" data-track-label="/guidance/guidance-on-new-provisions-for-traditional-herbal-medicinal-products-and-homoeopathic-medicinal-products-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Guidance on new provisions for traditional herbal medicinal products and homoeopathic medicinal products from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/guidance-on-new-provisions-for-traditional-herbal-medicinal-products-and-homoeopathic-medicinal-products-from-1-january-2021">Guidance on new provisions for traditional herbal medicinal products and homoeopathic medicinal products from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.12" data-track-label="/guidance/guidance-on-new-provisions-for-traditional-herbal-medicinal-products-and-homoeopathic-medicinal-products-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Guidance on new provisions for traditional herbal medicinal products and homoeopathic medicinal products from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/guidance-on-new-provisions-for-traditional-herbal-medicinal-products-and-homoeopathic-medicinal-products-from-1-january-2021">Guidance on new provisions for traditional herbal medicinal products and homoeopathic medicinal products from 1 January 2021</a>
 
 
 
@@ -411,7 +450,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.11" data-track-label="/guidance/guidance-on-licensing-biosimilars-atmps-and-pmfs-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Guidance on licensing biosimilars, ATMPs and PMFs from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/guidance-on-licensing-biosimilars-atmps-and-pmfs-from-1-january-2021">Guidance on licensing biosimilars, ATMPs and PMFs from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.13" data-track-label="/guidance/guidance-on-licensing-biosimilars-atmps-and-pmfs-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Guidance on licensing biosimilars, ATMPs and PMFs from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/guidance-on-licensing-biosimilars-atmps-and-pmfs-from-1-january-2021">Guidance on licensing biosimilars, ATMPs and PMFs from 1 January 2021</a>
 
 
 
@@ -430,7 +469,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.12" data-track-label="/guidance/comparator-products-in-bioequivalencetherapeutic-equivalence-studies-from-1-january-2021" data-track-options="{"dimension28":"12","dimension29":"Comparator products in Bioequivalence/Therapeutic Equivalence studies from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/comparator-products-in-bioequivalencetherapeutic-equivalence-studies-from-1-january-2021">Comparator products in Bioequivalence/Therapeutic Equivalence studies from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.14" data-track-label="/guidance/comparator-products-in-bioequivalencetherapeutic-equivalence-studies-from-1-january-2021" data-track-options="{"dimension28":"14","dimension29":"Comparator products in Bioequivalence/Therapeutic Equivalence studies from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/comparator-products-in-bioequivalencetherapeutic-equivalence-studies-from-1-january-2021">Comparator products in Bioequivalence/Therapeutic Equivalence studies from 1 January 2021</a>
 
 
 
@@ -447,7 +486,7 @@
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="importing-and-exporting">Importing and exporting</h3>
@@ -459,10 +498,10 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/guidance/importing-medicines-on-an-approved-country-for-import-list-from-1-january-2021" data-track-options="{"dimension28":"6","dimension29":"Importing medicines on an approved country for import list from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/importing-medicines-on-an-approved-country-for-import-list-from-1-january-2021">Importing medicines on an approved country for import list from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/guidance/importing-medicines-on-an-approved-country-for-import-list-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Importing medicines on an approved country for import list from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/importing-medicines-on-an-approved-country-for-import-list-from-1-january-2021">Importing medicines on an approved country for import list from 1 January 2021</a>
 
 
 
@@ -481,7 +520,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.2" data-track-label="/government/publications/exporting-active-substances-manufactured-in-great-britain-for-use-in-eea-and-northern-ireland-from-1-january-2021" data-track-options="{"dimension28":"6","dimension29":"Exporting active substances manufactured in Great Britain for use in EEA and Northern Ireland from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/exporting-active-substances-manufactured-in-great-britain-for-use-in-eea-and-northern-ireland-from-1-january-2021">Exporting active substances manufactured in Great Britain for use in EEA and Northern Ireland from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.2" data-track-label="/government/publications/exporting-active-substances-manufactured-in-great-britain-for-use-in-eea-and-northern-ireland-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Exporting active substances manufactured in Great Britain for use in EEA and Northern Ireland from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/exporting-active-substances-manufactured-in-great-britain-for-use-in-eea-and-northern-ireland-from-1-january-2021">Exporting active substances manufactured in Great Britain for use in EEA and Northern Ireland from 1 January 2021</a>
 
 
 
@@ -500,7 +539,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/importing-investigational-medicinal-products-into-great-britain-from-approved-countries-from-1-january-2021" data-track-options="{"dimension28":"6","dimension29":"Importing investigational medicinal products into Great Britain from approved countries from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/importing-investigational-medicinal-products-into-great-britain-from-approved-countries-from-1-january-2021">Importing investigational medicinal products into Great Britain from approved countries from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/importing-investigational-medicinal-products-into-great-britain-from-approved-countries-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Importing investigational medicinal products into Great Britain from approved countries from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/importing-investigational-medicinal-products-into-great-britain-from-approved-countries-from-1-january-2021">Importing investigational medicinal products into Great Britain from approved countries from 1 January 2021</a>
 
 
 
@@ -519,15 +558,15 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.4" data-track-label="/government/publications/list-of-approved-countries-for-authorised-human-medicines-from-1-january-2021--2" data-track-options="{"dimension28":"6","dimension29":"List of approved countries for authorised human medicines from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/list-of-approved-countries-for-authorised-human-medicines-from-1-january-2021--2">List of approved countries for authorised human medicines from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.4" data-track-label="/government/publications/list-of-approved-countries-for-authorised-human-medicines-from-1-january-2021--2" data-track-options="{"dimension28":"5","dimension29":"List of approved countries for authorised human medicines from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/list-of-approved-countries-for-authorised-human-medicines-from-1-january-2021--2">List of approved countries for authorised human medicines from 1 January 2021</a>
 
 
 
           <ul class="gem-c-document-list__item-metadata">
 
                 <li class="gem-c-document-list__attribute">
-                    <time datetime="2020-09-01T15:01:23+01:00">
-                       1 September 2020
+                    <time datetime="2020-09-25T16:32:28+01:00">
+                      25 September 2020
                     </time>
 </li>
                 <li class="gem-c-document-list__attribute">
@@ -538,7 +577,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.5" data-track-label="/guidance/acting-as-a-responsible-person-import-from-1-january-2021" data-track-options="{"dimension28":"6","dimension29":"Acting as a Responsible Person (import) from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/acting-as-a-responsible-person-import-from-1-january-2021">Acting as a Responsible Person (import) from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.5" data-track-label="/guidance/acting-as-a-responsible-person-import-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Acting as a Responsible Person (import) from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/acting-as-a-responsible-person-import-from-1-january-2021">Acting as a Responsible Person (import) from 1 January 2021</a>
 
 
 
@@ -555,26 +594,7 @@
 
 
       </li>
-      <li class="gem-c-document-list__item  ">
-
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.6" data-track-label="/guidance/applying-for-a-certificate-of-pharmaceutical-product-from-1-january-2021" data-track-options="{"dimension28":"6","dimension29":"Applying for a Certificate of Pharmaceutical Product from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/applying-for-a-certificate-of-pharmaceutical-product-from-1-january-2021">Applying for a Certificate of Pharmaceutical Product from 1 January 2021</a>
-
-
-
-          <ul class="gem-c-document-list__item-metadata">
-
-                <li class="gem-c-document-list__attribute">
-                    <time datetime="2020-09-01T15:00:04+01:00">
-                       1 September 2020
-                    </time>
-</li>
-                <li class="gem-c-document-list__attribute">
-                    Guidance
-</li>          </ul>
-
-
-      </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="it-systems">IT systems</h3>
@@ -586,7 +606,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.1" data-track-label="/guidance/registering-to-make-submissions-to-the-mhra-from-1-january-2021" data-track-options="{"dimension28":"2","dimension29":"Registering to make submissions to the MHRA from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/registering-to-make-submissions-to-the-mhra-from-1-january-2021">Registering to make submissions to the MHRA from 1 January 2021</a>
@@ -625,7 +645,7 @@
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="pharmacovigilance-">Pharmacovigilance </h3>
@@ -637,10 +657,10 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/government/publications/guidance-on-pharmacovigilance-procedures-in-the-event-from-1-january-2021" data-track-options="{"dimension28":"2","dimension29":"Guidance on pharmacovigilance procedures in the event from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/guidance-on-pharmacovigilance-procedures-in-the-event-from-1-january-2021">Guidance on pharmacovigilance procedures in the event from 1 January 2021</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/government/publications/guidance-on-pharmacovigilance-procedures-in-the-event-from-1-january-2021" data-track-options="{"dimension28":"2","dimension29":"Guidance on pharmacovigilance procedures from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/guidance-on-pharmacovigilance-procedures-in-the-event-from-1-january-2021">Guidance on pharmacovigilance procedures from 1 January 2021</a>
 
 
 
@@ -666,7 +686,7 @@
           <ul class="gem-c-document-list__item-metadata">
 
                 <li class="gem-c-document-list__attribute">
-                    <time datetime="2020-09-04T12:06:02+01:00">
+                    <time datetime="2020-09-04T12:06:00+01:00">
                        4 September 2020
                     </time>
 </li>
@@ -676,7 +696,7 @@
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
   <h3 class="group-title" id="paediatrics">Paediatrics</h3>
@@ -688,7 +708,7 @@
 
 
   <div data-module="track-click">
-        <ol class="gem-c-document-list">
+        <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.1" data-track-label="/guidance/procedures-for-uk-paediatric-investigation-plan-pips-from-1-january-2021" data-track-options="{"dimension28":"3","dimension29":"Procedures for UK Paediatric Investigation Plan (PIPs) from 1 January 2021"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/guidance/procedures-for-uk-paediatric-investigation-plan-pips-from-1-january-2021">Procedures for UK Paediatric Investigation Plan (PIPs) from 1 January 2021</a>
@@ -746,7 +766,7 @@
 
 
       </li>
-    </ol>
+    </ul>
 
   </div>
 
@@ -754,10 +774,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 1 September 2020
-    <br></br>Last updated 4 September 2020
+    <br></br>Last updated 1 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-01T18:45:33.000+01:00">1 October 2020</time>
+              <p class="app-c-published-dates__change-note">Adding 'Supplying medicines to Northern Ireland from 1 January 2021' and 'How the MHRA will manage orphan medicinal products from 1 January 2021' to the page.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-04T12:11:23.000+01:00">4 September 2020</time>
               <p class="app-c-published-dates__change-note">Added link to new guidance 'Guidance on qualified person responsible for pharmacovigilance (QPPV) including pharmacovigilance system master files (PSMF) from 1 January 2021', in the Pharmacovigilance section.</p>
@@ -797,6 +821,31 @@
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-66179505" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-66179505" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/registration-of-clinical-trials-for-investigational-medicinal-products-and-publication-of-summary-results-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Registration of clinical trials for investigational medicinal products and publication of summary results from 1 January 2021"}" href="/guidance/registration-of-clinical-trials-for-investigational-medicinal-products-and-publication-of-summary-results-from-1-january-2021">Registration of clinical trials for investigational medicinal products and publication of summary results from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/regulating-medical-devices-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Regulating medical devices from 1 January 2021"}" href="/guidance/regulating-medical-devices-from-1-january-2021">Regulating medical devices from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/using-the-ukca-mark-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Using the UKCA mark from 1 January 2021"}" href="/guidance/using-the-ukca-mark-from-1-january-2021">Using the UKCA mark from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/registering-to-make-submissions-to-the-mhra-from-1-january-2021" data-track-options="{"dimension28":"5","dimension29":"Registering to make submissions to the MHRA from 1 January 2021"}" href="/guidance/registering-to-make-submissions-to-the-mhra-from-1-january-2021">Registering to make submissions to the MHRA from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/medicines-get-scientific-advice-from-mhra" data-track-options="{"dimension28":"5","dimension29":"Medicines: get scientific advice from MHRA"}" href="/guidance/medicines-get-scientific-advice-from-mhra">Medicines: get scientific advice from MHRA</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -818,9 +867,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4a84c6c1" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a07179f5" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-4a84c6c1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-a07179f5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
