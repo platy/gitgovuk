@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 29 January 2020
-    <br></br>Last updated 6 August 2020
+    <br></br>Last updated 8 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -57,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#trade-agreements-until-31-december-2020" data-track-options="{"dimension29":"Trade agreements until 31 December 2020"}" href="#trade-agreements-until-31-december-2020">Trade agreements until 31 December 2020</a>
@@ -211,22 +212,20 @@
       <td><a href="https://www.gov.uk/government/collections/uk-tunisia-association-agreement" class="govuk-link">Tunisia</a></td>
       <td style="text-align: right">611</td>
     </tr>
+    <tr>
+      <td>Ukraine</td>
+      <td style="text-align: right">1,533</td>
+    </tr>
   </tbody>
 </table>
 
-<table>
-  <tbody>
-    <tr>
-      <td>1 Source of trade statistics: <a rel="external" href="https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/datasets/uktotaltradeallcountriesnonseasonallyadjusted" class="govuk-link">ONS UK total trade: all countries, non-seasonally adjusted January to March 2020</a>.</td>
-    </tr>
-    <tr>
-      <td>2 After 31 December 2020, it is expected an arrangement will be in place prior to this agreement taking effect.</td>
-    </tr>
-    <tr>
-      <td>3 The UK signed a trade agreement in goods with Iceland and Norway on the 2 April 2019. This agreement was signed to maintain continuity of trade and was part of preparations for a potential ‘no deal’ Brexit. It will not enter into force. The UK’s future relationship with these countries is influenced by their relationship with the EU, as they are EEA member states. We will continue to engage with Iceland and Norway to determine the most effective way of maintaining and strengthening trade with them beyond the transition period.</td>
-    </tr>
-  </tbody>
-</table>
+<h4 id="notes">Notes</h4>
+
+<p>1) Source of trade statistics: <a rel="external" href="https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/datasets/uktotaltradeallcountriesnonseasonallyadjusted" class="govuk-link">ONS UK total trade: all countries, non-seasonally adjusted January to March 2020</a>.</p>
+
+<p>2) After 31 December 2020, it is expected an arrangement will be in place prior to this agreement taking effect.</p>
+
+<p>3) The UK signed a trade agreement in goods with Iceland and Norway on the 2 April 2019. This agreement was signed to maintain continuity of trade and was part of preparations for a potential ‘no deal’ Brexit. It will not enter into force. The UK’s future relationship with these countries is influenced by their relationship with the EU, as they are EEA member states. We will continue to engage with Iceland and Norway to determine the most effective way of maintaining and strengthening trade with them beyond the transition period.</p>
 
 <h2 id="trade-agreements-still-in-discussion">Trade agreements still in discussion</h2>
 
@@ -307,10 +306,6 @@
       <td style="text-align: right">Engagement ongoing</td>
     </tr>
     <tr>
-      <td>Ukraine</td>
-      <td style="text-align: right">Engagement ongoing</td>
-    </tr>
-    <tr>
       <td>Vietnam</td>
       <td style="text-align: right">Engagement ongoing</td>
     </tr>
@@ -321,7 +316,10 @@
 <p>Andorra, San Marino and Turkey are part of Customs Unions with the EU. The UK’s future trading relationship with these countries will be influenced by the agreement the UK reaches with the EU.</p>
 
 <h3 id="trade-agreement-discussions-with-japan">Trade agreement discussions with Japan</h3>
-<p>The UK and Japan have agreed to negotiate a new bilateral agreement using the existing EU agreement as a base, looking for opportunities to enhance areas of mutual interest.</p>
+
+<p>The UK has secured a free trade agreement with Japan.</p>
+
+<p>The UK-Japan Comprehensive Economic Partnership Agreement was agreed in principle on 11 September 2020. Find out <a href="https://www.gov.uk/government/news/uk-and-japan-agree-historic-free-trade-agreement" class="govuk-link">more about this agreement</a>.</p>
 
 <h2 id="mutual-recognition-agreements">Mutual recognition agreements</h2>
 
@@ -349,7 +347,7 @@
 <h3 id="mra-discussions-with-japan">
 <abbr title="mutual recognition agreement">MRA</abbr> discussions with Japan</h3>
 
-<p>Discussions with Japan on a UK-Japan <abbr title="mutual recognition agreement">MRA</abbr> are ongoing. The UK and Japan have signed an <a href="https://www.gov.uk/government/publications/uk-japan-exchange-of-letters-on-mutual-recognition" class="govuk-link">exchange of letters</a> designed to ensure the continuity of existing arrangements as a temporary measure.</p>
+<p>The UK and Japan have signed an <a href="https://www.gov.uk/government/publications/uk-japan-exchange-of-letters-on-mutual-recognition" class="govuk-link">exchange of letters</a> designed to ensure the continuity of effect of the existing arrangements.</p>
 
 <h2 id="more-information">More information</h2>
 
@@ -376,10 +374,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 29 January 2020
-    <br></br>Last updated 6 August 2020
+    <br></br>Last updated 8 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T13:45:37.000+01:00">8 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated to reflect the signing of the UK-Ukraine agreement.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-08-06T16:10:09.000+01:00">6 August 2020</time>
               <p class="app-c-published-dates__change-note">'Trade agreements that have been signed' table updated with the most recent statistics from the Office for National Statistics</p>
@@ -437,32 +439,32 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-d3c3df5b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-99cb17dd" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d3c3df5b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-99cb17dd" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/cariforum-uk-economic-partnership-agreement" data-track-options="{"dimension28":"4","dimension29":"CARIFORUM-UK economic partnership agreement"}" href="/government/collections/cariforum-uk-economic-partnership-agreement">CARIFORUM-UK economic partnership agreement</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/ukkorea-free-trade-agreement-with-exchange-of-notes-cs-korea-no12019" data-track-options="{"dimension28":"4","dimension29":"UK/Korea: Free Trade Agreement (with Exchange of Notes) [CS Korea No.1/2019]"}" href="/government/publications/ukkorea-free-trade-agreement-with-exchange-of-notes-cs-korea-no12019">UK/Korea: Free Trade Agreement (with Exchange of Notes) [CS Korea No.1/2019]</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/ms-no182019-economic-partnership-agreement-between-the-cariforum-states-of-the-one-part-and-the-united-kingdom-of-great-britain-and-northern-ire" data-track-options="{"dimension28":"4","dimension29":"Economic Partnership Agreement between the CARIFORUM States, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part [MS No.18/2019]"}" href="/government/publications/ms-no182019-economic-partnership-agreement-between-the-cariforum-states-of-the-one-part-and-the-united-kingdom-of-great-britain-and-northern-ire">Economic Partnership Agreement between the CARIFORUM States, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part [MS No.18/2019]</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/cs-new-zealand-no22019-uknew-zealand-agreement-on-mutual-recognition-in-relation-to-conformity-assessment" data-track-options="{"dimension28":"4","dimension29":"UK/New Zealand: Agreement on Mutual Recognition in Relation to Conformity Assessment [CS New Zealand No.2/2019]"}" href="/government/publications/cs-new-zealand-no22019-uknew-zealand-agreement-on-mutual-recognition-in-relation-to-conformity-assessment">UK/New Zealand: Agreement on Mutual Recognition in Relation to Conformity Assessment [CS New Zealand No.2/2019]</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/uk-pacific-economic-partnership-agreement" data-track-options="{"dimension28":"4","dimension29":"UK-Pacific economic partnership agreement (EPA)"}" href="/government/collections/uk-pacific-economic-partnership-agreement">UK-Pacific economic partnership agreement (EPA)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/cariforum-uk-economic-partnership-agreement" data-track-options="{"dimension28":"4","dimension29":"CARIFORUM-UK economic partnership agreement"}" href="/government/collections/cariforum-uk-economic-partnership-agreement">CARIFORUM-UK economic partnership agreement</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/ukkorea-free-trade-agreement-with-exchange-of-notes-cs-korea-no12019" data-track-options="{"dimension28":"4","dimension29":"UK/Korea: Free Trade Agreement (with Exchange of Notes) [CS Korea No.1/2019]"}" href="/government/publications/ukkorea-free-trade-agreement-with-exchange-of-notes-cs-korea-no12019">UK/Korea: Free Trade Agreement (with Exchange of Notes) [CS Korea No.1/2019]</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/cs-switzerland-no42019-ukswitzerland-trade-agreement" data-track-options="{"dimension28":"4","dimension29":"UK/Switzerland: Trade Agreement [CS Switzerland No.4/2019]"}" href="/government/publications/cs-switzerland-no42019-ukswitzerland-trade-agreement">UK/Switzerland: Trade Agreement [CS Switzerland No.4/2019]</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d3c3df5b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-99cb17dd" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-d3c3df5b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-99cb17dd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -494,9 +496,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d41efa52" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-323df27d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d41efa52" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-323df27d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
