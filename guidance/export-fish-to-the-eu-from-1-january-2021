@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">How to export fish for human consumption from 1 January 2021, what documents you may need and customs rules to follow.</p>
+  <p class="gem-c-lead-paragraph">How to export fish for human consumption from 1 January 2021 and what documents you may need</p>
 
   </div>
 </div>
@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 10 September 2020
+    <br></br>Last updated 8 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -47,7 +49,7 @@
 
 
 
-  <section class="app-c-header-notice" aria-label="notice" role="region">
+  <section class="app-c-header-notice" aria-label="notice" role="region" lang="en">
     <div class="app-c-header-notice__header">
       <h2 class="app-c-header-notice__title">New rules for January 2021</h2>
     </div>
@@ -73,9 +75,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#customs-requirements" data-track-options="{"dimension29":"Customs requirements"}" href="#customs-requirements">Customs requirements</a>
@@ -95,6 +98,14 @@
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#direct-landing-documents" data-track-options="{"dimension29":"Direct landing documents"}" href="#direct-landing-documents">Direct landing documents</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#transhipments-in-eu-ports" data-track-options="{"dimension29":"Transhipments in EU ports"}" href="#transhipments-in-eu-ports">Transhipments in EU ports</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#return-rejected-fish-exports-to-gb" data-track-options="{"dimension29":"Return rejected fish exports to GB"}" href="#return-rejected-fish-exports-to-gb">Return rejected fish exports to GB</a>
 
         </li>
     </ol>
@@ -155,7 +166,7 @@
 
 <p>You’ll need an <a href="https://www.gov.uk/guidance/get-an-export-health-certificate" class="govuk-link"><abbr title="export health certificate">EHC</abbr></a> for all exports of fish to the EU.</p>
 
-<p>All exports of fishery products will need to be dispatched from an UK approved food establishment that has been listed by the EU. <a rel="external" href="https://www.food.gov.uk/business-guidance/brexit-listing-of-establishments-to-export-products-of-animal-origin-to-the-eu" class="govuk-link">Find out how to become listed</a>.</p>
+<p>All exports of fishery products will need to be dispatched from an UK approved food establishment listed by the EU. <a rel="external" href="https://www.food.gov.uk/business-guidance/brexit-listing-of-establishments-to-export-products-of-animal-origin-to-the-eu" class="govuk-link">Find out how to become listed</a>.</p>
 
 <h2 id="send-validated-catch-certificate-to-the-importer">Send validated catch certificate to the importer</h2>
 
@@ -187,7 +198,7 @@
 
 <h2 id="composite-products">Composite products</h2>
 
-<p>Products that contain no meat but contain 50% or more processed fishery product will need to:</p>
+<p>Composite fish products and those that use tariff codes starting 1604 or 1605 will need to:</p>
 
 <ul>
   <li>have the relevant IUU document(s)</li>
@@ -250,7 +261,7 @@
   <li>the fish to be landed into a Border Control Post (<abbr title="border control post">BCP</abbr>) approved for the landed fishery product</li>
 </ul>
 
-<p>‘Processing’ includes activities such as wrapping, mincing, freezing and filleting. Read about <a href="https://www.gov.uk/government/publications/buyers-and-sellers-of-first-sale-fish-and-submission-of-sales-notes/processing-presentation-and-marketing-information-for-fish" class="govuk-link">processing, presentation and marketing of fish</a>.</p>
+<p>‘Processing’ includes activities such as mincing, freezing and filleting. Read about <a href="https://www.gov.uk/government/publications/buyers-and-sellers-of-first-sale-fish-and-submission-of-sales-notes/processing-presentation-and-marketing-information-for-fish" class="govuk-link">processing, presentation and marketing of fish</a>.</p>
 
 <p>Non-food approved registered vessels that land fresh fish directly into the EU at a <abbr title="North East Atlantic Fisheries Commission">NEAFC</abbr> designated port will not require an Export Health Certificate or need to pass through a <abbr title="border control post">BCP</abbr>.</p>
 
@@ -260,17 +271,69 @@
 
 <p>Speak to your licensing authority who can register your fishing vessel with <abbr title="North East Atlantic Fisheries Commission">NEAFC</abbr>.</p>
 
-<p>Once your vessel is registered, you’ll need to <a rel="external" href="https://psc.neafc.org/node/1219" class="govuk-link">create an account</a> to submit a <abbr title="North East Atlantic Fisheries Commission">NEAFC</abbr> Port State Control form (PSC1 or PSC2) before landing.</p>
+<p>Once your vessel is registered, you’ll need to <a rel="external" href="https://psc.neafc.org/node/1219" class="govuk-link">create an account</a> to submit a <abbr title="North East Atlantic Fisheries Commission">NEAFC</abbr> Port State Control form before landing.</p>
+
+<p>For direct landings you’ll need to submit form PSC1</p>
 
 <p>Check with the <abbr title="North East Atlantic Fisheries Commission">NEAFC</abbr> to find out how much notice you need to give before landing. This will vary depending on the country you’re exporting to and how your product is presented.</p>
+
+<h2 id="transhipments-in-eu-ports">Transhipments in EU ports</h2>
+
+<p>Transhipping is the process of transferring fish from one vessel to another while in port.</p>
+
+<p>To tranship in EU ports, you’ll need to arrive in a designated EU <abbr title="North East Atlantic Fisheries Commission">NEAFC</abbr> port. UK vessels will need to complete a:</p>
+
+<ul>
+  <li><a href="https://www.gov.uk/government/publications/give-prior-notification-to-land-fish-in-the-eu" class="govuk-link">prior notification form</a></li>
+  <li>Pre-transhipment declaration</li>
+  <li>PSC2 form - <a rel="external" href="https://psc.neafc.org/" class="govuk-link">create an account with <abbr title="North East Atlantic Fisheries Commission">NEAFC</abbr></a> to create this form</li>
+</ul>
+
+<p>It’s the responsibility of both vessel operators to complete these forms and submit to the EU competent authority 4 hours before arriving in the port.</p>
+
+<p>You must wait for confirmation from the authority before you complete the transhipment.</p>
+
+<h2 id="return-rejected-fish-exports-to-gb">Return rejected fish exports to GB</h2>
+
+<p>If your consignment of fish is rejected at an EU border control post(<abbr title="border control post">BCP</abbr>), you may be able  to return the goods to GB. This will depend on the reason it was rejected at the <abbr title="border control post">BCP</abbr>.</p>
+
+<p>The EU may reject or confiscate your fish export if:</p>
+
+<ul>
+  <li>you did not provide catch certificates and related documents</li>
+  <li>your documents have errors or are not accepted</li>
+  <li>they failed health or identity checks</li>
+</ul>
+
+<p>Fish products will only be accepted back to GB if they meet certain conditions.</p>
+
+<p>Your fish may not be able to re-enter GB if a catch certificate was not sent by the exporter to the designated EU port in advance.</p>
+
+<p>Speak to your customs representative and EU importer to find out if you can correct mistakes or supply further information to complete the export. The EU <abbr title="border control post">BCP</abbr> will decide whether to accept  your export.</p>
+
+<p>To return your goods to GB, follow the <a href="https://www.gov.uk/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal#rejected-goods-from-1-january-to-30-june-2021" class="govuk-link">returned goods policy for products of animal origin</a>.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 September 2020
+    <br></br>Last updated 8 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T13:03:59.000+01:00">8 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added information about returning rejected exports to GB.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-10T12:34:00.000+01:00">10 September 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -300,6 +363,28 @@
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-8eb8d710" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-8eb8d710" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-8eb8d710" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Detailed guidance" data-track-label="/guidance/import-fish-from-the-eu-from-1-january-2021" data-track-options="{"dimension28":"1","dimension29":"Import fish from the EU from 1 January 2021"}" href="/guidance/import-fish-from-the-eu-from-1-january-2021">Import fish from the EU from 1 January 2021</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -321,9 +406,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-51a9489a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f38fde92" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-51a9489a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-f38fde92" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
