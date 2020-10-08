@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Fluorinated gases and ozone-depleting substances: how to do business from 1 January 2021
   </h1>
@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 6 February 2020
+    <br></br>Last updated 8 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -47,13 +49,14 @@
 
 
 
-  <section class="app-c-header-notice" aria-label="notice" role="region">
+  <section class="app-c-header-notice" aria-label="notice" role="region" lang="en">
     <div class="app-c-header-notice__header">
-      <h2 class="app-c-header-notice__title">The UK has left the EU</h2>
+      <h2 class="app-c-header-notice__title">New rules for January 2021</h2>
     </div>
 
     <div class="app-c-header-notice__content">
-      <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It'll be updated if anything changes. </p>
+          <p class="app-c-header-notice__text govuk-body">The UK has left the EU, and the transition period after Brexit comes to an end this year.</p>
+          <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It will be updated if anything changes.</p>
         <div class="app-c-header-notice__links">
             <p class="govuk-body app-c-header-notice__link-intro">For current information, read: </p>
             <ul class="app-c-header-notice__list govuk-list">
@@ -73,16 +76,26 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#reporting-your-f-gas-activity" data-track-options="{"dimension29":"Reporting your F gas activity"}" href="#reporting-your-f-gas-activity">Reporting your F gas activity</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#reporting-your-ods-activity" data-track-options="{"dimension29":"Reporting your ODS activity"}" href="#reporting-your-ods-activity">Reporting your ODS activity</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#hfc-exports-rejected-at-an-eu-border-control-post-bcp" data-track-options="{"dimension29":"HFC exports rejected at an EU border control post (BCP)"}" href="#hfc-exports-rejected-at-an-eu-border-control-post-bcp">HFC exports rejected at an EU border control post (BCP)</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#reporting-your-ods-activity" data-track-options="{"dimension29":"Reporting your ODS activity"}" href="#reporting-your-ods-activity">Reporting your ODS activity</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#ods-exports-rejected-by-an-eu-border-control-post" data-track-options="{"dimension29":"\nODS exports rejected by an EU border control post"}" href="#ods-exports-rejected-by-an-eu-border-control-post">
+ODS exports rejected by an EU border control post</a>
 
         </li>
     </ol>
@@ -105,7 +118,46 @@
 
 <p>You must <a rel="external" href="https://webgate.ec.europa.eu/ods2/resources/domain/resolve" class="govuk-link">report your F gas activities from 1 Jan 2020 to 31 December 2020</a> to the European Commission by 31 March 2021.</p>
 
-<p>This guidance will be updated with what you need to do for activities from 1 Jan 2021</p>
+<h2 id="hfc-exports-rejected-at-an-eu-border-control-post-bcp">HFC exports rejected at an EU border control post (BCP)</h2>
+
+<p>If <abbr title="hydrofluorocarbons">HFCs</abbr> you export from GB to EU (and Northern Ireland) are rejected at a BCP and need to return to GB you’ll need to regain free circulation status for the goods.</p>
+
+<p>This applies to both <abbr title="hydrofluorocarbons">HFCs</abbr> in bulk and in products and equipment.</p>
+
+<p>To regain free circulation status the <abbr title="hydrofluorocarbons">HFCs</abbr> must comply with clearance processes.</p>
+
+<p>You must:</p>
+
+<ul>
+  <li>have a full customs declaration</li>
+  <li>be registered on the GB HFC registry</li>
+  <li>have sufficient HFC quota authorisations or delegations at the time of re-entry</li>
+</ul>
+
+<p>The Environment Agency will administer the GB HFC systems on behalf of England, Scotland and Wales, subject to receiving the direction of the Scottish and Welsh Governments, from 1 January 2021.</p>
+
+<p>The National Clearance Hub (NCH) will check your customs declaration against the HFC Registry. If you have sufficient quota or authorisations, they will give permission for the goods to move on from the GB port of re-entry.</p>
+
+<p>Your <abbr title="hydrofluorocarbons">HFCs</abbr> may not be able to re-enter GB if you:</p>
+
+<ul>
+  <li>are not on the HFC Registry</li>
+  <li>do not have sufficient quota or authorisations</li>
+</ul>
+
+<p>NCH will instruct Border Force to stop and detain your consignment at the border when returning from an EU BCP.</p>
+
+<p>NCH or Border Force and the regulator will check the consignment and decide how to deal with the returned <abbr title="hydrofluorocarbons">HFCs</abbr>.</p>
+
+<p>The regulator is:</p>
+
+<ul>
+  <li>Environment Agency in England</li>
+  <li>Scottish Environmental Protection Agency in Scotland</li>
+  <li>Natural Resources Wales in Wales</li>
+</ul>
+
+<p>The <abbr title="hydrofluorocarbons">HFCs</abbr> may be destroyed.</p>
 
 <h2 id="reporting-your-ods-activity">Reporting your <abbr title="ozone-depleting substances">ODS</abbr> activity</h2>
 
@@ -121,15 +173,68 @@
 
 <p>You must <a rel="external" href="https://webgate.ec.europa.eu/ods2/resources/domain/resolve" class="govuk-link">report your <abbr title="ozone-depleting substances">ODS</abbr> activities for 1 Jan 2020 to 31 December 2020</a> to the European Commission by 31 March 2021.</p>
 
-<p>This guidance will be updated with what you need to do from 1 Jan 2021 .</p>
+<h2 id="ods-exports-rejected-by-an-eu-border-control-post">
+<abbr title="ozone-depleting substances">ODS</abbr> exports rejected by an EU border control post</h2>
+
+<p>If <abbr title="ozone-depleting substances">ODS</abbr> you export from GB to EU (and Northern Ireland) are rejected at a EU border control post (BCP) and need to return to GB you’ll need to re-attain free circulation status for the goods.</p>
+
+<p>To regain free circulation status the <abbr title="ozone-depleting substances">ODS</abbr> must comply with clearance processes.</p>
+
+<p>You must:</p>
+
+<ul>
+  <li>have a full customs declaration</li>
+  <li>be registered on the GB <abbr title="ozone-depleting substances">ODS</abbr> licensing system</li>
+  <li>hold sufficient <abbr title="ozone-depleting substances">ODS</abbr> quota</li>
+  <li>have a valid <abbr title="ozone-depleting substances">ODS</abbr> import licence at the time of re-entry</li>
+</ul>
+
+<p>The Environment Agency will administer the GB <abbr title="ozone-depleting substances">ODS</abbr> system on behalf of England, Scotland and Wales, subject to receiving the direction of the Scottish and Welsh Governments from 1 January 2021.</p>
+
+<p>The National Clearance Hub (NCH) will check your customs declaration against the <abbr title="ozone-depleting substances">ODS</abbr> licensing system.</p>
+
+<p>Your <abbr title="ozone-depleting substances">ODS</abbr> may not be able to re-enter GB if:</p>
+
+<ul>
+  <li>you are not on the <abbr title="ozone-depleting substances">ODS</abbr> Licensing System</li>
+  <li>the consignment does not have a valid <abbr title="ozone-depleting substances">ODS</abbr> import licence</li>
+</ul>
+
+<p>NCH will instruct Border Force to stop and detain your consignment at the border when returning from an EU BCP.</p>
+
+<p>NCH or Border Force and the regulator will check the consignment and  decide how to deal with the returned <abbr title="ozone-depleting substances">ODS</abbr>.</p>
+
+<p>The regulator is:</p>
+
+<ul>
+  <li>Environment Agency in England</li>
+  <li>Scottish Environmental Protection Agency in Scotland</li>
+  <li>Natural Resources Wales in Wales</li>
+</ul>
+
+<p>The <abbr title="ozone-depleting substances">ODS</abbr> may be destroyed.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 6 February 2020
+    <br></br>Last updated 8 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T13:00:12.000+01:00">8 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated with guidance on the process for exports that rejected an EU border control post.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-02-06T12:24:00.000+00:00">6 February 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -159,6 +264,45 @@
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-3a42892e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3a42892e" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/fluorinated-gases-and-ozone-depleting-substances-how-to-do-business-in-the-transition-period" data-track-options="{"dimension28":"5","dimension29":"Fluorinated gases and ozone-depleting substances: how to do business in the transition period"}" href="/guidance/fluorinated-gases-and-ozone-depleting-substances-how-to-do-business-in-the-transition-period">Fluorinated gases and ozone-depleting substances: how to do business in the transition period</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/ozone-depleting-substances-guidance-for-users-producers-and-traders" data-track-options="{"dimension28":"5","dimension29":"Ozone-depleting substances: guidance for users, producers and traders"}" href="/government/collections/ozone-depleting-substances-guidance-for-users-producers-and-traders">Ozone-depleting substances: guidance for users, producers and traders</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/applying-for-quota-to-import-or-produce-ozone-depleting-substances" data-track-options="{"dimension28":"5","dimension29":"Applying for quota to import or produce ozone-depleting substances"}" href="/guidance/applying-for-quota-to-import-or-produce-ozone-depleting-substances">Applying for quota to import or produce ozone-depleting substances</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/bans-on-f-gas-in-new-products-and-equipment-current-and-future" data-track-options="{"dimension28":"5","dimension29":"Bans on F gas in new products and equipment: current and future"}" href="/guidance/bans-on-f-gas-in-new-products-and-equipment-current-and-future">Bans on F gas in new products and equipment: current and future</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/record-f-gas-in-equipment-you-own-or-service" data-track-options="{"dimension28":"5","dimension29":"Record F gas in equipment you own or service"}" href="/guidance/record-f-gas-in-equipment-you-own-or-service">Record F gas in equipment you own or service</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-3a42892e" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-3a42892e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/fluorinated-gases-and-ozone-depleting-substances-how-to-do-business-in-the-transition-period" data-track-options="{"dimension28":"1","dimension29":"Fluorinated gases and ozone-depleting substances: how to do business in the transition period"}" href="/guidance/fluorinated-gases-and-ozone-depleting-substances-how-to-do-business-in-the-transition-period">Fluorinated gases and ozone-depleting substances: how to do business in the transition period</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -180,9 +324,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9192ba74" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1d151de8" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-9192ba74" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-1d151de8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
