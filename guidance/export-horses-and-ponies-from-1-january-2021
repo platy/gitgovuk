@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Export horses and ponies from 1 January 2021
   </h1>
@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 29 January 2020
+    <br></br>Last updated 8 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -47,13 +49,14 @@
 
 
 
-  <section class="app-c-header-notice" aria-label="notice" role="region">
+  <section class="app-c-header-notice" aria-label="notice" role="region" lang="en">
     <div class="app-c-header-notice__header">
-      <h2 class="app-c-header-notice__title">The UK is leaving the EU</h2>
+      <h2 class="app-c-header-notice__title">New rules for January 2021</h2>
     </div>
 
     <div class="app-c-header-notice__content">
-      <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It'll be updated if anything changes. </p>
+          <p class="app-c-header-notice__text govuk-body">The UK has left the EU, and the transition period after Brexit comes to an end this year.</p>
+          <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It will be updated if anything changes.</p>
         <div class="app-c-header-notice__links">
             <p class="govuk-body app-c-header-notice__link-intro">
               For current information, read: 
@@ -70,13 +73,32 @@
   <div class="govuk-grid-column-two-thirds">
     
 
-      <div id="contents" class="app-c-contents-list-with-body">
+      <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#moving-equines-to-the-eu-from-1-january-2021" data-track-options="{"dimension29":"Moving equines to the EU from 1 January 2021"}" href="#moving-equines-to-the-eu-from-1-january-2021">Moving equines to the EU from 1 January 2021</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#returned-horses-and-other-equines-rejected-from-a-border-control-post-from-1-january-to-30-june-2021" data-track-options="{"dimension29":"Returned horses and other equines rejected from a border control post from 1 January to 30 June 2021"}" href="#returned-horses-and-other-equines-rejected-from-a-border-control-post-from-1-january-to-30-june-2021">Returned horses and other equines rejected from a border control post from 1 January to 30 June 2021</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#returned-horses-and-other-equines-rejected-from-an-eu-border-control-post-from-1-july-2021" data-track-options="{"dimension29":"Returned horses and other equines rejected from an EU border control post from 1 July 2021"}" href="#returned-horses-and-other-equines-rejected-from-an-eu-border-control-post-from-1-july-2021">Returned horses and other equines rejected from an EU border control post from 1 July 2021</a>
+
+        </li>
+    </ol>
+</nav>
+      </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p>Follow separate guidance if you want to find out how you can <a href="https://www.gov.uk/guidance/importing-horses-if-theres-a-no-deal-brexit" class="govuk-link">import horses into the UK from 1 January 2021</a>.</p>
-
 <h2 id="moving-equines-to-the-eu-from-1-january-2021">Moving equines to the <abbr title="European Union">EU</abbr> from 1 January 2021</h2>
 
 <p>To move horses and other equines from the UK to the <abbr title="European Union">EU</abbr> from 1 January 2021, you’ll need to contact:</p>
@@ -99,12 +121,12 @@
 
 <h3 id="Tests-for-equines">Tests for equines before export</h3>
 
-<p>You’ll need to get your equines tested so they’re free of certain diseases.</p>
+<p>You’ll need to get your equines tested to prove they’re free of certain diseases.</p>
 
 <p>You’ll need tests for:</p>
 
 <ul>
-  <li>equine infectious anaemia - within 30 days before travel for permanent exports, or 90 days before travel for temporary exports of under 90 days (for horses registered with a national branch of an international body for sporting and competition purposes)</li>
+  <li>equine infectious anaemia - within 90 days before travel for temporary exports (of under 90 days) for horses registered with a national branch of an international body for sporting and competition purposes, or within 30 days before travel for permanent exports and all other temporary exports</li>
   <li>equine viral arteritis - within 21 days of travel for uncastrated male equines older than 180 days, unless they meet vaccination requirements</li>
 </ul>
 
@@ -116,7 +138,7 @@
 
 <ul>
   <li>for 40 days</li>
-  <li>since its entry to the UK, if the animal was imported directly from the <abbr title="European Union">EU</abbr> or a country with a similar health status to the UK less than 40 days before you export</li>
+  <li>since its entry into the UK, if the animal was imported directly from the <abbr title="European Union">EU</abbr> or a country with a similar health status to the UK less than 40 days before you export</li>
 </ul>
 
 <p>Before permanent export, or temporary export of any other equine, you’ll need to keep the animal separate from other equines that do not have equivalent health status for at least 30 days.</p>
@@ -126,42 +148,18 @@
 <ul>
   <li>for 90 days</li>
   <li>since birth if the animal is younger than 90 days old</li>
-  <li>since its entry to the UK if the animal was imported directly from the <abbr title="European Union">EU</abbr> less than 90 days before you export</li>
+  <li>since its entry into the UK if the animal was imported directly from the <abbr title="European Union">EU</abbr> less than 90 days before you export</li>
 </ul>
 
 <p>Your supervising vet does not need to be an official vet. However, an official vet must confirm that you’ve met these requirements before you export the equine.</p>
 
 <h3 id="EHC">Apply for an export health certificate (<abbr title="export health certificate">EHC</abbr>)</h3>
 
-<p>You need to complete an <abbr title="export health certificate">EHC</abbr> and some supporting documents to export a live animal from 1 January 2021.</p>
+<p>You’ll need to complete an <abbr title="export health certificate">EHC</abbr> and some supporting documents to export a live animal from 1 January 2021.</p>
 
-<p>The <abbr title="export health certificate">EHC</abbr> will replace the Intra Trade Animal Health Certificate (<abbr title="Intra Trade Animal Health Certificate">ITAHC</abbr>) for exports to countries in the <abbr title="European Union">EU</abbr>.</p>
+<p>The <abbr title="export health certificate">EHC</abbr> is an official document that confirms your export meets the health requirements of the destination country.</p>
 
-<p>To apply for an <abbr title="export health certificate">EHC</abbr> you’ll need to:</p>
-
-<ol>
-  <li>Find the <abbr title="export health certificate">EHC</abbr> and other forms you need on the <a href="https://www.gov.uk/export-health-certificates" class="govuk-link">export health certificate form finder</a>. If you’re exporting from Northern Ireland, contact your local <a rel="external" href="https://www.daera-ni.gov.uk/contact" class="govuk-link">Department of Agriculture, Environment and Rural Affairs (<abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr>) office</a>. Most EHCs have guidance documents telling you how to fill out the certificate.</li>
-  <li>
-    <p>Nominate an official vet to inspect your horse or other equines. There are various ways you can find one:</p>
-
-    <ul>
-      <li>check the <a href="https://www.gov.uk/government/publications/find-a-professional-to-certify-export-health-certificates" class="govuk-link">list of professionals who can certify export health certificates</a>
-</li>
-      <li>ask at your local vet</li>
-      <li>email <a href="mailto:csconehealthovteam@apha.gov.uk" class="govuk-link">csconehealthovteam@apha.gov.uk</a> (if you’re in Northern Ireland contact <a rel="external" href="https://www.daera-ni.gov.uk/contact" class="govuk-link"><abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr></a>)</li>
-    </ul>
-  </li>
-  <li>Fill in the <abbr title="export health certificate">EHC</abbr> and supporting forms and email them to the Animal Plant and Health Agency (<abbr title="Animal and Plant Health Agency">APHA</abbr>) address on the forms.</li>
-  <li>
-<abbr title="Animal and Plant Health Agency">APHA</abbr> will send your <abbr title="export health certificate">EHC</abbr> to your official vet within 7 working days, or within one working day if you plan to export in the next 7 working days. They’ll provide copies in the languages of the destination country and the country where the horse or other equine first enters the <abbr title="European Union">EU</abbr>.</li>
-  <li>Arrange for the official vet to check the horse or other equine meets the health requirements of the destination country within 48 hours of travel. The official vet will complete and sign the <abbr title="export health certificate">EHC</abbr> and send a copy to <abbr title="Animal and Plant Health Agency">APHA</abbr>.</li>
-  <li>The official vet must give you the <abbr title="export health certificate">EHC</abbr> on the same day that you load the animals for travel.</li>
-  <li>Keep the completed <abbr title="export health certificate">EHC</abbr> and other documents with the animal during travel.</li>
-</ol>
-
-<p>There’s no fee for the certificate, but you’ll need to pay for your vet’s services.</p>
-
-<p>If you’re in Northern Ireland, contact <a rel="external" href="https://www.daera-ni.gov.uk/contact" class="govuk-link"><abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr></a> for specific advice.</p>
+<p>Find out <a href="https://www.gov.uk/guidance/get-an-export-health-certificate" class="govuk-link">how to apply for an <abbr title="export health certificate">EHC</abbr></a>.</p>
 
 <h3 id="Equine-ID">Check you have the right equine ID</h3>
 
@@ -172,27 +170,27 @@
   <li>a national branch of an international racing or competition organisation</li>
 </ul>
 
-<p>To export all other equines, you’ll need to apply for a government-issued equine ID from:</p>
+<p>To export all other equines, you’ll need a government-issued supplementary travel ID from:</p>
 
 <ul>
   <li>
-<abbr title="Animal and Plant Health Agency">APHA</abbr> if you’re in Great Britain - find the application form on the <a href="https://www.gov.uk/export-health-certificates" class="govuk-link">form finder</a>
+<abbr title="Animal and Plant Health Agency">APHA</abbr> if you’re in Great Britain (England, Scotland and Wales) - this will be sent to your <abbr title="Official Veterinarian">OV</abbr> along with the <abbr title="export health certificate">EHC</abbr>
 </li>
   <li>
-<abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr> if you’re in Northern Ireland</li>
+<a rel="external" href="https://www.daera-ni.gov.uk/contact" class="govuk-link"><abbr title="Department of Agriculture, Environment and Rural Affairs">DAERA</abbr></a> if you’re in Northern Ireland</li>
 </ul>
 
-<p><abbr title="Animal and Plant Health Agency">APHA</abbr> will tell you when they have sent your equine ID form to your official vet. Your official vet will give you the equine ID with the <abbr title="export health certificate">EHC</abbr> when they check the animal before travel.</p>
+<p>Your official vet will give you the supplementary travel ID with the <abbr title="export health certificate">EHC</abbr> when they check the animal before travel.</p>
 
-<p>You’ll need to keep the equine ID together with the horse passport and the <abbr title="export health certificate">EHC</abbr> with the animal during travel.</p>
+<p>You’ll need to keep the supplementary travel ID together with the horse passport and the <abbr title="export health certificate">EHC</abbr> with the animal during travel.</p>
 
-<p>The equine ID will be valid for a single journey to the <abbr title="European Union">EU</abbr> and return to the UK. You’ll need to apply for a government-issued equine ID every time you move an unregistered horse to the <abbr title="European Union">EU</abbr>.</p>
+<p>The supplementary travel ID will be valid for a single journey to the <abbr title="European Union">EU</abbr> and return to the UK. You’ll need to get a supplementary travel ID every time you move an unregistered horse to the <abbr title="European Union">EU</abbr>.</p>
 
 <h3 id="eu-border-rules">
 <abbr title="European Union">EU</abbr> border rules</h3>
 <p>You’ll need to complete a <a href="https://www.gov.uk/guidance/customs-declarations-for-goods-taken-out-of-the-eu" class="govuk-link">customs declaration form</a> before the equine arrives at the <abbr title="European Union">EU</abbr> border.</p>
 
-<p>Plan your trade route so that your animal can be inspected at an <abbr title="European Union">EU</abbr> <abbr title="border control post">BCP</abbr>. Some BCPs accept both registered and unregistered equines but not all do. You’ll need to check the <a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1563184991622&uri=CELEX:02009D0821-20190107" class="govuk-link">correct <abbr title="border control post">BCP</abbr></a> to go through.</p>
+<p>Plan your trade route so that your animal can be inspected at an <abbr title="European Union">EU</abbr> border control post (<abbr title="border control post">BCP</abbr>). Some BCPs accept both registered and unregistered equines but not all do. You’ll need to check the <a rel="external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1563184991622&uri=CELEX:02009D0821-20190107" class="govuk-link">correct <abbr title="border control post">BCP</abbr></a> to go through.</p>
 
 <p>Make sure you or your <abbr title="European Union">EU</abbr>-based import agent has notified the <abbr title="border control post">BCP</abbr> on <abbr title="Trade Control and Expert System">TRACES</abbr>, in advance, that your consignment is arriving - check with the <abbr title="border control post">BCP</abbr> for how much notice needs to be given.</p>
 
@@ -207,7 +205,7 @@
 <p>In addition, these horses would:</p>
 
 <ul>
-  <li>no longer need a government-issued equine ID to move from the UK to the <abbr title="European Union">EU</abbr>
+  <li>no longer need a government-issued supplementary travel ID to move from the UK to the <abbr title="European Union">EU</abbr>
 </li>
   <li>be able to enter the <abbr title="European Union">EU</abbr> via BCPs approved for registered equines</li>
 </ul>
@@ -232,27 +230,82 @@
 
 <p>Find out more about <a href="https://www.gov.uk/guidance/exporting-animals-animal-products-fish-and-fishery-products-to-the-eu-after-eu-exit" class="govuk-link">exporting animals and animal products from 1 January 2021</a>.</p>
 
+<h2 id="returned-horses-and-other-equines-rejected-from-a-border-control-post-from-1-january-to-30-june-2021">Returned horses and other equines rejected from a border control post from 1 January to 30 June 2021</h2>
+
+<p>From 1 January to 30 June 2021, <abbr title="Animal and Plant Health Agency">APHA</abbr> will carry out a risk assessment of horses and other equines rejected at <abbr title="European Union">EU</abbr> <abbr title="border control post">BCP</abbr> and will decide which point of entry they may use to re-enter Great Britain.</p>
+
+<p>Apply to <abbr title="Animal and Plant Health Agency">APHA</abbr> Centre for International Trade (CIT) on <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link">IPAFFS</a> to submit a notification to return horses or other equines.</p>
+
+<p>Submit the notification one working day in advance or at least 4 hours before arrival if it’s not possible to do so sooner.</p>
+
+<p>Attach these documents to the IPAFFS notification:</p>
+
+<ul>
+  <li>the original export certificate and related documentation</li>
+  <li>statement from the <abbr title="European Union">EU</abbr> <abbr title="border control post">BCP</abbr> of the reasons why the horses or other equines were refused by the <abbr title="European Union">EU</abbr> <abbr title="border control post">BCP</abbr>
+</li>
+  <li>statement from the <abbr title="European Union">EU</abbr> <abbr title="border control post">BCP</abbr> with details of the premises in which the horses or other equines were kept since leaving Great Britain, for example in quarantine or in isolation</li>
+  <li>declaration by the person responsible for the returned horses or other equines that the import conditions relating to transport have been complied with</li>
+  <li>declaration by the person responsible for the horses or other equines that they have not been in contact with any other animal of a lesser health status since leaving Great Britain</li>
+</ul>
+
+<p><abbr title="Animal and Plant Health Agency">APHA</abbr> will decide:</p>
+
+<ul>
+  <li>the conditions of import</li>
+  <li>if the consignment will have <abbr title="border control post">BCP</abbr> checks on entry to Great Britain</li>
+</ul>
+
+<p><abbr title="Animal and Plant Health Agency">APHA</abbr> will give you an authorisation. You must comply with the conditions of the authorisation.</p>
+
+<h2 id="returned-horses-and-other-equines-rejected-from-an-eu-border-control-post-from-1-july-2021">Returned horses and other equines rejected from an <abbr title="European Union">EU</abbr> border control post from 1 July 2021</h2>
+
+<p>From 1 July 2021, returned horses and other equines must enter Great Britain at an <a href="https://www.gov.uk/government/publications/uk-border-control-posts-animal-and-animal-product-imports" class="govuk-link">appropriately designated <abbr title="border control post">BCP</abbr></a> for checks on entry.</p>
+
+<p>You must notify on <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link">IPAFFS</a> and present the relevant documents to the <abbr title="border control post">BCP</abbr>.</p>
+
+<p>Follow guidance on <a rel="external" href="http://apha.defra.gov.uk/official-vets/Guidance/bip/iin/misc-imports.htm" class="govuk-link">returned goods processes for animal products and live animals</a>.</p>
+
 <h3 id="moving-horses-to-switzerland-liechtenstein-norway-or-iceland">Moving horses to Switzerland, Liechtenstein, Norway or Iceland</h3>
+
 <p>From 1 January 2021, if you want to move horses from the UK to Switzerland, Liechtenstein, Norway or Iceland you should consult your transporter or the competent authority in the country you’re exporting to.</p>
-
-<h3 id="re-entry-to-the-eu">Re-entry to the <abbr title="European Union">EU</abbr>
-</h3>
-
-<p><abbr title="European Union">EU</abbr> owners returning horses to the <abbr title="European Union">EU</abbr> can use a streamlined re-entry process for registered horses that have been in the UK for less than 30 days for racing or competitions. Under <abbr title="European Union">EU</abbr> rules, these horses will need a health certificate or veterinary health attestation from their own country proving when the animal left the <abbr title="European Union">EU</abbr>.</p>
-
-<p>In this streamlined re-entry process, animals still need an <abbr title="export health certificate">EHC</abbr> and equine ID but do not need to have blood tests or meet the same residency and isolation requirements. Find out more on the <a href="https://www.gov.uk/export-health-certificates/movement-back-to-the-european-union-of-registered-horses-for-racing-competition-and-cultural-events-after-temporary-import-to-the-uk-for-a-period-of-less-than-30-days-certificate-8334" class="govuk-link">export health certificate notes for guidance</a>.</p>
 
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 29 January 2020
+    <br></br>Last updated 8 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T13:00:18.000+01:00">8 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added new guidance on what to do if horses or other equines are rejected at an EU border control post (BCP).</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-01-29T15:48:00.000+00:00">29 January 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
+      <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
   </div>
   </div>
   
@@ -269,34 +322,23 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-08717f42" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-beb195ac" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-08717f42" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-beb195ac" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/horse-passport" data-track-options="{"dimension28":"1","dimension29":"Getting and using a horse passport"}" href="/horse-passport">Getting and using a horse passport</a></li>
-
-  </ul>
-</nav>
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-08717f42" data-module="gem-toggle">
-
-    <h3 id="related-nav-related_guides-08717f42" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/importing-horses-if-theres-a-no-deal-brexit" data-track-options="{"dimension28":"1","dimension29":"Importing horses if there's a no-deal Brexit"}" href="/guidance/importing-horses-if-theres-a-no-deal-brexit">Importing horses if there's a no-deal Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/export-horses-and-ponies-special-rules" data-track-options="{"dimension28":"4","dimension29":"Export horses and ponies: special rules"}" href="/guidance/export-horses-and-ponies-special-rules">Export horses and ponies: special rules</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/export-composite-food-products-to-the-eu-in-a-no-deal-brexit" data-track-options="{"dimension28":"4","dimension29":"Export composite food products to the EU from 1 January 2021"}" href="/guidance/export-composite-food-products-to-the-eu-in-a-no-deal-brexit">Export composite food products to the EU from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/export-food-for-animals-special-rules" data-track-options="{"dimension28":"4","dimension29":"Export food for animals"}" href="/guidance/export-food-for-animals-special-rules">Export food for animals</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/horse-passport" data-track-options="{"dimension28":"4","dimension29":"Getting and using a horse passport"}" href="/horse-passport">Getting and using a horse passport</a></li>
 
   </ul>
 </nav>
@@ -323,9 +365,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-eca4609f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3edebf45" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-eca4609f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-3edebf45" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
