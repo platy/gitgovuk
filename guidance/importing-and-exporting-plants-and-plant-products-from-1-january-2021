@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 10 June 2020
-    <br></br>Last updated 10 September 2020
+    <br></br>Last updated 8 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -49,7 +49,7 @@
 
 
 
-  <section class="app-c-header-notice" aria-label="notice" role="region">
+  <section class="app-c-header-notice" aria-label="notice" role="region" lang="en">
     <div class="app-c-header-notice__header">
       <h2 class="app-c-header-notice__title">New rules for January 2021</h2>
     </div>
@@ -77,9 +77,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#importing-plants-and-plant-products-into-england-scotland-and-wales--from-the-eu" data-track-options="{"dimension29":"Importing plants and plant products into England, Scotland and Wales  from the EU"}" href="#importing-plants-and-plant-products-into-england-scotland-and-wales--from-the-eu">Importing plants and plant products into England, Scotland and Wales  from the EU</a>
@@ -94,43 +95,59 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#importing-plants-and-plant-products-from-1-july-2021" data-track-options="{"dimension29":"Importing plants and plant products from 1 July 2021"}" href="#importing-plants-and-plant-products-from-1-july-2021">Importing plants and plant products from 1 July 2021</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#plants-that-will-not-need-a-phytosanitary-certificate-for-eu-import-from-1-april-2021" data-track-options="{"dimension29":"Plants that will not need a phytosanitary certificate for EU import from 1 April 2021"}" href="#plants-that-will-not-need-a-phytosanitary-certificate-for-eu-import-from-1-april-2021">Plants that will not need a phytosanitary certificate for EU import from 1 April 2021</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#exempt-plants-and-plant-products-for-import" data-track-options="{"dimension29":"Exempt plants and plant products for import"}" href="#exempt-plants-and-plant-products-for-import">Exempt plants and plant products for import</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#importing-plants-and-plant-products-from-1-july-2021" data-track-options="{"dimension29":"Importing plants and plant products from 1 July 2021"}" href="#importing-plants-and-plant-products-from-1-july-2021">Importing plants and plant products from 1 July 2021</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#steps-to-take-now-to-prepare-for-1-january-2021" data-track-options="{"dimension29":"Steps to take now to prepare for 1 January 2021"}" href="#steps-to-take-now-to-prepare-for-1-january-2021">Steps to take now to prepare for 1 January 2021</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#exempt-plants-and-plant-products-for-import" data-track-options="{"dimension29":"Exempt plants and plant products for import"}" href="#exempt-plants-and-plant-products-for-import">Exempt plants and plant products for import</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#exporting-plants-and-plant-products-from-england-scotland-or-wales-to-the-eu" data-track-options="{"dimension29":"Exporting plants and plant products from England, Scotland or Wales to the EU"}" href="#exporting-plants-and-plant-products-from-england-scotland-or-wales-to-the-eu">Exporting plants and plant products from England, Scotland or Wales to the EU</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#importing-high-risk-plants-and-plant-products" data-track-options="{"dimension29":"Importing high-risk plants and plant products"}" href="#importing-high-risk-plants-and-plant-products">Importing high-risk plants and plant products</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#exempt-plants-and-plant-products-for-export" data-track-options="{"dimension29":"Exempt plants and plant products for export"}" href="#exempt-plants-and-plant-products-for-export">Exempt plants and plant products for export</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#steps-to-take-now-to-prepare-for-1-january-2021" data-track-options="{"dimension29":"Steps to take now to prepare for 1 January 2021"}" href="#steps-to-take-now-to-prepare-for-1-january-2021">Steps to take now to prepare for 1 January 2021</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#steps-to-take-now-to-prepare-for-1-january-2021-1" data-track-options="{"dimension29":"Steps to take now to prepare for 1 January 2021"}" href="#steps-to-take-now-to-prepare-for-1-january-2021-1">Steps to take now to prepare for 1 January 2021</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#exporting-plants-and-plant-products-from-england-scotland-or-wales-to-the-eu" data-track-options="{"dimension29":"Exporting plants and plant products from England, Scotland or Wales to the EU"}" href="#exporting-plants-and-plant-products-from-england-scotland-or-wales-to-the-eu">Exporting plants and plant products from England, Scotland or Wales to the EU</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#plant-passports-and-pest-free-areas" data-track-options="{"dimension29":"Plant Passports and Pest Free Areas"}" href="#plant-passports-and-pest-free-areas">Plant Passports and Pest Free Areas</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#exempt-plants-and-plant-products-for-export" data-track-options="{"dimension29":"Exempt plants and plant products for export"}" href="#exempt-plants-and-plant-products-for-export">Exempt plants and plant products for export</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#changes-to-protected-zones-from-1-january-2021" data-track-options="{"dimension29":"Changes to Protected Zones from 1 January 2021"}" href="#changes-to-protected-zones-from-1-january-2021">Changes to Protected Zones from 1 January 2021</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#exporting-prohibited-and-high-risk-plants" data-track-options="{"dimension29":"Exporting prohibited and high-risk plants"}" href="#exporting-prohibited-and-high-risk-plants">Exporting prohibited and high-risk plants</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#movement-of-wood-packaging-material" data-track-options="{"dimension29":"Movement of wood packaging material"}" href="#movement-of-wood-packaging-material">Movement of wood packaging material</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#steps-to-take-now-to-prepare-for-1-january-2021-1" data-track-options="{"dimension29":"Steps to take now to prepare for 1 January 2021"}" href="#steps-to-take-now-to-prepare-for-1-january-2021-1">Steps to take now to prepare for 1 January 2021</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#trade-agreements" data-track-options="{"dimension29":"Trade agreements"}" href="#trade-agreements">Trade agreements</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#plant-passports-and-pest-free-areas" data-track-options="{"dimension29":"Plant Passports and Pest Free Areas"}" href="#plant-passports-and-pest-free-areas">Plant Passports and Pest Free Areas</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#changes-to-protected-zones-from-1-january-2021" data-track-options="{"dimension29":"Changes to Protected Zones from 1 January 2021"}" href="#changes-to-protected-zones-from-1-january-2021">Changes to Protected Zones from 1 January 2021</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#movement-of-wood-packaging-material" data-track-options="{"dimension29":"Movement of wood packaging material"}" href="#movement-of-wood-packaging-material">Movement of wood packaging material</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#trade-agreements" data-track-options="{"dimension29":"Trade agreements"}" href="#trade-agreements">Trade agreements</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#returned-plants-and-plant-products-policy-from-1-january-to-30-june-2021" data-track-options="{"dimension29":"Returned plants and plant products: policy from 1 January to 30 June 2021"}" href="#returned-plants-and-plant-products-policy-from-1-january-to-30-june-2021">Returned plants and plant products: policy from 1 January to 30 June 2021</a>
 
         </li>
     </ol>
@@ -160,7 +177,7 @@
 
 <p>You will have to pay for these services.</p>
 
-<p>High-priority plants and plant products from the EU that will need a <abbr title="phytosanitary certificate">PC</abbr> from 1 January 2021 include:</p>
+<p>The plant types on this list include:</p>
 
 <ul>
   <li>all plants for planting</li>
@@ -169,16 +186,16 @@
   <li>used agricultural or forestry machinery</li>
 </ul>
 
-<p>This guide will publish a full list of plants and products that need a <abbr title="phytosanitary certificate">PC</abbr>.</p>
+<p>See the <span id="attachment_4569140" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923654/high-priority-plants-list.odt" class="govuk-link">new import requirements for high priority plants and products from 1 January 2021</a> (<span class="type"><abbr title="OpenDocument Text document">ODT</abbr></span>, <span class="file-size">9.02KB</span>)</span>.</p>
 
-<p>You must pre-notify for imports of solid fuel wood that aren’t regulated. You do not need a <abbr title="phytosanitary certificate">PC</abbr> for these imports.</p>
+<p>You must pre-notify for imports of solid fuel wood that are not regulated. You do not need a <abbr title="phytosanitary certificate">PC</abbr> for these imports.</p>
 
 <h2 id="importing-plants-and-plant-products-from-1-april-2021">Importing plants and plant products from 1 April 2021</h2>
-<p>You must use the <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link">Import of products, animals, food and feed system</a> (<abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>)  to notify the Animal Plant Health Agency (<abbr title="Animal Plant Health Agency">APHA</abbr>) or the Forestry Commission that you’re importing regulated plants and plant products.</p>
+<p>You must use the relevant IT system  to notify the Animal Plant Health Agency (<abbr title="Animal and Plant Health Agency">APHA</abbr>) that you’re importing regulated plants and plant products. This guide will publish details of these IT systems before 1 January 2021.</p>
 
-<p>All regulated plants and plant products imported to England, Scotland or Wales from the EU must have <a href="https://www.gov.uk/phytosanitary-certificate-england-scotland-wales" class="govuk-link">phytosanitary certificates</a> (<abbr title="phytosanitary certificate">PCs</abbr>).</p>
+<p>All regulated plants and plant products imported to England, Scotland or Wales from the EU must have phytosanitary certificates (<abbr title="phytosanitary certificate">PCs</abbr>).</p>
 
-<p><abbr title="Animal Plant Health Agency">APHA</abbr> will inspect the <abbr title="phytosanitary certificate">PCs</abbr> in England and Wales. The Scottish Government will inspect <abbr title="phytosanitary certificate">PCs</abbr> in Scotland.</p>
+<p><abbr title="Animal and Plant Health Agency">APHA</abbr> will inspect the <abbr title="phytosanitary certificate">PCs</abbr> in England and Wales. The Scottish Government will inspect <abbr title="phytosanitary certificate">PCs</abbr> in Scotland.</p>
 
 <p>Regulated plants and plant products include:</p>
 
@@ -193,12 +210,91 @@
   <li>machinery or vehicles which have been operated for agricultural or forestry purposes</li>
 </ul>
 
-<p>The Department for Environment, Food and Rural Affairs (Defra) will publish a full list of regulated plants and plant products in this guide this year.</p>
+<h2 id="plants-that-will-not-need-a-phytosanitary-certificate-for-eu-import-from-1-april-2021">Plants that will not need a phytosanitary certificate for EU import from 1 April 2021</h2>
+<p>You will not need a phytosanitary certificate for these plants from 1 April 2021:</p>
+
+<ul>
+  <li>fruit and vegetables that have been processed and packaged (salads, sandwiches, frozen material)</li>
+  <li>composite products (nut or seed butters that contain processed fruit or vegetables)</li>
+</ul>
+
+<p>This list shows the other plant and plant products that you do not need a phytosanitary certificate to import from the EU to the UK from 1 April 2021.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Botanical name and requirement</th>
+      <th scope="col">Common name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fruit of Ananas comosus</td>
+      <td>Pineapple</td>
+    </tr>
+    <tr>
+      <td>Fruits of Actinidia sp. Lindl,</td>
+      <td>Kiwi</td>
+    </tr>
+    <tr>
+      <td>Fruits of Cocos nucifera L</td>
+      <td>Coconut</td>
+    </tr>
+    <tr>
+      <td>Fruit and leaves of Citrus sp. L.</td>
+      <td>Fruit and leaves of Citrus</td>
+    </tr>
+    <tr>
+      <td>Fruit of Fortunella sp. Swingle</td>
+      <td>Kumquat</td>
+    </tr>
+    <tr>
+      <td>Fruit of Poncirus L. Raf</td>
+      <td>Bitter orange</td>
+    </tr>
+    <tr>
+      <td>Fruit of Diospyros sp. L.</td>
+      <td>Persimmon</td>
+    </tr>
+    <tr>
+      <td>Fruits of Durio zibethinus Murray</td>
+      <td>Durian</td>
+    </tr>
+    <tr>
+      <td>Fruits (bolls) of Gossypium spp.</td>
+      <td>Cotton (bolls)</td>
+    </tr>
+    <tr>
+      <td>Leaves of Murraya spp.</td>
+      <td>Curry leaf</td>
+    </tr>
+    <tr>
+      <td>Fruits of Musa</td>
+      <td>Banana and plantain</td>
+    </tr>
+    <tr>
+      <td>Fruits of Mangifera sp. L.</td>
+      <td>Mango</td>
+    </tr>
+    <tr>
+      <td>Fruits of Phoenix dactylifera L.</td>
+      <td>Dates</td>
+    </tr>
+    <tr>
+      <td>Fruits of Passiflora sp. L</td>
+      <td>Passionfruit</td>
+    </tr>
+    <tr>
+      <td>Fruits of Psidium sp.</td>
+      <td>Guava</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="importing-plants-and-plant-products-from-1-july-2021">Importing plants and plant products from 1 July 2021</h2>
 <p>Regulated plants and plant products will have extra documentary checks and physical inspections.</p>
 
-<p>You must use <a href="https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system" class="govuk-link"><abbr title="Import of products, animals, food and feed system">IPAFFS</abbr></a> to notify <abbr title="Animal Plant Health Agency">APHA</abbr> or the Forestry Commission that you’re importing regulated plants and plant products.</p>
+<p>You must use the relevant IT system  to notify <abbr title="Animal and Plant Health Agency">APHA</abbr> that you’re importing regulated plants and plant products. This guide will publish details of these IT systems before 1 January 2021</p>
 
 <h2 id="exempt-plants-and-plant-products-for-import">Exempt plants and plant products for import</h2>
 
@@ -214,14 +310,20 @@
 
 <p>They will continue to be exempt from import controls after 31 December 2020.</p>
 
+<h2 id="importing-high-risk-plants-and-plant-products">Importing high-risk plants and plant products</h2>
+<p>High-risk plants are plants and plant products that due to pest risk level are prohibited from introduction into the UK from third countries pending a risk assessment.</p>
+
+<p>See the full list of <a href="https://www.gov.uk/guidance/smarter-rules-for-safer-food-how-to-import-from-third-countries#high-risk-plants" class="govuk-link">high-risk plants and plant products</a>.</p>
+
+<p>The prohibition will not apply to the import of high-risk plants and plant products from the EU to the UK from 1 January 2021.</p>
+
 <h2 id="steps-to-take-now-to-prepare-for-1-january-2021">Steps to take now to prepare for 1 January 2021</h2>
 
 <p>To prepare for 1 January 2021 you need to:</p>
 
 <ul>
-  <li>familiarise yourself with phytosanitary import certificate requirements but do not yet register for <abbr title="Import of products, animals, food and feed system">IPAFFS</abbr>
-</li>
-  <li>consider whether you will establish a UK registered address, or appoint a UK- based proxy to act on your behalf, to imports plants and products to England, Scotland or Wales</li>
+  <li>familiarise yourself with phytosanitary import certificate requirements</li>
+  <li>think about if you will set up a UK registered address, or appoint a UK-based proxy to act on your behalf, to import plants and products to England, Scotland or Wales</li>
   <li>register with the <a href="https://www.gov.uk/guidance/register-as-a-professional-operator-to-issue-plant-passports" class="govuk-link">Forestry Commission as a professional operator</a> if you’re importing wood or wood products to England and Wales - importers in <a rel="external" href="https://www.sasa.gov.uk/plant-health/plant-health-licensing" class="govuk-link">Scotland</a> and <a rel="external" href="https://www.daera-ni.gov.uk/topics/plant-and-tree-health" class="govuk-link">Northern Ireland</a> should refer to local guidance</li>
 </ul>
 
@@ -252,6 +354,8 @@
   <li>check if your plants require laboratory testing of samples to ensure they are free from pests and diseases or inspections during the growing season - contact your local plant health inspector to find out if your plants need these tests before exporting</li>
 </ul>
 
+<p>Growing season inspections which you need to apply for a phytosanitary certificate will remain unchanged from 1 January 2021.</p>
+
 <p>The export health certificate online (EHCO) system will be live in 2021. You must submit your applications on EHCO.</p>
 
 <p>Regulated plant and plant products exports to the EU from the UK may be subject to checks at the EU border.</p>
@@ -274,15 +378,86 @@
 
 <p>Composite products like nut and seed butters containing processed fruit or vegetables do not fall within plant health controls or require a phytosanitary certificate.</p>
 
-<h2 id="steps-to-take-now-to-prepare-for-1-january-2021-1">Steps to take now to prepare for 1 January 2021</h2>
+<h2 id="exporting-prohibited-and-high-risk-plants">Exporting prohibited and high-risk plants</h2>
+<p>From 1  January 2021, you cannot export some prohibited commodities such as UK high-risk plants, seed potatoes and ware potatoes to the EU.</p>
 
+<p>These prohibitions and requirements fall into 3 categories: high-risk plants, seed and other propagating materials, and prohibited plants.</p>
+
+<h3 id="high-risk-plants">High-risk plants</h3>
+<p>These are plants and plant products that have been assessed by the EU as presenting a pest risk of an unacceptable level for the Union territory.</p>
+
+<p>See the <a href="https://www.gov.uk/guidance/smarter-rules-for-safer-food-how-to-import-from-third-countries#high-risk-plants" class="govuk-link">full list of high-risk plants</a>.</p>
+
+<p>The high-risk plant list is continually reviewed by the UK and the EU. The Department for Environment, Food and Rural Affairs (Defra) will publish any updates to the list in this guide.</p>
+
+<h3 id="seed-and-other-propagating-material-requiring-third-country-equivalence">Seed and other propagating material requiring third country equivalence</h3>
+<p>You cannot export seed and other propagating material to the EU from 1 January 2021.</p>
+
+<h3 id="prohibited-plants">Prohibited plants</h3>
+<p>Some plants will be prohibited on plant health grounds,  including current EU third country prohibitions.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">List of prohibited plants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Plants of Abies Mill., Cedrus Trew, Chamaecyparis Spach, Juniperus L., Larix Mill., Picea A. Dietr., Pinus L., Pseudotsuga Carr. and Tsuga Carr., other than fruit and seeds</td>
+    </tr>
+    <tr>
+      <td>Plants of Castanea Mill. and Quercus L., with leaves, other than fruit and seeds</td>
+    </tr>
+    <tr>
+      <td>Isolated bark of Castanea Mill</td>
+    </tr>
+    <tr>
+      <td>Plants for planting of Chaenomeles Ldl., Crateagus L., Cydonia Mill., Malus Mill., Prunus L., Pyrus L. and Rosa L., other than dormant plants free from leaves, flowers and fruits</td>
+    </tr>
+    <tr>
+      <td>Plants for planting of Cydonia Mill., Malus Mill., Prunus L. and Pyrus L. and their hybrids, and Fragaria L., other than seeds</td>
+    </tr>
+    <tr>
+      <td>Plants of Vitis L., other than fruits</td>
+    </tr>
+    <tr>
+      <td>Plants of Citrus L., Fortunella Swingle, Poncirus Raf., and their hybrids, other than fruits and seeds</td>
+    </tr>
+    <tr>
+      <td>Plants for planting of the family Poaceae, other than plants of ornamental perennial grasses of the subfamilies Bambusoideae and Panicoideae and of the genera Buchloe, Bouteloua Lag., Calamagrostis, Cortaderia Stapf., Glyceria R. Br., Hakonechloa Mak. Ex Honda, Hystrix, Molinia, Phalaris L., Shibataea, Spartina Schreb., Stipa L. and Uniola L., other than seeds</td>
+    </tr>
+    <tr>
+      <td>Tubers of Solanum tuberosum L., seed potatoes</td>
+    </tr>
+    <tr>
+      <td>Plants for planting of stolon- or tuber-forming species of Solanum L. or their hybrids</td>
+    </tr>
+    <tr>
+      <td>Tubers of species of Solanum L., and their hybrids</td>
+    </tr>
+    <tr>
+      <td>Plants for planting of Solanaceae</td>
+    </tr>
+    <tr>
+      <td>Soil as such consisting in part of solid organic substances</td>
+    </tr>
+    <tr>
+      <td>Growing medium as such, other than soil, consisting in whole or in part of solid organic substances, other than that composed entirely of peat or fibre of Cocos nucifera L., previously not used for growing of plants or for any agricultural purposes</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="steps-to-take-now-to-prepare-for-1-january-2021-1">Steps to take now to prepare for 1 January 2021</h2>
 <p>To prepare for 1 January 2021 you need to:</p>
 
 <ul>
   <li>check with the relevant UK plant health authority to find out if plants and plant products you intend to export to the EU from 1 January 2021 need to be accompanied by a <abbr title="phytosanitary certificate">PC</abbr>
 </li>
+  <li>check with the relevant plant health authority and GOV.UK guidance to find out if plants and plant products you intend to export to the EU from 1 January 2021 are classified as prohibited or high-risk plants</li>
+  <li>check with the relevant UK plant health authority to find out if plants and plant products you intend to export to the EU require growing season inspections to apply for a phytosanitary certificate</li>
   <li>use the <a href="https://www.gov.uk/guidance/export-plants-seeds-bulbs-and-wood-special-rules" class="govuk-link">export plants, seeds, bulbs and wood guidance</a> on EU plant health import requirements to help you prepare your export correctly</li>
-  <li>register with the <a href="https://www.gov.uk/guidance/register-as-a-professional-operator-to-issue-plant-passports" class="govuk-link">Forestry Commission as a professional operator</a> if you’re exporting wood or wood products from England and Wales can - exporters in <a rel="external" href="https://www.sasa.gov.uk/plant-health/plant-health-licensing" class="govuk-link">Scotland</a> and <a rel="external" href="https://www.daera-ni.gov.uk/topics/plant-and-tree-health" class="govuk-link">Northern Ireland</a> should refer to local guidance</li>
+  <li>register with the <a href="https://www.gov.uk/guidance/register-as-a-professional-operator-to-issue-plant-passports" class="govuk-link">Forestry Commission as a professional operator</a> if you’re exporting wood or wood products from England and Wales  - exporters in <a rel="external" href="https://www.sasa.gov.uk/plant-health/plant-health-licensing" class="govuk-link">Scotland</a> and <a rel="external" href="https://www.daera-ni.gov.uk/topics/plant-and-tree-health" class="govuk-link">Northern Ireland</a> should refer to local guidance</li>
 </ul>
 
 <h2 id="plant-passports-and-pest-free-areas">Plant Passports and Pest Free Areas</h2>
@@ -322,7 +497,7 @@ Moving from <abbr title="Protected Zones">PZs</abbr> to quarantine pests and <ab
 
 <p>If you’re providing a UK plant passport to move restricted plants into a UK <abbr title="Pest Free Area">PFA</abbr>, you must include ‘<abbr title="Pest Free Area">PFA</abbr>’ on the passport, rather than ‘<abbr title="Protected Zone">PZ</abbr>’ followed by the code for that <abbr title="Pest Free Area">PFA</abbr>. Codes for <abbr title="Pest Free Areas">PFAs</abbr> will be the same as the codes for the <abbr title="Protected Zones">PZs</abbr> that they are replacing. For example, the code for ‘Thaumetopoea processionea’ is ‘THAUPR’.</p>
 
-<p>Find details on <span id="attachment_4521614" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891222/pest-free-areas-and-plants-which-must-have-passports.pdf" class="govuk-link">Pest Free Areas and what plants must have passports</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">271KB</span>, <span class="page-length">3 pages</span>)</span> to understand what to do from 1 January 2021.</p>
+<p>Find details on <span id="attachment_4569137" class="attachment-inline"><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891222/pest-free-areas-and-plants-which-must-have-passports.pdf" class="govuk-link">Pest Free Areas and what plants must have passports</a> (<span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">271KB</span>, <span class="page-length" lang="en">3 pages</span>)</span> to understand what to do from 1 January 2021.</p>
 
 <p>Read <a href="https://www.gov.uk/guidance/issuing-plant-passports-to-trade-plants-in-the-eu" class="govuk-link">Issuing plant passports to trade plants in the EU</a> to understand how to apply for a UK plant passport.</p>
 
@@ -350,6 +525,22 @@ Moving from <abbr title="Protected Zones">PZs</abbr> to quarantine pests and <ab
 <h2 id="trade-agreements">Trade agreements</h2>
 <p>Any new agreements will replicate existing EU agreements as far as possible. Where replacement trade agreements are not agreed, trade will take place on <a rel="external" href="https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm" class="govuk-link">World Trade Organisation (WTO) terms</a> with that country. Details of each agreement will be shared with parliament and the public when they have been agreed.</p>
 
+<h2 id="returned-plants-and-plant-products-policy-from-1-january-to-30-june-2021">Returned plants and plant products: policy from 1 January to 30 June 2021</h2>
+<p>Plants and plant product consignments rejected at EU BCPs can re-enter GB through any point of entry from 1 January to 30 June 2021.</p>
+
+<p>For rejected goods returning to England or Wales you must submit an import pre-notification using the relevant IT system to notify <abbr title="Animal and Plant Health Agency">APHA</abbr>. This guide will publish details of these IT systems before 1 January 2021. Pre-notification must be submitted:</p>
+
+<ul>
+  <li>for Roll-On Roll-Off and air movements,  at least 4 working hours prior to arrival</li>
+  <li>by all other modes of transport, at least one working day prior to arrival</li>
+</ul>
+
+<p>For rejected goods returning to Scotland go to the <a rel="external" href="https://www.sasa.gov.uk/eu-exit-guidance" class="govuk-link">Science and Advice for Scottish Agriculture (<abbr title="Science and Advice for Scottish Agriculture">SASA</abbr>) site</a>.</p>
+
+<p>You must include a copy of the original phytosanitary certificate with pre-notification. If your consignment was exported without a phytosanitary certificate please contact <abbr title="Animal and Plant Health Agency">APHA</abbr> on 0300 1000 313 before returning your goods or <abbr title="Science and Advice for Scottish Agriculture">SASA</abbr> on 0131 244 8890.</p>
+
+<p><abbr title="Animal and Plant Health Agency">APHA</abbr> will assess this information to decide the conditions of import and if the consignment needs further checks on entry to Great Britain. If further checks are required someone from <abbr title="Animal and Plant Health Agency">APHA</abbr> in England and Wales or <abbr title="Science and Advice for Scottish Agriculture">SASA</abbr> in Scotland will contact you.</p>
+
 </div>
 </div>
 
@@ -357,10 +548,14 @@ Moving from <abbr title="Protected Zones">PZs</abbr> to quarantine pests and <ab
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 June 2020
-    <br></br>Last updated 10 September 2020
+    <br></br>Last updated 8 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T12:53:37.000+01:00">8 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added section on Plants that do not need a phytosanitary certificate for EU import from 1 April 2021 and document showing the new import requirements for high priority plants and products from 1 January 2021. New information on the rejected goods process added.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-10T11:05:23.000+01:00">10 September 2020</time>
               <p class="app-c-published-dates__change-note">Removed publication 'the new import requirements for high priority plants and products from 1 January 2021' for policy review and further updating.</p>
@@ -418,14 +613,14 @@ Moving from <abbr title="Protected Zones">PZs</abbr> to quarantine pests and <ab
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-7e0917c9" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-259387ac" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-7e0917c9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-259387ac" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -459,9 +654,9 @@ Moving from <abbr title="Protected Zones">PZs</abbr> to quarantine pests and <ab
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-01dc1fc9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d8f1de58" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-01dc1fc9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d8f1de58" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
