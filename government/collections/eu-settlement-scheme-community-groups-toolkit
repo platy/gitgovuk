@@ -26,7 +26,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 31 January 2020
-    <br></br>Last updated 1 October 2020
+    <br></br>Last updated 8 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -105,10 +105,6 @@
 <div class="call-to-action">
 <p>If you’re a local authority, see the <a href="https://www.gov.uk/government/collections/eu-settlement-scheme-local-authorities-toolkit" class="govuk-link">EU Settlement Scheme: local authority toolkit</a>.</p>
 </div>
-
-<div class="call-to-action">
-<p>The information included in these toolkit documents referencing grant funded organisations is out of date. We will update these documents in due course.</p>
-</div>
 </div>
 </div>
 
@@ -133,8 +129,8 @@
           <ul class="gem-c-document-list__item-metadata">
 
                 <li class="gem-c-document-list__attribute">
-                    <time datetime="2020-01-31T15:44:07+00:00">
-                      31 January 2020
+                    <time datetime="2020-10-08T09:30:06+01:00">
+                       8 October 2020
                     </time>
 </li>
                 <li class="gem-c-document-list__attribute">
@@ -199,8 +195,8 @@
           <ul class="gem-c-document-list__item-metadata">
 
                 <li class="gem-c-document-list__attribute">
-                    <time datetime="2020-01-31T15:56:49+00:00">
-                      31 January 2020
+                    <time datetime="2020-10-08T09:30:06+01:00">
+                       8 October 2020
                     </time>
 </li>
                 <li class="gem-c-document-list__attribute">
@@ -232,8 +228,8 @@
           <ul class="gem-c-document-list__item-metadata">
 
                 <li class="gem-c-document-list__attribute">
-                    <time datetime="2020-01-31T15:56:00+00:00">
-                      31 January 2020
+                    <time datetime="2020-10-08T09:30:06+01:00">
+                       8 October 2020
                     </time>
 </li>
                 <li class="gem-c-document-list__attribute">
@@ -349,10 +345,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 31 January 2020
-    <br></br>Last updated 1 October 2020
+    <br></br>Last updated 8 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T09:30:06.000+01:00">8 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated the toolkits.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-01T00:15:07.000+01:00">1 October 2020</time>
               <p class="app-c-published-dates__change-note">Updated to explain that grant funded organisations information is out of date.</p>
@@ -394,14 +394,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-e981ebd4" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-f834764e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e981ebd4" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f834764e" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -438,9 +438,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5bbed77e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-02ae35cb" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-5bbed77e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-02ae35cb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
