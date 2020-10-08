@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 25 February 2019
-    <br></br>Last updated 2 September 2020
+    <br></br>Last updated 8 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -49,7 +49,7 @@
 
 
 
-  <section class="app-c-header-notice" aria-label="notice" role="region">
+  <section class="app-c-header-notice" aria-label="notice" role="region" lang="en">
     <div class="app-c-header-notice__header">
       <h2 class="app-c-header-notice__title">New rules for January 2021</h2>
     </div>
@@ -82,9 +82,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#wales-and-england" data-track-options="{"dimension29":"Wales and England"}" href="#wales-and-england">Wales and England</a>
@@ -168,7 +169,7 @@
 
 <p>2) From 1 April 2021:</p>
 
-<p>Further changes will be introduced for animal products (POAO’s and ABP’s) and for high-risk food and feed not of animal origin.</p>
+<p>Further changes will be introduced for animal products and for high-risk food and feed not of animal origin.</p>
 
 <p>Import controls on live animals, including live aquatic animals for aquaculture and ornamental purposes, will remain unchanged from those introduced on 1 January 2021 until 1 July 2021.</p>
 
@@ -223,6 +224,36 @@
     <p>to comply with wider <a href="https://www.gov.uk/transition" class="govuk-link">HMRC guidance</a> on customs requirements for exporting to the <abbr title="European Union">EU</abbr>.</p>
   </li>
 </ul>
+
+<h3 id="if-your-consignment-is-rejected-by-the-eu-after-exporting">If your consignment is rejected by the <abbr title="European Union">EU</abbr> after exporting</h3>
+
+<p>If your consignment is rejected by the <abbr title="European Union">EU</abbr> after exporting, you may have the option to bring the goods back. Live aquatics will only be accepted back to GB if they meet certain conditions.</p>
+
+<h3 id="if-you-did-not-supply-the-required-certification-at-the-time-of-the-export">If you did not supply the required certification at the time of the export</h3>
+
+<p>If animals have been presented at an <abbr title="European Union">EU</abbr> Border Control Post without <abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> <abbr title="Fish Health Inspectorate">FHI</abbr> certified documents, they will be classed as an illegal consignment and have no certifiable provenance. You will not be able to bring these animals back. These animals will be culled either at the <abbr title="European Union">EU</abbr> Border Control Post or on attempted return to GB.</p>
+
+<h3 id="if-the-documents-you-supplied-at-the-time-of-export-contained-errors-contact-the-cefas-fhihttpswwwgovukgovernmentgroupsfish-health-inspectorate">If the documents you supplied at the time of export contained errors contact the <a href="https://www.gov.uk/government/groups/fish-health-inspectorate" class="govuk-link"><abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> <abbr title="Fish Health Inspectorate">FHI</abbr></a>
+</h3>
+
+<p>In some circumstances, it may be possible that a replacement certificate sent to the <abbr title="European Union">EU</abbr> Border Control Post could reverse the decision to reject. The final decision will be taken by the <abbr title="European Union">EU</abbr> Border Control Post whether this is acceptable.</p>
+
+<p>GB will only accept the return of the animal consignment if the original <abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> <abbr title="Fish Health Inspectorate">FHI</abbr> certified documents accompany the animals. You will need to coordinate the return of the animals by pre-notifying <abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> of the return before commencing the return journey.</p>
+
+<p>On arrival at the GB port, <abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> <abbr title="Fish Health Inspectorate">FHI</abbr> will undertake documentary, identity and physical checks to determine whether the animals are able to re-enter GB territory.</p>
+
+<h3 id="if-your-goods-were-rejected-because-they-failed-animal-health-or-identity-checks-at-the-eu-border-control-post-contact-the-cefas-fhihttpswwwgovukgovernmentgroupsfish-health-inspectorate">If your goods were rejected because they failed animal health or identity checks at the <abbr title="European Union">EU</abbr> Border Control Post contact the <a href="https://www.gov.uk/government/groups/fish-health-inspectorate" class="govuk-link"><abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> <abbr title="Fish Health Inspectorate">FHI</abbr></a>
+</h3>
+
+<p><abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> <abbr title="Fish Health Inspectorate">FHI</abbr> officials will advise you whether the animals may be accepted for return.</p>
+
+<h3 id="if-your-goods-were-rejected-for-other-reasons-such-as-customs-declaration-issues">If your goods were rejected for other reasons, such as customs declaration issues</h3>
+
+<p>Contact HMRC or your customs intermediary for advice on whether the issues can be resolved.</p>
+
+<p>If your animals need to return to GB, you will need to coordinate the return of the animals by pre-notifying <abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> <abbr title="Fish Health Inspectorate">FHI</abbr> of the return by email or phone before commencing the return journey with the original documentation.</p>
+
+<p>On arrival at the GB port, <abbr title="Centre for Environment Fisheries and Aquaculture Science">Cefas</abbr> will undertake documentary, identity and physical checks on entry to determine whether the animals are able to enter GB territory.</p>
 
 <h3 id="export-to-a-non-eu-country">Export to a non-<abbr title="European Union">EU</abbr> country</h3>
 
@@ -306,10 +337,14 @@ Fish Health Inspectorate
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 25 February 2019
-    <br></br>Last updated 2 September 2020
+    <br></br>Last updated 8 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T13:00:17.000+01:00">8 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added information on what to do in different scenarios at EU BCPs</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-02T10:27:18.000+01:00">2 September 2020</time>
               <p class="app-c-published-dates__change-note">Significant changes throughout the page for more clarity on exporting and importing live aquatic animals for aquaculture and for ornamental purposes for post transition period.</p>
@@ -371,14 +406,14 @@ Fish Health Inspectorate
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-d42e04c1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-c2fbb730" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d42e04c1" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c2fbb730" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -392,9 +427,9 @@ Fish Health Inspectorate
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-d42e04c1" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-c2fbb730" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-d42e04c1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-c2fbb730" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -408,9 +443,9 @@ Fish Health Inspectorate
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d42e04c1" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-c2fbb730" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-d42e04c1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-c2fbb730" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -442,9 +477,9 @@ Fish Health Inspectorate
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8f6bdd34" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9adbf945" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8f6bdd34" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-9adbf945" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
