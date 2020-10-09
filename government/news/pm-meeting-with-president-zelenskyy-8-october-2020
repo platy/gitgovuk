@@ -9,7 +9,20 @@
   </h1>
 </div>
   </div>
-  
+    <div class="govuk-grid-column-one-third">
+      <nav role="navigation" class="gem-c-translation-nav gem-c-translation-nav " aria-label="Translations">
+    <ul class="gem-c-translation-nav__list">
+        <li class="gem-c-translation-nav__list-item">
+            <span lang="en">English</span>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="uk" lang="uk" rel="alternate" class="gem-c-translation-nav__link " href="/government/news/pm-meeting-with-president-zelenskyy-8-october-2020.uk">Українська</a>
+        </li>
+    </ul>
+  </nav>
+
+  </div>
+
   <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph">Prime Minister Boris Johnson met Ukrainian President Volodymyr Zelenskyy in Downing Street this morning.</p>
@@ -23,6 +36,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 October 2020
+    <br></br>Last updated 9 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -114,8 +129,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 October 2020
+    <br></br>Last updated 9 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-09T12:40:18.000+01:00">9 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added location and Ukrainian version</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T14:48:00.000+01:00">8 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -148,14 +177,28 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-02b882df" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-80bc5b66" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-02b882df" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-80bc5b66" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/international" data-track-options="{"dimension28":"1","dimension29":"International"}" href="/international">International</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-80bc5b66" data-module="gem-toggle">
+
+    <h2 id="related-nav-world_locations-80bc5b66" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="2.1 World locations" data-track-label="/world/ukraine/news" data-track-options="{"dimension28":"1","dimension29":"Ukraine"}" href="/world/ukraine/news">Ukraine</a></li>
 
   </ul>
 </nav>
