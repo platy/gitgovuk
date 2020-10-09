@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 28 July 2014
-    <br></br>Last updated 3 July 2020
+    <br></br>Last updated 9 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -57,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#overview" data-track-options="{"dimension29":"1. Overview"}" href="#overview">1. Overview</a>
@@ -533,7 +534,7 @@ contracts</li>
 
 <h2 id="section6">6. Supplies of health professional staff</h2>
 
-<p>This section explains the liability position of supplies of health professional staff. Generally speaking, apart from the nursing agencies’ concession mentioned in <a href="#para6-5" class="govuk-link">paragraph 6.5</a>, all supplies of health professional staff are taxable for VAT purposes.</p>
+<p>This section explains the liability position of supplies of health professional staff. Generally speaking, apart from the nursing agencies’ concession mentioned in <a href="#para6-6" class="govuk-link">paragraph 6.6</a>, all supplies of health professional staff are taxable for VAT purposes.</p>
 
 <h3 id="agency-or-arrangement-fees">6.1 Agency or arrangement fees</h3>
 
@@ -549,18 +550,24 @@ contracts</li>
 
 <p>Staff supplied by an employment business may be either employees of that business, or self-employed and engaged by that business. In both cases the workers’ services are provided to the employment business, which in turn makes a supply of that worker to the client. If the worker comes under the direction and control of the client, this is a supply of staff. The employment business in these circumstances is acting as the ‘principal’.</p>
 
-<p>When an employment business supplies registered health professionals (other than staff subject to the nursing agencies’ concession referred to in <a href="#para6-5" class="govuk-link">paragraph 6.5</a>) as a principal to a third party, where the health professional is working under the control and guidance of the third party, it’s making a taxable supply of staff to that third party - not an exempt supply of healthcare. It’s the third party which is responsible for providing healthcare to the final patient, rather than the business supplying the staff which has no such responsibility.</p>
+<p>When an employment business supplies registered health professionals (other than staff subject to the nursing agencies’ concession referred to in <a href="#para6-6" class="govuk-link">paragraph 6.6</a>) as a principal to a third party, where the health professional is working under the control and guidance of the third party, it’s making a taxable supply of staff to that third party - not an exempt supply of healthcare. It’s the third party which is responsible for providing healthcare to the final patient, rather than the business supplying the staff which has no such responsibility.</p>
 
 <p>A taxable supply of staff is made even where the employment business is responsible for ensuring that the workers it provides are properly trained and qualified when they work under the control of the third party.</p>
 
 <p>However, if the employment business maintains the direction and control of its health professional staff to make a supply of medical care directly to a final consumer, then the employment business is providing medical services rather than merely a supply of staff. In these circumstances, the business is making an exempt supply of health services (provided, of course, the services meet the conditions for exemption under <a href="#para2-3" class="govuk-link">paragraph 2.3</a>).</p>
 
-<h3 id="supplies-of-self-employed-locum-gps">6.4 Supplies of self-employed locum <abbr title="general practitioners">GPs</abbr>
+<h3 id="deputising-services">6.4 Deputising Services</h3>
+
+<p>The health and welfare exemption include supplies of deputising services where the provider takes direct responsibility for medical care. The relevant Clinical Commissioning Group is responsible for ensuring that there is out-of-hours cover. <abbr title="general practitioners">GPs</abbr> can contract with a commercial deputising entity to perform their out-of-hours duties. Where this service is provided by registered doctors or nurses, who provide medical advice or care, then the exemption applies. The main out-of-hours calls are channelled through to the <abbr title="National Health Service">NHS</abbr> 111 service, although they could be outsourced elsewhere. The exemption does not apply where non-medical advice is given or when advice is given by a person who is not a medical professional, unless they are supervised by a medical professional for example, call centre staff working from a crib sheet of standard questions to filter out calls and only advising people to contact a doctor or dial 999 for an ambulance.</p>
+
+<h3 id="supplies-of-self-employed-locum-doctors-including-gps">6.5 Supplies of self-employed locum doctors including <abbr title="general practitioners">GPs</abbr>
 </h3>
 
-<p>When self-employed locum <abbr title="general practitioners">GPs</abbr> supply their services to an employment business which makes an onward supply to a third party who is legally responsible for providing health care to the final patient, both the supplies to and from the employment business are taxable. The fact that the locum <abbr title="general practitioners">GPs</abbr> may be supplied to a prison or other institution where they may not be supervised by any medical staff does not mean that the employment business supplying the locum doctor to the third party is legally responsible for providing healthcare to the final patient.</p>
+<p>The services of a locum are different to the deputising service described above. Where a locum doctor is supplied by an employment business or similar body to a third party (like a <abbr title="general practitioner">GP</abbr> Practice) which controls and directs him or her, it is a supply of staff. Supplies of staff do not fall within the exemption and are therefore taxable, with VAT being charged at the standard-rate.  When a self-employed locum supplies their services to an employment business (including via a Personal Services Company) which in turn makes an onward supply to third party, who is legally responsible for providing healthcare to the final patient, both the supply to the employment business and the supply by the employment business to the third party are taxable.</p>
 
-<h3 id="para6-5">6.5 Supplies of nurses, nursing auxiliaries and care assistants by state regulated agencies (the nursing agencies’ concession)</h3>
+<p>The fact that the locum may not be supervised by any medical staff of the third party does not mean that the employment business supplying the locum doctor is legally responsible for providing healthcare to the final patient.</p>
+
+<h3 id="para6-6">6.6 Supplies of nurses, nursing auxiliaries and care assistants by state regulated agencies (the nursing agencies’ concession)</h3>
 
 <p>By an informal extra-statutory concession, nursing agencies (or employment businesses that provide nurses and midwives, as well as other health professionals) may exempt the supply of nursing staff and nursing auxiliaries supplied as a principal to a third party, if the supply is of:</p>
 
@@ -596,11 +603,11 @@ contracts</li>
 
 <p>HMRC regularly reviews Extra Statutory Concessions.</p>
 
-<h3 id="the-wording-of-terms-and-conditions-of-agreements">6.6 The wording of terms and conditions of agreements</h3>
+<h3 id="the-wording-of-terms-and-conditions-of-agreements">6.7 The wording of terms and conditions of agreements</h3>
 
 <p>Some employment businesses state in their contract terms that their staff are still working under their control and direction rather than the third party to which their staff are being supplied. If that is the case, you are not acting as an ‘employment business’ within the definition of the Employment Agencies Act 1973. The VAT liability of a supply is not determined conclusively by the terms of any contract or other documentation alone. If the wording of a contract does not reflect any changes in the way that the business actually operates in practice, the VAT liability of a taxable supply of staff will not change.</p>
 
-<h3 id="supplies-of-contracted-out-health-services">6.7 Supplies of contracted-out health services</h3>
+<h3 id="supplies-of-contracted-out-health-services">6.8 Supplies of contracted-out health services</h3>
 
 <p>Employment businesses in the health sector make a taxable supply of staff to third parties, such as hospitals or hospices, if the third party is legally responsible for the onward supply of providing care to the final recipient. This is subject to the nursing agencies’ concession. The fact that an employment business is state regulated does not mean that its supplies of staff are exempt if they are not covered by the nursing agencies’ concession.</p>
 
@@ -911,10 +918,14 @@ contracts</li>
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 28 July 2014
-    <br></br>Last updated 3 July 2020
+    <br></br>Last updated 9 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-09T14:01:57.000+01:00">9 October 2020</time>
+              <p class="app-c-published-dates__change-note">A new section '6.4 Deputising Services' has been added and section 6.5 has been updated.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-03T14:08:45.000+01:00">3 July 2020</time>
               <p class="app-c-published-dates__change-note">The end date for the temporary VAT zero rating has been changed from 31 July 2020 to 31 October 2020.</p>
@@ -972,33 +983,33 @@ contracts</li>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-b3e43536" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-1f97c44b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b3e43536" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1f97c44b" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/hmrc-internal-manuals/vat-health" data-track-options="{"dimension28":"5","dimension29":"VAT Health"}" href="/hmrc-internal-manuals/vat-health">VAT Health</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/protective-equipment-and-vat-notice-70123" data-track-options="{"dimension28":"5","dimension29":"Protective equipment (VAT Notice 701/23)"}" href="/guidance/protective-equipment-and-vat-notice-70123">Protective equipment (VAT Notice 701/23)</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/vat-liability-of-health-institutions-supplies-notice-70131" data-track-options="{"dimension28":"5","dimension29":"Health institutions supplies (VAT Notice 701/31)"}" href="/guidance/vat-liability-of-health-institutions-supplies-notice-70131">Health institutions supplies (VAT Notice 701/31)</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/vat-on-young-childrens-clothing-and-footwear-notice-714" data-track-options="{"dimension28":"5","dimension29":"Young children's clothing and footwear (VAT Notice 714)"}" href="/guidance/vat-on-young-childrens-clothing-and-footwear-notice-714">Young children's clothing and footwear (VAT Notice 714)</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/vat-notices-alphabetical-order" data-track-options="{"dimension28":"5","dimension29":"VAT notices in alphabetical order"}" href="/government/collections/vat-notices-alphabetical-order">VAT notices in alphabetical order</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/vat-on-postage-delivery-and-direct-marketing-notice-70024" data-track-options="{"dimension28":"5","dimension29":"Postage, delivery and direct marketing (VAT Notice 700/24)"}" href="/guidance/vat-on-postage-delivery-and-direct-marketing-notice-70024">Postage, delivery and direct marketing (VAT Notice 700/24)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/welfare-services-and-goods-notice-7012" data-track-options="{"dimension28":"5","dimension29":"Welfare services and goods (VAT Notice 701/2)"}" href="/guidance/welfare-services-and-goods-notice-7012">Welfare services and goods (VAT Notice 701/2)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/hotels-holiday-accommodation-and-vat-notice-7093" data-track-options="{"dimension28":"5","dimension29":"Hotels and holiday accommodation (VAT Notice 709/3)"}" href="/guidance/hotels-holiday-accommodation-and-vat-notice-7093">Hotels and holiday accommodation (VAT Notice 709/3)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/vat-capital-goods-scheme-and-capital-assets" data-track-options="{"dimension28":"5","dimension29":"The Capital Goods Scheme for VAT"}" href="/guidance/vat-capital-goods-scheme-and-capital-assets">The Capital Goods Scheme for VAT</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-b3e43536" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1f97c44b" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-b3e43536" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-1f97c44b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1031,9 +1042,9 @@ contracts</li>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d8709157" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a29d155a" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d8709157" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-a29d155a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
