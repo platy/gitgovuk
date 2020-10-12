@@ -9,10 +9,23 @@
   </h1>
 </div>
   </div>
-  
+    <div class="govuk-grid-column-one-third">
+      <nav role="navigation" class="gem-c-translation-nav gem-c-translation-nav " aria-label="Translations">
+    <ul class="gem-c-translation-nav__list">
+        <li class="gem-c-translation-nav__list-item">
+            <span lang="en">English</span>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="th" lang="th" rel="alternate" class="gem-c-translation-nav__link " href="/government/news/thailand-joins-forces-with-astrazeneca-on-covid-19-vaccine-manufacturing--2.th">ไทย</a>
+        </li>
+    </ul>
+  </nav>
+
+  </div>
+
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Ministry of Public Health, Siam Bioscience, SCG and AstraZeneca join forces on COVID-19 vaccine manufacturing for Thailand and SouthEastAsia.</p>
+  <p class="gem-c-lead-paragraph">Ministry of Public Health, Siam Bioscience, SCG and AstraZeneca join forces on COVID-19 vaccine manufacturing for Thailand and South East Asia.</p>
 
   </div>
 </div>
@@ -23,6 +36,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 October 2020
+    <br></br>Last updated 12 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -118,8 +133,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 October 2020
+    <br></br>Last updated 12 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-12T12:57:39.000+01:00">12 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added Thai translation</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-12T12:38:00.000+01:00">12 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -152,23 +181,24 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d474a393" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-aff38b86" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d474a393" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-aff38b86" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/coronavirus-taxon/testing" data-track-options="{"dimension28":"1","dimension29":"Testing for coronavirus (COVID-19)"}" href="/coronavirus-taxon/testing">Testing for coronavirus (COVID-19)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/international/foreign-affairs" data-track-options="{"dimension28":"2","dimension29":"Foreign affairs"}" href="/international/foreign-affairs">Foreign affairs</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/coronavirus-taxon" data-track-options="{"dimension28":"2","dimension29":"Coronavirus (COVID-19)"}" href="/coronavirus-taxon">Coronavirus (COVID-19)</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-d474a393" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-aff38b86" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-d474a393" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-aff38b86" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
