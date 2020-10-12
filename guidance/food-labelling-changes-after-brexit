@@ -1,20 +1,18 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Food labelling changes if there's a no-deal Brexit
+    Food and drink labelling changes from 1 January 2021
   </h1>
 </div>
   </div>
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph ">
-    How food producers, manufacturers, retailers and suppliers should change food labels if there's a no-deal Brexit.
-  </p>
+  <p class="gem-c-lead-paragraph">How food and drink producers, manufacturers, retailers and suppliers must change labels from 1 January 2021.</p>
 
   </div>
 </div>
@@ -25,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 5 February 2019
-    <br></br>Last updated 25 February 2019
-      — <a href="#history">see all updates</a>
+    <br></br>Last updated 12 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -36,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
+                  <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>
                 </span>
             </dd>
         </dl>
@@ -51,6 +49,25 @@
 
 
 
+  <section class="app-c-header-notice" aria-label="notice" role="region" lang="en">
+    <div class="app-c-header-notice__header">
+      <h2 class="app-c-header-notice__title">New rules for January 2021</h2>
+    </div>
+
+    <div class="app-c-header-notice__content">
+          <p class="app-c-header-notice__text govuk-body">The UK has left the EU, and the transition period after Brexit comes to an end this year.</p>
+          <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It will be updated if anything changes.</p>
+        <div class="app-c-header-notice__links">
+            <p class="govuk-body app-c-header-notice__link-intro">
+              For current information, read: 
+              <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/food-labelling-and-packaging" data-track-label="Food labelling and packaging " class="app-c-header-notice__link" href="/food-labelling-and-packaging">Food labelling and packaging </a>
+            </p>
+        </div>
+
+        <p class="app-c-header-notice__text govuk-body">You can also read about <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/transition" data-track-label="the transition period" class="govuk-link" href="/transition">the transition period</a>.</p>
+    </div>
+  </section>
+
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
@@ -58,131 +75,231 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#exporting-to-the-eu" data-track-options="{"dimension29":"Exporting to the EU"}" href="#exporting-to-the-eu">Exporting to the EU</a>
+
         </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#if-you-export-food-products-to-the-eu--changes-required-from-exit-day" data-track-options="{"dimension29":"If you export food products to the EU – changes required from exit day"}" href="#if-you-export-food-products-to-the-eu--changes-required-from-exit-day">If you export food products to the EU – changes required from exit day</a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#if-you-produce-or-place-goods-on-the-uk-market-after-exit-day--changes-required-within-21-months-of-brexit" data-track-options="{"dimension29":"If you produce or place goods on the UK market after exit day – changes required within 21 months of Brexit"}" href="#if-you-produce-or-place-goods-on-the-uk-market-after-exit-day--changes-required-within-21-months-of-brexit">If you produce or place goods on the UK market after exit day – changes required within 21 months of Brexit</a>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#goods-sold-in-great-britain-gb-and-northern-ireland-ni" data-track-options="{"dimension29":"Goods sold in Great Britain (GB) and Northern Ireland (NI)"}" href="#goods-sold-in-great-britain-gb-and-northern-ireland-ni">Goods sold in Great Britain (GB) and Northern Ireland (NI)</a>
+
         </li>
     </ol>
-  </nav>
-
+</nav>
       </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<div class="call-to-action">
-<h2 id="stay-up-to-date">Stay up to date</h2>
+<h2 id="exporting-to-the-eu">Exporting to the EU</h2>
 
-<p>This page tells you what to do if there’s a no-deal Brexit. It will be updated if anything changes, including if a deal is agreed.</p>
+<p>You should check with your EU importer how the EU’s labelling requirements will affect your products.</p>
 
-<p><a href="https://www.gov.uk/email-signup/?topic=/government/brexit">Sign up for email alerts</a> to get the latest information.</p>
-</div>
+<p>Food of animal origin placed on the EU market before 1 January 2021 can continue to circulate within the EU market without labelling changes.</p>
 
-<p>The rules for what you must show on food labels will change if there’s a no-deal Brexit.</p>
+<p>Food of non-animal origin placed on either the UK or EU markets before 1 January 2021 can continue to circulate both in the EU and UK markets without labelling changes.</p>
 
-<p>Some of the new rules will come into effect from exit day. For others, you’ll have longer to update your food labels.</p>
+<p>In the <a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/759019/25_November_Agreement_on_the_withdrawal_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_from_the_European_Union_and_the_European_Atomic_Energy_Community.pdf" class="govuk-link">Withdrawal Agreement</a>, a good is ‘placed on the market’ in the EU, when it is first supplied for distribution, consumption, or commercial use, whether free of charge or not.</p>
 
-<p>These proposals are subject to agreement with devolved administrations and Parliamentary process. Defra will update this page if anything changes.</p>
-
-<p>The UK government will have a 21-month transition period where possible for labelling changes for goods produced or imported and placed on the UK market after exit day.</p>
-
-<p>Where a transition period is not possible (eg the EU organic logo), Defra will encourage a pragmatic approach to enforcement within the UK.</p>
-
-<h2 id="if-you-export-food-products-to-the-eu--changes-required-from-exit-day">If you export food products to the EU – changes required from exit day</h2>
-<p>The EU has issued <a rel="external" href="https://ec.europa.eu/info/sites/info/files/eu_food_law_en.pdf">guidance on labelling changes</a> that should be in place from exit day to export from the UK to their markets. You should get advice from your EU importing contact on the EU’s labelling requirements.</p>
-
-<p>If an individual food product is placed on the EU market before exit day, it can continue to be sold, distributed or transferred in the EU without labelling changes. Food is considered placed on the EU market if it has been:</p>
-
-<ul>
-  <li>held in the EU for the purpose of sale, including offering for sale or any other form of transfer, whether free of charge or not</li>
-  <li>sold, distributed, or transferred by other forms to the EU</li>
-</ul>
+<p>All food placed on the EU market from 1 January 2021 will have to meet EU rules.</p>
 
 <h3 id="food-business-operator-fbo-address">Food business operator (<abbr title="Food business operator">FBO</abbr>) address</h3>
-<p>If you’re exporting pre-packaged food and caseins sold from the UK to the EU, you must include an EU address for the <a href="https://www.gov.uk/guidance/food-labelling-giving-food-information-to-consumers#show-the-name-and-address-of-the-food-business-operator"><abbr title="Food business operator">FBO</abbr></a> or EU importer on your packaging or food label.</p>
+
+<p>Pre-packaged food and caseins must have an EU or Northern Ireland (NI) address for the <a href="https://www.gov.uk/guidance/food-labelling-giving-food-information-to-consumers#show-the-name-and-address-of-the-food-business-operator" class="govuk-link"><abbr title="Food business operator">FBO</abbr></a>, or an address of the EU or NI importer on the packaging or food label.</p>
 
 <h3 id="eu-organic-logo">EU organic logo</h3>
-<p>You must not use the EU organics logo on any UK organic food or feed after Brexit day unless the EU recognises your UK control body as able to certify UK organic goods for the purpose of export to the EU or equivalency with the EU is agreed. Please contact your control body for up to date details.</p>
+<p>You must not use the EU organics logo from 1 January 2021 unless:</p>
 
-<p>If the EU recognises the UK as equivalent or recognises the UK control bodies as able to certify UK organic goods for the purpose of export to the EU before exit day, UK organic goods can enter the EU and continue to use the logo.</p>
+<ul>
+  <li>your UK control body is authorised by the EU to certify UK goods for export to the EU</li>
+  <li>the UK and the EU agree to recognise each other’s standards (called ‘equivalency’)</li>
+</ul>
 
-<p>If the UK does not reach an equivalency deal with the EU, you cannot export organic food or feed from the UK to the EU.</p>
+<p>Contact your <a href="https://www.gov.uk/government/publications/organic-certification-list-of-uk-approved-organic-control-bodies" class="govuk-link">control body</a> to stay up to date.</p>
 
-<p>You can continue to use your UK organic control body logo.</p>
+<p>If the UK does not reach an equivalency deal with the EU, you cannot export organic food to the EU and label it as organic. You can still export the food using non-organic labelling if it meets all other marketing standards and you remove or cover any organic labelling.</p>
 
-<p>Read more about <a href="https://www.gov.uk/guidance/trading-and-labelling-organic-food-if-theres-no-brexit-deal">trading and labelling organic food if there’s no Brexit deal</a>.</p>
+<p>Read more about <a href="https://www.gov.uk/guidance/trading-and-labelling-organic-food-if-theres-no-brexit-deal" class="govuk-link">trading and labelling organic food from 1 January 2021</a>.</p>
 
 <h3 id="eu-emblem">EU emblem</h3>
-<p>You must not use the EU emblem on goods produced in the UK unless you have been authorised by the EU to do so.</p>
+<p>You must not use the EU emblem on goods produced in Great Britain (England, Scotland and Wales) from 1 January 2021 unless you have been authorised by the EU to do so.</p>
 
 <h3 id="eu-health-and-identification-marks">EU health and identification marks</h3>
-<p>If you export products of animal origin (<abbr title="Products of animal origin">POAO</abbr>) from the UK to the EU, you must replace the EU oval health and identification marks with <a rel="external" href="https://www.food.gov.uk/business-guidance/eu-exit-changes-to-health-and-identification-marks">new UK health and identification marks</a>.</p>
+
+<p>Read the <a rel="external" href="https://www.food.gov.uk/business-guidance/guidance-on-health-and-identification-marks-that-applies-from-1-january-2021" class="govuk-link">Food Standards Agency’s guidance on the new health and identification marks</a>.</p>
 
 <h3 id="country-of-origin-labels">Country of origin labels</h3>
-<p>After Brexit, UK food should not be labelled as origin ‘EU’.</p>
 
-<p>From April 2020, the country of origin or place of provenance of the primary ingredient of a food must be stated on labels.</p>
+<p>Food from NI can continue to use ‘origin EU’.</p>
 
-<h2 id="if-you-produce-or-place-goods-on-the-uk-market-after-exit-day--changes-required-within-21-months-of-brexit">If you produce or place goods on the UK market after exit day – changes required within 21 months of Brexit</h2>
+<p>Food from GB must not be labelled as origin ‘EU’ from 1 January 2021.</p>
 
-<p>There will be a transition period of 21 months for labelling changes for goods placed on the UK market after exit day.</p>
+<p>Read more about <a href="https://www.gov.uk/guidance/food-labelling-country-of-origin" class="govuk-link">country of origin food labelling</a>.</p>
+
+<h2 id="goods-sold-in-great-britain-gb-and-northern-ireland-ni">Goods sold in Great Britain (GB) and Northern Ireland (NI)</h2>
+
+<p>This guidance is subject to agreement with devolved administrations and Parliamentary process.</p>
+
+<p>Goods sold in NI will continue to follow EU rules for labelling, but you  may need to make some labelling changes.</p>
+
+<p>You’ll need to make any required labelling changes for goods sold in GB by 30 September 2022.</p>
+
+<p>Local authorities in GB will be responsible for enforcement of labelling changes.</p>
+
+<p>Your label can contain other information if you need to comply with labelling requirements for another market.</p>
 
 <h3 id="eu-health-and-identification-marks-1">EU health and identification marks</h3>
-<p>You can continue to use the EU oval health and identification mark on products of animal origin (<abbr title="Products of animal origin">POAO</abbr>) produced and sold in the UK in the 21 month transition period.</p>
 
-<p>After the transition period, you must use the <a rel="external" href="https://www.food.gov.uk/business-guidance/prepare-your-business-for-the-uk-leaving-the-eu#an-update-on-health-and-identification-marks">new UK health and identification marks</a> for <abbr title="Products of animal origin">POAO</abbr> to clearly show the UK product has been subjected to strict health and welfare checks.</p>
-
-<p>Read the <a rel="external" href="https://www.food.gov.uk/business-guidance/prepare-your-business-for-the-uk-leaving-the-eu">Food Standards Agency’s guidance on the new health and identification marks</a>.</p>
+<p>Read the <a rel="external" href="https://www.food.gov.uk/business-guidance/guidance-on-health-and-identification-marks-that-applies-from-1-january-2021" class="govuk-link">Food Standards Agency’s guidance on the new health and identification marks</a>.</p>
 
 <h3 id="food-business-operator-fbo-address-1">Food business operator (<abbr title="Food business operator">FBO</abbr>) address</h3>
-<p>You must include a UK address for the <abbr title="Food business operator">FBO</abbr> on pre-packaged food or caseins sold in the UK. If the <abbr title="Food business operator">FBO</abbr> is not in the UK, include the address of your importer bringing the food into the UK.</p>
+
+<p>You can continue to use an EU, GB or NI address for the <abbr title="Food business operator">FBO</abbr> on pre-packaged food or caseins sold in GB until 30 September 2022.</p>
+
+<p>From 1 October 2022, pre-packaged food or caseins sold in GB must include a UK address for the <abbr title="Food business operator">FBO</abbr>. If the <abbr title="Food business operator">FBO</abbr> is not in the UK, include the address of your importer.</p>
 
 <h3 id="eu-organic-logo-1">EU organic logo</h3>
+<p>You must not use the EU organic logo on any UK organic food or feed from 1 January 2021, unless either:</p>
 
-<p>You must not use the EU organic logo on any UK organic products unless the EU recognises the UK as equivalent or your control body has been recognised by the EU as able to certify UK organic goods for the purpose of export to the EU. Please contact your control body for up to date details.</p>
+<ul>
+  <li>your control body is authorised by the EU to certify UK goods for export to the EU</li>
+  <li>the UK and the EU agree to recognise each other’s standards (called equivalency)</li>
+</ul>
 
-<p>You can continue to use your <a href="https://www.gov.uk/government/publications/organic-certification-list-of-uk-approved-organic-control-bodies">approved UK organic control body</a> logo if you qualified to use it before Brexit.</p>
+<p>Contact your <a href="https://www.gov.uk/government/publications/organic-certification-list-of-uk-approved-organic-control-bodies" class="govuk-link">control body</a> to stay up to date.</p>
 
-<p>Find out more about <a href="https://www.gov.uk/guidance/trading-and-labelling-organic-food-if-theres-no-brexit-deal">trading and labelling organic food if there’s no Brexit deal</a>.</p>
+<p>You can continue to use your <a href="https://www.gov.uk/government/publications/organic-certification-list-of-uk-approved-organic-control-bodies" class="govuk-link">approved UK organic control body</a> logo in GB.</p>
 
-<h3 id="country-of-origin-for-mixed-foods-and-eggs">Country of origin for mixed foods and eggs</h3>
-<p>You can continue to label all food with the specific country or countries of origin. You can label most food as EU origin if it’s from a member state. After exit day, food produced in the UK cannot be labelled as EU origin.</p>
+<p>In GB, you must change the statement of agriculture to ‘UK agriculture’ or ‘UK and non-UK agriculture’.</p>
+
+<p>Find out more about <a href="https://www.gov.uk/guidance/trading-and-labelling-organic-food-if-theres-no-brexit-deal" class="govuk-link">trading and labelling organic food from 1 January 2021</a>.</p>
+
+<h3 id="country-of-origin-labels-1">Country of origin labels</h3>
+
+<p>Food from and sold in NI can continue to use ‘origin EU’ from 1 January 2021.</p>
+
+<p>Food from and sold in GB can be labelled as ‘origin EU’ until 30 September 2022.</p>
+
+<p>From 1 October 2022, food from GB must not be labelled as ‘origin EU’.</p>
+
+<p>Read more about <a href="https://www.gov.uk/guidance/food-labelling-country-of-origin" class="govuk-link">country of origin food labelling</a>.</p>
 
 <h3 id="minced-meat">Minced meat</h3>
-<p>For minced meat (excluding beef and veal) made, for example, with meat from the UK and EU the origin would be labelled ‘UK and non-UK’.</p>
+
+<p>Minced meat sold in NI can refer to ‘EU’ and ‘non-EU’ when the label does not list each country of origin from 1 January 2021.</p>
+
+<p>For minced meat sold in GB you can continue to refer to ‘EU’ and ‘non-EU’ until 30 September 2022.</p>
+
+<p>From 1 October 2022, you must use ‘non-UK’ or ‘UK and non-UK’ when the label does not list each country of origin.</p>
 
 <h3 id="fruit-and-vegetables">Fruit and vegetables</h3>
 
-<p>For mixes of UK fruit and vegetables, you must replace any references to the EU with UK on the label. For example, ‘a mix of EU and non-EU origin’ changes to ‘a mix of UK and non-UK origin’.</p>
+<p>For mixes of fruit and vegetables sold in NI you can refer to ‘EU’ and ‘non-EU’ when the label does not list each country of origin.</p>
+
+<p>For mixes of fruit and vegetables sold in GB you can continue to refer to ‘EU’ and ‘non-EU’ until 30 September 2022.</p>
+
+<p>From 1 October 2022, you must use ‘non-UK’ or ‘UK and non-UK’ when the label does not list each country of origin.</p>
 
 <p>If you’re part of the Approved Trader Scheme, you must remove the EU emblem from your UK food labels. You can use the replacement UK label instead.</p>
 
-<h3 id="blended-honeys-and-olive-oil">Blended honeys and olive oil</h3>
-<p>If your honey or olive oil is a blend from different countries, you must list each country of origin on the label, or state ‘blend of [honeys/olive oils] from more than one country’ (or similar wording) on the label.</p>
+<h3 id="olive-oil">Olive oil</h3>
+
+<p>Olive oil blends sold in NI can refer to ‘EU’ and ‘non-EU’ when the label does not list each country of origin from 1 January 2021.</p>
+
+<p>From 1 October 2022 you cannot use the term ‘non-EU’ for olive oil blends sold in GB. If your extra virgin or virgin olive oil is a blend of oils from different countries, the label must contain one of the following:</p>
+
+<ul>
+  <li>a list of each country of origin</li>
+  <li>the statement ‘blend of olive oils from more than one country’ or similar wording</li>
+  <li>the name of the trading bloc to which a regional trade agreement applies, for example ‘blend of olive oils of European Union origin’</li>
+</ul>
+
+<h3 id="honey-blends">Honey blends</h3>
+
+<p>If you place honey on the UK market before 1 January 2021, it can stay on the market using the current origin wording if the label was accurate at the time:</p>
+
+<ul>
+  <li>‘blend of EU honeys’</li>
+  <li>‘blend of non-EU honeys’</li>
+  <li>‘blend of EU and non-EU honeys’</li>
+</ul>
+
+<p>You can continue to list the countries of origin of honey blends placed on the UK market from 1 January 2021. If you choose to use alternative wording the rules for labelling honey blends will change.</p>
+
+<p>If you place a blend of honeys from different countries on the NI market from 1 January 2021 you must accurately reflect that GB honey is no longer EU honey and use one of the following terms:</p>
+
+<ul>
+  <li>‘blend of EU honeys’</li>
+  <li>‘blend of non-EU honeys’</li>
+  <li>‘blend of EU and non-EU honeys’</li>
+</ul>
+
+<p>For honey blends sold in England and Wales until 30 September 2022 you can use one of the following:</p>
+
+<ul>
+  <li>‘blend of honeys from more than one country’ (or similar wording)</li>
+  <li>‘blend of EU honeys’</li>
+  <li>‘blend of non-EU honeys’</li>
+  <li>‘blend of EU and non-EU honeys’</li>
+</ul>
+
+<p>If you continue to use EU terms, you must ensure your label is accurate. For example, from 1 January 2021 a blend of UK and French honey placed on the market in England and Wales would either need to list both countries or use the words “blend of EU and non-EU honeys” as the UK is no longer part of the EU.</p>
+
+<p>From 1 October 2022 you must use ‘blend of honeys from more than one country’ (or similar wording) if you decide not to list each country of origin.</p>
+
+<p>For honey blends sold in Scotland from 1 January 2021, options for labelling origin include the following:</p>
+
+<ul>
+  <li>‘blend of honeys from more than one country’ (or similar wording)</li>
+  <li>reference to the trading bloc of the countries of origin, for example blend of EU honeys’, ‘blend of non-EU honeys’ or ‘blend of EU and non-EU honeys</li>
+</ul>
+
+<p>If you continue to use trading bloc or EU terms, you must ensure your label is accurate. For example, from 1 January 2021 a blend of UK and French honey placed on the market in Scotland would either need to list both countries or use the words “blend of EU and non-EU honeys” as the UK is no longer part of the EU.</p>
 
 <h3 id="beef-and-veal">Beef and veal</h3>
-<p>If the animal your beef or veal came from was born, reared or slaughtered outside of the UK and EU, your label must state ‘Origin: non-UK’.</p>
 
-<p>For beef from live animals imported to the UK where you do not know the origin country of the animal, you should replace ‘live import into the EC’ with ‘beef from a live import into the UK’ on the label.</p>
+<p>Beef and veal sold in NI can refer to ‘Origin: non-EU’ if the animal your beef or veal came from was born, reared or slaughtered outside of the EU and you do not have the full individual country information from 1 January 2021.</p>
+
+<p>For beef and veal sold in GB you can refer to ‘non EU’ until 30 September 2022.</p>
+
+<p>From 1 October 2022, you must use ‘non-UK’ when the full individual country information is not available.</p>
 
 <h3 id="eggs">Eggs</h3>
-<p>If you import eggs that are not produced under farming methods that meet <a href="https://www.gov.uk/guidance/eggs-trade-regulations">UK egg trade regulations</a> from non-EU countries, you should mark them as ‘Non-UK standard’ rather than ‘Non-EC standard’.</p>
+
+<p>You should continue to mark eggs imported and sold in NI that do not meet EU egg marketing and trade regulations as ‘non-EC standard’ from 1 January 2021. You can read about NI egg marketing standards.</p>
+
+<p>In GB, you can continue to mark eggs that do not meet <a href="https://www.gov.uk/guidance/eggs-trade-regulations" class="govuk-link">domestic egg trade regulations</a> as ‘non-EC standard’ or ‘non-UK standard’ until 30 September 2022.</p>
+
+<p>From 1 October 2022, you should mark these eggs as ‘non-UK standard’.</p>
+
+<p>You can read about <a href="https://www.gov.uk/guidance/egg-marketing-standards-if-theres-a-no-deal-brexit" class="govuk-link">egg marketing standards from 1 January 2021</a>.</p>
 
 <h3 id="geographical-indication-gi-logo">Geographical Indication (<abbr title="Geographical Indication">GI</abbr>) logo</h3>
-<p>If you produce a <a href="https://www.gov.uk/government/collections/protected-food-name-scheme-uk-registered-products"><abbr title="Geographical Indication">GI</abbr>-protected food or drink product</a> (except wine or spirits), you must use the relevant UK logo on any products for sale in the UK. Guidance on the UK schemes, including the new logos, will be released before exit day. If you produce <abbr title="Geographical Indication">GI</abbr>-protected wine or spirits, the logo use is optional.</p>
 
-<p>The UK will set up its own <abbr title="Geographical Indication">GI</abbr> schemes if there’s a no-deal Brexit. You’ll have 3 years from the launch of the UK schemes to adopt the relevant UK logo on food and agricultural product packaging.</p>
+<p><a href="https://www.gov.uk/government/collections/protected-food-name-scheme-uk-registered-products" class="govuk-link"><abbr title="Geographical Indication">GI</abbr>-protected food or drink products</a> (except wine or spirits) produced and for sale in GB must use the relevant UK logo on packaging and marketing materials, for example a website or advert.</p>
 
-<p>Find out more about <a href="https://www.gov.uk/guidance/protecting-food-and-drink-names-if-theres-no-brexit-deal">protecting food and drink names if there’s no a no-deal Brexit</a>.</p>
+<p>The logo use is optional for <abbr title="Geographical Indication">GI</abbr>-protected wine or spirits.</p>
+
+<p>The UK will set up its own <abbr title="Geographical Indication">GI</abbr> schemes from 1 January 2021.</p>
+
+<p>Producers or retailers of GB food, drink and agricultural <abbr title="Geographical Indication">GI</abbr> products registered before 1 January 2021, will have until 1 January 2024 to change packaging and marketing materials to display the new UK <abbr title="Geographical Indication">GI</abbr> logos.</p>
+
+<p>The UK logo will be mandatory for GB products registered from 1 January 2021 onwards.</p>
+
+<p>For producers or retailers of food and agricultural <abbr title="Geographical Indication">GI</abbr> products in NI, it will be:</p>
+
+<ul>
+  <li>mandatory to continue using the EU logos when the product is on sale in NI if the product is registered under the EU <abbr title="Geographical Indication">GI</abbr> schemes</li>
+  <li>optional to use the new UK <abbr title="Geographical Indication">GI</abbr> logos if the product is registered under the UK <abbr title="Geographical Indication">GI</abbr> schemes</li>
+</ul>
+
+<p><abbr title="Geographical Indication">GI</abbr> products that are protected in the EU can continue to use the EU logo in the UK after the transition period.</p>
+
+<p>Find out more about <a href="https://www.gov.uk/guidance/protecting-food-and-drink-names-if-theres-no-brexit-deal" class="govuk-link">protecting food and drink names from 1 January 2021</a>.</p>
 
 </div>
 </div>
@@ -191,17 +308,25 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 5 February 2019
-    <br></br>Last updated 25 February 2019
-      <a href="#full-history" class="app-c-published-dates__toggle" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+    <br></br>Last updated 12 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-12T12:58:13.000+01:00">12 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added details of when you’ll need to make any required labelling changes for goods sold in Great Britain (England, Scotland and Wales) and Northern Ireland.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-23T13:31:43.000+01:00">23 August 2019</time>
+              <p class="app-c-published-dates__change-note">No factual changes to content, but major headings have been rewritten to differentiate between exporting to the EU and goods sold in the UK.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-02-25T16:28:46.000+00:00">25 February 2019</time>
-              Guidance updated to include links to the new UK health and identification marks. 
+              <p class="app-c-published-dates__change-note">Guidance updated to include links to the new UK health and identification marks.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-02-05T12:00:00.000+00:00">5 February 2019</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -211,7 +336,7 @@
 
       <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
         <div class="app-c-contents-list-with-body__link-container">
-          <a class="app-c-back-to-top dont-print" href="#contents">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
       <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
     </svg>
@@ -226,30 +351,52 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-651ec2f7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b905a39c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-651ec2f7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b905a39c" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"2","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/food-labelling-and-packaging" data-track-options="{"dimension28":"2","dimension29":"Food labelling and packaging"}" href="/food-labelling-and-packaging">Food labelling and packaging</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/prepare-to-export-from-great-britain-from-january-2021" data-track-options="{"dimension28":"3","dimension29":"Prepare to export goods from Great Britain to the EU from 1 January 2021"}" href="/prepare-to-export-from-great-britain-from-january-2021">Prepare to export goods from Great Britain to the EU from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/prepare-to-import-to-great-britain-from-january-2021" data-track-options="{"dimension28":"3","dimension29":"Prepare to import goods from the EU to Great Britain from 1 January 2021"}" href="/prepare-to-import-to-great-britain-from-january-2021">Prepare to import goods from the EU to Great Britain from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/food-labelling-and-packaging" data-track-options="{"dimension28":"3","dimension29":"Food labelling and packaging"}" href="/food-labelling-and-packaging">Food labelling and packaging</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-b905a39c" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-b905a39c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/trading-with-the-uk-as-an-overseas-exporter" data-track-options="{"dimension28":"1","dimension29":"Trading with the UK as an overseas exporter"}" href="/government/collections/trading-with-the-uk-as-an-overseas-exporter">Trading with the UK as an overseas exporter</a></li>
 
   </ul>
 </nav>
 
   </div>
+
 
 
 </div>
@@ -270,15 +417,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-26b94a18" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9ba9095e" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-26b94a18" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-9ba9095e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/environment/producing-distributing-food-food-labelling" data-track-options="{"dimension28":"2","dimension29":"Food labelling and safety"}" href="/environment/producing-distributing-food-food-labelling">Food labelling and safety</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/government/brexit" data-track-options="{"dimension28":"2","dimension29":"Brexit"}" href="/government/brexit">Brexit</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"2","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
 
   </ul>
 </nav>
