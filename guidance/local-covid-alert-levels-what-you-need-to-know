@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 October 2020
+    <br></br>Last updated 12 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -99,6 +101,8 @@
 
 <p>Find out what you can and cannot do if you live, work or travel in each local COVID alert level.</p>
 
+<p>Check the <a href="https://www.gov.uk/guidance/full-list-of-local-covid-alert-levels-by-area" class="govuk-link">local COVID alert level of your local area</a> to see which level applies to you.</p>
+
 <h2 id="why-the-government-is-introducing-local-covid-alert-levels">Why the government is introducing local COVID alert levels</h2>
 
 <p>The government is committed to ensuring the right levels of intervention in the right places to manage outbreaks. Working with local authorities through the <a href="https://www.gov.uk/government/publications/containing-and-managing-local-coronavirus-covid-19-outbreaks" class="govuk-link">contain framework</a>, our approach has been simplified so that there are now 3 local COVID alert levels.</p>
@@ -169,7 +173,7 @@
 
 <h2 id="local-covid-alert-level-very-high">Local COVID alert level: very high</h2>
 
-<p>This is for areas with a very high level of infections and where tighter restrictions are in place. The restrictions placed on areas with a very high level of infections can vary, and are based on discussions between central and local government.</p>
+<p>This is for areas with a very high level of infections and where tighter restrictions are in place. The restrictions placed on areas with a very high level of infections can vary, and are based on discussions between central and local government. You should therefore <a href="https://www.gov.uk/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19" class="govuk-link">check the specific rules in your area</a>.</p>
 
 <p>At a minimum, this means:</p>
 
@@ -210,13 +214,29 @@
   <li>closing personal care and close contact services or prohibiting the highest-risk activities</li>
   <li>closing performing arts venues for the purposes of performing to audiences</li>
 </ul>
+
+<p>You should therefore <a href="https://www.gov.uk/guidance/full-list-of-local-covid-alert-levels-by-area" class="govuk-link">check whether additional restrictions apply in your area</a>.</p>
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 October 2020
+    <br></br>Last updated 12 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-12T19:38:27.000+01:00">12 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added links to the new page 'Full list of local COVID alert levels by area'.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-12T18:42:00.000+01:00">12 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -243,16 +263,16 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-554d39be" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-169c3a27" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-554d39be" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-169c3a27" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-554d39be" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-169c3a27" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -284,9 +304,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a04a1035" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-11542a85" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a04a1035" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-11542a85" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
