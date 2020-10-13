@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 22 March 2013
-    <br></br>Last updated 9 September 2020
+    <br></br>Last updated 13 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -57,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
@@ -171,15 +172,14 @@
 </li>
 </ul>
 
-<p>You can also:</p>
+<p>You can also read:</p>
 
 <ul>
-  <li>read our <a href="https://www.gov.uk/government/news/meeting-british-citizens-across-italy#newsletters" class="govuk-link">Ambassador’s newsletters to <abbr title="United Kingdom">UK</abbr> nationals</a>
+  <li>our <a href="https://www.gov.uk/government/news/meeting-british-citizens-across-italy#newsletters" class="govuk-link">Ambassador’s newsletters to <abbr title="United Kingdom">UK</abbr> nationals</a>
 </li>
-  <li>read the Italian <a rel="external" href="http://www.governo.it/it/approfondimento/diritti-dei-cittadini-caso-di-ratifica-dell-accordo-di-recesso-entro-il-31-gennaio" class="govuk-link">government’s guidance on the Withdrawal Agreement and citizens’ rights</a> (in Italian)</li>
-  <li>read the Italian Ministry of Interior’s <a rel="external" href="https://dait.interno.gov.it/servizi-demografici/circolari/circolare-n3-dell11-febbraio-2020" class="govuk-link">announcement of the new Withdrawal Agreement residency document</a> (in Italian)</li>
-  <li>read the Italian government’s <a rel="external" href="http://www.salute.gov.it/portale/rapportiInternazionali/dettaglioNotizieRapportiInternazionali.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4037&fbclid=IwAR0fgWOVsffujRwpbpyHKlgMWEOCDlDUJfX9XY-U6EBWR9rPgMZTVpBdu74" class="govuk-link">guidance on reciprocal healthcare rights during the transition period</a> (in Italian)</li>
-  <li>read our Citizens’ Rights <a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/916077/Information_Booklet_for_UK_Nationals.pdf" class="govuk-link">Information Guide</a> and our Citizen’s rights <a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/863837/One_pager_handout_FEBRUARY.pdf" class="govuk-link">information handout</a>
+  <li>the <a rel="external" href="http://www.governo.it/it/approfondimento/citizens-rights-after-january-31-2020/15306" class="govuk-link">Italian government’s guidance on the Withdrawal Agreement and citizens’ rights</a> (in English) or the same <a rel="external" href="http://www.governo.it/it/approfondimento/diritti-dei-cittadini-caso-di-ratifica-dell-accordo-di-recesso-entro-il-31-gennaio" class="govuk-link">guidance on the Withdrawal Agreement and citizens’ rights</a> (in Italian)</li>
+  <li>the Italian Ministry of Interior’s <a rel="external" href="https://dait.interno.gov.it/servizi-demografici/circolari/circolare-n3-dell11-febbraio-2020" class="govuk-link">announcement of the new Withdrawal Agreement residency document</a> (in Italian)</li>
+  <li>our Citizens’ Rights <a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/916077/Information_Booklet_for_UK_Nationals.pdf" class="govuk-link">Information Booklet</a> and our Citizen’s rights <a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/863837/One_pager_handout_FEBRUARY.pdf" class="govuk-link">information handout</a>
 </li>
 </ul>
 
@@ -211,8 +211,7 @@
 
 <ul>
   <li>an attestazione di regolarità di soggiorno</li>
-  <li>a certificato di residenza</li>
-  <li>attestazione di iscrizione anagrafica or attestazione di soggiorno permanente (if resident for 5 years or more)</li>
+  <li>an attestazione di iscrizione anagrafica or attestazione di soggiorno permanente (if resident for 5 years or more)</li>
 </ul>
 
 <p>The rules on residency registration remain the same during the transition period. Read the Italian government’s <a rel="external" href="http://www.governo.it/sites/new.governo.it/files/documenti/documenti/Notizie-allegati/governo/BREXIT/ANAGRAFE_vademecum_2020.pdf" class="govuk-link">guidance on residency processes for <abbr title="United Kingdom">UK</abbr> nationals</a> (in Italian).</p>
@@ -220,6 +219,8 @@
 <p>If you have already registered as a resident and have a residency document, you should obtain the new attestazione from your local comune. This new document will be proof of your rights under the Withdrawal Agreement.</p>
 
 <p>For more information about the new attestazione, read the <a rel="external" href="https://dait.interno.gov.it/servizi-demografici/circolari/circolare-n3-dell11-febbraio-2020" class="govuk-link">Italian Ministry of Interior’s circular</a> (in Italian). It includes a sample of the new document. You should take this to your local comune when requesting it.</p>
+
+<p>You can also read the Italian Association of Town Halls’ <a rel="external" href="http://www.anci.it/brexit-informativa-ai-comuni-in-merito-alla-residenza-dei-cittadini-britannici-in-italia/" class="govuk-link">ANCI guidance on the registration process</a> (in Italian).</p>
 
 <h3 id="uk-nationals-support-fund">
 <abbr title="United Kingdom">UK</abbr> Nationals Support Fund</h3>
@@ -289,6 +290,7 @@
 <p>You should also read guidance on:</p>
 
 <ul>
+  <li>the Italian government’s <a rel="external" href="http://www.salute.gov.it/portale/rapportiInternazionali/dettaglioNotizieRapportiInternazionali.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4037&fbclid=IwAR0fgWOVsffujRwpbpyHKlgMWEOCDlDUJfX9XY-U6EBWR9rPgMZTVpBdu74" class="govuk-link">guidance on reciprocal healthcare rights during the transition period</a> (in Italian)</li>
   <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
   <li>
 <a href="https://www.gov.uk/government/publications/italy-list-of-medical-facilitiespractitioners" class="govuk-link">finding an English-speaking doctor</a> in Italy</li>
@@ -396,6 +398,10 @@
 <p>Find out if you can <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> so that you protect your <abbr title="United Kingdom">UK</abbr> State Pension and entitlement to other benefits and allowances.</p>
 
 <p>If you are employed or self-employed in the <abbr title="European Union">EU</abbr> or EEA and you have a <abbr title="United Kingdom">UK</abbr>-issued A1/E101 form, you will remain subject to <abbr title="United Kingdom">UK</abbr> legislation until the end date on the form.</p>
+
+<h3 id="banking">Banking</h3>
+
+<p>Most people living in Europe should not see any change to their banking after 31 December 2020. Your bank or finance provider should contact you if they need to make any changes to your product or the way they provide it. If you have any concerns about whether you might be affected, contact your provider or seek independent financial advice.</p>
 
 <h2 id="pensions">Pensions</h2>
 
@@ -576,10 +582,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 22 March 2013
-    <br></br>Last updated 9 September 2020
+    <br></br>Last updated 13 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-13T09:43:52.000+01:00">13 October 2020</time>
+              <p class="app-c-published-dates__change-note">updated to include ANCI guidance on registering as a resident in Italy</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-09T10:30:21.000+01:00">9 September 2020</time>
               <p class="app-c-published-dates__change-note">We have updated the Citizens' Rights Information Booklet</p>
@@ -781,33 +791,33 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-878da8b5" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-eaa61125" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-878da8b5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-eaa61125" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-greece" data-track-options="{"dimension28":"5","dimension29":"Living in Greece"}" href="/guidance/living-in-greece">Living in Greece</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-germany" data-track-options="{"dimension28":"5","dimension29":"Living in Germany"}" href="/guidance/living-in-germany">Living in Germany</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-belgium" data-track-options="{"dimension28":"5","dimension29":"Living in Belgium"}" href="/guidance/living-in-belgium">Living in Belgium</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-portugal" data-track-options="{"dimension28":"5","dimension29":"Living in Portugal"}" href="/guidance/living-in-portugal">Living in Portugal</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-germany" data-track-options="{"dimension28":"5","dimension29":"Living in Germany"}" href="/guidance/living-in-germany">Living in Germany</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-cyprus" data-track-options="{"dimension28":"5","dimension29":"Living in Cyprus"}" href="/guidance/living-in-cyprus">Living in Cyprus</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-ireland" data-track-options="{"dimension28":"5","dimension29":"Living in Ireland"}" href="/guidance/living-in-ireland">Living in Ireland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-878da8b5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-eaa61125" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-878da8b5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-eaa61125" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -820,9 +830,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-878da8b5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-eaa61125" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-878da8b5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-eaa61125" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -854,9 +864,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6550ac24" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d68e643d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6550ac24" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d68e643d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
