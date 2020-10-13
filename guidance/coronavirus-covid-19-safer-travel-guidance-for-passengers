@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 May 2020
-    <br></br>Last updated 13 October 2020
+    <br></br>Last updated 14 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -77,7 +77,7 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#areas-with-local-restrictions" data-track-options="{"dimension29":"Areas with local restrictions"}" href="#areas-with-local-restrictions">Areas with local restrictions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#local-covid-alert-levels" data-track-options="{"dimension29":"Local COVID alert levels"}" href="#local-covid-alert-levels">Local COVID alert levels</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -145,7 +145,7 @@
       <div class="govspeak">
 <h2 id="safer-travel-easy-read-guide">Safer travel easy read guide</h2>
 
-<section class="attachment embedded" id="attachment_4613762">
+<section class="attachment embedded" id="attachment_4620865">
   <div class="attachment-thumb">
       <a class="govuk-link" tabindex="-1" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/925684/coronavirus-safer-travel-easy-read-guidance.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/925684/thumbnail_coronavirus-safer-travel-easy-read-guidance.pdf.png"></img></a>
   </div>
@@ -156,7 +156,7 @@
     </p>
 
 
-      <div data-module="toggle" class="accessibility-warning" id="attachment-4613762-accessibility-help">
+      <div data-module="toggle" class="accessibility-warning" id="attachment-4620865-accessibility-help">
         <p>This file may not be suitable for users of assistive technology.</p>
         
   <summary class="govuk-details__summary">
@@ -182,10 +182,11 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 <ul>
   <li>working from home where possible</li>
-  <li>observing <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing" class="govuk-link">social contact rules</a>
-</li>
-  <li>washing or sanitising your hands regularly</li>
+  <li>
+<a href="https://www.gov.uk/find-coronavirus-local-restrictions" class="govuk-link">checking your local COVID alert level</a> before travel</li>
+  <li>observing <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing" class="govuk-link">social contact rules</a> as applicable to your local COVID alert level</li>
   <li>keeping your distance when you travel, where possible</li>
+  <li>washing or sanitising your hands regularly</li>
   <li>avoiding the busiest routes, as well as busy times like the rush hour</li>
   <li>downloading the <a rel="external" href="https://covid19.nhs.uk/" class="govuk-link">NHS COVID-19 app</a> before you travel, if possible, and checking in where you see official NHS COVID-19 <abbr title="quick response">QR</abbr> code posters</li>
 </ul>
@@ -208,9 +209,21 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 <p>If anyone in your household or <a href="https://www.gov.uk/guidance/making-a-support-bubble-with-another-household" class="govuk-link">support bubble</a> has symptoms of coronavirus you should <a href="https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection#while-you-are-self-isolating-make-sure-you-do-the-following-things" class="govuk-link">stay at home and not leave the house for 14 days</a>.</p>
 
-<h2 id="areas-with-local-restrictions">Areas with local restrictions</h2>
+<h2 id="local-covid-alert-levels">Local COVID alert levels</h2>
 
-<p>Some areas have <a href="https://www.gov.uk/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19#areas-with-local-restrictions" class="govuk-link">localised restrictions</a>. You should follow local advice when travelling into, out of and within these areas.</p>
+<p>There is now a system of local COVID alert levels in England. If you live, work, volunteer or travel to from or within an area that is part of a <a href="https://www.gov.uk/guidance/local-covid-alert-level-medium" class="govuk-link">medium (tier 1)</a>, <a href="https://www.gov.uk/guidance/local-covid-alert-level-high" class="govuk-link">high (tier 2)</a> or <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high" class="govuk-link">very high (tier 3)</a> local COVID alert level, there are additional restrictions which apply to you.</p>
+
+<div role="note" aria-label="Information" class="application-notice info-notice">
+<p><a href="https://www.gov.uk/find-coronavirus-local-restrictions" class="govuk-link">Check your local COVID alert level</a> before you travel.</p>
+</div>
+
+<p>The rules for local COVID alert levels are different in the other <abbr title="United Kingdom">UK</abbr> nations:</p>
+
+<ul>
+  <li><a rel="external" href="https://www.nidirect.gov.uk/articles/coronavirus-covid-19-regulations-and-localised-restrictions" class="govuk-link">local COVID alert levels in Northern Ireland</a></li>
+  <li><a rel="external" href="http://www.gov.scot/publications/coronavirus-covid-19-phase-3-staying-safe-and-protecting-others/" class="govuk-link">local COVID alert levels in Scotland</a></li>
+  <li><a rel="external" href="https://gov.wales/local-lockdown" class="govuk-link">local COVID alert levels in Wales</a></li>
+</ul>
 
 <h2 id="social-distancing">Social distancing</h2>
 
@@ -237,24 +250,17 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 <h2 id="social-contact">Social contact</h2>
 
-<p>You must observe <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing" class="govuk-link">social contact rules</a>. When meeting friends and family you do not live with (or have formed a support bubble with) you must not gather in a group of more than 6 people, indoors or outdoors, in England. There is further guidance on meeting with others safely, which includes details of exemptions from this limit, including for larger households and support bubbles.</p>
+<p>You must observe the relevant social contact rules that apply to you when you travel. The rules vary according to the local COVID alert level in place across England and are different for the <a href="https://www.gov.uk/guidance/local-covid-alert-level-medium" class="govuk-link">medium (tier 1)</a>, <a href="https://www.gov.uk/guidance/local-covid-alert-level-high" class="govuk-link">high (tier 2)</a> and <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high" class="govuk-link">very high (tier 3)</a> alert levels.</p>
 
-<div class="call-to-action">
-<p>The police will be able to take action against those that break these rules, including asking people to disperse and issuing fixed penalty notices starting at £200 for those who participate in illegal gatherings.</p>
+<div role="note" aria-label="Information" class="application-notice info-notice">
+<p><a href="https://www.gov.uk/find-coronavirus-local-restrictions" class="govuk-link">Check your local COVID alert level</a> before you travel.</p>
 </div>
 
-<p>People aged 18 or over can be fined:</p>
+<p>The relevant social contact rules set out in the different local COVID alert levels apply to you when you are travelling to an area with a higher alert level from the one where you are normally resident once you cross into that area. The rules in place where you are normally resident also apply to you for the duration of your journey if you are travelling to an area with a lower COVID alert level in place. They apply to you whether you are using public or private transport.</p>
 
-<ul>
-  <li>£200 for the first offence, lowered to £100 if paid within 14 days</li>
-  <li>£400 for the second offence, then doubling for each further offence up to a maximum of £6,400</li>
-</ul>
+<p>When travelling on public transport, aircraft, taxis, private hire vehicles, coaches, ferries or other maritime vessels you must not gather with others outside of your group that is permitted under the relevant social contact rules. Also try to keep within your group and distance yourself from others where possible.</p>
 
-<p>These rules mean that you must not travel in groups of more than 6 people in England, whether you are using public or private transport, unless you are all from the same household or support bubble, or are travelling while undertaking an <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing#seeing-friends-and-family" class="govuk-link">activity that is exempt under the rules</a>.</p>
-
-<p>When travelling on public transport, aircraft, taxis, private hire vehicles, coaches, ferries or other maritime vessels in England you must not gather with others outside of your group, and should try to keep within your group and distance yourself from others where possible.</p>
-
-<p>There are some activities for which individuals are permitted to travel in groups of more than 6, but only where this travel is reasonably necessary in order to carry out the activity, including:</p>
+<p>Under all the relevant social contact rules, whatever the alert level, there are some activities for which individuals are still permitted to travel in groups which do not otherwise conform to the requirements of the relevant social contact rules, but only where this travel is reasonably necessary in order to carry out a specific activity, including:</p>
 
 <ul>
   <li>with work, or as part of voluntary or charitable services, for example, transport organised by an employer during the course of your work</li>
@@ -262,9 +268,20 @@ Please tell us what format you need. It will help us if you say what assistive t
   <li>as part of supervised activities provided for children, including wraparound care, youth groups and activities, and children’s playgroups, but only where those activities are provided by a registered professional</li>
   <li>providing support to a vulnerable person</li>
   <li>providing emergency assistance, and to avoid injury or illness or to escape risk of harm</li>
-  <li>making arrangements where children do not live in the same household as both their parents</li>
+  <li>making arrangements where children do not live in the same household as both their parents or guardians</li>
   <li>training or competition, where the person concerned is an elite sportsperson</li>
   <li>where fulfilling a legal obligation such as attending court or jury service</li>
+</ul>
+
+<p>However, you are recommended to check the relevant social contact rules in force to check if a particular activity applies to your journey</p>
+
+<p>The police will be able to take action against those that break these rules, including asking people to disperse and issuing fixed penalty notices starting at £200 for those who participate in illegal gatherings.</p>
+
+<p>People aged 18 or over can be fined:</p>
+
+<ul>
+  <li>£200 for the first offence, lowered to £100 if paid within 14 days</li>
+  <li>£400 for the second offence, then doubling for each further offence up to a maximum of £6,400</li>
 </ul>
 
 <p>The rules for social contact are different in the other <abbr title="United Kingdom">UK</abbr> nations:</p>
@@ -388,18 +405,15 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 <h3 id="car-sharing">Car sharing</h3>
 
-<p>You should try not to share a vehicle with those outside your household or support bubble. If you need to do this, try to:</p>
+<p>It is difficult to socially distance during car journeys. You should avoid sharing a car with someone from outside your household or your support bubble unless you can practise social distancing. You can reduce the risk of transmission by:</p>
 
 <ul>
-  <li>share the transport with the same people each time</li>
-  <li>
-<a href="#social-contact" class="govuk-link">keep to small groups of up to 6 people</a> at any one time</li>
-  <li>open windows for ventilation</li>
-  <li>travel side by side or behind other people, rather than facing them, where seating arrangements allow</li>
-  <li>face away from each other</li>
-  <li>consider seating arrangements to maximise distance between people in the vehicle</li>
-  <li>clean your car between journeys using standard cleaning products - make sure you clean door handles and other areas that people may touch</li>
-  <li>ask the driver and passengers to <a href="#face-coverings" class="govuk-link">wear a face covering</a>
+  <li>opening windows for ventilation</li>
+  <li>travelling side by side or behind other people, rather than facing them, where seating arrangements allow</li>
+  <li>facing away from each other</li>
+  <li>considering seating arrangements to maximise distance between people in the vehicle</li>
+  <li>cleaning your car between journeys using standard cleaning products - make sure you clean door handles and other areas that people may touch</li>
+  <li>asking the driver and passengers to <a href="#face-coverings" class="govuk-link">wear a face covering</a>
 </li>
 </ul>
 
@@ -417,7 +431,7 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 <h2 id="public-transport">Public transport</h2>
 
-<p>You must observe <a href="#social-contact" class="govuk-link">social contact rules</a> when travelling on public transport in England.</p>
+<p>You must observe <a href="#social-contact" class="govuk-link">social contact rules</a> relevant to the local COVID alert level when travelling on public transport in England.</p>
 
 <p>You must wear a <a href="#face-coverings" class="govuk-link">face covering</a> on public transport and in substantially enclosed areas of transport hubs in England. You will be breaking the law if you fail to do so and could be fined.</p>
 
@@ -547,7 +561,7 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 <h2 id="taxis-and-private-hire-vehicles">Taxis and private hire vehicles</h2>
 
-<p>You must observe <a href="#social-contact" class="govuk-link">social contact rules</a> when using taxis and private hire vehicles in England.</p>
+<p>You must observe <a href="#social-contact" class="govuk-link">social contact rules</a> relevant to the local COVID alert level when using taxis and private hire vehicles in England.</p>
 
 <p>You must wear a <a href="#face-coverings" class="govuk-link">face covering</a> when using taxis or private hire vehicles. You will be breaking the law if you fail to do so and could be fined. A taxi driver or private hire vehicle operator will be entitled to refuse to accept you if you do not wear a face covering.</p>
 
@@ -774,6 +788,7 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 <ul>
   <li>can you walk or cycle to your destination?</li>
+  <li>have you <a href="https://www.gov.uk/find-coronavirus-local-restrictions" class="govuk-link">checked the local COVID alert level</a> for your area and the area you are travelling to?</li>
   <li>have you checked the latest travel advice from your transport operator?</li>
   <li>have you booked your travel ticket online, bought a pass or checked if contactless payment is possible?</li>
   <li>have you planned your journey to minimise crowded areas and allow for delays?</li>
@@ -795,7 +810,7 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 <h2 id="safer-travel-information-sheet">Safer travel information sheet</h2>
 
-<section class="attachment embedded" id="attachment_4613761">
+<section class="attachment embedded" id="attachment_4620864">
   <div class="attachment-thumb">
       <a class="govuk-link" tabindex="-1" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/901694/covid-19-passenger-guidance-infographic.pdf"><img alt src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/901694/thumbnail_covid-19-passenger-guidance-infographic.pdf.png"></img></a>
   </div>
@@ -806,7 +821,7 @@ Please tell us what format you need. It will help us if you say what assistive t
     </p>
 
 
-      <div data-module="toggle" class="accessibility-warning" id="attachment-4613761-accessibility-help">
+      <div data-module="toggle" class="accessibility-warning" id="attachment-4620864-accessibility-help">
         <p>This file may not be suitable for users of assistive technology.</p>
         
   <summary class="govuk-details__summary">
@@ -837,10 +852,14 @@ Please tell us what format you need. It will help us if you say what assistive t
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 May 2020
-    <br></br>Last updated 13 October 2020
+    <br></br>Last updated 14 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-14T00:15:04.000+01:00">14 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added information on local COVID alert levels.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-13T07:54:38.000+01:00">13 October 2020</time>
               <p class="app-c-published-dates__change-note">Adding instructions about using the NHS COVID-19 app.</p>
@@ -929,33 +948,32 @@ Please tell us what format you need. It will help us if you say what assistive t
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-a83e2703" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-467f34b3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a83e2703" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-467f34b3" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do" data-track-options="{"dimension28":"5","dimension29":"Coronavirus outbreak FAQs: what you can and can’t do"}" href="/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do">Coronavirus outbreak FAQs: what you can and can’t do</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/staying-alert-and-safe-social-distancing" data-track-options="{"dimension28":"5","dimension29":"Staying alert and safe"}" href="/government/publications/staying-alert-and-safe-social-distancing">Staying alert and safe</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): Meeting with others safely (social distancing)"}" href="/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing">Coronavirus (COVID-19): Meeting with others safely (social distancing)</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/making-a-support-bubble-with-another-household" data-track-options="{"dimension28":"5","dimension29":"Making a support bubble with another household"}" href="/guidance/making-a-support-bubble-with-another-household">Making a support bubble with another household</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19" data-track-options="{"dimension28":"5","dimension29":"Local restrictions: areas with an outbreak of coronavirus (COVID-19)"}" href="/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19">Local restrictions: areas with an outbreak of coronavirus (COVID-19)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do" data-track-options="{"dimension28":"4","dimension29":"Coronavirus outbreak FAQs: what you can and can’t do"}" href="/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do">Coronavirus outbreak FAQs: what you can and can’t do</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/staying-alert-and-safe" data-track-options="{"dimension28":"4","dimension29":"Staying alert and safe"}" href="/government/publications/staying-alert-and-safe">Staying alert and safe</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing" data-track-options="{"dimension28":"4","dimension29":"Coronavirus (COVID-19): Social distancing"}" href="/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing">Coronavirus (COVID-19): Social distancing</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/making-a-support-bubble-with-another-household" data-track-options="{"dimension28":"4","dimension29":"Making a support bubble with another household"}" href="/guidance/making-a-support-bubble-with-another-household">Making a support bubble with another household</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-a83e2703" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-467f34b3" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-a83e2703" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-467f34b3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -968,9 +986,9 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-a83e2703" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-467f34b3" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-a83e2703" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-467f34b3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1003,9 +1021,9 @@ Please tell us what format you need. It will help us if you say what assistive t
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e0701e23" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-bf1099bd" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-e0701e23" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-bf1099bd" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
