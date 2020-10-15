@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 October 2020
+    <br></br>Last updated 15 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -93,6 +95,59 @@
 
 <h2 id="local-covid-alert-level-high">Local COVID alert level: high</h2>
 
+<div class="call-to-action">
+<p>The following areas will be in local COVID alert level: high from midnight on Saturday 17 October.</p>
+
+<p><a href="#currently-high" class="govuk-link">See the areas that are currently in local COVID alert level: high</a>.</p>
+</div>
+
+<h3 id="cumbria">Cumbria</h3>
+<ul>
+  <li>Barrow-in-Furness</li>
+</ul>
+
+<h3 id="derbyshire">Derbyshire</h3>
+<ul>
+  <li>Chesterfield</li>
+  <li>Erewash</li>
+  <li>North East Derbyshire</li>
+</ul>
+
+<h3 id="essex">Essex</h3>
+<ul>
+  <li>Basildon</li>
+  <li>Braintree</li>
+  <li>Brentwood</li>
+  <li>Castle Point</li>
+  <li>Chelmsford</li>
+  <li>Colchester</li>
+  <li>Epping Forest</li>
+  <li>Harlow</li>
+  <li>Maldon</li>
+  <li>Rochford</li>
+  <li>Tendring</li>
+  <li>Uttlesford</li>
+</ul>
+
+<h3 id="london">London</h3>
+<ul>
+  <li>all 32 boroughs plus the City of London</li>
+</ul>
+
+<h3 id="surrey">Surrey</h3>
+<ul>
+  <li>Elmbridge</li>
+</ul>
+
+<h3 id="york">York</h3>
+<ul>
+  <li>York</li>
+</ul>
+
+<div class="call-to-action" id="currently-high">
+<p>The following areas are currently in local COVID alert level: high.</p>
+</div>
+
 <h3 id="cheshire">Cheshire</h3>
 
 <ul>
@@ -116,7 +171,7 @@
   <li>Oldham</li>
 </ul>
 
-<h3 id="derbyshire">Derbyshire</h3>
+<h3 id="derbyshire-1">Derbyshire</h3>
 
 <ul>
   <li>High Peak ‒ the wards of:
@@ -240,6 +295,8 @@
 
 <h3 id="liverpool-city-region">Liverpool City Region</h3>
 
+<p>Find out what you can and cannot do if you live, work or travel in the <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-liverpool-city-region" class="govuk-link">Liverpool City Region</a>.</p>
+
 <ul>
   <li>Liverpool</li>
   <li>Knowsley</li>
@@ -253,8 +310,22 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 October 2020
+    <br></br>Last updated 15 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-15T13:44:31.000+01:00">15 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added new local areas to the local COVID alert level: high list.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-12T19:25:00.000+01:00">12 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -279,28 +350,6 @@
 
 
     
-  <div class="gem-c-related-navigation">
-
-      <h2 id="related-nav-related_items-58ddf5ff" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
-        Related content
-      </h2>
-
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-58ddf5ff" data-module="gem-toggle">
-
-    <h3 id="related-nav-collections-58ddf5ff" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19" data-track-options="{"dimension28":"1","dimension29":"Local restrictions: areas with an outbreak of coronavirus (COVID-19)"}" href="/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19">Local restrictions: areas with an outbreak of coronavirus (COVID-19)</a></li>
-
-  </ul>
-</nav>
-
-  </div>
 
 
 
@@ -322,9 +371,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-23e5f432" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-03ed5afb" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-23e5f432" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-03ed5afb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
