@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 3 July 2020
-    <br></br>Last updated 8 October 2020
+    <br></br>Last updated 15 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -119,22 +119,21 @@
   <li><a href="https://www.gov.uk/foreign-travel-advice/germany" class="govuk-link">Germany</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/gibraltar" class="govuk-link">Gibraltar</a></li>
   <li>
-<a href="https://www.gov.uk/foreign-travel-advice/greece" class="govuk-link">Greece</a> (not including Mykonos and Crete)</li>
+<a href="https://www.gov.uk/foreign-travel-advice/greece" class="govuk-link">Greece</a> (not including Mykonos)</li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/ireland" class="govuk-link">Ireland</a></li>
-  <li><a href="https://www.gov.uk/foreign-travel-advice/italy" class="govuk-link">Italy</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/latvia" class="govuk-link">Latvia</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/liechtenstein" class="govuk-link">Liechtenstein</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/lithuania" class="govuk-link">Lithuania</a></li>
   <li>
 <a href="https://www.gov.uk/foreign-travel-advice/portugal" class="govuk-link">Madeira and the Azores</a> (not including mainland Portugal)</li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/norway" class="govuk-link">Norway</a></li>
-  <li><a href="https://www.gov.uk/foreign-travel-advice/san-marino" class="govuk-link">San Marino</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/sweden" class="govuk-link">Sweden</a></li>
 </ul>
 
 <h3 id="americas">Americas</h3>
 
 <ul>
+  <li><a href="https://www.gov.uk/foreign-travel-advice/anguilla" class="govuk-link">Anguilla</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda" class="govuk-link">Antigua & Barbuda</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/barbados" class="govuk-link">Barbados</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/bermuda" class="govuk-link">Bermuda</a></li>
@@ -145,7 +144,6 @@
   <li><a href="https://www.gov.uk/foreign-travel-advice/dominica" class="govuk-link">Dominica</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/falkland-islands" class="govuk-link">Falkland Islands</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/grenada" class="govuk-link">Grenada</a></li>
-  <li><a href="https://www.gov.uk/foreign-travel-advice/martinique" class="govuk-link">Martinique</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/montserrat" class="govuk-link">Montserrat</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/south-georgia-and-south-sandwich-islands" class="govuk-link">South Georgia & the South Sandwich Islands</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy" class="govuk-link">St Barthélemy</a></li>
@@ -197,6 +195,8 @@
 
 <h2 id="returning-to-the-uk-travel-corridors-list">Returning to the UK: travel corridors list</h2>
 
+<p>The countries listed on this page are exempt from our global advice against non-essential international travel. However you may still need to self-isolate when you return to the UK if the country is not also on the ‘travel corridors’ list.</p>
+
 <p>To find out about ‘travel corridor’ countries, territories or regions you may be able to return from without having to self-isolate, view the latest self-isolation guidance and list of travel corridors for:</p>
 
 <ul>
@@ -215,10 +215,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 3 July 2020
-    <br></br>Last updated 8 October 2020
+    <br></br>Last updated 15 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-15T17:31:13.000+01:00">15 October 2020</time>
+              <p class="app-c-published-dates__change-note">Martinique, Italy and San Marino are no longer on the travel advice exemptions list, following the latest assessment of COVID-19 risks. The FCDO advises against all non-essential travel to these countries and territories.  Anguilla, the State of Victoria in Australia and the Greek Island of Crete have been added to the travel advice exemptions list. Read our guidance before planning any travel.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T17:32:54.000+01:00">8 October 2020</time>
               <p class="app-c-published-dates__change-note">Mauritius, and the Greek islands of Lesvos, Milos (Serifos), Tinos, Santorini and Zakynthos have been added to the travel advice exemptions list, following the latest assessment of COVID-19 risks. The FCDO no longer advises against all non-essential travel to this country and islands. Read our guidance before planning any travel.</p>
@@ -319,32 +323,33 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-04bc4f3d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-2a7a5256" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-04bc4f3d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2a7a5256" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/travel-advice-novel-coronavirus" data-track-options="{"dimension28":"4","dimension29":"Travel advice: coronavirus (COVID-19)"}" href="/guidance/travel-advice-novel-coronavirus">Travel advice: coronavirus (COVID-19)</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/coronavirus-covid-19-travel-corridors" data-track-options="{"dimension28":"4","dimension29":"Coronavirus (COVID-19): travel corridors"}" href="/guidance/coronavirus-covid-19-travel-corridors">Coronavirus (COVID-19): travel corridors</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/provide-journey-contact-details-before-travel-uk" data-track-options="{"dimension28":"4","dimension29":"Provide your journey and contact details before you travel to the UK"}" href="/provide-journey-contact-details-before-travel-uk">Provide your journey and contact details before you travel to the UK</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules" data-track-options="{"dimension28":"4","dimension29":"Coronavirus (COVID-19): jobs that qualify for travel exemptions"}" href="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules">Coronavirus (COVID-19): jobs that qualify for travel exemptions</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/travel-advice-novel-coronavirus" data-track-options="{"dimension28":"5","dimension29":"Travel advice: coronavirus (COVID-19)"}" href="/guidance/travel-advice-novel-coronavirus">Travel advice: coronavirus (COVID-19)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/coronavirus-covid-19-travel-corridors" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): travel corridors"}" href="/guidance/coronavirus-covid-19-travel-corridors">Coronavirus (COVID-19): travel corridors</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/provide-journey-contact-details-before-travel-uk" data-track-options="{"dimension28":"5","dimension29":"Provide your journey and contact details before you travel to the UK"}" href="/provide-journey-contact-details-before-travel-uk">Provide your journey and contact details before you travel to the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): jobs that qualify for travel exemptions"}" href="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules">Coronavirus (COVID-19): jobs that qualify for travel exemptions</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/face-coverings-when-to-wear-one-and-how-to-make-your-own" data-track-options="{"dimension28":"5","dimension29":"Face coverings: when to wear one, exemptions, and how to make your own"}" href="/government/publications/face-coverings-when-to-wear-one-and-how-to-make-your-own">Face coverings: when to wear one, exemptions, and how to make your own</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-04bc4f3d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-2a7a5256" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-04bc4f3d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-2a7a5256" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -356,9 +361,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-04bc4f3d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2a7a5256" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-04bc4f3d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-2a7a5256" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -390,9 +395,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-94788840" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6e168e0c" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-94788840" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-6e168e0c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
