@@ -24,7 +24,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 21 March 2020
-    <br></br>Last updated 13 October 2020
+    <br></br>Last updated 15 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -69,7 +69,7 @@
 
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_4619349">
+      <section class="attachment embedded" id="attachment_4627434">
   <div class="attachment-thumb">
       <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19"><img alt src="https://www.gov.uk/assets/whitehall/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
@@ -117,10 +117,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 21 March 2020
-    <br></br>Last updated 13 October 2020
+    <br></br>Last updated 15 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-15T14:37:21.000+01:00">15 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added search by postcode link.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-13T11:00:20.000+01:00">13 October 2020</time>
               <p class="app-c-published-dates__change-note">Guidance updated regarding local COVID alert levels. Temporarily removed translations, easy-read guide and guidance for young people.</p>
@@ -239,33 +243,32 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-1f947166" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-6ca5379f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1f947166" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6ca5379f" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/covid-19-stay-at-home-guidance" data-track-options="{"dimension28":"5","dimension29":"COVID-19: guidance for households with possible coronavirus infection"}" href="/government/publications/covid-19-stay-at-home-guidance">COVID-19: guidance for households with possible coronavirus infection</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/coronavirus-covid-19-list-of-guidance" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): guidance"}" href="/government/collections/coronavirus-covid-19-list-of-guidance">Coronavirus (COVID-19): guidance</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/guidance-for-contacts-of-people-with-possible-or-confirmed-coronavirus-covid-19-infection-who-do-not-live-with-the-person" data-track-options="{"dimension28":"5","dimension29":"Guidance for contacts of people with confirmed coronavirus (COVID-19) infection who do not live with the person"}" href="/government/publications/guidance-for-contacts-of-people-with-possible-or-confirmed-coronavirus-covid-19-infection-who-do-not-live-with-the-person">Guidance for contacts of people with confirmed coronavirus (COVID-19) infection who do not live with the person</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/making-a-support-bubble-with-another-household" data-track-options="{"dimension28":"5","dimension29":"Making a support bubble with another household"}" href="/guidance/making-a-support-bubble-with-another-household">Making a support bubble with another household</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/staying-alert-and-safe-social-distancing" data-track-options="{"dimension28":"5","dimension29":"Staying alert and safe"}" href="/government/publications/staying-alert-and-safe-social-distancing">Staying alert and safe</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/covid-19-stay-at-home-guidance" data-track-options="{"dimension28":"4","dimension29":"COVID-19: guidance for households with possible coronavirus infection"}" href="/government/publications/covid-19-stay-at-home-guidance">COVID-19: guidance for households with possible coronavirus infection</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/coronavirus-covid-19-list-of-guidance" data-track-options="{"dimension28":"4","dimension29":"Coronavirus (COVID-19): guidance"}" href="/government/collections/coronavirus-covid-19-list-of-guidance">Coronavirus (COVID-19): guidance</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/guidance-for-contacts-of-people-with-possible-or-confirmed-coronavirus-covid-19-infection-who-do-not-live-with-the-person" data-track-options="{"dimension28":"4","dimension29":"Guidance for contacts of people with confirmed coronavirus (COVID-19) infection who do not live with the person"}" href="/government/publications/guidance-for-contacts-of-people-with-possible-or-confirmed-coronavirus-covid-19-infection-who-do-not-live-with-the-person">Guidance for contacts of people with confirmed coronavirus (COVID-19) infection who do not live with the person</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/making-a-support-bubble-with-another-household" data-track-options="{"dimension28":"4","dimension29":"Making a support bubble with another household"}" href="/guidance/making-a-support-bubble-with-another-household">Making a support bubble with another household</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1f947166" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-6ca5379f" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-1f947166" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-6ca5379f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -298,9 +301,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4766381f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-bbc8d71d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-4766381f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-bbc8d71d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
