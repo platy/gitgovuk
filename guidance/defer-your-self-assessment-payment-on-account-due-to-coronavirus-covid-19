@@ -36,7 +36,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 May 2020
-    <br></br>Last updated 12 October 2020
+    <br></br>Last updated 15 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -117,7 +117,7 @@
 
 <p>Your June 2020 Self Assessment statement will only show the revised due date for the July 2020 payment on account, plus any payments due in the next 45 days.</p>
 
-<h3 id="if-you-submit-your-2020-to-2021-return-before-december-2019-to-2020-statements-are-issued">If you submit your 2020 to 2021 return before December 2019 to 2020 statements are issued</h3>
+<h3 id="if-you-submit-your-2019-to-2020-return-before-the-december-2020-statements-are-issued">If you submit your 2019 to 2020 return before the December 2020 statements are issued</h3>
 
 <p>Your December statement will show all payments due on 31 January 2021, these could be:</p>
 
@@ -188,10 +188,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 May 2020
-    <br></br>Last updated 12 October 2020
+    <br></br>Last updated 15 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-15T09:21:55.000+01:00">15 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added translation</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-12T15:02:52.000+01:00">12 October 2020</time>
               <p class="app-c-published-dates__change-note">We have updated the guidance on what you need to do after 31 July 2020 if you chose to defer your second payment on account for the 2019 to 2020 tax year.</p>
@@ -232,14 +236,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-07634a0b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-94ed5ad6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-07634a0b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-94ed5ad6" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -256,9 +260,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-07634a0b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-94ed5ad6" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-07634a0b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-94ed5ad6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -290,9 +294,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0bc71287" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-fee0dec8" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-0bc71287" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-fee0dec8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
