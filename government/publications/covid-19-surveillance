@@ -24,6 +24,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 13 October 2020
+    <br></br>Last updated 15 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -61,7 +63,7 @@
 
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_4606263">
+      <section class="attachment embedded" id="attachment_4621942">
   <div class="attachment-thumb">
       <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/covid-19-surveillance/covid-19-surveillance"><img alt src="https://www.gov.uk/assets/whitehall/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
@@ -98,8 +100,22 @@
       </section>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 13 October 2020
+    <br></br>Last updated 15 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-15T13:35:12.000+01:00">15 October 2020</time>
+              <p class="app-c-published-dates__change-note">Links added to the document: press releases to REACT-1 and related content links at the end of the document.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-13T16:00:00.000+01:00">13 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -131,14 +147,15 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1ffcc379" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-167af577" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1ffcc379" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-167af577" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/coronavirus-taxon" data-track-options="{"dimension28":"1","dimension29":"Coronavirus (COVID-19)"}" href="/coronavirus-taxon">Coronavirus (COVID-19)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/health-and-social-care/health-protection-infectious-diseases" data-track-options="{"dimension28":"2","dimension29":"Infectious diseases"}" href="/health-and-social-care/health-protection-infectious-diseases">Infectious diseases</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/coronavirus-taxon/health-and-wellbeing" data-track-options="{"dimension28":"2","dimension29":"Health and wellbeing during coronavirus"}" href="/coronavirus-taxon/health-and-wellbeing">Health and wellbeing during coronavirus</a></li>
 
   </ul>
 </nav>
