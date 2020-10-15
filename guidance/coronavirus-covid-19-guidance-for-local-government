@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 March 2020
-    <br></br>Last updated 8 October 2020
+    <br></br>Last updated 15 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -187,6 +187,7 @@
 <h2 id="homelessness-and-rough-sleeping">Homelessness and rough sleeping</h2>
 
 <ul>
+  <li><a href="https://www.gov.uk/government/news/rough-sleepers-to-be-helped-to-keep-safe-this-winter" class="govuk-link">Announcement: Rough sleepers to be helped to keep safe this winter</a></li>
   <li><a href="https://www.gov.uk/government/publications/next-steps-accommodation-programme-guidance-and-proposal-templates" class="govuk-link">Guidance: Next Steps Accommodation Programme</a></li>
   <li><a href="https://www.gov.uk/government/news/274-councils-set-to-receive-housing-support-for-vulnerable-people" class="govuk-link">Announcement: 274 councils set to receive housing support for vulnerable people</a></li>
   <li><a href="https://www.gov.uk/government/publications/covid-19-guidance-on-services-for-people-experiencing-rough-sleeping" class="govuk-link">Guidance: Hostel services for people experiencing homelessness and rough sleeping</a></li>
@@ -242,14 +243,14 @@
 <h2 id="local-lockdown">Local lockdown</h2>
 
 <ul>
+  <li><a href="https://www.gov.uk/guidance/local-covid-alert-levels-what-you-need-to-know" class="govuk-link">Guidance: Local COVID alert levels: what you need to know</a></li>
+  <li><a href="https://www.gov.uk/government/news/prime-minister-announces-new-local-covid-alert-levels" class="govuk-link">Announcement: Prime Minister announces new local COVID Alert Levels</a></li>
   <li><a href="https://www.gov.uk/government/publications/local-covid-19-outbreaks-lessons-learnt-and-good-practice" class="govuk-link">Guidance: Local COVID-19 outbreaks: lessons learnt and good practice</a></li>
   <li><a href="https://www.gov.uk/guidance/guidance-on-holidays-in-areas-with-local-coronavirus-covid-19-restrictions" class="govuk-link">Guidance: Holidays in areas with local coronavirus restrictions</a></li>
-  <li><a href="https://www.gov.uk/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19" class="govuk-link">Collection: Local restrictions and managing a local outbreak</a></li>
   <li><a href="https://www.gov.uk/government/publications/draft-options-for-regional-or-local-coronavirus-interventions" class="govuk-link">Guidance: Draft options for regional or local coronavirus interventions</a></li>
   <li><a href="https://www.gov.uk/guidance/governments-approach-to-managing-local-coronavirus-outbreaks" class="govuk-link">Guidance: Government’s approach to managing local coronavirus outbreaks</a></li>
   <li><a href="https://www.gov.uk/government/publications/containing-and-managing-local-coronavirus-covid-19-outbreaks" class="govuk-link">Guidance: Containing and managing local coronavirus outbreaks</a></li>
   <li><a href="https://www.gov.uk/government/publications/local-lockdowns-guidance-for-education-and-childcare-settings" class="govuk-link">Guidance: What educational and childcare settings need to do if there is a local lockdown</a></li>
-  <li><a href="https://www.gov.uk/government/publications/local-lockdown-guidance-for-social-distancing" class="govuk-link">Guidance: Local lockdown social distancing</a></li>
   <li><a href="https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-3-july-2020" class="govuk-link">Speech: Prime Minister’s statement on coronavirus 3 July 2020</a></li>
 </ul>
 
@@ -322,6 +323,7 @@
 <h2 id="shielding-and-volunteering">Shielding and volunteering</h2>
 
 <ul>
+  <li><a href="https://www.gov.uk/government/news/clinically-extremely-vulnerable-receive-updated-advice-tailored-to-local-covid-alert-levels" class="govuk-link">Announcement: Clinically extremely vulnerable receive updated advice tailored to local COVID alert levels</a></li>
   <li><a href="https://www.gov.uk/government/news/majority-of-children-no-longer-need-to-shield" class="govuk-link">Announcement: Majority of children no longer need to shield</a></li>
   <li><a href="https://www.gov.uk/government/news/plans-to-ease-guidance-for-over-2-million-shielding" class="govuk-link">Announcement: Plans to ease guidance for those shielding</a></li>
   <li><a href="https://www.gov.uk/government/news/prime-minister-hails-resilience-of-shielders-as-restrictions-set-to-ease" class="govuk-link">Announcement: Those shielding to be able to spend time outdoors</a></li>
@@ -382,6 +384,7 @@
 <h2 id="other">Other</h2>
 
 <ul>
+  <li><a href="https://www.gov.uk/government/publications/local-authority-preparations-for-remembrance-sunday" class="govuk-link">Guidance: Local authority preparations for Remembrance Sunday</a></li>
   <li><a href="https://www.gov.uk/government/publications/transport-demand-management-toolkit-for-local-authorities" class="govuk-link">Guidance: Transport demand management toolkit</a></li>
   <li><a href="https://www.gov.uk/government/publications/covid-19-guidance-for-the-safe-use-of-places-of-worship-from-4-july" class="govuk-link">Guidance: Safe use of places of worship from 4 July</a></li>
   <li><a href="https://www.gov.uk/government/publications/covid-19-guidance-for-small-marriages-and-civil-partnerships" class="govuk-link">Guidance: Small marriages and civil partnerships</a></li>
@@ -417,10 +420,20 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 March 2020
-    <br></br>Last updated 8 October 2020
+    <br></br>Last updated 15 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-15T12:08:39.000+01:00">15 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added links to:
+
+Guidance: Local COVID alert levels: what you need to know;
+Announcement: Prime Minister announces new local COVID Alert Levels;
+Announcement: Clinically extremely vulnerable receive updated advice tailored to local COVID alert levels;
+Announcement: Rough sleepers to be helped to keep safe this winter;
+Guidance: Local authority preparations for Remembrance Sunday.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T17:25:45.000+01:00">8 October 2020</time>
               <p class="app-c-published-dates__change-note">Added links:
@@ -826,24 +839,24 @@ COVID-19: residential care, supported living and home care guidance.</p>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-da7d740e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b07ff1b0" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-da7d740e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b07ff1b0" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/covid-19-emergency-funding-for-local-government" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): emergency funding for local government"}" href="/government/publications/covid-19-emergency-funding-for-local-government">Coronavirus (COVID-19): emergency funding for local government</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/independent-inspection-of-rotherham-metropolitan-borough-council" data-track-options="{"dimension28":"5","dimension29":"Independent inspection of Rotherham metropolitan borough council"}" href="/government/publications/independent-inspection-of-rotherham-metropolitan-borough-council">Independent inspection of Rotherham metropolitan borough council</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/governments-approach-to-managing-local-coronavirus-outbreaks" data-track-options="{"dimension28":"5","dimension29":"Government's approach to managing local coronavirus outbreaks"}" href="/guidance/governments-approach-to-managing-local-coronavirus-outbreaks">Government's approach to managing local coronavirus outbreaks</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/draft-options-for-regional-or-local-coronavirus-interventions" data-track-options="{"dimension28":"5","dimension29":"Draft options for regional or local coronavirus interventions"}" href="/government/publications/draft-options-for-regional-or-local-coronavirus-interventions">Draft options for regional or local coronavirus interventions</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/local-government-income-compensation-scheme-for-lost-sales-fees-and-charges" data-track-options="{"dimension28":"5","dimension29":"Local government income compensation scheme for lost sales, fees and charges"}" href="/guidance/local-government-income-compensation-scheme-for-lost-sales-fees-and-charges">Local government income compensation scheme for lost sales, fees and charges</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/independent-inspection-of-rotherham-metropolitan-borough-council" data-track-options="{"dimension28":"5","dimension29":"Independent inspection of Rotherham metropolitan borough council"}" href="/government/publications/independent-inspection-of-rotherham-metropolitan-borough-council">Independent inspection of Rotherham metropolitan borough council</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/covid-19-guidance-for-managing-beaches-the-countryside-and-coastal-areas" data-track-options="{"dimension28":"5","dimension29":"COVID-19: Guidance for managing beaches, the countryside and coastal areas"}" href="/government/publications/covid-19-guidance-for-managing-beaches-the-countryside-and-coastal-areas">COVID-19: Guidance for managing beaches, the countryside and coastal areas</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/local-covid-19-outbreaks-lessons-learnt-and-good-practice" data-track-options="{"dimension28":"5","dimension29":"Local COVID-19 outbreaks: lessons learnt and good practice"}" href="/government/publications/local-covid-19-outbreaks-lessons-learnt-and-good-practice">Local COVID-19 outbreaks: lessons learnt and good practice</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/coronavirus-covid-19-letter-to-councils-on-the-re-opening-of-public-toilets-and-tips" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): letter to councils on the re-opening of public toilets and tips"}" href="/government/publications/coronavirus-covid-19-letter-to-councils-on-the-re-opening-of-public-toilets-and-tips">Coronavirus (COVID-19): letter to councils on the re-opening of public toilets and tips</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/coastal-communities" data-track-options="{"dimension28":"5","dimension29":"Coastal communities"}" href="/government/collections/coastal-communities">Coastal communities</a></li>
 
   </ul>
 </nav>
@@ -870,9 +883,9 @@ COVID-19: residential care, supported living and home care guidance.</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2aa293f4" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-19cb833b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2aa293f4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-19cb833b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
