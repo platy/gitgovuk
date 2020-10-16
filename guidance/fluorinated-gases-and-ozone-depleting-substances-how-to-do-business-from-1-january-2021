@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 6 February 2020
-    <br></br>Last updated 8 October 2020
+    <br></br>Last updated 15 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -72,7 +72,13 @@
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
-    
+      <div class="app-c-important-metadata app-c-important-metadata--bottom-margin">
+    <dl data-module="track-click">
+      <dt class="app-c-important-metadata__term">Applies to: </dt>
+      <dd class="app-c-important-metadata__definition">Wales, England, and Scotland (see guidance for <a class="govuk-link app-link" href="https://www.daera-ni.gov.uk/articles/fluorinated-greenhouse-gases">Northern Ireland</a>)</dd>
+    </dl>
+  </div>
+
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
@@ -82,20 +88,36 @@
 </h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#reporting-your-f-gas-activity" data-track-options="{"dimension29":"Reporting your F gas activity"}" href="#reporting-your-f-gas-activity">Reporting your F gas activity</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#gb-regulation-of-f-gas-and-ods" data-track-options="{"dimension29":"GB regulation of F gas and ODS\n"}" href="#gb-regulation-of-f-gas-and-ods">GB regulation of F gas and ODS
+</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#hfc-exports-rejected-at-an-eu-border-control-post-bcp" data-track-options="{"dimension29":"HFC exports rejected at an EU border control post (BCP)"}" href="#hfc-exports-rejected-at-an-eu-border-control-post-bcp">HFC exports rejected at an EU border control post (BCP)</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#new-f-gas-hydrofluorocarbons---hfcs-quota-system" data-track-options="{"dimension29":"New F gas (hydrofluorocarbons - HFCs) quota system"}" href="#new-f-gas-hydrofluorocarbons---hfcs-quota-system">New F gas (hydrofluorocarbons - HFCs) quota system</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#reporting-your-ods-activity" data-track-options="{"dimension29":"Reporting your ODS activity"}" href="#reporting-your-ods-activity">Reporting your ODS activity</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#transferring-and-authorising-quota-from-1-january-2021" data-track-options="{"dimension29":"Transferring and authorising quota from 1 January 2021"}" href="#transferring-and-authorising-quota-from-1-january-2021">Transferring and authorising quota from 1 January 2021</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#ods-exports-rejected-by-an-eu-border-control-post" data-track-options="{"dimension29":"\nODS exports rejected by an EU border control post"}" href="#ods-exports-rejected-by-an-eu-border-control-post">
-ODS exports rejected by an EU border control post</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#holding-eu-quota-to-place-hfcs-on-the-eu-market-after-1-january-2021" data-track-options="{"dimension29":"Holding EU quota to place HFCs on the EU market after 1 January 2021"}" href="#holding-eu-quota-to-place-hfcs-on-the-eu-market-after-1-january-2021">Holding EU quota to place HFCs on the EU market after 1 January 2021</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#hfc-exports-rejected-at-an-eu-border-control-post-bcp" data-track-options="{"dimension29":"HFC exports rejected at an EU border control post (BCP)"}" href="#hfc-exports-rejected-at-an-eu-border-control-post-bcp">HFC exports rejected at an EU border control post (BCP)</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#reporting-f-gas-activities" data-track-options="{"dimension29":"Reporting F gas activities"}" href="#reporting-f-gas-activities">Reporting F gas activities</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#other-f-gas-requirements" data-track-options="{"dimension29":"Other F gas requirements"}" href="#other-f-gas-requirements">Other F gas requirements</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#ods" data-track-options="{"dimension29":"ODS"}" href="#ods">ODS</a>
 
         </li>
     </ol>
@@ -105,18 +127,320 @@ ODS exports rejected by an EU border control post</a>
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<h2 id="reporting-your-f-gas-activity">Reporting your F gas activity</h2>
+<p>Great Britain (England, Scotland and Wales) will regulate fluorinated greenhouse gases (F gas) and ozone-depleting substances (<abbr title="ozone-depleting substances">ODS</abbr>) from 1 January 2021.</p>
 
-<p>You must report your F gas activities if each year you:</p>
+<p>F gas and <abbr title="ozone-depleting substances">ODS</abbr> are substances used mainly as refrigerants, but also in other products including:</p>
 
 <ul>
-  <li>produce, import or export one or more metric tonnes of F gas, or a quantity of F gas equivalent to 100 tonnes or more of CO2</li>
-  <li>destroy F gas equivalent to one metric tonne or 1,000 tonnes or more of CO2</li>
-  <li>use F gas as feedstock equivalent to 1000 tonnes or more of CO2</li>
-  <li>place pre-charged products and equipment containing the equivalent of 500 tonnes or more of CO2 on the market</li>
+  <li>medical inhalers</li>
+  <li>fire extinguishers</li>
+  <li>insulation foams</li>
+  <li>solvents</li>
+  <li>feedstocks for the manufacture of other chemicalsNew F gas</li>
 </ul>
 
-<p>You must <a rel="external" href="https://webgate.ec.europa.eu/ods2/resources/domain/resolve" class="govuk-link">report your F gas activities from 1 Jan 2020 to 31 December 2020</a> to the European Commission by 31 March 2021.</p>
+<p>This guide is for businesses and individuals active in Great Britain (GB) who currently need to follow EU regulations:</p>
+
+<ul>
+  <li><a rel="external" href="https://www.eea.europa.eu/policy-documents/regulation-eu-no-517-2014" class="govuk-link">517/2014 on fluorinated greenhouse gases</a></li>
+  <li><a rel="external" href="https://www.eea.europa.eu/policy-documents/regulation-ec-1005-2009-on" class="govuk-link">1005/2009 on substances that deplete the ozone layer</a></li>
+</ul>
+
+<p>This affects you if you:</p>
+
+<ul>
+  <li>produce, supply, import, export or use bulk F gas or <abbr title="ozone-depleting substances">ODS</abbr> in GB</li>
+  <li>manufacture or import equipment containing F gas or <abbr title="ozone-depleting substances">ODS</abbr> into GB</li>
+</ul>
+
+<p>You can use this guide if you service:</p>
+
+<ul>
+  <li>commercial, industrial and transport refrigeration and air conditioning systems</li>
+  <li>other products containing F gas or <abbr title="ozone-depleting substances">ODS</abbr>
+</li>
+</ul>
+
+<h2 id="gb-regulation-of-f-gas-and-ods">GB regulation of F gas and <abbr title="ozone-depleting substances">ODS</abbr>
+</h2>
+
+<p>EU F gas and <abbr title="ozone-depleting substances">ODS</abbr> regulations will no longer apply in GB from 1 January 2021. Northern Ireland will remain subject to and in the EU F gas and <abbr title="ozone-depleting substances">ODS</abbr> regulations and systems, as set out under the Protocol on Ireland and Northern Ireland.</p>
+
+<p>New GB <a rel="external" href="http://www.legislation.gov.uk/ukdsi/2019/9780111177136" class="govuk-link"><abbr title="ozone-depleting substances">ODS</abbr> and F gas regulations</a> transfer most of the requirements of the EU regulations into UK law.</p>
+
+<p>GB will continue to:</p>
+
+<ul>
+  <li>restrict <abbr title="ozone-depleting substances">ODS</abbr>
+</li>
+  <li>use the same schedule as the EU to phase down <abbr title="hydrofluorocarbons">HFCs</abbr> (hydrofluorocarbons, the most common type of F gas) by 79% by 2030 relative to a 2009 to 2012 baseline</li>
+</ul>
+
+<p>That means new GB F gas quotas will follow the same phase down steps as the EU:</p>
+
+<ul>
+  <li>limited to 63% of the baseline in 2019 and 2020</li>
+  <li>reducing to 45% of the baseline in 2021</li>
+</ul>
+
+<p>Most of the rules for F gas and <abbr title="ozone-depleting substances">ODS</abbr> will not change. However, you will need to use new GB IT systems to:</p>
+
+<ul>
+  <li>manage new GB quotas</li>
+  <li>report on use</li>
+</ul>
+
+<p>You’ll still need to comply with EU regulations on F gas, <abbr title="ozone-depleting substances">ODS</abbr> and products containing them that you place on the EU and Northern Ireland market after 1 January 2021.</p>
+
+<h3 id="devolved-administrations">Devolved administrations</h3>
+
+<p>The Environment Agency will administer the GB system on behalf of England, Scotland and Wales, if it receives the direction of the Scottish and Welsh Governments, from 1 January 2021.</p>
+
+<p>Businesses preparing for 1 January 2021 should continue to work with the Environment Agency to register on the GB system and apply for GB quotas.</p>
+
+<p>The guidance refers to a GB system administered by the Environment Agency. If Scottish and Welsh governments do not direct the Environment Agency to administer GB-wide systems on their behalf, the Environment Agency will pass on information and contact details to the devolved administrations’ regulators.</p>
+
+<p>Updated guidance on arrangements will be published from 1 January 2021.</p>
+
+<h2 id="new-f-gas-hydrofluorocarbons---hfcs-quota-system">New F gas (hydrofluorocarbons - <abbr title="hydrofluorocarbons">HFCs</abbr>) quota system</h2>
+
+<p>Great Britain will leave the EU F gas system and will manage its own F gas quota system from 1 January 2021.</p>
+
+<p>If you produce, import or export <abbr title="hydrofluorocarbons">HFCs</abbr> (the main class of F gases) or products containing 
+<abbr title="hydrofluorocarbons">HFCs</abbr> you’ll need to apply for a:</p>
+
+<ul>
+  <li>GB quota to place them on the GB market</li>
+  <li>EU quota to place them on the EU and Northern Ireland market</li>
+</ul>
+
+<p>Until 31 December 2020 you should continue to use your EU quota to place <abbr title="hydrofluorocarbons">HFCs</abbr> on the UK market.</p>
+
+<p>From 1 January 2021 you’ll need a GB HFC quota if your business places on the GB market <abbr title="hydrofluorocarbons">HFCs</abbr> equivalent to 100 tonnes or more of carbon dioxide (CO2) per year. This total includes any imports to GB from the EU or Northern Ireland.</p>
+
+<p>The regulator will manage a new GB F gas system, including GB HFC quota allocation which you’ll use to:</p>
+
+<ul>
+  <li>apply for a GB quota</li>
+  <li>report on your activities</li>
+</ul>
+
+<p>If you registered before with the Environment Agency’s F gas team in 2019, you’ll receive an email during October about your registration for the new GB F gas system from January 2021.</p>
+
+<p>If you have not previously registered, you can <a rel="external" href="https://register.fluorinated-gas.service.gov.uk/register/index" class="govuk-link">register on the new GB F gas system</a>  yourself.</p>
+
+<h3 id="uses-of-f-gas-exempt-from-quota">Uses of F gas exempt from quota</h3>
+
+<p>You’ll still need to <a rel="external" href="https://register.fluorinated-gas.service.gov.uk/register/index" class="govuk-link">register on the new GB F gas system</a>, but you will not usually need a quota for <abbr title="hydrofluorocarbons">HFCs</abbr> if you:</p>
+
+<ul>
+  <li>import to destroy</li>
+  <li>recycle or reclaim them from within GB</li>
+  <li>produce or import for subsequent export from GB, including to the EU</li>
+  <li>produce or import or use F gas for feedstock, military equipment, semiconductor materials or metered dose inhalers</li>
+</ul>
+
+<h3 id="stocks-of-hfcs-that-you-hold-in-the-gb-on-exit-day">Stocks of <abbr title="hydrofluorocarbons">HFCs</abbr> that you hold in the GB on exit day</h3>
+
+<p>If you intend to supply your existing GB-based HFC stocks to a third party in the GB after 1 January 2021, you:</p>
+
+<ul>
+  <li>do not need to use GB quota if they have already come out of your pre-1 January 2021 EU quota or have been in stock since before 2015</li>
+  <li>do need to use GB quota if you produced or imported them after 31 December 2014 and they have not already come out of pre-1 January 2021 EU quota</li>
+</ul>
+
+<p>If you intend to supply your GB-based HFC stocks to a third party in the EU or Northern Ireland after 1 January 2021, you or your customer need to use post-1 January 2021 EU quota to import them to the EU or Northern Ireland. This applies even if you had already used pre-1 January 2021 EU quota to bring them to the GB.</p>
+
+<h3 id="stocks-of-hfcs-that-you-hold-in-the-eu-and-northern-ireland-on-exit-day">Stocks of <abbr title="hydrofluorocarbons">HFCs</abbr> that you hold in the EU (and Northern Ireland) on exit day</h3>
+
+<p>If you intend to supply your HFC stocks based in the EU (and Northern Ireland) to a customer in GB after 1 January 2021, you’ll need to use GB quota.</p>
+
+<p>This applies even if you had already used EU quota and the <abbr title="hydrofluorocarbons">HFCs</abbr> are were in free circulation in the EU (and Northern Ireland) before 1 January 2021.</p>
+
+<h3 id="applying-for-gb-hfc-quota-as-an-incumbent-quota-holder">Applying for GB HFC quota as an incumbent quota holder</h3>
+
+<p>The Environment Agency will register you on the new GB F gas system and allocate quota to you if all of the following apply:</p>
+
+<ul>
+  <li>you placed <abbr title="hydrofluorocarbons">HFCs</abbr> on the GB market legally in the years 2015 to 2019</li>
+  <li>you provided data to the Environment Agency, giving the quantities of <abbr title="hydrofluorocarbons">HFCs</abbr> you placed on the GB market in those years</li>
+  <li>your business is established within the GB or has appointed an ‘only representative’ which is established in the UK</li>
+</ul>
+
+<p>The Environment Agency will take the view that you’ve placed <abbr title="hydrofluorocarbons">HFCs</abbr> on the GB market if you:</p>
+
+<ul>
+  <li>used your existing EU quota to import <abbr title="hydrofluorocarbons">HFCs</abbr> to GB</li>
+  <li>used your existing EU quota to supply <abbr title="hydrofluorocarbons">HFCs</abbr> to someone in GB</li>
+  <li>did not need to use EU quota to supply <abbr title="hydrofluorocarbons">HFCs</abbr> to someone in GB because it was already in free circulation in the EU27 market and you owned the gas when it entered GB</li>
+</ul>
+
+<p>When you are registered, the Environment Agency will:</p>
+
+<ul>
+  <li>email you with an organisation ID</li>
+  <li>contact you again to tell you how much GB quota you’ll receive from 1 January 2021- this will be the amount of <abbr title="hydrofluorocarbons">HFCs</abbr> that you can place on the GB market in that period</li>
+</ul>
+
+<p>The Environment Agency has asked businesses to provide data on quantities they placed on the GB market for the first time. Email <a href="mailto:f-gassupport@environment-agency.gov.uk" class="govuk-link">f-gassupport@environment-agency.gov.uk</a> if you did not get an email asking you to report data, and both of the following apply:</p>
+
+<ul>
+  <li>you’re an EU quota holder</li>
+  <li>you placed <abbr title="hydrofluorocarbons">HFCs</abbr> on the GB market in 2015, 2016, 2017, 2018 or 2019</li>
+</ul>
+
+<p>If you put <abbr title="hydrofluorocarbons">HFCs</abbr> on the market for the first time in 2019, you may still be classified as a new entrant rather than an incumbent quota holder. This means you’re not automatically eligible for a GB quota and must <a href="#apply-new-entrant" class="govuk-link">apply as a new entrant</a>.</p>
+
+<p>For 2020 and all following years you’ll get a:</p>
+
+<ul>
+  <li>GB quota automatically based on your GB reference value</li>
+  <li>notification each year of your allocation for the following year</li>
+</ul>
+
+<p>As under the EU system, quota reference values will be re-calculated in 2023 and every subsequent 3 years, based on HFC quantities placed on the GB market.</p>
+
+<h3 id="applying-for-gb-hfc-quota-as-a-new-entrant-or-for-additional-hfc-quota">Applying for GB HFC quota as a new entrant or for additional HFC quota</h3>
+
+<p>As with the EU system, a portion of the total quota allocation for the GB will be allocated to those applying for new or additional quota each year.</p>
+
+<p>You can apply for GB quota from this reserve to use from 1 January 2021 if you’re:</p>
+
+<ul>
+  <li>a new entrant - you did not place <abbr title="hydrofluorocarbons">HFCs</abbr> on the GB market in the years 2015 to 2019</li>
+  <li>a GB incumbent quota holder and need additional quota</li>
+</ul>
+
+<p>The amount of GB new entrant quota you get may not be the same as the EU quota you had for 2020.</p>
+
+<p>If you haven’t previously registered with the F gas service run by the Environment Agency you will need to <a rel="external" href="https://register.fluorinated-gas.service.gov.uk/register/index" class="govuk-link">register on the GB F gas system</a> yourself.</p>
+
+<p>When you’ve registered, you can <a rel="external" href="https://apply-quota.fluorinated-gas.service.gov.uk/applyforquota/index" class="govuk-link">apply for F gas quota</a>. In your application you’ll need to specify the types of <abbr title="hydrofluorocarbons">HFCs</abbr> and the quantities you’d like to place on the market.</p>
+
+<p>The registration and application window will open in November and close on or around 15 January 2021. This page will be updated with details when available.</p>
+
+<p>The Environment Agency will then tell you the amount of GB quota you have been allocated. 
+You may get less than you applied for if the total amount which applicants request is more than the reserve.</p>
+
+<p>If you want to apply for GB quota again for subsequent years, you must do this on the GB F gas system each year. The Environment Agency will issue a notice each year of the dates when you can apply.</p>
+
+<p>If the Environment Agency approves your application, you’ll receive an email from the Environment Agency confirming the quantity you have been allocated on the GB F gas system.</p>
+
+<h3 id="how-new-entrants-become-incumbent-quota-holders">How new entrants become incumbent quota holders</h3>
+
+<p>From 2024 and every 3 years after, new entrants will become incumbent quota holders if they:</p>
+
+<ul>
+  <li>placed <abbr title="hydrofluorocarbons">HFCs</abbr> on the GB market in the previous 3 years</li>
+  <li>have reported the quantities on the GB reporting system</li>
+</ul>
+
+<p>The Environment Agency will issue new quota holders with a GB reference value which will automatically entitle them to a GB quota in future years.</p>
+
+<h2 id="transferring-and-authorising-quota-from-1-january-2021">Transferring and authorising quota from 1 January 2021</h2>
+
+<p>You’ll be able to use the new GB F gas system to:</p>
+
+<ul>
+  <li>transfer some or all of your GB quota to another producer or importer based in the GB, or who has an only representative in the UK</li>
+  <li>authorise another company to use some or all of your GB quota for placing pre-charged equipment on the GB market</li>
+</ul>
+
+<p>The type of data you’ll need to enter will be similar to the EU registry requirements.
+Importing <abbr title="hydrofluorocarbons">HFCs</abbr> in pre-charged equipment</p>
+
+<p>If you import each year pre-charged equipment containing a quantity of <abbr title="hydrofluorocarbons">HFCs</abbr> equivalent to 100 tonnes or more of CO2, you must have sufficient GB quota authorisations. This includes imports from the EU.</p>
+
+<p>If you do not, you must get one of the following:</p>
+
+<ul>
+  <li>quota authorisation from a GB quota holder</li>
+  <li>delegated authorisation from another authorisation holder</li>
+</ul>
+
+<p>You’ll need to <a rel="external" href="https://register.fluorinated-gas.service.gov.uk/register/index" class="govuk-link">register on the GB F gas system</a> to receive quota authorisations and delegations.</p>
+
+<h3 id="importing-bulk-hfcs-to-pre-charge-equipment-for-export">Importing bulk <abbr title="hydrofluorocarbons">HFCs</abbr> to pre-charge equipment for export</h3>
+
+<p>If you want to import to the GB bulk <abbr title="hydrofluorocarbons">HFCs</abbr> to pre-charge equipment you’ll need:</p>
+
+<ul>
+  <li>a GB quota to import the bulk gas to the GB</li>
+  <li>EU quota authorisations to export the pre-charged equipment to the EU</li>
+</ul>
+
+<p>If you import F gas to the GB solely for re-export and not for the GB market, you may be able to use the <a href="https://www.gov.uk/guidance/inward-processing" class="govuk-link">inward processing procedure</a>. This would mean you do not need GB quota.</p>
+
+<p>If you get bulk gas from an EU-based producer or importer, they could authorise you to use their EU quota to export equipment back to the EU. This is because they will not need to use their EU quota to send the gas to you.</p>
+
+<p>Other aspects of the requirements for placing pre-charged equipment on the market will be similar to the EU regulation. These include documenting and verifying quota compliance, and a declaration of conformity.</p>
+
+<h3 id="converting-eu-quota-authorisations-into-gb-authorisations">Converting EU quota authorisations into GB authorisations</h3>
+
+<p>You can apply to exchange your unused EU authorisations, including delegated authorisations, for GB authorisations to place pre-charged equipment on the GB market from the 1 January 2021.</p>
+
+<p>You can only exchange EU authorisations held until 31 December 2020.</p>
+
+<p>To do this you will need to:</p>
+
+<ul>
+  <li>
+<a rel="external" href="https://register.fluorinated-gas.service.gov.uk/register/index" class="govuk-link">register on the new GB F gas system</a> to get an organisation ID</li>
+  <li>email <a href="mailto:f-gassupport@environment-agency.gov.uk" class="govuk-link">f-gassupport@environment-agency.gov.uk</a> with the amount you want to convert</li>
+</ul>
+
+<p>If your regulator approves your application they will register the GB authorisations on the GB F gas system in your name.</p>
+
+<p>You must tell the European Commission and your regulator before 31 March 2021 the quantity that you have exchanged.</p>
+
+<p>You may make a request to the European Commission and your appropriate regulator up to two times:</p>
+
+<ul>
+  <li>once before 31 December 2020</li>
+  <li>once during the period 1 January 2021 and 31 March 2021</li>
+</ul>
+
+<p>You must not use the same authorisations in both the GB and EU markets.</p>
+
+<p>When you make your request you must provide independently verified evidence to your regulator that you:</p>
+
+<ul>
+  <li>held a sufficient quantity of unused EU authorisations</li>
+  <li>have notified the European Commission of the quantity exchanged</li>
+</ul>
+
+<p>This evidence must include:</p>
+
+<ul>
+  <li>copies of quota transactions in 2020 and 2021</li>
+  <li>your annual F gas report for 2019 and 2020 as submitted in the EU reporting system</li>
+  <li>confirmation that you notified the European Commission of the amount of quota you will exchange</li>
+</ul>
+
+<p>If you do not provide this evidence to your regulator, your request will not be processed.</p>
+
+<h2 id="holding-eu-quota-to-place-hfcs-on-the-eu-market-after-1-january-2021">Holding EU quota to place <abbr title="hydrofluorocarbons">HFCs</abbr> on the EU market after 1 January 2021</h2>
+
+<p>If you hold, or want to apply for, EU quota to place <abbr title="hydrofluorocarbons">HFCs</abbr> on the EU market, you should continue to follow the <a rel="external" href="https://ec.europa.eu/clima/policies/f-gas/legislation_en" class="govuk-link">EU F gas regulation</a>.</p>
+
+<p>The European Commission will allocate your quota, adjusted to deduct your GB market share, from the point at which the GB leaves the EU system.</p>
+
+<p>To continue to be eligible for EU quota to place <abbr title="hydrofluorocarbons">HFCs</abbr> on the EU market, you’ll need to do one of the following before the GB leaves the EU:</p>
+
+<ul>
+  <li>set up an office in the EU</li>
+  <li>appoint an ‘only representative’ in the EU</li>
+</ul>
+
+<p>To find out how to specify or change an only representative on the EU system:</p>
+
+<ul>
+  <li>email the European Commission helpdesk CLIMA-HFC-REGISTRY@ec.europa.eu</li>
+  <li>read the <a rel="external" href="https://ec.europa.eu/clima/policies/f-gas/reporting_en" class="govuk-link">European Commission’s guide on quota allocation, authorisation and reporting</a>
+</li>
+</ul>
+
+<p>If you’re based outside the UK and EU and have an only representative based in the UK, you must appoint an only representative in the EU to continue to be eligible for EU quota after exit day.</p>
 
 <h2 id="hfc-exports-rejected-at-an-eu-border-control-post-bcp">HFC exports rejected at an EU border control post (BCP)</h2>
 
@@ -159,22 +483,136 @@ ODS exports rejected by an EU border control post</a>
 
 <p>The <abbr title="hydrofluorocarbons">HFCs</abbr> may be destroyed.</p>
 
-<h2 id="reporting-your-ods-activity">Reporting your <abbr title="ozone-depleting substances">ODS</abbr> activity</h2>
+<h2 id="reporting-f-gas-activities">Reporting F gas activities</h2>
 
-<p>You must report your <abbr title="ozone-depleting substances">ODS</abbr> activities if you:</p>
+<p>You must report on the GB F gas reporting system if each year you:</p>
 
 <ul>
-  <li>produce, import or export <abbr title="ozone-depleting substances">ODS</abbr>
-</li>
-  <li>destroy <abbr title="ozone-depleting substances">ODS</abbr>
-</li>
-  <li>use <abbr title="ozone-depleting substances">ODS</abbr> as feedstock or process agent</li>
+  <li>produce, import or export one or more metric tonnes of F gas, or a quantity of F gas 
+equivalent to 100 tonnes or more of CO2</li>
+  <li>destroy F gas equivalent to one metric tonne or 1,000 tonnes of CO2 or more</li>
 </ul>
 
-<p>You must <a rel="external" href="https://webgate.ec.europa.eu/ods2/resources/domain/resolve" class="govuk-link">report your <abbr title="ozone-depleting substances">ODS</abbr> activities for 1 Jan 2020 to 31 December 2020</a> to the European Commission by 31 March 2021.</p>
+<p>The deadline for reporting and the verification you need to submit to the Environment Agency will not change.</p>
 
-<h2 id="ods-exports-rejected-by-an-eu-border-control-post">
-<abbr title="ozone-depleting substances">ODS</abbr> exports rejected by an EU border control post</h2>
+<p>You must report:</p>
+
+<ul>
+  <li>EU, Northern Ireland and GB F gas activity between 1 January 2020 and 31 December 2020 on the EU system by 31 March 2021 (as the UK will still be regulated in the EU system during that period)</li>
+  <li>GB F gas activity from 1 January 2021 onwards on the GB reporting system. Your first report under the GB system is due by 31 March 2022</li>
+</ul>
+
+<p>The type of data you’ll need to enter will be similar to the EU registry.</p>
+
+<p>The Environment Agency will publish guidance on how to use the GB F gas reporting system from 1 January 2021.</p>
+
+<h2 id="other-f-gas-requirements">Other F gas requirements</h2>
+
+<p>From 1 January 2021 many of the rules for F gases will not change, including requirements or restrictions:</p>
+
+<ul>
+  <li>to prevent intentional release of F gases</li>
+  <li>to prevent the unintentional release of F gases during production and use</li>
+  <li>to minimise and repair leakages</li>
+  <li>to check leaks and keep records</li>
+  <li>to use leakage detection systems</li>
+  <li>to provide evidence that trifluoromethane produced during the production of F gases has been destroyed</li>
+  <li>to recover F gases from equipment for recycling, reclamation or destruction</li>
+  <li>on placing certain products and equipment on the market</li>
+  <li>on sales of F gases to businesses which do not hold the relevant certificates or attestations</li>
+  <li>for product and equipment labelling</li>
+  <li>on the use of certain F gases for magnesium die-casting, vehicle tyres or servicing certain refrigeration equipment</li>
+</ul>
+
+<p>Requirements in GB will also not change on:</p>
+
+<ul>
+  <li>the individual qualifications and company certifications you need to install, service, maintain, repair, decommission or check for leaks in certain equipment or the recover F gas</li>
+  <li>the content and requirements of training and certification programmes</li>
+  <li>the validity of existing certificates and training attestations, including those issued by EU member states both before and after 1 January 2021.</li>
+</ul>
+
+<h2 id="ods"><abbr title="ozone-depleting substances">ODS</abbr></h2>
+
+<p>From 1 January 2021, the rules will stay the same for <abbr title="ozone-depleting substances">ODS</abbr> that you:</p>
+
+<ul>
+  <li>import</li>
+  <li>supply</li>
+  <li>use</li>
+  <li>recover</li>
+  <li>destroy</li>
+</ul>
+
+<p>You’ll have the same responsibilities to:</p>
+
+<ul>
+  <li>maintain equipment</li>
+  <li>control leaks</li>
+</ul>
+
+<p>Rules on how you can supply and use <abbr title="ozone-depleting substances">ODS</abbr> will remain the same, including for:</p>
+
+<ul>
+  <li>feedstock</li>
+  <li>process agents</li>
+  <li>destruction</li>
+  <li>reclamation</li>
+  <li>essential laboratory and analytical use</li>
+  <li>halons for certain critical uses</li>
+</ul>
+
+<h3 id="new-ods-quota-system">New <abbr title="ozone-depleting substances">ODS</abbr> quota system</h3>
+
+<p>Great Britain will manage its own <abbr title="ozone-depleting substances">ODS</abbr> quota system from 1 January 2021.</p>
+
+<p>If you produce, import or export <abbr title="ozone-depleting substances">ODS</abbr>, or products containing <abbr title="ozone-depleting substances">ODS</abbr>, from exit day you’ll need to apply for a:</p>
+
+<ul>
+  <li>GB quota to place them on the GB market</li>
+  <li>EU quota to place them on the EU and Northern Ireland market</li>
+</ul>
+
+<p>To apply:</p>
+
+<ol>
+  <li>
+<a rel="external" href="https://register.ozone-depleting-substances.service.gov.uk/register/index" class="govuk-link">Register on the GB <abbr title="ozone-depleting substances">ODS</abbr> system</a> to get an organisation ID. If you’re registered as a GB-based organisation on the EU portal, you should have received an email about registering you on the new GB system. If you haven’t been contacted email f-gassupport@environment-agency.gov.uk</li>
+  <li>
+<a rel="external" href="https://apply-quota.ozone-depleting-substances.service.gov.uk/quota/index" class="govuk-link">Apply for quota on the GB <abbr title="ozone-depleting substances">ODS</abbr> system</a>. The registration and application window will close on 14 January 2021.</li>
+</ol>
+
+<p>If your application is successful the Environment Agency will notify you how much GB quota you have been allocated from the 1 January 2021.</p>
+
+<p>To get quota for subsequent years you must apply on the GB <abbr title="ozone-depleting substances">ODS</abbr> system.</p>
+
+<p>Each year, the Environment Agency will publish when the window is open for you to apply for quota for the following year.</p>
+
+<p>If approved, the Environment Agency will put your allocation on the <abbr title="ozone-depleting substances">ODS</abbr> system.
+The Environment Agency will publish further guidance on how to use the <abbr title="ozone-depleting substances">ODS</abbr> system at the end of the transition period.</p>
+
+<h3 id="importing-and-exporting-ods">Importing and exporting <abbr title="ozone-depleting substances">ODS</abbr>
+</h3>
+
+<p>You’ll need to use the new Environment Agency system, instead of European Commission systems, to apply for a GB licence to import or export <abbr title="ozone-depleting substances">ODS</abbr>, including to and from the EU.</p>
+
+<p>The information that you’ll need to provide to get a licence will not change.</p>
+
+<p>To apply for a licence to import or export <abbr title="ozone-depleting substances">ODS</abbr> you’ll need to:</p>
+
+<ol>
+  <li>
+    <p><a rel="external" href="https://register.ozone-depleting-substances.service.gov.uk/register/index" class="govuk-link">Register on the GB <abbr title="ozone-depleting substances">ODS</abbr> system</a> to get an organisation ID. If you’re registered as a GB-based organisation on the EU portal, you should have received an email about registering you on the new GB system. If you haven’t been contacted email f-gassupport@environment-agency.gov.uk</p>
+  </li>
+  <li>
+    <p><a rel="external" href="https://apply-licence.ozone-depleting-substances.service.gov.uk/licence-application/index" class="govuk-link">Apply for the <abbr title="ozone-depleting substances">ODS</abbr> import or export licence</a> that you need.</p>
+  </li>
+</ol>
+
+<p>You still must not trade with countries or territories which are not party to, or do not comply with, the United Nations Montreal Protocol.</p>
+
+<h3 id="ods-exports-rejected-by-an-eu-border-control-post">
+<abbr title="ozone-depleting substances">ODS</abbr> exports rejected by an EU border control post</h3>
 
 <p>If <abbr title="ozone-depleting substances">ODS</abbr> you export from GB to EU (and Northern Ireland) are rejected at a EU border control post (BCP) and need to return to GB you’ll need to re-attain free circulation status for the goods.</p>
 
@@ -214,6 +652,23 @@ ODS exports rejected by an EU border control post</a>
 
 <p>The <abbr title="ozone-depleting substances">ODS</abbr> may be destroyed.</p>
 
+<h3 id="reporting-ods-use">Reporting <abbr title="ozone-depleting substances">ODS</abbr> use</h3>
+
+<p>You must report your <abbr title="ozone-depleting substances">ODS</abbr> use by 31 March each year. You must report:</p>
+
+<ul>
+  <li>activity between 1 January 2020 and 31 December 2020 on the EU system by 31 March 2021</li>
+  <li>GB activity from 1 January 2021 onwards on the new GB reporting system. Your first report under the GB system is due by 31 March 2022.</li>
+</ul>
+
+<p>The Environment Agency will publish guidance on how to use the <abbr title="ozone-depleting substances">ODS</abbr> reporting system from 1 January 2021.</p>
+
+<p>The information you need to report will be similar to that reported under the EU regulation.</p>
+
+<h3 id="using-ods-for-laboratory-and-analytical-purposes">Using <abbr title="ozone-depleting substances">ODS</abbr> for laboratory and analytical purposes</h3>
+
+<p>If you use <abbr title="ozone-depleting substances">ODS</abbr> for laboratory and analytical uses in GB you must <a rel="external" href="https://register-declare.laboratory-ozone-depleting-substances.service.gov.uk/register/index" class="govuk-link">register on the GB laboratory <abbr title="ozone-depleting substances">ODS</abbr> system and submit a declaration</a>.</p>
+
 </div>
 </div>
 
@@ -221,10 +676,14 @@ ODS exports rejected by an EU border control post</a>
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 6 February 2020
-    <br></br>Last updated 8 October 2020
+    <br></br>Last updated 15 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-15T09:11:45.000+01:00">15 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated with regulation arrangements in England, Wales and Scotland from 1 January 2021.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-08T13:00:12.000+01:00">8 October 2020</time>
               <p class="app-c-published-dates__change-note">Updated with guidance on the process for exports that rejected an EU border control post.</p>
@@ -266,33 +725,33 @@ ODS exports rejected by an EU border control post</a>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-3a42892e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-6e0baab1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3a42892e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6e0baab1" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/fluorinated-gases-and-ozone-depleting-substances-how-to-do-business-in-the-transition-period" data-track-options="{"dimension28":"5","dimension29":"Fluorinated gases and ozone-depleting substances: how to do business in the transition period"}" href="/guidance/fluorinated-gases-and-ozone-depleting-substances-how-to-do-business-in-the-transition-period">Fluorinated gases and ozone-depleting substances: how to do business in the transition period</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/collections/ozone-depleting-substances-guidance-for-users-producers-and-traders" data-track-options="{"dimension28":"5","dimension29":"Ozone-depleting substances: guidance for users, producers and traders"}" href="/government/collections/ozone-depleting-substances-guidance-for-users-producers-and-traders">Ozone-depleting substances: guidance for users, producers and traders</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/applying-for-quota-to-import-or-produce-ozone-depleting-substances" data-track-options="{"dimension28":"5","dimension29":"Applying for quota to import or produce ozone-depleting substances"}" href="/guidance/applying-for-quota-to-import-or-produce-ozone-depleting-substances">Applying for quota to import or produce ozone-depleting substances</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/bans-on-f-gas-in-new-products-and-equipment-current-and-future" data-track-options="{"dimension28":"5","dimension29":"Bans on F gas in new products and equipment: current and future"}" href="/guidance/bans-on-f-gas-in-new-products-and-equipment-current-and-future">Bans on F gas in new products and equipment: current and future</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/record-f-gas-in-equipment-you-own-or-service" data-track-options="{"dimension28":"5","dimension29":"Record F gas in equipment you own or service"}" href="/guidance/record-f-gas-in-equipment-you-own-or-service">Record F gas in equipment you own or service</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/labelling-f-gas-equipment-you-produce-import-or-install" data-track-options="{"dimension28":"5","dimension29":"Labelling F gas equipment you produce, import or install"}" href="/guidance/labelling-f-gas-equipment-you-produce-import-or-install">Labelling F gas equipment you produce, import or install</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/calculate-the-carbon-dioxide-equivalent-quantity-of-an-f-gas" data-track-options="{"dimension28":"5","dimension29":"Calculate the carbon dioxide equivalent quantity of an F gas"}" href="/guidance/calculate-the-carbon-dioxide-equivalent-quantity-of-an-f-gas">Calculate the carbon dioxide equivalent quantity of an F gas</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/fluorinated-gases-f-gases" data-track-options="{"dimension28":"5","dimension29":"Fluorinated gases (F gases)"}" href="/guidance/fluorinated-gases-f-gases">Fluorinated gases (F gases)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/transferring-and-authorising-f-gas-quota-to-another-business" data-track-options="{"dimension28":"5","dimension29":"Transferring and authorising F gas quota to another business"}" href="/guidance/transferring-and-authorising-f-gas-quota-to-another-business">Transferring and authorising F gas quota to another business</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-3a42892e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-6e0baab1" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-3a42892e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-6e0baab1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -324,9 +783,9 @@ ODS exports rejected by an EU border control post</a>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1d151de8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-25241ef6" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1d151de8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-25241ef6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
