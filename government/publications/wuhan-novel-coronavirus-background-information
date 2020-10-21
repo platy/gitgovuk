@@ -24,7 +24,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 16 January 2020
-    <br></br>Last updated 16 October 2020
+    <br></br>Last updated 21 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -63,7 +63,7 @@
 
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <section class="attachment embedded" id="attachment_4634066">
+      <section class="attachment embedded" id="attachment_4648969">
   <div class="attachment-thumb">
       <a aria-hidden="true" class="thumbnail" tabindex="-1" href="/government/publications/wuhan-novel-coronavirus-background-information/wuhan-novel-coronavirus-epidemiology-virology-and-clinical-features"><img alt src="https://www.gov.uk/assets/whitehall/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></img></a>
   </div>
@@ -103,10 +103,18 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 16 January 2020
-    <br></br>Last updated 16 October 2020
+    <br></br>Last updated 21 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-21T15:04:58.000+01:00">21 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated global case numbers.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-19T17:33:05.000+01:00">19 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated global case numbers.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-16T15:23:57.000+01:00">16 October 2020</time>
               <p class="app-c-published-dates__change-note">Updated with latest global case numbers.</p>
@@ -705,14 +713,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-14d285e6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-baaad065" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-14d285e6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-baaad065" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -729,9 +737,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-14d285e6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-baaad065" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-14d285e6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-baaad065" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -764,9 +772,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ea084206" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-111a32b1" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-ea084206" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-111a32b1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
