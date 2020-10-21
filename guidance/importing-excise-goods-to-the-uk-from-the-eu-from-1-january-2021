@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 9 October 2019
-    <br></br>Last updated 5 October 2020
+    <br></br>Last updated 20 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -111,7 +111,9 @@
 
 <p>If your excise goods are dispatched from an EU member state from 1 January 2021, you must complete a <a href="https://www.gov.uk/guidance/customs-declarations-for-goods-brought-into-the-eu" class="govuk-link">customs declaration</a> and use the relevant customs procedures when they arrive at the place they enter into Great Britain.</p>
 
-<p>You can use Customs Freight Simplified Procedures (CFSP) to import excise goods. This means you’ll be able to transport your goods into Great Britain without having to make a full customs declaration in advance.</p>
+<p>You can use Customs Freight Simplified Procedures (<abbr title="Customs Freight Simplified Procedures">CFSP</abbr>) to import some excise goods such as alcohol and tobacco. All other excise goods are excluded from using <abbr title="Customs Freight Simplified Procedures">CFSP</abbr>.</p>
+
+<p>This means you’ll be able to transport your goods into Great Britain without having to make a full customs declaration in advance.</p>
 
 <p>To use a simplified declaration for imports you’ll need:</p>
 
@@ -202,10 +204,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 9 October 2019
-    <br></br>Last updated 5 October 2020
+    <br></br>Last updated 20 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-20T09:33:48.000+01:00">20 October 2020</time>
+              <p class="app-c-published-dates__change-note">Guidance updated to clarify that Customs Freight Simplified Procedures (CFSP) apply to some excise goods only.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-05T09:00:04.000+01:00">5 October 2020</time>
               <p class="app-c-published-dates__change-note">The guidance has been updated regarding importing excise goods from 1 January 2021.</p>
@@ -247,14 +253,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-5241a645" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-f62d7a62" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-5241a645" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f62d7a62" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -287,9 +293,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-cede9956" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-33143399" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-cede9956" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-33143399" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
