@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 3 July 2020
-    <br></br>Last updated 15 October 2020
+    <br></br>Last updated 22 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -112,17 +112,18 @@
 <h3 id="europe">Europe</h3>
 
 <ul>
+  <li>
+<a href="https://www.gov.uk/foreign-travel-advice/spain" class="govuk-link">Canary Islands</a> (not including mainland Spain, and the Balearic Islands)</li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/cyprus" class="govuk-link">Cyprus</a></li>
+  <li><a href="https://www.gov.uk/foreign-travel-advice/denmark" class="govuk-link">Denmark</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/estonia" class="govuk-link">Estonia</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/denmark" class="govuk-link">Faroe Islands and Greenland</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/finland" class="govuk-link">Finland</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/germany" class="govuk-link">Germany</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/gibraltar" class="govuk-link">Gibraltar</a></li>
-  <li>
-<a href="https://www.gov.uk/foreign-travel-advice/greece" class="govuk-link">Greece</a> (not including Mykonos)</li>
+  <li><a href="https://www.gov.uk/foreign-travel-advice/greece" class="govuk-link">Greece</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/ireland" class="govuk-link">Ireland</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/latvia" class="govuk-link">Latvia</a></li>
-  <li><a href="https://www.gov.uk/foreign-travel-advice/liechtenstein" class="govuk-link">Liechtenstein</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/lithuania" class="govuk-link">Lithuania</a></li>
   <li>
 <a href="https://www.gov.uk/foreign-travel-advice/portugal" class="govuk-link">Madeira and the Azores</a> (not including mainland Portugal)</li>
@@ -167,6 +168,7 @@
   <li><a href="https://www.gov.uk/foreign-travel-advice/laos" class="govuk-link">Laos</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/macao" class="govuk-link">Macao</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/malaysia" class="govuk-link">Malaysia</a></li>
+  <li><a href="https://www.gov.uk/foreign-travel-advice/maldives" class="govuk-link">Maldives</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/new-caledonia" class="govuk-link">New Caledonia</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/new-zealand" class="govuk-link">New Zealand</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/samoa" class="govuk-link">Samoa</a></li>
@@ -215,10 +217,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 3 July 2020
-    <br></br>Last updated 15 October 2020
+    <br></br>Last updated 22 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-22T17:26:30.000+01:00">22 October 2020</time>
+              <p class="app-c-published-dates__change-note">Liechtenstein is no longer on the travel advice exemptions list, following the latest assessment of COVID-19 risks there. The FCDO advises against all non-essential travel to Liechtenstein.  Denmark, the Canary Islands, the Greek island of Mykonos, and the Maldives have been added to the travel advice exemptions list. Read our guidance before planning any travel.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-15T17:31:13.000+01:00">15 October 2020</time>
               <p class="app-c-published-dates__change-note">Martinique, Italy and San Marino are no longer on the travel advice exemptions list, following the latest assessment of COVID-19 risks. The FCDO advises against all non-essential travel to these countries and territories.  Anguilla, the State of Victoria in Australia and the Greek Island of Crete have been added to the travel advice exemptions list. Read our guidance before planning any travel.</p>
@@ -323,14 +329,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-2a7a5256" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-99bcdf38" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2a7a5256" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-99bcdf38" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -347,9 +353,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-2a7a5256" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-99bcdf38" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-2a7a5256" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-99bcdf38" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -361,9 +367,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2a7a5256" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-99bcdf38" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-2a7a5256" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-99bcdf38" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -395,9 +401,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6e168e0c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8926d684" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6e168e0c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8926d684" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
