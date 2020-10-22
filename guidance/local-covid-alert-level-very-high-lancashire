@@ -24,6 +24,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 16 October 2020
+    <br></br>Last updated 22 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -115,15 +117,13 @@
 
 <h2 id="business-and-venues">Business and venues</h2>
 
-<p>Lancashire will enter the ‘very high’ alert level on 17 October and the <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high" class="govuk-link">baseline guidance for very high areas</a> will come into effect.</p>
-
-<p>In addition to the baseline guidance, from 19 October the following businesses will not be allowed to open in Lancashire:</p>
+<p>In addition to the <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high" class="govuk-link">baseline guidance for very high areas</a>, from 19 October the following businesses will not be allowed to open in Lancashire:</p>
 
 <ul>
   <li>casinos</li>
   <li>bingo halls</li>
   <li>betting shops and adult gaming centres</li>
-  <li>soft play areas</li>
+  <li>soft play centres and areas</li>
   <li>car boot sales</li>
 </ul>
 
@@ -141,8 +141,22 @@
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 16 October 2020
+    <br></br>Last updated 22 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-22T16:02:07.000+01:00">22 October 2020</time>
+              <p class="app-c-published-dates__change-note">Changed 'soft play centres' to 'soft play centres and areas' in the list of businesses and venues that will not be allowed to open.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-16T13:23:00.000+01:00">16 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -188,9 +202,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3f702f4a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6053b5f2" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-3f702f4a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-6053b5f2" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
