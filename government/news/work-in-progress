@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 10 August 2017
-    <br></br>Last updated 21 October 2020
+    <br></br>Last updated 22 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -79,13 +79,19 @@
 
 <ol>
   <li>Presenting Officers</li>
-  <li>Intelligence</li>
   <li>Asylum casework</li>
   <li>Adults at Risk 2</li>
   <li>E-gates</li>
   <li>Front-end services</li>
   <li>Freight</li>
   <li>EU Settlement Scheme 3</li>
+</ol>
+
+<h2 id="paused-inspections">Paused Inspections</h2>
+
+<ol>
+  <li>Intelligence Inspection <br></br>
+Work on this inspection began on 9 January 2020, with a ‘call for evidence’ released via the ICIBI website on 3 April 2020. On 7 September 2020 the Independent Chief Inspector informed the Home Office of his decision to pause the inspection as it was not possible to carry out essential fieldwork due to Covid-19 restrictions. A note of the initial findings from the inspection has been sent to the Home Office and the Chief Inspector will review whether to recommence the inspection when circumstances permit, taking account of other inspection priorities at that time and any changes made to BICS intelligence functions in the interim.</li>
 </ol>
 
 <h2 id="published-reports-and-government-responses">Published Reports and Government Responses</h2>
@@ -184,10 +190,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 August 2017
-    <br></br>Last updated 21 October 2020
+    <br></br>Last updated 22 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-22T16:38:00.000+01:00">22 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added an update about the Intelligence Inspection</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-21T17:48:22.000+01:00">21 October 2020</time>
               <p class="app-c-published-dates__change-note">The Chief Inspector has sent his inspection report on the Home Office’s use of sanctions and penalties to the Home Secretary.</p>
@@ -275,14 +285,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-30eb0622" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b4411f59" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-30eb0622" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b4411f59" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -319,9 +329,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2695008c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-02fd6ba4" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-2695008c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-02fd6ba4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
