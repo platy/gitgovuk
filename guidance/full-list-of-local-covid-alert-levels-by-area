@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 October 2020
-    <br></br>Last updated 21 October 2020
+    <br></br>Last updated 22 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -95,11 +95,37 @@
 
 <h2 id="local-covid-alert-level-high">Local COVID alert level: high</h2>
 
+<div role="note" aria-label="Information" class="application-notice info-notice">
+<p>The following areas will be in ‘local COVID alert level: high’ from Saturday 24 October:</p>
+</div>
+
+<h3 id="berkshire">Berkshire</h3>
+
+<ul>
+  <li>Slough</li>
+</ul>
+
+<h3 id="staffordshire">Staffordshire</h3>
+
+<ul>
+  <li>Stoke-on-Trent</li>
+</ul>
+
+<h3 id="west-midlands">West Midlands</h3>
+
+<ul>
+  <li>Coventry</li>
+</ul>
+
+<div role="note" aria-label="Information" class="application-notice info-notice">
+<p>The following areas are currently in ‘local COVID alert level: high’:</p>
+</div>
+
 <h3 id="cheshire">Cheshire</h3>
 
 <ul>
-  <li>Cheshire West and Chester</li>
   <li>Cheshire East</li>
+  <li>Cheshire West and Chester</li>
   <li>Warrington</li>
 </ul>
 
@@ -114,7 +140,6 @@
 <ul>
   <li>Chesterfield</li>
   <li>Erewash</li>
-  <li>North East Derbyshire</li>
   <li>High Peak ‒ the wards of:
     <ul>
       <li>Tintwistle</li>
@@ -130,6 +155,7 @@
       <li>Hadfield North</li>
     </ul>
   </li>
+  <li>North East Derbyshire</li>
 </ul>
 
 <h3 id="durham">Durham</h3>
@@ -157,19 +183,21 @@
 
 <h3 id="greater-manchester">Greater Manchester</h3>
 
+<div role="note" aria-label="Information" class="application-notice info-notice">
 <p>From 23 October, Greater Manchester will be in ‘local COVID alert level: very high’. Find out what this will mean <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-greater-manchester" class="govuk-link">if you live, work or travel in Greater Manchester</a>.</p>
+</div>
 
 <ul>
-  <li>Manchester</li>
   <li>Bolton</li>
   <li>Bury</li>
+  <li>Manchester</li>
+  <li>Oldham</li>
+  <li>Rochdale</li>
+  <li>Salford</li>
   <li>Stockport</li>
   <li>Tameside</li>
   <li>Trafford</li>
   <li>Wigan</li>
-  <li>Salford</li>
-  <li>Rochdale</li>
-  <li>Oldham</li>
 </ul>
 
 <h3 id="leicestershire">Leicestershire</h3>
@@ -204,14 +232,22 @@
   <li>Northumberland</li>
 </ul>
 
+<h3 id="north-yorkshire">North Yorkshire</h3>
+
+<ul>
+  <li>York</li>
+</ul>
+
 <h3 id="south-yorkshire">South Yorkshire</h3>
 
+<div role="note" aria-label="Information" class="application-notice info-notice">
 <p>From 24 October, South Yorkshire will be in ‘local COVID alert level: very high’. Find out what this will mean <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-south-yorkshire" class="govuk-link">if you live, work or travel in South Yorkshire</a>.</p>
+</div>
 
 <ul>
   <li>Barnsley</li>
-  <li>Rotherham</li>
   <li>Doncaster</li>
+  <li>Rotherham</li>
   <li>Sheffield</li>
 </ul>
 
@@ -224,46 +260,40 @@
 <h3 id="tees-valley">Tees Valley</h3>
 
 <ul>
+  <li>Darlington</li>
+  <li>Hartlepool</li>
   <li>Middlesbrough</li>
   <li>Redcar and Cleveland</li>
   <li>Stockton-on-Tees</li>
-  <li>Darlington</li>
-  <li>Hartlepool</li>
 </ul>
 
 <h3 id="tyne-and-wear">Tyne and Wear</h3>
 
 <ul>
-  <li>Newcastle</li>
-  <li>South Tyneside</li>
-  <li>North Tyneside</li>
   <li>Gateshead</li>
+  <li>Newcastle</li>
+  <li>North Tyneside</li>
+  <li>South Tyneside</li>
   <li>Sunderland</li>
 </ul>
 
-<h3 id="york">York</h3>
-
-<ul>
-  <li>York</li>
-</ul>
-
-<h3 id="west-midlands">West Midlands</h3>
+<h3 id="west-midlands-1">West Midlands</h3>
 
 <ul>
   <li>Birmingham</li>
   <li>Sandwell</li>
   <li>Solihull</li>
-  <li>Wolverhampton</li>
   <li>Walsall</li>
+  <li>Wolverhampton</li>
 </ul>
 
 <h3 id="west-yorkshire">West Yorkshire</h3>
 
 <ul>
-  <li>Leeds</li>
   <li>Bradford</li>
-  <li>Kirklees</li>
   <li>Calderdale</li>
+  <li>Kirklees</li>
+  <li>Leeds</li>
   <li>Wakefield</li>
 </ul>
 
@@ -274,8 +304,8 @@
 <p>Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-lancashire" class="govuk-link">what you can and cannot do if you live, work or travel in Lancashire</a>.</p>
 
 <ul>
-  <li>Blackpool</li>
   <li>Blackburn with Darwen</li>
+  <li>Blackpool</li>
   <li>Burnley</li>
   <li>Chorley</li>
   <li>Fylde</li>
@@ -295,12 +325,12 @@
 <p>Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-liverpool-city-region" class="govuk-link">what you can and cannot do if you live, work or travel in the Liverpool City Region</a>.</p>
 
 <ul>
-  <li>Liverpool</li>
-  <li>Knowsley</li>
-  <li>Wirral</li>
-  <li>St Helens</li>
-  <li>Sefton</li>
   <li>Halton</li>
+  <li>Knowsley</li>
+  <li>Liverpool</li>
+  <li>Sefton</li>
+  <li>St Helens</li>
+  <li>Wirral</li>
 </ul>
 </div>
 </div>
@@ -309,10 +339,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 October 2020
-    <br></br>Last updated 21 October 2020
+    <br></br>Last updated 22 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-22T17:16:58.000+01:00">22 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added that Slough, Stoke-on-Trent and Coventry will move into 'local COVID alert level: high' on Saturday 24 October.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-21T15:17:29.000+01:00">21 October 2020</time>
               <p class="app-c-published-dates__change-note">Updated to reflect that from 24 October, South Yorkshire will be in 'local COVID alert level: very high'.</p>
@@ -380,9 +414,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-553b34e3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-bff5941d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-553b34e3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-bff5941d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
