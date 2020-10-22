@@ -5,7 +5,7 @@
       Guidance
     </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
-    Local COVID Alert level: Very High (Liverpool City Region)
+    Local COVID alert level: very high (Liverpool City Region)
   </h1>
 </div>
   </div>
@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 13 October 2020
+    <br></br>Last updated 22 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -59,18 +61,37 @@
   </div>
 
 
-      <div id="contents" class="app-c-contents-list-with-body">
+      <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#affected-local-areas" data-track-options="{"dimension29":"Affected local areas"}" href="#affected-local-areas">Affected local areas</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#business-and-venues" data-track-options="{"dimension29":"Business and venues"}" href="#business-and-venues">Business and venues</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#financial-support" data-track-options="{"dimension29":"Financial support"}" href="#financial-support">Financial support</a>
+
+        </li>
+    </ol>
+</nav>
+      </div>
     
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<div class="call-to-action">
-<p>These rules will apply from 00.01 on Wednesday 14 October. You must follow the current guidance until then.</p>
-</div>
+<p>Liverpool City Region is in <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high" class="govuk-link">local COVID alert level: very high</a>.</p>
 
-<p><a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high" class="govuk-link">Liverpool City Region is in Local COVID Alert Level: Very High</a>.</p>
+<p>Local COVID alert level: very high is for areas with a very high level of infections and where tighter restrictions are in place. Local COVID alert levels are sometimes called ‘tiers’ or known as a ‘local lockdown’.</p>
 
-<p>Local COVID Alert Level: Very High is for areas with a very high level of infections and where tighter restrictions are in place. The restrictions placed on areas with a very high level of infections can vary, and are based on discussions between central and local government on the package of measures required to drive down transmission.</p>
+<p>The restrictions placed on areas with a very high level of infections can vary, and are based on discussions between central and local government on the measures required to reduce the spread.</p>
 
 <h2 id="affected-local-areas">Affected local areas</h2>
 
@@ -87,32 +108,68 @@
 
 <h2 id="business-and-venues">Business and venues</h2>
 
-<p>In addition to the <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high" class="govuk-link">baseline guidance for Very High areas</a>, the following businesses are not allowed to open in Liverpool City Region:</p>
+<p>In addition to the <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high" class="govuk-link">baseline guidance for very high areas</a>, the following businesses are not allowed to open in Liverpool City Region:</p>
 
 <ul>
   <li>casinos</li>
   <li>betting shops</li>
   <li>adult gaming centres</li>
-  <li>indoor gyms</li>
-  <li>fitness and dance studios</li>
-  <li>sports facilities – with an exemption for:
+  <li>soft play centres and areas (closed from 24 October)</li>
+  <li>indoor gyms (will reopen from 24 October)</li>
+  <li>fitness and dance studios (will reopen from 24 October)</li>
+  <li>sports facilities (will reopen for all users from 24 October) – there is currently an exemption for:
     <ul>
       <li>organised indoor team sports for disabled people</li>
-      <li>U18s activities</li>
+      <li>under-18s activities</li>
     </ul>
   </li>
+</ul>
+
+<h2 id="financial-support">Financial support</h2>
+
+<p>Wherever you live, you may be able to get financial help through the:</p>
+
+<ul>
+  <li><a href="https://www.gov.uk/guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work" class="govuk-link">Coronavirus Job Retention Scheme (until 31 October)</a></li>
+  <li><a href="https://www.gov.uk/government/publications/job-support-scheme" class="govuk-link">Job Support Scheme (from 1 November)</a></li>
+  <li><a href="https://www.gov.uk/guidance/new-style-employment-and-support-allowance" class="govuk-link">New Style Employment and Support Allowance</a></li>
 </ul>
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 13 October 2020
+    <br></br>Last updated 22 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-22T11:04:26.000+01:00">22 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated to reflect that soft play centres and areas will close from 24 October and indoor gyms, fitness and dance studios, and sports facilities will reopen to all users from 24 October.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-13T00:01:00.000+01:00">13 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
+      <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
   </div>
   </div>
   
@@ -143,9 +200,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f6d17939" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-74ac9c8e" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-f6d17939" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-74ac9c8e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
