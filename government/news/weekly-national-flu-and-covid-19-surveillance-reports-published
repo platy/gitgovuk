@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 October 2020
+    <br></br>Last updated 22 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -60,9 +62,71 @@
 
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <p>The main points from the weekly <a href="https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports">national influenza and COVID-19 surveillance report</a> for week 42 (data up to week 41) are:</p>
+      <h2 id="latest-update">Latest update</h2>
 
-<h2 id="covid-19">COVID-19</h2>
+<p>The main points from the weekly <a href="https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports">national influenza and COVID-19 surveillance report</a> for week 43 (data up to week 42) are:</p>
+
+<h3 id="covid-19">COVID-19</h3>
+
+<p>Highest case rates continue to be observed among those aged 10 to 29, with a rate of 207.7 per 100,000 population for the 10 to 19 age group and 274.3 per 100,000 for those aged 20 to 29, although these have decreased since week 41.</p>
+
+<p>Positivity rates were highest in those aged between 10 and 29 years old.</p>
+
+<p>Case rates per 100,000 are highest in the North East, North West and Yorkshire & Humber.</p>
+
+<p>COVID-19 hospital and critical care admission rates continued to increase.</p>
+
+<p>The hospitalisation rate for COVID-19 was 7.74 per 100,000 in week 42 compared to 5.55 per 100,000 in the previous week.</p>
+
+<p>We are concerned by the disproportionate impact that COVID-19 continues to have on Black, Asian and minority ethnic communities. Almost 4 in 10 (39.9%) new critical care admissions have involved people from these backgrounds over the course of the pandemic.</p>
+
+<p>By NHS regions, the highest hospital admission rate for COVID-19 were observed in the North West. By age group, the highest hospital admission rates were in those aged 85 and over.</p>
+
+<p>The overall number of acute respiratory infection incidents reported to Public Health England (<abbr title="Public Health England">PHE</abbr>) Health Protection Teams reduced slightly from 1,140 in the previous week to 1,125 in week 42 in England. SARS-CoV-2 was detected in the majority of these incidents.</p>
+
+<p>The number of COVID-19-related deaths increased further.</p>
+
+<p>Dr Yvonne Doyle, Medical Director of <abbr title="Public Health England">PHE</abbr>, said:</p>
+
+<blockquote>
+  <p>Hospital admissions and deaths continue to climb right across the country, and there are signs in the data that increasing numbers of older people are now getting seriously ill.</p>
+
+  <p>This virus continues to have a disproportionate impact on our Black, Asian and minority ethnic communities, who represent nearly 40% of admissions to intensive care.</p>
+
+  <p class="last-child">It is essential to wash your hands, wear a face covering in enclosed spaces and follow social distancing rules. It is a matter of life and death.</p>
+</blockquote>
+
+<h3 id="influenza">Influenza</h3>
+
+<p>Flu activity, including <abbr title="general practitioner">GP</abbr> consultations and hospital admissions, remains low.</p>
+
+<p>Flu vaccine uptake is higher in all groups compared to this time last year. Provisional data suggests uptake rates are:</p>
+
+<ul>
+  <li>57.2% in 65+ year olds</li>
+  <li>16.4% in under 65 years in a clinical risk group</li>
+  <li>18.1% in pregnant women</li>
+  <li>26.0% in 2-year-olds</li>
+  <li>27.4% in 3-year-olds</li>
+</ul>
+
+<p>The first uptake rates for school-age children (reception to year 7) and healthcare workers will be published in November.</p>
+
+<p>Dr Vanessa Saliba, Head of Flu, <abbr title="Public Health England">PHE</abbr>, said:</p>
+
+<blockquote>
+  <p>This winter, more people than ever are being offered a free flu vaccine and it is encouraging to see uptake so far is higher than last season in all groups.</p>
+
+  <p class="last-child">There is still time to get vaccinated against flu before it starts circulating in the community. We are urging anyone who is eligible to take up the offer. By getting the jab, you can help protect yourself, your family and the NHS – it will help save lives.</p>
+</blockquote>
+
+<h2 id="previous-updates">Previous updates</h2>
+
+<h3 id="friday-15-october-2020">Friday 15 October 2020</h3>
+
+<p>The main points from the weekly <a href="https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports">national influenza and COVID-19 surveillance report</a> for week 42 (data up to week 41) are:</p>
+
+<h3 id="covid-19-1">COVID-19</h3>
 
 <p>Highest case rates continue to be observed among those aged 10 to 29, with a rate of 245.2 per 100,000 population for the 10 to 19 age group and 252.6 per 100,000 for those aged 20 to 29.</p>
 
@@ -80,7 +144,7 @@
 
 <p>The number of COVID-19-related deaths increased further.</p>
 
-<h2 id="influenza">Influenza</h2>
+<h3 id="influenza-1">Influenza</h3>
 
 <p>Flu activity, including <abbr title="general practitioner">GP</abbr> consultations and hospital admissions, remains low.</p>
 
@@ -158,8 +222,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 October 2020
+    <br></br>Last updated 22 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-22T17:21:20.653+01:00">22 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added latest update.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-15T14:02:36.647+01:00">15 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -192,9 +270,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5251a83b" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ce77dee4" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-5251a83b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-ce77dee4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
