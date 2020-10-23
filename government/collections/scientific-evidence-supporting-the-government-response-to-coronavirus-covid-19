@@ -26,7 +26,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 26 June 2020
-    <br></br>Last updated 16 October 2020
+    <br></br>Last updated 23 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -322,8 +322,8 @@
           <ul class="gem-c-document-list__item-metadata">
 
                 <li class="gem-c-document-list__attribute">
-                    <time datetime="2020-10-16T13:30:00+01:00">
-                      16 October 2020
+                    <time datetime="2020-10-23T13:30:02+01:00">
+                      23 October 2020
                     </time>
 </li>
                 <li class="gem-c-document-list__attribute">
@@ -341,8 +341,8 @@
           <ul class="gem-c-document-list__item-metadata">
 
                 <li class="gem-c-document-list__attribute">
-                    <time datetime="2020-10-16T13:30:00+01:00">
-                      16 October 2020
+                    <time datetime="2020-10-23T13:30:02+01:00">
+                      23 October 2020
                     </time>
 </li>
                 <li class="gem-c-document-list__attribute">
@@ -618,10 +618,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 26 June 2020
-    <br></br>Last updated 16 October 2020
+    <br></br>Last updated 23 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-23T13:30:02.000+01:00">23 October 2020</time>
+              <p class="app-c-published-dates__change-note">We have published minutes for SAGE meeting 56 and added 9 new papers under September and October.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-16T13:30:00.000+01:00">16 October 2020</time>
               <p class="app-c-published-dates__change-note">We have added 12 new papers under the May, June, July, August, September and October SAGE meetings.</p>
@@ -710,14 +714,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-fe46d0a8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-e85f2547" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-fe46d0a8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e85f2547" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -754,9 +758,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5c6e349c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2791a028" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-5c6e349c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-2791a028" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
