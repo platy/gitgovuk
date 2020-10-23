@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 October 2020
-    <br></br>Last updated 22 October 2020
+    <br></br>Last updated 24 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -95,31 +95,11 @@
 
 <h2 id="local-covid-alert-level-high">Local COVID alert level: high</h2>
 
-<div role="note" aria-label="Information" class="application-notice info-notice">
-<p>The following areas will be in ‘local COVID alert level: high’ from Saturday 24 October:</p>
-</div>
-
 <h3 id="berkshire">Berkshire</h3>
 
 <ul>
   <li>Slough</li>
 </ul>
-
-<h3 id="staffordshire">Staffordshire</h3>
-
-<ul>
-  <li>Stoke-on-Trent</li>
-</ul>
-
-<h3 id="west-midlands">West Midlands</h3>
-
-<ul>
-  <li>Coventry</li>
-</ul>
-
-<div role="note" aria-label="Information" class="application-notice info-notice">
-<p>The following areas are currently in ‘local COVID alert level: high’:</p>
-</div>
 
 <h3 id="cheshire">Cheshire</h3>
 
@@ -181,25 +161,6 @@
   <li>Uttlesford</li>
 </ul>
 
-<h3 id="greater-manchester">Greater Manchester</h3>
-
-<div role="note" aria-label="Information" class="application-notice info-notice">
-<p>From 23 October, Greater Manchester will be in ‘local COVID alert level: very high’. Find out what this will mean <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-greater-manchester" class="govuk-link">if you live, work or travel in Greater Manchester</a>.</p>
-</div>
-
-<ul>
-  <li>Bolton</li>
-  <li>Bury</li>
-  <li>Manchester</li>
-  <li>Oldham</li>
-  <li>Rochdale</li>
-  <li>Salford</li>
-  <li>Stockport</li>
-  <li>Tameside</li>
-  <li>Trafford</li>
-  <li>Wigan</li>
-</ul>
-
 <h3 id="leicestershire">Leicestershire</h3>
 
 <ul>
@@ -238,17 +199,10 @@
   <li>York</li>
 </ul>
 
-<h3 id="south-yorkshire">South Yorkshire</h3>
-
-<div role="note" aria-label="Information" class="application-notice info-notice">
-<p>From 24 October, South Yorkshire will be in ‘local COVID alert level: very high’. Find out what this will mean <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-south-yorkshire" class="govuk-link">if you live, work or travel in South Yorkshire</a>.</p>
-</div>
+<h3 id="staffordshire">Staffordshire</h3>
 
 <ul>
-  <li>Barnsley</li>
-  <li>Doncaster</li>
-  <li>Rotherham</li>
-  <li>Sheffield</li>
+  <li>Stoke-on-Trent</li>
 </ul>
 
 <h3 id="surrey">Surrey</h3>
@@ -277,10 +231,11 @@
   <li>Sunderland</li>
 </ul>
 
-<h3 id="west-midlands-1">West Midlands</h3>
+<h3 id="west-midlands">West Midlands</h3>
 
 <ul>
   <li>Birmingham</li>
+  <li>Coventry</li>
   <li>Sandwell</li>
   <li>Solihull</li>
   <li>Walsall</li>
@@ -298,6 +253,23 @@
 </ul>
 
 <h2 id="local-covid-alert-level-very-high">Local COVID alert level: very high</h2>
+
+<h3 id="greater-manchester">Greater Manchester</h3>
+
+<p>Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-greater-manchester" class="govuk-link">what you can and cannot do if you live, work or travel in Greater Manchester</a>.</p>
+
+<ul>
+  <li>Bolton</li>
+  <li>Bury</li>
+  <li>Manchester</li>
+  <li>Oldham</li>
+  <li>Rochdale</li>
+  <li>Salford</li>
+  <li>Stockport</li>
+  <li>Tameside</li>
+  <li>Trafford</li>
+  <li>Wigan</li>
+</ul>
 
 <h3 id="lancashire">Lancashire</h3>
 
@@ -332,6 +304,17 @@
   <li>St Helens</li>
   <li>Wirral</li>
 </ul>
+
+<h3 id="south-yorkshire">South Yorkshire</h3>
+
+<p>Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-south-yorkshire" class="govuk-link">what you can and cannot do if you live, work or travel in South Yorkshire</a>.</p>
+
+<ul>
+  <li>Barnsley</li>
+  <li>Doncaster</li>
+  <li>Rotherham</li>
+  <li>Sheffield</li>
+</ul>
 </div>
 </div>
 
@@ -339,10 +322,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 October 2020
-    <br></br>Last updated 22 October 2020
+    <br></br>Last updated 24 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-24T00:00:11.000+01:00">24 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated to reflect that Slough, Stoke-on-Trent and Coventry have moved into 'local COVID alert level: high' and Greater Manchester and South Yorkshire have moved into 'local COVID alert level: very high'.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-22T17:16:58.000+01:00">22 October 2020</time>
               <p class="app-c-published-dates__change-note">Added that Slough, Stoke-on-Trent and Coventry will move into 'local COVID alert level: high' on Saturday 24 October.</p>
@@ -414,9 +401,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-bff5941d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-62b0d69c" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-bff5941d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-62b0d69c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
