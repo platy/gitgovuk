@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 19 September 2014
-    <br></br>Last updated 22 October 2020
+    <br></br>Last updated 23 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -121,7 +121,6 @@
       <div class="govspeak">
 <p>The £320 million <abbr title="physical education">PE</abbr> and sport premium is being continued and we have published details for the <a href="https://www.gov.uk/government/publications/pe-and-sport-premium-conditions-of-grant-2020-to-2021" class="govuk-link">2020 to 2021 academic year</a> including dates when the 2 instalments will be paid.</p>
 
-<p>https://www.gov.uk/government/publications/pe-and-sport-premium-conditions-of-grant-2020-to-2021</p>
 <div class="call-to-action">
 <p>If you have any questions about the <abbr title="physical education">PE</abbr> and sport premium which this update does not cover, please contact <a href="mailto:DFEcoronavirushelpline@education.gov.uk" class="govuk-link">DFEcoronavirushelpline@education.gov.uk</a>.</p>
 </div>
@@ -396,10 +395,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 19 September 2014
-    <br></br>Last updated 22 October 2020
+    <br></br>Last updated 23 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-23T08:18:03.000+01:00">23 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added link to details for the 2020 to 2021 academic year, including conditions of grant (not 2021 to 2022 as appeared in error on previous change note)</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-22T13:58:08.000+01:00">22 October 2020</time>
               <p class="app-c-published-dates__change-note">Includes link to the Conditions of Grant for 2021 to 2022</p>
@@ -492,14 +495,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-494e5fe6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-bc2f0a80" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-494e5fe6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-bc2f0a80" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -536,9 +539,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4fd85274" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-9b1e9456" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-4fd85274" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-9b1e9456" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
