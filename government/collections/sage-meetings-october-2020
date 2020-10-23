@@ -26,6 +26,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 16 October 2020
+    <br></br>Last updated 23 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -53,7 +55,28 @@
   <div class="govuk-grid-column-two-thirds">
     
 
-      <div id="contents" class="app-c-contents-list-with-body">
+      <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#meeting-60,-1-october-2020" data-track-options="{"dimension29":"Meeting 60, 1 October 2020"}" href="#meeting-60,-1-october-2020">Meeting 60, 1 October 2020</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#meeting-61,-8-october-2020" data-track-options="{"dimension29":"Meeting 61, 8 October 2020"}" href="#meeting-61,-8-october-2020">Meeting 61, 8 October 2020</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#meeting-62,-15-october-2020" data-track-options="{"dimension29":"Meeting 62, 15 October 2020"}" href="#meeting-62,-15-october-2020">Meeting 62, 15 October 2020</a>
+
+        </li>
+    </ol>
+</nav>
+      </div>
     
       <div class="responsive-bottom-margin">
           
@@ -63,7 +86,7 @@
 </div>
 
 
-  <h2 class="group-title" id="meeting-60,-1-october-2020">Meeting 60, 1 October 2020</h2>
+  <h3 class="group-title" id="meeting-60,-1-october-2020">Meeting 60, 1 October 2020</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
@@ -75,7 +98,7 @@
         <ul class="gem-c-document-list">
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-all-cases-29-september-2020" data-track-options="{"dimension28":"3","dimension29":"Dynamic CO-CIN report to SAGE and NERVTAG (all cases), 29 September 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-all-cases-29-september-2020">Dynamic CO-CIN report to SAGE and NERVTAG (all cases), 29 September 2020</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-all-cases-29-september-2020" data-track-options="{"dimension28":"6","dimension29":"Dynamic CO-CIN report to SAGE and NERVTAG (all cases), 29 September 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-all-cases-29-september-2020">Dynamic CO-CIN report to SAGE and NERVTAG (all cases), 29 September 2020</a>
 
 
 
@@ -94,7 +117,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.2" data-track-label="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-recent-cases-29-september-2020" data-track-options="{"dimension28":"3","dimension29":"Dynamic CO-CIN report to SAGE and NERVTAG (recent cases), 29 September 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-recent-cases-29-september-2020">Dynamic CO-CIN report to SAGE and NERVTAG (recent cases), 29 September 2020</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.2" data-track-label="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-recent-cases-29-september-2020" data-track-options="{"dimension28":"6","dimension29":"Dynamic CO-CIN report to SAGE and NERVTAG (recent cases), 29 September 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-recent-cases-29-september-2020">Dynamic CO-CIN report to SAGE and NERVTAG (recent cases), 29 September 2020</a>
 
 
 
@@ -113,7 +136,7 @@
       </li>
       <li class="gem-c-document-list__item  ">
 
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.3" data-track-label="/government/publications/genomicc-briefing-on-progress-with-human-genomics-in-covid-19-25-september-2020" data-track-options="{"dimension28":"3","dimension29":"GenOMICC: Briefing on progress with human genomics in COVID-19​, 25 September 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/genomicc-briefing-on-progress-with-human-genomics-in-covid-19-25-september-2020">GenOMICC: Briefing on progress with human genomics in COVID-19​, 25 September 2020</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.3" data-track-label="/government/publications/genomicc-briefing-on-progress-with-human-genomics-in-covid-19-25-september-2020" data-track-options="{"dimension28":"6","dimension29":"GenOMICC: Briefing on progress with human genomics in COVID-19​, 25 September 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/genomicc-briefing-on-progress-with-human-genomics-in-covid-19-25-september-2020">GenOMICC: Briefing on progress with human genomics in COVID-19​, 25 September 2020</a>
 
 
 
@@ -122,6 +145,165 @@
                 <li class="gem-c-document-list__attribute">
                     <time datetime="2020-10-16T13:30:00+01:00">
                       16 October 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Research and analysis
+</li>          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.4" data-track-label="/government/publications/gsk-evaluation-of-excess-mortality-in-european-all-cause-mortality-data-25-september-2020" data-track-options="{"dimension28":"6","dimension29":"GSK: Evaluation of excess mortality in European all-cause mortality data, 25 September 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/gsk-evaluation-of-excess-mortality-in-european-all-cause-mortality-data-25-september-2020">GSK: Evaluation of excess mortality in European all-cause mortality data, 25 September 2020</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-10-23T13:30:02+01:00">
+                      23 October 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Research and analysis
+</li>          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.5" data-track-label="/government/publications/emg-role-of-ventilation-in-controlling-sars-cov-2-transmission-30-september-2020" data-track-options="{"dimension28":"6","dimension29":"EMG: Role of ventilation in controlling SARS-CoV-2 transmission, 30 September 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/emg-role-of-ventilation-in-controlling-sars-cov-2-transmission-30-september-2020">EMG: Role of ventilation in controlling SARS-CoV-2 transmission, 30 September 2020</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-10-23T13:30:02+01:00">
+                      23 October 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Research and analysis
+</li>          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.6" data-track-label="/government/publications/nervtag-is-there-evidence-for-genetic-change-in-sars-cov-2-and-if-so-do-mutations-affect-virus-phenotype-30-september-2020" data-track-options="{"dimension28":"6","dimension29":"NERVTAG: Is there evidence for genetic change in SARS-CoV-2 and if so, do mutations affect virus phenotype? - 30 September 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/nervtag-is-there-evidence-for-genetic-change-in-sars-cov-2-and-if-so-do-mutations-affect-virus-phenotype-30-september-2020">NERVTAG: Is there evidence for genetic change in SARS-CoV-2 and if so, do mutations affect virus phenotype? - 30 September 2020</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-10-23T13:30:02+01:00">
+                      23 October 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Research and analysis
+</li>          </ul>
+
+
+      </li>
+    </ul>
+
+  </div>
+  <h3 class="group-title" id="meeting-61,-8-october-2020">Meeting 61, 8 October 2020</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
+      <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+        <ul class="gem-c-document-list">
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/government/publications/co-cin-covid-19-time-from-symptom-onset-until-death-in-uk-hospitalised-patients-7-october-2020" data-track-options="{"dimension28":"3","dimension29":"CO-CIN: COVID-19 - Time from symptom onset until death in UK hospitalised patients, 7 October 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/co-cin-covid-19-time-from-symptom-onset-until-death-in-uk-hospitalised-patients-7-october-2020">CO-CIN: COVID-19 - Time from symptom onset until death in UK hospitalised patients, 7 October 2020</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-10-23T13:30:02+01:00">
+                      23 October 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Research and analysis
+</li>          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.2" data-track-label="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-all-cases-7-october-2020" data-track-options="{"dimension28":"3","dimension29":"Dynamic CO-CIN report to SAGE and NERVTAG (all cases), 7 October 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-all-cases-7-october-2020">Dynamic CO-CIN report to SAGE and NERVTAG (all cases), 7 October 2020</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-10-23T13:30:02+01:00">
+                      23 October 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Research and analysis
+</li>          </ul>
+
+
+      </li>
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.3" data-track-label="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-recent-cases-7-october-2020" data-track-options="{"dimension28":"3","dimension29":"Dynamic CO-CIN report to SAGE and NERVTAG (recent cases), 7 October 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-recent-cases-7-october-2020">Dynamic CO-CIN report to SAGE and NERVTAG (recent cases), 7 October 2020</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-10-23T13:30:02+01:00">
+                      23 October 2020
+                    </time>
+</li>
+                <li class="gem-c-document-list__attribute">
+                    Research and analysis
+</li>          </ul>
+
+
+      </li>
+    </ul>
+
+  </div>
+  <h3 class="group-title" id="meeting-62,-15-october-2020">Meeting 62, 15 October 2020</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
+      <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+        <ul class="gem-c-document-list">
+      <li class="gem-c-document-list__item  ">
+
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/government/publications/spi-m-o-summary-of-sage-advice-on-segmentation-15-october-2020" data-track-options="{"dimension28":"1","dimension29":"SPI-M-O: Summary of SAGE advice on segmentation, 15 October 2020"}" class="gem-c-document-list__item-title   gem-c-document-list__item-link" href="/government/publications/spi-m-o-summary-of-sage-advice-on-segmentation-15-october-2020">SPI-M-O: Summary of SAGE advice on segmentation, 15 October 2020</a>
+
+
+
+          <ul class="gem-c-document-list__item-metadata">
+
+                <li class="gem-c-document-list__attribute">
+                    <time datetime="2020-10-23T13:30:02+01:00">
+                      23 October 2020
                     </time>
 </li>
                 <li class="gem-c-document-list__attribute">
@@ -136,12 +318,37 @@
 
       </div>
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 16 October 2020
+    <br></br>Last updated 23 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-23T13:30:02.000+01:00">23 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added 7 papers (SAGE meetings 60, 61 and 62).</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-16T13:30:00.000+01:00">16 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
 
+      <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
   </div>
   </div>
   
@@ -153,16 +360,16 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-1d65accb" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-dbea378c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1d65accb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-dbea378c" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-1d65accb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-dbea378c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -194,9 +401,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-482ed6b5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-cf55cd9f" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-482ed6b5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-cf55cd9f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
