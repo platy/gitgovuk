@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 May 2020
-    <br></br>Last updated 16 October 2020
+    <br></br>Last updated 23 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -83,19 +83,19 @@
       <div class="govspeak">
 <h2 id="latest-r-number-and-growth-rate">Latest <abbr title="the reproduction number">R</abbr> number and growth rate</h2>
 
-<p>Last updated on Friday 16 October 2020.<br></br><br></br></p>
+<p>Last updated on Friday 23 October 2020.<br></br><br></br></p>
 
 <aside class="stat-headline">
-<p>Latest <abbr title="the reproduction number">R</abbr> number range for the UK <em>1.3-1.5</em></p>
+<p>Latest <abbr title="the reproduction number">R</abbr> number range for the UK <em>1.2-1.4</em></p>
 </aside>
 
 <aside class="stat-headline">
-<p>Latest growth rate range for the UK <em>+4% to +7%</em> per day</p>
+<p>Latest growth rate range for the UK <em>+3% to +6%</em> per day</p>
 </aside>
 
-<p>An <abbr title="the reproduction number">R</abbr> number between 1.3 and 1.5 means that on average every 10 people infected will infect between 13 and 15 other people.</p>
+<p>An <abbr title="the reproduction number">R</abbr> number between 1.2 and 1.4 means that on average every 10 people infected will infect between 12 and 14 other people.</p>
 
-<p>A growth rate between +4% and +7% means the number of new infections is growing by 4% to 7% every day.</p>
+<p>A growth rate between +3% and +6% means the number of new infections is growing by 3% to 6% every day.</p>
 
 <p>The UK estimates of <abbr title="the reproduction number">R</abbr> and growth rate are averages over very different epidemiological situations and should be regarded as a guide to the general trend rather than a description of the epidemic state.</p>
 
@@ -115,47 +115,47 @@
     <tr>
       <th scope="row">England</th>
       <td>1.2-1.4</td>
-      <td style="text-align: right">+4 to +7</td>
+      <td style="text-align: right">+3 to +5</td>
     </tr>
     <tr>
       <th scope="row">East of England</th>
-      <td>1.3-1.5</td>
-      <td style="text-align: right">+4 to +8</td>
+      <td>1.2-1.4</td>
+      <td style="text-align: right">+3 to +6</td>
     </tr>
     <tr>
       <th scope="row">London</th>
-      <td>1.1-1.4</td>
+      <td>1.1-1.3</td>
       <td style="text-align: right">+2 to +5</td>
     </tr>
     <tr>
       <th scope="row">Midlands</th>
+      <td>1.1-1.3</td>
+      <td style="text-align: right">+2 to +5</td>
+    </tr>
+    <tr>
+      <th scope="row">North East and Yorkshire</th>
+      <td>1.1-1.3</td>
+      <td style="text-align: right">+2 to +5</td>
+    </tr>
+    <tr>
+      <th scope="row">North West</th>
+      <td>1.1-1.3</td>
+      <td style="text-align: right">+2 to +5</td>
+    </tr>
+    <tr>
+      <th scope="row">South East</th>
       <td>1.2-1.5</td>
       <td style="text-align: right">+4 to +7</td>
     </tr>
     <tr>
-      <th scope="row">North East and Yorkshire</th>
-      <td>1.3-1.4</td>
-      <td style="text-align: right">+4 to +7</td>
-    </tr>
-    <tr>
-      <th scope="row">North West</th>
-      <td>1.3-1.5</td>
-      <td style="text-align: right">+5 to +7</td>
-    </tr>
-    <tr>
-      <th scope="row">South East</th>
-      <td>1.3-1.5</td>
-      <td style="text-align: right">+5 to +8</td>
-    </tr>
-    <tr>
       <th scope="row">South West</th>
       <td>1.3-1.6</td>
-      <td style="text-align: right">+6 to +10</td>
+      <td style="text-align: right">+5 to +9</td>
     </tr>
   </tbody>
 </table>
 
-<p>When the numbers of cases or deaths fall to low levels and/or there is a high degree of variability in transmission across a region, then care should be taken when interpreting estimates of <abbr title="the reproduction number">R</abbr> and the growth rate. For example, a significant amount of variability across a region due to a local outbreak may mean that a single average value does not accurately reflect the way infections are changing throughout that region.</p>
+<p>When the numbers of cases or deaths are at low levels and/or there is a high degree of variability in transmission across a region, then care should be taken when interpreting estimates of <abbr title="the reproduction number">R</abbr> and the growth rate. For example, a significant amount of variability across a region due to a local outbreak may mean that a single average value does not accurately reflect the way infections are changing throughout that region.</p>
 
 <p>It is <abbr title="Scientific Advisory Group for Emergencies">SAGE</abbr>’s expert view, however, that this week’s estimates are reliable, and that there is still widespread growth of the epidemic across the country.</p>
 
@@ -213,7 +213,7 @@
 <p>Individual modelling groups use a range of data to estimate growth rates and <abbr title="the reproduction number">R</abbr> values, including:</p>
 
 <ul>
-  <li>epidemiological data as testing data, hospital admissions, <abbr title="intensive care unit">ICU</abbr> admissions and deaths – it generally takes up to 3 weeks for changes in the spread of disease to be reflected in the estimates due to the time delay between initial infection and the need for hospital care</li>
+  <li>epidemiological data such as testing data, hospital admissions, <abbr title="intensive care unit">ICU</abbr> admissions and deaths – it generally takes up to 3 weeks for changes in the spread of the disease to be reflected in the estimates due to the time delay between initial infection and the need for hospital care</li>
   <li>contact pattern surveys that gather information on behaviour – these can be quicker (with a lag of around a week) but can be open to bias as they often rely on self-reported behaviour and make assumptions about how the information collected relates to the spread of disease</li>
   <li>household infection surveys where swabs are performed on individuals – these can provide estimates of how many people are infected. Longitudinal surveys (where samples are repeatedly taken from the same people) allow a more direct estimate of the growth in infection rates</li>
 </ul>
@@ -254,10 +254,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 May 2020
-    <br></br>Last updated 16 October 2020
+    <br></br>Last updated 23 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-23T13:30:02.000+01:00">23 October 2020</time>
+              <p class="app-c-published-dates__change-note">The R number range for the UK is 1.2-1.4 and the growth rate range is +3% to +6% per day as of 23 October 2020.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-16T13:30:00.000+01:00">16 October 2020</time>
               <p class="app-c-published-dates__change-note">The R number range for the UK is 1.3-1.5 and the growth rate range is +4% to +7% per day as of 16 October 2020.</p>
@@ -378,14 +382,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-8369c5ae" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-ea493c9b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-8369c5ae" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-ea493c9b" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -419,9 +423,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e18fd503" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-29d35af4" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-e18fd503" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-29d35af4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
