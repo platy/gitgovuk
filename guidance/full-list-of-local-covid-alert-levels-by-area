@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 October 2020
-    <br></br>Last updated 24 October 2020
+    <br></br>Last updated 26 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -106,7 +106,6 @@
 <ul>
   <li>Cheshire East</li>
   <li>Cheshire West and Chester</li>
-  <li>Warrington</li>
 </ul>
 
 <h3 id="cumbria">Cumbria</h3>
@@ -254,6 +253,14 @@
 
 <h2 id="local-covid-alert-level-very-high">Local COVID alert level: very high</h2>
 
+<h3 id="cheshire-1">Cheshire</h3>
+
+<ul>
+  <li>Warrington</li>
+</ul>
+
+<p><a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-warrington" class="govuk-link">Find out what you can and cannot do if you live, work or travel in Warrington from 27 October</a>.</p>
+
 <h3 id="greater-manchester">Greater Manchester</h3>
 
 <p>Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-greater-manchester" class="govuk-link">what you can and cannot do if you live, work or travel in Greater Manchester</a>.</p>
@@ -322,10 +329,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 October 2020
-    <br></br>Last updated 24 October 2020
+    <br></br>Last updated 26 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-26T16:20:39.000+00:00">26 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated to show that Warrington will move to 'local COVID alert level: very high' from 27 October.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-24T00:00:11.000+01:00">24 October 2020</time>
               <p class="app-c-published-dates__change-note">Updated to reflect that Slough, Stoke-on-Trent and Coventry have moved into 'local COVID alert level: high' and Greater Manchester and South Yorkshire have moved into 'local COVID alert level: very high'.</p>
@@ -380,6 +391,31 @@
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-5bc14a35" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-5bc14a35" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/local-covid-alert-level-medium" data-track-options="{"dimension28":"5","dimension29":"Local COVID alert level: medium"}" href="/guidance/local-covid-alert-level-medium">Local COVID alert level: medium</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/local-covid-alert-level-very-high" data-track-options="{"dimension28":"5","dimension29":"Local COVID alert level: very high"}" href="/guidance/local-covid-alert-level-very-high">Local COVID alert level: very high</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/making-a-support-bubble-with-another-household" data-track-options="{"dimension28":"5","dimension29":"Making a support bubble with another household"}" href="/guidance/making-a-support-bubble-with-another-household">Making a support bubble with another household</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/local-covid-alert-levels-what-you-need-to-know" data-track-options="{"dimension28":"5","dimension29":"Local COVID alert levels: what you need to know"}" href="/guidance/local-covid-alert-levels-what-you-need-to-know">Local COVID alert levels: what you need to know</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/local-covid-alert-level-high" data-track-options="{"dimension28":"5","dimension29":"Local COVID alert level: high"}" href="/guidance/local-covid-alert-level-high">Local COVID alert level: high</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -401,9 +437,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-62b0d69c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6cf05953" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-62b0d69c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-6cf05953" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
