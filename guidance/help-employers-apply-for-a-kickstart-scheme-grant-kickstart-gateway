@@ -9,7 +9,20 @@
   </h1>
 </div>
   </div>
-  
+    <div class="govuk-grid-column-one-third">
+      <nav role="navigation" class="gem-c-translation-nav gem-c-translation-nav " aria-label="Translations">
+    <ul class="gem-c-translation-nav__list">
+        <li class="gem-c-translation-nav__list-item">
+            <span lang="en">English</span>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="cy" lang="cy" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/help-employers-apply-for-a-kickstart-scheme-grant-kickstart-gateway.cy">Cymraeg</a>
+        </li>
+    </ul>
+  </nav>
+
+  </div>
+
   <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph">Information for organisations who want to be a Kickstart gateway and help employers apply for the Kickstart Scheme. </p>
@@ -23,6 +36,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 9 October 2020
+    <br></br>Last updated 27 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -134,7 +149,7 @@
 
 <p>A Kickstart gateway is an organisation that has shown interest in representing employers who want to apply for 29 or less job placements. Kickstart gateways can be any type of organisation. <abbr title="Department for Work and Pensions">DWP</abbr> performs <a href="#req-exp" class="govuk-link">due diligence checks on these organisations</a></p>
 
-<p>Employers can <a href="https://www.gov.uk/guidance/find-someone-to-apply-for-a-kickstart-scheme-grant-on-your-behalf" class="govuk-link">look up details of Kickstart gateways</a> who have told us they’re interested in helping.</p>
+<p>Employers can look up details of Kickstart gateways who have told us they’re interested in helping.</p>
 
 <h2 id="what-get">What you’ll get</h2>
 
@@ -195,7 +210,7 @@
 
 <h2 id="get-your-details-added-to-a-list-of-kickstart-gateways-on-govuk">Get your details added to a list of Kickstart gateways on GOV.UK</h2>
 
-<p><a href="https://www.gov.uk/guidance/find-someone-to-apply-for-a-kickstart-scheme-grant-on-your-behalf" class="govuk-link">These Kickstart gateways</a> have told <abbr title="Department for Work and Pensions">DWP</abbr> they would like to help employers apply for Kickstart Scheme funding.</p>
+<p><a rel="external" href="https://secure.dwp.gov.uk/find-a-kickstart-gateway/" class="govuk-link">These Kickstart gateways</a> have told <abbr title="Department for Work and Pensions">DWP</abbr> they would like to help employers apply for Kickstart Scheme funding.</p>
 
 <p>Email <a href="mailto:kickstart.interest@dwp.gov.uk" class="govuk-link">kickstart.interest@dwp.gov.uk</a> if you’d like to be included on the list. You’ll be sent a form to complete before your details can be added.</p>
 
@@ -294,8 +309,9 @@
 
 <p><abbr title="Department for Work and Pensions">DWP</abbr> will send the funding to you as the Kickstart Scheme gateway. You will be responsible for sending the funding to the employer.</p>
 
-<p>£1,500 setup costs and £300 admin costs will be paid when the young person starts the job placement.
-This will come to you as a single payment of £1,800.</p>
+<p><a href="#what-get" class="govuk-link">£1,500 setup costs and £300 admin costs</a> will be paid when the young person starts the job placement.</p>
+
+<p>This will come to you as a single payment of £1,800.</p>
 
 <p>If the employer gets someone else to do some of the job placement setup and employability support, such as a Kickstart gateway, they will have to agree how to share this money.</p>
 
@@ -386,8 +402,22 @@ This will come to you as a single payment of £1,800.</p>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 9 October 2020
+    <br></br>Last updated 27 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-27T11:07:35.000+00:00">27 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added link to new 'find a Kickstart gateway' online service.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-09T17:32:00.000+01:00">9 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -414,21 +444,38 @@ This will come to you as a single payment of £1,800.</p>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-05926490" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-07e77d53" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-05926490" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-07e77d53" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-05926490" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/kickstart-scheme" data-track-options="{"dimension28":"1","dimension29":"Kickstart Scheme"}" href="/government/collections/kickstart-scheme">Kickstart Scheme</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/apply-for-a-kickstart-scheme-grant-29-or-less-job-placements" data-track-options="{"dimension28":"5","dimension29":"Apply for a Kickstart Scheme grant: 29 or less job placements"}" href="/guidance/apply-for-a-kickstart-scheme-grant-29-or-less-job-placements">Apply for a Kickstart Scheme grant: 29 or less job placements</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/apply-for-a-kickstart-scheme-grant-30-or-more-job-placements" data-track-options="{"dimension28":"5","dimension29":"Apply for a Kickstart Scheme grant: 30 or more job placements"}" href="/guidance/apply-for-a-kickstart-scheme-grant-30-or-more-job-placements">Apply for a Kickstart Scheme grant: 30 or more job placements</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/find-someone-to-apply-for-a-kickstart-scheme-grant-on-your-behalf" data-track-options="{"dimension28":"5","dimension29":"Find a Kickstart gateway to apply for a Kickstart Scheme grant on your behalf"}" href="/guidance/find-someone-to-apply-for-a-kickstart-scheme-grant-on-your-behalf">Find a Kickstart gateway to apply for a Kickstart Scheme grant on your behalf</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/kickstart-scheme-promotional-materials" data-track-options="{"dimension28":"5","dimension29":"Kickstart Scheme: promotional materials"}" href="/government/publications/kickstart-scheme-promotional-materials">Kickstart Scheme: promotional materials</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/kickstart-scheme-employer-contacts" data-track-options="{"dimension28":"5","dimension29":"Kickstart Scheme employer contacts"}" href="/government/publications/kickstart-scheme-employer-contacts">Kickstart Scheme employer contacts</a></li>
+
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-07e77d53" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-07e77d53" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/kickstart-scheme" data-track-options="{"dimension28":"1","dimension29":"Kickstart Scheme"}" href="/government/collections/kickstart-scheme">Kickstart Scheme</a></li>
 
   </ul>
 </nav>
@@ -455,9 +502,9 @@ This will come to you as a single payment of £1,800.</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6ef3468d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2b40b024" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6ef3468d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-2b40b024" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
