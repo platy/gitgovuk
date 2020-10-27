@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 November 2018
-    <br></br>Last updated 25 September 2020
+    <br></br>Last updated 27 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -69,49 +69,58 @@
 </div>
 
 <table>
+  <thead>
+    <tr>
+      <th scope="col">Date and time</th>
+      <th scope="col">Location</th>
+      <th scope="col">Venue</th>
+      <th scope="col">Information</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td>Date and time</td>
-      <td>Location</td>
-      <td>Venue</td>
-      <td>Registration</td>
+      <th scope="row">Thursday 29 October, 10:00am</th>
+      <td>Benahavís (Málaga)</td>
+      <td>External event hosted by <a rel="external" href="https://spain.iom.int/es/support-british-nationals-based-spain-uknsf-0" class="govuk-link">‘IOM – The International Organisation for Migration’</a> at Salon de Actos, Benahavis town hall, Av. de Andalucia, 34, 29679 Benahavís</td>
+      <td><a href="mailto:uknationals@iom.int" class="govuk-link">For more information email here</a></td>
     </tr>
     <tr>
-      <td>EXTERNAL EVENT - Monday 28 September, 10:30am</td>
-      <td>Orihuela (Alicante)</td>
-      <td>Event hosted by <a rel="external" href="https://asociacionbabelia.org/asociacion-babelia-in-orihuela-costa-informative-talk-for-uk-nationals-willing-to-apply-for-residency-in-spain/" class="govuk-link">Babelia Association</a>, Orihuela Costa Town Hall, Plaza del Oriol, 1, Urbanización Playa Flamenca, 03189 Orihuela Costa</td>
-      <td><a href="mailto:residentes@orihuela.es" class="govuk-link">Register here</a></td>
+      <th scope="row">Friday 30 October, 10:00am</th>
+      <td>Benahavís (Málaga)</td>
+      <td>External event hosted by <a rel="external" href="https://spain.iom.int/es/support-british-nationals-based-spain-uknsf-0" class="govuk-link">‘IOM – The International Organisation for Migration’</a> at Salon de Actos, Benahavis town hall, Av. de Andalucia, 34, 29679 Benahavís</td>
+      <td><a href="mailto:uknationals@iom.int" class="govuk-link">For more information email here</a></td>
     </tr>
     <tr>
-      <td>Tuesday 6 October, 6:00pm</td>
+      <th scope="row">‘POP-UP EVENT’ Friday 30 October, 10:00am - 2:00pm</th>
+      <td>Barcelona city</td>
+      <td>External event on residency hosted by <a rel="external" href="https://www.ageinspain.org/" class="govuk-link">‘Age in Spain’</a> at ‘A Taste of Home’ Supermarket, Carrer Roger de Lluria, 53, 08009 Barcelona</td>
+      <td><a rel="external" href="https://www.ageinspain.org/residency-helpline?fbclid=IwAR0seVdqkHJoO-oKwAJXEhVBFr3la_y9fQkxHLKIednZfMuGbUDOb13hYQU" class="govuk-link">See further information here</a></td>
+    </tr>
+    <tr>
+      <th scope="row">‘POP-UP EVENT’ Monday 2 November, 10:00am - 2:00pm</th>
+      <td>Sitges (Barcelona)</td>
+      <td>External event on residency  hosted by <a rel="external" href="https://www.ageinspain.org/" class="govuk-link">‘Age in Spain’</a> at ‘A Taste of Home’ Supermarket, Carrer Sant Josep, 32, 08870 Sitges</td>
+      <td><a rel="external" href="https://www.ageinspain.org/residency-helpline?fbclid=IwAR0seVdqkHJoO-oKwAJXEhVBFr3la_y9fQkxHLKIednZfMuGbUDOb13hYQU" class="govuk-link">See further information here</a></td>
+    </tr>
+    <tr>
+      <th scope="row">‘POP-UP EVENT’ Friday 6 November, 10:00am - 1:00pm</th>
+      <td>Cubelles (Barcelona)</td>
+      <td>External event on residency hosted by <a rel="external" href="https://www.ageinspain.org/" class="govuk-link">‘Age in Spain’</a> at ‘A Taste of Home’ Supermarket, Carrer Maestrat 11, 08880 Cubelles</td>
+      <td><a rel="external" href="https://www.ageinspain.org/residency-helpline?fbclid=IwAR0seVdqkHJoO-oKwAJXEhVBFr3la_y9fQkxHLKIednZfMuGbUDOb13hYQU" class="govuk-link">See further information here</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Tuesday 10 November, 6:00pm</th>
       <td>Online</td>
-      <td>‘Facebook Live Q&A on pensions, benefits, working & driving’, <a rel="external" href="https://www.facebook.com/BritsInSpain/" class="govuk-link">‘Brits in Spain’ Facebook page</a>
+      <td>Facebook Live on Q&A on Education  <a rel="external" href="https://www.facebook.com/BritsInSpain/" class="govuk-link">‘Brits in Spain’ Facebook page</a>
 </td>
       <td> </td>
-    </tr>
-    <tr>
-      <td>Tuesday 13 October, 1:00pm</td>
-      <td>Online</td>
-      <td>‘Facebook Live Q&A on healthcare’, <a rel="external" href="https://www.facebook.com/BritsInSpain/" class="govuk-link">‘Brits in Spain’ Facebook page</a>
-</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>EXTERNAL EVENT - Wednesday 14 October, 12:00pm</td>
-      <td>Online</td>
-      <td>‘Life in Spain’ Webinar by Blevins Franks</td>
-      <td><a rel="external" href="https://www.blevinsfranks.com/webinar-life-in-spain" class="govuk-link">Register here</a></td>
     </tr>
   </tbody>
 </table>
 
 <p>If you are interested to see where we have <a href="#Previous-events" class="govuk-link">held previous events, please click here</a>.</p>
 
-<p>We hosted a <a rel="external" href="https://www.facebook.com/BritsInSpain/videos/3207793459277696" class="govuk-link">Facebook Live session</a> in July 2020, which contains answers to many of the key questions people have on living in Spain.</p>
-
-<p>You can also find a <a href="https://www.gov.uk/government/news/british-embassy-madrid-answers-questions-on-brexit" class="govuk-link">write up from our previous Facebook Live</a> which you may find useful, although do note that this was created on 11 April 2019.</p>
-
-<p>Due to the developing nature of these subjects, please check our <a href="https://www.gov.uk/guidance/living-in-spain" class="govuk-link">Living in Spain guide</a> for the latest information or <a rel="external" href="https://www.facebook.com/BritsInSpain/" class="govuk-link">join our Facebook community</a> where we will highlight any news you need to know about.</p>
+<p>Please check our <a href="https://www.gov.uk/guidance/living-in-spain" class="govuk-link">Living in Spain guide</a> for the latest information or <a rel="external" href="https://www.facebook.com/BritsInSpain/" class="govuk-link">join our Facebook community</a> where we will highlight any news you need to know about.</p>
 
 <div class="call-to-action">
 <p>Visit our <a href="https://www.gov.uk/guidance/living-in-spain" class="govuk-link">Living in Spain guide</a> for practical information, such as applying for residency, registering on the padrón, healthcare and driving.</p>
@@ -124,7 +133,7 @@
 
 <p>✔ sign up to the <a href="https://www.gov.uk/email-signup/?topic=/world/living-in-spain" class="govuk-link">Spain Living in Guide email alerts</a></p>
 
-<p>✔ follow us on <a rel="external" href="https://www.facebook.com/BritsInSpain/" class="govuk-link">Facebook</a> and <a rel="external" href="https://twitter.com/britslivespain?lang=en" class="govuk-link">Twitter</a></p>
+<p>✔ follow us on <a rel="external" href="https://www.facebook.com/BritsInSpain/" class="govuk-link">Facebook</a></p>
 
 <p>✔ sign up to <a href="https://www.gov.uk/email-signup/?topic=/transition" class="govuk-link">email alerts on the transition period</a></p>
 </div>
@@ -146,7 +155,42 @@
 <h3 id="section">2020</h3>
 
 <table>
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Location</th>
+      <th scope="col">Event</th>
+    </tr>
+  </thead>
   <tbody>
+    <tr>
+      <td>27 October</td>
+      <td>FACEBOOK LIVE Q&A ON TRAVEL AND SWALLOWS <a rel="external" href="https://www.facebook.com/BritsInSpain/videos/477843956509298/" class="govuk-link">‘Brits in Spain’ Facebook page</a>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14 October</td>
+      <td>‘Life in Spain’ <a rel="external" href="https://www.blevinsfranks.com/webinar-life-in-spain" class="govuk-link">webinar hosted by Blevins Franks</a>
+</td>
+      <td>EXTERNAL EVENT</td>
+    </tr>
+    <tr>
+      <td>13 October</td>
+      <td>FACEBOOK LIVE Q&A ON HEALTHCARE <a rel="external" href="https://www.facebook.com/BritsInSpain/videos/833389920746611/" class="govuk-link">‘Brits in Spain’ Facebook page</a>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>6 October</td>
+      <td><a rel="external" href="https://www.facebook.com/BritsInSpain/videos/992335001250713" class="govuk-link">FACEBOOK LIVE Q&A ON PENSIONS, BENEFITS, WORKING & DRIVING</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>28 September</td>
+      <td>Orihuela (Alicante) event hosted by Babelia Association</td>
+      <td>EXTERNAL EVENT</td>
+    </tr>
     <tr>
       <td>12 August</td>
       <td>L’Alfàs del Pi (Alicante)</td>
@@ -288,6 +332,13 @@
 <h3 id="section-1">2019</h3>
 
 <table>
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Location</th>
+      <th scope="col">Event</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>15 January</td>
@@ -935,238 +986,303 @@
 <h3 id="section-2">2018</h3>
 
 <table>
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Location</th>
+      <th scope="col">Event</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>18 December</td>
       <td>Benidorm (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>18 December</td>
       <td>Jalon Valley (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>10 December</td>
       <td>Javea (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>30 November</td>
       <td>Tías (Lanzarote)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>29 November</td>
       <td>Sant Cugat del Vallès (Barcelona)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>29 November</td>
       <td>La Oliva (Fuerteventura)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>28 November</td>
       <td>Sitges (Barcelona)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>27 November</td>
       <td>Arona (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>21 November</td>
       <td>Calpe (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>21 November</td>
       <td>Finestrat (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>20 November</td>
       <td>Denia (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>20 November</td>
       <td>Altea (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>15 November</td>
       <td>Orihuela costa (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>15 November</td>
       <td>San Miguel de Salinas (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>14 November</td>
       <td>Torrevieja (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>13 November</td>
       <td>Mazarron (Murcia)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>13 November</td>
       <td>Fuengirola (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>8 November</td>
       <td>Benitatxell (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>8 November</td>
       <td>Teulada (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>8 November</td>
       <td>Hondon Valley (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>7 November</td>
       <td>Rojales (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>6 November</td>
       <td>Pilar de la Horadada (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>6 November</td>
       <td>San Fulgencio (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>5 November</td>
       <td>La Viñuela (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>7 August</td>
       <td>Marbella (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>5 July</td>
       <td>Puerto de la Cruz (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>5 July</td>
       <td>Adeje (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>3 July</td>
       <td>Las Palmas (Gran Canaria)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>28 June</td>
       <td>Yaiza (Lanzarote)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>25 June</td>
       <td>Santa Gertrudis (Ibiza)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>21 June</td>
       <td>Mojacar (Almeria)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>20 June</td>
       <td>Costa Teguise (Lanzarote)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>12 June</td>
       <td>Calvia (Mallorca)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>6   June</td>
       <td>Castelldefels (Barcelona)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>5  June</td>
       <td>San Pedro del Pinatar (Murcia)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>5  June</td>
       <td>Girona (Barcelona)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>24 May</td>
       <td>Torremolinos (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>18 May</td>
       <td>Benidorm Villa Mar campsite (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>18 May</td>
       <td>Alfas del Pi Campsite (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>17 May</td>
       <td>La Nucia (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>17 May</td>
       <td>Finestrat (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>15 May</td>
       <td>Torre del Mar (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>2 May</td>
       <td>Arboleas (Almeria)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>2 May</td>
       <td>Madrid</td>
+      <td> </td>
     </tr>
     <tr>
       <td>26 April</td>
       <td>Estepona (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>23 March</td>
       <td>Palomares (Almeria)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>22 March</td>
       <td>Mijas (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>22 March</td>
       <td>Manilva (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>21 February</td>
       <td>Alfas del Pi (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>21 February</td>
       <td>Teulada (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>20 February</td>
       <td>Benidorm (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>20 February</td>
       <td>Javea (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>13 February</td>
       <td>Pilar de la Horadada (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>13 February</td>
       <td>San Fulgencio  (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>12 February</td>
       <td>Alicante</td>
+      <td> </td>
     </tr>
     <tr>
       <td>12 February</td>
       <td>Torrevieja (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>12 February</td>
       <td>Rojales (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>6 February</td>
       <td>Mazarron (Murcia)</td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
@@ -1174,94 +1290,123 @@
 <h4 id="section-3">2017</h4>
 
 <table>
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Location</th>
+      <th scope="col">Event</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>21 December</td>
       <td>Elche (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>11 December</td>
       <td>Orihuela Costa (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>1 December</td>
       <td>Barcelona</td>
+      <td> </td>
     </tr>
     <tr>
       <td>22 November</td>
       <td>San Antonio (Ibiza)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>21 November</td>
       <td>Salou (Tarragona)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>10 November</td>
       <td>Ciutadella (Menorca)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>10 November</td>
       <td>Mahon (Menorca)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>9 November</td>
       <td>Calvia (Mallorca)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>25 October</td>
       <td>Torroella de Montgrí (Girona)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>18 October</td>
       <td>Adeje (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>18 October</td>
       <td>Puerto de la Cruz (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>17 October</td>
       <td>Lanzarote</td>
+      <td> </td>
     </tr>
     <tr>
       <td>16 October</td>
       <td>Las Palmas (Gran Canaria)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>23 March</td>
       <td>Santa Eulalia (Ibiza)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>14 June</td>
       <td>San Antonio (Ibiza)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>30 June</td>
       <td>Mahon (Menorca)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>26 April</td>
       <td>Las Palmas (Gran Canaria)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>24 February</td>
       <td>Mijas (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>1 February</td>
       <td>Orihuela (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>17 January</td>
       <td>Los Cristianos (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>11	 January</td>
       <td>Puerto de la Cruz (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>9  January</td>
       <td>La Vinuela (Malaga)</td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
@@ -1269,102 +1414,133 @@
 <h4 id="section-4">2016</h4>
 
 <table>
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Location</th>
+      <th scope="col">Event</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>19 December</td>
       <td>Palma (Mallorca)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>5 December</td>
       <td>Mutxamel (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>1 December</td>
       <td>Malaga (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>29 November</td>
       <td>Madrid (Madrid)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>28 November</td>
       <td>Puerto de la Cruz (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>28 November</td>
       <td>Torrevieja (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>8 November</td>
       <td>Madrid (Madrid)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>3 November</td>
       <td>Javea (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>3 November</td>
       <td>Teulada (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>2 November</td>
       <td>Mazarron (Murcia)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>27 October</td>
       <td>Barcelona (Barcelona)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>25 October</td>
       <td>Calpe (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>4 October</td>
       <td>Malaga (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>13 October</td>
       <td>Girona (Girona)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>28 September</td>
       <td>Barcelona (Barcelona)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>22 September</td>
       <td>Fuerteventura (Canary Islands)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>15 September</td>
       <td>Puerto Santiago (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>8 September</td>
       <td>Jalon Valley (Alicante)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>1 September</td>
       <td>Pollensa (Mallorca)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>28 July</td>
       <td>Marbella (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>27 July</td>
       <td>Mijas (Malaga)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>26 July</td>
       <td>Calvia (Mallorca)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>15 July</td>
       <td>Adeje (Tenerife)</td>
+      <td> </td>
     </tr>
     <tr>
       <td>14 July</td>
       <td>Torrevieja (Alicante)</td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
@@ -1413,10 +1589,18 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 November 2018
-    <br></br>Last updated 25 September 2020
+    <br></br>Last updated 27 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-27T14:30:00.000+00:00">27 October 2020</time>
+              <p class="app-c-published-dates__change-note">Addition of new external pop-up events on residency in Barcelona and Malaga.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-20T10:33:30.000+01:00">20 October 2020</time>
+              <p class="app-c-published-dates__change-note">Addition of two new Facebook Live Q&A events.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-25T15:23:50.000+01:00">25 September 2020</time>
               <p class="app-c-published-dates__change-note">Addition of forthcoming online events in Spain.</p>
@@ -1681,24 +1865,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-11ff75e3" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b0035723" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-11ff75e3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b0035723" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/residency-requirements-in-spain" data-track-options="{"dimension28":"5","dimension29":"Spain: register your residency"}" href="/guidance/residency-requirements-in-spain">Spain: register your residency</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/turkey-list-of-medical-practitioners" data-track-options="{"dimension28":"5","dimension29":"List of medical facilities in Turkey"}" href="/government/publications/turkey-list-of-medical-practitioners">List of medical facilities in Turkey</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/holidaying-in-greece--2" data-track-options="{"dimension28":"5","dimension29":"Holidaying in Greece: information leaflet"}" href="/government/publications/holidaying-in-greece--2">Holidaying in Greece: information leaflet</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/medical-facilities" data-track-options="{"dimension28":"5","dimension29":"Greece: medical facilities"}" href="/government/publications/medical-facilities">Greece: medical facilities</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/advice-for-british-nationals-studying-in-the-usa" data-track-options="{"dimension28":"5","dimension29":"Advice for British nationals studying in the USA"}" href="/government/publications/advice-for-british-nationals-studying-in-the-usa">Advice for British nationals studying in the USA</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/healthcare-for-uk-nationals-visiting-spain" data-track-options="{"dimension28":"5","dimension29":"Healthcare for UK nationals visiting Spain"}" href="/guidance/healthcare-for-uk-nationals-visiting-spain">Healthcare for UK nationals visiting Spain</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/how-to-buy-property-in-spain" data-track-options="{"dimension28":"5","dimension29":"Spain: buying and renting property"}" href="/guidance/how-to-buy-property-in-spain">Spain: buying and renting property</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-latvia" data-track-options="{"dimension28":"5","dimension29":"Living in Latvia"}" href="/guidance/living-in-latvia">Living in Latvia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-poland" data-track-options="{"dimension28":"5","dimension29":"Living in Poland"}" href="/guidance/living-in-poland">Living in Poland</a></li>
 
   </ul>
 </nav>
@@ -1725,9 +1909,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1d05a669" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a88cc74f" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-1d05a669" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-a88cc74f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -1735,16 +1919,16 @@
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/entering-staying-uk" data-track-options="{"dimension28":"4","dimension29":"Entering and staying in the UK"}" href="/entering-staying-uk">Entering and staying in the UK</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/going-and-being-abroad/british-nationals-overseas" data-track-options="{"dimension28":"4","dimension29":"British nationals overseas"}" href="/going-and-being-abroad/british-nationals-overseas">British nationals overseas</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/going-and-being-abroad/living-abroad" data-track-options="{"dimension28":"4","dimension29":"Living abroad"}" href="/going-and-being-abroad/living-abroad">Living abroad</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.4 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"4","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.4 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"4","dimension29":"UK and EU transition: new rules for 2021"}" href="/transition">UK and EU transition: new rules for 2021</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-1d05a669" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-a88cc74f" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-1d05a669" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-a88cc74f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
