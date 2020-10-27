@@ -9,7 +9,44 @@
   </h1>
 </div>
   </div>
-  
+    <div class="govuk-grid-column-one-third">
+      <nav role="navigation" class="gem-c-translation-nav gem-c-translation-nav " aria-label="Translations">
+    <ul class="gem-c-translation-nav__list">
+        <li class="gem-c-translation-nav__list-item">
+            <span lang="en">English</span>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="ar" lang="ar" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/local-covid-alert-levels-what-you-need-to-know.ar">العربية</a>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="bn" lang="bn" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/local-covid-alert-levels-what-you-need-to-know.bn">বাংলা</a>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="cy" lang="cy" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/local-covid-alert-levels-what-you-need-to-know.cy">Cymraeg</a>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="pl" lang="pl" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/local-covid-alert-levels-what-you-need-to-know.pl">Polski</a>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="ro" lang="ro" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/local-covid-alert-levels-what-you-need-to-know.ro">Română</a>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="so" lang="so" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/local-covid-alert-levels-what-you-need-to-know.so">Soomaaliga</a>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="tr" lang="tr" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/local-covid-alert-levels-what-you-need-to-know.tr">Türkçe</a>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="ur" lang="ur" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/local-covid-alert-levels-what-you-need-to-know.ur">اردو</a>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="zh" lang="zh" rel="alternate" class="gem-c-translation-nav__link " href="/guidance/local-covid-alert-levels-what-you-need-to-know.zh">中文</a>
+        </li>
+    </ul>
+  </nav>
+
+  </div>
+
   <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph">Information on local COVID alert levels, including what they mean, why they are being introduced and what the different levels are.</p>
@@ -23,7 +60,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 October 2020
-    <br></br>Last updated 12 October 2020
+    <br></br>Last updated 27 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -95,17 +132,13 @@
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<div class="call-to-action">
-<p>These rules will apply from 00.01 on Wednesday 14 October. You must follow the current guidance until then.</p>
-</div>
-
 <h2 id="what-local-covid-alert-levels-mean">What local COVID alert levels mean</h2>
 
-<p>Local COVID alert levels set out information for local authorities, residents and workers about what to do and how to manage the outbreak in their area.</p>
+<p>Local COVID alert levels set out information for local authorities, residents and workers about what to do and how to manage the outbreak in their area. Local COVID alert levels are sometimes called ‘tiers’ or known as a ‘local lockdown’.</p>
 
 <p>Find out what you can and cannot do if you live, work or travel in each local COVID alert level.</p>
 
-<p>Check the <a href="https://www.gov.uk/guidance/full-list-of-local-covid-alert-levels-by-area" class="govuk-link">local COVID alert level of your local area</a> to see which level applies to you.</p>
+<p>Check the <a href="https://www.gov.uk/find-coronavirus-local-restrictions" class="govuk-link">local COVID alert level of your local area</a> to see which level applies to you.</p>
 
 <h2 id="why-the-government-is-introducing-local-covid-alert-levels">Why the government is introducing local COVID alert levels</h2>
 
@@ -122,11 +155,11 @@
   <li>businesses and venues can continue to operate, in a COVID-secure manner, other than those that remain closed in law</li>
   <li>certain businesses are required to ensure customers only consume food and drink while seated, and must close between 10pm and 5am</li>
   <li>businesses and venues selling food for consumption off the premises can continue to do so after 10pm as long as this is through delivery service, click-and-collect or drive-through</li>
-  <li>schools and universities remain open</li>
+  <li>schools, colleges and universities remain open</li>
   <li>places of worship remain open, subject to the <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing" class="govuk-link">rule of 6</a>
 </li>
   <li>weddings and funerals can go ahead with restrictions on numbers of attendees</li>
-  <li>exercise classes and organised sport can continue to take place outdoors, or indoors if the <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing" class="govuk-link">rule of 6</a> is followed</li>
+  <li>exercise classes and <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-phased-return-of-sport-and-recreation" class="govuk-link">organised sport</a> can continue to take place outdoors, or indoors if the <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing" class="govuk-link">rule of 6</a> is followed; there are exceptions for supervised activities for under-18s, and disability sport</li>
 </ul>
 
 <p>You must:</p>
@@ -140,8 +173,10 @@
 <ul>
   <li>follow social distancing rules</li>
   <li>work from home where you can effectively do so</li>
-  <li>when travelling, plan ahead or avoid busy times and routes. Walk or cycle if you can</li>
+  <li>when travelling, plan ahead or avoid busy times and routes; walk or cycle if you can</li>
 </ul>
+
+<p><a href="https://www.gov.uk/guidance/local-covid-alert-level-medium" class="govuk-link">Find out more about the measures that apply in medium alert level areas</a> to help reduce the spread of COVID-19.</p>
 
 <h2 id="local-covid-alert-level-high">Local COVID alert level: high</h2>
 
@@ -155,9 +190,9 @@
   <li>businesses and venues can continue to operate, in a COVID-secure manner, other than those that remain closed in law</li>
   <li>certain businesses are required to ensure customers only consume food and drink while seated, and must close between 10pm and 5am</li>
   <li>businesses and venues selling food for consumption off the premises can continue to do so after 10pm as long as this is through delivery service, click-and-collect or drive-through</li>
-  <li>schools, universities and places of worship remain open</li>
+  <li>schools, colleges, universities and places of worship remain open</li>
   <li>weddings and funerals can go ahead with restrictions on the number of attendees</li>
-  <li>exercise classes and organised sport can continue to take place outdoors. These will only be permitted indoors if it is possible for people to avoid mixing with people they do not live with or share a support bubble with, or for youth or disability sport</li>
+  <li>exercise classes and <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-phased-return-of-sport-and-recreation" class="govuk-link">organised sport</a> can continue to take place outdoors; these will only be permitted indoors if it is possible for people to avoid mixing with people they do not live with or share a support bubble with; there are exceptions for supervised activities for under-18s, and disability sport</li>
   <li>you can continue to travel to venues or amenities that are open, for work or to access education, but should look to reduce the number of journeys you make where possible</li>
 </ul>
 
@@ -175,23 +210,25 @@
   <li>walk or cycle where possible, or plan ahead and avoid busy times and routes on public transport</li>
 </ul>
 
+<p><a href="https://www.gov.uk/guidance/local-covid-alert-level-high" class="govuk-link">Find out more about the measures that apply in high alert level areas</a> to help reduce the spread of COVID-19.</p>
+
 <h2 id="local-covid-alert-level-very-high">Local COVID alert level: very high</h2>
 
-<p>This is for areas with a very high level of infections and where tighter restrictions are in place. The restrictions placed on areas with a very high level of infections can vary, and are based on discussions between central and local government. You should therefore <a href="https://www.gov.uk/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19" class="govuk-link">check the specific rules in your area</a>.</p>
+<p>This is for areas with a very high level of infections and where tighter restrictions are in place. The restrictions placed on areas with a very high level of infections can vary, and are based on discussions between central and local government. You should therefore <a href="https://www.gov.uk/guidance/full-list-of-local-covid-alert-levels-by-area#local-covid-alert-level-very-high" class="govuk-link">check the specific rules in your area</a>.</p>
 
 <p>At a minimum, this means:</p>
 
 <ul>
-  <li>you must not socialise with anybody you do not live with, or have formed a support bubble with, in any indoor setting or in any private garden or at most outdoor hospitality venues and ticketed events</li>
+  <li>you must not socialise with anybody you do not live with or have formed a support bubble with, in any indoor setting or in any private garden or at most outdoor hospitality venues and ticketed events</li>
   <li>you must not socialise in a group of more than 6 in an outdoor public space such as a park or beach, the countryside, a public garden or a sports venue</li>
-  <li>pubs and bars must close. They can only remain open where they operate as if they were a restaurant, which means serving substantial meals, like a main lunchtime or evening meal. They may only serve alcohol as part of such a meal</li>
-  <li>schools and universities remain open</li>
+  <li>pubs and bars must close; they can only remain open where they operate as if they were a restaurant, which means serving substantial meals, like a main lunchtime or evening meal, and they may only serve alcohol as part of such a meal</li>
+  <li>schools, colleges and universities remain open</li>
   <li>places of worship remain open, but household mixing is not permitted</li>
   <li>
-<a href="https://www.gov.uk/government/publications/covid-19-guidance-for-small-marriages-and-civil-partnerships/covid-19-guidance-for-small-marriages-and-civil-partnerships" class="govuk-link">weddings</a> and <a href="https://www.gov.uk/government/publications/covid-19-guidance-for-managing-a-funeral-during-the-coronavirus-pandemic" class="govuk-link">funerals</a> can go ahead with restrictions on the number of attendees. However, wedding receptions are not allowed</li>
-  <li>exercise classes and organised sport can continue to take place outdoors. These will only be permitted indoors if it is possible for people to avoid mixing with people they do not live with (or share a support bubble with), or for youth or disability sport</li>
-  <li>you should try to avoid travelling outside the very-high alert level area you are in or entering a very-high alert level area, other than for things like work, education or youth services, to meet caring responsibilities or if you are travelling through as part of a longer journey</li>
-  <li>you should avoid staying overnight in another part of the UK if you are resident in a very-high alert level area, or avoid staying overnight in a very-high alert level area if you are resident elsewhere</li>
+<a href="https://www.gov.uk/government/publications/covid-19-guidance-for-small-marriages-and-civil-partnerships/covid-19-guidance-for-small-marriages-and-civil-partnerships" class="govuk-link">weddings</a> and <a href="https://www.gov.uk/government/publications/covid-19-guidance-for-managing-a-funeral-during-the-coronavirus-pandemic" class="govuk-link">funerals</a> can go ahead with restrictions on the number of attendees; however, wedding receptions are not allowed</li>
+  <li>exercise classes and <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-phased-return-of-sport-and-recreation" class="govuk-link">organised sport</a> can continue to take place outdoors; these will only be permitted indoors if it is possible for people to avoid mixing with people they do not live with or share a support bubble with; there are exceptions for supervised activities for under-18s, and disability sport</li>
+  <li>you should try to avoid travelling outside the very high alert level area you are in or entering a very high alert level area, other than for things like work, education or youth services, to meet caring responsibilities or if you are travelling through as part of a longer journey</li>
+  <li>you should avoid staying overnight in another part of the UK if you are resident in a very high alert level area, or avoid staying overnight in a very high alert level area if you are resident elsewhere</li>
 </ul>
 
 <p>You must:</p>
@@ -208,18 +245,20 @@
   <li>travel to venues or amenities that are open, for work or to access education, but aim to reduce the number of journeys you make</li>
 </ul>
 
-<p>This is the baseline in very-high alert level areas. The government will also seek to agree additional interventions in consultation with local authorities, in order to drive down transmission of the virus. These could include the following options:</p>
+<p>This is the baseline in very high alert level areas. The government will also seek to agree additional interventions in consultation with local authorities, in order to reduce the spread of the virus. These could include the following options:</p>
 
 <ul>
   <li>restrictions preventing the sale of alcohol in hospitality or closing all hospitality (except takeaway and delivery)</li>
   <li>closing indoor and outdoor entertainment venues and tourist attractions</li>
   <li>closing venues such as leisure centres and gyms (while ensuring provision remains available for elite athletes, youth and disabled sport and physical activity)</li>
-  <li>closing public buildings, such as libraries and community centres (while ensuring provision remains available for youth and childcare activites and support groups)</li>
+  <li>closing public buildings, such as libraries and community centres (while ensuring provision remains available for youth and childcare activities and support groups)</li>
   <li>closing personal care and close contact services or prohibiting the highest-risk activities</li>
   <li>closing performing arts venues for the purposes of performing to audiences</li>
 </ul>
 
-<p>You should therefore <a href="https://www.gov.uk/guidance/full-list-of-local-covid-alert-levels-by-area" class="govuk-link">check whether additional restrictions apply in your area</a>.</p>
+<p>You should therefore <a href="https://www.gov.uk/find-coronavirus-local-restrictions" class="govuk-link">check whether additional restrictions apply in your area</a>.</p>
+
+<p><a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high" class="govuk-link">Find out more about the measures that apply in very high alert level areas</a> to help reduce the spread of COVID-19.</p>
 </div>
 </div>
 
@@ -227,10 +266,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 October 2020
-    <br></br>Last updated 12 October 2020
+    <br></br>Last updated 27 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-27T17:53:24.000+00:00">27 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added translated versions of the guidance in Arabic, Bengali, Chinese, Polish, Romanian, Somali, Turkish, Urdu and Welsh.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-12T22:28:05.000+01:00">12 October 2020</time>
               <p class="app-c-published-dates__change-note">Updated to include the date from which the COVID rules apply.</p>
@@ -271,21 +314,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-9823a8dc" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-0c128c5a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-9823a8dc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-0c128c5a" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-9823a8dc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="1.1 Collection" data-track-label="/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19" data-track-options="{"dimension28":"1","dimension29":"Local restrictions: areas with an outbreak of coronavirus (COVID-19)"}" href="/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19">Local restrictions: areas with an outbreak of coronavirus (COVID-19)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/local-covid-alert-level-high" data-track-options="{"dimension28":"5","dimension29":"Local COVID alert level: high"}" href="/guidance/local-covid-alert-level-high">Local COVID alert level: high</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/local-covid-alert-level-medium" data-track-options="{"dimension28":"5","dimension29":"Local COVID alert level: medium"}" href="/guidance/local-covid-alert-level-medium">Local COVID alert level: medium</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/full-list-of-local-covid-alert-levels-by-area" data-track-options="{"dimension28":"5","dimension29":"Full list of local COVID alert levels by area"}" href="/guidance/full-list-of-local-covid-alert-levels-by-area">Full list of local COVID alert levels by area</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/find-coronavirus-local-restrictions" data-track-options="{"dimension28":"5","dimension29":"Find out the coronavirus restrictions in a local area"}" href="/find-coronavirus-local-restrictions">Find out the coronavirus restrictions in a local area</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/making-a-support-bubble-with-another-household" data-track-options="{"dimension28":"5","dimension29":"Making a support bubble with another household"}" href="/guidance/making-a-support-bubble-with-another-household">Making a support bubble with another household</a></li>
 
   </ul>
 </nav>
@@ -312,9 +358,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-20f68373" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2fe13dfb" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-20f68373" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-2fe13dfb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
