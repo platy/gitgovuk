@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 October 2020
-    <br></br>Last updated 26 October 2020
+    <br></br>Last updated 28 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -173,19 +173,6 @@
   <li>All 32 boroughs plus the City of London</li>
 </ul>
 
-<h3 id="nottinghamshire">Nottinghamshire</h3>
-
-<ul>
-  <li>Ashfield</li>
-  <li>Bassetlaw</li>
-  <li>Broxtowe</li>
-  <li>Gedling</li>
-  <li>Mansfield</li>
-  <li>Newark & Sherwood</li>
-  <li>Nottingham City</li>
-  <li>Rushcliffe</li>
-</ul>
-
 <h3 id="northumberland">Northumberland</h3>
 
 <ul>
@@ -312,6 +299,21 @@
   <li>Wirral</li>
 </ul>
 
+<h3 id="nottinghamshire-moving-to-local-covid-alert-level-very-high-from-30-october">Nottinghamshire (moving to local COVID alert level: Very High from 30 October)</h3>
+
+<p>These areas are currently in <a href="https://www.gov.uk/guidance/local-covid-alert-level-high" class="govuk-link">local COVID alert level high</a>, but will move to very high from 30 October. Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-nottinghamshire" class="govuk-link">what you can and cannot do if you live, work or travel in these regions of Nottinghamshire</a> from 30 October.</p>
+
+<ul>
+  <li>Ashfield</li>
+  <li>Bassetlaw</li>
+  <li>Broxtowe</li>
+  <li>Gedling</li>
+  <li>Mansfield</li>
+  <li>Newark & Sherwood</li>
+  <li>Nottingham City</li>
+  <li>Rushcliffe</li>
+</ul>
+
 <h3 id="south-yorkshire">South Yorkshire</h3>
 
 <p>Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-south-yorkshire" class="govuk-link">what you can and cannot do if you live, work or travel in South Yorkshire</a>.</p>
@@ -329,10 +331,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 October 2020
-    <br></br>Last updated 26 October 2020
+    <br></br>Last updated 28 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-28T21:21:22.000+00:00">28 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated to reflect Nottinghamshire will be moving to local COVID alert level: Very High from 30 October</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-26T16:20:39.000+00:00">26 October 2020</time>
               <p class="app-c-published-dates__change-note">Updated to show that Warrington will move to 'local COVID alert level: very high' from 27 October.</p>
@@ -393,14 +399,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-5bc14a35" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-a99fbb8f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-5bc14a35" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a99fbb8f" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -437,9 +443,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6cf05953" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7841be84" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6cf05953" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-7841be84" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
