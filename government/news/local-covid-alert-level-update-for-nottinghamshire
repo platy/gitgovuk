@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 28 October 2020
+    <br></br>Last updated 28 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -153,6 +155,8 @@
 
 <p>The Prime Minister also announced on Monday 12 October additional COVID funding of around £1 billion, which will provide local authorities with additional money to protect vital services. The government will set out further information in due course on how this new funding will be allocated.</p>
 
+<p>See <a href="https://www.gov.uk/government/publications/coronavirus-briefing-situation-report-nottinghamshire-28-oct-2020" class="govuk-link">data slides on the coronavirus (COVID-19) situation in Nottinghamshire</a>.</p>
+
 <p>See <a href="https://www.gov.uk/guidance/local-covid-alert-levels-what-you-need-to-know" class="govuk-link">guidance on each local COVID alert level</a>.</p>
 
 </div>
@@ -197,8 +201,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 28 October 2020
+    <br></br>Last updated 28 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-28T18:11:17.000+00:00">28 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added link to 'Coronavirus briefing, situation report: Nottinghamshire (28 Oct 2020)'.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-28T17:55:00.000+00:00">28 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -231,9 +249,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-52dba56a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d666aa2c" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-52dba56a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d666aa2c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
