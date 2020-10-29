@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 10 July 2020
+    <br></br>Last updated 28 October 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -32,7 +34,7 @@
             </dt>
             <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
                 <span class="app-c-publisher-metadata__definition-sentence">
-                  <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>, <a class="govuk-link" href="/government/organisations/government-digital-service">Government Digital Service</a>, <a class="govuk-link" href="/government/organisations/department-for-international-trade">Department for International Trade</a>, <a class="govuk-link" href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a>, <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>, <a class="govuk-link" href="/government/organisations/centre-for-environment-fisheries-and-aquaculture-science">Centre for Environment, Fisheries and Aquaculture Science</a>, <a class="govuk-link" href="/government/organisations/marine-management-organisation">Marine Management Organisation</a>, <a class="govuk-link" href="/government/organisations/environment-agency">Environment Agency</a>, <a class="govuk-link" href="/government/organisations/export-control-organisation">Export Control Joint Unit</a>, and <a class="govuk-link" href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
+                  <a class="govuk-link" href="/government/organisations/foreign-commonwealth-development-office">Foreign, Commonwealth & Development Office</a>, <a class="govuk-link" href="/government/organisations/department-for-environment-food-rural-affairs">Department for Environment, Food & Rural Affairs</a>, <a class="govuk-link" href="/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy & Industrial Strategy</a>, <a class="govuk-link" href="/government/organisations/department-for-international-trade">Department for International Trade</a>, <a class="govuk-link" href="/government/organisations/foreign-commonwealth-office">Foreign & Commonwealth Office</a>, <a class="govuk-link" href="/government/organisations/centre-for-environment-fisheries-and-aquaculture-science">Centre for Environment, Fisheries and Aquaculture Science</a>, <a class="govuk-link" href="/government/organisations/marine-management-organisation">Marine Management Organisation</a>, <a class="govuk-link" href="/government/organisations/environment-agency">Environment Agency</a>, <a class="govuk-link" href="/government/organisations/export-control-organisation">Export Control Joint Unit</a>, and <a class="govuk-link" href="/government/organisations/animal-and-plant-health-agency">Animal and Plant Health Agency</a>
                 </span>
             </dd>
         </dl>
@@ -55,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#animals-plants-food-and-agricultural-products" data-track-options="{"dimension29":"Animals, plants, food and agricultural products"}" href="#animals-plants-food-and-agricultural-products">Animals, plants, food and agricultural products</a>
@@ -91,22 +94,24 @@
 <h2 id="animals-plants-food-and-agricultural-products">Animals, plants, food and agricultural products</h2>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/exporting-animals-animal-products-fish-and-fishery-products-if-the-uk-leaves-the-eu-with-no-deal" class="govuk-link">live animals and animal products</a></li>
-  <li><a href="https://www.gov.uk/guidance/balai-directive-moving-live-animals-semen-and-embryos" class="govuk-link">live animals, semen and embryos under the Balai Directive</a></li>
-  <li><a href="https://www.gov.uk/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal" class="govuk-link">fish for human consumption</a></li>
-  <li><a href="https://www.gov.uk/guidance/importing-and-exporting-live-aquatic-animals-eu-exit" class="govuk-link">live fish and shellfish for aquaculture and ornamental purposes</a></li>
-  <li><a href="https://www.gov.uk/guidance/trading-and-moving-endangered-species-protected-by-cites-if-theres-no-withdrawal-deal" class="govuk-link">endangered plant and animal species, and products made from them</a></li>
-  <li><a href="https://www.gov.uk/guidance/importing-and-exporting-plants-and-plant-products-if-theres-no-withdrawal-deal#exporting-plants-and-plant-products-to-the-eu" class="govuk-link">plants and plant products</a></li>
-  <li><a href="https://www.gov.uk/guidance/importing-and-exporting-plants-and-plant-products-if-theres-no-withdrawal-deal#movement-of-wood-packaging-material" class="govuk-link">wood packaging</a></li>
-  <li><a href="https://www.gov.uk/guidance/trading-timber-imports-and-exports-if-theres-no-brexit-deal#exporting-to-the-eu-and-eea" class="govuk-link">timber</a></li>
+  <li><a href="https://www.gov.uk/guidance/exporting-animals-and-animal-products-to-the-eu-from-1-january-2021" class="govuk-link">live animals and animal products</a></li>
+  <li><a href="https://www.gov.uk/guidance/moving-balai-directive-animals-semen-and-embryos-from-1-january-2021" class="govuk-link">live animals, semen and embryos under the Balai Directive</a></li>
+  <li><a href="https://www.gov.uk/guidance/export-fish-to-the-eu-from-1-january-2021" class="govuk-link">fish for human consumption</a></li>
+  <li><a href="https://www.gov.uk/guidance/importing-and-exporting-live-aquatic-animals-from-1-january-2021" class="govuk-link">live fish and shellfish for aquaculture and ornamental purposes</a></li>
+  <li><a href="https://www.gov.uk/guidance/trading-and-moving-endangered-species-protected-by-cites-from-1-january-2021" class="govuk-link">endangered plant and animal species, and products made from them</a></li>
+  <li><a href="https://www.gov.uk/guidance/importing-and-exporting-plants-and-plant-products-from-1-january-2021#exporting-plants-and-plant-products-from-england-scotland-or-wales-to-the-eu" class="govuk-link">plants and plant products</a></li>
+  <li><a href="https://www.gov.uk/guidance/importing-and-exporting-plants-and-plant-products-from-1-january-2021#movement-of-wood-packaging-material" class="govuk-link">wood packaging</a></li>
+  <li><a href="https://www.gov.uk/guidance/trading-timber-imports-and-exports-from-1-january-2021#exporting-to-the-eu-and-eea" class="govuk-link">timber</a></li>
 </ul>
 
 <h2 id="chemicals-and-waste">Chemicals and waste</h2>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/fluorinated-gases-and-ozone-depleting-substances-how-to-do-business-from-1-january-2021" class="govuk-link">ozone-depleting substances and fluorinated gas (F-gas)</a></li>
-  <li><a href="https://www.gov.uk/guidance/exporting-nuclear-related-items-after-brexit" class="govuk-link">nuclear-related items</a></li>
-  <li><a href="https://www.gov.uk/guidance/importing-and-exporting-waste-if-theres-no-brexit-deal" class="govuk-link">waste</a></li>
+  <li><a href="https://www.gov.uk/guidance/how-to-comply-with-reach-chemical-regulations#eu-market-access-for-uk-business" class="govuk-link">chemicals</a></li>
+  <li><a href="https://www.gov.uk/guidance/fluorinated-gases-and-ozone-depleting-substances-how-to-do-business-from-1-january-2021" class="govuk-link">fluorinated gases (F gas) and ozone-depleting substances</a></li>
+  <li><a rel="external" href="https://www.hse.gov.uk/brexit/pic.htm#what-you-must-do" class="govuk-link">hazardous chemicals under the prior informed consent system (PIC)</a></li>
+  <li><a href="https://www.gov.uk/guidance/exporting-nuclear-related-items-from-1-january-2021" class="govuk-link">nuclear-related items</a></li>
+  <li><a href="https://www.gov.uk/guidance/importing-and-exporting-waste-from-1-january-2021" class="govuk-link">waste</a></li>
 </ul>
 
 <h2 id="controlled-goods">Controlled goods</h2>
@@ -119,21 +124,35 @@
 <h2 id="diamonds">Diamonds</h2>
 
 <ul>
-  <li><a href="https://www.gov.uk/government/publications/brexit-and-the-uk-trade-in-rough-diamonds" class="govuk-link">diamonds</a></li>
+  <li><a href="https://www.gov.uk/government/publications/trading-internationally-in-rough-diamonds-from-1-january-2021" class="govuk-link">diamonds</a></li>
 </ul>
 
 <h2 id="sanctions"> Sanctions</h2>
 
 <p>There are different types of sanctions for trade, transport, finance and immigration.</p>
 
-<p>Check if the <a href="https://www.gov.uk/government/collections/uk-sanctions-regimes-if-theres-no-brexit-deal" class="govuk-link">goods you’re exporting will be controlled by UK sanctions from 1 January 2021</a>. You may also not be allowed to export your goods to someone who is subject to financial sanctions.</p>
+<p>Check if the <a href="https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act" class="govuk-link">goods you’re exporting will be controlled by UK sanctions from 1 January 2021</a>. You may also not be allowed to export your goods to someone who is subject to financial sanctions.</p>
 </div>
 </div>
 
 
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 July 2020
+    <br></br>Last updated 28 October 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-28T11:28:34.000+00:00">28 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added links to exporting chemicals guidance.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-10T12:44:00.000+01:00">10 July 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -155,52 +174,193 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+
+      <div class="gem-c-step-nav-related gem-c-step-nav-related--singular" data-module="track-click">
+    <h2 class="gem-c-step-nav-related__heading">
+      <span class="gem-c-step-nav-related__pretitle">Part of</span>
+          <a href="/prepare-to-export-from-great-britain-from-january-2021" class="gem-c-step-nav-related__link" data-track-category="stepNavPartOfClicked" data-track-action="Part of" data-track-label="/prepare-to-export-from-great-britain-from-january-2021" data-track-dimension="Prepare to export goods from Great Britain to the EU from 1 January 2021" data-track-dimension-index="29" data-track-options="{"dimension96" : "1faad9b3-e5ef-47f6-a3ba-4715e7e4f263" }">
+            Prepare to export goods from Great Britain to the EU from 1 January 2021
+          </a>
+        </h2>
+  </div>
+
+
+      <div data-module="gemstepnav" class="gem-c-step-nav js-hidden " data-id="1faad9b3-e5ef-47f6-a3ba-4715e7e4f263" data-show-text="show" data-hide-text="hide" data-show-all-text="Show all" data-hide-all-text="Hide all">
+    <ol class="gem-c-step-nav__steps">
+        <li class="gem-c-step-nav__step js-step
+          " id="check-if-you-should-follow-this-step-by-step" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="1">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 1<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check if you should follow this step by step
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-if-you-should-follow-this-step-by-step-1">
+              <p class="gem-c-step-nav__paragraph">You should follow different guidance if you're: </p>
+
+              <ul class="gem-c-step-nav__list gem-c-step-nav__list--choice" data-length="2">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="1.1" class="gem-c-step-nav__link js-link" href="/government/publications/notice-143-a-guide-for-international-post-users/notice-143-a-guide-for-international-post-users?step-by-step-nav=1faad9b3-e5ef-47f6-a3ba-4715e7e4f263#exports">sending goods by post </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="1.2" class="gem-c-step-nav__link js-link" href="/export-goods-outside-eu?step-by-step-nav=1faad9b3-e5ef-47f6-a3ba-4715e7e4f263">exporting goods to countries outside the EU </a></li>
+</ul>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="find-out-how-to-declare-goods-from-1-january-2021" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="2">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 2<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Find out how to declare goods from 1 January 2021
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-find-out-how-to-declare-goods-from-1-january-2021-2">
+              <p class="gem-c-step-nav__paragraph">From 1 January 2021, you'll need to make customs declarations when exporting goods to the EU. These rules currently apply to exporting goods to the rest of the world, including Switzerland, Norway, Iceland and Liechtenstein.</p>
+
+              <p class="gem-c-step-nav__paragraph">You can make the declarations yourself, but most businesses use a courier, freight forwarder or customs agent.</p>
+
+              <ol class="gem-c-step-nav__list " data-length="2">
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.1" class="gem-c-step-nav__link js-link" href="/guidance/customs-declarations-for-goods-taken-out-of-the-eu?step-by-step-nav=1faad9b3-e5ef-47f6-a3ba-4715e7e4f263">Find out how to make customs declarations yourself </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="2.2" class="gem-c-step-nav__link js-link" href="/guidance/appoint-someone-to-deal-with-customs-on-your-behalf?step-by-step-nav=1faad9b3-e5ef-47f6-a3ba-4715e7e4f263">Get someone to deal with customs for you </a></li>
+</ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          gem-c-step-nav__step--active" aria-current="step" data-show id="check-the-new-rules-for-your-type-of-goods" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="3">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--logic">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      and
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check the new rules for your type of goods 
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-the-new-rules-for-your-type-of-goods-3">
+              <p class="gem-c-step-nav__paragraph">From 1 January 2021, the rules for exporting some types of goods will change. </p>
+
+              <ol class="gem-c-step-nav__list " data-length="3">
+<li class="gem-c-step-nav__list-item js-list-item gem-c-step-nav__list-item--active"><a data-position="3.1" class="gem-c-step-nav__link js-link" href="#content"><span class="gem-c-step-nav__link-active-context visuallyhidden">You are currently viewing: </span>Check what export licences or certificates you need </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="3.2" class="gem-c-step-nav__link js-link" href="/guidance/labelling-and-marketing-standards-from-1-january-2021?step-by-step-nav=1faad9b3-e5ef-47f6-a3ba-4715e7e4f263">Check the marking, labelling and marketing standards for food, plant seeds and manufactured goods </a></li>
+<li class="gem-c-step-nav__list-item js-list-item "><a data-position="3.3" class="gem-c-step-nav__link js-link" href="/guidance/exporting-excise-goods-to-the-eu-from-1-january-2021?step-by-step-nav=1faad9b3-e5ef-47f6-a3ba-4715e7e4f263">Check the rules for exporting alcohol, tobacco and certain oils </a></li>
+</ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="make-sure-you-have-an-eori-number-starting-with-gb" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="4">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 3<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Make sure you have an EORI number starting with GB
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-make-sure-you-have-an-eori-number-starting-with-gb-4">
+              <p class="gem-c-step-nav__paragraph">You need an EORI number that starts with GB to export goods from 1 January 2021. </p>
+
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="4.1" class="gem-c-step-nav__link js-link" href="/eori?step-by-step-nav=1faad9b3-e5ef-47f6-a3ba-4715e7e4f263">Get an EORI number </a></li></ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="find-out-if-you-can-charge-vat-at-0" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="5">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 4<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Find out if you can charge VAT at 0%
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-find-out-if-you-can-charge-vat-at-0-5">
+              <p class="gem-c-step-nav__paragraph">From 1 January 2021, you can charge customers VAT at 0% (known as 'zero rate') on most goods you export to the EU. </p>
+
+              <ol class="gem-c-step-nav__list " data-length="1"><li class="gem-c-step-nav__list-item js-list-item "><a data-position="5.1" class="gem-c-step-nav__link js-link" href="/guidance/vat-on-goods-exported-from-the-uk-notice-703?step-by-step-nav=1faad9b3-e5ef-47f6-a3ba-4715e7e4f263">Check if you can zero rate your goods for VAT </a></li></ol>
+
+          </div>
+
+        </li>
+        <li class="gem-c-step-nav__step js-step
+          " id="check-if-the-eu-business-you-re-exporting-to-is-ready" data-track-count="stepNavSection">
+          <div class="gem-c-step-nav__header js-toggle-panel" data-position="6">
+            <h3 class="gem-c-step-nav__title">
+              <span class="gem-c-step-nav__circle gem-c-step-nav__circle--number">
+                <span class="gem-c-step-nav__circle-inner">
+                  <span class="gem-c-step-nav__circle-background">
+                      <span class="gem-c-step-nav__circle-step-label visuallyhidden">Step</span> 5<span class="gem-c-step-nav__circle-step-colon visuallyhidden" aria-hidden="true">:</span>
+                  </span>
+                </span>
+              </span>
+
+              <span class="js-step-title">
+                Check if the EU business you're exporting to is ready 
+              </span>
+</h3>          </div>
+
+          <div class="gem-c-step-nav__panel js-panel" id="step-panel-check-if-the-eu-business-you-re-exporting-to-is-ready-6">
+              <p class="gem-c-step-nav__paragraph">The EU business importing your goods will also need to prepare for 1 January 2021. </p>
+
+              <p class="gem-c-step-nav__paragraph">Before sending the business your goods, check they can make the necessary import customs declarations. They'll also need a licence or certificate to import some types of goods.</p>
+
+          </div>
+
+        </li>
+    </ol>
+  </div>
+
+
+
     <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
   <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
   <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
-
-
-    
-
-
-
 </div>
 
 </div>
 
 </div>
-
-
-  <div class="govuk-grid-row">
-    <div class="govuk-grid-column-two-thirds">
-        
-  <div class="gem-c-contextual-footer">
-    
-  <div class="gem-c-related-navigation">
-
-
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-67ce937d" data-module="gem-toggle">
-
-    <h2 id="related-nav-topics-67ce937d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/business-and-industry/exporting" data-track-options="{"dimension28":"2","dimension29":"Exporting"}" href="/business-and-industry/exporting">Exporting</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"2","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
-
-  </ul>
-</nav>
-
-  </div>
-
-  </div>
-
-
-    </div>
-  </div>
