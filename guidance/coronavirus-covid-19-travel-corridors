@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 3 July 2020
-    <br></br>Last updated 25 October 2020
+    <br></br>Last updated 29 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -64,8 +64,8 @@
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
           <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">
-        Contents
+    <h2 class="gem-c-contents-list__title">
+      Contents
 </h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -135,7 +135,8 @@
   <li><a href="https://www.gov.uk/foreign-travel-advice/cayman-islands" class="govuk-link">Cayman Islands</a></li>
   <li>the Channel Islands</li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/cuba" class="govuk-link">Cuba</a></li>
-  <li><a href="https://www.gov.uk/foreign-travel-advice/cyprus" class="govuk-link">Cyprus</a></li>
+  <li>
+<a href="https://www.gov.uk/foreign-travel-advice/cyprus" class="govuk-link">Cyprus</a> (will be removed from the list 4am, Sunday 1 November)</li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/denmark" class="govuk-link">Denmark</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/dominica" class="govuk-link">Dominica</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/estonia" class="govuk-link">Estonia</a></li>
@@ -161,7 +162,8 @@
   <li>the Isle of Man</li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/japan" class="govuk-link">Japan</a></li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/latvia" class="govuk-link">Latvia</a></li>
-  <li><a href="https://www.gov.uk/foreign-travel-advice/lithuania" class="govuk-link">Lithuania</a></li>
+  <li>
+<a href="https://www.gov.uk/foreign-travel-advice/lithuania" class="govuk-link">Lithuania</a> (will be removed from the list 4am, Sunday 1 November)</li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/macao" class="govuk-link">Macao (Macau)</a></li>
   <li>Madeira</li>
   <li><a href="https://www.gov.uk/foreign-travel-advice/malaysia" class="govuk-link">Malaysia</a></li>
@@ -193,6 +195,14 @@
 <p>We will keep the conditions in these countries, territories and regions under review. If they worsen we will reintroduce self-isolation requirements.</p>
 
 <h3 id="countries-territories-or-regions-removed-from-the-travel-corridor-list">Countries, territories or regions removed from the travel corridor list</h3>
+
+<div class="call-to-action">
+<p><a href="https://www.gov.uk/foreign-travel-advice/cyprus" class="govuk-link">Cyprus</a> and <a href="https://www.gov.uk/foreign-travel-advice/lithuania" class="govuk-link">Lithuania</a> will be removed from the exempt list at 4am Sunday 1 November.</p>
+</div>
+
+<p>If you arrive in England from Cyprus or Lithuania after 4am Sunday 1 November, you will need to <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-how-to-self-isolate-when-you-travel-to-the-uk/coronavirus-covid-19-how-to-self-isolate-when-you-travel-to-the-uk" class="govuk-link">self-isolate</a>.</p>
+
+<p>If you arrive in England from Cyprus or Lithuania before 4am Sunday 1 November, you may not need to self-isolate. Read <a href="#travel-corridor-exemption-rules" class="govuk-link">the rules about when you need to self-isolate and for how long</a>.</p>
 
 <div class="call-to-action">
 <p><a href="https://www.gov.uk/foreign-travel-advice/liechtenstein" class="govuk-link">Liechtenstein</a> was removed from the exempt list at 4am Sunday 25 October.</p>
@@ -352,10 +362,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 3 July 2020
-    <br></br>Last updated 25 October 2020
+    <br></br>Last updated 29 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-29T17:02:10.000+00:00">29 October 2020</time>
+              <p class="app-c-published-dates__change-note">Cyprus and Lithuania will be removed from the travel corridors exempt list 4am, Sunday 1 November.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-25T04:00:34.000+00:00">25 October 2020</time>
               <p class="app-c-published-dates__change-note">The Canary Islands, Denmark, Maldives and Mykonos added to the list 4am 25 October. Liechtenstein removed from the list 4am 25 October.</p>
@@ -504,24 +518,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-df085e26" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-63e7646e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-df085e26" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-63e7646e" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/coronavirus-covid-19-countries-and-territories-exempt-from-advice-against-all-but-essential-international-travel" data-track-options="{"dimension28":"7","dimension29":"Coronavirus (COVID-19): countries and territories exempt from advice against ‘all but essential’ international travel"}" href="/guidance/coronavirus-covid-19-countries-and-territories-exempt-from-advice-against-all-but-essential-international-travel">Coronavirus (COVID-19): countries and territories exempt from advice against ‘all but essential’ international travel</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/provide-journey-contact-details-before-travel-uk" data-track-options="{"dimension28":"7","dimension29":"Fill in your passenger locator form"}" href="/provide-journey-contact-details-before-travel-uk">Fill in your passenger locator form</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/travel-advice-novel-coronavirus" data-track-options="{"dimension28":"7","dimension29":"Travel advice: coronavirus (COVID-19)"}" href="/guidance/travel-advice-novel-coronavirus">Travel advice: coronavirus (COVID-19)</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules" data-track-options="{"dimension28":"7","dimension29":"Coronavirus (COVID-19): jobs that qualify for travel exemptions"}" href="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules">Coronavirus (COVID-19): jobs that qualify for travel exemptions</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/coronavirus" data-track-options="{"dimension28":"7","dimension29":"Coronavirus (COVID-19): guidance and support"}" href="/coronavirus">Coronavirus (COVID-19): guidance and support</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/travel-advice-novel-coronavirus" data-track-options="{"dimension28":"7","dimension29":"Travel advice: coronavirus (COVID-19)"}" href="/guidance/travel-advice-novel-coronavirus">Travel advice: coronavirus (COVID-19)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/provide-journey-contact-details-before-travel-uk" data-track-options="{"dimension28":"7","dimension29":"Fill in your passenger locator form"}" href="/provide-journey-contact-details-before-travel-uk">Fill in your passenger locator form</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/find-coronavirus-local-restrictions" data-track-options="{"dimension28":"7","dimension29":"Find out the coronavirus restrictions in a local area"}" href="/find-coronavirus-local-restrictions">Find out the coronavirus restrictions in a local area</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules" data-track-options="{"dimension28":"7","dimension29":"Coronavirus (COVID-19): jobs that qualify for travel exemptions"}" href="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules">Coronavirus (COVID-19): jobs that qualify for travel exemptions</a></li>
 
       <li class="gem-c-related-navigation__link toggle-wrap">
         <a href="#" class="gem-c-related-navigation__toggle" data-controls="toggle_related_items" data-expanded="false" data-toggled-text="Show fewer">
@@ -539,9 +553,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-df085e26" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-63e7646e" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-df085e26" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-63e7646e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -556,9 +570,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-df085e26" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-63e7646e" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-df085e26" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-63e7646e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -590,9 +604,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c0b4de7c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d756dd40" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-c0b4de7c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d756dd40" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
