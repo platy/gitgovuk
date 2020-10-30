@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 October 2020
-    <br></br>Last updated 28 October 2020
+    <br></br>Last updated 30 October 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -64,8 +64,8 @@
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
           <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">
-        Contents
+    <h2 class="gem-c-contents-list__title">
+      Contents
 </h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -85,15 +85,25 @@
       </div>
     
       
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+      
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<p><a href="https://www.gov.uk/guidance/local-covid-alert-levels-what-you-need-to-know" class="govuk-link">Find out what you can and cannot do if you live, work or travel in each local COVID alert level</a>.</p>
+<p>Find out <a href="https://www.gov.uk/guidance/local-covid-alert-levels-what-you-need-to-know" class="govuk-link">what you can and cannot do if you live, work or travel in each local COVID alert level</a>.</p>
 
 <h2 id="local-covid-alert-level-medium">Local COVID alert level: medium</h2>
 
 <p>All areas in England are medium, apart from those listed below as high or very high.</p>
 
 <h2 id="local-covid-alert-level-high">Local COVID alert level: high</h2>
+
+<h3 id="bedfordshire">Bedfordshire</h3>
+
+<ul>
+  <li>Luton (from 31 October)</li>
+</ul>
 
 <h3 id="berkshire">Berkshire</h3>
 
@@ -112,35 +122,49 @@
 
 <ul>
   <li>Barrow-in-Furness</li>
+  <li>Carlisle (from 31 October)</li>
 </ul>
 
 <h3 id="derbyshire">Derbyshire</h3>
 
 <ul>
+  <li>Amber Valley (from 31 October)</li>
+  <li>Bolsover (from 31 October)</li>
   <li>Chesterfield</li>
+  <li>Derby City (from 31 October)</li>
+  <li>Derbyshire Dales (from 31 October)</li>
   <li>Erewash</li>
-  <li>High Peak ‒ the wards of:
+  <li>High Peak ‒ in full from 31 October. Until then, the following wards only:
     <ul>
-      <li>Tintwistle</li>
-      <li>Padfield</li>
       <li>Dinting</li>
-      <li>St John’s</li>
-      <li>Old Glossop</li>
-      <li>Whitfield</li>
-      <li>Simmondley</li>
       <li>Gamesley</li>
-      <li>Howard Town</li>
-      <li>Hadfield South</li>
       <li>Hadfield North</li>
+      <li>Hadfield South</li>
+      <li>Howard Town</li>
+      <li>Old Glossop</li>
+      <li>Padfield</li>
+      <li>Simmondley</li>
+      <li>St John’s</li>
+      <li>Tintwistle</li>
+      <li>Whitfield</li>
     </ul>
   </li>
   <li>North East Derbyshire</li>
+  <li>Peak District National Park (from 31 October)</li>
+  <li>South Derbyshire (from 31 October)</li>
 </ul>
 
 <h3 id="durham">Durham</h3>
 
 <ul>
   <li>Durham</li>
+</ul>
+
+<h3 id="east-riding-of-yorkshire">East Riding of Yorkshire</h3>
+
+<ul>
+  <li>East Riding of Yorkshire (from 31 October)</li>
+  <li>Kingston upon Hull (from 31 October)</li>
 </ul>
 
 <h3 id="essex">Essex</h3>
@@ -163,8 +187,15 @@
 <h3 id="leicestershire">Leicestershire</h3>
 
 <ul>
+  <li>Charnwood (from 31 October)</li>
   <li>Leicester</li>
   <li>Oadby and Wigston</li>
+</ul>
+
+<h3 id="lincolnshire">Lincolnshire</h3>
+<ul>
+  <li>North East Lincolnshire (from 31 October)</li>
+  <li>North Lincolnshire (from 31 October)</li>
 </ul>
 
 <h3 id="london">London</h3>
@@ -185,10 +216,30 @@
   <li>York</li>
 </ul>
 
+<h3 id="oxfordshire">Oxfordshire</h3>
+
+<ul>
+  <li>Oxford City (from 31 October)</li>
+</ul>
+
+<h3 id="shropshire">Shropshire</h3>
+
+<ul>
+  <li>Telford and Wrekin (from 31 October)</li>
+</ul>
+
 <h3 id="staffordshire">Staffordshire</h3>
 
 <ul>
+  <li>Cannock Chase (from 31 October)</li>
+  <li>East Staffordshire (from 31 October)</li>
+  <li>Lichfield (from 31 October)</li>
+  <li>Newcastle-under-Lyme (from 31 October)</li>
+  <li>South Staffordshire (from 31 October)</li>
+  <li>Stafford Borough (from 31 October)</li>
+  <li>Staffordshire Moorlands (from 31 October)</li>
   <li>Stoke-on-Trent</li>
+  <li>Tamworth (from 31 October)</li>
 </ul>
 
 <h3 id="surrey">Surrey</h3>
@@ -222,31 +273,22 @@
 <ul>
   <li>Birmingham</li>
   <li>Coventry</li>
+  <li>Dudley (from 31 October)</li>
   <li>Sandwell</li>
   <li>Solihull</li>
   <li>Walsall</li>
   <li>Wolverhampton</li>
 </ul>
 
-<h3 id="west-yorkshire">West Yorkshire</h3>
-
-<ul>
-  <li>Bradford</li>
-  <li>Calderdale</li>
-  <li>Kirklees</li>
-  <li>Leeds</li>
-  <li>Wakefield</li>
-</ul>
-
 <h2 id="local-covid-alert-level-very-high">Local COVID alert level: very high</h2>
 
 <h3 id="cheshire-1">Cheshire</h3>
 
+<p>Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-warrington" class="govuk-link">what you can and cannot do if you live, work or travel in Warrington</a>.</p>
+
 <ul>
   <li>Warrington</li>
 </ul>
-
-<p><a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-warrington" class="govuk-link">Find out what you can and cannot do if you live, work or travel in Warrington from 27 October</a>.</p>
 
 <h3 id="greater-manchester">Greater Manchester</h3>
 
@@ -299,9 +341,9 @@
   <li>Wirral</li>
 </ul>
 
-<h3 id="nottinghamshire-moving-to-local-covid-alert-level-very-high-from-30-october">Nottinghamshire (moving to local COVID alert level: Very High from 30 October)</h3>
+<h3 id="nottinghamshire">Nottinghamshire</h3>
 
-<p>These areas are currently in <a href="https://www.gov.uk/guidance/local-covid-alert-level-high" class="govuk-link">local COVID alert level high</a>, but will move to very high from 30 October. Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-nottinghamshire" class="govuk-link">what you can and cannot do if you live, work or travel in these regions of Nottinghamshire</a> from 30 October.</p>
+<p>Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-nottinghamshire" class="govuk-link">what you can and cannot do if you live, work or travel in these regions of Nottinghamshire</a>.</p>
 
 <ul>
   <li>Ashfield</li>
@@ -324,6 +366,18 @@
   <li>Rotherham</li>
   <li>Sheffield</li>
 </ul>
+
+<h3 id="west-yorkshire-moving-to-local-covid-alert-level-very-high-from-2-november">West Yorkshire (moving to local COVID alert level: very high from 2 November)</h3>
+
+<p>These areas are currently in local COVID alert level high, but will move to very high from 2 November. Find out <a href="https://www.gov.uk/guidance/local-covid-alert-level-very-high-west-yorkshire" class="govuk-link">what you can and cannot do if you live, work or travel in these regions of West Yorkshire from 2 November</a>.</p>
+
+<ul>
+  <li>Bradford</li>
+  <li>Calderdale</li>
+  <li>Kirklees</li>
+  <li>Leeds</li>
+  <li>Wakefield</li>
+</ul>
 </div>
 </div>
 
@@ -331,10 +385,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 October 2020
-    <br></br>Last updated 28 October 2020
+    <br></br>Last updated 30 October 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-30T11:14:54.000+00:00">30 October 2020</time>
+              <p class="app-c-published-dates__change-note">Updated to reflect that West Yorkshire will move to 'local COVID alert level: very high' from 2 November; and that the following areas will move to 'local COVID alert level: high' from 31 October: Amber Valley, Bolsover, Luton, Cannock Chase, Carlisle, Charnwood, Derby City, Derbyshire Dales, Dudley, East Riding of Yorkshire, East Staffordshire, all wards in High Peak, Kingston upon Hull, Lichfield, Newcastle-under-Lyme, North East Lincolnshire, North Lincolnshire, Oxford City, Peak District National Park, South Derbyshire, South Staffordshire, Stafford Borough, Staffordshire Moorlands, Tamworth, and Telford and Wrekin.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-28T21:21:22.000+00:00">28 October 2020</time>
               <p class="app-c-published-dates__change-note">Updated to reflect Nottinghamshire will be moving to local COVID alert level: Very High from 30 October</p>
@@ -389,6 +447,10 @@
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
@@ -399,14 +461,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-a99fbb8f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-1e66d789" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-a99fbb8f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1e66d789" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -443,9 +505,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7841be84" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f792b331" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-7841be84" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-f792b331" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
