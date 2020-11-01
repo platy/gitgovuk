@@ -36,7 +36,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 20 April 2020
-    <br></br>Last updated 9 October 2020
+    <br></br>Last updated 1 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -71,8 +71,8 @@
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
           <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">
-        Contents
+    <h2 class="gem-c-contents-list__title">
+      Contents
 </h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -100,10 +100,14 @@
       </div>
     
       
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+      
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
 <div class="call-to-action">
-<p>30 November 2020 is the last day you can submit claims for periods ending on or before 31 October 2020. After this date you will not be able to submit any further claims or add to existing claims.</p>
+<p>The scheme has closed. 30 November 2020 is the last day you can submit claims for periods ending on or before 31 October 2020. After this date you will not be able make new claims or add to existing claims.</p>
 
 <p><a href="https://www.gov.uk/guidance/check-if-you-can-claim-the-job-retention-bonus-from-15-february-2021" class="govuk-link">Check if you can claim the Job Retention Bonus from February 2021</a>.</p>
 </div>
@@ -303,10 +307,14 @@
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 20 April 2020
-    <br></br>Last updated 9 October 2020
+    <br></br>Last updated 1 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-01T00:15:10.000+00:00">1 November 2020</time>
+              <p class="app-c-published-dates__change-note">Information call out has been updated - the scheme is now closed. 30 November 2020 is the last date you can submit claims.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-09T15:20:38.000+01:00">9 October 2020</time>
               <p class="app-c-published-dates__change-note">Added translation</p>
@@ -425,6 +433,10 @@
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
@@ -435,48 +447,47 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-76ff0d57" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-3ff2a7d9" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-76ff0d57" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3ff2a7d9" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme" data-track-options="{"dimension28":"5","dimension29":"Check if you can claim for your employees' wages through the Coronavirus Job Retention Scheme"}" href="/guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme">Check if you can claim for your employees' wages through the Coronavirus Job Retention Scheme</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/calculate-how-much-you-can-claim-using-the-coronavirus-job-retention-scheme" data-track-options="{"dimension28":"5","dimension29":"Calculate how much you can claim using the Coronavirus Job Retention Scheme"}" href="/guidance/calculate-how-much-you-can-claim-using-the-coronavirus-job-retention-scheme">Calculate how much you can claim using the Coronavirus Job Retention Scheme</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/personal-tax-account/sign-in" data-track-options="{"dimension28":"5","dimension29":"Personal tax account: sign in or set up"}" href="/personal-tax-account/sign-in">Personal tax account: sign in or set up</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/coronavirus/business-support" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): Business support"}" href="/coronavirus/business-support">Coronavirus (COVID-19): Business support</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/apply-for-a-coronavirus-bounce-back-loan" data-track-options="{"dimension28":"5","dimension29":"Apply for a coronavirus Bounce Back Loan"}" href="/guidance/apply-for-a-coronavirus-bounce-back-loan">Apply for a coronavirus Bounce Back Loan</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme" data-track-options="{"dimension28":"4","dimension29":"Check if you can claim for your employees' wages through the Coronavirus Job Retention Scheme"}" href="/guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme">Check if you can claim for your employees' wages through the Coronavirus Job Retention Scheme</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/calculate-how-much-you-can-claim-using-the-coronavirus-job-retention-scheme" data-track-options="{"dimension28":"4","dimension29":"Calculate how much you can claim using the Coronavirus Job Retention Scheme"}" href="/guidance/calculate-how-much-you-can-claim-using-the-coronavirus-job-retention-scheme">Calculate how much you can claim using the Coronavirus Job Retention Scheme</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/check-if-you-can-claim-the-job-retention-bonus-from-15-february-2021" data-track-options="{"dimension28":"4","dimension29":"Check if you can claim the Job Retention Bonus from 15 February 2021"}" href="/guidance/check-if-you-can-claim-the-job-retention-bonus-from-15-february-2021">Check if you can claim the Job Retention Bonus from 15 February 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/collections/financial-support-for-businesses-during-coronavirus-covid-19" data-track-options="{"dimension28":"4","dimension29":"Financial support for businesses during coronavirus (COVID-19)"}" href="/government/collections/financial-support-for-businesses-during-coronavirus-covid-19">Financial support for businesses during coronavirus (COVID-19)</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-76ff0d57" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-3ff2a7d9" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-76ff0d57" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-3ff2a7d9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/steps-to-take-before-calculating-your-claim-using-the-coronavirus-job-retention-scheme" data-track-options="{"dimension28":"2","dimension29":"Steps to take before calculating your claim using the Coronavirus Job Retention Scheme"}" href="/guidance/steps-to-take-before-calculating-your-claim-using-the-coronavirus-job-retention-scheme">Steps to take before calculating your claim using the Coronavirus Job Retention Scheme</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/calculate-how-much-you-can-claim-using-the-coronavirus-job-retention-scheme" data-track-options="{"dimension28":"2","dimension29":"Calculate how much you can claim using the Coronavirus Job Retention Scheme"}" href="/guidance/calculate-how-much-you-can-claim-using-the-coronavirus-job-retention-scheme">Calculate how much you can claim using the Coronavirus Job Retention Scheme</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/calculate-how-much-you-can-claim-using-the-coronavirus-job-retention-scheme" data-track-options="{"dimension28":"2","dimension29":"Calculate how much you can claim using the Coronavirus Job Retention Scheme"}" href="/guidance/calculate-how-much-you-can-claim-using-the-coronavirus-job-retention-scheme">Calculate how much you can claim using the Coronavirus Job Retention Scheme</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/steps-to-take-before-calculating-your-claim-using-the-coronavirus-job-retention-scheme" data-track-options="{"dimension28":"2","dimension29":"Steps to take before calculating your claim using the Coronavirus Job Retention Scheme"}" href="/guidance/steps-to-take-before-calculating-your-claim-using-the-coronavirus-job-retention-scheme">Steps to take before calculating your claim using the Coronavirus Job Retention Scheme</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-76ff0d57" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-3ff2a7d9" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-76ff0d57" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-3ff2a7d9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -508,9 +519,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-89579fce" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-fab6b274" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-89579fce" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-fab6b274" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
