@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     ECMT international road haulage permits
   </h1>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 26 November 2018
-    <br></br>Last updated 29 October 2019
+    <br></br>Last updated 2 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -49,6 +49,19 @@
 
 
 
+  <section class="app-c-header-notice" aria-label="notice" role="region" lang="en">
+    <div class="app-c-header-notice__header">
+      <h2 class="app-c-header-notice__title">New rules for January 2021</h2>
+    </div>
+
+    <div class="app-c-header-notice__content">
+          <p class="app-c-header-notice__text govuk-body">The UK has left the EU, and the transition period after Brexit comes to an end this year.</p>
+          <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It will be updated if anything changes.</p>
+
+        <p class="app-c-header-notice__text govuk-body">Check what else you need to do during <a data-module="track-click" data-track-category="no_deal_notice" data-track-action="/transition" data-track-label="the transition period" class="govuk-link" href="/transition">the transition period</a>.</p>
+    </div>
+  </section>
+
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
@@ -56,24 +69,25 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#check-if-you-need-ecmt-permits" data-track-options="{"dimension29":"Check if you need ECMT permits"}" href="#check-if-you-need-ecmt-permits">Check if you need ECMT permits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#what-you-need-ecmt-permits-for" data-track-options="{"dimension29":"What you need ECMT permits for"}" href="#what-you-need-ecmt-permits-for">What you need ECMT permits for</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#eligibility" data-track-options="{"dimension29":"Eligibility"}" href="#eligibility">Eligibility</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#eligibility" data-track-options="{"dimension29":"Eligibility"}" href="#eligibility">Eligibility</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#apply-for-permits-for-2020" data-track-options="{"dimension29":"Apply for permits for 2020"}" href="#apply-for-permits-for-2020">Apply for permits for 2020</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#apply-for-permits" data-track-options="{"dimension29":"Apply for permits"}" href="#apply-for-permits">Apply for permits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#apply-for-permits-for-2021" data-track-options="{"dimension29":"Apply for permits for 2021"}" href="#apply-for-permits-for-2021">Apply for permits for 2021</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -97,36 +111,53 @@
       </div>
     
       
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+      
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
       <div class="govspeak">
-<div class="call-to-action">
-<h2 id="stay-up-to-date">Stay up to date</h2>
-<p>The UK is leaving the <abbr title="European Union">EU</abbr>. This page tells you how to use <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits until Brexit and how to buy permits to prepare for a no-deal Brexit.</p>
+<p><abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits allow you to transport most types of goods (or drive an empty vehicle) through <abbr title="European Conference of Ministers of Transport">ECMT</abbr> member countries.</p>
 
-<p>Check what to do now to <a href="https://www.gov.uk/guidance/carry-out-international-road-haulage-after-brexit">carry out international road haulage after Brexit</a> and <a href="https://www.gov.uk/email/subscriptions/new?default_frequency=daily&topic_id=find-brexit-guidance-for-your-business-in-the-following-category-road-passengers-and-freight">sign up for email alerts</a> for the latest information.</p>
-</div>
+<p>You might need <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits for journeys to or through the <abbr title="European Union">EU</abbr> from 1 January 2021.</p>
 
-<div role="note" aria-label="Warning" class="application-notice help-notice">
-<p>You do not need <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits for most international journeys until 31 July 2020, even if there’s a no-deal Brexit.</p>
-</div>
+<ol class="steps">
+<li>
+<p>Check if you need <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits.</p>
+</li>
+<li>
+<p>Check if you’re eligible to apply.</p>
+</li>
+<li>
+<p>Apply for <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits.</p>
+</li>
+<li>
+<p>If you get permits, get an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> ‘certificate of compliance’ for your vehicle or trailer from its manufacturer.</p>
+</li>
+<li>
+<p>Apply for an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> ‘certificate of roadworthiness’ for your vehicle or trailer.</p>
+</li>
+</ol>
 
-<p>The <abbr title="European Conference of Ministers of Transport">ECMT</abbr> scheme includes all <abbr title="European Union">EU</abbr> countries (except Cyprus) and these 16 countries:</p>
+<p>You will need to follow rules about using your <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits, including your drivers carrying the right documents.</p>
 
-<p>Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Liechtenstein, North Macedonia, Moldova, Montenegro, Norway, Russia, Serbia, Switzerland, Turkey, and Ukraine.</p>
+<h2 id="check-if-you-need-ecmt-permits">Check if you need <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits</h2>
 
-<h2 id="what-you-need-ecmt-permits-for">What you need <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits for</h2>
+<p>You need an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit to transport most types of goods (or drive an empty vehicle) through the <abbr title="European Union">EU</abbr> (except Cyprus), Liechtenstein, Norway, Switzerland and the UK to these 13 countries:</p>
 
-<p>You need an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit to transport most types of goods (or drive an empty vehicle) through the <abbr title="European Union">EU</abbr> (except Cyprus), Liechtenstein and Norway to these 14 countries:</p>
-
-<p>Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, North Macedonia, Moldova, Montenegro, Russia, Serbia, Switzerland, Turkey, and Ukraine.</p>
+<p>Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, North Macedonia, Moldova, Montenegro, Russia, Serbia, Turkey, and Ukraine.</p>
 
 <div role="note" aria-label="Information" class="application-notice info-notice">
 <p>Cyprus is not part of the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> scheme. You cannot use an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit to transport goods through Cyprus to <abbr title="European Conference of Ministers of Transport">ECMT</abbr> countries.</p>
 </div>
 
+<p>You might need <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits for journeys to or through the <abbr title="European Union">EU</abbr> from 1 January 2021. You should apply for these in case they’re needed. This page will be updated if anything changes.</p>
+
 <h3 id="what-you-do-not-need-ecmt-permits-for">What you do not need <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits for</h3>
 
-<p>You can transport some types of goods without <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits. Check <a rel="external" href="https://www.itf-oecd.org/sites/default/files/docs/13mqguide.pdf">pages 11 and 13 of the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> user guide</a> for the list.</p>
+<p>You do not need <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits for journeys in 2020 entirely within the <abbr title="European Union">EU</abbr>, Iceland, Liechtenstein, Norway, Switzerland and the UK. You can still use your <abbr title="European Union">EU</abbr> Community Licence for international road haulage until 31 December 2020.</p>
+
+<p>You can transport some types of goods without <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits. Check <a rel="external" href="https://www.itf-oecd.org/sites/default/files/docs/13mqguide.pdf" class="govuk-link">pages 11 and 13 of the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> user guide</a> for the list.</p>
 
 <h3 id="what-you-cannot-use-ecmt-permits-for">What you cannot use <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits for</h3>
 
@@ -142,62 +173,114 @@
 <p>To apply for an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit, you must:</p>
 
 <ul>
-  <li>have a <a href="https://www.gov.uk/being-a-goods-vehicle-operator/types-of-licence">vehicle operator licence for Great Britain</a> or a <a rel="external" href="https://www.nidirect.gov.uk/articles/goods-vehicle-operator-licensing">vehicle operator licence for Northern Ireland</a>
+  <li>have a <a href="https://www.gov.uk/being-a-goods-vehicle-operator/types-of-licence" class="govuk-link">vehicle operator licence for Great Britain</a> or a <a rel="external" href="https://www.nidirect.gov.uk/articles/goods-vehicle-operator-licensing" class="govuk-link">vehicle operator licence for Northern Ireland</a>
 </li>
   <li>have Euro VI or Euro V emissions standard vehicles (depending on the type of permit you’re applying for)</li>
 </ul>
 
-<h2 id="apply-for-permits">Apply for permits</h2>
+<h2 id="apply-for-permits-for-2020">Apply for permits for 2020</h2>
 
-<p>You can apply for 30-day <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits for journeys up to December 2019.</p>
+<p>You can buy 30-day permits if you plan to travel through the <abbr title="European Union">EU</abbr> (except Cyprus), Liechtenstein, Norway and Switzerland in 2020 to one of these countries:</p>
 
-<p>The way you apply depends on when you need the permit.</p>
+<p>Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, North Macedonia, Moldova, Montenegro, Russia, Serbia, Turkey or Ukraine.</p>
 
-<h3 id="october-2019-permits">October 2019 permits</h3>
+<h3 id="how-to-buy-the-permits">How to buy the permits</h3>
 
-<p>Email <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> to apply.</p>
+<p>Email <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> to buy the permits.</p>
 
 <p><strong><abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> International Road Haulage Permits Office</strong><br></br>
-<a href="mailto:shorttermecmt@dvsa.gov.uk">shorttermecmt@dvsa.gov.uk</a></p>
+<a href="mailto:shorttermecmt@dvsa.gov.uk" class="govuk-link">shorttermecmt@dvsa.gov.uk</a></p>
 
 <p>You need to include:</p>
 
 <ul>
   <li>your operator licence number</li>
-  <li>the journey destination (it must be either Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, North Macedonia, Moldova, Montenegro, Russia, Serbia, Switzerland, Turkey or Ukraine)</li>
-  <li>proof that you’ll be travelling to this country during October 2019 (for example, a contract to import and export, or evidence of recent or regular travel to the country)</li>
-  <li>how many permits you need (up to 5)</li>
+  <li>the journey destination (it must be either Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, North Macedonia, Moldova, Montenegro, Russia, Serbia, Turkey or Ukraine)</li>
+  <li>proof that you’ll be travelling to this country in 2020 (for example, a contract to import and export, or evidence of recent or regular to the country)</li>
+  <li>how many permits you need</li>
   <li>which type of vehicle you’ll use (Euro V or Euro VI)</li>
-  <li>the vehicle registration numbers (number plates)</li>
-  <li>the vehicle and trailer types and makes</li>
-  <li>the vehicle identification numbers (VINs)</li>
-  <li>the vehicle engine types and numbers</li>
 </ul>
 
-<h3 id="november-2019-and-december-2019-permits">November 2019 and December 2019 permits</h3>
+<h2 id="apply-for-permits-for-2021">Apply for permits for 2021</h2>
 
-<p>You can buy 30-day permits if in November and December 2019 you plan to travel through the <abbr title="European Union">EU</abbr> (except Cyprus), Liechtenstein and Norway to one of these countries:</p>
+<p>You need to apply for permits for 2021 by 11:59pm on 20 November 2020.</p>
 
-<p>Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, North Macedonia, Moldova, Montenegro, Russia, Serbia, Switzerland, Turkey or Ukraine.</p>
+<p>Permits will only be allocated after the application period has ended. They are not allocated on a first-come, first-served basis.</p>
 
-<p>To buy permits, you need:</p>
+<p>To apply, you need:</p>
 
 <ul>
   <li>your username and password to manage your vehicle operator licence</li>
   <li>a debit or credit card to pay the application fee</li>
 </ul>
 
-<p>When you sign in, select the <strong>Permits</strong> tab.</p>
+<p>When you sign in, select the <strong>Permits</strong> tab to apply.</p>
 
-<p><a role="button" class="button button-start" href="https://www.vehicle-operator-licensing.service.gov.uk/">Start now</a></p>
+<p><a class="gem-c-button govuk-button govuk-button--start" role="button" href="https://www.vehicle-operator-licensing.service.gov.uk/"> Start now <svg class="govuk-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewbox="0 0 33 40" role="presentation" focusable="false"><path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z"></path></svg></a></p>
 
-<h3 id="permits">2020 permits</h3>
+<h3 id="before-you-start">Before you start</h3>
 
-<p>Check back for updates about how to apply for permits for 2020.</p>
+<p>You need to know:</p>
+
+<ul>
+  <li>which countries you’ll need to transport goods to or through in 2021</li>
+  <li>the number of international trips you made in 2019 (an outward and return trip counts as one trip)</li>
+  <li>the percentage of international trips you made in 2019</li>
+  <li>if your journeys include transit (passing through one or several <abbr title="European Union">EU</abbr> countries, without collecting or delivering goods in the <abbr title="European Union">EU</abbr>, before reaching a non-<abbr title="European Union">EU</abbr> destination such as Switzerland)</li>
+  <li>if your journeys include cross-trade (moving goods between 2 <abbr title="European Conference of Ministers of Transport">ECMT</abbr> member countries)</li>
+  <li>the emissions class of the vehicle you’ll be using the permits in (most permits are for Euro VI vehicles only, but a small number will be available for Euro V vehicles)</li>
+  <li>which sector you mainly transport goods in</li>
+</ul>
+
+<p>The sectors you can choose from are:</p>
+
+<ul>
+  <li>chemicals</li>
+  <li>food products</li>
+  <li>furniture</li>
+  <li>metal</li>
+  <li>mail and parcels</li>
+  <li>raw materials and waste</li>
+  <li>refined fuels</li>
+  <li>transport and machinery</li>
+  <li>textiles</li>
+  <li>unrefined fuels</li>
+  <li>wood</li>
+  <li>other non-metallic mineral products</li>
+  <li>none of these sectors (you’ll be able to select this if you do not transport goods mainly in one of the other sectors)</li>
+</ul>
+
+<div role="note" aria-label="Warning" class="application-notice help-notice">
+<p>It’s illegal to make a false statement to apply for a permit. Your operator licence can be taken away, suspended or restricted, and permits can be temporarily or permanently taken away from you.</p>
+</div>
+
+<h3 id="what-happens-next">What happens next</h3>
+
+<ol class="steps">
+<li>
+<p><abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> will allocate permits after the application period has ended. They will be allocated based on a <a href="https://www.gov.uk/government/publications/international-road-haulage-permits-ecmt-permits-2021/international-road-haulage-permits-ecmt-permits-2021#use-of-criteria-to-allocate-permits" class="govuk-link">set criteria</a>.</p>
+</li>
+<li>
+<p>You’ll get an email telling you if you’ve been allocated a permit.</p>
+</li>
+<li>
+<p>You must pay the permit fee within 10 calendar days if you’re allocated a permit.</p>
+</li>
+<li>
+<p>You’ll get the permits by first class recorded delivery.</p>
+</li>
+</ol>
 
 <h2 id="fees">Fees</h2>
 
-<p>You have to pay £20 for each individual permit. You pay £10 immediately, and then another £10 to have the permit issued when your details have been checked.</p>
+<p>You have to pay a non-refundable £10 application fee for each permit.</p>
+
+<p>You then have to pay for the actual permit. It costs:</p>
+
+<ul>
+  <li>£10 per permit for short-term permits (for use in 2020)</li>
+  <li>£123 per permit for an annual <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit (for use in 2021)</li>
+</ul>
 
 <h2 id="rules-for-using-the-permits">Rules for using the permits</h2>
 
@@ -207,6 +290,8 @@
   <li>a calendar year, if you have an annual permit</li>
   <li>30 days of the start date on the permit, if you have a short-term permit</li>
 </ul>
+
+<p>You have to return to the UK after every third journey.</p>
 
 <p>You can only use your original permit. You cannot:</p>
 
@@ -229,36 +314,51 @@ If you have 10 <abbr title="European Conference of Ministers of Transport">ECMT<
 
 <p>You can use an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit for a vehicle assigned to any of your operator licences. It’s not allocated to a specific operator licence.</p>
 
+<p>You’re not allowed to transfer a permit to another business entity, for example, a sister company.</p>
+
 <h3 id="rules-for-the-vehicles-and-trailers">Rules for the vehicles and trailers</h3>
 
 <p>You cannot use <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits you’re allocated:</p>
 
 <ul>
   <li>for unaccompanied trailers or semi-trailers</li>
-  <li>with vehicles of a different Euro emissions class to that shown on the permit</li>
+  <li>with vehicles of a lower Euro emissions class to that shown on the permit (for example, you cannot use a Euro VI permit in a Euro V vehicle, but you can use a Euro V permit in a Euro VI vehicle)</li>
 </ul>
 
 <h3 id="get-an-ecmt-certificate-of-compliance-for-vehicles-and-trailers">Get an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> ‘certificate of compliance’ for vehicles and trailers</h3>
 
-<p>You must carry an <a rel="external" href="https://www.itf-oecd.org/user-guide-certificates"><abbr title="European Conference of Ministers of Transport">ECMT</abbr> ‘certificate of compliance’</a> in your vehicle and trailer. They must confirm the <a rel="external" href="https://www.itf-oecd.org/user-guide-certificates">vehicle meets the correct Euro emissions standard and the trailer meets the technical safety requirements</a>.</p>
+<p>You must carry an <a rel="external" href="https://www.itf-oecd.org/user-guide-certificates" class="govuk-link"><abbr title="European Conference of Ministers of Transport">ECMT</abbr> ‘certificate of compliance’</a> in your vehicle and trailer. They must confirm the <a rel="external" href="https://www.itf-oecd.org/user-guide-certificates" class="govuk-link">vehicle meets the correct Euro emissions standard and the trailer meets the technical safety requirements</a>.</p>
 
 <p>If your permit application is successful, request a certificate from your vehicle or trailer manufacturer, or contact <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> for advice.</p>
 
 <p><strong><abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> International Road Haulage Permits Office</strong><br></br>
-<a href="mailto:irhp@dvsa.gov.uk">irhp@dvsa.gov.uk</a></p>
+<a href="mailto:irhp@dvsa.gov.uk" class="govuk-link">irhp@dvsa.gov.uk</a></p>
 
 <h3 id="get-an-ecmt-certificate-of-roadworthiness-for-vehicles-and-trailers">Get an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> ‘certificate of roadworthiness’ for vehicles and trailers</h3>
 
 <p>You must carry an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> ‘certificate of roadworthiness’ for your vehicle and trailer.</p>
 
-<p>If your permit application is successful and you do not already have a certificate, email <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> to get one.</p>
+<p>If your permit application is successful and you do not already have a certificate, apply online to get one.</p>
 
-<p><strong><abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> International Road Haulage Permits Office</strong><br></br>
-<a href="mailto:irhp@dvsa.gov.uk">irhp@dvsa.gov.uk</a></p>
+<p><a rel="external" href="https://www.vehicle-operator-licensing.service.gov.uk" class="govuk-link">Apply for an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> certificate of roadworthiness</a>.</p>
+
+<h3 id="before-you-start-1">Before you start</h3>
+
+<p>To apply for an <abbr title="European Conference of Ministers of Transport">ECMT</abbr> certificate of roadworthiness, you need:</p>
+
+<ul>
+  <li>your username and password if you’ve used the service to manage your vehicle operator licence before (you can register in the service if you’ve not used it before)</li>
+  <li>the vehicle registration number (number plate)</li>
+  <li>the trailer registration number or ID number from <abbr title="Driver and Vehicle Licensing Agency">DVLA</abbr> (if you’re applying for a trailer)</li>
+  <li>the vehicle or trailer type and make</li>
+  <li>the certificate of compliance number (leave this blank if you do not have the number)</li>
+  <li>vehicle identification number (VIN)</li>
+  <li>engine type and number</li>
+</ul>
 
 <h3 id="meet-the-ecmt-quality-charter">Meet the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> Quality Charter</h3>
 
-<p>You must meet the <a rel="external" href="https://www.itf-oecd.org/quality-charter-international-road-haulage-operations-under-ecmt-multilateral-quota-system-0"><abbr title="European Conference of Ministers of Transport">ECMT</abbr> Quality Charter</a> requirements.</p>
+<p>You must meet the <a rel="external" href="https://www.itf-oecd.org/quality-charter-international-road-haulage-operations-under-ecmt-multilateral-quota-system-0" class="govuk-link"><abbr title="European Conference of Ministers of Transport">ECMT</abbr> Quality Charter</a> requirements.</p>
 
 <h4 id="if-you-have-a-standard-international-operator-licence">If you have a standard international operator licence</h4>
 
@@ -270,14 +370,10 @@ If you have 10 <abbr title="European Conference of Ministers of Transport">ECMT<
 
 <ul>
   <li>have a transport manager</li>
-  <li>give proof you have the higher levels of <a href="https://www.gov.uk/government/publications/traffic-commissioners-finance-march-2019">financial standing</a> needed for a standard international licence</li>
+  <li>give proof you have the higher levels of <a href="https://www.gov.uk/government/publications/traffic-commissioners-finance-march-2019" class="govuk-link">financial standing</a> needed for a standard international licence</li>
 </ul>
 
-<p>You can also <a href="https://www.gov.uk/apply-vehicle-operator-licence">apply for a standard international licence</a> before the UK leaves the <abbr title="European Union">EU</abbr> to show you meet the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> Quality Charter.</p>
-
-<h3 id="fill-in-the-30-day-permit-before-a-journey">Fill in the 30-day permit before a journey</h3>
-
-<p>You need to write in the ‘valid from’ and ‘valid to’ dates on your permit before the journey.</p>
+<p>You can also <a href="https://www.gov.uk/apply-vehicle-operator-licence" class="govuk-link">apply for a standard international licence</a> to show you meet the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> Quality Charter.</p>
 
 <h3 id="fill-in-the-ecmt-log-book-before-a-journey">Fill in the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> log book before a journey</h3>
 
@@ -293,16 +389,16 @@ If you have 10 <abbr title="European Conference of Ministers of Transport">ECMT<
 
 <ul>
   <li>the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit</li>
-  <li>the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit log book</li>
-  <li>the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> certificate of compliance for the vehicle and trailer</li>
-  <li>a certificate of roadworthiness for the vehicle and trailer</li>
+  <li>the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit log book (plus the issued translation sheets)</li>
+  <li>the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> certificate of compliance for the vehicle and trailer (plus the issued translation sheets)</li>
+  <li>a certificate of roadworthiness for the vehicle and trailer (plus the issued translation sheets)</li>
 </ul>
 
 <p>The driver must show the documents at checkpoints when asked.</p>
 
-<p><a rel="external" href="https://www.itf-oecd.org/national-control-bodies">Find out how different countries carry out checks</a>.</p>
+<p><a rel="external" href="https://www.itf-oecd.org/national-control-bodies" class="govuk-link">Find out how different countries carry out checks</a>.</p>
 
-<p>Check what other <a href="https://www.gov.uk/guidance/vehicle-documents-required-for-international-road-haulage">vehicle documents</a> and <a href="https://www.gov.uk/guidance/driver-documents-required-for-international-road-haulage">driver documents</a> the driver needs to carry on international journeys.</p>
+<p>Check what other <a href="https://www.gov.uk/guidance/vehicle-documents-required-for-international-road-haulage" class="govuk-link">vehicle documents</a> and <a href="https://www.gov.uk/guidance/driver-documents-required-for-international-road-haulage" class="govuk-link">driver documents</a> the driver needs to carry on international journeys.</p>
 
 <div role="note" aria-label="Warning" class="application-notice help-notice">
 <p>It’s illegal to not have the right documents for the journey. Your driver can be fined for not carrying them.</p>
@@ -311,9 +407,9 @@ If you have 10 <abbr title="European Conference of Ministers of Transport">ECMT<
 <h3 id="send-journey-records-to-dvsa">Send journey records to <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr>
 </h3>
 
-<p>The <abbr title="European Conference of Ministers of Transport">ECMT</abbr> log book contains a duplicate (carbon copy) of journey records.</p>
+<p>If you have an annual <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permit, you must send the original (top sheet) for each completed page of the <abbr title="European Conference of Ministers of Transport">ECMT</abbr> log book to <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> within 2 weeks of your return to the UK.</p>
 
-<p>You must send the duplicate records to <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> within 2 weeks of the end of the month the journey ended in.</p>
+<p>You must send the complete <abbr title="European Conference of Ministers of Transport">ECMT</abbr> log book to <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> within 2 weeks of the permit’s expiry date.</p>
 
 <div class="address"><div class="adr org fn"><p>
 
@@ -330,17 +426,17 @@ International Road Haulage Permits Office
 
 <p>Contact <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> straight away if you lose or damage a permit, or if one is stolen.</p>
 
-<p>You should also <a href="https://www.gov.uk/contact-police">tell the police</a> if a permit is stolen.</p>
+<p>You should also <a href="https://www.gov.uk/contact-police" class="govuk-link">tell the police</a> if a permit is stolen.</p>
 
 <p><strong><abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> International Road Haulage Permits Office</strong><br></br>
-<a href="mailto:irhp@dvsa.gov.uk">irhp@dvsa.gov.uk</a><br></br>
+<a href="mailto:irhp@dvsa.gov.uk" class="govuk-link">irhp@dvsa.gov.uk</a><br></br>
 Telephone: 0330 678 1117<br></br>
 Monday to Friday, 9am to 5pm<br></br>
-<a href="https://www.gov.uk/call-charges">Find out about call charges</a></p>
+<a href="https://www.gov.uk/call-charges" class="govuk-link">Find out about call charges</a></p>
 
 <h2 id="if-you-give-up-your-operator-licence">If you give up your operator licence</h2>
 
-<p>Send your <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits and log books to <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> if you <a href="https://www.gov.uk/manage-vehicle-operator-licence">apply to give up (‘surrender’) your vehicle operator licence</a>.</p>
+<p>Send your <abbr title="European Conference of Ministers of Transport">ECMT</abbr> permits and log books to <abbr title="Driver and Vehicle Standards Agency">DVSA</abbr> if you <a href="https://www.gov.uk/manage-vehicle-operator-licence" class="govuk-link">apply to give up (‘surrender’) your vehicle operator licence</a>.</p>
 
 </div>
 </div>
@@ -349,57 +445,65 @@ Monday to Friday, 9am to 5pm<br></br>
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 26 November 2018
-    <br></br>Last updated 29 October 2019
+    <br></br>Last updated 2 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
             <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-02T00:00:00.000+00:00">2 November 2020</time>
+              <p class="app-c-published-dates__change-note">Added a link to the service to apply for ECMT permits for 2021. The deadline to apply is 11:59pm on 20 November 2020.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-23T15:05:37.000+01:00">23 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added information about preparing to apply for ECMT permits for 2021 between 2 November and 20 November 2020.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-10-29T13:56:23.000+00:00">29 October 2019</time>
-              Changed the date that you can complete most international journeys without an ECMT permit from 31 December 2019 to 31 July 2020. This is because the European Commission has extended a temporary set of measures. 
+              <p class="app-c-published-dates__change-note">Changed the date that you can complete most international journeys without an ECMT permit from 31 December 2019 to 31 July 2020. This is because the European Commission has extended a temporary set of measures.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-30T06:00:10.000+01:00">30 August 2019</time>
-              Added a link to the service to buy ECMT permits for November and December 2019. 
+              <p class="app-c-published-dates__change-note">Added a link to the service to buy ECMT permits for November and December 2019.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-29T11:02:33.000+01:00">29 August 2019</time>
-              Updated information about buying permits for journeys until 31 December 2019. You'll be able to buy these permits from 30 August 2019 - you only need to buy them if you’ll be travelling to non-EU or EEA countries through the EU or EEA.
+              <p class="app-c-published-dates__change-note">Updated information about buying permits for journeys until 31 December 2019. You'll be able to buy these permits from 30 August 2019 - you only need to buy them if you’ll be travelling to non-EU or EEA countries through the EU or EEA.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-08T20:56:33.000+01:00">8 August 2019</time>
-              Added information about how to prepare for Brexit, which includes a link to a new guide about how to carry out international road haulage after Brexit.
+              <p class="app-c-published-dates__change-note">Added information about how to prepare for Brexit, which includes a link to a new guide about how to carry out international road haulage after Brexit.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-21T16:29:07.000+00:00">21 March 2019</time>
-              Updated to confirm you can continue to use your EU Community Licence until 31 December 2019 if the UK leaves the EU without a deal, and that you would need an ECMT permit to transport goods through EU or EEA countries to non-EU or EEA countries who are ECMT members. Added information about how to apply for short-term ECMT permits for April 2019.
+              <p class="app-c-published-dates__change-note">Updated to confirm you can continue to use your EU Community Licence until 31 December 2019 if the UK leaves the EU without a deal, and that you would need an ECMT permit to transport goods through EU or EEA countries to non-EU or EEA countries who are ECMT members. Added information about how to apply for short-term ECMT permits for April 2019.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-17T00:00:00.000+00:00">17 March 2019</time>
-              Updated the guidance on applying, as applications for 2019 permits closed at 11:59pm on Saturday 16 March 2019.
+              <p class="app-c-published-dates__change-note">Updated the guidance on applying, as applications for 2019 permits closed at 11:59pm on Saturday 16 March 2019.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-03-05T11:27:46.000+00:00">5 March 2019</time>
-              Added information about how to apply for a further allocation of ECMT permits the UK has secured, if you have not already applied for a 2019 permit.
+              <p class="app-c-published-dates__change-note">Added information about how to apply for a further allocation of ECMT permits the UK has secured, if you have not already applied for a 2019 permit.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-02-08T17:47:42.000+00:00">8 February 2019</time>
-              Added information about the UK government working to put arrangements in place with individual EU member states, updated information about what happens next if you applied for an ECMT permit for 2019, and added information about how to get an ECMT ‘certificate of roadworthiness’ for vehicles and trailers.
+              <p class="app-c-published-dates__change-note">Added information about the UK government working to put arrangements in place with individual EU member states, updated information about what happens next if you applied for an ECMT permit for 2019, and added information about how to get an ECMT ‘certificate of roadworthiness’ for vehicles and trailers.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2019-01-19T00:00:05.000+00:00">19 January 2019</time>
-              Updated the guidance on applying, as you can no longer apply for ECMT permits for 2019. Applications closed on Friday 18 January 2019.
+              <p class="app-c-published-dates__change-note">Updated the guidance on applying, as you can no longer apply for ECMT permits for 2019. Applications closed on Friday 18 January 2019.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-12-21T12:37:26.000+00:00">21 December 2018</time>
-              Extended the deadline to apply for 2019 permits from 11:59pm on 21 December 2018 to 11:59pm on 18 January 2019, and added information about short-term permits.
+              <p class="app-c-published-dates__change-note">Extended the deadline to apply for 2019 permits from 11:59pm on 21 December 2018 to 11:59pm on 18 January 2019, and added information about short-term permits.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-12-03T13:13:07.000+00:00">3 December 2018</time>
-              Added guidance on meeting the ECMT Quality Charter.
+              <p class="app-c-published-dates__change-note">Added guidance on meeting the ECMT Quality Charter.</p>
             </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-11-26T08:52:00.000+00:00">26 November 2018</time>
-              First published.
+              <p class="app-c-published-dates__change-note">First published.</p>
             </li>
         </ol>
       </div>
@@ -419,63 +523,65 @@ Monday to Friday, 9am to 5pm<br></br>
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+</div>
+
+
 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-26d5ac57" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b41da4e5" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-26d5ac57" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b41da4e5" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/find-eu-exit-guidance-business" data-track-options="{"dimension28":"1","dimension29":"Find Brexit guidance for your business"}" href="/find-eu-exit-guidance-business">Find Brexit guidance for your business</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/eu-community-licences-for-international-road-haulage" data-track-options="{"dimension28":"5","dimension29":"EU Community Licences for international road haulage"}" href="/guidance/eu-community-licences-for-international-road-haulage">EU Community Licences for international road haulage</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/the-essentials-of-international-road-haulage" data-track-options="{"dimension28":"5","dimension29":"International road haulage: the essentials"}" href="/guidance/the-essentials-of-international-road-haulage">International road haulage: the essentials</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/international-road-haulage-removal-permits" data-track-options="{"dimension28":"5","dimension29":"International road haulage removal permits for specialist removal companies"}" href="/guidance/international-road-haulage-removal-permits">International road haulage removal permits for specialist removal companies</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/driver-documents-required-for-international-road-haulage" data-track-options="{"dimension28":"5","dimension29":"International road haulage: driver documents"}" href="/guidance/driver-documents-required-for-international-road-haulage">International road haulage: driver documents</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/international-road-haulage-permits-for-some-non-eu-countries" data-track-options="{"dimension28":"5","dimension29":"International road haulage permits for some non-EU countries"}" href="/guidance/international-road-haulage-permits-for-some-non-eu-countries">International road haulage permits for some non-EU countries</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-26d5ac57" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-b41da4e5" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-26d5ac57" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-b41da4e5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/driver-documents-required-for-international-road-haulage" data-track-options="{"dimension28":"7","dimension29":"International road haulage: driver documents"}" href="/guidance/driver-documents-required-for-international-road-haulage">International road haulage: driver documents</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/international-authorisations-and-permits-for-road-haulage" data-track-options="{"dimension28":"7","dimension29":"International road haulage: operator licences and permits"}" href="/guidance/international-authorisations-and-permits-for-road-haulage">International road haulage: operator licences and permits</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/vehicle-documents-required-for-international-road-haulage" data-track-options="{"dimension28":"7","dimension29":"International road haulage: vehicle documents"}" href="/guidance/vehicle-documents-required-for-international-road-haulage">International road haulage: vehicle documents</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Detailed guidance" data-track-label="/guidance/carry-out-international-road-haulage-after-brexit" data-track-options="{"dimension28":"7","dimension29":"Carry out international road haulage after Brexit"}" href="/guidance/carry-out-international-road-haulage-after-brexit">Carry out international road haulage after Brexit</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.5 Detailed guidance" data-track-label="/guidance/transporting-goods-between-the-uk-and-eu-in-a-no-deal-brexit-guidance-for-hauliers" data-track-options="{"dimension28":"7","dimension29":"Transporting goods between the UK and EU in a no-deal Brexit: guidance for hauliers"}" href="/guidance/transporting-goods-between-the-uk-and-eu-in-a-no-deal-brexit-guidance-for-hauliers">Transporting goods between the UK and EU in a no-deal Brexit: guidance for hauliers</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/driver-documents-required-for-international-road-haulage" data-track-options="{"dimension28":"3","dimension29":"International road haulage: driver documents"}" href="/guidance/driver-documents-required-for-international-road-haulage">International road haulage: driver documents</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/international-authorisations-and-permits-for-road-haulage" data-track-options="{"dimension28":"3","dimension29":"International road haulage: operator licences and permits"}" href="/guidance/international-authorisations-and-permits-for-road-haulage">International road haulage: operator licences and permits</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/vehicle-documents-required-for-international-road-haulage" data-track-options="{"dimension28":"3","dimension29":"International road haulage: vehicle documents"}" href="/guidance/vehicle-documents-required-for-international-road-haulage">International road haulage: vehicle documents</a></li>
 
-      <li class="gem-c-related-navigation__link toggle-wrap">
-        <a href="#" class="gem-c-related-navigation__toggle" data-controls="toggle_related_guides" data-expanded="false" data-toggled-text="Show fewer">
-          + 2 more
-        </a>
-      </li>
-
-      <li class="gem-c-related-navigation__link gem-c-related-navigation__link--truncated-links">
-        <span id="toggle_related_guides" class="gem-c-related-navigation__toggle-more js-hidden">
-          <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.6 Detailed guidance" data-track-label="/guidance/how-to-move-goods-through-roro-locations-in-a-no-deal-brexit-eu-to-uk-and-uk-to-eu" data-track-options="{"dimension28":"7","dimension29":"How to move goods through RORO locations in a no deal Brexit: EU to UK and UK to EU"}" href="/guidance/how-to-move-goods-through-roro-locations-in-a-no-deal-brexit-eu-to-uk-and-uk-to-eu">How to move goods through RORO locations in a no deal Brexit: EU to UK and UK to EU</a> and <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.7 Detailed guidance" data-track-label="/guidance/hauliers-and-commercial-drivers-you-will-need-new-documents-to-transport-goods-into-the-eu-after-brexit" data-track-options="{"dimension28":"7","dimension29":"Driver, vehicle, cargo and customs documents required to transport goods into the EU after Brexit"}" href="/guidance/hauliers-and-commercial-drivers-you-will-need-new-documents-to-transport-goods-into-the-eu-after-brexit">Driver, vehicle, cargo and customs documents required to transport goods into the EU after Brexit</a>
-        </span>
-      </li>
   </ul>
 </nav>
 
   </div>
+
 
 
 </div>
@@ -496,9 +602,9 @@ Monday to Friday, 9am to 5pm<br></br>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-72a2dd3e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d7d5b343" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-72a2dd3e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d7d5b343" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
