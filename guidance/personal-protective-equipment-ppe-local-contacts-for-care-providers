@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 23 October 2020
+    <br></br>Last updated 3 November 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -62,8 +64,8 @@
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
           <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">
-        Contents
+    <h2 class="gem-c-contents-list__title">
+      Contents
 </h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -71,11 +73,11 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#who-can-use-the-ppe-portal" data-track-options="{"dimension29":"Who can use the PPE portal"}" href="#who-can-use-the-ppe-portal">Who can use the PPE portal</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#eligible-providers" data-track-options="{"dimension29":"Who can use the PPE portal"}" href="#eligible-providers">Who can use the PPE portal</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#local-authority-and-lrf-contact-details" data-track-options="{"dimension29":"Local authority and LRF contact details"}" href="#local-authority-and-lrf-contact-details">Local authority and LRF contact details</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#LRF-contact" data-track-options="{"dimension29":"Local authority and LRF contact details"}" href="#LRF-contact">Local authority and LRF contact details</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -87,26 +89,32 @@
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
 <h2 id="who-can-receive-ppe-from-their-local-authority-or-local-resilience-forum-lrf">Who can receive <abbr title="personal protective equipment">PPE</abbr> from their local authority or local resilience forum (<abbr title="local resilience forum">LRF</abbr>)</h2>
 
-<p>The majority of primary and social care services can obtain all of their COVID-19 <abbr title="personal protective equipment">PPE</abbr> via the <abbr title="personal protective equipment">PPE</abbr> portal. You can see the list of eligible providers below.</p>
+<p>The majority of primary and social care services can obtain all of their COVID-19 <abbr title="personal protective equipment">PPE</abbr> via the <abbr title="personal protective equipment">PPE</abbr> portal. You can see the list of <a href="#eligible-providers" class="govuk-link">eligible providers</a> below.</p>
 
 <p>However, each local authority or <abbr title="local resilience forum">LRF</abbr> will supply some or all of the following services:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
   <li>social and primary care providers on the <abbr title="personal protective equipment">PPE</abbr> portal in clinical need – for example, if there’s an increase in local COVID-19 cases or temporary difficulties accessing other distribution channels</li>
 </ul>
 
-<p>The Department for Education is working with local authorities and LRFs to determine the demand for education and childcare settings.</p>
+<p>The Department for Education is working with <a href="#LRF-contact" class="govuk-link">local authorities and LRFs</a> to determine the demand for education and childcare settings.</p>
 
-<h2 id="who-can-use-the-ppe-portal">Who can use the <abbr title="personal protective equipment">PPE</abbr> portal</h2>
+<h2 id="eligible-providers">Who can use the <abbr title="personal protective equipment">PPE</abbr> portal</h2>
 
 <p>For those not supplied through local authorities or LRFs, the majority of social and primary care providers can now get all of their COVID-19 <abbr title="personal protective equipment">PPE</abbr> from the <abbr title="personal protective equipment">PPE</abbr> portal.</p>
 
@@ -128,7 +136,7 @@
 
 <p>Read the <a href="https://www.gov.uk/guidance/ppe-portal-how-to-order-emergency-personal-protective-equipment" class="govuk-link">guidance on what <abbr title="personal protective equipment">PPE</abbr> items providers can order through the portal and order limits</a>.</p>
 
-<h2 id="local-authority-and-lrf-contact-details">Local authority and <abbr title="local resilience forum">LRF</abbr> contact details</h2>
+<h2 id="LRF-contact">Local authority and <abbr title="local resilience forum">LRF</abbr> contact details</h2>
 
 <h3 id="barking-and-dagenham">Barking and Dagenham</h3>
 
@@ -141,7 +149,7 @@
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -157,7 +165,7 @@
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -173,7 +181,7 @@
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -191,7 +199,7 @@ Phone: 07530 263 206</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -207,7 +215,7 @@ Phone: 07530 263 206</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -223,7 +231,7 @@ Phone: 07530 263 206</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -243,7 +251,7 @@ Phone: 0121 796 2577
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -255,15 +263,15 @@ Phone: 0121 796 2577
 <h3 id="blackburn-with-darwen">Blackburn with Darwen</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Blackburn and Darwen Local Authority.</p>
+<p>Email: <a href="mailto:procurement@blackburn.gov.uk" class="govuk-link">procurement@blackburn.gov.uk</a></p>
 </div>
 
-<p>In Blackburn and Darwen, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Blackburn and Darwen, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -280,7 +288,7 @@ Phone: 01253 478 444  </p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -297,7 +305,7 @@ Phone: 01253 478 444  </p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -314,7 +322,7 @@ Phone: 01253 478 444  </p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -323,7 +331,7 @@ Phone: 01253 478 444  </p>
 <h3 id="bracknell-forest">Bracknell Forest</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Bracknell Forest Local Authority.</p>
+<p>Email: <a href="mailto:ppe.emergency@bracknell-forest.gov.uk" class="govuk-link">ppe.emergency@bracknell-forest.gov.uk</a></p>
 </div>
 
 <p>In Bracknell Forest, the following services will be supplied:</p>
@@ -331,7 +339,7 @@ Phone: 01253 478 444  </p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -347,7 +355,7 @@ Phone: 01253 478 444  </p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -363,7 +371,7 @@ Phone: 01253 478 444  </p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -381,7 +389,7 @@ Phone: 01273 291 402</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -397,7 +405,7 @@ Phone: 01273 291 402</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -405,15 +413,17 @@ Phone: 01273 291 402</p>
 <h3 id="bromley">Bromley</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Bromley Local Authority.</p>
+<p>For mental health community care, domestic violence refuges and rough sleeping services), email <a href="mailto:providerssupport@bromley.gov.uk" class="govuk-link">providerssupport@bromley.gov.uk</a>.</p>
+
+<p>For personal assistants and direct payment recipients contact Vibrance between 11am and 1pm Monday to Friday on 020 8290 6639 or email <a href="mailto:bdp@vibrance.org.uk" class="govuk-link">bdp@vibrance.org.uk</a>.</p>
 </div>
 
-<p>In Bromley, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Bromley, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -429,7 +439,7 @@ Phone: 01273 291 402</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -445,7 +455,7 @@ Phone: 01273 291 402</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -462,7 +472,7 @@ Phone: 01273 291 402</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -478,7 +488,7 @@ Phone: 01273 291 402</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -494,7 +504,7 @@ Phone: 01273 291 402</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
   <li>all education (and childcare) service</li>
@@ -513,7 +523,7 @@ Phone: 07866 184 154</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -531,7 +541,7 @@ Phone: 07912 293 705</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -547,7 +557,7 @@ Phone: 07912 293 705</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -563,7 +573,7 @@ Phone: 07912 293 705</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -571,15 +581,15 @@ Phone: 07912 293 705</p>
 <h3 id="county-durham">County Durham</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with County Durham Local Authority.</p>
+<p>Email: <a href="mailto:PPERequests@durham.gov.uk" class="govuk-link">PPERequests@durham.gov.uk</a></p>
 </div>
 
-<p>In County Durham, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In County Durham, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -587,7 +597,7 @@ Phone: 07912 293 705</p>
 <h3 id="coventry">Coventry</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Coventry Local Authority.</p>
+<p>Email: <a href="mailto:COVID19PPEOrder@coventry.gov.uk" class="govuk-link">COVID19PPEOrder@coventry.gov.uk</a></p>
 </div>
 
 <h3 id="croydon">Croydon</h3>
@@ -601,7 +611,7 @@ Phone: 07912 293 705</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -617,7 +627,7 @@ Phone: 07912 293 705</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -625,15 +635,15 @@ Phone: 07912 293 705</p>
 <h3 id="darlington">Darlington</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Darlington Local Authority.</p>
+<p>Email: <a href="mailto:PPERequests@durham.gov.uk" class="govuk-link">PPERequests@durham.gov.uk</a></p>
 </div>
 
-<p>In Darlington, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Darlington, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -659,15 +669,15 @@ Email for direct payment personal assistant customers only, or their social work
 <h3 id="derbyshire-county-council">Derbyshire County Council</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Derbyshire County Council.</p>
+<p>Email: <a href="mailto:PPEsupplies@derbyshire.gov.uk" class="govuk-link">PPEsupplies@derbyshire.gov.uk</a></p>
 </div>
 
-<p>In Derbyshire, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Derbyshire, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -675,15 +685,17 @@ Email for direct payment personal assistant customers only, or their social work
 <h3 id="devon">Devon</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Devon Local Authority.</p>
+<p>Email: <a href="mailto:adultsc.personalprotectionequipmentadultsc-mailbox@devon.gov.uk" class="govuk-link">adultsc.personalprotectionequipmentadultsc-mailbox@devon.gov.uk</a></p>
+
+<p><a rel="external" href="https://forms.office.com/Pages/ResponsePage.aspx?id=gzehjWjLP0S7S5l_d_1b-0WNMfyfHctFhi8YLeEyy19UNUlHNjdZVUQ4T1JGQldCRTREQlNTNks2NS4u" class="govuk-link">Online request form</a></p>
 </div>
 
-<p>In Devon, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Devon, the online request form can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -691,15 +703,15 @@ Email for direct payment personal assistant customers only, or their social work
 <h3 id="doncaster">Doncaster</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Doncaster Local Authority.</p>
+<p>Email: <a href="mailto:sylrfadmin@sheffield.gov.uk" class="govuk-link">sylrfadmin@sheffield.gov.uk</a></p>
 </div>
 
-<p>In Doncaster, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Doncaster, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -715,7 +727,7 @@ Email for direct payment personal assistant customers only, or their social work
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -723,8 +735,18 @@ Email for direct payment personal assistant customers only, or their social work
 <h3 id="dudley">Dudley</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Dudley Local Authority.</p>
+<p>Email: <a href="mailto:joanne.basterfield@dudley.gov.uk" class="govuk-link">joanne.basterfield@dudley.gov.uk</a> or <a href="mailto:commissioning.dachs@dudley.gov.uk" class="govuk-link">commissioning.dachs@dudley.gov.uk</a></p>
 </div>
+
+<p>In Dudley, the contact details above can be used to supply:</p>
+
+<ul>
+  <li>local authorities (including children and adult social care workers)</li>
+  <li>mental health community care</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
+  <li>domestic violence refuges</li>
+  <li>rough sleeping services</li>
+</ul>
 
 <h3 id="ealing">Ealing</h3>
 
@@ -737,22 +759,22 @@ Email for direct payment personal assistant customers only, or their social work
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
 
-<h3 id="east-rising-of-yorkshire-council">East Rising of Yorkshire Council</h3>
+<h3 id="east-riding-of-yorkshire-council">East Riding of Yorkshire Council</h3>
 
 <div class="call-to-action">
 <p>Email: <a href="mailto:lrf@eastriding.gov.uk" class="govuk-link">lrf@eastriding.gov.uk</a></p>
 </div>
 
-<p>In East Rising of Yorkshire Council area, the contact details above can be used to supply:</p>
+<p>In East Riding of Yorkshire Council area, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -768,7 +790,7 @@ Email for direct payment personal assistant customers only, or their social work
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -784,7 +806,7 @@ Email for direct payment personal assistant customers only, or their social work
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -800,7 +822,7 @@ Email for direct payment personal assistant customers only, or their social work
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -816,7 +838,7 @@ Email for direct payment personal assistant customers only, or their social work
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -834,7 +856,7 @@ Phone: 020 8921 5421</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -850,7 +872,7 @@ Phone: 020 8921 5421</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -868,7 +890,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -884,7 +906,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -892,7 +914,7 @@ Phone: 0151 511 8563</p>
 <h3 id="hampshire-county">Hampshire County</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Hampshire Local Authority.</p>
+<p>Email: <a href="mailto:ian.hoult@hants.gov.uk" class="govuk-link">ian.hoult@hants.gov.uk</a></p>
 </div>
 
 <p>In Hampshire, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -900,7 +922,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -916,7 +938,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -932,7 +954,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -948,7 +970,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -964,7 +986,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -972,7 +994,9 @@ Phone: 0151 511 8563</p>
 <h3 id="herefordshire">Herefordshire</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Herefordshire Local Authority.</p>
+<p>Email: <a href="mailto:paul.smith@herefordshire.gov.uk" class="govuk-link">paul.smith@herefordshire.gov.uk</a></p>
+
+<p>Phone: 01432 260 654</p>
 </div>
 
 <p>In Herefordshire, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -980,7 +1004,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -996,7 +1020,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1012,7 +1036,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1028,7 +1052,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1036,7 +1060,7 @@ Phone: 0151 511 8563</p>
 <h3 id="isle-of-wight">Isle of Wight</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Isle of Wight Local Authority.</p>
+<p>Email: <a href="mailto:ian.hoult@hants.gov.uk" class="govuk-link">ian.hoult@hants.gov.uk</a></p>
 </div>
 
 <p>In Isle of Wight, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -1044,7 +1068,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1060,7 +1084,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1076,7 +1100,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1092,7 +1116,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1107,7 +1131,7 @@ Phone: 0151 511 8563</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1123,7 +1147,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1138,7 +1162,7 @@ Phone: 0151 511 8563</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1146,8 +1170,18 @@ Phone: 0151 511 8563</p>
 <h3 id="knowsley">Knowsley</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Knowsley Local Authority.</p>
+<p>Email: <a href="mailto:DNS.businesssupportteam@knowsley.gov.uk" class="govuk-link">DNS.businesssupportteam@knowsley.gov.uk</a></p>
 </div>
+
+<p>In Knowsley, the contact details above can be used to supply:</p>
+
+<ul>
+  <li>local authorities (including children and adult social care workers)</li>
+  <li>mental health community care</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
+  <li>domestic violence refuges</li>
+  <li>rough sleeping services</li>
+</ul>
 
 <h3 id="lambeth">Lambeth</h3>
 
@@ -1160,7 +1194,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1176,7 +1210,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1192,22 +1226,28 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
 
-<h3 id="leicester">Leicester</h3>
+<h3 id="leicester">Leicester, Leicestershire and Rutland Local Resilience Forum (<abbr title="local resilience forum">LRF</abbr>)</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Leicester Local Authority.</p>
+<p>Email: <a href="mailto:LRF.PPESupport@leics.gov.uk" class="govuk-link"><abbr title="local resilience forum">LRF</abbr>.PPESupport@leics.gov.uk</a></p>
 </div>
 
-<h3 id="leicestershire-county">Leicestershire County</h3>
+<p>Across Leicester, Leicestershire and Rutland, the contact details above can be used to supply:</p>
 
-<div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Leicestershire Local Authority.</p>
-</div>
+<ul>
+  <li>local authorities (including children and adult social care workers)</li>
+  <li>mental health community care</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
+  <li>domestic violence refuges</li>
+  <li>rough sleeping services</li>
+</ul>
+
+<p>Leicester, Leicestershire and Rutland <abbr title="local resilience forum">LRF</abbr>’s supply routes will be through a combination of deliveries, collection and responding to requests for replacement stock as needed.</p>
 
 <h3 id="lewisham">Lewisham</h3>
 
@@ -1220,7 +1260,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1228,7 +1268,7 @@ Phone: 0151 511 8563</p>
 <h3 id="lincolnshire-county">Lincolnshire County</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Lincolnshire Local Authority.</p>
+<p>Email: <a href="mailto:CEC_Health@lincoln.fire-uk.org" class="govuk-link">CEC_Health@lincoln.fire-uk.org</a></p>
 </div>
 
 <p>In Lincolnshire, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -1236,7 +1276,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1244,7 +1284,7 @@ Phone: 0151 511 8563</p>
 <h3 id="liverpool">Liverpool</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Liverpool Local Authority.</p>
+<p>Email: <a href="mailto:lcc.ppe@eventdesign.co.uk" class="govuk-link">lcc.ppe@eventdesign.co.uk</a></p>
 </div>
 
 <h3 id="luton">Luton</h3>
@@ -1258,7 +1298,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1266,7 +1306,7 @@ Phone: 0151 511 8563</p>
 <h3 id="manchester">Manchester</h3>
 
 <div class="call-to-action">
-<p>Email: <a href="mailto:ppemutualaid@manchester.gov.uk" class="govuk-link">ppemutualaid@manchester.gov.uk</a></p>
+<p>Email: <a href="mailto:ppemutualaid@manchester.gov.uk" class="govuk-link">ppemutualaid@manchester.gov.uk</a> and <a href="mailto:LAPPEorders@manchesterfire.gov.uk" class="govuk-link">LAPPEorders@manchesterfire.gov.uk</a></p>
 </div>
 
 <p>In Manchester, the contact details above can be used to supply:</p>
@@ -1274,7 +1314,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -1291,7 +1331,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1307,7 +1347,7 @@ Phone: 0151 511 8563</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1324,7 +1364,7 @@ Phone: 01642 728 899</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1341,7 +1381,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1357,7 +1397,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1373,7 +1413,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1389,7 +1429,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1404,7 +1444,7 @@ Phone: 07917 473 993</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1420,7 +1460,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1435,7 +1475,8 @@ Phone: 07917 473 993</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>mental health community care</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1443,7 +1484,9 @@ Phone: 07917 473 993</p>
 <h3 id="north-somerset">North Somerset</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with North Somerset Local Authority.</p>
+<p>Email: <a href="mailto:rob.hepworth@n-somerset.gov.uk" class="govuk-link">rob.hepworth@n-somerset.gov.uk</a></p>
+
+<p>Phone: 01934 427397</p>
 </div>
 
 <p>In North Somerset, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -1451,7 +1494,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1467,7 +1510,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1483,7 +1526,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1499,7 +1542,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1514,7 +1557,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1530,7 +1573,7 @@ Phone: 07917 473 993</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1548,7 +1591,7 @@ Phone: 01617 704 874</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -1567,7 +1610,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1582,7 +1625,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1590,7 +1633,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <h3 id="plymouth">Plymouth</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Plymouth Local Authority.</p>
+<p>Email: <a href="mailto:PPERequests@plymouth.gov.uk" class="govuk-link">PPERequests@plymouth.gov.uk</a></p>
 </div>
 
 <p>In Plymouth, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -1598,14 +1641,14 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
 
 <h3 id="portsmouth">Portsmouth</h3>
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Portsmouth Local Authority.</p>
+<p>Email: <a href="mailto:ian.hoult@hants.gov.uk" class="govuk-link">ian.hoult@hants.gov.uk</a></p>
 </div>
 
 <p>In Portsmouth, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -1613,7 +1656,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1629,7 +1672,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1651,7 +1694,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1667,7 +1710,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -1677,34 +1720,22 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <h3 id="rotherham">Rotherham</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Rotherham Local Authority.</p>
+<p>Email: <a href="mailto:sylrfadmin@sheffield.gov.uk" class="govuk-link">sylrfadmin@sheffield.gov.uk</a></p>
 </div>
 
-<p>In Rotherham, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Rotherham, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
 
 <h3 id="rutland">Rutland</h3>
 
-<div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Rutland Local Authority.</p>
-</div>
-
-<p>In Rutland, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
-
-<ul>
-  <li>local authorities (including children and adult social care workers)</li>
-  <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
-  <li>domestic violence refuges</li>
-  <li>rough sleeping services</li>
-</ul>
+<p>Please refer to <a href="#leicester" class="govuk-link">Leicester, Leicestershire and Rutland <abbr title="local resilience forum">LRF</abbr> contact details</a> above.</p>
 
 <h3 id="salford">Salford</h3>
 
@@ -1717,7 +1748,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -1732,7 +1763,9 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <h3 id="sefton">Sefton</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Sefton Local Authority.</p>
+<p>Email: <a href="mailto:emergencyppe@sefton.gov.uk" class="govuk-link">emergencyppe@sefton.gov.uk</a></p>
+
+<p>Phone: 0345 140 0845</p>
 </div>
 
 <p>In Sefton, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -1740,7 +1773,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1748,15 +1781,15 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <h3 id="sheffield">Sheffield</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Sheffield Local Authority.</p>
+<p>Email: <a href="mailto:sylrfadmin@sheffield.gov.uk" class="govuk-link">sylrfadmin@sheffield.gov.uk</a></p>
 </div>
 
-<p>In Sheffield, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Sheffield, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1772,7 +1805,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1780,15 +1813,15 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <h3 id="slough">Slough</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Slough Local Authority.</p>
+<p>Email: <a href="mailto:PPE@slough.gov.uk" class="govuk-link"><abbr title="personal protective equipment">PPE</abbr>@slough.gov.uk</a></p>
 </div>
 
-<p>In Slough, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Slough, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1796,7 +1829,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <h3 id="solihull">Solihull</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Solihull Local Authority.</p>
+<p>Email: <a href="mailto:PPE@solihull.gov.uk" class="govuk-link"><abbr title="personal protective equipment">PPE</abbr>@solihull.gov.uk</a> (Monday to Friday)</p>
 </div>
 
 <p>In Solihull, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -1804,7 +1837,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1820,7 +1853,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1828,13 +1861,25 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <h3 id="south-gloucestershire">South Gloucestershire</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with South Gloucestershire Local Authority.</p>
+<p>Email: <a href="mailto:PPE@southglos.gov.uk" class="govuk-link"><abbr title="personal protective equipment">PPE</abbr>@southglos.gov.uk</a></p>
 </div>
+
+<p>In South Gloucestershire, the contact details above can be used for email queries about <abbr title="personal protective equipment">PPE</abbr>. A separate platform is currently being built for <abbr title="personal protective equipment">PPE</abbr> requests.</p>
+
+<p><abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+
+<ul>
+  <li>local authorities (including children and adult social care workers)</li>
+  <li>mental health community care</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
+  <li>domestic violence refuges</li>
+  <li>rough sleeping services</li>
+</ul>
 
 <h3 id="southampton">Southampton</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Southampton Local Authority.</p>
+<p>Email: <a href="mailto:ian.hoult@hants.gov.uk" class="govuk-link">ian.hoult@hants.gov.uk</a></p>
 </div>
 
 <p>In Southampton, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -1842,7 +1887,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1850,15 +1895,15 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <h3 id="southend-on-sea">Southend-on-Sea</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Southend-on-Sea Local Authority.</p>
+<p>Email: <a href="mailto:ppe@southend.gov.uk" class="govuk-link">ppe@southend.gov.uk</a></p>
 </div>
 
-<p>In Southend-on-Sea, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Southend-on-Sea, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1874,7 +1919,7 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1890,29 +1935,29 @@ Phone: 07775 824 756 (John Pearce and Andrew Colling) or 07854 683 304 (Matt Ros
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
 
-<h3 id="st-helens">St. Helens</h3>
+<h3 id="st-helens">St Helens</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with St. Helens Local Authority.</p>
+<p>Email: <a href="mailto:pperequestsCOVID19@sthelens.gov.uk" class="govuk-link">pperequestsCOVID19@sthelens.gov.uk</a></p>
 </div>
 
 <h3 id="staffordshire-county">Staffordshire County</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Staffordshire County Local Authority.</p>
+<p>Email: <a href="mailto:emergency.ppe@staffordshire.gov.uk" class="govuk-link">emergency.ppe@staffordshire.gov.uk</a></p>
 </div>
 
-<p>In Staffordshire County, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Staffordshire County, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1930,7 +1975,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -1947,7 +1992,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1955,7 +2000,7 @@ Phone: 0161 217 6996</p>
 <h3 id="stoke-on-trent">Stoke-on-Trent</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Stoke-on-Trent Local Authority.</p>
+<p>Email: <a href="mailto:emergency.ppe@staffordshire.gov.uk" class="govuk-link">emergency.ppe@staffordshire.gov.uk</a></p>
 </div>
 
 <p>In Stoke-on-Trent, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -1963,7 +2008,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1978,7 +2023,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -1994,7 +2039,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2010,7 +2055,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2028,7 +2073,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2044,7 +2089,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2060,7 +2105,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -2069,15 +2114,15 @@ Phone: 0161 217 6996</p>
 <h3 id="telford-and-wrekin">Telford and Wrekin</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Telford and Wrekin County Local Authority.</p>
+<p>Email: <a href="mailto:coronavirus@telford.gov.uk" class="govuk-link">coronavirus@telford.gov.uk</a></p>
 </div>
 
-<p>In Telford and Wrekin, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Telford and Wrekin, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2085,15 +2130,15 @@ Phone: 0161 217 6996</p>
 <h3 id="thurrock">Thurrock</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Thurrock Local Authority.</p>
+<p>Email: <a href="mailto:CovidPPE@thurrock.gov.uk" class="govuk-link">CovidPPE@thurrock.gov.uk</a></p>
 </div>
 
-<p>In Thurrock, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Thurrock, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2109,7 +2154,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2125,7 +2170,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2141,7 +2186,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -2158,7 +2203,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2166,8 +2211,18 @@ Phone: 0161 217 6996</p>
 <h3 id="walsall">Walsall</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Walsall Local Authority.</p>
+<p>Email: <a href="mailto:pete.green@walsall.gov.uk" class="govuk-link">pete.green@walsall.gov.uk</a> and <a href="mailto:jeanette.knapper@walsall.gov.uk" class="govuk-link">jeanette.knapper@walsall.gov.uk</a></p>
 </div>
+
+<p>In Walsall, the contact details above can be used to supply:</p>
+
+<ul>
+  <li>local authorities (including children and adult social care workers)</li>
+  <li>mental health community care</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
+  <li>domestic violence refuges</li>
+  <li>rough sleeping services</li>
+</ul>
 
 <h3 id="waltham-forest">Waltham Forest</h3>
 
@@ -2180,7 +2235,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2196,7 +2251,7 @@ Phone: 0161 217 6996</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2214,7 +2269,7 @@ Phone: 01925 442 602</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -2232,7 +2287,7 @@ Website: <a rel="external" href="https://www.warwickshire.gov.uk/coronavirusppe"
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -2241,7 +2296,7 @@ Website: <a rel="external" href="https://www.warwickshire.gov.uk/coronavirusppe"
 <h3 id="west-berkshire">West Berkshire</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with West Berkshire Local Authority.</p>
+<p>Email: <a href="mailto:covid19.eoc@westberks.gov.uk" class="govuk-link">covid19.eoc@westberks.gov.uk</a></p>
 </div>
 
 <p>In West Berkshire, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -2249,7 +2304,23 @@ Website: <a rel="external" href="https://www.warwickshire.gov.uk/coronavirusppe"
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
+  <li>domestic violence refuges</li>
+  <li>rough sleeping services</li>
+</ul>
+
+<h3 id="west-mercia">West Mercia</h3>
+
+<div class="call-to-action">
+<p>Email: <a href="mailto:CV19Logistics@worcestershire.gov.uk" class="govuk-link">CV19Logistics@worcestershire.gov.uk</a></p>
+</div>
+
+<p>In West Mercia, the contact details above can be used to supply:</p>
+
+<ul>
+  <li>local authorities (including children and adult social care workers)</li>
+  <li>mental health community care</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2265,7 +2336,7 @@ Website: <a rel="external" href="https://www.warwickshire.gov.uk/coronavirusppe"
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2281,7 +2352,7 @@ Website: <a rel="external" href="https://www.warwickshire.gov.uk/coronavirusppe"
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -2300,7 +2371,7 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -2317,7 +2388,7 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -2326,13 +2397,23 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 <h3 id="windsor-and-maidenhead">Windsor and Maidenhead</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Windsor and Maidenhead Local Authority.</p>
+<p>Email: <a href="mailto:covid19.eoc@westberks.gov.uk" class="govuk-link">covid19.eoc@westberks.gov.uk</a></p>
 </div>
+
+<p>In Bracknell Forest, the following services will be supplied:</p>
+
+<ul>
+  <li>local authorities (including children and adult social care workers)</li>
+  <li>mental health community care</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
+  <li>domestic violence refuges</li>
+  <li>rough sleeping services</li>
+</ul>
 
 <h3 id="wirral">Wirral</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Wirral Local Authority.</p>
+<p>Email: <a href="mailto:grahamknowles@wirral.gov.uk" class="govuk-link">grahamknowles@wirral.gov.uk</a> (first email) or <a href="mailto:fmppe@wirral.gov.uk" class="govuk-link">fmppe@wirral.gov.uk</a> (second email)</p>
 </div>
 
 <p>In Wirral, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
@@ -2340,7 +2421,7 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2348,8 +2429,18 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 <h3 id="wokingham">Wokingham</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Wokingham Local Authority.</p>
+<p>Email: <a href="mailto:CommissioningSupportTeam@wokingham.gov.uk" class="govuk-link">CommissioningSupportTeam@wokingham.gov.uk</a></p>
 </div>
+
+<p>In Wokingham, the contact details above can be used to supply:</p>
+
+<ul>
+  <li>local authorities (including children and adult social care workers)</li>
+  <li>mental health community care</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
+  <li>domestic violence refuges</li>
+  <li>rough sleeping services</li>
+</ul>
 
 <h3 id="wolverhampton-city-of">Wolverhampton (City of)</h3>
 
@@ -2357,12 +2448,12 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 <p>Email: <a href="mailto:ppe@wolverhampton.gov.uk" class="govuk-link">ppe@wolverhampton.gov.uk</a></p>
 </div>
 
-<p>In Wolverhampton, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Wolverhampton, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -2371,15 +2462,15 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 <h3 id="worcestershire-county">Worcestershire County</h3>
 
 <div class="call-to-action">
-<p>Awaiting confirmation of contact details. In the meantime, get in touch with Worcestershire County Local Authority.</p>
+<p>Email: <a href="mailto:CV19Logistics@worcestershire.gov.uk" class="govuk-link">CV19Logistics@worcestershire.gov.uk</a></p>
 </div>
 
-<p>In Worcestershire County, <abbr title="personal protective equipment">PPE</abbr> will be provided to the following services:</p>
+<p>In Worcestershire County, the contact details above can be used to supply:</p>
 
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
 </ul>
@@ -2395,7 +2486,7 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 <ul>
   <li>local authorities (including children and adult social care workers)</li>
   <li>mental health community care</li>
-  <li>personal assistants (LA, CCG commissioned and funded through personal health budgets)</li>
+  <li>personal assistants (<abbr title="local authority">LA</abbr>, <abbr title="clinical commissioning group">CCG</abbr> commissioned and funded through personal health budgets)</li>
   <li>personal assistants funded through direct payments</li>
   <li>domestic violence refuges</li>
   <li>rough sleeping services</li>
@@ -2406,12 +2497,26 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 <p>If you cannot get <abbr title="personal protective equipment">PPE</abbr> through any other route and have run out or will do so imminently, contact the National Supply Disruption Response (NSDR) on 0800 915 9964.</p>
 
 </div>
+
 </div>
 
-
       <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 23 October 2020
+    <br></br>Last updated 3 November 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-03T17:44:57.000+00:00">3 November 2020</time>
+              <p class="app-c-published-dates__change-note">Updated contact details for Blackburn with Darwen, Bracknell Forest, Bromley, County Durham, Coventry, Darlington, Derbyshire, Devon, Doncaster, Dudley, Hampshire, Herefordshire, Isle of Wight, Knowsley, Leicester, Leicestershire and Rutland, Lincolnshire, Liverpool, Portsmouth, Rotherham, Manchester, North Somerset, Plymouth, Sefton, Sheffield, Slough, Solihull, Southampton, Southend-on-Sea, South Gloucestershire, St Helens, Staffordshire, Stoke-on-Trent, Telford and Wrekin, Thurrock, Walsall, Warrington, West Berkshire, West Mercia, Windsor and Maidenhead, Wirral, Wokingham and Worcestershire.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-23T16:01:00.000+01:00">23 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
       </div>
@@ -2428,6 +2533,10 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
@@ -2457,9 +2566,9 @@ Phone: 01942 489 703 (business hours) or 01942 404 040 (out of hours)</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-02c069b6" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5a484f76" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-02c069b6" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-5a484f76" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
