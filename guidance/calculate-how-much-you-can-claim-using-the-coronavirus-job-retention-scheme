@@ -36,7 +36,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 June 2020
-    <br></br>Last updated 1 November 2020
+    <br></br>Last updated 3 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -115,9 +115,11 @@
 <div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
     <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
 </div>
+
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
 <div class="call-to-action">
 <p>The <a href="https://www.gov.uk/government/news/furlough-scheme-extended-and-further-economic-support-announced" class="govuk-link">Coronavirus Job Retention Scheme is being extended</a> until December 2020.</p>
 </div>
@@ -764,16 +766,20 @@ essential public services at risk during these challenging times.</p>
 <p>You can also <a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact/get-help-with-the-coronavirus-job-retention-scheme" class="govuk-link">contact HMRC</a> if you cannot get the help you need online.</p>
 
 </div>
-</div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 June 2020
-    <br></br>Last updated 1 November 2020
+    <br></br>Last updated 3 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-03T12:44:18.000+00:00">3 November 2020</time>
+              <p class="app-c-published-dates__change-note">Added translation</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-01T18:31:03.000+00:00">1 November 2020</time>
               <p class="app-c-published-dates__change-note">The Coronavirus Job Retention Scheme is being extended until December 2020.</p>
@@ -854,14 +860,14 @@ essential public services at risk during these challenging times.</p>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-1291331d" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-f1e1ae1c" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1291331d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f1e1ae1c" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -878,9 +884,9 @@ essential public services at risk during these challenging times.</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-1291331d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-f1e1ae1c" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-1291331d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-f1e1ae1c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -894,9 +900,9 @@ essential public services at risk during these challenging times.</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1291331d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-f1e1ae1c" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-1291331d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-f1e1ae1c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -928,9 +934,9 @@ essential public services at risk during these challenging times.</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7103d9e1" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5852ed85" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-7103d9e1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-5852ed85" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
