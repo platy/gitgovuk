@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 27 March 2020
-    <br></br>Last updated 12 October 2020
+    <br></br>Last updated 4 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -64,8 +64,8 @@
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
           <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">
-        Contents
+    <h2 class="gem-c-contents-list__title">
+      Contents
 </h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -73,7 +73,7 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#if-your-animal-needs-vet-treatment" data-track-options="{"dimension29":"If your animal needs vet treatment"}" href="#if-your-animal-needs-vet-treatment">If your animal needs vet treatment</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#if-your-animal-needs-treatment" data-track-options="{"dimension29":"If your animal needs treatment"}" href="#if-your-animal-needs-treatment">If your animal needs treatment</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -97,11 +97,15 @@
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
-<p>This is national guidance. Check the <a href="https://www.gov.uk/government/collections/local-restrictions-areas-with-an-outbreak-of-coronavirus-covid-19" class="govuk-link">local <abbr title="Disease caused by Coronavirus">COVID-19</abbr> alert levels</a> to find out what level your area is and any additional restrictions that apply.</p>
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
 
-<p>If you go abroad, you should plan how you will care for your animals if you are told to quarantine for 14 days on your return.</p>
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
+<p>This is national guidance for England.</p>
 
 <h2 id="animals-with-coronavirus">Animals with coronavirus</h2>
 
@@ -113,9 +117,18 @@
 
 <p>There is no evidence that coronavirus passes between animals or that pets transmit the virus to humans.</p>
 
-<h2 id="if-your-animal-needs-vet-treatment">If your animal needs vet treatment</h2>
+<h2 id="if-your-animal-needs-treatment">If your animal needs treatment</h2>
 
-<p>If your animal needs treatment, phone the vet to arrange the best way to meet their needs.</p>
+<p>If your animal needs treatment, phone first to arrange the best way to meet their needs.</p>
+
+<p>You may leave your home to take an animal to:</p>
+
+<ul>
+  <li>veterinary services to seek advice about the health or welfare of your pet or other animal in your care</li>
+  <li>grooming services if they are essential to your animal’s welfare</li>
+</ul>
+
+<p>Do not leave your home if you are self-isolating.</p>
 
 <h2 id="dogs">Dogs</h2>
 
@@ -139,7 +152,7 @@
 
 <h3 id="if-youre-walking-dogs-on-behalf-of-someone-not-able-to">If you’re walking dogs on behalf of someone not able to</h3>
 
-<p>You may walk a dog for someone who is unable to leave their house because they are self-isolating.</p>
+<p>You may walk a dog for someone who is unable to leave their house because they are self-isolating or access walking services provided by a professional.</p>
 
 <p>You should wash your hands before and after handling the dog and keep 2 metres away from other people and animals, including when handing over the dog to the owner.</p>
 
@@ -163,7 +176,9 @@
   <li>have been abroad and told to quarantine on your return</li>
 </ul>
 
-<p>If you have a horse that you don’t keep at home (for example, you keep it in livery, a stables or on private land), you should not visit it whilst you are self-isolating. You should contact your yard manager or vet to make suitable animal welfare arrangements.</p>
+<p>If you have a horse that you don’t keep at home (for example, you keep it in livery, a stables or on private land), you may visit it to maintain its welfare.</p>
+
+<p>You should not visit your horse while you are self-isolating. You should contact your yard manager or vet to make suitable animal welfare arrangements.</p>
 
 <p>If you have livestock such as cattle, sheep, goats, pigs, poultry, or any other types of livestock or kept animals such as alpacas, you should arrange for someone else who is not self-isolating to care for your animals.</p>
 
@@ -196,16 +211,20 @@
 <p>For commercial transporter enquiries, email the <abbr title="Animal and Plant Health Agency">APHA</abbr> Welfare in Transport team <a href="mailto:WIT@apha.gov.uk" class="govuk-link">WIT@apha.gov.uk</a>.</p>
 
 </div>
-</div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 27 March 2020
-    <br></br>Last updated 12 October 2020
+    <br></br>Last updated 4 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-04T18:03:01.000+00:00">4 November 2020</time>
+              <p class="app-c-published-dates__change-note">Updated with guidance on caring for animals during lockdown.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-12T16:05:06.000+01:00">12 October 2020</time>
               <p class="app-c-published-dates__change-note">Updated with a link to local COVID-19 alert levels.</p>
@@ -248,6 +267,10 @@
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
@@ -258,24 +281,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-afcc363a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-eae0b503" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-afcc363a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-eae0b503" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/code-of-practice-for-the-welfare-of-dogs" data-track-options="{"dimension28":"5","dimension29":"Code of practice for the welfare of dogs"}" href="/government/publications/code-of-practice-for-the-welfare-of-dogs">Code of practice for the welfare of dogs</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/coronavirus-covid-19-advice-on-accessing-green-spaces-safely" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): advice on accessing green spaces safely"}" href="/guidance/coronavirus-covid-19-advice-on-accessing-green-spaces-safely">Coronavirus (COVID-19): advice on accessing green spaces safely</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/animal-welfare-legislation-protecting-pets" data-track-options="{"dimension28":"5","dimension29":"Animal welfare legislation: protecting pets"}" href="/guidance/animal-welfare-legislation-protecting-pets">Animal welfare legislation: protecting pets</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/coming-to-the-uk-for-seasonal-agricultural-work-on-english-farms" data-track-options="{"dimension28":"5","dimension29":"Coming to the UK for seasonal agricultural work on English farms"}" href="/guidance/coming-to-the-uk-for-seasonal-agricultural-work-on-english-farms">Coming to the UK for seasonal agricultural work on English farms</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/coronavirus-covid-19-how-to-self-isolate-when-you-travel-to-the-uk" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): how to self-isolate when you travel to the UK"}" href="/government/publications/coronavirus-covid-19-how-to-self-isolate-when-you-travel-to-the-uk">Coronavirus (COVID-19): how to self-isolate when you travel to the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/animal-welfare-legislation-protecting-pets" data-track-options="{"dimension28":"5","dimension29":"Animal welfare legislation: protecting pets"}" href="/guidance/animal-welfare-legislation-protecting-pets">Animal welfare legislation: protecting pets</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/coming-to-the-uk-for-seasonal-agricultural-work-on-english-farms" data-track-options="{"dimension28":"5","dimension29":"Coming to the UK for seasonal agricultural work on English farms"}" href="/guidance/coming-to-the-uk-for-seasonal-agricultural-work-on-english-farms">Coming to the UK for seasonal agricultural work on English farms</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/animal-activities-licensing-guidance-for-local-authorities" data-track-options="{"dimension28":"5","dimension29":"Animal activities licensing: guidance for local authorities"}" href="/government/publications/animal-activities-licensing-guidance-for-local-authorities">Animal activities licensing: guidance for local authorities</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/buying-a-cat-or-dog" data-track-options="{"dimension28":"5","dimension29":"Buying a cat or dog"}" href="/guidance/buying-a-cat-or-dog">Buying a cat or dog</a></li>
 
   </ul>
 </nav>
@@ -302,9 +325,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-cf0b7ddc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f6218d93" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-cf0b7ddc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-f6218d93" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
