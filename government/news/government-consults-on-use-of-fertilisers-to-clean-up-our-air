@@ -24,6 +24,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 3 November 2020
+    <br></br>Last updated 5 November 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -116,7 +118,7 @@ While each of these options will support the Government’s commitment to reduci
 
 <p>Air pollution has reduced significantly since 2010, with emissions of fine particulate matter - the pollutant of most harm to human health - down by 9%. But tackling ammonia emissions will help to bring the levels of this pollutant down even further, as ammonia reacts with other pollutants to form fine particulate matter.</p>
 
-<p>The consultation is open from today for 12 weeks, until 26 January 2021.</p>
+<p>The <a rel="external" href="https://consult.defra.gov.uk/air-quality-and-industrial-emissions/reducing-ammonia-emissions-from-urea-fertilisers/" class="govuk-link">consultation</a> is open from today for 12 weeks, until 26 January 2021.</p>
 </div>
 
 </div>
@@ -159,8 +161,22 @@ While each of these options will support the Government’s commitment to reduci
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 3 November 2020
+    <br></br>Last updated 5 November 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-05T09:32:01.000+00:00">5 November 2020</time>
+              <p class="app-c-published-dates__change-note">Added in link to consultation</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-03T10:30:00.000+00:00">3 November 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -193,9 +209,9 @@ While each of these options will support the Government’s commitment to reduci
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-80acd8ef" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-63479e2e" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-80acd8ef" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-63479e2e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
