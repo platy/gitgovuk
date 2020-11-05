@@ -36,7 +36,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 April 2020
-    <br></br>Last updated 13 October 2020
+    <br></br>Last updated 5 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -77,16 +77,16 @@
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
           <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">
-        Contents
+    <h2 class="gem-c-contents-list__title">
+      Contents
 </h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#i-cannot-visit-the-person-because-of-shielding-or-self-isolation" data-track-options="{"dimension29":"I cannot visit the person because of shielding or self-isolation"}" href="#i-cannot-visit-the-person-because-of-shielding-or-self-isolation">I cannot visit the person because of shielding or self-isolation</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#i-cannot-visit-the-person-because-one-of-us-is-self-isolating-or-more-at-risk" data-track-options="{"dimension29":"I cannot visit the person because one of us is self isolating or more at risk"}" href="#i-cannot-visit-the-person-because-one-of-us-is-self-isolating-or-more-at-risk">I cannot visit the person because one of us is self isolating or more at risk</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#i-cannot-do-something-for-the-person-because-im-self-isolating-or-shielding" data-track-options="{"dimension29":"I cannot do something for the person because I’m self-isolating or shielding"}" href="#i-cannot-do-something-for-the-person-because-im-self-isolating-or-shielding">I cannot do something for the person because I’m self-isolating or shielding</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#i-cannot-do-something-for-the-person-because-im-self-isolating-or-more-at-risk" data-track-options="{"dimension29":"I cannot do something for the person because I’m self-isolating or more at risk"}" href="#i-cannot-do-something-for-the-person-because-im-self-isolating-or-more-at-risk">I cannot do something for the person because I’m self-isolating or more at risk</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -106,11 +106,17 @@
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
-<p>During the coronavirus outbreak, your role and responsibilities as a deputy or attorney remain the same. However, you must follow <a href="https://www.gov.uk/coronavirus" class="govuk-link">government guidance</a> on social distancing, self-isolation and shielding.</p>
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
 
-<p>On October 12 the Government introduced a system of Local COVID Alert Levels.  If you live, work or volunteer in an area that is part of Local COVID Alert Level: High or Local COVID Alert Level: Very High, there are additional restrictions which apply to you. Please visit the <a href="https://www.gov.uk/guidance/local-covid-alert-levels-what-you-need-to-know" class="govuk-link">Local COVID Alert Levels page</a> to find out what level your area is in and the additional restrictions that apply.</p>
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
+<p>National restrictions begin in England from 5 November. <a href="https://www.gov.uk/guidance/new-national-restrictions-from-5-november" class="govuk-link">Find out about the new restrictions and what you can and cannot do.</a> See specific guidance for <a rel="external" href="https://gov.wales/coronavirus" class="govuk-link">Wales</a>.</p>
+
+<p>During the coronavirus outbreak, your role and responsibilities as a deputy or attorney remain the same. However, you must follow <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing" class="govuk-link">government guidance on social distancing</a> and <a href="https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance" class="govuk-link">self-isolation</a>, and observe <a href="https://www.gov.uk/guidance/new-national-restrictions-from-5-november" class="govuk-link">national restrictions</a>.</p>
 
 <p>If you’re not sure about something, or need help making a decision, you can read our guidance on <a href="https://www.gov.uk/lasting-power-attorney-duties" class="govuk-link">being an attorney</a> or <a href="https://www.gov.uk/become-deputy" class="govuk-link">being a deputy</a>.</p>
 
@@ -118,13 +124,14 @@
 
 <p>If you do still need to contact us, please bear in mind we are receiving a high number of calls and have fewer staff in the office. It may take us longer than normal to respond to calls and emails.</p>
 
-<h2 id="i-cannot-visit-the-person-because-of-shielding-or-self-isolation">I cannot visit the person because of shielding or self-isolation</h2>
-<p>If you have to make a decision but want to talk to the person first, think about how urgent it is and whether it could be delayed. If it is urgent, you could use the phone, a video call or have a care worker pass on the information.</p>
+<h2 id="i-cannot-visit-the-person-because-one-of-us-is-self-isolating-or-more-at-risk">I cannot visit the person because one of us is self isolating or more at risk</h2>
+<p>People <a href="https://www.gov.uk/guidance/new-national-restrictions-from-5-november#protecting-people-more-at-risk-from-coronavirus" class="govuk-link">over 60 or clinically vulnerable</a> could be at higher risk of severe illness from coronavirus.
+If you have to make a decision but want to talk to the person first, think about how urgent it is and whether it could be delayed. If it is urgent, you could use the phone, a video call or have a care worker pass on the information.</p>
 
 <p>You could also think about decisions and written statements the person has made in the past to see if that can help you make the decision.</p>
 
-<h2 id="i-cannot-do-something-for-the-person-because-im-self-isolating-or-shielding">I cannot do something for the person because I’m self-isolating or shielding</h2>
-<p>If you are self-isolating or shielding, you must continue to make decisions for the person. You cannot ask anyone else to make those decisions for you.</p>
+<h2 id="i-cannot-do-something-for-the-person-because-im-self-isolating-or-more-at-risk">I cannot do something for the person because I’m self-isolating or more at risk</h2>
+<p>If you are self-isolating, or you’re <a href="https://www.gov.uk/guidance/new-national-restrictions-from-5-november#protecting-people-more-at-risk-from-coronavirus" class="govuk-link">over 60 or clinically vulnerable</a>, you must continue to make decisions for the person. You cannot ask anyone else to make those decisions for you.</p>
 
 <p>However, you can make a decision, then have someone help with any tasks you cannot do yourself. For example, they can go to a shop to buy something or to the bank to deposit a cheque. Some supermarkets have volunteer shopping cards that allow someone to buy groceries and other essentials for another person.</p>
 
@@ -162,16 +169,20 @@
 <p>Find out more about ‘<a rel="external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/641143/Family-care-payments-practice-note-SD14.pdf" class="govuk-link">Family care payments</a>’.</p>
 
 </div>
-</div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 April 2020
-    <br></br>Last updated 13 October 2020
+    <br></br>Last updated 5 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-05T12:55:50.000+00:00">5 November 2020</time>
+              <p class="app-c-published-dates__change-note">Changes made due to lockdown 5/11/20</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-13T14:27:57.000+01:00">13 October 2020</time>
               <p class="app-c-published-dates__change-note">12 October 2020 lockdown changes</p>
@@ -202,6 +213,10 @@
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
@@ -212,21 +227,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-8ac5b422" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-917465ec" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-8ac5b422" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-917465ec" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/powers-of-attorney-and-deputy-orders-valid-examples" data-track-options="{"dimension28":"2","dimension29":"Powers of attorney and deputy orders: valid examples"}" href="/government/collections/powers-of-attorney-and-deputy-orders-valid-examples">Powers of attorney and deputy orders: valid examples</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/public-guardian-practice-note-gifts" data-track-options="{"dimension28":"2","dimension29":"Gifts: Public Guardian practice note"}" href="/government/publications/public-guardian-practice-note-gifts">Gifts: Public Guardian practice note</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/coronavirus-covid-19-office-of-the-public-guardian-response" data-track-options="{"dimension28":"5","dimension29":"Coronavirus (COVID-19): Office of the Public Guardian response"}" href="/guidance/coronavirus-covid-19-office-of-the-public-guardian-response">Coronavirus (COVID-19): Office of the Public Guardian response</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/short-term-options-for-health-welfare-and-financial-decisions" data-track-options="{"dimension28":"5","dimension29":"Short-term options for health, welfare and financial decisions"}" href="/guidance/short-term-options-for-health-welfare-and-financial-decisions">Short-term options for health, welfare and financial decisions</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/requesting-a-search-of-the-public-guardian-registers-public-guardian-practice-note" data-track-options="{"dimension28":"5","dimension29":"Requesting a search of the Public Guardian registers: Public Guardian practice note"}" href="/government/publications/requesting-a-search-of-the-public-guardian-registers-public-guardian-practice-note">Requesting a search of the Public Guardian registers: Public Guardian practice note</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/how-to-register-an-epa-during-the-coronavirus-outbreak" data-track-options="{"dimension28":"5","dimension29":"How to register an EPA during the coronavirus outbreak"}" href="/guidance/how-to-register-an-epa-during-the-coronavirus-outbreak">How to register an EPA during the coronavirus outbreak</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/powers-of-attorney-and-deputy-orders-valid-examples" data-track-options="{"dimension28":"5","dimension29":"Powers of attorney and deputy orders: valid examples"}" href="/government/collections/powers-of-attorney-and-deputy-orders-valid-examples">Powers of attorney and deputy orders: valid examples</a></li>
 
   </ul>
 </nav>
@@ -253,9 +271,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-04d5261a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4f8e8ca4" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-04d5261a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-4f8e8ca4" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
