@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 5 June 2020
-    <br></br>Last updated 28 October 2020
+    <br></br>Last updated 5 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -64,8 +64,8 @@
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
           <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">
-        Contents
+    <h2 class="gem-c-contents-list__title">
+      Contents
 </h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
@@ -159,8 +159,14 @@ PPE standards</a>
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
 <p>The <abbr title="personal protective equipment">PPE</abbr> portal can be used by social care and primary care providers to get critical coronavirus (COVID-19) personal protective equipment (<abbr title="personal protective equipment">PPE</abbr>).</p>
 
 <p>Providers who can use the service will receive an email invitation to register.</p>
@@ -243,7 +249,7 @@ PPE standards</a>
   <li>200 aprons</li>
   <li>400 gloves (200 pairs)</li>
   <li>one bottle of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>GPs with between 5,000 and 7,999 patients can order up to (per week):</p>
@@ -253,7 +259,7 @@ PPE standards</a>
   <li>400 aprons</li>
   <li>800 gloves (400 pairs)</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>GPs with between 8,000 and 10,999 patients can order up to (per week):</p>
@@ -263,7 +269,7 @@ PPE standards</a>
   <li>500 aprons</li>
   <li>1,000 gloves (500 pairs)</li>
   <li>4 bottles of hand hygiene (usually 500ml)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>GPs with between 11,000 and 29,999 patients can order up to (per week):</p>
@@ -273,17 +279,17 @@ PPE standards</a>
   <li>1,100 aprons</li>
   <li>2,200 gloves (1,100 pairs)</li>
   <li>8 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>GPs with 30,000 patients or more can order up to (per week):</p>
 
 <ul>
-  <li>2,600 IIR masks</li>
-  <li>2,600 aprons</li>
-  <li>5,200 gloves (2,600 pairs)</li>
-  <li>12 bottles of hand hygiene (usually 500ml)</li>
-  <li>2 boxes of visors (usually 200 per box)</li>
+  <li>4,000 IIR masks</li>
+  <li>3,000 aprons</li>
+  <li>6,000 gloves (3,000 pairs)</li>
+  <li>15 bottles of hand hygiene (usually 500ml)</li>
+  <li>200 visors</li>
 </ul>
 
 <h2 id="domiciliary-care-providers-order-limits">Domiciliary care providers: order limits</h2>
@@ -295,17 +301,17 @@ PPE standards</a>
   <li>400 aprons</li>
   <li>800 gloves (400 pairs)</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Domiciliary care providers with between 20 and 49 clients can order up to (per week):</p>
 
 <ul>
-  <li>300 IIR masks</li>
-  <li>600 aprons</li>
-  <li>1,200 gloves (600 pairs)</li>
+  <li>800 IIR masks</li>
+  <li>800 aprons</li>
+  <li>1,600 gloves (800 pairs)</li>
   <li>4 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Domiciliary care providers with between 50 and 99 clients can order up to (per week):</p>
@@ -315,7 +321,7 @@ PPE standards</a>
   <li>2,000 aprons</li>
   <li>4,000 gloves (2,000 pairs)</li>
   <li>6 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Domiciliary care providers with between 100 and 149 clients can order up to (per week):</p>
@@ -325,7 +331,7 @@ PPE standards</a>
   <li>3,000 aprons</li>
   <li>6,000 gloves (3,000 pairs)</li>
   <li>8 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Domiciliary care providers with between 150 and 500 clients can order up to (per week):</p>
@@ -335,7 +341,7 @@ PPE standards</a>
   <li>3,000 aprons</li>
   <li>6,000 gloves (3,000 pairs)</li>
   <li>10 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Domiciliary care providers with between 500 and 999 clients can order up to (per week):</p>
@@ -344,8 +350,8 @@ PPE standards</a>
   <li>6,000 IIR masks</li>
   <li>7,000 aprons</li>
   <li>12,000 gloves (6,000 pairs)</li>
-  <li>12 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>15 bottles of hand hygiene (usually 500ml)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Domiciliary care providers with more than 1,000 clients can order up to (per week):</p>
@@ -354,8 +360,8 @@ PPE standards</a>
   <li>8,000 IIR masks</li>
   <li>10,000 aprons</li>
   <li>14,000 gloves (7,000 pairs)</li>
-  <li>12 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>15 bottles of hand hygiene (usually 500ml)</li>
+  <li>200 visors</li>
 </ul>
 
 <h2 id="residential-care-homes-order-limits">Residential care homes: order limits</h2>
@@ -367,7 +373,7 @@ PPE standards</a>
   <li>400 aprons</li>
   <li>800 gloves (400 pairs)</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>Residential care homes with between 10 and 24 beds can order up to (per week):</p>
@@ -377,7 +383,7 @@ PPE standards</a>
   <li>1,200 aprons</li>
   <li>2,400 gloves (1,200 pairs)</li>
   <li>4 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Residential care homes with between 25 and 49 beds can order up to (per week):</p>
@@ -387,7 +393,7 @@ PPE standards</a>
   <li>2,000 aprons</li>
   <li>4,000 gloves (2,000 pairs)</li>
   <li>6 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Residential care homes with between 50 and 99 beds can order up to (per week):</p>
@@ -397,17 +403,17 @@ PPE standards</a>
   <li>5,000 aprons</li>
   <li>8,000 gloves (4,000 pairs)</li>
   <li>8 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Residential care homes with 100 or more beds can order up to (per week):</p>
 
 <ul>
-  <li>1,100 IIR masks</li>
+  <li>2,000 IIR masks</li>
   <li>7,000 aprons</li>
   <li>12,000 gloves (6,000 pairs)</li>
   <li>10 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <h2 id="pharmacies-order-limits">Pharmacies: order limits</h2>
@@ -460,9 +466,10 @@ PPE standards</a>
 
 <ul>
   <li>100 IIR masks</li>
+  <li>50 FFP masks</li>
   <li>200 aprons</li>
   <li>800 gloves (400 pairs)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>one box of gowns (usually 100 per box)</li>
   <li>one bottle of hand hygiene (usually 500ml)</li>
 </ul>
@@ -471,9 +478,10 @@ PPE standards</a>
 
 <ul>
   <li>300 IIR masks</li>
+  <li>50 FFP masks</li>
   <li>200 aprons</li>
   <li>800 gloves (400 pairs)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>one box of gowns (usually 100 per box)</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
 </ul>
@@ -482,9 +490,10 @@ PPE standards</a>
 
 <ul>
   <li>500 IIR masks</li>
+  <li>100 FFP masks</li>
   <li>400 aprons</li>
   <li>1,600 gloves (800 pairs)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>one box of gowns (usually 100 per box)</li>
   <li>4 bottles of hand hygiene (usually 500ml)</li>
 </ul>
@@ -493,10 +502,11 @@ PPE standards</a>
 
 <ul>
   <li>800 IIR masks</li>
+  <li>200 FFP masks</li>
   <li>800 aprons</li>
   <li>3,000 gloves (1,500 pairs)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
-  <li>one box of gowns (usually 100 per box)</li>
+  <li>100 visors</li>
+  <li>2 boxes of gowns (usually 100 per box)</li>
   <li>4 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -504,10 +514,11 @@ PPE standards</a>
 
 <ul>
   <li>1,000 IIR masks</li>
+  <li>200 FFP masks</li>
   <li>1,000 aprons</li>
   <li>4,000 gloves (2,000 pairs)</li>
-  <li>one box of visors (usually 200 per box)</li>
-  <li>one box of gowns (usually 100 per box)</li>
+  <li>200 visors</li>
+  <li>2 boxes of gowns (usually 100 per box)</li>
   <li>6 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -515,10 +526,11 @@ PPE standards</a>
 
 <ul>
   <li>1,500 IIR masks</li>
+  <li>200 FFP masks</li>
   <li>1,200 aprons</li>
   <li>5,000 gloves (2,500 pairs)</li>
-  <li>one box of visors (usually 200 per box)</li>
-  <li>one box of gowns (usually 100 per box)</li>
+  <li>200 visors</li>
+  <li>2 boxes of gowns (usually 100 per box)</li>
   <li>8 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -526,10 +538,11 @@ PPE standards</a>
 
 <ul>
   <li>2,000 IIR masks</li>
+  <li>200 FFP masks</li>
   <li>1,500 aprons</li>
   <li>6,000 gloves (3,000 pairs)</li>
-  <li>one box of visors (usually 200 per box)</li>
-  <li>one box of gowns (usually 100 per box)</li>
+  <li>200 visors</li>
+  <li>2 boxes of gowns (usually 100 per box)</li>
   <li>10 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -537,10 +550,11 @@ PPE standards</a>
 
 <ul>
   <li>2,500 IIR masks</li>
+  <li>200 FFP masks</li>
   <li>2,000 aprons</li>
   <li>8,000 gloves (4,000 pairs)</li>
-  <li>one box of visors (usually 200 per box)</li>
-  <li>one box of gowns (usually 100 per box)</li>
+  <li>200 visors</li>
+  <li>2 boxes of gowns (usually 100 per box)</li>
   <li>10 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -556,9 +570,10 @@ PPE standards</a>
 
 <ul>
   <li>300 IIR masks</li>
+  <li>50 FFP masks</li>
   <li>200 aprons</li>
   <li>800 gloves (400 pairs)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>one box of gowns (usually 100 per box)</li>
   <li>one bottle of hand hygiene (usually 500ml)</li>
 </ul>
@@ -567,9 +582,10 @@ PPE standards</a>
 
 <ul>
   <li>300 IIR masks</li>
+  <li>50 FFP masks</li>
   <li>200 aprons</li>
   <li>800 gloves (400 pairs)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>one box of gowns (usually 100 per box)</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
 </ul>
@@ -578,9 +594,10 @@ PPE standards</a>
 
 <ul>
   <li>600 IIR masks</li>
+  <li>50 FFP masks</li>
   <li>400 aprons</li>
   <li>1,600 gloves (800 pairs)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>one box of gowns (usually 100 per box)</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
 </ul>
@@ -589,9 +606,10 @@ PPE standards</a>
 
 <ul>
   <li>800 IIR masks</li>
+  <li>100 FFP masks</li>
   <li>600 aprons</li>
   <li>2,500 gloves (1,250 pairs)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>one box of gowns (usually 100 per box)</li>
   <li>4 bottles of hand hygiene (usually 500ml)</li>
 </ul>
@@ -600,9 +618,10 @@ PPE standards</a>
 
 <ul>
   <li>1,200 IIR masks</li>
+  <li>100 FFP masks</li>
   <li>800 aprons</li>
   <li>3,500 gloves (1,750 pairs)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>one box of gowns (usually 100 per box)</li>
   <li>6 bottles of hand hygiene (usually 500ml)</li>
 </ul>
@@ -611,10 +630,11 @@ PPE standards</a>
 
 <ul>
   <li>1,500 IIR masks</li>
+  <li>200 FFP masks</li>
   <li>1,200 aprons</li>
   <li>5,000 gloves (2,500 pairs)</li>
-  <li>one box of visors (usually 200 per box)</li>
-  <li>one box of gowns (usually 100 per box)</li>
+  <li>200 visors</li>
+  <li>2 boxes of gowns (usually 100 per box)</li>
   <li>8 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -622,10 +642,11 @@ PPE standards</a>
 
 <ul>
   <li>2,000 IIR masks</li>
+  <li>200 FFP masks</li>
   <li>1,500 aprons</li>
   <li>6,000 gloves (3,000 pairs)</li>
-  <li>one box of visors (usually 200 per box)</li>
-  <li>one box of gowns (usually 100 per box)</li>
+  <li>200 visors</li>
+  <li>2 boxes of gowns (usually 100 per box)</li>
   <li>10 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -633,10 +654,11 @@ PPE standards</a>
 
 <ul>
   <li>2,500 IIR masks</li>
+  <li>200 FFP masks</li>
   <li>2,000 aprons</li>
   <li>8,000 gloves (4,000 pairs)</li>
-  <li>one box of visors (usually 200 per box)</li>
-  <li>one box of gowns (usually 100 per box)</li>
+  <li>200 visors</li>
+  <li>2 boxes of gowns (usually 100 per box)</li>
   <li>10 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -648,7 +670,7 @@ PPE standards</a>
   <li>100 IIR masks</li>
   <li>100 aprons</li>
   <li>100 gloves (50 pairs)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>one bottle of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -658,7 +680,7 @@ PPE standards</a>
   <li>200 IIR masks</li>
   <li>200 aprons</li>
   <li>200 gloves (100 pairs)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -668,7 +690,7 @@ PPE standards</a>
   <li>200 IIR masks</li>
   <li>200 aprons</li>
   <li>300 gloves (150 pairs)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>4 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -678,7 +700,7 @@ PPE standards</a>
   <li>500 IIR masks</li>
   <li>300 aprons</li>
   <li>800 gloves (400 pairs)</li>
-  <li>2 boxes of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>6 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -690,7 +712,7 @@ PPE standards</a>
   <li>50 IIR masks</li>
   <li>100 aprons</li>
   <li>100 gloves (50 pairs)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -702,7 +724,7 @@ PPE standards</a>
   <li>50 IIR masks</li>
   <li>100 aprons</li>
   <li>100 gloves (50 pairs)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
 </ul>
 
@@ -711,51 +733,51 @@ PPE standards</a>
 <p>Community drug and alcohol services with fewer than 100 clients can order up to (per week):</p>
 
 <ul>
-  <li>25 IIR masks</li>
-  <li>50 aprons</li>
-  <li>100 gloves (50 pairs)</li>
+  <li>100 IIR masks</li>
+  <li>100 aprons</li>
+  <li>200 gloves (100 pairs)</li>
   <li>one bottle of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>Community drug and alcohol services with between 101 and 500 clients can order up to (per week):</p>
 
 <ul>
-  <li>50 IIR masks</li>
+  <li>100 IIR masks</li>
   <li>100 aprons</li>
   <li>200 gloves (100 pairs)</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>Community drug and alcohol services with between 501 and 1,000 clients can order up to (per week):</p>
 
 <ul>
-  <li>100 IIR masks</li>
+  <li>200 IIR masks</li>
   <li>200 aprons</li>
   <li>400 gloves (200 pairs)</li>
   <li>4 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>Community drug and alcohol services with between 1,001 and 1,500 clients can order up to (per week):</p>
 
 <ul>
-  <li>200 IIR masks</li>
+  <li>400 IIR masks</li>
   <li>400 aprons</li>
   <li>800 gloves (400 pairs)</li>
   <li>6 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Community drug and alcohol services with over 1,500 clients can order up to (per week):</p>
 
 <ul>
-  <li>400 IIR masks</li>
+  <li>800 IIR masks</li>
   <li>800 aprons</li>
   <li>1,600 gloves (800 pairs)</li>
   <li>8 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <h2 id="residential-drug-and-alcohol-services-order-limits">Residential drug and alcohol services: order limits</h2>
@@ -767,7 +789,7 @@ PPE standards</a>
   <li>400 aprons</li>
   <li>800 gloves (400 pairs)</li>
   <li>2 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>Residential drug and alcohol services with between 10 and 24 beds can order up to (per week):</p>
@@ -777,37 +799,37 @@ PPE standards</a>
   <li>600 aprons</li>
   <li>1,200 gloves (600 pairs)</li>
   <li>3 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>Residential drug and alcohol services with between 25 and 49 beds can order up to (per week):</p>
 
 <ul>
-  <li>300 IIR masks</li>
+  <li>400 IIR masks</li>
   <li>600 aprons</li>
   <li>1,200 gloves (600 pairs)</li>
   <li>4 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 50 per box)</li>
+  <li>100 visors</li>
 </ul>
 
 <p>Residential drug and alcohol services with between 50 and 99 beds can order up to (per week):</p>
 
 <ul>
-  <li>300 IIR masks</li>
+  <li>600 IIR masks</li>
   <li>1,200 aprons</li>
   <li>2,200 gloves (1,100 pairs)</li>
   <li>6 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <p>Residential drug and alcohol services with 100 or more beds can order up to (per week):</p>
 
 <ul>
-  <li>300 IIR masks</li>
+  <li>800 IIR masks</li>
   <li>2,000 aprons</li>
   <li>3,600 gloves (1,800 pairs)</li>
   <li>8 bottles of hand hygiene (usually 500ml)</li>
-  <li>one box of visors (usually 200 per box)</li>
+  <li>200 visors</li>
 </ul>
 
 <h2 id="delivery-times-and-cost">Delivery times and cost</h2>
@@ -848,16 +870,20 @@ PPE standards</a>
 <p>The team is available from 7am to 7pm, 7 days a week, to help resolve your queries.</p>
 
 </div>
-</div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 5 June 2020
-    <br></br>Last updated 28 October 2020
+    <br></br>Last updated 5 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-05T09:01:35.000+00:00">5 November 2020</time>
+              <p class="app-c-published-dates__change-note">Updated order limit information for all sectors to reflect changes to visor orders; updated order limit information for GPs, domiciliary care providers, residential care homes, dentists, orthodontists, community drug and alcohol services and residential drug and alcohol services to reflect recent increases; added FFP mask order limits for dentists and orthodontists.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-28T11:32:55.000+00:00">28 October 2020</time>
               <p class="app-c-published-dates__change-note">Added details of customer service team for the PPE portal.</p>
@@ -952,6 +978,10 @@ PPE standards</a>
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
@@ -962,14 +992,14 @@ PPE standards</a>
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-f3886186" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b57856d8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f3886186" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b57856d8" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -1006,9 +1036,9 @@ PPE standards</a>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ae8076c5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-55940634" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-ae8076c5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-55940634" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
