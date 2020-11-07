@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 November 2013
-    <br></br>Last updated 7 September 2020
+    <br></br>Last updated 6 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -57,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
@@ -143,8 +144,14 @@
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
 <div class="call-to-action">
 <h2 id="what-you-should-do">What you should do</h2>
 
@@ -191,19 +198,21 @@
 
 <h3 id="residency">Residency</h3>
 
-<p>If you are resident in Poland before the transition period ends on 31 December 2020, you will be able to stay.</p>
+<p>If you’re staying in Poland for more than 3 months, you must <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/obywatele-ue-oraz-eogszwajcarii-i-czlonkowie-ich-rodzin/wymagane-formalnosci/obywatele-ue/zarejestrowanie-pobytu/" class="govuk-link">register your stay with the Department of Foreigners at your local Voivodeship office</a>.</p>
 
-<p>If you’re staying in Poland for more than 3 months, you must <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/obywatele-ue-oraz-eogszwajcarii-i-czlonkowie-ich-rodzin/wymagane-formalnosci/obywatele-ue/zarejestrowanie-pobytu/" class="govuk-link">register your stay with the Department of Foreigners at your local Voivodeship office</a> if you haven’t done so yet.</p>
+<p>If you’ve been living in Poland for more than 5 years consecutively, you should <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/obywatele-ue-oraz-eogszwajcarii-i-czlonkowie-ich-rodzin/zasady-wjazdu-i-pobytu/" class="govuk-link">apply for a document confirming permanent residency</a>.</p>
 
-<p>You can also find out how to apply for <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/obywatele-ue-oraz-eogszwajcarii-i-czlonkowie-ich-rodzin/zasady-wjazdu-i-pobytu/" class="govuk-link">permanent residency at your local Voivodeship office</a>.</p>
+<p>You should <a rel="external" href="https://udsc.gov.pl/kontakt/instytucje-wspolpracujace/instytucje-rzadowe/" class="govuk-link">check the locations of local Voivodeship Offices in Poland</a>.</p>
 
-<p><a rel="external" href="https://udsc.gov.pl/kontakt/instytucje-wspolpracujace/instytucje-rzadowe/" class="govuk-link">Check the locations of local Voivodeship Offices in Poland</a> and where you should register your stay.</p>
-
-<p>Read the <a rel="external" href="https://udsc.gov.pl/en/rules-of-stay-of-british-citizens-in-poland-after-brexit/" class="govuk-link">Polish Office for Foreigners guidance on residency and the transition period</a> and their <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/brexit/faq/" class="govuk-link">Frequently Asked Questions</a>.</p>
+<p>Read the <a rel="external" href="https://udsc.gov.pl/en/rules-of-stay-of-british-citizens-in-poland-after-brexit/" class="govuk-link">Polish Government’s residency guidance for <abbr title="United Kingdom">UK</abbr> nationals</a> and their <a rel="external" href="https://udsc.gov.pl/en/cudzoziemcy/brexit/faq/" class="govuk-link">frequently asked questions</a>.</p>
 
 <p>If the authorities think you may be a Polish national, for example if you have Polish parents, grandparents or great grandparents, they might research your family history. Your application may take longer than usual to process.</p>
 
-<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available.</p>
+<p>If you are resident in Poland before 31 December 2020, you will be able to stay. To confirm your rights under the Withdrawal Agreement, you should obtain a new residence document. You will be able to request the new document from 2021.</p>
+
+<p>Read the information about the process for obtaining the new residency documents on the <a rel="external" href="https://udsc.gov.pl/en/brexit-stay-of-british-citizens-after-the-transition-period/" class="govuk-link">Polish government’s guidance for <abbr title="United Kingdom">UK</abbr> nationals</a>. We will update this guidance when further information becomes available.</p>
+
+<p>If you arrive in Poland after 31 December 2020 and you do not have any residency rights under the Withdrawal Agreement, different immigration rules will apply.</p>
 
 <h3 id="uk-nationals-support-fund">
 <abbr title="United Kingdom">UK</abbr> Nationals Support Fund</h3>
@@ -254,7 +263,7 @@
 
 <p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
 
-<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the <abbr title="United Kingdom">UK</abbr> and the Ireland will not change.</p>
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the <abbr title="United Kingdom">UK</abbr> and Ireland will not change.</p>
 
 <p>Different rules will apply to <abbr title="European Union">EU</abbr> countries that are not part of the Schengen Area. Check each country’s <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice page</a> for information on entry requirements.</p>
 
@@ -263,8 +272,6 @@
 <p>Driving licence rules will stay the same until 31 December 2020.</p>
 
 <p><abbr title="United Kingdom">UK</abbr> licences are only valid in Poland for the first 6 months of residence. After 6 months, you must exchange your driving licence for a Polish licence. You do not need to retake a driving or theory test to exchange your licence.</p>
-
-<p>You can still use your Polish licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>.</p>
 
 <p>For information on driving in Poland, read the information on:</p>
 
@@ -337,6 +344,10 @@
 
 <p>If you are resident in Poland on or before 31 December 2020, your right to work will stay the same, as long as you remain resident in Poland.</p>
 
+<h3 id="frontier-workers">Frontier Workers</h3>
+
+<p>If you commute to work in Poland while living in another <abbr title="European Union">EU</abbr> country or the <abbr title="United Kingdom">UK</abbr>, you may need a permit from 1 January 2021. Read the information for frontier workers on the <a rel="external" href="https://udsc.gov.pl/en/brexit-stay-of-british-citizens-after-the-transition-period/" class="govuk-link">Polish government’s guidance for <abbr title="United Kingdom">UK</abbr> nationals</a>.</p>
+
 <h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
 
 <p>If you are resident in Poland on or before 31 December 2020, your right to study will stay the same, as long as you remain resident in Poland.</p>
@@ -376,6 +387,10 @@
 <p>You may be able to <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> to protect your State Pension and entitlement to other benefits and allowances.</p>
 
 <p>If you are employed or self-employed in the <abbr title="European Union">EU</abbr> or EEA and you have a <abbr title="United Kingdom">UK</abbr>-issued A1/E101 form, you will remain subject to <abbr title="United Kingdom">UK</abbr> legislation until the end date on the form.</p>
+
+<h3 id="banking">Banking</h3>
+
+<p>Most people living in Europe should not see any change to their banking after 31 December 2020. Your bank or finance provider should contact you if they need to make any changes to your product or the way they provide it. If you have any concerns about whether you might be affected, contact your provider or seek independent financial advice.</p>
 
 <h2 id="pensions">Pensions</h2>
 <p>You will need to tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
@@ -515,16 +530,20 @@
 <p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Polish authorities. The Foreign, Commonwealth & Development Office will not be liable for any inaccuracies in this information.</p>
 
 </div>
-</div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 November 2013
-    <br></br>Last updated 7 September 2020
+    <br></br>Last updated 6 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-06T10:38:43.000+00:00">6 November 2020</time>
+              <p class="app-c-published-dates__change-note">Visas and Residency section updated with information on the new residency system and a link to new Polish government guidance.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-07T14:20:05.000+01:00">7 September 2020</time>
               <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021</p>
@@ -631,6 +650,10 @@
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
@@ -646,33 +669,33 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-3dd1c85a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-af7ec835" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-3dd1c85a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-af7ec835" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-greece" data-track-options="{"dimension28":"5","dimension29":"Living in Greece"}" href="/guidance/living-in-greece">Living in Greece</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-belgium" data-track-options="{"dimension28":"5","dimension29":"Living in Belgium"}" href="/guidance/living-in-belgium">Living in Belgium</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"5","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-hungary" data-track-options="{"dimension28":"5","dimension29":"Living in Hungary"}" href="/guidance/living-in-hungary">Living in Hungary</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-belgium" data-track-options="{"dimension28":"5","dimension29":"Living in Belgium"}" href="/guidance/living-in-belgium">Living in Belgium</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-malta" data-track-options="{"dimension28":"5","dimension29":"Living in Malta"}" href="/guidance/living-in-malta">Living in Malta</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-3dd1c85a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-af7ec835" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-3dd1c85a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-af7ec835" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -685,9 +708,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-3dd1c85a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-af7ec835" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-3dd1c85a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-af7ec835" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -719,9 +742,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6f7e97a3" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a6b536cc" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6f7e97a3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-a6b536cc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
