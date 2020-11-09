@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 6 November 2020
+    <br></br>Last updated 9 November 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -88,7 +90,19 @@
 
 <h2 id="presentations">Presentations</h2>
 
-<p>Attendees were given the opportunity to choose from a range of sessions across the three days, depending on their area of interest or expertise. Recordings of these sessions will be published soon.</p>
+<p>Attendees were given the opportunity to choose from a range of sessions across the three days, depending on their area of interest or expertise. Recordings of these sessions are available:</p>
+
+<h3 id="day-one-civil-and-crime-jurisdictionshttpsbitly3exttne"><a rel="external" href="https://bit.ly/3extTne" class="govuk-link">Day one: Civil and crime jurisdictions</a></h3>
+
+<p>This playlist includes a range of sessions. For civil, it includes changes to the civil money claims service, as well as some of the response work being completed for possession. Crime presentations include information about the rollout of Section 28, Common Platform, misconceptions about jury service and how we are improving our up-front engagement with defendants.</p>
+
+<h3 id="day-two-tribunals-and-cross-cutting-jurisdictionshttpsbitly3k4wvw7"><a rel="external" href="https://bit.ly/3k4WvW7" class="govuk-link">Day two: Tribunals and cross-cutting jurisdictions</a></h3>
+
+<p>For tribunals, this playlist focuses on the changes being made as a part of our reform programme. It also includes presentations from a number of projects that cut across multiple jurisdictions, such as remote hearings, the future operations teams and work to understand users with additional complex needs.</p>
+
+<h3 id="day-three-family-jurisdiction-and-covid-19-topicshttpsbitly3mzxcwv"><a rel="external" href="https://bit.ly/3mZxCwV" class="govuk-link">Day three: Family jurisdiction and COVID-19 topics</a></h3>
+
+<p>Many digital services from the family jurisdiction are now live and this playlist includes demonstrations of some of those services, such as the C100 and family public law, as well as other services within the Family Courts. COVID-19 topics include sessions about HMCTS’ response to the impacts of the pandemic, court safety, consideration of vulnerable users and our new Nightingale Courts.</p>
 
 </div>
 
@@ -132,8 +146,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 6 November 2020
+    <br></br>Last updated 9 November 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-09T14:42:35.000+00:00">9 November 2020</time>
+              <p class="app-c-published-dates__change-note">Presentations added.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-06T16:29:00.000+00:00">6 November 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -166,9 +194,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-57dd210e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ea8cd9ba" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-57dd210e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-ea8cd9ba" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
