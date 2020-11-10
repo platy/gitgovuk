@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 9 November 2020
+    <br></br>Last updated 10 November 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -74,7 +76,7 @@
 
 <p>Longer than conventional heavy goods vehicles (<abbr title="Heavy goods vehicles">HGVs</abbr>) but not heavier, <abbr title="Longer semi-trailers">LSTs</abbr> can carry 3 more rows of supermarket goods cages on each journey compared with existing trailers.</p>
 
-<p>A <a href="https://www.gov.uk/government/collections/longer-semi-trailer-trial" class="govuk-link">trial of <abbr title="Longer semi-trailers">LSTs</abbr> that has been underway for the past 7 years</a> has shown that they’ve saved lorry drivers travelling millions of miles – cutting emissions and boosting productivity. In the past year alone, the 2,600 vehicles involved in the trial have saved lorry drivers 33.5 million miles and 48,000 tonnes of CO2 – equivalent to taking over 20,000 cars off the road. The results also show the trailers were involved in fewer personal injury collisions compared with standard size <abbr title="Heavy goods vehicles">HGVs</abbr>.</p>
+<p>A <a href="https://www.gov.uk/government/collections/longer-semi-trailer-trial" class="govuk-link">trial of <abbr title="Longer semi-trailers">LSTs</abbr> that has been underway for the past 7 years</a> has shown that they’ve saved lorry drivers travelling millions of miles – cutting emissions and boosting productivity. Up until last year, the vehicles involved in the trial have saved lorry drivers 33.5 million miles and 48,000 tonnes of CO2 – equivalent to taking over 20,000 cars off the road. The results also show the trailers were involved in fewer personal injury collisions compared with standard size <abbr title="Heavy goods vehicles">HGVs</abbr>.</p>
 
 <p>Off the back of these positive results, the government has proposed to end the trials early and, through today’s consultation, seek views on whether <abbr title="Longer semi-trailers">LSTs</abbr> should be allowed to permanently operate on roads across the UK.</p>
 
@@ -161,8 +163,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 9 November 2020
+    <br></br>Last updated 10 November 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-10T13:01:08.000+00:00">10 November 2020</time>
+              <p class="app-c-published-dates__change-note">Error correction: alteration of statement to "Up until last year, the vehicles involved in the trial have saved lorry drivers 33.5 million miles and 48,000 tonnes of CO2".</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-09T00:15:00.000+00:00">9 November 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -195,9 +211,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-044cc995" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-05845898" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-044cc995" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-05845898" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
