@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 9 November 2020
+    <br></br>Last updated 10 November 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -117,6 +119,78 @@
 
 <p>Lateral flow devices do not require a laboratory to process the test. Swabbing and processing of these tests must currently be conducted at a dedicated testing site by trained personnel. The devices are designed to be intuitive and require minimal training to operate, and we are looking at how this test could be self-administered.</p>
 
+<p>The devices will be issued to directors of public health in the following local authorities:</p>
+
+<ul>
+  <li>Barking and Dagenham</li>
+  <li>Bexley</li>
+  <li>Birmingham</li>
+  <li>Blackburn and Darwen</li>
+  <li>Blackpool</li>
+  <li>Bolton</li>
+  <li>Brent</li>
+  <li>Bristol</li>
+  <li>Bury</li>
+  <li>Calderdale</li>
+  <li>Camden</li>
+  <li>City of London</li>
+  <li>County Durham</li>
+  <li>Coventry</li>
+  <li>Darlington</li>
+  <li>Doncaster</li>
+  <li>Dudley</li>
+  <li>East Riding of Yorkshire</li>
+  <li>Enfield</li>
+  <li>Essex</li>
+  <li>Gateshead</li>
+  <li>Greenwich</li>
+  <li>Hackney</li>
+  <li>Halton</li>
+  <li>Hammersmith and Fulham</li>
+  <li>Hartlepool</li>
+  <li>Hertfordshire</li>
+  <li>Kingston upon Hull</li>
+  <li>Islington</li>
+  <li>Kensington and Chelsea</li>
+  <li>Kingston upon Thames</li>
+  <li>Knowsley</li>
+  <li>Lambeth</li>
+  <li>Lewisham</li>
+  <li>Luton</li>
+  <li>Manchester</li>
+  <li>Middlesborough</li>
+  <li>Newcastle upon Tyne</li>
+  <li>Newham</li>
+  <li>North Tyneside</li>
+  <li>Northumberland</li>
+  <li>Nottingham City</li>
+  <li>Nottinghamshire</li>
+  <li>Oldham</li>
+  <li>Redbridge</li>
+  <li>Redcar and Cleveland</li>
+  <li>Richmond upon Thames</li>
+  <li>Rochdale</li>
+  <li>Salford</li>
+  <li>Sefton</li>
+  <li>South Tyneside</li>
+  <li>Southwark</li>
+  <li>St Helen's</li>
+  <li>Staffordshire</li>
+  <li>Stockport</li>
+  <li>Stockton-on-Tees</li>
+  <li>Sunderland</li>
+  <li>Tameside</li>
+  <li>Tower Hamlets</li>
+  <li>Trafford</li>
+  <li>Wakefield</li>
+  <li>Waltham Forest</li>
+  <li>Wandsworth</li>
+  <li>Warrington</li>
+  <li>Wigan</li>
+  <li>Wirral</li>
+  <li>Wolverhampton</li>
+</ul>
+
 </div>
 
 </div>
@@ -159,8 +233,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 9 November 2020
+    <br></br>Last updated 10 November 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-10T09:58:00.000+00:00">10 November 2020</time>
+              <p class="app-c-published-dates__change-note">Added list of local authorities where directors of public health will be issued with lateral flow devices.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-09T18:46:00.000+00:00">9 November 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -193,9 +281,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-66cc4ae9" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-69f98d91" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-66cc4ae9" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-69f98d91" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
