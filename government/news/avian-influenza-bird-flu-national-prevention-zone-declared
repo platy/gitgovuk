@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 November 2020
+    <br></br>Last updated 12 November 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -109,7 +111,7 @@ Keepers with more than 500 birds will need to restrict access for non-essential 
   <li>Wild geese near Stroud in Gloucestershire and swans near Dawlish in Devon have <a href="https://www.gov.uk/government/news/avian-influenza-identified-in-wild-birds-in-south-west-of-england" class="govuk-link">tested positive for highly pathogenic avian influenza H5N8.</a> In addition, a wild goose near Weymouth in Dorset has tested positive for H5N8 (pathogenicity yet to be determined).</li>
   <li>Avian influenza of the H5N2 strain was first <a rel="external" href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fnews%2Favian-influenza-bird-flu-identified-at-kent-farm&data=04%7C01%7CGeorge.Ogleby%40defra.gov.uk%7C7741a6db2bb2447fb2b408d8825fa559%7C770a245002274c6290c74e38537f1102%7C1%7C0%7C637402695963382114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=ciWneQ%2F%2B3zNqw2bOBtu53R2Mr%2B7J7nwDmKsLXmvCzZo%3D&reserved=0" class="govuk-link">confirmed on Monday 2 November</a> in a small commercial poultry premises in Kent where a 1km Low Pathogenic Avian Influenza LPAI Restricted zone has been put in place. All birds at the small mixed species commercial premises have been humanely culled to limit the spread of the disease.</li>
   <li>A separate and unrelated case of avian influenza of the H5N8 strain was later confirmed at a site in Cheshire and 3km Protection Zone and 10km Surveillance zone were put in place and all 13,500 birds at the farm have been humanely culled. Testing has confirmed this is a highly pathogenic strain related to the virus currently circulating in Europe.</li>
-  <li>A third confirmed case of H5N8 avian flu in captive birds has today been confirmed at a broiler breeder farm in Herefordshire (pathogenicity yet to be determined). 3km and 10km temporary control zones have now been put in place and all of the birds on site will be humanely culled to reduce the risk of the disease spreading.</li>
+  <li>Highly pathogenic avian influenza (HPAI) H5N8 was confirmed on the 10 November in broiler breeder chickens at a premises near Leominster, in Herefordshire. A 3km Protection Zone and 10km Surveillance Zone have been put in place around the infected premises.</li>
   <li>For more advice and regular updates on the latest situation, visit Governments’ avian flu pages: in <a href="https://www.gov.uk/guidance/avian-influenza-bird-flu" class="govuk-link">England</a>, <a rel="external" href="https://www.gov.scot/publications/avian-influenza-bird-flu/" class="govuk-link">Scotland</a>, <a rel="external" href="https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgov.wales%2Ftopics%2Fenvironmentcountryside%2Fahw%2Fdisease%2Favianflu%2F%3Flang%3Den&data=04%7C01%7CGeorge.Ogleby%40defra.gov.uk%7Ce6d0acc8f22542ed812d08d886411fd8%7C770a245002274c6290c74e38537f1102%7C1%7C0%7C637406962015467106%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=a1TYyJ7zCOXnzapMPIBA6FycPzLxqeJlwEmE7xfKCes%3D&reserved=0" class="govuk-link">Wales</a> and <a rel="external" href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.daera-ni.gov.uk%2Farticles%2Favian-influenza-ai&data=04%7C01%7CGeorge.Ogleby%40defra.gov.uk%7Ce6d0acc8f22542ed812d08d886411fd8%7C770a245002274c6290c74e38537f1102%7C1%7C0%7C637406962015477069%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Y%2FP2F1jgbGqTEY9WW6C1leDr0Sik2tKGeZIDNBh8t1A%3D&reserved=0" class="govuk-link">NI</a>
 </li>
   <li>Avian Influenza is in no way connected to the COVID-19 pandemic which is caused by the SARS-CoV-2 virus which is not carried in poultry.</li>
@@ -156,8 +158,22 @@ Keepers with more than 500 birds will need to restrict access for non-essential 
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 November 2020
+    <br></br>Last updated 12 November 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-12T14:42:12.000+00:00">12 November 2020</time>
+              <p class="app-c-published-dates__change-note">Edited Further information - Herefordshire case has now been confirmed as highly pathogenic</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-11T18:41:00.000+00:00">11 November 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -190,9 +206,9 @@ Keepers with more than 500 birds will need to restrict access for non-essential 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-76537906" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c4aee0be" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-76537906" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-c4aee0be" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
