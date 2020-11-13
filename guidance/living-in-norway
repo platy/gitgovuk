@@ -24,7 +24,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 26 June 2013
-    <br></br>Last updated 7 September 2020
+    <br></br>Last updated 12 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -58,9 +58,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
@@ -139,8 +140,14 @@
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
 <div class="call-to-action">
 <h2 id="what-you-should-do">What you should do</h2>
 
@@ -149,8 +156,9 @@
 <ul>
   <li>
 <a rel="external" href="https://www.udi.no/en/want-to-apply/?c=gbr" class="govuk-link">register as a resident</a> in Norway</li>
-  <li>keep up to date with <a rel="external" href="https://www.udi.no/en/important-messages/brexit-transition-period-for-british-citizens-in-norway-until-31.-december-2020/" class="govuk-link">Norwegian government guidance on the new residency permit</a>
+  <li>keep up to date with the <a rel="external" href="https://www.udi.no/en/important-messages/brexit-transition-period-for-british-citizens-in-norway-until-31.-december-2020/" class="govuk-link">Norwegian government guidance on the new residency permit</a>
 </li>
+  <li>ensure you have <a rel="external" href="https://www.udi.no/en/brexit/british-citizens-living-in-norway/#link-18858" class="govuk-link">official proof of residency when travelling to Norway</a> from 1 January</li>
 </ul>
 </div>
 
@@ -172,6 +180,8 @@
 <p>You can also:</p>
 
 <ul>
+  <li>read the <a rel="external" href="https://www.udi.no/en/brexit/british-citizens-living-in-norway" class="govuk-link">Norwegian Directorate of Immigration’s frequently asked questions page</a>
+</li>
   <li>check the <a rel="external" href="https://www.regjeringen.no/en/topics/european-policy/brits_brexit/id2630241/" class="govuk-link">Norwegian government advice page</a>
 </li>
   <li>read the <a href="https://www.gov.uk/government/news/eea-efta-separation-agreement" class="govuk-link"><abbr title="European Economic Area">EEA</abbr> <abbr title="European Free Trade Area">EFTA</abbr> Separation Agreement</a>
@@ -248,15 +258,29 @@
 
 <p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
 
-<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and the Ireland will not change.</p>
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and Ireland will not change.</p>
 
 <p>Different rules will apply to EU countries that are not part of the Schengen Area. Check each country’s <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice page</a> for information on entry requirements.</p>
+
+<p>UK nationals who are legally resident in Norway will be allowed to re-enter the country when travelling but may need to show proof of residency. This could happen at the Norwegian border or at an airport outside of Norway.</p>
+
+<p>There will be a new residency card for UK nationals living in Norway to help prove your status when travelling. The application system is due to open in January.</p>
+
+<p>From 1 January until you receive the new residency card, you should always carry one of the approved documents proving residency. This can be:</p>
+
+<ul>
+  <li>a registration certificate</li>
+  <li>a residence permit</li>
+  <li>a residence certificate (bostedsattest)</li>
+</ul>
+
+<p>Residence certificates can be ordered from the <a rel="external" href="https://www.skatteetaten.no/en/person/national-registry/certificates-and-information/other-certificates/what-certificates-do-you-need/residence-certificate/" class="govuk-link">Norwegian Tax Administration via Altinn</a>. Read more about this on the <a rel="external" href="https://www.udi.no/en/brexit/british-citizens-living-in-norway/#link-18858" class="govuk-link">Norwegian Directorate of Immigration (<abbr title="Norwegian Directorate of Immigration">UDI</abbr>) advice page</a>. You should order this well in advance of any trips outside of Norway.</p>
 
 <h2 id="driving-in-norway">Driving in Norway</h2>
 
 <p>Driving licence rules will stay the same until at least 31 December 2020.</p>
 
-<p>You should exchange your UK licence for a Norwegian licence. You can still use your Norwegian licence in the UK for short visits or exchange it for a UK licence without taking a test if you return to live in the UK.</p>
+<p>You should exchange your UK licence for a Norwegian licence.</p>
 
 <p>For information on driving in Norway, read our guidance on:</p>
 
@@ -285,6 +309,10 @@
 
 <p>If you are resident in Norway on or before 31 December 2020, your right to work will not change as long as you remain resident in Norway.</p>
 
+<h3 id="frontier-workers">Frontier workers</h3>
+
+<p>If you live in Norway and commute to work in an EU or <abbr title="European Free Trade Area">EFTA</abbr> country, from January 2021 you may need a permit to prove that you are a frontier worker. We will update this guidance when more information is available.</p>
+
 <h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
 
 <p>Get your UK professional qualifications recognised in Norway before 31 December 2020. For help with this:</p>
@@ -306,46 +334,41 @@
 
 <h2 id="healthcare">Healthcare</h2>
 
-<p>Social security coordination is covered by the Separation Agreement for those residing in Norway. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Norway before the transition period ends on 31 December 2020, for as long as they remain in scope of the agreement. This includes students and S1 holders.</p>
+<p>Social security coordination is covered by the Separation Agreement for those residing in Norway. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Norway before the transition period ends on 31 December 2020, for as long as they remain in scope of the agreement.</p>
 
-<p>Make sure you are correctly registered for healthcare as a resident in Norway.</p>
-
-<p>Read the <a href="https://www.gov.uk/guidance/healthcare-in-norway" class="govuk-link">guidance on who is able to access healthcare in Norway and how to register</a>.</p>
+<p>Read the <a href="https://www.gov.uk/guidance/healthcare-in-norway" class="govuk-link">guidance on healthcare in Norway</a> and make sure you are correctly registered.</p>
 
 <p>You’ll pay into the Norwegian National Insurance Scheme (NIS) through your income tax. The NIS covers basic medical services, although you will sometimes have to pay a small fee. Children under 16 get free medical care.</p>
 
+<p>If your UK employer has sent you to Norway temporarily, your access to healthcare is different. Find out how to <a href="https://www.gov.uk/guidance/healthcare-in-norway#posted-worker" class="govuk-link">access healthcare as a posted worker</a>.</p>
+
 <h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
-<p>If you live in Norway and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+<p>If you have a registered S1 form and are living in Norway before the end of 2020, your rights to access healthcare will stay the same from 1 January 2021 if you are either:</p>
 
-<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-norway#s1" class="govuk-link">guidance on how to get an S1 form</a>.</p>
+<ul>
+  <li>receiving a UK State Pension</li>
+  <li>receiving some other ‘exportable benefits’</li>
+  <li>a frontier worker who lives in Norway and commutes to work in the UK</li>
+</ul>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-norway#s1" class="govuk-link">guidance on using an S1 form in Norway</a> to ensure you are correctly registered for healthcare.</p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
 
-<p>If you are resident in Norway, you must not use an EHIC from the UK to access healthcare in Norway.</p>
+<p>If you are resident in Norway, you must not use your UK-issued EHIC for healthcare in Norway.</p>
 
-<p>When you travel from Norway for a temporary stay in another European Economic Area (<abbr title="European Economic Area">EEA</abbr>) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay:</p>
+<p>When you travel from Norway for a temporary stay in another European Economic Area (<abbr title="European Economic Area">EEA</abbr>) country or Switzerland, you can use an EHIC to access state healthcare for free or at a reduced cost.</p>
 
-<ul>
-  <li>the EHIC covers treatment that is medically necessary until your planned return home</li>
-  <li>an EHIC is not a replacement for comprehensive travel insurance</li>
-  <li>for more information you can read <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#eu-exit-update" class="govuk-link">advice on foreign travel insurance</a>
-</li>
-</ul>
+<p>If you’re a UK student in Norway or have a registered S1 you may be eligible for a new UK-issued EHIC. This EHIC will remain valid from 1 January 2021. <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/" class="govuk-link">Apply now for a new UK EHIC</a>.</p>
 
-<p>You can also continue to use your EHIC, as you did before, until the transition period ends on 31 December 2020. If you’re travelling to other countries make sure you have comprehensive health insurance.</p>
+<p>An EHIC is not a replacement for comprehensive travel insurance.</p>
 
-<p>You should also read guidance on:</p>
+<p>For more information read our <a href="https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare" class="govuk-link">guidance on healthcare when travelling in Europe</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#travel-eu" class="govuk-link">advice on foreign travel insurance</a>.</p>
 
-<ul>
-  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
-  <li>
-<a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">checking your prescriptions are legal</a> in Norway</li>
-</ul>
+<p>You should also <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal in Norway</a>.</p>
 
-<p>You can only change your GP twice in a year. <a rel="external" href="http://paguro.net/destinations/moving-to-norway/all-documents-oslo/norway_oslo_doctor" class="govuk-link">Find English-speaking doctors and dentists in Norway</a>.</p>
-
-<p>Ask your doctor about a <a rel="external" href="https://helsenorge.no/other-languages/english" class="govuk-link">health insurance receipt card</a> at your first GP visit.</p>
+<p>You can only change your GP twice in a year. <a rel="external" href="http://paguro.net/destinations/moving-to-norway/all-documents-oslo/norway_oslo_doctor" class="govuk-link">Find English-speaking doctors and dentists in Norway</a>. Ask your doctor about a <a rel="external" href="https://www.helsenorge.no/en/information-in-english/" class="govuk-link">health insurance receipt card</a> at your first GP visit.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
@@ -371,6 +394,10 @@
 <p>You may be able to <a href="https://www.gov.uk/national-insurance-if-you-go-abroad" class="govuk-link">pay National Insurance while abroad</a> in order to protect your State Pension and entitlement to other benefits and allowances.</p>
 
 <p>If you are employed or self-employed in the EU or <abbr title="European Economic Area">EEA</abbr> and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
+
+<h3 id="banking">Banking</h3>
+
+<p>Most people living in Europe should not see any change to their banking after 31 December 2020. Your bank or finance provider should contact you if they need to make any changes to your product or the way they provide it. If you have any concerns about whether you might be affected, contact your provider or seek independent financial advice.</p>
 
 <h2 id="pensions">Pensions</h2>
 
@@ -495,16 +522,24 @@
 <p>Please note that this information is provided as a guide only. Definitive information should be obtained from the Norwegian authorities. The Foreign, Commonwealth & Development Office will not be liable for any inaccuracies in this information.</p>
 
 </div>
-</div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 26 June 2013
-    <br></br>Last updated 7 September 2020
+    <br></br>Last updated 12 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-12T08:57:03.000+00:00">12 November 2020</time>
+              <p class="app-c-published-dates__change-note">Entry requirements updated on re-entering Norway and how to apply for a residence certificate.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-10T09:14:40.000+00:00">10 November 2020</time>
+              <p class="app-c-published-dates__change-note">Working section updated with information on frontier workers. Healthcare section updated on how to apply for a new UK EHIC as a student or S1 holder.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-07T14:09:19.000+01:00">7 September 2020</time>
               <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021</p>
@@ -591,13 +626,17 @@
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
-    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click" lang="en">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit transition</h2>
   <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
@@ -606,33 +645,33 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-2fb82711" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-f5576244" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2fb82711" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f5576244" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-lithuania" data-track-options="{"dimension28":"5","dimension29":"Living in Lithuania"}" href="/guidance/living-in-lithuania">Living in Lithuania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-the-czech-republic" data-track-options="{"dimension28":"5","dimension29":"Living in the Czech Republic"}" href="/guidance/living-in-the-czech-republic">Living in the Czech Republic</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-romania" data-track-options="{"dimension28":"5","dimension29":"Living in Romania"}" href="/guidance/living-in-romania">Living in Romania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-iceland" data-track-options="{"dimension28":"5","dimension29":"Living in Iceland"}" href="/guidance/living-in-iceland">Living in Iceland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-switzerland" data-track-options="{"dimension28":"5","dimension29":"Living in Switzerland"}" href="/guidance/living-in-switzerland">Living in Switzerland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"5","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-austria" data-track-options="{"dimension28":"5","dimension29":"Living in Austria"}" href="/guidance/living-in-austria">Living in Austria</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-hungary" data-track-options="{"dimension28":"5","dimension29":"Living in Hungary"}" href="/guidance/living-in-hungary">Living in Hungary</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-cyprus" data-track-options="{"dimension28":"5","dimension29":"Living in Cyprus"}" href="/guidance/living-in-cyprus">Living in Cyprus</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-2fb82711" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-f5576244" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-2fb82711" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+    <h3 id="related-nav-related_guides-f5576244" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -645,9 +684,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2fb82711" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-f5576244" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-2fb82711" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-f5576244" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -679,9 +718,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5d07c021" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f973d662" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-5d07c021" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-f973d662" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
