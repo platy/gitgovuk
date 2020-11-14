@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 30 January 2020
-    <br></br>Last updated 23 September 2020
+    <br></br>Last updated 13 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -57,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#stay-up-to-date" data-track-options="{"dimension29":"Stay up to date"}" href="#stay-up-to-date">Stay up to date</a>
@@ -82,8 +83,14 @@
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
 <div class="call-to-action">
 <h2 id="stay-up-to-date">Stay up to date</h2>
 
@@ -139,6 +146,12 @@
 <p>If you are living in the EU, EEA or Switzerland by 31 December 2020, you will continue to receive any UK benefits you already receive. This will continue for as long as you live there and meet all other eligibility requirements.</p>
 
 <p>Read our <a href="https://www.gov.uk/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland" class="govuk-link">guidance on benefits and pensions in the EU</a>.</p>
+
+<h3 id="citizens-rights-in-eu-countries-advice-and-complaints">Citizens’ rights in EU countries: advice and complaints</h3>
+
+<p>The European Commission provides information on citizens’ rights in each EU country. Its assistance service provides advice on your rights, and a way to resolve issues with public bodies in EU countries.</p>
+
+<p>Get <a rel="external" href="https://europa.eu/youreurope/citizens/residence/brexit-residence-rights/uk-nationals-living-in-eu/index_en.htm" class="govuk-link">advice on your rights in an EU country or submit a complaint directly to public bodies</a> in the EU country where you live, or seek redress through courts and tribunals.</p>
 
 <h3 id="moving-to-another-eu-country">Moving to another EU country</h3>
 
@@ -255,16 +268,20 @@
 <p>Read the <a href="https://www.gov.uk/guidance/living-in-ireland" class="govuk-link">Living in Ireland</a> guide.</p>
 </div>
 </div>
-</div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 30 January 2020
-    <br></br>Last updated 23 September 2020
+    <br></br>Last updated 13 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-13T10:11:19.000+00:00">13 November 2020</time>
+              <p class="app-c-published-dates__change-note">New citizens’ rights in EU countries section added on how to get advice in the EU country where you live.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-23T18:12:25.000+01:00">23 September 2020</time>
               <p class="app-c-published-dates__change-note">New information on using UK banks if you live in an EEA country</p>
@@ -295,13 +312,17 @@
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
-    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click" lang="en">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit transition</h2>
   <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
 </div>
 
@@ -310,23 +331,23 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-ef30b3b5" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-d0731c95" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-ef30b3b5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d0731c95" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/eea-efta-separation-agreement-and-explainer" data-track-options="{"dimension28":"5","dimension29":"EEA EFTA Separation Agreement and Explainer"}" href="/government/publications/eea-efta-separation-agreement-and-explainer">EEA EFTA Separation Agreement and Explainer</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/swiss-citizens-rights-agreement-and-explainer" data-track-options="{"dimension28":"5","dimension29":"Swiss Citizens’ Rights Agreement and Explainer"}" href="/government/publications/swiss-citizens-rights-agreement-and-explainer">Swiss Citizens’ Rights Agreement and Explainer</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-ireland" data-track-options="{"dimension28":"5","dimension29":"Living in Ireland"}" href="/guidance/living-in-ireland">Living in Ireland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/common-travel-area-guidance" data-track-options="{"dimension28":"5","dimension29":"Common Travel Area: rights of UK and Irish citizens"}" href="/government/publications/common-travel-area-guidance">Common Travel Area: rights of UK and Irish citizens</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-germany" data-track-options="{"dimension28":"5","dimension29":"Living in Germany"}" href="/guidance/living-in-germany">Living in Germany</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/driving-in-the-eu-from-1-january-2021-uk-licence-holders-living-in-the-eu" data-track-options="{"dimension28":"5","dimension29":"Driving in the EU from 1 January 2021: UK licence holders living in the EU"}" href="/guidance/driving-in-the-eu-from-1-january-2021-uk-licence-holders-living-in-the-eu">Driving in the EU from 1 January 2021: UK licence holders living in the EU</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"5","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
 
   </ul>
@@ -334,14 +355,19 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-ef30b3b5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-d0731c95" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-ef30b3b5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-d0731c95" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"1","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/overseas-living-in-guides" data-track-options="{"dimension28":"6","dimension29":"Living in country guides"}" href="/government/collections/overseas-living-in-guides">Living in country guides</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Collection" data-track-label="/government/collections/the-tourism-sector-from-january-2021" data-track-options="{"dimension28":"6","dimension29":"The tourism sector from January 2021"}" href="/government/collections/the-tourism-sector-from-january-2021">The tourism sector from January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Collection" data-track-label="/government/collections/the-arts-culture-and-heritage-sectors-from-january-2021" data-track-options="{"dimension28":"6","dimension29":"The arts, culture and heritage sectors from January 2021"}" href="/government/collections/the-arts-culture-and-heritage-sectors-from-january-2021">The arts, culture and heritage sectors from January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.4 Collection" data-track-label="/government/collections/the-creative-industries-sector-from-january-2021" data-track-options="{"dimension28":"6","dimension29":"The creative industries sector from January 2021"}" href="/government/collections/the-creative-industries-sector-from-january-2021">The creative industries sector from January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.5 Collection" data-track-label="/government/collections/the-art-market-sector-from-january-2021" data-track-options="{"dimension28":"6","dimension29":"The art market sector from January 2021"}" href="/government/collections/the-art-market-sector-from-january-2021">The art market sector from January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="2.6 Collection" data-track-label="/government/collections/the-sports-and-recreation-sector-from-january-2021" data-track-options="{"dimension28":"6","dimension29":"The sports and recreation sector from January 2021"}" href="/government/collections/the-sports-and-recreation-sector-from-january-2021">The sports and recreation sector from January 2021</a></li>
 
   </ul>
 </nav>
@@ -368,16 +394,16 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8ee5e066" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c8910c3b" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8ee5e066" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-c8910c3b" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/going-and-being-abroad/british-nationals-overseas" data-track-options="{"dimension28":"65","dimension29":"British nationals overseas"}" href="/going-and-being-abroad/british-nationals-overseas">British nationals overseas</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/going-and-being-abroad/living-abroad" data-track-options="{"dimension28":"65","dimension29":"Living abroad"}" href="/going-and-being-abroad/living-abroad">Living abroad</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"65","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"65","dimension29":"Brexit transition: new rules for 2021"}" href="/transition">Brexit transition: new rules for 2021</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.4 Explore the topic" data-track-label="/world/transition-austria" data-track-options="{"dimension28":"65","dimension29":"Transition period"}" href="/world/transition-austria">Transition period</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer gem-c-related-navigation__section-link--inline" data-track-category="relatedLinkClicked" data-track-action="1.5 Explore the topic" data-track-label="/world/living-in-austria" data-track-options="{"dimension28":"65","dimension29":"Living in Austria"}" href="/world/living-in-austria">Living in Austria</a></li>
 
