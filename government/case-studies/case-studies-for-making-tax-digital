@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 7 July 2020
-    <br></br>Last updated 9 November 2020
+    <br></br>Last updated 16 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -68,6 +68,7 @@
 <p>Businesses from across the country have taken the time to tell us their experiences of Making Tax Digital for <abbr title="Value Added Tax">VAT</abbr>:</p>
 
 <ul>
+  <li><a href="#allsorts" class="govuk-link">The IT consultancy - Allsorts Consultants</a></li>
   <li><a href="#pkb-accountants" class="govuk-link">The accountancy firm - PKB Accountants</a></li>
   <li><a href="#breeze-creative" class="govuk-link">The creative agency - Breeze Creative Design Consultants</a></li>
   <li><a href="#french-duncan" class="govuk-link">The accountancy firm - French Duncan Chartered Accountants</a></li>
@@ -82,6 +83,22 @@
   <li><a href="#dsg-accountants" class="govuk-link">The accountancy firm - DSG</a></li>
   <li><a href="#dowen-estate-agents" class="govuk-link">The estate agent - Dowen Estate Agents</a></li>
 </ul>
+
+<h2 id="the-it-consultancy---allsorts-consultants">The IT consultancy - Allsorts Consultants</h2>
+
+<p id="allsorts">Allsorts Consultants Ltd are based in Cheddleton, Staffordshire. Duncan, one of the Directors, talks about how Making Tax Digital is a no-brainer for his business:</p>
+
+<blockquote>
+  <p class="last-child">As a technical IT consultant, it was important that my business was digital from day one.</p>
+</blockquote>
+
+<blockquote>
+  <p class="last-child">By using online software recommended by my accountant, it has made the day-to-day aspects of running a business very straightforward. Bank to bank transfers are quick and easy for example and I don’t have to worry about big piles of paperwork and dealing with old-fashioned payment methods such as cheques.</p>
+</blockquote>
+
+<blockquote>
+  <p class="last-child">Making Tax Digital simplifies running a business in an increasingly online world and I can’t imagine doing it any other way.</p>
+</blockquote>
 
 <h2 id="the-accountancy-firm---pkb-accountants">The accountancy firm - PKB Accountants</h2>
 
@@ -292,10 +309,14 @@ Making Tax Digital has made the submission process so simple and we find it real
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 7 July 2020
-    <br></br>Last updated 9 November 2020
+    <br></br>Last updated 16 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-16T14:00:00.000+00:00">16 November 2020</time>
+              <p class="app-c-published-dates__change-note">Published a new case study from Allsorts Consultants Ltd.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-09T14:00:01.000+00:00">9 November 2020</time>
               <p class="app-c-published-dates__change-note">Published a new case study from PKB Accountants.</p>
@@ -363,24 +384,24 @@ Making Tax Digital has made the submission process so simple and we find it real
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-27005c1f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-6e04b724" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-27005c1f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-6e04b724" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/making-tax-digital-how-vat-businesses-and-other-vat-entities-can-get-ready" data-track-options="{"dimension28":"5","dimension29":"Making Tax Digital: how VAT businesses and other VAT entities can get ready"}" href="/government/publications/making-tax-digital-how-vat-businesses-and-other-vat-entities-can-get-ready">Making Tax Digital: how VAT businesses and other VAT entities can get ready</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/making-tax-digital-for-business-stakeholder-communications-pack" data-track-options="{"dimension28":"5","dimension29":"Making Tax Digital for Business - stakeholder communications pack"}" href="/government/publications/making-tax-digital-for-business-stakeholder-communications-pack">Making Tax Digital for Business - stakeholder communications pack</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/collections/making-tax-digital-for-income-tax" data-track-options="{"dimension28":"5","dimension29":"Making Tax Digital for Income Tax"}" href="/government/collections/making-tax-digital-for-income-tax">Making Tax Digital for Income Tax</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/vat-notice-70022-making-tax-digital-for-vat" data-track-options="{"dimension28":"5","dimension29":"VAT Notice 700/22: Making Tax Digital for VAT"}" href="/government/publications/vat-notice-70022-making-tax-digital-for-vat">VAT Notice 700/22: Making Tax Digital for VAT</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/collections/making-tax-digital-for-vat" data-track-options="{"dimension28":"5","dimension29":"Making Tax Digital for VAT"}" href="/government/collections/making-tax-digital-for-vat">Making Tax Digital for VAT</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/find-software-thats-compatible-with-making-tax-digital-for-income-tax" data-track-options="{"dimension28":"5","dimension29":"Find software that's compatible with Making Tax Digital for Income Tax"}" href="/guidance/find-software-thats-compatible-with-making-tax-digital-for-income-tax">Find software that's compatible with Making Tax Digital for Income Tax</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/follow-the-rules-for-making-tax-digital-for-income-tax" data-track-options="{"dimension28":"5","dimension29":"Follow the rules for Making Tax Digital for Income Tax"}" href="/guidance/follow-the-rules-for-making-tax-digital-for-income-tax">Follow the rules for Making Tax Digital for Income Tax</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/collections/making-tax-digital-for-income-tax" data-track-options="{"dimension28":"5","dimension29":"Making Tax Digital for Income Tax"}" href="/government/collections/making-tax-digital-for-income-tax">Making Tax Digital for Income Tax</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/making-tax-digital-for-business-stakeholder-communications-pack" data-track-options="{"dimension28":"5","dimension29":"Making Tax Digital for Business - stakeholder communications pack"}" href="/government/publications/making-tax-digital-for-business-stakeholder-communications-pack">Making Tax Digital for Business - stakeholder communications pack</a></li>
 
   </ul>
 </nav>
@@ -407,9 +428,9 @@ Making Tax Digital has made the submission process so simple and we find it real
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d1bca531" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1b3aca6f" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d1bca531" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-1b3aca6f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
