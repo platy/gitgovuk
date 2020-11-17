@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">The submission of applications and complaints to the CAC.</p>
+  <p class="gem-c-lead-paragraph">The submission of applications and complaints to the CAC</p>
 
   </div>
 </div>
@@ -23,8 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 March 2020
-    <br></br>Last updated 5 November 2020
-      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
+    <br></br>Last updated 17 November 2020
+      �� <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -109,10 +109,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 March 2020
-    <br></br>Last updated 5 November 2020
+    <br></br>Last updated 17 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-17T13:40:02.000+00:00">17 November 2020</time>
+              <p class="app-c-published-dates__change-note">News Article.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-05T13:41:09.000+00:00">5 November 2020</time>
               <p class="app-c-published-dates__change-note">News Article Update</p>
@@ -243,9 +247,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3d60056d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1d8dc849" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-3d60056d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-1d8dc849" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
