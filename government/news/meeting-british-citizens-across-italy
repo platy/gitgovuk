@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 November 2018
-    <br></br>Last updated 13 November 2020
+    <br></br>Last updated 17 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -71,8 +71,12 @@
 <h2 id="outreach">Upcoming British citizens outreach meetings</h2>
 
 <ul>
-  <li>19 November 2020 - Registration roadshow for UK nationals living in Lucca and Tuscany, 10:00 to 15:00. <a rel="external" href="https://m.facebook.com/104011189669784/posts/4701614476576076/" class="govuk-link">Click here to book your one-to-one online session</a>
-</li>
+  <li>
+    <p>19 November 2020 - Registration roadshow for UK nationals living in Lucca and Tuscany, 10:00 to 15:00. <a rel="external" href="https://m.facebook.com/104011189669784/posts/4701614476576076/" class="govuk-link">Click here to book your one-to-one online session</a></p>
+  </li>
+  <li>
+    <p>23 November 2020 - <a rel="external" href="https://www.facebook.com/ukinitaly" class="govuk-link">Live Facebook Q & A session</a> on Healthcare, Benefits and Pensions, 16:00 to 17:00.</p>
+  </li>
 </ul>
 
 <div class="call-to-action">
@@ -362,10 +366,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 November 2018
-    <br></br>Last updated 13 November 2020
+    <br></br>Last updated 17 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-17T16:38:33.000+00:00">17 November 2020</time>
+              <p class="app-c-published-dates__change-note">Added a new live Q&A session on Facebook - 23 November 2020</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-13T15:20:58.000+00:00">13 November 2020</time>
               <p class="app-c-published-dates__change-note">Added a new Registration Roadshow session - for UK Nationals living in Lucca and Tuscany</p>
@@ -598,14 +606,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-fc98d419" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-0041bba8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-fc98d419" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-0041bba8" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -642,9 +650,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0f375a3d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-87b2c008" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-0f375a3d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-87b2c008" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -659,9 +667,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-0f375a3d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-87b2c008" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-0f375a3d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-87b2c008" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
