@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 27 October 2020
+    <br></br>Last updated 23 November 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -60,23 +62,26 @@
 
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+    
+        <div class="govspeak">
 <p>Section 28 of the Youth Justice and Criminal Evidence Act 1999 enables the recording of evidence and cross-examination prior to trial, subject to judicial discretion.</p>
 
 <p>It applies to vulnerable complainants of a crime (commonly referred to as victims) and witnesses, regardless of offence, and includes:</p>
 
 <ul>
   <li>all child witnesses</li>
-  <li>any witness whose quality of evidence is likely to be diminished because they:
+  <li>
+    <p>any witness whose quality of evidence is likely to be diminished because they:</p>
+
     <ul>
-      <li>are suffering from a mental disorder <br></br>
-   *have a significant impairment of intelligence and social functioning</li>
+      <li>are suffering from a mental disorder</li>
+      <li>have a significant impairment of intelligence and social functioning</li>
       <li>have a physical disability or are suffering from a physical disorder.</li>
     </ul>
   </li>
 </ul>
 
-<p>The provision of this service has been made possible with the support of the judiciary, legal professional associations, victim and witness support services.</p>
+<p>The provision of this service has been made possible with the support of the judiciary, legal professional associations, and victim and witness support services.</p>
 
 <h2 id="how-it-works">How it works</h2>
 
@@ -92,75 +97,17 @@
 
 <p>Following a successful pilot in Kingston-upon-Thames, Leeds and Liverpool and subsequent rollout to additional sites, the scheme has been available for vulnerable witnesses in at least one court in every region since earlier this year.</p>
 
-<p>The measure is now in place in 62 Crown Courts across England and Wales:</p>
+<p>The measure is <a href="https://www.gov.uk/government/news/new-courtroom-protections-for-vulnerable-victims-available-nationwide" class="govuk-link">now in place in all Crown Court locations across England and Wales</a>.</p>
 
-<ul>
-  <li>Amersham</li>
-  <li>Aylesbury</li>
-  <li>Basildon</li>
-  <li>Bolton</li>
-  <li>Bradford</li>
-  <li>Bristol</li>
-  <li>Burnley</li>
-  <li>Canterbury</li>
-  <li>Caernarfon</li>
-  <li>Cardiff</li>
-  <li>Carlisle</li>
-  <li>Central Criminal Court</li>
-  <li>Chelmsford</li>
-  <li>Chester</li>
-  <li>Croydon</li>
-  <li>Doncaster</li>
-  <li>Durham</li>
-  <li>Exeter</li>
-  <li>Gloucester</li>
-  <li>Guildford</li>
-  <li>Harrow</li>
-  <li>Inner London</li>
-  <li>Ipswich</li>
-  <li>Isleworth</li>
-  <li>King’s Lynn</li>
-  <li>Kingston-upon-Thames</li>
-  <li>Lancaster</li>
-  <li>Leeds</li>
-  <li>Leicester</li>
-  <li>Lewes</li>
-  <li>Liverpool</li>
-  <li>Maidstone</li>
-  <li>Manchester Crown Square</li>
-  <li>Manchester Minshull Street</li>
-  <li>Merthyr Tydfil</li>
-  <li>Mold</li>
-  <li>Newcastle</li>
-  <li>Newport (Wales)</li>
-  <li>Northampton</li>
-  <li>Norwich</li>
-  <li>Oxford</li>
-  <li>Portsmouth</li>
-  <li>Plymouth</li>
-  <li>Preston</li>
-  <li>Reading</li>
-  <li>Salisbury</li>
-  <li>Sheffield</li>
-  <li>Snaresbrook</li>
-  <li>Southampton</li>
-  <li>Southwark</li>
-  <li>St Albans</li>
-  <li>Stafford</li>
-  <li>Swansea</li>
-  <li>Swindon</li>
-  <li>Teesside</li>
-  <li>Warrington</li>
-  <li>Winchester</li>
-  <li>Wolverhampton</li>
-  <li>Wood Green</li>
-  <li>Woolwich</li>
-  <li>Worcester</li>
-  <li>York</li>
-</ul>
-</div>
+<h2 id="intimidated-witnesses">Intimidated witnesses</h2>
+
+<p>Last year we commenced a pilot of the technology for intimidated witnesses (victims of adult sexual offences and modern slavery offences) in three early adopter courts (Liverpool, Leeds and Kingston-upon-Thames).</p>
+
+<p>There may be wider rollouts to intimated witnesses pending the evaluation of this pilot.</p>
+
 </div>
 
+</div>
     </div>
 
     <div class="dont-print responsive-bottom-margin">
@@ -179,7 +126,7 @@
             </span>          <span class="govuk-visually-hidden">
               Share on
           </span>
-          <span class="visually-hidden">Share on </span>Facebook
+          Facebook
 </a>
         </li>
         <li class="gem-c-share-links__list-item">
@@ -193,15 +140,29 @@
             </span>          <span class="govuk-visually-hidden">
               Share on
           </span>
-          <span class="visually-hidden">Share on </span>Twitter
+          Twitter
 </a>
         </li>
     </ul>
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 27 October 2020
+    <br></br>Last updated 23 November 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-23T14:49:09.000+00:00">23 November 2020</time>
+              <p class="app-c-published-dates__change-note">Updated now that measure is available in all courts in England and Wales.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-27T18:41:00.000+00:00">27 October 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -210,9 +171,43 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    
+
+  <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" href="/transition">
+      <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
+    <p class="gem-c-transition-countdown__countdown">
+      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">9</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+</p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
+
+</a>
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-46fb9b87" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-46fb9b87" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/hmcts-online-event-15-oct-2020-introducing-the-common-platform" data-track-options="{"dimension28":"5","dimension29":"HMCTS online event, 15 Oct 2020: Introducing the Common Platform"}" href="/guidance/hmcts-online-event-15-oct-2020-introducing-the-common-platform">HMCTS online event, 15 Oct 2020: Introducing the Common Platform</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/hmcts-common-platform-account-registration-for-defence-professionals" data-track-options="{"dimension28":"5","dimension29":"HMCTS Common Platform account registration for defence professionals"}" href="/guidance/hmcts-common-platform-account-registration-for-defence-professionals">HMCTS Common Platform account registration for defence professionals</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/hmcts-reform-events-programme" data-track-options="{"dimension28":"5","dimension29":"HMCTS reform events programme"}" href="/guidance/hmcts-reform-events-programme">HMCTS reform events programme</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/hmcts-professional-users-access-scheme-participating-courts-and-tribunals" data-track-options="{"dimension28":"5","dimension29":"HMCTS professional users' access scheme: participating courts and tribunals"}" href="/guidance/hmcts-professional-users-access-scheme-participating-courts-and-tribunals">HMCTS professional users' access scheme: participating courts and tribunals</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/hmcts-online-event-23-sept-2020-an-update-on-recovery-in-the-criminal-courts" data-track-options="{"dimension28":"5","dimension29":"HMCTS online event, 23 Sept 2020: An update on recovery in the criminal courts"}" href="/guidance/hmcts-online-event-23-sept-2020-an-update-on-recovery-in-the-criminal-courts">HMCTS online event, 23 Sept 2020: An update on recovery in the criminal courts</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -234,9 +229,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ff06f4f5" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8b7c1daf" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-ff06f4f5" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-8b7c1daf" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
