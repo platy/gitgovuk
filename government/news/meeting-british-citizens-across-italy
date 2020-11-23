@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 November 2018
-    <br></br>Last updated 20 November 2020
+    <br></br>Last updated 23 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -248,6 +248,9 @@
 
 <ul>
   <li>
+    <p><a rel="external" href="https://www.facebook.com/ukinitaly/posts/4733815500022640" class="govuk-link">Issue 21</a> - 20 November 2020</p>
+  </li>
+  <li>
     <p><a rel="external" href="https://www.facebook.com/notes/ukinitaly/a-message-from-jill-morris-her-majestys-ambassador/3034295466798879/" class="govuk-link">Issue 20</a> - 21 October 2020</p>
   </li>
   <li>
@@ -369,10 +372,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 November 2018
-    <br></br>Last updated 20 November 2020
+    <br></br>Last updated 23 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-23T11:08:50.000+00:00">23 November 2020</time>
+              <p class="app-c-published-dates__change-note">November newsletter from Ambassador Jill Morris added</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-20T10:00:52.000+00:00">20 November 2020</time>
               <p class="app-c-published-dates__change-note">Added a new outreach event: Registration Roadshow session for UK Nationals living in Venice and the Veneto region</p>
@@ -613,14 +620,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-eb8df364" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-edaa6c14" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-eb8df364" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-edaa6c14" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -657,9 +664,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-3dbcc346" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-5a8972ca" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-3dbcc346" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-5a8972ca" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -674,9 +681,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-3dbcc346" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-5a8972ca" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-3dbcc346" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-5a8972ca" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
