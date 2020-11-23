@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 12 November 2020
+    <br></br>Last updated 23 November 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -81,7 +83,7 @@ Meeting ID: 993 2545 0769 <br></br>
 Passcode: 801319</p>
 
 <h3 id="south-east-and-south-marine-area">South East and South marine area</h3>
-<p>Tuesday 24 November, 13.00 - 14.00<br></br>
+<p>Tuesday 24 November, 15.00 - 16.00<br></br>
 <a rel="external" href="https://zoom.us/j/92823191608?pwd=WUxZSEFJdVp6clN5bThDdUVsbmlIQT09" class="govuk-link">Join Zoom Meeting</a> <br></br>
 Meeting ID: 928 2319 1608 <br></br>
 Passcode: 005849</p>
@@ -125,7 +127,7 @@ Passcode: 163457</p>
             </span>          <span class="govuk-visually-hidden">
               Share on
           </span>
-          <span class="visually-hidden">Share on </span>Facebook
+          Facebook
 </a>
         </li>
         <li class="gem-c-share-links__list-item">
@@ -139,15 +141,29 @@ Passcode: 163457</p>
             </span>          <span class="govuk-visually-hidden">
               Share on
           </span>
-          <span class="visually-hidden">Share on </span>Twitter
+          Twitter
 </a>
         </li>
     </ul>
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 12 November 2020
+    <br></br>Last updated 23 November 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-23T10:21:59.000+00:00">23 November 2020</time>
+              <p class="app-c-published-dates__change-note">Time change</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-12T15:43:00.000+00:00">12 November 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -156,6 +172,15 @@ Passcode: 163457</p>
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    
+
+  <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" href="/transition">
+      <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
+    <p class="gem-c-transition-countdown__countdown">
+      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">9</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+</p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
+
+</a>
 
 
     
@@ -180,9 +205,9 @@ Passcode: 163457</p>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6e8dc5fa" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7c9c69d3" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-6e8dc5fa" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-7c9c69d3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
