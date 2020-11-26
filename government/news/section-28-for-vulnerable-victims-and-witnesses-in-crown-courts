@@ -9,7 +9,20 @@
   </h1>
 </div>
   </div>
-  
+    <div class="govuk-grid-column-one-third">
+      <nav role="navigation" class="gem-c-translation-nav gem-c-translation-nav " aria-label="Translations">
+    <ul class="gem-c-translation-nav__list">
+        <li class="gem-c-translation-nav__list-item">
+            <span lang="en">English</span>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="cy" lang="cy" rel="alternate" class="gem-c-translation-nav__link " href="/government/news/section-28-for-vulnerable-victims-and-witnesses-in-crown-courts.cy">Cymraeg</a>
+        </li>
+    </ul>
+  </nav>
+
+  </div>
+
   <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph">Provides the option to pre-record evidence in advance of a trial for vulnerable complainants of a crime, as well as witnesses, including children.</p>
@@ -23,7 +36,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 27 October 2020
-    <br></br>Last updated 23 November 2020
+    <br></br>Last updated 26 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -73,11 +86,9 @@
   <li>
     <p>any witness whose quality of evidence is likely to be diminished because they:</p>
 
-    <ul>
-      <li>are suffering from a mental disorder</li>
-      <li>have a significant impairment of intelligence and social functioning</li>
-      <li>have a physical disability or are suffering from a physical disorder.</li>
-    </ul>
+    <p>a. are suffering from a mental disorder   <br></br>
+   b. have a significant impairment of intelligence and social functioning<br></br>
+   c. have a physical disability or are suffering from a physical disorder.</p>
   </li>
 </ul>
 
@@ -149,10 +160,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 27 October 2020
-    <br></br>Last updated 23 November 2020
+    <br></br>Last updated 26 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-26T09:48:59.000+00:00">26 November 2020</time>
+              <p class="app-c-published-dates__change-note">Added translation</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-23T14:49:09.000+00:00">23 November 2020</time>
               <p class="app-c-published-dates__change-note">Updated now that measure is available in all courts in England and Wales.</p>
@@ -173,10 +188,10 @@
 <div class="gem-c-contextual-sidebar">
     
 
-  <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" href="/transition">
+  <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
       <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
     <p class="gem-c-transition-countdown__countdown">
-      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">9</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">6</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
 </p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
 
 </a>
@@ -185,24 +200,24 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-46fb9b87" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-f463f467" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-46fb9b87" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f463f467" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/hmcts-online-event-15-oct-2020-introducing-the-common-platform" data-track-options="{"dimension28":"5","dimension29":"HMCTS online event, 15 Oct 2020: Introducing the Common Platform"}" href="/guidance/hmcts-online-event-15-oct-2020-introducing-the-common-platform">HMCTS online event, 15 Oct 2020: Introducing the Common Platform</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/hmcts-common-platform-account-registration-for-defence-professionals" data-track-options="{"dimension28":"5","dimension29":"HMCTS Common Platform account registration for defence professionals"}" href="/guidance/hmcts-common-platform-account-registration-for-defence-professionals">HMCTS Common Platform account registration for defence professionals</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/hmcts-reform-events-programme" data-track-options="{"dimension28":"5","dimension29":"HMCTS reform events programme"}" href="/guidance/hmcts-reform-events-programme">HMCTS reform events programme</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/hmcts-professional-users-access-scheme-participating-courts-and-tribunals" data-track-options="{"dimension28":"5","dimension29":"HMCTS professional users' access scheme: participating courts and tribunals"}" href="/guidance/hmcts-professional-users-access-scheme-participating-courts-and-tribunals">HMCTS professional users' access scheme: participating courts and tribunals</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/hmcts-online-event-23-sept-2020-an-update-on-recovery-in-the-criminal-courts" data-track-options="{"dimension28":"5","dimension29":"HMCTS online event, 23 Sept 2020: An update on recovery in the criminal courts"}" href="/guidance/hmcts-online-event-23-sept-2020-an-update-on-recovery-in-the-criminal-courts">HMCTS online event, 23 Sept 2020: An update on recovery in the criminal courts</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/hmcts-professional-users-access-scheme-participating-courts-and-tribunals" data-track-options="{"dimension28":"5","dimension29":"HMCTS professional users' access scheme: participating courts and tribunals"}" href="/guidance/hmcts-professional-users-access-scheme-participating-courts-and-tribunals">HMCTS professional users' access scheme: participating courts and tribunals</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/hmcts-reform-programme-monthly-bulletin" data-track-options="{"dimension28":"5","dimension29":"HMCTS reform programme: monthly bulletin"}" href="/guidance/hmcts-reform-programme-monthly-bulletin">HMCTS reform programme: monthly bulletin</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/professional-users-court-and-tribunal-access-scheme" data-track-options="{"dimension28":"5","dimension29":"Professional users’ court and tribunal access scheme"}" href="/guidance/professional-users-court-and-tribunal-access-scheme">Professional users’ court and tribunal access scheme</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/hmcts-online-event-15-july-2020-use-of-remote-hearings-to-maintain-justice-during-the-coronavirus-outbreak" data-track-options="{"dimension28":"5","dimension29":"HMCTS online event, 15 July 2020: Use of remote hearings to maintain justice during the coronavirus outbreak"}" href="/guidance/hmcts-online-event-15-july-2020-use-of-remote-hearings-to-maintain-justice-during-the-coronavirus-outbreak">HMCTS online event, 15 July 2020: Use of remote hearings to maintain justice during the coronavirus outbreak</a></li>
 
   </ul>
 </nav>
@@ -229,9 +244,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8b7c1daf" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c7abf6f0" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8b7c1daf" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-c7abf6f0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
