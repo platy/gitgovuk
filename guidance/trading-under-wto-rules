@@ -1,9 +1,9 @@
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-two-thirds">
     <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
+    <span class="govuk-caption-xl gem-c-title__context">
       Guidance
-    </p>
+    </span>
   <h1 class="gem-c-title__text gem-c-title__text--long">
     Trading under WTO rules
   </h1>
@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">How to trade with other countries if there is no UK trade agreement in place after the transition period. </p>
+  <p class="gem-c-lead-paragraph">How to trade with other countries from 1 January 2021, if there is no UK trade agreement.</p>
 
   </div>
 </div>
@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 15 August 2019
-    <br></br>Last updated 4 February 2020
+    <br></br>Last updated 25 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -49,13 +49,14 @@
 
 
 
-  <section class="app-c-header-notice" aria-label="notice" role="region">
+  <section class="app-c-header-notice" aria-label="notice" role="region" lang="en">
     <div class="app-c-header-notice__header">
-      <h2 class="app-c-header-notice__title">The UK has left the EU</h2>
+      <h2 class="app-c-header-notice__title">New rules for January 2021</h2>
     </div>
 
     <div class="app-c-header-notice__content">
-      <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It'll be updated if anything changes. </p>
+          <p class="app-c-header-notice__text govuk-body">The UK has left the EU, and the transition period after Brexit comes to an end this year.</p>
+          <p class="app-c-header-notice__text govuk-body">This page tells you what you'll need to do from 1 January 2021. It will be updated if anything changes.</p>
         <div class="app-c-header-notice__links">
             <p class="govuk-body app-c-header-notice__link-intro">For current information, read: </p>
             <ul class="app-c-header-notice__list govuk-list">
@@ -75,20 +76,22 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#existing-trading-arrangements" data-track-options="{"dimension29":"Existing trading arrangements"}" href="#existing-trading-arrangements">Existing trading arrangements</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#wto-and-the-most-favoured-nation-rule" data-track-options="{"dimension29":"\nWTO and the Most Favoured Nation rule"}" href="#wto-and-the-most-favoured-nation-rule">
+WTO and the Most Favoured Nation rule</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#how-your-business-operations-will-change-under-wto-rules" data-track-options="{"dimension29":"How your business operations will change under WTO rules"}" href="#how-your-business-operations-will-change-under-wto-rules">How your business operations will change under WTO rules</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#what-youll-have-to-do-differently-when-you-are-trading-under-wto-rules" data-track-options="{"dimension29":"What you’ll have to do differently when you are trading under WTO rules"}" href="#what-youll-have-to-do-differently-when-you-are-trading-under-wto-rules">What you’ll have to do differently when you are trading under WTO rules</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#more-information" data-track-options="{"dimension29":"More information"}" href="#more-information">More information</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#contact" data-track-options="{"dimension29":"Contact  "}" href="#contact">Contact  </a>
 
         </li>
     </ol>
@@ -96,79 +99,171 @@
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
-<p>If there is no trade agreement between the UK and another World Trade Organization (<abbr title="World Trade Organization">WTO</abbr>) member after the transition period, you will have to trade with that country under <abbr title="World Trade Organization">WTO</abbr> rules.</p>
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
 
-<h2 id="existing-trading-arrangements">Existing trading arrangements</h2>
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
+<p>From 1 January 2021, if no trade agreement exists between the UK and another country, trade with that country will take place under World Trade Organization (<abbr title="World Trade Organization">WTO</abbr>) rules.</p>
 
-<p>The EU has <a rel="external" href="https://ec.europa.eu/commission/publications/template-note-verbale-sent-international-partners-after-signature-withdrawal-agreement_en" class="govuk-link">issued a notification</a> to third countries stating that the UK is to be treated as a member state for the purposes of EU trade agreements during the transition period.</p>
+<p>Find out which <a href="https://www.gov.uk/guidance/uk-trade-agreements-with-non-eu-countries-in-a-no-deal-brexit" class="govuk-link">trade agreements the UK has signed</a>. This page will be kept updated.</p>
 
-<p>After the transition period ends, EU trade agreements will no longer apply to the UK. The UK is seeking to reproduce the effects of these existing EU trade agreements, in order to ensure continuity of trading arrangements for UK businesses.</p>
+<p>Some developing countries are eligible to get trade preferences through the UK <a href="https://www.gov.uk/guidance/trading-with-developing-nations-from-1-january-2021" class="govuk-link">Generalised Scheme of Preferences</a>.</p>
 
-<p>Find out more about <a href="https://www.gov.uk/guidance/uk-trade-agreements-with-non-eu-countries" class="govuk-link">UK trade agreements with non-EU countries</a>.</p>
+<h2 id="wto-and-the-most-favoured-nation-rule">
+<abbr title="World Trade Organization">WTO</abbr> and the Most Favoured Nation rule</h2>
 
-<h2 id="how-your-business-operations-will-change-under-wto-rules">How your business operations will change under <abbr title="World Trade Organization">WTO</abbr> rules</h2>
+<p><abbr title="World Trade Organization">WTO</abbr> rules state that the same trading terms must be applied to all <abbr title="World Trade Organization">WTO</abbr> members, unless there is a trade agreement between 2 or more countries. This is known as <a rel="external" href="https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm" class="govuk-link">Most Favoured Nation (<abbr title="Most Favoured Nation">MFN</abbr>) treatment</a>.</p>
 
-<h3 id="wto-and-the-most-favoured-nation-rule">
-<abbr title="World Trade Organization">WTO</abbr> and the Most Favoured Nation rule</h3>
+<p>Most Favoured Nation (<abbr title="Most Favoured Nation">MFN</abbr>) means that the UK cannot offer better trading terms to one country and not another, unless through a trade agreement.</p>
 
-<p><abbr title="World Trade Organization">WTO</abbr> rules state that the same trading terms must be applied to all <abbr title="World Trade Organization">WTO</abbr> members, unless, for example, there is a trade agreement between 2 or more countries. This is known as <a rel="external" href="https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm" class="govuk-link">Most Favoured Nation (<abbr title="Most Favoured Nation">MFN</abbr>) treatment</a>.</p>
+<p>The UK currently trades with many countries on <abbr title="World Trade Organization">WTO</abbr> terms, for example China, India, Brazil and Saudi Arabia. Your trade with these countries will remain on an <abbr title="Most Favoured Nation">MFN</abbr> basis.</p>
 
-<p><abbr title="Most Favoured Nation">MFN</abbr> means that the UK cannot offer better trading terms to one country and not to <abbr title="World Trade Organization">WTO</abbr> members, unless, for example, it has a trade agreement.</p>
+<h2 id="what-youll-have-to-do-differently-when-you-are-trading-under-wto-rules">What you’ll have to do differently when you are trading under <abbr title="World Trade Organization">WTO</abbr> rules</h2>
 
-<h3 id="paying-tariffs-on-imported-goods-into-the-uk">Paying tariffs on imported goods into the UK</h3>
+<p>From 1 January 2021, the way you trade with some countries will change.  Where the UK had been covered by an EU trade agreement but a replacement agreement has not been negotiated, trade will take place under <abbr title="World Trade Organization">WTO</abbr> rules.</p>
 
-<p>After the transition period, you may need to pay different rates of tariffs on imports into the UK.</p>
+<p>You may need to act on some of the information below. This list is not exhaustive but outlines the major issues. It is for information only.</p>
+
+<p>Find out more about <a href="https://www.gov.uk/transition" class="govuk-link">preparing your business for the end of the transition period</a>.</p>
+
+<h3 id="customs-procedures-and-declarations">Customs procedures and declarations</h3>
+
+<p>From 1 January 2021, you will still be required to complete customs procedures and declarations for imports to the UK.</p>
+
+<p>Find out more about <a href="https://www.gov.uk/starting-to-import/importing-from-noneu-countries" class="govuk-link">using customs procedures</a>.</p>
+
+<h3 id="goods-in-transit">Goods in transit</h3>
+
+<p>When goods are being transported, they will pay the tariff at the rate on the day that they are imported into the UK. From 1 January 2021, <a href="https://www.gov.uk/guidance/uk-tariffs-from-1-january-2021" class="govuk-link">the UK Global Tariff</a> will apply to imports into the UK unless a preferential agreement like an FTA applies. The <abbr title="Most Favoured Nation">MFN</abbr> tariff of the country of destination will apply to exports from the UK, unless the UK has preferential trading arrangements in place with that country.</p>
+
+<p>At the end of 2020, the UK will transition to <abbr title="World Trade Organization">WTO</abbr> terms with all those nations it doesn’t have a preferential trade agreement with.</p>
+
+<h3 id="establish-the-uk-origin-of-your-goods-for-tariff-purposes">Establish the UK origin of your goods for tariff purposes</h3>
+
+<p>From 1 January 2021, how you establish the origin of your goods for tariff purposes may change. The UK and the EU will be separate territories for rules of origin purposes.   </p>
+
+<p>Trade under <abbr title="World Trade Organization">WTO</abbr> rules does not require you to prove preferential origin.</p>
+
+<h4 id="non-preferential-rules-of-origin">Non-preferential rules of origin</h4>
+
+<p>When trading with countries with whom the UK does not have a trade agreement, non-preferential rules of origin will apply from 1 January 2021.</p>
+
+<p>This means that when you are importing a good you will need to declare the origin of your goods.  If you are exporting, you will need to apply the non-preferential rules of origin as set by the destination country.</p>
+
+<p>If required, you will be able to apply for a non-preferential certificate of origin from the British Chambers of Commerce.</p>
+
+<h3 id="paying-tariffs-on-imports-into-the-uk">Paying tariffs on imports into the UK</h3>
+
+<p>From 1 January 2021, the tariffs you pay may be different. We have introduced the UK Global Tariff policy on <abbr title="Most Favoured Nation">MFN</abbr> imports into the UK, which will enter in force from 1 January 2021.</p>
+
+<p>Find out <a href="https://www.gov.uk/check-tariffs-1-january-2021" class="govuk-link">what tariff rates apply</a> to specific goods imported into the UK from 1 January 2021.</p>
 
 <h3 id="paying-tariffs-on-exports-from-the-uk">Paying tariffs on exports from the UK</h3>
 
-<p>After the transition period, an importer in another country may need to pay different rates of tariffs on exports from the UK.</p>
+<p>Overseas importers may need to pay different tariff rates on exports from the UK. The tariffs will vary by country and product. Many are duty free under <abbr title="World Trade Organization">WTO</abbr> terms.</p>
 
-<p>The tariffs on your exports will vary by country. Each country decides their own import tariffs. If you are exporting a product to a country that the UK has no trade agreement with after the transition period, the importer will pay the non-preferential tariff rate applied in that country to its imports.</p>
+<p>Find out <a rel="external" href="https://www.check-duties-customs-exporting-goods.service.gov.uk/selectdest" class="govuk-link">what tariff rates apply</a> in every country.</p>
 
-<h3 id="trading-in-services">Trading in services</h3>
+<h3 id="continue-to-comply-with-regulations">Continue to comply with regulations</h3>
 
-<p>To provide services in other countries you will need to follow the terms set out in the legislation of the host country. This includes commitments that the host country applies to all <abbr title="World Trade Organization">WTO</abbr> members.</p>
+<p>If you import goods into the UK, find out how to get your <a href="https://www.gov.uk/guidance/placing-manufactured-goods-on-the-uk-market-if-theres-no-brexit-deal" class="govuk-link">goods on the UK market</a>.</p>
 
-<div class="call-to-action">
-<p>Read the <a rel="external" href="http://i-tip.wto.org/services/default.aspx" class="govuk-link"><abbr title="World Trade Organization">WTO</abbr> General Agreement on Trade in Services (GATS)</a>.</p>
-</div>
+<p>The UK will accept most goods that meet EU requirements on product safety for a time limited period from 1 January 2021.</p>
 
-<h3 id="public-procurement-contracts">Public procurement contracts</h3>
+<p>If you are selling goods to another country, you will need to continue to meet the regulatory requirements as set out in the law of that country.</p>
 
-<p>Find out about the <a href="https://www.gov.uk/government/publications/government-procurement-agreement-uk-participation-after-eu-exit" class="govuk-link">Government Procurement Agreement (GPA)</a> during the transition period.</p>
+<h3 id="protect-your-intellectual-property">Protect your intellectual property</h3>
 
-<div class="call-to-action">
-<p><a rel="external" href="https://www.contactus.trade.gov.uk/office-finder/" class="govuk-link">Contact your trade adviser</a> to find out more about how <abbr title="World Trade Organization">WTO</abbr> rules may change the way you trade with other countries.</p>
-</div>
+<p>Some trade agreements give extra protection for intellectual property above a ‘baseline’ level required of all <abbr title="World Trade Organization">WTO</abbr> members. If there is no longer a trade agreement between the UK and another country, that country’s protection for your intellectual property may go down to that baseline level. This is most relevant to UK Geographical Indications, which may no longer be protected in the other country when we are trading under <abbr title="World Trade Organization">WTO</abbr> rules.</p>
 
-<h2 id="more-information">More information</h2>
-
-<p>Check:</p>
+<p>Find out about:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/check-duties-customs-exporting" class="govuk-link">duties and customs procedures for exporting goods</a></li>
-  <li><a href="https://www.gov.uk/get-rules-tariffs-trade-with-uk" class="govuk-link">tariffs, taxes and rules to trade with the UK</a></li>
+  <li>
+    <p><a href="https://www.gov.uk/guidance/exporting-your-intellectual-property" class="govuk-link">exporting your intellectual property</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/guidance/intellectual-property-and-brexit" class="govuk-link">changes to particular intellectual property rights from 1 January 2021 in relation to the EU</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.gov.uk/guidance/protecting-food-and-drink-names-from-1-january-2021#rules-for-a-no-deal-brexit" class="govuk-link">geographical indications</a> – these protect the geographical names of food, drink and agricultural products</p>
+  </li>
 </ul>
 
-<p>Find out:</p>
+<h3 id="changes-to-trade-in-services">Changes to trade in services</h3>
+
+<p>To provide services in other countries, you will need to continue to follow the terms set out in the legislation of the host country.</p>
+
+<p>If there is no trade agreement between the UK and host country, you will trade under terms set out in the host country’s <abbr title="World Trade Organization">WTO</abbr> General Agreement on Trade in Services (GATS). The terms are set out in the <a rel="external" href="https://www.wto.org/english/tratop_e/serv_e/serv_commitments_e.htm" class="govuk-link">schedule of specific commitments and list of Article II (<abbr title="Most Favoured Nation">MFN</abbr>) exemptions</a>. This page includes guidance on interpreting services schedules.</p>
+
+<p>Where there is no longer a trade agreement, the host country may impose new restrictions on trade. You may no longer have the right to provide some services, or to provide some services in particular ways, to that country from 1 January 2021. If in doubt, you should contact the relevant regulatory body in the host country.</p>
+
+<h4 id="get-business-visas">Get business visas</h4>
+
+<p>If you are a UK national, you will need to check what type of visa, work, or residence permit is required in the country in which you are intending to provide services. You should comply with the immigration controls for the country in which you are providing services.</p>
+
+<p>You can read <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">advice about travelling to specific countries</a>, including travel entry requirements and how to stay safe while you’re there.</p>
+
+<h4 id="working-in-the-uk">Working in the UK</h4>
+
+<p>If you are an overseas service supplier, find out more about <a href="https://www.gov.uk/browse/visas-immigration" class="govuk-link">Visas and Immigration</a>.</p>
+
+<h4 id="make-sure-your-professional-qualification-is-recognised">Make sure your professional qualification is recognised</h4>
+
+<p>From 1 January 2021, you’ll need to have your UK professional qualification officially recognised if you want to work in a profession that is regulated in the country in which you are selling services.</p>
+
+<p>Your professional qualification will need to be recognised by the relevant regulator in each country where you intend to work. You’ll need to do this even if you’re providing temporary or occasional professional services.</p>
+
+<h3 id="government-procurement-contracts">Government procurement contracts</h3>
+
+<p>The World Trade Organization Agreement on Procurement Agreement (<abbr title="Government Procurement Agreement">GPA</abbr>) opens up government procurement markets among its parties. From 1 January 2021, the UK will become an independent member of the <abbr title="Government Procurement Agreement">GPA</abbr>. This means that:</p>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/uk-trade-agreements-with-non-eu-countries" class="govuk-link">what trade agreements are in place or under discussion</a></li>
+  <li>
+    <p>UK businesses can continue to bid for procurement opportunities in the other parties’ territories</p>
+  </li>
+  <li>
+    <p>businesses from those parties can continue to bid for certain procurement opportunities in the UK</p>
+  </li>
 </ul>
 
-</div>
+<p>The <a rel="external" href="https://www.wto.org/english/tratop_e/gproc_e/gp_app_agree_e.htm" class="govuk-link"><abbr title="World Trade Organization">WTO</abbr> website</a> sets out which markets are covered by the <abbr title="Government Procurement Agreement">GPA</abbr> and what types of procurement opportunities are covered in each market.</p>
+
+<p><abbr title="Government Procurement Agreement">GPA</abbr> parties use their own online platforms for publishing procurement opportunities. The <abbr title="World Trade Organization">WTO</abbr> website provides <a rel="external" href="https://www.wto.org/english/tratop_e/gproc_e/notnat_e.htm#mediaPublic" class="govuk-link">party specific procurement-related information</a>.</p>
+
+<h3 id="further-information">Further information</h3>
+
+<p>From 1 January 2021, the Northern Ireland Protocol will come into effect. <a href="https://www.gov.uk/government/publications/moving-goods-under-the-northern-ireland-protocol" class="govuk-link">Find out how this could affect your business</a>.  </p>
+
+<p>Freight forwarding may save you time and money if you’re exporting large volumes of goods or high value items by sea or air freight. Find out more about <a rel="external" href="https://www.great.gov.uk/advice/moving-goods-and-using-freight-forwarders/" class="govuk-link">freight forwarders</a>. </p>
+
+<p>You should consult your legal advisers if you wish to ensure you understand the legal implications of trading on <abbr title="World Trade Organization">WTO</abbr> terms from 1 January 2021 for your business. </p>
+
+<h2 id="contact">Contact  </h2>
+
+<p>If you have queries about trading on <abbr title="World Trade Organization">WTO</abbr> terms from 1 January 2021 <a rel="external" href="https://www.great.gov.uk/transition-period/contact/" class="govuk-link">contact the Department for International Trade (<abbr title="Department for International Trade">DIT</abbr>)</a>.  </p>
+
+<p>Should you wish to speak to someone face to face, we have local trade offices based around the UK. Within each office you can contact an international trade advisor. <a rel="external" href="https://www.great.gov.uk/contact/office-finder/" class="govuk-link">Find your local trade office</a>.   </p>
+
 </div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 15 August 2019
-    <br></br>Last updated 4 February 2020
+    <br></br>Last updated 25 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-25T09:14:46.000+00:00">25 November 2020</time>
+              <p class="app-c-published-dates__change-note">Reviewed and updated the page with the latest information about trading under WTO rules from 1 January 2021.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-02-04T13:27:37.000+00:00">4 February 2020</time>
               <p class="app-c-published-dates__change-note">Updated as the EU has notified those countries with which it has trade agreements that EU trade agreements can continue to apply to the UK during the transition period.</p>
@@ -195,14 +290,18 @@
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
-    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
-  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click" lang="en">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit transition</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Check you’re ready for 2021"}">Check you’re ready for 2021</a>
 </div>
 
 
@@ -210,23 +309,23 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-c59bfb9a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b9eabaa1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c59bfb9a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b9eabaa1" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/the-customs-tariff-rate-quotas-regulation" data-track-options="{"dimension28":"4","dimension29":"The Customs (Tariff Rate Quotas) Regulation"}" href="/government/publications/the-customs-tariff-rate-quotas-regulation">The Customs (Tariff Rate Quotas) Regulation</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/publications/continuing-the-uks-trade-relationship-with-georgia-parliamentary-report" data-track-options="{"dimension28":"4","dimension29":"Continuing the UK's trade relationship with Georgia: parliamentary report"}" href="/government/publications/continuing-the-uks-trade-relationship-with-georgia-parliamentary-report">Continuing the UK's trade relationship with Georgia: parliamentary report</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/the-customs-tariff-establishment-eu-exit-regulations" data-track-options="{"dimension28":"4","dimension29":"The Customs Tariff (Establishment) (EU Exit) Regulations"}" href="/government/publications/the-customs-tariff-establishment-eu-exit-regulations">The Customs Tariff (Establishment) (EU Exit) Regulations</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/continuing-the-uks-trade-relationship-with-the-swiss-confederation-and-the-principality-of-liechtenstein-parliamentary-report" data-track-options="{"dimension28":"4","dimension29":"Continuing the UK's trade relationship with the Swiss Confederation and the Principality of Liechtenstein: parliamentary report"}" href="/government/publications/continuing-the-uks-trade-relationship-with-the-swiss-confederation-and-the-principality-of-liechtenstein-parliamentary-report">Continuing the UK's trade relationship with the Swiss Confederation and the Principality of Liechtenstein: parliamentary report</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/bidding-for-overseas-procurement-opportunities-what-to-expect-from-1-january-2021" data-track-options="{"dimension28":"4","dimension29":"Bidding for overseas procurement opportunities: what to expect from 1 January 2021"}" href="/guidance/bidding-for-overseas-procurement-opportunities-what-to-expect-from-1-january-2021">Bidding for overseas procurement opportunities: what to expect from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/public-sector-procurement-from-1-january-2021" data-track-options="{"dimension28":"4","dimension29":"Public-sector procurement from 1 January 2021"}" href="/guidance/public-sector-procurement-from-1-january-2021">Public-sector procurement from 1 January 2021</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/transposing-eu-procurement-directives" data-track-options="{"dimension28":"4","dimension29":"EU procurement directives and the UK regulations"}" href="/guidance/transposing-eu-procurement-directives">EU procurement directives and the UK regulations</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/procurement-policy-note-new-thresholds-2020" data-track-options="{"dimension28":"4","dimension29":"Procurement Policy Note 06/19: New Thresholds 2020"}" href="/government/publications/procurement-policy-note-new-thresholds-2020">Procurement Policy Note 06/19: New Thresholds 2020</a></li>
 
   </ul>
 </nav>
@@ -253,16 +352,16 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-020781bb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-38c119be" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-020781bb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-38c119be" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/business-and-industry/exporting" data-track-options="{"dimension28":"3","dimension29":"Exporting"}" href="/business-and-industry/exporting">Exporting</a></li>
         <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/business-and-industry/importing" data-track-options="{"dimension28":"3","dimension29":"Importing"}" href="/business-and-industry/importing">Importing</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"3","dimension29":"Transition period"}" href="/transition">Transition period</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.3 Explore the topic" data-track-label="/transition" data-track-options="{"dimension28":"3","dimension29":"Brexit transition: new rules for 2021"}" href="/transition">Brexit transition: new rules for 2021</a></li>
 
   </ul>
 </nav>
