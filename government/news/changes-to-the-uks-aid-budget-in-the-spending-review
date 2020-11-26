@@ -9,7 +9,20 @@
   </h1>
 </div>
   </div>
-  
+    <div class="govuk-grid-column-one-third">
+      <nav role="navigation" class="gem-c-translation-nav gem-c-translation-nav " aria-label="Translations">
+    <ul class="gem-c-translation-nav__list">
+        <li class="gem-c-translation-nav__list-item">
+            <span lang="en">English</span>
+        </li>
+        <li class="gem-c-translation-nav__list-item">
+            <a hreflang="ar" lang="ar" rel="alternate" class="gem-c-translation-nav__link " href="/government/news/changes-to-the-uks-aid-budget-in-the-spending-review.ar">العربية</a>
+        </li>
+    </ul>
+  </nav>
+
+  </div>
+
   <div class="govuk-grid-column-two-thirds">
     
   <p class="gem-c-lead-paragraph">UK aid to be overhauled to achieve greater impact.</p>
@@ -23,6 +36,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 25 November 2020
+    <br></br>Last updated 26 November 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -62,9 +77,9 @@
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
     
         <div class="govspeak">
-<p>The Chancellor of the Exchequer has today announced, as part of the <a href="https://www.gov.uk/government/news/spending-review-to-fight-virus-deliver-promises-and-invest-in-uks-recovery" class="govuk-link">Spending Review</a>, a temporary reduction in the UK’s aid budget from 0.7% to 0.5% of our national income.</p>
+<p>The Chancellor of the Exchequer has announced, as part of the <a href="https://www.gov.uk/government/news/spending-review-to-fight-virus-deliver-promises-and-invest-in-uks-recovery" class="govuk-link">Spending Review</a>, a temporary reduction in the UK’s aid budget from 0.7% to 0.5% of our national income.</p>
 
-<p>The seismic impact of the pandemic on the UK economy has forced government to take tough but necessary decisions, including this temporary reduction in the overall amount we spend on aid. We will return to 0.7% when the fiscal situation allows.</p>
+<p>The seismic impact of the pandemic on the UK economy has forced the government to take tough but necessary decisions, including this temporary reduction in the overall amount we spend on aid. We will return to 0.7% when the fiscal situation allows.</p>
 
 <p>The UK government remains a world leading aid donor spending 0.5% of our national income. We will spend more than £10 billion next year to fight poverty, tackle climate change and improve global health.</p>
 
@@ -72,7 +87,19 @@
 
 <p>We will combine aid with diplomacy, focusing our efforts where the UK can make a world-leading difference ensuring the UK is a force for good across the globe.</p>
 
-<p>Tomorrow in a statement to the House of Commons, the Foreign Secretary will set out how we will overhaul UK aid to deliver even greater impact.</p>
+<p>Today in a <a href="https://www.gov.uk/government/news/foreign-secretary-statement-on-official-development-assistance-november-2020" class="govuk-link">statement to the House of Commons</a>, the Foreign Secretary set out how we will overhaul UK aid to deliver even greater impact by focussing on 7 global challenges where it can make the most difference:</p>
+
+<ul>
+  <li>Climate Change and biodiversity: A greener and cleaner path to growth in developing countries.</li>
+  <li>COVID and global health security: Combat COVID-19 and support healthier and more resilient populations in developing countries.</li>
+  <li>Girls’ education: A global commitment to get 40 million girls into education and 20 million more girls reading by the age of 10.</li>
+  <li>Science, research, technology: Deliver cutting edge technology and research-led solutions in health, education, resilience, low carbon technologies, agriculture and economic development, conflict and poverty.</li>
+  <li>Open societies and conflict resolution: Strengthen democratic institutions, human rights, free media and effective governance.</li>
+  <li>Humanitarian preparedness and response: Lead stronger collective international response to crises and famine.</li>
+  <li>Trade and economic development: Build trading and investment partners of the future.</li>
+</ul>
+
+<p>We will prioritise what we spend aid on and where we spend it. Spending will also be subject to a new and rigorous performance assessment.</p>
 </div>
 
 </div>
@@ -115,8 +142,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 25 November 2020
+    <br></br>Last updated 26 November 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-26T14:38:33.000+00:00">26 November 2020</time>
+              <p class="app-c-published-dates__change-note">Updated with more detail following the Foreign Secretary's statement to the House of Commons on 26 November 2020</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-25T14:12:00.000+00:00">25 November 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -130,7 +171,7 @@
   <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
       <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
     <p class="gem-c-transition-countdown__countdown">
-      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">7</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">6</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
 </p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
 
 </a>
@@ -158,9 +199,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4f787fbb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-07b49b43" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-4f787fbb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-07b49b43" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
