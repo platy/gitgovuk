@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 17 May 2013
-    <br></br>Last updated 23 September 2020
+    <br></br>Last updated 30 November 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -57,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
@@ -94,47 +95,55 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-and-studying-in-germany" data-track-options="{"dimension29":"Working and studying in Germany"}" href="#working-and-studying-in-germany">Working and studying in Germany</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#working-in-germany" data-track-options="{"dimension29":"Working in Germany"}" href="#working-in-germany">Working in Germany</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#frontier-workers" data-track-options="{"dimension29":"Frontier workers"}" href="#frontier-workers">Frontier workers</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#education-and-professional-qualifications" data-track-options="{"dimension29":"Education and professional qualifications"}" href="#education-and-professional-qualifications">Education and professional qualifications</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#money-and-tax" data-track-options="{"dimension29":"Money and tax"}" href="#money-and-tax">Money and tax</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#driving-in-germany" data-track-options="{"dimension29":"Driving in Germany"}" href="#driving-in-germany">Driving in Germany</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#pensions" data-track-options="{"dimension29":"Pensions"}" href="#pensions">Pensions</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 14" data-track-label="#benefits" data-track-options="{"dimension29":"Benefits"}" href="#benefits">Benefits</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 15" data-track-label="#driving-in-germany" data-track-options="{"dimension29":"Driving in Germany"}" href="#driving-in-germany">Driving in Germany</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 16" data-track-label="#voting" data-track-options="{"dimension29":"Voting"}" href="#voting">Voting</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 17" data-track-label="#births-deaths-and-getting-married" data-track-options="{"dimension29":"Births, deaths and getting married"}" href="#births-deaths-and-getting-married">Births, deaths and getting married</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 18" data-track-label="#accommodation-and-buying-property" data-track-options="{"dimension29":"Accommodation and buying property"}" href="#accommodation-and-buying-property">Accommodation and buying property</a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
-          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 19" data-track-label="#pets" data-track-options="{"dimension29":"Pets"}" href="#pets">Pets</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 20" data-track-label="#emergencies" data-track-options="{"dimension29":"Emergencies"}" href="#emergencies">Emergencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 21" data-track-label="#returning-to-the-uk" data-track-options="{"dimension29":"Returning to the UK\n"}" href="#returning-to-the-uk">Returning to the UK
 </a>
 
         </li>
@@ -143,8 +152,14 @@
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
 <div class="call-to-action">
 <h2 id="what-you-should-do">What you should do</h2>
 
@@ -195,13 +210,17 @@
 
 <p>If you are planning to stay in Germany for more than 3 months, you must <a rel="external" href="https://www.melderegister-auskunft.de/deutschland" class="govuk-link">register at your local registration office</a> within 14 days of arrival. The office is sometimes known as the Einwohnermeldeamt, Kreisverwaltungsreferat (<abbr title="Kreisverwaltungsreferat">KVR</abbr>), Bürgerbüro or Bürgeramt.</p>
 
-<p>Whenever you move home in Germany, you must register at your new address.</p>
+<p>If you move home in Germany, you must register again at the local registration office for your new address.</p>
 
-<p>If you are resident in Germany before the transition period ends on 31 December 2020, you will be able to stay. To confirm your rights under the Withdrawal Agreement, you will need to <a href="https://www.gov.uk/government/publications/germany-residence-information-after-eu-exit/foreigners-authorities-in-germany" class="govuk-link">obtain a new residence document</a>.</p>
+<p>If you are living in Germany by 31 December 2020, you should <a href="https://www.gov.uk/government/publications/germany-residency/residence-documentation-for-uk-nationals-in-germany" class="govuk-link">obtain a new residence document</a> (Aufenthaltsdokument-GB).</p>
 
-<p>The German authorities have not yet confirmed the process to obtain the residency document, but once it is announced you will have until at least 30 June 2021 to submit your request. You will need a valid passport when requesting a residence document.</p>
+<p>To get this document you must report your residence to your local Foreigners Authority (usually called Ausländerbehörde) by 30 June 2021. Your rights under the Withdrawal Agreement will not be affected if you do not meet the deadline. However, we recommend that you obtain your new card as soon as possible.</p>
 
-<p>We will update this guidance as soon as information is available. For more information, read the <a rel="external" href="https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/constitution/brexit/faqs-brexit.html" class="govuk-link">German Federal Interior Ministry’s guidance and follow their recommended actions</a>.</p>
+<p>You will need to show a valid <abbr title="United Kingdom">UK</abbr> passport.</p>
+
+<p>For more information, read the <a rel="external" href="https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/constitution/brexit/faqs-brexit.html" class="govuk-link">German Federal Interior Ministry residence FAQs</a>.</p>
+
+<p>If you arrive in Germany after 31 December 2020, different immigration requirements will apply. Read the German government’s <a rel="external" href="https://www.make-it-in-germany.com/en/" class="govuk-link">guidance on residency permits for third country nationals</a>.</p>
 
 <h3 id="uk-nationals-support-fund">
 <abbr title="United Kingdom">UK</abbr> Nationals Support Fund</h3>
@@ -210,7 +229,7 @@
 
 <p>These organisations will help individuals who may find it harder to complete the necessary paperwork to secure their residency rights, including pensioners, disabled people, those living in remote areas or who have mobility difficulties, and those who require help with language translation or interpretation.</p>
 
-<p>In Germany, two organisations are providing this practical support: SSAFA, the armed forces charity, will cover Bremen, Hamburg, Niedersachsen and Nordrhein-Westfalen and The International Organisation for Migration will cover all other federal states.</p>
+<p>In Germany, two organisations are providing this practical support: SSAFA, the armed forces charity, will cover Bremen, Hamburg, Lower Saxony and North Rhine-Westphalia and The International Organisation for Migration will cover all other federal states.</p>
 
 <p>If you or someone you know may have difficulty completing the residency application, you should contact one of these organisations using the details below to discuss how they may be able to help you.</p>
 
@@ -218,15 +237,15 @@
 
 <p>Email:  <a href="mailto:UKNationalsDE@iom.int" class="govuk-link">UKNationalsDE@iom.int</a></p>
 
-<p>Hotline: +49 (0) 30 206066111</p>
+<p>Helpline: +49 (0) 30 206066111</p>
 
 <p>Website: <a rel="external" href="http://germany.iom.int/en/UKNSFproject" class="govuk-link">http://germany.iom.int/en/UKNSFproject</a></p>
 
 <h3 id="ssafa--the-armed-forces-charity">SSAFA – The Armed Forces Charity</h3>
 
-<p>Email:  <a href="mailto:ukvie.support@ssafa.org.uk" class="govuk-link">ukvie.support@ssafa.org.uk</a></p>
+<p>Email: <a href="mailto:ukvie.support@ssafa.org.uk" class="govuk-link">ukvie.support@ssafa.org.uk</a></p>
 
-<p>Hotline: +49 (0) 800 000 9913</p>
+<p>Helpline: +49 (0) 800 000 9913</p>
 
 <p>Website: <a rel="external" href="https://www.ssafa.org.uk/" class="govuk-link">https://www.ssafa.org.uk/</a></p>
 
@@ -254,7 +273,8 @@
 
 <p>You will need to <a href="https://www.gov.uk/overseas-passports" class="govuk-link">renew your passport</a> before travelling if you do not have enough time left on your passport.</p>
 
-<p>As a non-EEA national, different border checks will apply when travelling to other <abbr title="European Union">EU</abbr> or Schengen area countries. You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from <abbr title="European Union">EU</abbr>, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
+<p>As a non-EEA national, different border checks will apply when travelling to other <abbr title="European Union">EU</abbr> or Schengen area countries. 
+You may need to show a return or onward ticket and that you have enough money for your stay. You may also have to use separate lanes from <abbr title="European Union">EU</abbr>, EEA and Swiss citizens when queueing. Your passport may be stamped for visits to these countries.</p>
 
 <h3 id="entry-requirements">Entry requirements</h3>
 
@@ -272,30 +292,47 @@
 
 <p>You are able to choose your <a rel="external" href="https://www.gkv-spitzenverband.de/service/versicherten_service/krankenkassenliste/krankenkassen.jsp" class="govuk-link">health insurer</a> (in German) and in some cases you can choose private health insurance (private Krankenversicherung) instead of the standard statutory health insurance (gesetzliche Krankenversicherung).</p>
 
-<p>If you are living in Germany or move there permanently before the transition period ends on 31 December 2020, you’ll have life-long healthcare rights in Germany as you do now, provided you remain resident.</p>
+<p>If you are living in Germany or move there permanently before 31 December 2020, you will have life-long healthcare rights in Germany as you do now, provided you remain legally resident.</p>
 
-<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-germany" class="govuk-link">guidance on accessing healthcare in Germany</a>  and the German government’s  <a rel="external" href="https://www.bmas.de/SharedDocs/Downloads/DE/PDF-Publikationen/a998-social-security-at-a-glance-total-summary.pdf?__blob=publicationFile&v=8" class="govuk-link">guidance on social security in Germany</a>.</p>
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-germany" class="govuk-link">guidance on accessing healthcare in Germany</a> and make sure you are correctly registered.</p>
 
-<h3 id="state-healthcare-s1">State healthcare: S1</h3>
-
-<p>If you live in Germany and receive an exportable <abbr title="United Kingdom">UK</abbr> pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the <abbr title="United Kingdom">UK</abbr>. You must apply for a certificate of entitlement known as an S1 certificate.</p>
-
-<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-germany#s1" class="govuk-link">guidance on how to get an S1 Form</a></p>
-
-<h3 id="european-health-insurance-card-ehic">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</h3>
-
-<p>If you are resident in Germany, you must not use your <abbr title="European Health Insurance Card">EHIC</abbr> from the <abbr title="United Kingdom">UK</abbr> to access healthcare in Germany.</p>
-
-<p>When you travel from Germany for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an <abbr title="European Health Insurance Card">EHIC</abbr> to access state-provided healthcare in that country. During that short stay:</p>
+<p>You should also read:</p>
 
 <ul>
-  <li>the <abbr title="European Health Insurance Card">EHIC</abbr> covers treatment that is medically necessary until your planned return home</li>
-  <li>an <abbr title="European Health Insurance Card">EHIC</abbr> is not a replacement for comprehensive travel insurance</li>
-  <li>for more information read our <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#eu-exit-update" class="govuk-link">advice on foreign travel insurance</a>
+  <li>the German government’s <a rel="external" href="https://www.bmas.de/SharedDocs/Downloads/DE/PDF-Publikationen/a998-social-security-at-a-glance-total-summary.pdf?__blob=publicationFile&v=8" class="govuk-link">guidance on social security in Germany</a>
+</li>
+  <li>FAQs from the <a rel="external" href="https://www.bundesgesundheitsministerium.de/en/topics/brexit.html" class="govuk-link">German Federal Health Ministry</a>
+</li>
+  <li>FAQs from the <a rel="external" href="https://dvka.de/de/informationen/brexit/citizens/citizens.html" class="govuk-link">German Association of Statutory Health Insurers</a>
 </li>
 </ul>
 
-<p>There will be no changes to your healthcare access before 31 December 2020. You can also continue to use your <abbr title="European Health Insurance Card">EHIC</abbr>, as you did before, during this time.</p>
+<p>If your <abbr title="United Kingdom">UK</abbr> employer has sent you to Germany temporarily, your access to healthcare is different. Find out how to <a href="https://www.gov.uk/guidance/healthcare-in-germany#posted-worker" class="govuk-link">access healthcare as a posted worker</a>.</p>
+
+<h3 id="state-healthcare-s1">State healthcare: S1</h3>
+
+<p>If you have a registered S1 form and are living in Germany before the end of 2020, your rights to access healthcare will stay the same from 1 January 2021 if you are either:</p>
+
+<ul>
+  <li>receiving a <abbr title="United Kingdom">UK</abbr> State Pension</li>
+  <li>receiving some other ‘exportable benefits’</li>
+  <li>a frontier worker who lives in Germany and commutes to work in the <abbr title="United Kingdom">UK</abbr>
+</li>
+</ul>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-germany#s1" class="govuk-link">guidance on how to get an S1 Form</a> to ensure you are correctly registered for healthcare.</p>
+
+<h3 id="european-health-insurance-card-ehic">European Health Insurance Card (<abbr title="European Health Insurance Card">EHIC</abbr>)</h3>
+
+<p>If you are resident in Germany, you must not use your <abbr title="United Kingdom">UK</abbr>-issued <abbr title="European Health Insurance Card">EHIC</abbr> for healthcare in Germany.</p>
+
+<p>When you travel from Germany for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an <abbr title="European Health Insurance Card">EHIC</abbr> to access state healthcare for free or at a reduced cost.</p>
+
+<p>If you’re a <abbr title="United Kingdom">UK</abbr> student in Germany or have a registered S1 you may be eligible for a new <abbr title="United Kingdom">UK</abbr>-issued <abbr title="European Health Insurance Card">EHIC</abbr>. This <abbr title="European Health Insurance Card">EHIC</abbr> will remain valid from 1 January 2021. <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/" class="govuk-link">Apply now for a new <abbr title="United Kingdom">UK</abbr> <abbr title="European Health Insurance Card">EHIC</abbr></a>.</p>
+
+<p>An <abbr title="European Health Insurance Card">EHIC</abbr> is not a replacement for comprehensive travel insurance.</p>
+
+<p>For more information read our <a href="https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare" class="govuk-link">guidance on healthcare when travelling in Europe</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#travel-eu" class="govuk-link">advice on foreign travel insurance</a>.</p>
 
 <p>You can <a href="https://www.gov.uk/government/publications/germany-list-of-medical-practitionersfacilities" class="govuk-link">find an English-speaking doctor</a> in Germany.</p>
 
@@ -304,14 +341,12 @@
 <ul>
   <li>take out health insurance for the duration of their study</li>
   <li>read <a rel="external" href="https://www.studis-online.de/StudInfo/Versicherungen/krankenversicherung.php" class="govuk-link">general information about health insurance for students</a> (in German)</li>
-  <li>read the German government’s <a rel="external" href="https://www.bmas.de/SharedDocs/Downloads/DE/PDF-Publikationen/a998-social-security-at-a-glance-total-summary.pdf?__blob=publicationFile&v=8" class="govuk-link">guide on social security in Germany</a>
-</li>
-  <li>read the <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link"><abbr title="National Health Service">NHS</abbr> guidance on healthcare and studying abroad</a>.</li>
+  <li>read the German government’s <a rel="external" href="https://www.bmas.de/SharedDocs/Downloads/DE/PDF-Publikationen/a998-social-security-at-a-glance-total-summary.pdf?__blob=publicationFile&v=8" class="govuk-link">guide on social security in Germany</a>.</li>
 </ul>
 
-<h2 id="working-and-studying-in-germany">Working and studying in Germany</h2>
+<h2 id="working-in-germany">Working in Germany</h2>
 
-<p>If you are resident in Germany on or before 31 December 2020, your right to work in Germany will stay the same, as long as you remain resident in Germany.</p>
+<p>If you are legally resident in Germany by 31 December 2020, your right to work in Germany will stay the same, as long as you remain resident in Germany.</p>
 
 <ul>
   <li>read our guidance on <a href="https://www.gov.uk/working-abroad" class="govuk-link">working in an <abbr title="European Union">EU</abbr> country</a>
@@ -337,7 +372,15 @@
 </li>
 </ul>
 
-<h3 id="education">Education</h3>
+<h2 id="frontier-workers">Frontier workers</h2>
+
+<p>If you live in Germany and commute to work in an <abbr title="European Union">EU</abbr> or EFTA country, from January 2021 you may need a permit to prove that you are a frontier worker.</p>
+
+<p>If you work in Germany but live in another country, you must apply for a new frontier worker document (Aufenthaltsdokument für Grenzgänger-GB), at the local Foreigners Authority for your workplace.</p>
+
+<p>Read our <a href="https://www.gov.uk/government/publications/germany-residency/residence-documentation-for-uk-nationals-in-germany" class="govuk-link">guidance on residence in Germany for information from your local Foreigners Authority</a>.</p>
+
+<h2 id="education-and-professional-qualifications">Education and professional qualifications</h2>
 
 <p>If you are resident in Germany on or before 31 December 2020, your right to study in Germany will remain the same, as long as you remain resident in Germany.</p>
 
@@ -397,6 +440,11 @@
 
 <p>If you are employed or self-employed in the <abbr title="European Union">EU</abbr> or EEA and you have a <abbr title="United Kingdom">UK</abbr>-issued A1/E101 form, you will remain subject to <abbr title="United Kingdom">UK</abbr> legislation until the end date on the form.</p>
 
+<h3 id="banking">Banking</h3>
+<p>Most people living in Europe should not see any change to their banking after 31 December 2020. Your bank or finance provider should contact you if they need to make any changes to your product or the way they provide it. If you have any concerns about whether you might be affected, contact your provider or seek independent financial advice.</p>
+
+<p>Read the Money and Pension Service <a rel="external" href="https://www.moneyadviceservice.org.uk/en/articles/brexit-banking-insurance-finance" class="govuk-link">guidance on banking, insurance and financial services changes after 31 December 2020</a> for more information on cross-border retail banking.</p>
+
 <h3 id="declaration-of-assets">Declaration of assets</h3>
 
 <p>You must file an annual declaration of assets that are held outside Germany, alongside your annual tax return. There are severe penalties if you fail to file this, or give incorrect or incomplete information.</p>
@@ -437,6 +485,8 @@
 
 <p>You can continue to receive your <abbr title="United Kingdom">UK</abbr> State Pension if you live in the <abbr title="European Union">EU</abbr>, EEA or Switzerland and you can still claim your <abbr title="United Kingdom">UK</abbr> State Pension.</p>
 
+<p>Read the Money and Pension Service <a rel="external" href="https://www.moneyadviceservice.org.uk/en/articles/brexit-pension-retirement" class="govuk-link">guidance on pension and retirement changes after 31 December 2020</a> for more information on cross-border pensions.</p>
+
 <h2 id="benefits">Benefits</h2>
 
 <p>Tell the <abbr title="United Kingdom">UK</abbr> government offices that deal with your benefits, pension and tax if you are moving or retiring abroad.</p>
@@ -469,7 +519,7 @@
 
 <p>Driving licence exchange rules will stay the same until 31 December 2020.</p>
 
-<p>If you are a resident in Germany, you must exchange your <abbr title="United Kingdom">UK</abbr> licence for a German one within 6 months of moving to Germany. You can still use your German licence in the <abbr title="United Kingdom">UK</abbr> for short visits or exchange it for a <abbr title="United Kingdom">UK</abbr> licence without taking a test if you return to live in the <abbr title="United Kingdom">UK</abbr>. Driving licences are issued at local authority level in Germany. Your local Bürgeramt can advise you on where you can go to exchange your licence.</p>
+<p>If you are a resident in Germany, you must exchange your <abbr title="United Kingdom">UK</abbr> licence for a German one within 6 months of moving to Germany. Driving licences are issued at local authority level in Germany. Your local Bürgeramt can advise you on where you can go to exchange your licence.</p>
 
 <p>An International Driving Permit is not a suitable alternative to exchanging your licence.</p>
 
@@ -581,16 +631,24 @@
 <p>This information is provided as a guide only. Definitive information should be obtained from the German authorities. The Foreign,Commonwealth & Development Office (<abbr title="Foreign, Commonwealth & Development Office">FCDO</abbr>) is not liable for any inaccuracies in this information.</p>
 
 </div>
-</div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 17 May 2013
-    <br></br>Last updated 23 September 2020
+    <br></br>Last updated 30 November 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-30T08:21:26.000+00:00">30 November 2020</time>
+              <p class="app-c-published-dates__change-note">Visa and residency section updated on how to get the new residence document</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-10T11:04:49.000+00:00">10 November 2020</time>
+              <p class="app-c-published-dates__change-note">Healthcare section updated on how to apply for a new UK EHIC as a student or S1 holder. Working section updated with information on frontier workers.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-23T16:14:19.000+01:00">23 September 2020</time>
               <p class="app-c-published-dates__change-note">See the ‘attend a citizen outreach meeting’ section for details about our virtual info evening, with live Q&A session, on 28 September</p>
@@ -749,14 +807,18 @@ Information about importing a UK-registered vehicle added to driving in Germany 
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
-    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
-  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click" lang="en">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit transition</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Check you’re ready for 2021"}">Check you’re ready for 2021</a>
 </div>
 
 
@@ -764,48 +826,60 @@ Information about importing a UK-registered vehicle added to driving in Germany 
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-f32bbabc" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-2ec5697e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-f32bbabc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2ec5697e" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-portugal" data-track-options="{"dimension28":"5","dimension29":"Living in Portugal"}" href="/guidance/living-in-portugal">Living in Portugal</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-ireland" data-track-options="{"dimension28":"5","dimension29":"Living in Ireland"}" href="/guidance/living-in-ireland">Living in Ireland</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"5","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-belgium" data-track-options="{"dimension28":"5","dimension29":"Living in Belgium"}" href="/guidance/living-in-belgium">Living in Belgium</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-greece" data-track-options="{"dimension28":"5","dimension29":"Living in Greece"}" href="/guidance/living-in-greece">Living in Greece</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-ireland" data-track-options="{"dimension28":"7","dimension29":"Living in Ireland"}" href="/guidance/living-in-ireland">Living in Ireland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-italy" data-track-options="{"dimension28":"7","dimension29":"Living in Italy"}" href="/guidance/living-in-italy">Living in Italy</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-france" data-track-options="{"dimension28":"7","dimension29":"Living in France"}" href="/guidance/living-in-france">Living in France</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-sweden" data-track-options="{"dimension28":"7","dimension29":"Living in Sweden"}" href="/guidance/living-in-sweden">Living in Sweden</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-the-netherlands" data-track-options="{"dimension28":"7","dimension29":"Living in the Netherlands"}" href="/guidance/living-in-the-netherlands">Living in the Netherlands</a></li>
+
+      <li class="gem-c-related-navigation__link toggle-wrap">
+        <a href="#" class="gem-c-related-navigation__toggle" data-controls="toggle_related_items" data-expanded="false" data-toggled-text="Show fewer">
+          + 2 more
+        </a>
+      </li>
+
+      <li class="gem-c-related-navigation__link gem-c-related-navigation__link--truncated-links">
+        <span id="toggle_related_items" class="gem-c-related-navigation__toggle-more js-hidden">
+          <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.6 Related content" data-track-label="/visit-europe-1-january-2021" data-track-options="{"dimension28":"7","dimension29":"Visit Europe from 1 January 2021"}" href="/visit-europe-1-january-2021">Visit Europe from 1 January 2021</a> and <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.7 Related content" data-track-label="/foreign-travel-advice/germany" data-track-options="{"dimension28":"7","dimension29":"Germany travel advice"}" href="/foreign-travel-advice/germany">Germany travel advice</a>
+        </span>
+      </li>
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-2ec5697e" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-2ec5697e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-germany" data-track-options="{"dimension28":"3","dimension29":"Germany: notarial and documentary services guide"}" href="/guidance/notarial-and-documentary-services-guide-for-germany">Germany: notarial and documentary services guide</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/living-in-europe" data-track-options="{"dimension28":"3","dimension29":"Living in Europe"}" href="/guidance/living-in-europe">Living in Europe</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/healthcare-in-germany" data-track-options="{"dimension28":"3","dimension29":"Healthcare for UK nationals living in Germany"}" href="/guidance/healthcare-in-germany">Healthcare for UK nationals living in Germany</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-f32bbabc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-2ec5697e" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-f32bbabc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-germany" data-track-options="{"dimension28":"2","dimension29":"Germany: notarial and documentary services guide"}" href="/guidance/notarial-and-documentary-services-guide-for-germany">Germany: notarial and documentary services guide</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-germany" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Germany"}" href="/guidance/healthcare-in-germany">Healthcare for UK nationals living in Germany</a></li>
-
-  </ul>
-</nav>
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-f32bbabc" data-module="gem-toggle">
-
-    <h3 id="related-nav-collections-f32bbabc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-2ec5697e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -837,9 +911,9 @@ Information about importing a UK-registered vehicle added to driving in Germany 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-f47aa525" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-4badb0d0" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-f47aa525" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-4badb0d0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
