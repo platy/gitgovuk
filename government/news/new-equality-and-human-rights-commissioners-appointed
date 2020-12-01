@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 November 2020
+    <br></br>Last updated 1 December 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -82,6 +84,9 @@
 
 <p>The new Commissioners will have an important role to play in assisting the EHRC fulfil its role as the country’s expert body on equality and human rights issues.</p>
 
+<h4 id="update">Update:</h4>
+<p>Baroness Falkner started her term as Chair of the EHRC on 1st December 2020 following the formal scrutiny process</p>
+
 <h4 id="notes-to-editors">Notes to Editors</h4>
 <ol>
   <li>
@@ -101,7 +106,7 @@
     <p>Jessica Butcher MBE is a serial technology entrepreneur, angel investor and business advisor.  She was the Co-founding CMO of Blippar from 2011-2015 during it’s rapid ascent as one of the global tech pioneers in the field of Augmented Reality (a global CNBC ‘Top 50 Disruptor’ business in 2015/16/17 alongside the likes of Uber, AirBnB and Spotify). Jessica is a passionate start-up/ scale-up mentor, public speaker and writer on subjects as diverse as women in technology and entrepreneurship, work-life balance and humane technology, with particular passions around both equality of opportunity and how society might address some of the more recent negative societal and behavioural ramifications of social technology.   She is the recipient of numerous awards including the BBC’s Top 100 Women, Fortune’s Most Powerful Female Entrepreneurs, The Evening Standard’s ‘Progress 1000’ list of London influencers & Europe’s Top 50 Inspiring Women in Tech.She was awarded an MBE for services to technology and entrepreneurship in the 2018 New Years Honours List.</p>
   </li>
   <li>
-    <p>David Goodhart is a journalist, writer and think-tanker, and has been involved with issues relating to equality and discrimination for 20 years. In 2013 he published a book on race and immigration The British Dream (runner up for the Orwell book prize). When he was director of the Demos think tank he set up, with Trevor Phillips, the Integration Hub website as a focus for data and debate about ethnic minority integration/segregation. In his current role as head of the Demography unit at the Policy Exchange think tank he has contributed to most of the key policy debates on race including co-writing a major report (with Shamit Saggar and others) Bittersweet Success on minority entry into elite jobs. After training as a journalist on the York Evening Press, David spent 12 years on the Financial Times, including a stint as a foreign correspondent in Germany, before setting up his own monthly magazine, Prospect. After 15 years editing Prospect he moved into the think tank world in 2011, and has since written two books: The Road to Somewhere: The New Tribes Shaping British Politics, (2017), and Head, Hand, Heart: The Struggle for Dignity and Stats in the 21 st Century (2020).</p>
+    <p>David Goodhart is a journalist, writer and think-tanker, and has been involved with issues relating to equality and discrimination for 20 years. In 2013 he published a book on race and immigration The British Dream (runner up for the Orwell book prize). When he was director of the Demos think tank he set up, with Trevor Phillips, the Integration Hub website as a focus for data and debate about ethnic minority integration/segregation. In his current role as head of the Demography unit at the Policy Exchange think tank he has contributed to most of the key policy debates on race including co-writing a major report (with Shamit Saggar and others) Bittersweet Success on minority entry into elite jobs. After training as a journalist on the York Evening Press, David spent 12 years on the Financial Times, including a stint as a foreign correspondent in Germany, before setting up his own monthly magazine, Prospect. After 15 years editing Prospect he moved into the think tank world in 2011, and has since written two books: The Road to Somewhere: The New Tribes Shaping British Politics, (2017), and Head, Hand, Heart: The Struggle for Dignity and Status in the 21st Century (2020).</p>
   </li>
   <li>
     <p>Su-Mei Thompson is CEO of Media Trust, a non-profit organisation which works with the media and creative industries to give charities and young people a stronger voice while helping the media sector to be more representative.  Previously, Su-Mei was CEO of The Women’s Foundation in Hong Kong. She started her career as a corporate lawyer at Linklaters and has held senior management positions at The Walt Disney Company, the Financial Times and Christie’s.  Su-Mei is also a council member of Cheltenham Ladies College and serves on the Orwell Foundation board, the ENO’s advisory board and WACL (Women in Advertising & Communications London)’s campaign committee. Su-Mei has a distinguished record of advocating for greater diversity and inclusion and empowering young people to reach their potential. A former Member of the Equal Opportunities Commission of Hong Kong, she founded the Hong Kong chapter of the 30% Club, was a founding board member of Save The Children Hong Kong and an Associate Producer of the award-winning documentary “She Objects”. One of Cranfield’s 50 BAME Women to Watch 2019, Su-Mei was Public Affairs Asia’s 2016 Communicator of the Year and is a past recipient of the AmCham Women of Influence Non-Profit Leader Award.</p>
@@ -131,7 +136,7 @@
             </span>          <span class="govuk-visually-hidden">
               Share on
           </span>
-          <span class="visually-hidden">Share on </span>Facebook
+          Facebook
 </a>
         </li>
         <li class="gem-c-share-links__list-item">
@@ -145,15 +150,29 @@
             </span>          <span class="govuk-visually-hidden">
               Share on
           </span>
-          <span class="visually-hidden">Share on </span>Twitter
+          Twitter
 </a>
         </li>
     </ul>
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 November 2020
+    <br></br>Last updated 1 December 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-01T11:13:03.000+00:00">1 December 2020</time>
+              <p class="app-c-published-dates__change-note">Update: Baroness Falkner started her term as Chair of the EHRC on 1st December 2020 following the formal scrutiny process</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-11T10:54:00.000+00:00">11 November 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -162,9 +181,41 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    
+
+  <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
+      <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
+    <p class="gem-c-transition-countdown__countdown">
+      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">1</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+</p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
+
+</a>
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-d5ec9a68" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-d5ec9a68" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/pensions-tax-registration" data-track-options="{"dimension28":"3","dimension29":"Pensions Tax registration"}" href="/government/publications/pensions-tax-registration">Pensions Tax registration</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/government/statistics/reviews-of-marking-and-moderation-for-gcse-as-and-a-level-summer-2018-exam-series" data-track-options="{"dimension28":"3","dimension29":"Reviews of marking and moderation for GCSE, AS and A level: summer 2018 exam series"}" href="/government/statistics/reviews-of-marking-and-moderation-for-gcse-as-and-a-level-summer-2018-exam-series">Reviews of marking and moderation for GCSE, AS and A level: summer 2018 exam series</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/government/publications/non-domestic-rating-stock-of-properties-by-rv-band-and-rateable-properties-for-england-and-wales-by-country-and-region-on-the-2010-rating-list" data-track-options="{"dimension28":"3","dimension29":"Non-domestic rating: stock of properties by RV band and rateable properties for England and Wales on the 2010 Rating List"}" href="/government/publications/non-domestic-rating-stock-of-properties-by-rv-band-and-rateable-properties-for-england-and-wales-by-country-and-region-on-the-2010-rating-list">Non-domestic rating: stock of properties by RV band and rateable properties for England and Wales on the 2010 Rating List</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -186,9 +237,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a266fb1c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-ef7c241f" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-a266fb1c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-ef7c241f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
