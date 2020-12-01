@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 November 2020
-    <br></br>Last updated 22 November 2020
+    <br></br>Last updated 1 December 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -75,7 +75,20 @@ Keepers with more than 500 birds now need to restrict access for non-essential p
 
 <p>The introduction of the AIPZ follows a number of confirmed cases of avian influenza in the UK.</p>
 
-<p>This has included two separate, unrelated cases in kept poultry and birds confirmed in <a href="https://www.gov.uk/government/news/avian-influenza-bird-flu-identified-at-kent-farm" class="govuk-link">Kent</a> and <a href="https://www.gov.uk/government/news/avian-influenza-bird-flu-identified-at-cheshire-broiler-breeder" class="govuk-link">Cheshire</a> in early November and a third case of H5N8 avian flu in captive birds confirmed at a broiler breeder farm in Herefordshire on 10 November . A very small number of wild birds in England have also been <a href="https://www.gov.uk/government/news/avian-influenza-identified-in-wild-birds-in-south-west-of-england" class="govuk-link">found to have had the disease.</a> On 21 November, a case was confirmed at premises in Leicestershire.</p>
+<p>This includes:</p>
+
+<ul>
+  <li>H5N2 (low pathogenic) avian influenza confirmed at a site in <a href="https://www.gov.uk/government/news/avian-influenza-bird-flu-identified-at-kent-farm" class="govuk-link">Kent</a> on 2 November.</li>
+  <li>H5N8 (highly pathogenic) avian influenza confirmed at a site in <a href="https://www.gov.uk/government/news/avian-influenza-bird-flu-identified-at-cheshire-broiler-breeder" class="govuk-link">Cheshire</a> on 2 November</li>
+  <li>H5N8 (highly pathogenic) avian influenza confirmed at a broiler breeder farm in Herefordshire on 10 November .</li>
+  <li>H5N8 (highly pathogenic) confirmed at a premises in Leicestershire on 21 November.</li>
+  <li>H5N8 (highly pathogenic) influenza confirmed at a premises in <a href="https://www.gov.uk/government/news/h5n8-strain-avian-influenza-confirmed-on-farm-in-north-yorkshire" class="govuk-link">North Yorkshire</a> on 29 November.</li>
+  <li>H5N8 suspected at a second premises in North Yorkshire (tests ongoing).</li>
+</ul>
+
+<p>In each case Defra has acted quickly to cull affected birds and to introduce movement restrictions to limit the risk of the disease spreading.</p>
+
+<p>A very small number of wild birds in England have also been <a href="https://www.gov.uk/government/news/avian-influenza-identified-in-wild-birds-in-south-west-of-england" class="govuk-link">found to have had the disease.</a> On 21 November, a case was confirmed at a premises in Leicestershire.</p>
 
 <p><a href="https://www.gov.uk/guidance/avian-influenza-bird-flu" class="govuk-link">You can read the latest updates on avian influenza outbreaks in England here.</a></p>
 
@@ -160,10 +173,14 @@ Keepers with more than 500 birds now need to restrict access for non-essential p
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 November 2020
-    <br></br>Last updated 22 November 2020
+    <br></br>Last updated 1 December 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-01T19:48:24.000+00:00">1 December 2020</time>
+              <p class="app-c-published-dates__change-note">Added additional suspected case in North Yorkshire (testing underway)</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-22T15:29:21.000+00:00">22 November 2020</time>
               <p class="app-c-published-dates__change-note">Information on a case in Leicestershire was added.</p>
@@ -188,16 +205,41 @@ Keepers with more than 500 birds now need to restrict access for non-essential p
 <div class="gem-c-contextual-sidebar">
     
 
-  <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" href="/transition">
+  <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
       <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
     <p class="gem-c-transition-countdown__countdown">
-      <span class="gem-c-transition-countdown__countdown-number">4</span><span class="gem-c-transition-countdown__countdown-number">0</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">1</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
 </p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
 
 </a>
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-c9e52a01" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-c9e52a01" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/avian-influenza-bird-flu-in-europe" data-track-options="{"dimension28":"5","dimension29":"Avian influenza (bird flu) in Europe, Russia and in the UK"}" href="/government/publications/avian-influenza-bird-flu-in-europe">Avian influenza (bird flu) in Europe, Russia and in the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/avian-influenza-bird-flu" data-track-options="{"dimension28":"5","dimension29":"Avian influenza (bird flu)"}" href="/guidance/avian-influenza-bird-flu">Avian influenza (bird flu)</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/get-your-disinfectant-approved-by-defra" data-track-options="{"dimension28":"5","dimension29":"Get your disinfectant approved by Defra"}" href="/guidance/get-your-disinfectant-approved-by-defra">Get your disinfectant approved by Defra</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/government/publications/avian-influenza-in-wild-birds" data-track-options="{"dimension28":"5","dimension29":"Avian influenza in wild birds"}" href="/government/publications/avian-influenza-in-wild-birds">Avian influenza in wild birds</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/defra-approved-disinfectant-when-and-how-to-use-it" data-track-options="{"dimension28":"5","dimension29":"Defra approved disinfectant: when and how to use it"}" href="/guidance/defra-approved-disinfectant-when-and-how-to-use-it">Defra approved disinfectant: when and how to use it</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -219,9 +261,9 @@ Keepers with more than 500 birds now need to restrict access for non-essential p
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e591cf4e" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-2fc12f92" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-e591cf4e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-2fc12f92" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
