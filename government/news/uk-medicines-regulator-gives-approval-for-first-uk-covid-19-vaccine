@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 2 December 2020
+    <br></br>Last updated 2 December 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -52,7 +54,7 @@
   <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
       <figure class="app-c-figure" lang="en">
-  <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/110054/s300_vaccine_graphic_2_alt__govuk.jpg" alt="Vaccine graphic"></img>
+  <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/110072/s300_vaccine_graphic_2_alt__govuk.jpg" alt="Vaccine graphic"></img>
     <figcaption class="app-c-figure__figcaption">
 
     </figcaption>
@@ -82,6 +84,10 @@ A dedicated team of MHRA scientists and clinicians carried out a rigorous, scien
 
   <p class="last-child">Vaccines are the most effective way to prevent infectious diseases. They save millions of lives worldwide.</p>
 </blockquote>
+
+<p>See <a href="https://www.gov.uk/government/publications/regulatory-approval-of-pfizer-biontech-vaccine-for-covid-19" class="govuk-link">Information for Healthcare Professionals, and Information for UK recipients</a>.</p>
+
+<p><a rel="external" href="https://www.youtube.com/watch?v=3HPpWelo1ro&feature=youtu.be" class="govuk-link">Dr June Raine discusses how COVID-19 vaccines are approved by the MHRA</a></p>
 
 <h3 id="notes-to-editor">Notes to Editor</h3>
 
@@ -172,8 +178,22 @@ A dedicated team of MHRA scientists and clinicians carried out a rigorous, scien
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 2 December 2020
+    <br></br>Last updated 2 December 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-02T14:08:15.000+00:00">2 December 2020</time>
+              <p class="app-c-published-dates__change-note">Added link to page containing Information for Healthcare Professionals, and Information for UK recipients on the vaccine.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-02T10:13:00.000+00:00">2 December 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -196,16 +216,16 @@ A dedicated team of MHRA scientists and clinicians carried out a rigorous, scien
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-413bc2af" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-1ac7356e" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-413bc2af" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1ac7356e" data-module="gem-toggle">
 
-    <h3 id="related-nav-collections-413bc2af" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-1ac7356e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -237,14 +257,15 @@ A dedicated team of MHRA scientists and clinicians carried out a rigorous, scien
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d590b34d" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1dbb8d9e" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d590b34d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-1dbb8d9e" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/coronavirus-taxon/vaccinations" data-track-options="{"dimension28":"1","dimension29":"Vaccinations for coronavirus"}" href="/coronavirus-taxon/vaccinations">Vaccinations for coronavirus</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/health-and-social-care/medicines-medical-devices-blood" data-track-options="{"dimension28":"2","dimension29":"Medicines, medical devices"}" href="/health-and-social-care/medicines-medical-devices-blood">Medicines, medical devices</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/coronavirus-taxon/vaccinations" data-track-options="{"dimension28":"2","dimension29":"Vaccinations for coronavirus"}" href="/coronavirus-taxon/vaccinations">Vaccinations for coronavirus</a></li>
 
   </ul>
 </nav>
