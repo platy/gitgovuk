@@ -36,6 +36,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 28 October 2020
+    <br></br>Last updated 2 December 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -73,12 +75,11 @@
 
       
 <div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+    
+        <div class="govspeak">
 <p>From 2 November 2020 all grant of probate (where there is a will) applications must be made using MyHMCTS - the online service for professionals to issue, pay for and manage applications within civil and family courts and tribunals.</p>
 
 <p>The change follows the Ministry of Justice response to <a href="https://www.gov.uk/government/consultations/non-contentious-probate-mandating-online-professional-applications" class="govuk-link">the Non-contentious probate: mandating online professional applications consultation</a> and a subsequent <a rel="external" href="https://www.legislation.gov.uk/uksi/2020/1059/pdfs/uksi_20201059_en.pdf" class="govuk-link">amendment to the Non-Contentious Probate Rules</a>.</p>
-
-<p>There is a grace period until 30 November 2020 when paper applications will still be accepted to give professional users time to prepare. After this date all applications except the <a rel="external" href="https://www.legislation.gov.uk/uksi/2020/1059/pdfs/uksi_20201059_en.pdf" class="govuk-link">confirmed exceptions</a> must be submitted using the online service.</p>
 
 <h2 id="benefits-of-using-myhmcts">Benefits of using MyHMCTS</h2>
 
@@ -94,7 +95,9 @@
 
 <h2 id="preparing-for-the-move-to-myhmcts">Preparing for the move to MyHMCTS</h2>
 
-<p>Before beginning the registration process for MyHMCTS <a href="https://www.gov.uk/guidance/myhmcts-online-case-management-for-legal-professionals" class="govuk-link">read the guidance</a> and check that your organisation does not have an existing account.</p>
+<p>There was an initial grace period until 30 November 2020 when paper applications would still be accepted to give professional users time to prepare, this has since been extended to 11 January 2021 for users who are experiencing any issues registering for the service. After 11 January 2021 all applications except the confirmed exceptions must be submitted using the online service. Users who have or can register are urged to continue to use the online service in the intervening period.</p>
+
+<p>If you are a new user, before beginning the registration process for MyHMCTS <a href="https://www.gov.uk/guidance/myhmcts-online-case-management-for-legal-professionals" class="govuk-link">read the guidance</a> and check that your organisation does not have an existing account.</p>
 
 <p>If your organisation does not use MyHMCTS, it will need to <a href="https://www.gov.uk/government/publications/form-fee-account-application-form-fee-account-customer-application-form" class="govuk-link">register to process payments</a> using a  HMCTS Fee Account (also known as ‘Payment by Account’) and then <a rel="external" href="https://manage-org.platform.hmcts.net/register-org/register" class="govuk-link">register online</a> for access to MyHMCTS.</p>
 
@@ -107,8 +110,8 @@
 <p>If you require further help or support with an online application, please email <a href="mailto:contactprobate@justice.gov.uk" class="govuk-link">contactprobate@justice.gov.uk</a> or telephone 0300 303 0648.</p>
 
 </div>
-</div>
 
+</div>
     </div>
 
     <div class="dont-print responsive-bottom-margin">
@@ -127,7 +130,7 @@
             </span>          <span class="govuk-visually-hidden">
               Share on
           </span>
-          <span class="visually-hidden">Share on </span>Facebook
+          Facebook
 </a>
         </li>
         <li class="gem-c-share-links__list-item">
@@ -141,15 +144,29 @@
             </span>          <span class="govuk-visually-hidden">
               Share on
           </span>
-          <span class="visually-hidden">Share on </span>Twitter
+          Twitter
 </a>
         </li>
     </ul>
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 28 October 2020
+    <br></br>Last updated 2 December 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-02T09:36:40.000+00:00">2 December 2020</time>
+              <p class="app-c-published-dates__change-note">Grace period extended.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-10-28T15:43:00.000+00:00">28 October 2020</time>
+              <p class="app-c-published-dates__change-note">Added translation</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -158,9 +175,43 @@
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
+    
+
+  <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
+      <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
+    <p class="gem-c-transition-countdown__countdown">
+      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">0</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+</p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
+
+</a>
 
 
     
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-af145d5b" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-af145d5b" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/publications/myhmcts-how-to-apply-for-probate-online" data-track-options="{"dimension28":"5","dimension29":"MyHMCTS: How to apply for probate online"}" href="/government/publications/myhmcts-how-to-apply-for-probate-online">MyHMCTS: How to apply for probate online</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/probate-paper-applications-for-legal-professionals" data-track-options="{"dimension28":"5","dimension29":"Probate paper applications for legal professionals"}" href="/guidance/probate-paper-applications-for-legal-professionals">Probate paper applications for legal professionals</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/submit-an-application-with-myhmcts" data-track-options="{"dimension28":"5","dimension29":"Submit an application with MyHMCTS"}" href="/guidance/submit-an-application-with-myhmcts">Submit an application with MyHMCTS</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/myhmcts-online-case-management-for-legal-professionals" data-track-options="{"dimension28":"5","dimension29":"MyHMCTS: online case management for legal professionals"}" href="/guidance/myhmcts-online-case-management-for-legal-professionals">MyHMCTS: online case management for legal professionals</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/government/publications/apply-for-probate-by-post-if-there-is-not-a-will" data-track-options="{"dimension28":"5","dimension29":"Form PA1A: Apply for probate by post if there is not a will"}" href="/government/publications/apply-for-probate-by-post-if-there-is-not-a-will">Form PA1A: Apply for probate by post if there is not a will</a></li>
+
+  </ul>
+</nav>
+
+  </div>
 
 
 
@@ -182,9 +233,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-68a09bcc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-6c4083ee" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-68a09bcc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-6c4083ee" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
