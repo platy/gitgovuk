@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 November 2020
-    <br></br>Last updated 4 December 2020
+    <br></br>Last updated 5 December 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -107,10 +107,9 @@
   <li>H5N8 (highly pathogenic) avian influenza confirmed at a broiler breeder farm near Leominster in Herefordshire on 10 November .</li>
   <li>H5N8 (highly pathogenic) avian influenza was confirmed at a site near Stroud in Gloucestershire on 19 November.</li>
   <li>H5N8 (highly pathogenic) confirmed at a premises near Melton Mowbray in Leicestershire on 21 November.</li>
-  <li>
-    <p>H5N8 (highly pathogenic) influenza confirmed at two premises near Northallerton, North Yorkshire on <a href="https://www.gov.uk/government/news/h5n8-strain-avian-influenza-confirmed-on-farm-in-north-yorkshire" class="govuk-link">29 November</a> and 1 December.</p>
-  </li>
+  <li>H5N8 (highly pathogenic) influenza confirmed at two premises near Northallerton, North Yorkshire on <a href="https://www.gov.uk/government/news/h5n8-strain-avian-influenza-confirmed-on-farm-in-north-yorkshire" class="govuk-link">29 November</a> and 1 December.</li>
   <li>H5N8 (highly pathogenic) influenza confirmed at a premises near Attleborough, Breckland, Norfolk on 4 December.</li>
+  <li>H5N8 (highly pathogenic) avian influenza confirmed at a premises near King’s Lynn, King’s Lynn and West Norfolk, Norfolk on 5 December.</li>
 </ul>
 
 <p>In each case Defra has acted quickly to cull affected birds and to introduce movement restrictions to limit the risk of the disease spreading.</p>
@@ -172,10 +171,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 November 2020
-    <br></br>Last updated 4 December 2020
+    <br></br>Last updated 5 December 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-05T22:27:01.000+00:00">5 December 2020</time>
+              <p class="app-c-published-dates__change-note">Edited to add new confirmed case of avian influenza in Norfolk</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-04T19:55:37.000+00:00">4 December 2020</time>
               <p class="app-c-published-dates__change-note">H5N8 (highly pathogenic) influenza confirmed at a premises near Attleborough, Breckland, Norfolk on 4 December.</p>
@@ -215,7 +218,7 @@
   <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
       <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
     <p class="gem-c-transition-countdown__countdown">
-      <span class="gem-c-transition-countdown__countdown-number">2</span><span class="gem-c-transition-countdown__countdown-number">8</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+      <span class="gem-c-transition-countdown__countdown-number">2</span><span class="gem-c-transition-countdown__countdown-number">7</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
 </p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
 
 </a>
@@ -224,14 +227,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-2c53685a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-9bcc1bf1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-2c53685a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-9bcc1bf1" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -268,9 +271,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-22c92e33" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d4c79fb1" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-22c92e33" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-d4c79fb1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
