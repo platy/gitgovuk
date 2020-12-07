@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 1 December 2020
+    <br></br>Last updated 7 December 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -75,6 +77,16 @@
 <p>Find out more about <a rel="external" href="https://www.tlevels.gov.uk/employers" class="govuk-link">how T Levels can benefit your business</a>.</p>
 </div>
 
+<h2 id="yeovil-district-hospital-nhs-foundation-trust-ydh">Yeovil District Hospital NHS Foundation Trust (YDH)</h2>
+
+<p>YDH provides acute care for a population of around 180,000 in South Somerset, North and West Dorset, and parts of Mendip. As one of the largest employers in the area, the trust recognised its responsibility to invest in young people and raise awareness of T Level opportunities available in the health and care sector.</p>
+
+<p>Working in partnership with Yeovil College YDH has piloted industry placements with BTEC health and care students, creating placements in maintenance and administration, and with porters and ward clerks. They have also agreed a placement plan for allied health professions and healthcare science.</p>
+
+<p>Some of the students that have undertaken placements are now employed on the trust bank while still attending college. YDH is looking into the possibility of them being able to access substantive positions after completing their studies in transition rather than an application process, in recognition of the student’s contributions to the trust and to support their ongoing learning.</p>
+
+<p>Eight students that were on industry placements also supported the trust during the COVID-19 pandemic. These students contributed by either working on the trust bank or as volunteers in the organisation. This experience has further strengthened their desire to work in the NHS.</p>
+
 <h2 id="royal-albert-memorial-museum">Royal Albert Memorial Museum</h2>
 
 <p>Exeter’s world-class Royal Albert Memorial Museum has stunning displays and galleries, exhibitions and modern amenities, with displays revealing Devon and Exeter’s rich history and global connections.</p>
@@ -88,8 +100,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 1 December 2020
+    <br></br>Last updated 7 December 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-07T14:11:46.000+00:00">7 December 2020</time>
+              <p class="app-c-published-dates__change-note">We have added a further case study from Yeovil District Hospital NHS Foundation Trust (YDH) on how they are piloting industry placements.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-01T15:31:00.000+00:00">1 December 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -103,7 +129,7 @@
   <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
       <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
     <p class="gem-c-transition-countdown__countdown">
-      <span class="gem-c-transition-countdown__countdown-number">3</span><span class="gem-c-transition-countdown__countdown-number">1</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+      <span class="gem-c-transition-countdown__countdown-number">2</span><span class="gem-c-transition-countdown__countdown-number">5</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
 </p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
 
 </a>
@@ -131,9 +157,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7859bd1c" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-a87ddd65" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-7859bd1c" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-a87ddd65" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
