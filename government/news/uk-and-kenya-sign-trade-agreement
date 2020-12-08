@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 December 2020
+    <br></br>Last updated 8 December 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -52,7 +54,7 @@
   <div class="govuk-grid-column-two-thirds content-bottom-margin">
     <div class="responsive-bottom-margin">
       <figure class="app-c-figure" lang="en">
-  <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/default_news_organisation_image_data/file/198/s300_Flight-Path-World-govuk.jpg" alt></img>
+  <img class="app-c-figure__image" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/110563/s300_Kenya_resized.jpg" alt></img>
     <figcaption class="app-c-figure__figcaption">
 
     </figcaption>
@@ -102,7 +104,7 @@
 
 <ul>
   <li>The deal is a translation of the terms previously agreed between the EU and the East African Community (EAC) and includes clauses to allow other East African Community states to join in the future.</li>
-  <li>This agreement is intended to take effect from 1 January 2021 or as soon as possible thereafter.</li>
+  <li>The provisions of the Economic Partnership Agreement will apply from 1 January 2021</li>
   <li>In under two years, the UK government has signed or agreed in principle trade agreements with 55 countries. Total UK trade with these countries was worth £170 billion in 2019.</li>
   <li>This agreement is the sixth we have secured in Africa, covering 14 countries.
 Source of trade statistics: ONS UK total trade: all countries, non-seasonally adjusted April to June 2020; HMRC Overseas Trade in Goods Statistics, September 2020.</li>
@@ -149,8 +151,22 @@ Source of trade statistics: ONS UK total trade: all countries, non-seasonally ad
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 December 2020
+    <br></br>Last updated 8 December 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-08T13:13:59.000+00:00">8 December 2020</time>
+              <p class="app-c-published-dates__change-note">Attached a photo and clarified the second bullet point in the notes to editors.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-08T12:02:00.000+00:00">8 December 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -192,9 +208,9 @@ Source of trade statistics: ONS UK total trade: all countries, non-seasonally ad
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-e8a06722" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-61eb1ac8" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-e8a06722" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-61eb1ac8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -206,9 +222,9 @@ Source of trade statistics: ONS UK total trade: all countries, non-seasonally ad
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-e8a06722" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-61eb1ac8" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-e8a06722" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-61eb1ac8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
