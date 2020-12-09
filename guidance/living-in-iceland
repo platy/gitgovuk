@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 29 April 2016
-    <br></br>Last updated 8 September 2020
+    <br></br>Last updated 8 December 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -57,9 +57,10 @@
 
       <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
       <div class="responsive-bottom-margin">
-          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " role="navigation" data-module="track-click">
-      <h2 class="gem-c-contents-list__title">Contents</h2>
-
+          <nav class="gem-c-contents-list  gem-c-contents-list--no-underline " aria-label="Contents" role="navigation" data-module="track-click">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
           <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#what-you-should-do" data-track-options="{"dimension29":"What you should do"}" href="#what-you-should-do">What you should do</a>
@@ -134,8 +135,14 @@
       </div>
     
       
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+
+      
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+        <div class="govspeak">
 <div class="call-to-action">
 <h2 id="what-you-should-do">What you should do</h2>
 
@@ -179,11 +186,9 @@
 
 <p>You must apply for full registration as your employer may have applied for a system ID (Kerfiskennitala) on your behalf for payment and tax purposes. Be aware that this system ID does not register you as resident in Iceland. The majority of current long term residents will already have full registration.</p>
 
-<p>UK nationals living in Iceland must apply for registration with <a rel="external" href="https://www.skra.is/english/individuals/" class="govuk-link">Registers Iceland</a> before the transition period ends on 31 December 2020, in order to obtain the continuous right to reside in Iceland under the <a href="https://www.gov.uk/government/publications/eea-efta-separation-agreement-and-explainer" class="govuk-link">EEA EFTA Separation Agreement</a>.</p>
+<p>All UK nationals lawfully residing in Iceland at the end of the transition period on 31 December 2020 will be able to stay. If you have not yet registered, or if you are unsure of your status, you should contact <a rel="external" href="https://www.skra.is/english/individuals/" class="govuk-link">Registers Iceland</a>.</p>
 
-<p>You can check your status with <a rel="external" href="https://www.skra.is/english/individuals/" class="govuk-link">Registers Iceland</a>. Read the <a rel="external" href="http://www.utl.is/index.php/en/about-directorate-of-immigration/news/1009-information-for-british-citizens" class="govuk-link">Icelandic Directorate of Immigration’s website</a> for more information.</p>
-
-<p>If there are changes to residency registration processes, we will update this guidance as soon as information is available.</p>
+<p>If you move to Iceland after 31 December 2020, different immigration requirements will apply. Read the Icelandic Directorate of Immigration’s <a rel="external" href="https://utl.is/index.php/en/information-for-british-citizens" class="govuk-link">guidance on residence permits for third country nationals</a>.</p>
 
 <h3 id="uk-nationals-support-fund">UK Nationals Support Fund</h3>
 
@@ -233,9 +238,15 @@
 
 <p>To stay for longer, to work or study, or for business travel, you will need to meet the entry requirements set out by the country to which you are travelling. This could mean applying for a visa or work permit. You may also need to get a visa if your visit would take you over the 90 days in 180 days limit.</p>
 
-<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and the Ireland will not change.</p>
+<p>Periods of stay authorised under a visa or permit will not count against the 90-day limit. Travel to the UK and Ireland will not change.</p>
 
 <p>Different rules will apply to EU countries that are not part of the Schengen Area. Check each country’s <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">travel advice page</a> for information on entry requirements.</p>
+
+<h3 id="travelling-back-to-iceland">Travelling back to Iceland</h3>
+
+<p>From 1 January 2021, the Icelandic Authorities advise that you should <a rel="external" href="https://www.skra.is/english/forms/single-product/?productid=eb2e2f79-1388-11e6-943e-005056851dd2" class="govuk-link">carry a letter from Registers Iceland</a> as well as your passport when you travel. The letter is available in electronic form online, or by appointment, from Registers Iceland for 2700 ISK.</p>
+
+<p>If you cannot show evidence of your status under the Separation Agreement, you may be asked additional questions at the border to enter the Schengen area, and your passport may be stamped. This will not affect your rights in Iceland.</p>
 
 <h3 id="insurance-for-trips-to-iceland">Insurance for trips to Iceland</h3>
 
@@ -243,39 +254,39 @@
 
 <h2 id="healthcare">Healthcare</h2>
 
-<p>Social security coordination is covered by the Separation Agreement for those residing in Iceland. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Iceland before the transition period ends on 31 December 2020, for as long as they remain in scope of the agreement. This includes students and S1 holders.</p>
+<p>Social security coordination is covered by the Separation Agreement for those residing in Iceland. Current healthcare arrangements will continue to apply in full to UK nationals who are resident in Iceland before the transition period ends on 31 December 2020, for as long as they remain in scope of the agreement.</p>
 
 <p>Once you’re resident in Iceland for 6 months, you automatically become a member of the <a rel="external" href="http://www.sjukra.is/english/social-insurance-in-iceland/" class="govuk-link">Iceland social insurance system</a>.</p>
 
-<p>Read the <a href="https://www.gov.uk/guidance/healthcare-in-iceland" class="govuk-link">guidance on who is able to access healthcare in Iceland and how to register</a>.</p>
+<p>Read the <a href="https://www.gov.uk/guidance/healthcare-in-iceland" class="govuk-link">guidance on who is able to access healthcare in Iceland</a> and make sure you are correctly registered.</p>
+
+<p>If your UK employer has sent you to Iceland temporarily, your access to healthcare is different. Find out how to <a href="https://www.gov.uk/guidance/healthcare-in-iceland#posted-worker" class="govuk-link">access healthcare as a posted worker</a>.</p>
 
 <h3 id="state-healthcare-s1">State healthcare: S1</h3>
 
-<p>If you live in Iceland and receive an exportable UK pension, contribution-based Employment Support Allowance or another exportable benefit, you may currently be entitled to state healthcare paid for by the UK. You will need to apply for a certificate of entitlement known as an S1 certificate.</p>
+<p>If you have a registered S1 form and are living in Iceland before the end of 2020, your rights to access healthcare will stay the same from 1 January 2021 if you are either:</p>
 
-<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-iceland#s1" class="govuk-link">guidance on how to get an S1 form</a>.</p>
+<ul>
+  <li>receiving a UK State Pension</li>
+  <li>receiving some other ‘exportable benefits’</li>
+  <li>a frontier worker who lives in Iceland and commutes to work in the UK</li>
+</ul>
+
+<p>Read our <a href="https://www.gov.uk/guidance/healthcare-in-iceland#s1" class="govuk-link">guidance on using an S1 form in Iceland</a> to ensure you are correctly registered for healthcare.</p>
 
 <h3 id="european-health-insurance-card-ehic">European Health Insurance Card (EHIC)</h3>
 
-<p>If you are resident in Iceland, you must not use your EHIC from the UK for healthcare in Iceland.</p>
+<p>If you are resident in Iceland, you must not use your UK-issued EHIC for healthcare in Iceland.</p>
 
-<p>When you travel from Iceland for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an EHIC to access state-provided healthcare in that country. During that short stay: </p>
+<p>When you travel from Iceland for a temporary stay in another European Economic Area (EEA) country or Switzerland, you can use an EHIC to access state healthcare for free or at a reduced cost.</p>
 
-<ul>
-  <li>the EHIC covers treatment that is medically necessary until your planned return home </li>
-  <li>an EHIC is not a replacement for comprehensive travel insurance </li>
-  <li>for more information <a href="https://www.gov.uk/foreign-travel-advice" class="govuk-link">read our travel advice pages</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#brexit-update" class="govuk-link">advice on foreign travel insurance</a>
-</li>
-</ul>
+<p>If you’re a UK student in Iceland or have a registered S1 you may be eligible for a new UK-issued EHIC. This EHIC will remain valid from 1 January 2021. <a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/" class="govuk-link">Apply now for a new UK EHIC.</a></p>
 
-<p>You can also continue to use your EHIC, as you did before, until the transition period ends on 31 December 2020. If you’re travelling to other countries make sure you have comprehensive health insurance.</p>
+<p>An EHIC is not a replacement for comprehensive travel insurance.</p>
 
-<p>You should also read guidance on:</p>
+<p>For more information read our <a href="https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare" class="govuk-link">guidance on healthcare when travelling in Europe</a> and <a href="https://www.gov.uk/guidance/foreign-travel-insurance#travel-eu" class="govuk-link">advice on foreign travel insurance</a>.</p>
 
-<ul>
-  <li><a rel="external" href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/studying-abroad/" class="govuk-link">healthcare and studying abroad</a></li>
-  <li><a href="https://www.gov.uk/government/publications/iceland-list-of-medical-facilitiespractitioners" class="govuk-link">finding English-speaking doctors in Iceland</a></li>
-</ul>
+<p>You should also read guidance on <a href="https://www.gov.uk/government/publications/iceland-list-of-medical-facilitiespractitioners" class="govuk-link">finding English-speaking doctors in Iceland</a></p>
 
 <p>You must <a href="https://www.gov.uk/travelling-controlled-drugs" class="govuk-link">check your prescriptions are legal</a> in Iceland. You can bring personal prescription medicine for 100 days without a customs declaration, although Icelandic customs officials may ask for a formal doctor’s note.</p>
 
@@ -288,6 +299,10 @@
 <p>Some jobs may require a <a rel="external" href="https://www.acro.police.uk/police_certificates.aspx" class="govuk-link">UK criminal records check</a>, known as a Police Certificate check.</p>
 
 <p>If you are resident in Iceland on or before 31 December 2020. Your right to work will stay the same as long as you remain resident in Iceland.</p>
+
+<h3 id="frontier-workers">Frontier workers</h3>
+
+<p>If you live in Iceland and commute to work in an EU or EFTA country, from January 2021 you may need a permit to prove that you are a frontier worker. We will update this guidance when more information is available.</p>
 
 <h2 id="money-and-tax">Money and tax</h2>
 
@@ -313,9 +328,15 @@
 
 <p>If you are employed or self-employed in the EU or EEA and you have a UK-issued A1/E101 form, you will remain subject to UK legislation until the end date on the form.</p>
 
+<h3 id="banking">Banking</h3>
+
+<p>Most people living in Europe should not see any change to their banking after 31 December 2020. Your bank or finance provider should contact you if they need to make any changes to your product or the way they provide it. If you have any concerns about whether you might be affected, contact your provider or seek independent financial advice.</p>
+
+<p>Read the Money and Pension Service <a rel="external" href="https://www.moneyadviceservice.org.uk/en/articles/brexit-banking-insurance-finance" class="govuk-link">guidance on banking, insurance and financial services changes after 31 December 2020</a> for more information on cross-border retail banking.</p>
+
 <h2 id="pensions">Pensions</h2>
 
-<p>You must to tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
+<p>You must tell the UK government offices that deal with your benefits, pension and tax if you are <a href="https://www.gov.uk/moving-or-retiring-abroad" class="govuk-link">moving or retiring abroad</a>.</p>
 
 <p>If you retire in Iceland, you can claim:</p>
 
@@ -332,9 +353,11 @@
 
 <p>If you get a <a href="https://www.gov.uk/state-pension-if-you-retire-abroad/report-a-change-in-your-circumstances" class="govuk-link">‘life certificate’ from the UK Pension Service</a>, you need to respond as soon as possible. Your payments may be suspended if you don’t.</p>
 
-<h3 id="pensions-after-31-january-2020">Pensions after 31 January 2020</h3>
+<h3 id="pensions-after-31-december-2020">Pensions after 31 December 2020</h3>
 
-<p>Social security coordination is covered by the Separation Agreement for those residing in Iceland. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Iceland before the transition period ends on 31 December 2020, for as long as they reside in for as long as they reside in an EEA EFTA state (Iceland, Liechtenstein or Norway). This includes the right to an uprated UK State Pension.</p>
+<p>Social security coordination is covered by the Separation Agreement for those residing in Iceland. Current benefit arrangements will continue to apply in full to UK nationals who are resident in Iceland before the transition period ends on 31 December 2020, for as long as they reside in an EEA EFTA state (Iceland, Liechtenstein or Norway). This includes the right to an uprated UK State Pension.</p>
+
+<p>Read the Money and Pension Service <a rel="external" href="https://www.moneyadviceservice.org.uk/en/articles/brexit-pension-retirement" class="govuk-link">guidance on pension and retirement changes after 31 December 2020</a> for more information on cross-border pensions.</p>
 
 <h2 id="benefits">Benefits</h2>
 
@@ -362,7 +385,7 @@
 
 <h2 id="driving-in-iceland">Driving in Iceland</h2>
 
-<p>Driving licence rules will stay the same until at least 31 December 2020.</p>
+<p>Driving licence rules will stay the same until at least 31 December 2021.</p>
 
 <p>Read the guidance on:</p>
 
@@ -453,16 +476,24 @@
 
 <p>Note that this information is provided as a guide only. Definitive information should be obtained from the Icelandic authorities. The Foreign, Commonwealth & Development Office will not be liable for any inaccuracies in this information.</p>
 </div>
-</div>
 
+</div>
 
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 29 April 2016
-    <br></br>Last updated 8 September 2020
+    <br></br>Last updated 8 December 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-08T11:01:50.000+00:00">8 December 2020</time>
+              <p class="app-c-published-dates__change-note">Entry requirements updated on re-entering Iceland.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-10T12:51:28.000+00:00">10 November 2020</time>
+              <p class="app-c-published-dates__change-note">Healthcare section updated on how to apply for a new UK EHIC as a student or S1 holder. Working section updated with information on frontier workers.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-09-08T09:34:49.000+01:00">8 September 2020</time>
               <p class="app-c-published-dates__change-note">Passports and travel section updated to include information on passport validity and entry requirements when travelling to other European countries from January 2021</p>
@@ -549,14 +580,18 @@
         </div>
       </div>
   </div>
+    
+<div class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
   </div>
   
 <div class="govuk-grid-column-one-third">
   
 <div class="gem-c-contextual-sidebar">
-    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click">
-  <h2 class="gem-c-contextual-sidebar__brexit-heading">Transition period</h2>
-  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Find out what it means for you"}">Find out what it means for you</a>
+    <div class="gem-c-contextual-sidebar__brexit-cta govuk-!-margin-bottom-6" data-module="track-click" lang="en">
+  <h2 class="gem-c-contextual-sidebar__brexit-heading">Brexit transition</h2>
+  <a href="/transition" class="govuk-link" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-options="{"dimension29":"Check you’re ready for 2021"}">Check you’re ready for 2021</a>
 </div>
 
 
@@ -564,48 +599,60 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-35317edc" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-57175aca" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-35317edc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-57175aca" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
 
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-norway" data-track-options="{"dimension28":"5","dimension29":"Living in Norway"}" href="/guidance/living-in-norway">Living in Norway</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-lithuania" data-track-options="{"dimension28":"5","dimension29":"Living in Lithuania"}" href="/guidance/living-in-lithuania">Living in Lithuania</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"5","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-denmark" data-track-options="{"dimension28":"5","dimension29":"Living in Denmark"}" href="/guidance/living-in-denmark">Living in Denmark</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-finland" data-track-options="{"dimension28":"5","dimension29":"Living in Finland"}" href="/guidance/living-in-finland">Living in Finland</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/guidance/living-in-luxembourg" data-track-options="{"dimension28":"7","dimension29":"Living in Luxembourg"}" href="/guidance/living-in-luxembourg">Living in Luxembourg</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/guidance/living-in-slovakia" data-track-options="{"dimension28":"7","dimension29":"Living in Slovakia"}" href="/guidance/living-in-slovakia">Living in Slovakia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/guidance/living-in-slovenia" data-track-options="{"dimension28":"7","dimension29":"Living in Slovenia"}" href="/guidance/living-in-slovenia">Living in Slovenia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/guidance/living-in-estonia" data-track-options="{"dimension28":"7","dimension29":"Living in Estonia"}" href="/guidance/living-in-estonia">Living in Estonia</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/guidance/living-in-croatia" data-track-options="{"dimension28":"7","dimension29":"Living in Croatia"}" href="/guidance/living-in-croatia">Living in Croatia</a></li>
+
+      <li class="gem-c-related-navigation__link toggle-wrap">
+        <a href="#" class="gem-c-related-navigation__toggle" data-controls="toggle_related_items" data-expanded="false" data-toggled-text="Show fewer">
+          + 2 more
+        </a>
+      </li>
+
+      <li class="gem-c-related-navigation__link gem-c-related-navigation__link--truncated-links">
+        <span id="toggle_related_items" class="gem-c-related-navigation__toggle-more js-hidden">
+          <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.6 Related content" data-track-label="/visit-europe-1-january-2021" data-track-options="{"dimension28":"7","dimension29":"Visit Europe from 1 January 2021"}" href="/visit-europe-1-january-2021">Visit Europe from 1 January 2021</a> and <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.7 Related content" data-track-label="/foreign-travel-advice/iceland" data-track-options="{"dimension28":"7","dimension29":"Iceland travel advice"}" href="/foreign-travel-advice/iceland">Iceland travel advice</a>
+        </span>
+      </li>
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-57175aca" data-module="gem-toggle">
+
+    <h3 id="related-nav-related_guides-57175aca" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-iceland" data-track-options="{"dimension28":"3","dimension29":"Iceland: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-iceland">Iceland: notarial and documentary services</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/living-in-europe" data-track-options="{"dimension28":"3","dimension29":"Living in Europe"}" href="/guidance/living-in-europe">Living in Europe</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.3 Detailed guidance" data-track-label="/guidance/healthcare-in-iceland" data-track-options="{"dimension28":"3","dimension29":"Healthcare for UK nationals living in Iceland"}" href="/guidance/healthcare-in-iceland">Healthcare for UK nationals living in Iceland</a></li>
 
   </ul>
 </nav>
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_guides-35317edc" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-57175aca" data-module="gem-toggle">
 
-    <h3 id="related-nav-related_guides-35317edc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Detailed guidance</h3>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Detailed guidance" data-track-label="/guidance/notarial-and-documentary-services-guide-for-iceland" data-track-options="{"dimension28":"2","dimension29":"Iceland: notarial and documentary services"}" href="/guidance/notarial-and-documentary-services-guide-for-iceland">Iceland: notarial and documentary services</a></li>
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Detailed guidance" data-track-label="/guidance/healthcare-in-iceland" data-track-options="{"dimension28":"2","dimension29":"Healthcare for UK nationals living in Iceland"}" href="/guidance/healthcare-in-iceland">Healthcare for UK nationals living in Iceland</a></li>
-
-  </ul>
-</nav>
-
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-35317edc" data-module="gem-toggle">
-
-    <h3 id="related-nav-collections-35317edc" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+    <h3 id="related-nav-collections-57175aca" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -637,9 +684,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8e157155" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-c0f920a1" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8e157155" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-c0f920a1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
