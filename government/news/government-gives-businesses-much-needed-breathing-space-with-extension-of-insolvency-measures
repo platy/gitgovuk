@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 24 September 2020
-    <br></br>Last updated 7 December 2020
+    <br></br>Last updated 9 December 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -66,6 +66,8 @@
         <div class="govspeak">
 <div class="call-to-action">
 <h2 id="update-december-2020">Update December 2020</h2>
+
+<p>On 9 December 2020 the government announced it intends to reinstate the temporary suspension of the use of statutory demands and winding-up petitions until 31 March 2021.</p>
 
 <p>On 25 November 2020 the government announced it intends to reinstate the temporary removal of the threat of personal liability for wrongful trading from directors until 30 April 2021.</p>
 
@@ -143,10 +145,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 24 September 2020
-    <br></br>Last updated 7 December 2020
+    <br></br>Last updated 9 December 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-09T12:37:35.000+00:00">9 December 2020</time>
+              <p class="app-c-published-dates__change-note">Government will reinstate the temporary suspension of the use of statutory demands and winding-up petitions until 31 March 2021.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-07T16:25:47.000+00:00">7 December 2020</time>
               <p class="app-c-published-dates__change-note">Updated with 25 November announcement that government will reinstate the temporary removal of the threat of personal liability for wrongful trading from directors until 30 April 2021, and that companies obliged to hold AGMs will still have flexibility to hold them virtually until 31 March 2020.</p>
@@ -174,7 +180,7 @@
   <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
       <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
     <p class="gem-c-transition-countdown__countdown">
-      <span class="gem-c-transition-countdown__countdown-number">2</span><span class="gem-c-transition-countdown__countdown-number">5</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+      <span class="gem-c-transition-countdown__countdown-number">2</span><span class="gem-c-transition-countdown__countdown-number">3</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
 </p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
 
 </a>
@@ -183,14 +189,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-ea66c0d8" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-908a3fe6" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-ea66c0d8" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-908a3fe6" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -227,9 +233,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-0177035f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-67d12daa" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-0177035f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-67d12daa" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
