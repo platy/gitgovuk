@@ -12,7 +12,7 @@
   
   <div class="govuk-grid-column-two-thirds">
     
-  <p class="gem-c-lead-paragraph">Find out more about events to accompany the launch of the Government Data Quality Framework</p>
+  <p class="gem-c-lead-paragraph">Find out more about our events to accompany the launch of the Government Data Quality Framework</p>
 
   </div>
 </div>
@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 7 December 2020
+    <br></br>Last updated 10 December 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -74,9 +76,13 @@
 
 <h2 id="carrying-on-the-conversation">Carrying on the conversation</h2>
 
-<p>We know that the framework contains a lot of useful information, and that there’s too much to cover in just one hour. So we’re holding a second event on Tuesday 8 December at 3pm to explore some of the themes in more depth. We will hear from colleagues across the public sector on how they have assessed, improved and communicated data quality. We will then open the floor for a round table discussion about data quality in government.</p>
+<p>We know that the framework contains a lot of useful information, and that there’s too much to cover in just one hour. So we’re holding a second event on 13 January 2021 at 3pm to explore some of the themes in more depth. We will hear from colleagues across the public sector on how they have assessed, improved and communicated data quality. We will then open the floor for a round table discussion about data quality in government.</p>
 
-<p>Everyone is welcome. Please <a rel="external" href="https://www.eventbrite.co.uk/e/lets-talk-about-data-quality-tickets-130599423391?" class="govuk-link">register via Eventbrite</a> to join us, and pass this invitation on to colleagues who might also be interested. If you’re not able to join us at the event, you can share your thoughts on data quality with us by completing <a rel="external" href="https://www.surveymonkey.co.uk/r/DQhub" class="govuk-link">our survey</a> by 17 December.</p>
+<p>Everyone is welcome. Please <a rel="external" href="https://www.eventbrite.co.uk/e/lets-talk-about-data-quality-tickets-132302926615" class="govuk-link">register via Eventbrite</a> to join us, and pass this invitation on to colleagues who might also be interested.</p>
+
+<div class="call-to-action">
+<p>You can also share your thoughts on data quality with us by completing <a rel="external" href="https://www.surveymonkey.co.uk/r/DQhub" class="govuk-link">our survey</a> by 17 December.</p>
+</div>
 
 <h2 id="help-us-support-you">Help us support you</h2>
 
@@ -123,8 +129,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 7 December 2020
+    <br></br>Last updated 10 December 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-10T08:04:46.000+00:00">10 December 2020</time>
+              <p class="app-c-published-dates__change-note">Added date of second event and included link to register for this.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-07T13:48:00.000+00:00">7 December 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -138,7 +158,7 @@
   <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
       <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
     <p class="gem-c-transition-countdown__countdown">
-      <span class="gem-c-transition-countdown__countdown-number">2</span><span class="gem-c-transition-countdown__countdown-number">5</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+      <span class="gem-c-transition-countdown__countdown-number">2</span><span class="gem-c-transition-countdown__countdown-number">2</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
 </p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
 
 </a>
