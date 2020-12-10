@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 10 December 2020
+    <br></br>Last updated 10 December 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -118,6 +120,14 @@
   <p class="last-child">Supporting our natural environment is one of the most valuable things we can do right now. All these projects are of huge benefit to our beautiful countryside and wildlife, but will also support jobs, health and wellbeing, which are vitally important as we begin to emerge from the COVID-19 crisis.</p>
 </blockquote>
 
+<p>Exchequer Secretary, Kemi Badenoch, said:</p>
+
+<blockquote>
+  <p>This investment will support growth right across England, creating and supporting thousands of new jobs and helping people develop valuable new skills.</p>
+
+  <p class="last-child">The Green Recovery Challenge Fund is a vital part of our efforts to support decarbonisation and restore biodiversity, as part of our transition to a green economy.</p>
+</blockquote>
+
 <p>21 projects will receive the larger grants (over £250k - £5m) and 47 projects awarded funding for the smaller grants (£50 - £250k).</p>
 
 <p>The fund will also drive progress on the government’s wider <a rel="external" href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2F25-year-environment-plan&data=04%7C01%7CCaitlin.Mullally%40defra.gov.uk%7C1bae6231b36b4d5c2cdc08d89c3037ad%7C770a245002274c6290c74e38537f1102%7C1%7C0%7C637431078211673710%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=nNqWp8TuseDymhASg1%2FkI9GfY6q1X%2BxSh%2FNyxo2FpxM%3D&reserved=0" class="govuk-link">25 Year Environment Plan commitments</a>, including plans to increase tree-planting across the UK to 30,000 hectares per year by 2025. This is alongside the forthcoming <a rel="external" href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fenvironment-bill-2020&data=04%7C01%7CCaitlin.Mullally%40defra.gov.uk%7C1bae6231b36b4d5c2cdc08d89c3037ad%7C770a245002274c6290c74e38537f1102%7C1%7C0%7C637431078211673710%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=4ffUmAbLt9X%2BznOMhYppD6QFXRS6CdKel%2Blq6H0kZHg%3D&reserved=0" class="govuk-link">Environment Bill</a> which puts the environment at the centre of policy making to ensure that we have a cleaner, greener and more resilient country for the next generation.</p>
@@ -164,8 +174,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 10 December 2020
+    <br></br>Last updated 10 December 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-10T11:12:22.000+00:00">10 December 2020</time>
+              <p class="app-c-published-dates__change-note">HMT quote added.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-10T00:15:00.000+00:00">10 December 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
