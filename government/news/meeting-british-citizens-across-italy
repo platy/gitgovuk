@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 November 2018
-    <br></br>Last updated 30 November 2020
+    <br></br>Last updated 10 December 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -71,7 +71,7 @@
 <h2 id="outreach">Upcoming British citizens outreach meetings</h2>
 
 <ul>
-  <li>3 December 2020 - Registration roadshow for UK nationals living in Milan and Lombardy, 09:30 to 14:00. <a rel="external" href="https://www.facebook.com/104011189669784/posts/4779497328787790/" class="govuk-link">Click here to book your one-to-one online session</a>.</li>
+  <li>14 December 2020 - Registration roadshow for UK nationals living in Palermo and Sicily, 9:30am to 2:00pm. <a rel="external" href="https://www.facebook.com/104011189669784/posts/4821800457890810/" class="govuk-link">Book your one-to-one online session here</a>.</li>
 </ul>
 
 <div class="call-to-action">
@@ -97,6 +97,9 @@
 <h3 id="previous-british-citizens-outreach-meetings-across-italy">Previous British citizens outreach meetings across Italy</h3>
 
 <ul>
+  <li>
+    <p>3 December 2020 - Registration roadshow for UK nationals living in Milan and Lombardy</p>
+  </li>
   <li>
     <p>24 November 2020 - Registration roadshow for UK nationals living in Venice and Veneto</p>
   </li>
@@ -373,10 +376,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 November 2018
-    <br></br>Last updated 30 November 2020
+    <br></br>Last updated 10 December 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-10T08:59:06.000+00:00">10 December 2020</time>
+              <p class="app-c-published-dates__change-note">Added a new outreach event: Registration Roadshow sessions for Palermo and Sicily</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-11-30T15:47:40.000+00:00">30 November 2020</time>
               <p class="app-c-published-dates__change-note">Added a new outreach event: Registration roadshow for UK nationals in Milan and the Lombardy region</p>
@@ -625,14 +632,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-9e404d93" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-36cb675f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-9e404d93" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-36cb675f" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -669,9 +676,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-d436dedb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-77a470d7" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-d436dedb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-77a470d7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -686,9 +693,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-d436dedb" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-77a470d7" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-d436dedb" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-77a470d7" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
