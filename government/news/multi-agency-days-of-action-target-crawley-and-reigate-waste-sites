@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 December 2020
+    <br></br>Last updated 11 December 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -67,7 +69,7 @@
         <div class="govspeak">
 <p>Waste sites, including 4 illegal waste sites, around Crawley and Reigate received surprise early morning visits last Friday (4 December) and Monday (7 December).</p>
 
-<p>Officers from the Environment Agency, Reigate and Banstead, and Tandridge district councils and Crawley Borough Council, British Transport Police and Openreach joined forces to work together on the raids.</p>
+<p>Officers from the Environment Agency, Reigate and Banstead, and Tandridge district councils and Crawley Borough Council, British Transport Police and Openreach joined forces to work together on the inspections.</p>
 
 <p>These visits are part of a series of multi-agency days of action targeting poor performing businesses focusing on metal theft, including cables and catalytic converters.</p>
 
@@ -130,8 +132,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 December 2020
+    <br></br>Last updated 11 December 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-11T15:29:12.000+00:00">11 December 2020</time>
+              <p class="app-c-published-dates__change-note">Text change - 'raid' replaced with 'inspection'</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-11T11:48:00.000+00:00">11 December 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -173,9 +189,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7539a785" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-90c00ca1" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-7539a785" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-90c00ca1" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
