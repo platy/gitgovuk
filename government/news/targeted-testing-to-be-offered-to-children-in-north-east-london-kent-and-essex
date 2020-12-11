@@ -23,6 +23,8 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 December 2020
+    <br></br>Last updated 11 December 2020
+      — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
       <div class="app-c-publisher-metadata__other">
@@ -110,7 +112,7 @@
 
 <p>An additional 44,000 home test kits will be made available for school staff including teachers to test before returning in January.</p>
 
-<p>An additional 15 <abbr title="Mobile testing units">MTUs</abbr> will be deployed in or near schools for staff, students and their families to be tested, providing approximately 75,000 additional tests over and above existing test sites in the capital.</p>
+<p>Additional <abbr title="Mobile testing units">MTUs</abbr> will be deployed in or near schools for staff, students and their families to be tested, providing tests over and above existing test sites in the capital.</p>
 
 <p>London boroughs receiving additional testing are:</p>
 
@@ -187,8 +189,22 @@
 </div>
     </div>
 
-    <div class="app-c-published-dates " lang="en">
+    <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 December 2020
+    <br></br>Last updated 11 December 2020
+      <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-11T17:14:01.000+00:00">11 December 2020</time>
+              <p class="app-c-published-dates__change-note">Updated information on number of mobile testing units to be deployed in or near schools for staff, students and their families.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-11T12:18:00.000+00:00">11 December 2020</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
 </div>
 
   </div>
@@ -230,9 +246,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-caefd75f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7cb3ab81" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-caefd75f" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-7cb3ab81" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
