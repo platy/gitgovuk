@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 8 November 2018
-    <br></br>Last updated 11 December 2020
+    <br></br>Last updated 14 December 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -73,6 +73,9 @@
 <ul>
   <li>
     <p>14 December 2020 - Registration roadshow for UK nationals living in Palermo and Sicily, 9:30am to 2:00pm. <a rel="external" href="https://www.facebook.com/104011189669784/posts/4821800457890810/" class="govuk-link">Book your one-to-one online session here</a>.</p>
+  </li>
+  <li>
+    <p>17 December 2020 - Registration roadshow for UK nationals living in Molise and Abruzzo, 9:30am to 2:00pm. <a rel="external" href="https://www.facebook.com/104011189669784/posts/4840037682733754/" class="govuk-link">Book your one-to-one online session here</a>.</p>
   </li>
   <li>
     <p>21 December 2020 - Live <a rel="external" href="https://www.facebook.com/ukinitaly" class="govuk-link">Facebook Q & A session on Residency Registration & Healthcare in Italy</a>, 4:00pm to 5:30pm.</p>
@@ -381,10 +384,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 8 November 2018
-    <br></br>Last updated 11 December 2020
+    <br></br>Last updated 14 December 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-14T16:03:47.000+00:00">14 December 2020</time>
+              <p class="app-c-published-dates__change-note">Added a new outreach event: Registration Roadshow for UK nationals in Molise and Abruzzo</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-11T13:56:27.000+00:00">11 December 2020</time>
               <p class="app-c-published-dates__change-note">Added a new outreach event: FB live Q&A session on 21 December</p>
@@ -641,14 +648,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-dd7485f7" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-b6939379" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-dd7485f7" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-b6939379" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -685,9 +692,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-8adfeeb0" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1efb676d" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-8adfeeb0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-1efb676d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
@@ -702,9 +709,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-8adfeeb0" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-world_locations-1efb676d" data-module="gem-toggle">
 
-    <h2 id="related-nav-world_locations-8adfeeb0" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
+    <h2 id="related-nav-world_locations-1efb676d" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">World locations</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
