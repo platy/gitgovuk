@@ -23,7 +23,7 @@
         <div class="app-c-publisher-metadata" lang="en">
     <div class="app-c-published-dates " lang="en">
     Published 11 November 2020
-    <br></br>Last updated 13 December 2020
+    <br></br>Last updated 15 December 2020
       — <a href="#history" class="app-c-published-dates__history-link govuk-link">see all updates</a>
 </div>
 
@@ -111,6 +111,7 @@
   <li>H5N8 (highly pathogenic) influenza confirmed at a premises near Attleborough, Breckland, Norfolk on 4 December.</li>
   <li>H5N8 (highly pathogenic) avian influenza confirmed at a premises near King’s Lynn, King’s Lynn and West Norfolk, Norfolk on 5 December.</li>
   <li>H5N8 (highly pathogenic) avian influenza confirmed at a wild bird rescue centre near Droitwich Spa, Wychavon, Worcestershire on 13 December.</li>
+  <li>H5N8 (highly pathogenic) avian influenza confirmed at a premises near Near Willington, South Derbyshire, Derbyshire on 15 December.</li>
 </ul>
 
 <p>In each case Defra has acted quickly to cull affected birds and to introduce movement restrictions to limit the risk of the disease spreading.</p>
@@ -172,10 +173,14 @@
 
     <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle" lang="en">
     Published 11 November 2020
-    <br></br>Last updated 13 December 2020
+    <br></br>Last updated 15 December 2020
       <a href="#full-history" class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-15T13:06:46.000+00:00">15 December 2020</time>
+              <p class="app-c-published-dates__change-note">Updated confirmed cases of avian influenza in the UK.</p>
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2020-12-13T16:56:40.000+00:00">13 December 2020</time>
               <p class="app-c-published-dates__change-note">Updated to confirm new confirmed case of avian influenza in Worcestershire.</p>
@@ -223,7 +228,7 @@
   <a class="gem-c-transition-countdown gem-c-transition-countdown--cta govuk-link" data-module="track-click" data-track-category="relatedLinkClicked" data-track-action="1.0 Transition" data-track-label="/transition" data-track-dimension="Check you’re ready for 2021" data-track-dimension-index="29" lang="en" dir="ltr" href="/transition">
       <h2 class="gem-c-transition-countdown__title">Brexit transition</h2>
     <p class="gem-c-transition-countdown__countdown">
-      <span class="gem-c-transition-countdown__countdown-number">1</span><span class="gem-c-transition-countdown__countdown-number">9</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
+      <span class="gem-c-transition-countdown__countdown-number">1</span><span class="gem-c-transition-countdown__countdown-number">7</span> <span class="gem-c-transition-countdown__countdown-text">days to go</span>
 </p>  <p class="gem-c-transition-countdown__text">Check you’re ready for 2021</p>
 
 </a>
@@ -232,14 +237,14 @@
     
   <div class="gem-c-related-navigation">
 
-      <h2 id="related-nav-related_items-e32f369f" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+      <h2 id="related-nav-related_items-863744f1" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
         Related content
       </h2>
 
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-e32f369f" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-863744f1" data-module="gem-toggle">
 
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
@@ -276,9 +281,9 @@
 
 
 
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-7906068a" data-module="gem-toggle">
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-59de55c3" data-module="gem-toggle">
 
-    <h2 id="related-nav-topics-7906068a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+    <h2 id="related-nav-topics-59de55c3" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
 
   <ul class="gem-c-related-navigation__link-list" data-module="track-click">
 
