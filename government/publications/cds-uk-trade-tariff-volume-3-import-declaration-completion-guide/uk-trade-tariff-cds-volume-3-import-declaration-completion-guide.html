@@ -1,0 +1,354 @@
+<main class="html-publication" lang="en" role="main">
+      
+
+  <div class="publication-external">
+    <ul class="organisation-logos">
+        <li class="organisation-logos__logo">
+          
+<div class="gem-c-organisation-logo brand--hm-revenue-customs">
+    <a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--hmrc brand__border-color" href="/government/organisations/hm-revenue-customs">
+      <span class="gem-c-organisation-logo__name">HM Revenue<br>&amp; Customs</span>
+</a>
+</div>
+        </li>
+    </ul>
+  </div>
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--padding-top ">
+    
+  
+
+<div class="gem-c-title gem-c-title--inverse govuk-!-margin-top-8 govuk-!-margin-bottom-0">
+      <span class="govuk-caption-xl gem-c-title__context">
+    Guidance
+  </span>
+
+
+  <h1 class="gem-c-title__text govuk-heading-xl">
+    UK Trade Tariff, CDS Volume 3, Import Declaration Completion Guide
+  </h1>
+</div>
+  <p class="publication-header__last-changed">Updated 10 March 2022</p>
+
+  </header>
+
+
+
+<div class="govuk-grid-row sidebar-with-body" data-module="sticky-element-container">
+
+  <div class="print-wrapper">
+    <div class="print-meta-data">
+      <p>
+  <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png">
+</p>
+<p>
+  © Crown copyright 2022
+</p>
+<p>
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3">nationalarchives.gov.uk/doc/open-government-licence/version/3</a> or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <a href="mailto:psi@nationalarchives.gov.uk">psi@nationalarchives.gov.uk</a>.
+</p>
+<p>
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+</p>
+<p>
+  This publication is available at https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide/uk-trade-tariff-cds-volume-3-import-declaration-completion-guide
+</p>
+
+
+    </div>
+  </div>
+
+  <div class="main-content-container offset-empty-contents-list">
+    <div class="gem-c-govspeak-html-publication">
+  
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+    
+      <div class="govspeak">
+<h2>General Notes on Reading Data Element Completion Rules:</h2>
+
+<p>This Data Element Completion Guide relates to Customs Declaration Service (<abbr title="Customs Declaration Service">CDS</abbr>) written import customs declarations only.</p>
+
+<p>It does not cover completion instructions for export customs declarations or Customs Clearance Requests ((<abbr title="Customs Clearance Requests">CCR</abbr>) inventory releases previously referred to as C21s).</p>
+
+<p>For data element completion guidance for exports and <abbr title="Customs Clearance Requests">CCRs</abbr>, please refer to the appropriate <a class="govuk-link" href="https://www.gov.uk/government/collections/uk-trade-tariff-volume-3-for-cds--2">Declaration Completion Guide</a>.</p>
+
+<h3>Data element overview table</h3>
+
+<p>The table shown, at the start of each data item, identifies in column:</p>
+
+<ol>
+  <li>Which types of declaration require the completion of the data element (Declaration Categories)</li>
+  <li>The number and type of characters allowed in the field (Field format)</li>
+  <li>The number of times the data element may be used at header level (Number of occurrences at header level)</li>
+  <li>The number of times the data element may be used at item level (Number of occurrences at item level)</li>
+</ol>
+
+<p>For example:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Declaration Categories</th>
+      <th scope="col">Field format</th>
+      <th scope="col">No. of occurrences at header level</th>
+      <th scope="col">No. of occurrences at item level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>H1, H2, H3, H4, H5, H7, I1 C&amp;F and I1 B&amp;E</td>
+      <td>a2</td>
+      <td>1x</td>
+      <td>99x</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Declaration Categories:</h3>
+
+<p>The data element completion rules provided in this document indicate for which types (categories) of declarations the data element is required. For example, Data Element (<abbr title="Data Element">DE</abbr>) <abbr title="Data Element">DE</abbr> 1/1 needs to be completed for categories: H1, H2, H3, H4, H5, H7, I1 C&amp;F and I1 B&amp;E.</p>
+
+<p>The table below explains which categories of import customs declarations these are, for example I1: Import Simplified Declaration</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Declaration Categories</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>H1</td>
+      <td>Declaration for release for free circulation and special procedure: specific use (end use)</td>
+    </tr>
+    <tr>
+      <td>H2</td>
+      <td>Special procedure: storage (customs warehousing)</td>
+    </tr>
+    <tr>
+      <td>H3</td>
+      <td>Special procedure: specific use (temporary admission)</td>
+    </tr>
+    <tr>
+      <td>H4</td>
+      <td>Special procedure: processing (inward processing)</td>
+    </tr>
+    <tr>
+      <td>H5</td>
+      <td>Declaration for the introduction of goods in the context of trade with Special Fiscal Territories or Territories with which the EU has formed a Customs Union</td>
+    </tr>
+    <tr>
+      <td>H7</td>
+      <td>Customs declaration for release for free circulation in respect of a consignment which benefits from a relief from import duty in accordance with Article 23(1) or Article 25(1) of Regulation (EC) No 1186/2009</td>
+    </tr>
+    <tr>
+      <td>I1 C&amp;F</td>
+      <td>Import simplified declaration with regular use (<abbr title="Data Element">DE</abbr> 1/2 codes C&amp;F)</td>
+    </tr>
+    <tr>
+      <td>I1 B&amp;E</td>
+      <td>Import simplified declaration on an occasional basis (<abbr title="Data Element">DE</abbr> 1/2 codes B&amp;E)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>For correlation purposes:</p>
+
+<ul>
+  <li>Full customs declarations are referred to under the Union Customs Code as standard customs declarations</li>
+  <li>H7 is referred to as the Super Reduced Data Set (<abbr title="Super Reduced Data Set">SRDS</abbr>)</li>
+</ul>
+
+<p>Declaration categories H1, H3, H4 and H5 will be used for the Supplementary Declaration data sets.</p>
+
+<p><a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-21-import-declaration-category-data-sets/appendix-21-introduction-to-declaration-category-data-sets">Appendix 21: Declaration Category Data Sets</a> provides a detailed breakdown of the specific data elements needed for each declaration category.</p>
+
+<p>There is a separate table in <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-21-import-declaration-category-data-sets/appendix-21-introduction-to-declaration-category-data-sets">Appendix 21</a> for each declaration category type, for example H1 data set.</p>
+
+<p>These tables also provide a cross reference from the new data element number to the previous <abbr title="Single Administrative Document">SADH</abbr> box reference number for correlation purposes.</p>
+
+<p>The data set tables in <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-21-import-declaration-category-data-sets/appendix-21-introduction-to-declaration-category-data-sets">Appendix 21</a> also state whether the data element is mandatory in all cases, optional for the declarant or dependant on the circumstances being declared.</p>
+
+<h3>Field Format</h3>
+
+<p>The column showing field format in the table at the start of each data element indicates the requirements for the character type and length. The codes for the character types are as follows:</p>
+
+<ul>
+  <li>a: alphabetic</li>
+  <li>n: numeric</li>
+  <li>an: alphanumeric</li>
+</ul>
+
+<p>The number following the code indicates the admissible data length.</p>
+
+<p>The following further rules apply:</p>
+
+<ul>
+  <li>If there are no dots between the character type indicator and the length of the field indicator, then the data element has a fixed length and the full number of characters must be completed. For example: a2 indicates that 2 alpha characters must be used.</li>
+  <li>Where there are two dots before the length indicator, this mean that the data has no fixed length, but it can have up to a maximum number of digits, as specified by the length indicator. For example: an..4 indicates that a up to a maximum of 4 alpha numeric characters may be used.</li>
+  <li>A comma in the field length means that the data element can include decimals. The digit before the comma indicates the maximum length of the data element. The digit after the comma indicates the maximum number of digits that may be used after the decimal point.<br>
+For example, n..16,2 means:
+    <ul>
+      <li>The maximum field length is 16 digits</li>
+      <li>A maximum of two decimal places may be used</li>
+      <li>If both decimal places are used, a maximum of 14 digits may be declared prior to the decimal place.</li>
+      <li>If only 1 decimal place is used, a maximum of 15 digits may be declared prior to the decimal place.</li>
+      <li>If no decimal places are used, the full 16 digits may be used to indicate the whole number</li>
+      <li>You cannot declare 16 digits plus 2 decimal places</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Examples of field lengths and formats:</p>
+
+<ul>
+  <li>a1: 1 alphabetic character, fixed length</li>
+  <li>n2: 2 numeric characters, fixed length</li>
+  <li>an3: 3 alphanumeric characters, fixed length</li>
+  <li>a..4: up to 4 alphabetic characters</li>
+  <li>n..5: up to 5 numeric characters</li>
+  <li>an..6: up to 6 alphanumeric characters</li>
+  <li>n..7,2: up to 7 numeric characters in total including maximum 2 decimal.</li>
+</ul>
+
+<p>Please Note:</p>
+
+<p>Where the field specifies:</p>
+
+<ul>
+  <li>Alpha character only, it must be completed in upper case. For example “Field Length a2” to be completed in capitals e.g., GB.</li>
+  <li>Alphanumeric fixed length code, it must be completed in upper case. For example “Field Length an5” to be completed in capitals e.g., GEN45.</li>
+  <li>Alpha numeric free text fields, these may be completed in upper or lower case</li>
+</ul>
+
+<h3>Data Groups:</h3>
+
+<p>Within the Union Customs Code (EU Reg. No 952/2013 (<abbr title="Union Customs Code">UCC</abbr>)) the declaration data elements are grouped into sections:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Group</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a class="govuk-link" href="https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide/group-1-message-information-including-procedure-codes">Message Information (including Procedure Codes)</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a class="govuk-link" href="https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide/group-2-references-of-messages-document-certificates-and-authorisations">References of Messages, Document, Certificates and Authorisations</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><a class="govuk-link" href="https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide/group-3-parties">Parties</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><a class="govuk-link" href="https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide/group-4-valuation-information-and-taxes">Valuation Information and Taxes</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td><a class="govuk-link" href="https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide/group-5-dates-times-periods-places-countries-and-regions">Dates, Times, Periods, Places, Countries and Regions</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td><a class="govuk-link" href="https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide/group-6-goods-identification">Goods Identification</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td><a class="govuk-link" href="https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide/group-7-transport-information-modes-means-and-equipment">Transport Information (Modes, Means and Equipment)</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td><a class="govuk-link" href="https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide/group-8-other-data-elements-statistical-data-guarantees-and-tariff-related-data">Other Data Elements (Statistical Data, Guarantees and Tariff Related Data)</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Each data element will begin with the number of the Data Group it belongs to, for example, Importer Identification Number, which is included under ‘Data Group 3: Parties’ begins with number 3. Its data element number is <abbr title="Data Element">DE</abbr> 3/16.</p>
+
+<h4>Notes:</h4>
+
+<p>Where the Declaration Completion Guide or declaration category indicates that a data element may be left blank, it may already have been completed on the declaration for goods arriving from another member state. Where that is the case and the declaration is being used as import declaration in this country, the information must be allowed to stand - it must not be deleted or erased.</p>
+
+<h3>Navigating the <abbr title="Customs Declaration Service">CDS</abbr> Tariff Declaration Completion Rules:</h3>
+
+<p>When completing a <abbr title="Customs Declaration Service">CDS</abbr> Customs Declaration, it is recommended that you:</p>
+
+<ul>
+  <li>
+    <p>Begin with the relevant Declaration Category data set table in <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-21-import-declaration-category-data-sets/appendix-21-introduction-to-declaration-category-data-sets">Appendix 21</a> for the type of declaration being made, for example, <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-21-import-declaration-category-data-sets/appendix-21a-declaration-category-data-sets-h1">Appendix 21A: Declaration Category Data Sets H1 </a> for a free circulation supplementary declaration.</p>
+  </li>
+  <li>
+    <p>The <a class="govuk-link" href="https://www.trade-tariff.service.gov.uk/xi/sections" rel="external">UK Trade Tariff, Volume 2</a> should then be consulted to find the commodity code to be used for the goods being declared and identify any specific tariff measures or document codes which may apply to the commodity code.</p>
+  </li>
+  <li>
+    <p>The Index list for the 4-digit Procedure Codes in <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes-of-the-customs-declaration-service-cds">Appendix 1: <abbr title="Data Element">DE</abbr> 1/10: Requested and Previous Procedure Codes</a> should then be used to identify the appropriate procedure code to be declared in <abbr title="Data Element">DE</abbr> 1/10 for the treatment or use to which the goods will be placed.</p>
+  </li>
+  <li>
+    <p>The <a class="govuk-link" href="https://www.gov.uk/government/publications/4-digit-to-3-digit-procedure-to-additional-procedure-code-correlation-matrix-for-cds"><abbr title="Data Element">DE</abbr> 1/10 to <abbr title="Data Element">DE</abbr> 1/11 Correlation Matrix </a> should then be used to see which Additional Procedure Codes are permitted for use with the chosen 4-digit Procedure Code</p>
+  </li>
+  <li>
+    <p>The Index List for the Additional Procedure Codes in <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-2-de-111-additional-procedure-codes-of-the-customs-declaration-service-cds">Appendix 2: <abbr title="Data Element">DE</abbr> 1/11:  Additional Procedure Codes</a> should be used, from the list of those permitted with the <abbr title="Data Element">DE</abbr> 1/10 Procedure Code, to identify any supplementary conditions that apply to the intended usage for the goods.</p>
+  </li>
+  <li>
+    <p><a class="govuk-link" href="https://www.gov.uk/guidance/additional-information-ai-statement-codes-for-data-element-22-of-the-customs-declaration-service-cds">Appendix 4: Data Element 2/2: Additional Information (<abbr title="Additional Information">AI</abbr>) Statement Codes</a> should then be examined to identify any additional information to be declared, as defined in the procedure and additional procedure code completion instructions and the <a class="govuk-link" href="https://www.trade-tariff.service.gov.uk/xi/sections" rel="external">UK Trade Tariff: Volume 2</a> (commodity and procedure code specific requirements).</p>
+  </li>
+  <li>
+    <p><a class="govuk-link" href="https://www.gov.uk/government/collections/data-element-23-documents-and-other-reference-codes-of-the-customs-declaration-service-cds">Appendix 5: <abbr title="Data Element">DE</abbr> 2/3: Documents and Other Reference Codes</a>, with the <a class="govuk-link" href="https://www.trade-tariff.service.gov.uk/xi/sections" rel="external">UK Trade Tariff, Volume 2</a>, should be used to identify any specific documents, licences, certificates or authorisations that need to be declared to place the goods to their intended use or enter them to the customs territory of the EU.</p>
+  </li>
+  <li>
+    <p>The main <a class="govuk-link" href="https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide">UK Trade Tariff, <abbr title="Customs Declaration Service">CDS</abbr> Volume 3 Import Declaration Completion Guide</a> should then be used, in conjunction with the additional completion instructions provided in <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes-of-the-customs-declaration-service-cds">Appendices 1</a> and <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-2-de-111-additional-procedure-codes-of-the-customs-declaration-service-cds">2</a> to complete the customs declaration according to the commodity code and procedures to be used.</p>
+  </li>
+  <li>
+    <p>Where the completion rules for a specific data element in <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes-of-the-customs-declaration-service-cds">Appendix 1: <abbr title="Data Element">DE</abbr> 1/10: Requested and Previous Procedure Codes</a> and <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-2-de-111-additional-procedure-codes-of-the-customs-declaration-service-cds">Appendix 2: <abbr title="Data Element">DE</abbr> 1/11: Additional Procedure Codes</a> specify different rules to the main data element completion guidance (contained in this document) or other appendices, the rules specified in Appendices 1 and 2 take precedence.</p>
+  </li>
+  <li>
+    <p>The declaration should be completed with continued reference to the appropriate Appendices (please see the <a class="govuk-link" href="https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes-of-the-customs-declaration-service-cds/appendix-1-de-110-requested-and-previous-procedure-codes-introduction-and-index-list">Appendices Index list</a> for details) for the specific data element to identify any specific codes to be used, such as preference indicators, delivery terms and country codes.</p>
+  </li>
+</ul>
+
+<h3>Data Element Completion Rules:</h3>
+
+<p>Where information may be entered at Header or Item level:</p>
+
+<ul>
+  <li>It may only be entered at header level where it applies equally to every goods item</li>
+  <li>Information must be entered at item level where it differs for even a single goods item</li>
+  <li>It must be entered at item level where it would result in an incorrect duty calculation if entered at header level, for example, a proportional reduction in air freight charges by gross weight.</li>
+</ul>
+
+<p>However, please note that while <abbr title="Data Element">DE</abbr> 3/39, 8/2 and 8/3 are header level only data elements, they do not have to apply equally to all items on a declaration.</p>
+
+<p>The Accept Date (tax point date for Simplified Declaration Procedure (<abbr title="Simplified Declaration Procedure">SDP</abbr>) and Entry in Declarant’s Records (<abbr title="Entry in Declarant's Records">EIDR</abbr>)) Supplementary Declarations (Additional Declaration Types Y or Z in <abbr title="Data Element">DE</abbr> 1/2) should be declared as part of the XML message schema. It does not have a specific data element.</p>
+
+</div>
+
+
+</div>
+</div>
+  </div>
+
+  <div class="sticky-element" data-sticky-element="">
+    <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" focusable="false" height="17" viewBox="0 0 13 17" width="13" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" fill="currentColor"></path>
+    </svg>
+    Contents
+</a>
+
+    <div class="sticky-element__print-link">
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+    </div>
+  </div>
+</div>
+
+    </main>
