@@ -28,7 +28,7 @@
     Goods vehicle movement service: service availability and issues
   </h1>
 </div>
-  <p class="publication-header__last-changed">Updated 17 March 2022</p>
+  <p class="publication-header__last-changed">Updated 18 March 2022</p>
 
   </header>
 
@@ -106,17 +106,55 @@
 <p>Sunday 27 March 2022 7:30pm to 9pm</p>
 </div>
 
-<p>Due to maintenance on the <a class="govuk-link" href="https://www.gov.uk/government/publications/customs-handling-of-import-export-freight-chief-service-availability-and-issues"><abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> (Customs Handling of Import and Export Freight) service</a>, the following goods vehicle movement service (<abbr title="Goods Vehicle Movement Service">GVMS</abbr>) actions linked to <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> might be affected:</p>
+<p>Due to scheduled maintenance on the <a class="govuk-link" href="https://www.gov.uk/government/publications/customs-handling-of-import-export-freight-chief-service-availability-and-issues"><abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> (Customs Handling of Import and Export Freight) service</a>, the following actions linked to <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> might be affected from 7:30pm to 9pm on Sunday 27 March 2022:</p>
 
 <ul>
-  <li>create and update goods movement references (<abbr title="goods movement references">GMRs</abbr>) — an error will occur if <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations are being associated to the <abbr title="goods movement reference">GMR</abbr>
-</li>
-  <li>check-in <abbr title="goods movement references">GMRs</abbr> (outbound) — <abbr title="goods movement references">GMRs</abbr> with <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations will go to a controlled state, then after the maintenance, queued messages will be processed and risking response may change from ‘controlled’ to ‘release’</li>
-  <li>embark <abbr title="goods movement reference">GMR</abbr> (outbound) — departure messages will be queued and will be processed and updated after the maintenance</li>
-  <li>embark <abbr title="goods movement reference">GMR</abbr> (inbound) — <abbr title="goods movement references">GMRs</abbr> with <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations will go to a controlled state then after the maintenance, queued messages will be processed and risking response may change from ‘controlled’ to ‘release’</li>
+  <li>create or update a goods movement reference (<abbr title="goods movement reference">GMR</abbr>) — an error will occur if <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations are being associated to the goods movement reference</li>
+  <li>check-in goods movement references (<abbr title="goods movement references">GMRs</abbr>) (outbound) — goods movement references with <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations will go to a ‘controlled’ state and when the maintenance ends:
+    <ul>
+      <li>queued messages will be processed</li>
+      <li>the risking response may change from ‘controlled’ to ‘release’</li>
+    </ul>
+  </li>
+  <li>embark goods movement reference (outbound) — departure messages will be queued and will be processed and updated when the maintenance ends</li>
+  <li>embark goods movement reference (inbound) — goods movement references with <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations will go to a ‘controlled state’ and when the maintenance ends:
+    <ul>
+      <li>queued messages will be processed</li>
+      <li>the risking response may change from ‘controlled’ to ‘release’</li>
+    </ul>
+  </li>
 </ul>
 
-<p>The core services of the goods vehicle movement service will be available. You will still be able to enter and validate Customs Declaration Service and New Computerised Transit System (<abbr title="New Computerised Transit System">NCTS</abbr>) declarations to obtain a goods movement reference during this downtime.</p>
+<p>The core services of the goods vehicle movement service will be available. You will still be able to enter and validate Customs Declaration Service and New Computerised Transit System (<abbr title="New Computerised Transit System">NCTS</abbr>) declarations to get a goods movement reference during this downtime.</p>
+
+<p>We apologise for any inconvenience this may cause.</p>
+
+<div class="call-to-action">
+<p>Thursday 31 March 2022 10:30pm to 11:15pm</p>
+</div>
+
+<p>Due to scheduled maintenance on the Customs Declaration Service, the following service actions that link to the Customs Declaration Service may be affected from 10:30pm to 11:15pm on Thursday 31 March 2022:</p>
+
+<ul>
+  <li>create or update a goods movement reference (<abbr title="goods movement reference">GMR</abbr>)  — goods movement references will go to a ‘non-finalisable’ state if a Customs Declaration Service declaration is being attached during this maintenance</li>
+  <li>check-in goods movement references (<abbr title="goods movement references">GMRs</abbr>) (outbound) — goods movement references with Customs Declaration Service declarations will go to a ‘controlled’ state during this maintenance and when the maintenance ends:
+    <ul>
+      <li>queued messages will be processed</li>
+      <li>the risking response may change from ‘controlled’ to ‘release’</li>
+    </ul>
+  </li>
+  <li>embark goods movement reference (outbound)  — departure messages will be queued and will be processed and updated when the maintenance ends</li>
+  <li>embark goods movement reference (inbound) — goods movement references with Customs Declaration Service declarations will go to a ‘controlled’ state and when the maintenance ends:
+    <ul>
+      <li>queued messages will be processed</li>
+      <li>the risking response may change from ‘controlled’ to ‘release’</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The core services of the goods vehicle movement service will be available. You will still be able to enter and validate New Computerised Transit System (<abbr title="New Computerised Transit System">NCTS</abbr>) and Customs Handling of Import and Export Freight (<abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr>) declarations to get a goods movement reference during the scheduled maintenance.</p>
+
+<p>We apologise for any inconvenience this may cause.</p>
 
 <h2>Service issues</h2>
 
