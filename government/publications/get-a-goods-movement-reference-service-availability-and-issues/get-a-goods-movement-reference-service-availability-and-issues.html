@@ -28,7 +28,7 @@
     Get a goods movement reference: service availability and issues
   </h1>
 </div>
-  <p class="publication-header__last-changed">Updated 1 April 2022</p>
+  <p class="publication-header__last-changed">Updated 4 April 2022</p>
 
   </header>
 
@@ -117,7 +117,36 @@
 
 <h2>Planned downtime</h2>
 
-<p>None.</p>
+<div class="call-to-action">
+<p>Saturday 9 April 2022 9:30pm to 7:30am Sunday 10 April 2022</p>
+</div>
+
+<p>Due to scheduled maintenance on the Customs Declaration Service, the following service actions linked to the Customs Declaration Service may be affected from 9:30pm on Saturday 9 April 2022 to 7:30am on Sunday 10 April 2022:</p>
+
+<ul>
+  <li>create or update a goods movement reference (GMR) — goods movement references will go to a ‘non-finalisable’ state if a Customs Declaration Service declaration is being attached during this maintenance</li>
+  <li>check-in goods movement references (GMRs) (outbound) — goods movement references with Customs Declaration Service declarations will go to a ‘controlled’ state during this maintenance and when the maintenance ends:
+    <ul>
+      <li>queued messages will be processed</li>
+      <li>the risking response may change from ‘controlled’ to ‘release’</li>
+    </ul>
+  </li>
+  <li>embark goods movement reference (outbound) — departure messages will be queued and will be processed and updated when the maintenance ends</li>
+  <li>embark goods movement reference (inbound) — goods movement references with Customs Declaration Service declarations will go to a ‘controlled’ state and when the maintenance ends:
+    <ul>
+      <li>queued messages will be processed</li>
+      <li>the risking response may change from ‘controlled’ to ‘release’</li>
+    </ul>
+  </li>
+</ul>
+
+<p>During the period of downtime, carriers should continue to collect, validate and embark goods movement references for crossings.</p>
+
+<p>Do not turn off validation during this period of downtime. Goods movement references remain mandatory for freight movements using this service. Hauliers without a valid goods movement reference should be turned away.</p>
+
+<p>Core services will still be available during this downtime. You will still be able to enter and validate New Computerised Transit System (NCTS) and Customs Handling of Import and Export Freight (CHIEF) declarations to get a goods movement reference.</p>
+
+<p>We apologise for any inconvenience this may cause.</p>
 
 <h2>Service issues</h2>
 
