@@ -28,7 +28,7 @@
     Guide to adopting the academies chart of accounts
   </h1>
 </div>
-  <p class="publication-header__last-changed">Updated 22 March 2022</p>
+  <p class="publication-header__last-changed">Updated 4 May 2022</p>
 
   </header>
 
@@ -54,7 +54,7 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
-          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 4" data-track-category="contentsClicked" data-track-label="#academiesCoA16" data-track-options="{&quot;dimension29&quot;:&quot;\n4. Updates to the 2021/22 chart of accounts&quot;}" href="#academiesCoA16"><span class="gem-c-contents-list__number">4. </span><span class="gem-c-contents-list__numbered-text">Updates to the 2021/22 chart of accounts</span></a>
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 4" data-track-category="contentsClicked" data-track-label="#updates-to-the-202223-chart-of-accounts" data-track-options="{&quot;dimension29&quot;:&quot;\n4. Updates to the 2022/23 chart of accounts&quot;}" href="#updates-to-the-202223-chart-of-accounts"><span class="gem-c-contents-list__number">4. </span><span class="gem-c-contents-list__numbered-text">Updates to the 2022/23 chart of accounts</span></a>
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
@@ -76,7 +76,7 @@
   <div class="print-wrapper">
     <div class="print-meta-data">
       <p>
-  <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png">
+  <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png">
 </p>
 <p>
   © Crown copyright 2022
@@ -106,6 +106,9 @@
 <span class="number">1. </span>Introduction</h2>
 
 <p>The academies chart of accounts (<abbr title="Chart of Accounts">CoA</abbr>) is the Department for Education’s (<abbr title="Department for Education">DfE</abbr>’s) standard for financial data that underpins the academies accounts return and budget forecast returns.</p>
+
+<p>For more information, please view the introductory video below.
+<a class="govuk-link" href="https://www.youtube.com/watch?v=jOy8aRnoIb4&amp;feature=youtu.be" rel="external">Chart of accounts introduction</a></p>
 
 <h2>
 <span class="number">2. </span>Benefits of adopting the <abbr title="Department for Education">DfE</abbr>’s chart of accounts</h2>
@@ -211,45 +214,24 @@
 
 <p>The <a class="govuk-link" href="https://www.gov.uk/government/publications/academies-chart-of-accounts">‘Academies chart of accounts’</a> spreadsheet provides a “<abbr title="Chart of Accounts">CoA</abbr> structures and mapping” tab which shows the direct relationship between accounts codes and the different tables of the accounts return, the budget forecast return, and also how the account codes map to ‘View My Financial Insights’ (VMFI).</p>
 
-<p>The current chart of accounts mapping to the ‘Academies accounts return’ is shown in column G, with the exception of the following account codes:</p>
+<p>The current chart of accounts mapping to the ‘Academies accounts return’ is shown in column G.</p>
 
-<p><strong>Table 3.2.1 - Account codes with no mapping to ‘Academy accounts return’ <abbr title="Statement of Financial Activities">SoFA</abbr> tables</strong></p>
+<h4>Contributions from academies to trust</h4>
 
-<table>
-  <thead>
-    <tr>
-      <th scope="col">Account code</th>
-      <th scope="col">Account code description</th>
-      <th scope="col">Explanation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>360100</td>
-      <td>Payroll control account</td>
-      <td>It is expected that trusts will clear this account to zero for submission of financial returns</td>
-    </tr>
-    <tr>
-      <td>490100</td>
-      <td>Gross transfer between funds</td>
-      <td>It is expected that transfers will net to zero across funds</td>
-    </tr>
-    <tr>
-      <td>530990</td>
-      <td>Trust contribution from academy</td>
-      <td>This account code is only used for benchmarking where information is captured at academy/central services level rather than at trust level</td>
-    </tr>
-    <tr>
-      <td>835170</td>
-      <td>Contributions from academies to trust</td>
-      <td>This account code is only used for benchmarking where information is captured at academy/central services level rather than at trust level</td>
-    </tr>
-  </tbody>
-</table>
+<p>Please note that the following account codes both map to AR field OTA060 ‘Other trading activities’ and the two MUST net to zero, or this will cause a validation on the AR with benchmarking field BTI130/BAI130-A ‘Other income revenue’.</p>
 
-<div class="call-to-action">
-<p>Please note that the above account codes were mapped in the AR 2021, and the 2022 CoA will be updated for these mapping changes.</p>
-</div>
+<ul>
+  <li>530990 – ‘Trust contribution from academies’</li>
+  <li>835170 – ‘Contribs from academy to trust’</li>
+</ul>
+
+<p>This is because the trust level data is reported in the <abbr title="Statement of Financial Activities">SoFA</abbr>, but is requested at central services and academy level in the benchmarking tables, although again, the overall total for the trust must equal zero.</p>
+
+<h4>Mapping to the draft financial statements</h4>
+
+<p>Mapping columns have been added to the <abbr title="Chart of Accounts">CoA</abbr> 2022-23 showing where the account codes map to in the draft financial statements spreadsheet which the <abbr title="Department for Education">DfE</abbr> has recently developed.</p>
+
+<p>The draft financial statement spreadsheet can be automatically populated from the trusts general ledger if they are able to take advantage of the <abbr title="Application programme interface">API</abbr> functionality. Alternatively, a spreadsheet which can be manually populated will be available on the <abbr title="Chart of Accounts">CoA</abbr> and automation webpage in due course.</p>
 
 <h3>
 <span class="number">3.3 </span>Adding account codes to the chart of accounts</h3>
@@ -310,7 +292,7 @@
 
 <p>The balance sheet codes in the <abbr title="Chart of Accounts">CoA</abbr> reflect the full range of the <abbr title="Department for Education">DfE</abbr>’s fixed assets, investments and disposals. Most academy trusts will not need to use all of these. You can mark these inactive in your finance system and activate them if you need them in the future.</p>
 
-<p>The ‘Funds’ section is currently not mapped in full to fields within the ‘Funds’ tables of the AR on-line form and balances have to be manually broken down and input, even when using automation. The next iteration of the <abbr title="Chart of Accounts">CoA</abbr> to be issued in Spring 2022 will have a new set of ‘account codes which will all be directly mapped to fields within the AR on-line form.</p>
+<p>The ‘Funds’ section is currently not mapped in full to fields within the ‘Funds’ tables of the AR on-line form and balances have to be manually broken down and input, even when using automation. We are currently reviewing this section of the <abbr title="Chart of Accounts">CoA</abbr>.</p>
 
 <h3>
 <span class="number">3.9 </span>Capital expenditure</h3>
@@ -323,10 +305,17 @@
 This will help group the income source with the expenditure, which will aid in the management of grant.</li>
 </ul>
 
-<p>Exceptions to the above would be:<br>
-a)	where the trust has paid an invoice for items that maybe split between capital and revenue, prior to deciding what value needs to be capitalised or 
-b)	where a trust is unsure of what the total value of the asset will be and whether or not it will fall above or below the de minimis capitalisation threshold set by the trust for that asset class.
-In such cases, the trust may wish to use 710200 ‘Repairs and maintenance - Building improvements’ as a holding account until revenue and capitalisation values can be ascertained.</p>
+<p>Exceptions to the above would be:</p>
+
+<ol class="steps">
+<li>
+<p>where the trust has paid an invoice for items that maybe split between capital and revenue, prior to deciding what value needs to be capitalised or</p>
+</li>
+<li>
+<p>where a trust is unsure of what the total value of the asset will be and whether or not it will fall above or below the de minimis capitalisation threshold set by the trust for that asset class.</p>
+</li>
+</ol>
+<p>In such cases, the trust may wish to use 710200 ‘Repairs and maintenance - Building improvements’ as a holding account until revenue and capitalisation values can be ascertained.</p>
 
 <h3>
 <span class="number">3.10 </span>Other specific guidance</h3>
@@ -335,6 +324,7 @@ In such cases, the trust may wish to use 710200 ‘Repairs and maintenance - Bui
   <thead>
     <tr>
       <th scope="col">Quick links - Other specific guidance</th>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -354,6 +344,7 @@ In such cases, the trust may wish to use 710200 ‘Repairs and maintenance - Bui
       <td><a class="govuk-link" href="#Repayment%20of%20Salix%20loans%20&amp;%20other%20loans">3.10.6 Repayment of Salix loans &amp; other loans</a></td>
       <td><a class="govuk-link" href="#Allocation%20between%20leadership%20and%20teaching%20accounts%20code%20categories">3.10.7 Allocation between leadership and teaching accounts code categories</a></td>
       <td><a class="govuk-link" href="#Recharges">3.10.8 Recharges</a></td>
+      <td><a class="govuk-link" href="#Leasehold%20land%20depreciation">3.10.9 Leasehold land depreciation</a></td>
     </tr>
   </tbody>
 </table>
@@ -462,7 +453,7 @@ In such cases, the trust may wish to use 710200 ‘Repairs and maintenance - Bui
 
 <p>The accounting treatment for Salix loans is the same as for other loans, except that repayments need to gross back up the GAG rebatement.</p>
 
-<p>The account code 720400 ‘Repayment of Salix loans’ will be removed from the next iteration of the <abbr title="Chart of Accounts">CoA</abbr>.</p>
+<p>The account code 720400 ‘Repayment of Salix loans’ has been removed from the <abbr title="Chart of Accounts">CoA</abbr> 2022-23.</p>
 
 <p>Please note that this guidance applies to academy trusts and differs from the advice given to local authority maintained schools.</p>
 
@@ -503,7 +494,17 @@ The balances on these account codes must net off to zero.</li>
 
 <p><strong>Inter-trust recharges:</strong></p>
 
-<p>If the recharge is between academies within the trust, we suggest that the appropriate academies either debits and credits the same appropriate expenditure code in each academy or sets up an additional local account code under the relevant <abbr title="Department for Education">DfE</abbr> account code so that these charges can be identified separately if the trust wishes. Again, this would net to zero when reporting at trust level but would be identified in the academy level benchmarking tables. This ensures expenditure is allocated to the correct field in the <abbr title="Department for Education">DfE</abbr>’s financial returns.</p>
+<p>If the recharge is between academies within the trust, we suggest that the appropriate academies either</p>
+
+<ol class="steps">
+<li>
+<p>debits and credits the same appropriate expenditure code in each academy or</p>
+</li>
+<li>
+<p>sets up an additional local account code under the relevant DfE account code so that these charges can be identified separately if the trust wishes.</p>
+</li>
+</ol>
+<p>Either way, the balances should net to zero when reporting at trust level but would be identified in the academy level benchmarking tables. This ensures expenditure is allocated to the correct field in the <abbr title="Department for Education">DfE</abbr>’s financial returns.</p>
 
 <p><strong>Intra-trust recharges:</strong></p>
 
@@ -511,14 +512,31 @@ The balances on these account codes must net off to zero.</li>
 
 <p>Please note that intra-trust trading and recharges may need to be reported within the Counterparty section of the Accounts Return. Counterparty categories are shown against relevant account code on the ‘<abbr title="Chart of Accounts">CoA</abbr> structures and mappings’ tab within the academies chart of accounts spreadsheet.</p>
 
+<h4>3.10.9 Leasehold land depreciation</h4>
+
+<p>There are only extremely rare circumstances where depreciation should be charged on land specifically, which is why there is no specific chart of accounts code for depreciation against freehold and leasehold land.</p>
+
+<p>The only circumstance may be through such issues as subsidence, but it very rare for depreciation to be charged on land.</p>
+
+<p>Both the AAD and the accounts return (AR) combine land and buildings together in descriptions and reporting requirements, but in practice, depreciation would only be charged against the buildings element for both freehold and leasehold land and buildings.</p>
+
+<p>It may be relevant to impair the land if the value of property in the surrounding area has reduced, and therefore use account code 120910 ‘Leasehold land: Impairment charged’.</p>
+
+<p>If there is good reason to depreciate the land, it will have to be charged to 125710 ‘Leasehold Buildings – depreciation charged’ which maps into AR category TFD030-B. The <abbr title="Department for Education">DfE</abbr> is content that trusts apply their own accounting policy as the <abbr title="Department for Education">DfE</abbr> replaces some values within the land and buildings tables using a consistent recognition and depreciation policy across all trusts.</p>
+
+<p>In addition, the <abbr title="Department for Education">DfE</abbr> does not depreciate land on peppercorn rent sites and are therefore satisfied that both sides of the adjustment are omitted in the <abbr title="Department for Education">DfE</abbr> returns.</p>
+
+<p>Further guidance can be found in the AAD section 3.23 under the ‘Land and buildings’ heading which provides scenarios of long term leases.</p>
+
 <h2>
-<span class="number">4. </span>Updates to the 2021/22 chart of accounts</h2>
+<span class="number">4. </span>Updates to the 2022/23 chart of accounts</h2>
 
 <p>This section includes:</p>
 
 <ul>
-  <li><a class="govuk-link" href="#academiesCoA7">New account codes</a></li>
-  <li><a class="govuk-link" href="#academiesCoA8">Updated Mappings</a></li>
+  <li><a class="govuk-link" href="#academiesCoA7">New and deleted account codes</a></li>
+  <li><a class="govuk-link" href="#academiesCoA8">Updated mappings</a></li>
+  <li><a class="govuk-link" href="#academiesCoA16">Updated descriptions</a></li>
 </ul>
 
 <p>There have been a small number of updates to the Academies chart of accounts for the 2021/22 financial year.</p>
@@ -526,18 +544,28 @@ The balances on these account codes must net off to zero.</li>
 <p>All changes are shown in the tables below and include:</p>
 
 <ul>
-  <li>new account codes, - <a class="govuk-link" href="#academiesCoA11">table 4.1.1</a>
+  <li>9 new account codes, - <a class="govuk-link" href="#academiesCoA11">table 4.1.1</a>
+</li>
+  <li>4 deleted trial balance account code - <a class="govuk-link" href="#academiesCoA12">table 4.1.2</a>
+</li>
+  <li>195 deleted non-trial balance account codes - <a class="govuk-link" href="#academiesCoA12">table 4.1.2</a>
 </li>
   <li>updated mappings from account codes to ‘Academies accounts return’ fields – <a class="govuk-link" href="#academiesCoA14">table 4.2.1</a>
+</li>
+  <li>updated descriptions - <a class="govuk-link" href="#academiesCoA17">table 4.3.1</a>
 </li>
 </ul>
 
 <p>Updates are highlighted in yellow on the “<abbr title="Chart of Accounts">CoA</abbr> structures and mapping” tab within the “Academies chart of accounts 2021” spreadsheet and are also listed on the “Change control” tab within the same document. Summary tables of the updates are also shown below.</p>
 
-<p>The tables below highlight updates to the Academies chart of accounts released 18 May 2021 from the previous version released in May 2020.</p>
+<p>The tables below highlight updates to the Academies chart of accounts released 18 May 2021 from the previous version released in May 2021.</p>
 
 <h3>
 <span class="number">4.1 </span>New and deleted account codes and form fields</h3>
+
+<p>New information columns have added in the ‘<abbr title="Chart of Accounts">CoA</abbr> structures and mappings’ tab to show where <abbr title="Chart of Accounts">CoA</abbr> account codes map to in the draft financial statements spreadsheet which the <abbr title="Department for Education">DfE</abbr> has recently developed.</p>
+
+<p>Please review the following tables to find out what has been updated in the <abbr title="Chart of Accounts">CoA</abbr> 2022-23 release.</p>
 
 <p><strong>Table 4.1.1 - New account codes</strong></p>
 
@@ -551,40 +579,96 @@ The balances on these account codes must net off to zero.</li>
   </thead>
   <tbody>
     <tr>
-      <td>623100</td>
-      <td>Cover Supervisors: Wages and salaries</td>
-      <td>Added account code added to bring <abbr title="Chart of Accounts">CoA</abbr> into line with AAD guidance</td>
+      <td>510700</td>
+      <td>
+<abbr title="Department for Education">DfE</abbr> Revenue Grants: 16 to 19</td>
+      <td>To create a specific grant income account code for Post 16 - 19 funding</td>
     </tr>
     <tr>
-      <td>623150</td>
-      <td>Cover Supervisors: Overtime</td>
-      <td>Added account code added to bring <abbr title="Chart of Accounts">CoA</abbr> into line with AAD guidance</td>
+      <td>530550</td>
+      <td>Parental income from nursery provision</td>
+      <td>To create a specific account income code for parental contibutions for nursery fees within the trading income/ category as this will be applicable to the majority of primary schools</td>
     </tr>
     <tr>
-      <td>623200</td>
-      <td>Cover Supervisors: Employers national insurance</td>
-      <td>Added account code added to bring <abbr title="Chart of Accounts">CoA</abbr> into line with AAD guidance</td>
+      <td>530580</td>
+      <td>Parental income from wraparound provision</td>
+      <td>To create a specific account income code for parental contributions for wraparound fees within the trading income category as this will be applicable to the majority of primary schools</td>
     </tr>
     <tr>
-      <td>623300</td>
-      <td>Cover Supervisors: Employers pension contribution</td>
-      <td>Added account code added to bring <abbr title="Chart of Accounts">CoA</abbr> into line with AAD guidance</td>
+      <td>612150</td>
+      <td>Teachers: Overtime</td>
+      <td>Adding an overtime account code to the teachers pay range of account codes</td>
     </tr>
     <tr>
-      <td>675520</td>
-      <td>Recruitment - leadership</td>
-      <td>Added account code so expenditure can clearly be identified</td>
+      <td>648100</td>
+      <td>Cost of raising funds:Staff costs - Wages and salaries</td>
+      <td>Adding a generic staffing account code range to the staff costs/Cost of raising funds category which replaces the deleted staff costs account code 870100 'Cost of raising funds pay' within the supplies and services section of the <abbr title="Chart of Accounts">CoA</abbr>
+</td>
     </tr>
     <tr>
-      <td>675570</td>
-      <td>Staff advertising - leadership</td>
-      <td>Added account code so expenditure can clearly be identified</td>
+      <td>648150</td>
+      <td>Cost of raising funds:Staff costs - Overtime</td>
+      <td>As per 648100</td>
+    </tr>
+    <tr>
+      <td>648200</td>
+      <td>Cost of raising funds:Staff costs - Employers national insurance</td>
+      <td>As per 648100</td>
+    </tr>
+    <tr>
+      <td>648300</td>
+      <td>Cost of raising funds:Staff costs - Employers national insurance</td>
+      <td>As per 648100</td>
+    </tr>
+    <tr>
+      <td>780850</td>
+      <td>Other premises costs (Boarding provision)</td>
+      <td>New account code for general premises costs for boarding school provision as current account codes are very specific</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Table 4.1.2 - Deleted account codes</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Account code</th>
+      <th scope="col">Accounts codedescription</th>
+      <th scope="col">Reason for update</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>515150</td>
+      <td>Other Grants: Equalities &amp; Human Rights Comm</td>
+      <td>EHRC no longer part of <abbr title="Department for Education">DfE</abbr> group,now sponsored by Cabinet Office so should be recorded under 520300 'Government capital grants - non-<abbr title="Department for Education">DfE</abbr>'</td>
+    </tr>
+    <tr>
+      <td>555150</td>
+      <td>Equalities &amp; Human Rights Comm</td>
+      <td>EHRC no longer part of <abbr title="Department for Education">DfE</abbr> group,now sponsored by Cabinet Office so should be recorded under 560200 'Government grants - non-<abbr title="Department for Education">DfE</abbr>'</td>
+    </tr>
+    <tr>
+      <td>570230</td>
+      <td>Equalities &amp; Human Rights Comm (Boarding Provision)</td>
+      <td>EHRC no longer part of <abbr title="Department for Education">DfE</abbr> group,now sponsored by Cabinet Office so should be recorded under 570250 'Other Government grants'</td>
+    </tr>
+    <tr>
+      <td>870100</td>
+      <td>Cost of raising funds - pay</td>
+      <td>Deleting 'Cost of raising funds pay' within the supplies and services section of the <abbr title="Chart of Accounts">CoA</abbr>, and replaced by new account codes within the staff cost/cost of raising funds section, 648100/648150/648200/648300</td>
+    </tr>
+    <tr>
+      <td>Range 980100 to 996100</td>
+      <td>Assets under construction non-tb account codes</td>
+      <td>Account codes redundant due to removal of 'Assets under construction' table on the accounts return</td>
     </tr>
   </tbody>
 </table>
 
 <h3>
-<span class="number">4.2 </span>Updated Mappings</h3>
+<span class="number">4.2 </span>Updated mappings</h3>
 
 <p><strong>Table 4.2.1 – Updated mappings</strong></p>
 
@@ -596,283 +680,301 @@ The balances on these account codes must net off to zero.</li>
       <th scope="col">Benchmarking Central Services (old/new)</th>
       <th scope="col">Benchmarking Academies (old/new)</th>
       <th scope="col">Counterparty</th>
-      <th scope="col">BFR/BFR)</th>
+      <th scope="col">BFR</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>240350 – Debtors \&lt;1 year, VAT recoverable</td>
-      <td>BTI060 / BAI060-A</td>
+      <td>360100 - Payroll control account: Payroll 1</td>
+      <td>n/a to CRD060-A</td>
       <td>No change</td>
       <td>No change</td>
-      <td>CPD040 to n/a</td>
+      <td>n/a to CPL050</td>
+      <td>n/a to 903</td>
+    </tr>
+    <tr>
+      <td>410100 - Surplus/Deficit b/fwd</td>
+      <td>RGFTOT-T to RGF080-A</td>
       <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+    </tr>
+    <tr>
+      <td>420100 - Restricted General Fund: Fund Balance</td>
+      <td>RGFTOT-T to RGF080-A</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+    </tr>
+    <tr>
+      <td>430100 - Restricted Fixed Asset Fund: Fund balance</td>
+      <td>RGFTOT-T to RGF080-A</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+    </tr>
+    <tr>
+      <td>440100 - Pension Fund: Fund balance</td>
+      <td>RGFTOT-T to RGF080-D</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+    </tr>
+    <tr>
+      <td>450100 - Other Funds: Fund balance</td>
+      <td>RGFTOT-T to RGF080-A</td>
+      <td>No Change</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+    </tr>
+    <tr>
+      <td>460100 - Unrestricted Funds: Fund balance</td>
+      <td>UEFTOT-A to UEF020-A</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+      <td>No change</td>
+    </tr>
+    <tr>
+      <td>470100 - Revaluation Fund: Fund balance</td>
+      <td>RFFTOT-T to RFF080-A</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No change</td>
+    </tr>
+    <tr>
+      <td>480100 - Endowment Funds: Fund balance</td>
+      <td>UEFTOT-B to UEF080-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>490100 - Gross transfer between funds</td>
+      <td>n/a to UEF080-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>525300 - Other Income: Catering income from pupils</td>
+      <td>No Change</td>
+      <td>BTI090 to BTI110</td>
+      <td>BAI010-A to BAI110-A</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>530990 - Trust contribution from academy</td>
+      <td>n/a to OTA060</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>675780 – Employers liability insurance</td>
+      <td>CAS380 to CAS020</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>835170 - Contribs from academies to trust</td>
+      <td>n/a to OTA060</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>n/a to 378</td>
+    </tr>
+    <tr>
+      <td>845100 – Agency teaching staff long term</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>378 to 310</td>
+    </tr>
+    <tr>
+      <td>845150 - Agency teaching staff short term</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>378 to 310</td>
+    </tr>
+    <tr>
+      <td>845200 - Agency teaching assistants</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>378 to 310</td>
+    </tr>
+    <tr>
+      <td>845250 - Agency support staff</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>378 to 310</td>
+    </tr>
+    <tr>
+      <td>827100 - Teaching school hub: staff costs</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>BAE010-A to BAE010-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>827150 - Teaching school hub: Staff Develop-ment</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>BAE090-A to BAE090-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>872200 – Teaching school hub:Other direct costs</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>BAE200-A to BAE200-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>827500 - Teaching school hub:Staff costs- support</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>BAE030-A to BAE030-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>872600 - Teaching School Hub: Technology costs</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>BAE210-A to BAE210-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>872650 - Teaching School Hub: Recruitment and support</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>BAE080-A to BAE080-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>872700 - Teaching School Hub: Security and support</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>BAE180-A to BAE180-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>872750 - Teaching School Hub: Governance costs</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>BAE280-A to BAE280-B</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>872950 -Teaching School Hub: Other support costs</td>
+      <td>No Change</td>
+      <td>No Change</td>
+      <td>BAE280-A</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>880200 - Other supplies &amp; services: Increase in provisions</td>
+      <td>No Change</td>
+      <td>BTE280 to n/a</td>
+      <td>BAE280-A to n/a</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>880220- Other supplies &amp; services: Release of provisions</td>
+      <td>No Change</td>
+      <td>BTE280 to n/a</td>
+      <td>BAE280-A to n/a</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>892500 - Asset financing: (Gain)/loss on disp of tang FA</td>
+      <td>No Change</td>
+      <td>BTE280 to n/a</td>
+      <td>BAE280-A to n/a</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>892600 - Asset financing: (Gain)/loss on disp of Intang FA</td>
+      <td>No Change</td>
+      <td>BTE280 to n/a</td>
+      <td>BAE280-A to n/a</td>
+      <td>No Change</td>
+      <td>No Change</td>
+    </tr>
+    <tr>
+      <td>892700 - Asset financing: (Gain)/loss on disp of invest's</td>
+      <td>No Change</td>
+      <td>BTE280 to n/a</td>
+      <td>BAE280-A to n/a</td>
+      <td>No Change</td>
+      <td>No Change</td>
     </tr>
   </tbody>
+</table>
+
+<h3>
+<span class="number">4.3 </span>Updated descriptions</h3>
+
+<p><strong>Table 4.3.1 – Updated descriptions</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Account code</th>
+      <th scope="col">Description column reference</th>
+      <th scope="col">CoA previous description</th>
+      <th scope="col">CoA updated description</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td>250350 - Debtors \&gt;1 year, VAT recoverable</td>
-      <td>No change</td>
-      <td>No change</td>
-      <td>No change</td>
-      <td>CPD090 to n/a</td>
-      <td>No change</td>
+      <td>560200</td>
+      <td>L3</td>
+      <td>'Government grant - not <abbr title="Department for Education">DfE</abbr>'</td>
+      <td>'Government capital grants - not <abbr title="Department for Education">DfE</abbr>'</td>
     </tr>
     <tr>
-      <td>310250 - Creditors \&lt;1 year, VAT recoverable</td>
-      <td>No change</td>
-      <td>No change</td>
-      <td>No change</td>
-      <td>CPL060 to n/a</td>
-      <td>No change</td>
+      <td>872100, 872150, 872200, 872500, 872550, 872600, 872650, 872700, 872750, 872950</td>
+      <td>L2</td>
+      <td>Teaching school expenditure</td>
+      <td>Teaching school hub expenditure</td>
     </tr>
     <tr>
-      <td>310300 - Creditors \&lt;1 year, Other tax and social security</td>
-      <td>No change</td>
-      <td>No change</td>
-      <td>No change</td>
-      <td>CPL030 to n/a</td>
-      <td>No change</td>
-    </tr>
-    <tr>
-      <td>310600 - Creditors \&lt;1 year, Finance Leases</td>
-      <td>No change</td>
-      <td>No change</td>
-      <td>No change</td>
-      <td>CPL040 to n/a</td>
-      <td>No change</td>
-    </tr>
-    <tr>
-      <td>510510 - Teachers Pension Employer Contribution Grant</td>
-      <td>RGR121 to RGR150</td>
-      <td>No Change</td>
-      <td>No change</td>
-      <td>No change</td>
-      <td>No change</td>
-    </tr>
-    <tr>
-      <td>515150 - Equalities &amp; Human Rights Commission – revenue income</td>
-      <td>RGG020 to ORG040</td>
-      <td>n/a to BTI060</td>
-      <td>BAI020-A to BAI060-A</td>
-      <td>No change</td>
-      <td>150 to 205</td>
-    </tr>
-    <tr>
-      <td>555150 - Equalities &amp; Human Rights Commission – capital income</td>
-      <td>CGG020 to OCG020</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>540 to 571</td>
-    </tr>
-    <tr>
-      <td>620100 – Librarians: Wages and salaries</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>620150 - Librarians: Overtime</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>620200 - Librarians: Employers National insurance</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>620300 - Librarians: Employers pension contribution</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>622100 – Technicians: Wages and salaries</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>622150 – Technicians: Overtime</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>622200 – Technicians: Employers national insurance</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>622300 – Technicians: Employers pension contribution</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>642100 – Exam invigilators: Wages and salaries</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>642150 – Exam invigilators: Overtime</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>642200 – Exam invigilators: Employers national insurance</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>642300 – Exam invigilators: Employers pension contribution</td>
-      <td>CAS010 to CAD010</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>715100 - Rates</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPE060 to n/a</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>735200 – Operating leases: Photocopiers</td>
-      <td>No Change</td>
-      <td>BTE180 to BTE280</td>
-      <td>BAE180-A to BAE280-A</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>735300 – Operating leases: Telephony</td>
-      <td>No Change</td>
-      <td>BTE180 to BTE280</td>
-      <td>BAE180-A to BAE280-A</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>735400 – Operating leases: Other equipment</td>
-      <td>No Change</td>
-      <td>BTE180 to BTE280</td>
-      <td>BAE180-A to BAE280-A</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>880550 – School uniforms (cost)</td>
-      <td>No Change</td>
-      <td>BTE180 to BTE280</td>
-      <td>BAE180-A to BAE280-A</td>
-      <td>No Change</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>240200, 240210, 240220, 240230</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPD030 to n/a</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>250200, 250210, 250220, 250230</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPD080 to n/a</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>310500, 310510, 310550, 310560</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPL080 to n/a</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>320500, 320510, 320550, 320560</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPL130 to n/a</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>510100, 510110, 510120, 510130, 510140, 510150, 510200, 510250, 510300, 510350, 510400, 510450, 510500, 510510, 510550, 510600, 510950</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPI070 to n/a</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>515100, 515150, 515200, 515250, 515300, 515350, 515400</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPI080 to n/a</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>550100, 550150, 550200, 550250, 550300, 550350, 550400, 550450, 550500</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPI020 to n/a</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>555100, 555150, 555200, 555250, 555300, 555350, 555400</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPI030 to n/a</td>
-      <td>No Change</td>
-    </tr>
-    <tr>
-      <td>910250, 910255</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>No Change</td>
-      <td>CPE020 to n/a</td>
-      <td>No Change</td>
+      <td>All (if relevant)</td>
+      <td>BFR/BFRO</td>
+      <td>Separate columns for BFR and BFRO</td>
+      <td>Single column description for BFR</td>
     </tr>
   </tbody>
 </table>
@@ -884,7 +986,7 @@ The balances on these account codes must net off to zero.</li>
 
 <ul>
   <li><a class="govuk-link" href="#academiesCoA">Benefits of adopting <abbr title="Application programme interface">API</abbr></a></li>
-  <li><a class="govuk-link" href="#academiesCoA1">Financial management systems software suppliers</a></li>
+  <li><a class="govuk-link" href="#academiesCoA1">Financial management systems (<abbr title="Financial management system">FMS</abbr>) software suppliers</a></li>
 </ul>
 
 <p>The <abbr title="Application programme interface">API</abbr> functionality is based on the <abbr title="Department for Education">DfE</abbr>’s chart of accounts and allows the <abbr title="Department for Education">DfE</abbr> to understand your data and automatically match it to the right part of the online forms using the mappings identified in the “<abbr title="Chart of Accounts">CoA</abbr> structure and mapping” tab of the published chart of accounts. <abbr title="Application programme interface">API</abbr> also provides trusts with the opportunity to produce their draft financial statements.</p>
@@ -907,18 +1009,18 @@ The balances on these account codes must net off to zero.</li>
 <h3>
 <span class="number">5.2 </span>Finance management systems software suppliers</h3>
 
-<p>The <abbr title="Department for Education">DfE</abbr> have worked with a range of <abbr title="Financial management system">FMS</abbr> software suppliers to develop the chart of accounts, the suppliers included:</p>
+<p>The <abbr title="Department for Education">DfE</abbr> have worked with a range of <abbr title="Financial management system">FMS</abbr> software suppliers to develop the chart of accounts, the suppliers included so far are:</p>
 
 <ul>
-  <li>Access Education</li>
-  <li>Capita SIMS <abbr title="Financial management system">FMS</abbr>
-</li>
+  <li>Access Education / HCSS</li>
+  <li>Bromcom</li>
+  <li>ESS (formally Capita SIMS / <abbr title="Financial management system">FMS</abbr>)</li>
   <li>Civica Corero</li>
   <li>Hoge 100</li>
-  <li>Orovia</li>
-  <li>PS Financials (IRIS)</li>
-  <li>RM</li>
+  <li>IRIS (formally PS Financials)</li>
+  <li>Oracle</li>
   <li>Sage</li>
+  <li>Xero vie Thorne Widgery</li>
 </ul>
 
 <p>Trusts should talk to their supplier about any implications of adopting the chart of accounts with the current version of their software, as well as their plans for integrating the <abbr title="Application programme interface">API</abbr>.</p>
