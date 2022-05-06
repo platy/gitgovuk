@@ -28,7 +28,7 @@
      Excise movement and control system: service availability and issues
   </h1>
 </div>
-  <p class="publication-header__last-changed">Updated 14 April 2022</p>
+  <p class="publication-header__last-changed">Updated 6 May 2022</p>
 
   </header>
 
@@ -128,12 +128,12 @@
 
 <p>We have released a fix for the HMRC portal issue which began on 1 March 2022.</p>
 
-<p>Excise warehousekeepers with an ID starting ‘XIWK’ who have warehouse premises in Great Britain (England, Scotland and Wales), can now submit draft electronic Administrative Document (<abbr title="electronic Administrative Document">eAD</abbr>) movements to <abbr title="Excise movement and control system">EMCS</abbr> for their premises through the HMRC portal.</p>
+<p>Excise warehousekeepers with an ID starting ‘XIWK’, who have warehouse premises in Great Britain (England, Scotland and Wales), can now submit draft electronic administrative document (<abbr title="electronic Administrative Document">eAD</abbr>) movements to <abbr title="Excise movement and control system">EMCS</abbr> for their premises through the HMRC portal.</p>
 
 <div class="call-to-action">
 <p>You should now use the Competent Authority Dispatch Office ‘GB004098’ for a movement being dispatched from a location in Great Britain.<br><br></p>
 
-<p>Any movements which were dispatched under the <a class="govuk-link" href="https://www.gov.uk/guidance/receive-goods-into-and-remove-goods-from-an-excise-warehouse-excise-notice-197#sect3">EMCS fallback procedures</a> should be entered into EMCS as soon as possible. You should tick the ‘deferred movement’ box so that you can enter the correct date of dispatch, which will be in the past.</p>
+<p>Any movements which were dispatched under the <a class="govuk-link" href="https://www.gov.uk/guidance/receive-goods-into-and-remove-goods-from-an-excise-warehouse-excise-notice-197#sect3">EMCS fallback procedures</a> should be entered into EMCS as soon as possible. You should tick the ‘deferred movement’ box so you can enter the correct date of dispatch, which will be in the past.</p>
 </div>
 
 <p>We apologise for any inconvenience this issue may have caused.</p>
@@ -144,29 +144,32 @@
 
 <p>The backlog of <abbr title="Customs Handling Import Export Freight service">CHIEF</abbr> matching messages has been downloaded to <abbr title="Excise movement and control system">EMCS</abbr> and has finalised most of the affected movements.</p>
 
-<p>If any of the export <abbr title="electronic Administrative Document">eAD</abbr> movements are still showing as undischarged, you should email the <a class="govuk-link" href="mailto:emcs.helpdesk@hmrc.gov.uk">emcs.helpdesk@hmrc.gov.uk</a> with the Administrative Reference Code (<abbr title="Administrative Reference Code">ARC</abbr>) number and the corresponding Export Entry details.</p>
+<p>If any of the export <abbr title="electronic Administrative Document">eAD</abbr> movements are still showing as undischarged, you should email <a class="govuk-link" href="mailto:emcs.helpdesk@hmrc.gov.uk">emcs.helpdesk@hmrc.gov.uk</a> with the Administrative Reference Code (<abbr title="Administrative Reference Code">ARC</abbr>) number and the corresponding export entry details.</p>
+
+<p>If <abbr title="Excise movement and control system">EMCS</abbr> has issued a report of receipt to finalise an export movement, any prior or subsequent export rejection messages from <abbr title="Excise movement and control system">EMCS</abbr> can be ignored.</p>
+
+<p>In some instances, <abbr title="Excise movement and control system">EMCS</abbr> is incorrectly issuing export rejection messages after an export <abbr title="Administrative Reference Code">ARC</abbr> number has already been finalised. This will continue to happen for a number of weeks until a backlog in a secondary <abbr title="Excise movement and control system">EMCS</abbr> processing queue is cleared.</p>
 
 <h3>Northern Ireland traders exporting goods from Northern Ireland warehouses</h3>
 
 <p>When an XI-<abbr title="Administrative Reference Code">ARC</abbr> is declared in Box 40 of the <abbr title="Customs Handling Import Export Freight service">CHIEF</abbr> export entry, the following error code message will be displayed: E3392 — ‘<abbr title="Administrative Reference Code">ARC</abbr> Ref 3rd — 4th chars do not identify an EU Member State’</p>
 
-<p>If you use an export agent, make them aware of the workaround below.</p>
+<p>If you use an export agent, make them aware of the following workaround:</p>
 
-<p>Enter the LRN (Local Reference Number) in Box 40 of the customs declaration as if the <abbr title="Excise movement and control system">EMCS</abbr> movement had been dispatched under the fallback procedure.</p>
+<ol class="steps">
+<li>
+<p>Enter the local reference number (LRN) in Box 40 of the customs declaration as if the EMCS movement had been dispatched under the fallback procedure. For example, Z (first field)/FAD (second field)/LRN (third field). The LRN should be the same as the one submitted on the EMCS movement.</p>
+</li>
+<li>
+<p>Declare the EMCS XI-ARC number in Box 44 (the additional information field). For example, ‘EMCS ARC number; 21XI00000000012345678’.</p>
+</li>
+<li>
+<p>Declare the premises excise reference number (ERN) in Box 49, in the GB-format, not XI. For example, XI00001234567 should be entered GB00001234567. If you use the XI ERN, the following error code message will be displayed: E1799 — the premises of the authorising country must be in the EU.</p>
+</li>
+</ol>
+<p>As a result of this issue, <abbr title="Customs Handling Import Export Freight service">CHIEF</abbr> will not discharge the XI-<abbr title="Administrative Reference Code">ARC</abbr> movement on <abbr title="Excise movement and control system">EMCS</abbr>.</p>
 
-<p>For example, Z (first field)/FAD (second field)/LRN (third field). The LRN Local Reference Number should be as submitted on the <abbr title="Excise movement and control system">EMCS</abbr> movement.</p>
-
-<p>Then declare the <abbr title="Excise movement and control system">EMCS</abbr> XI-<abbr title="Administrative Reference Code">ARC</abbr> number in Box 44 (the additional information field).</p>
-
-<p>For example, ‘<abbr title="Excise movement and control system">EMCS</abbr> <abbr title="Administrative Reference Code">ARC</abbr> number; 21XI00000000012345678’</p>
-
-<p>Finally, in Box 49, declare the premises Excise Reference Number (<abbr title="Excise Reference Number">ERN</abbr>) in the GB-format, not XI.</p>
-
-<p>If you use the XI <abbr title="Excise Reference Number">ERN</abbr> the following error code message will be displayed: E1799 — Premises authorising country must be within EU.</p>
-
-<p>For example, XI00001234567 should be entered GB00001234567.</p>
-
-<p>As a result of this issue, <abbr title="Customs Handling Import Export Freight service">CHIEF</abbr> will not discharge the XI-<abbr title="Administrative Reference Code">ARC</abbr> movement on <abbr title="Excise movement and control system">EMCS</abbr>. Therefore, once the consignment has been exported and the <abbr title="Customs Handling Import Export Freight service">CHIEF</abbr> Export Entry has reached departed status, submit evidence of export to the <abbr title="Excise movement and control system">EMCS</abbr> Helpdesk by emailing <a class="govuk-link" href="mailto:emcs.helpdesk@hmrc.gov.uk">emcs.helpdesk@hmrc.gov.uk</a>, to request the closure of the undischarged <abbr title="Administrative Reference Code">ARC</abbr>, as per the existing procedures in <a class="govuk-link" href="https://www.gov.uk/guidance/receive-goods-into-and-remove-goods-from-an-excise-warehouse-excise-notice-197#sect13">Notice 197, Section (13.10)</a>.</p>
+<p>Once the consignment has been exported and the <abbr title="Customs Handling Import Export Freight service">CHIEF</abbr> export entry has reached departed status, you should submit evidence of export to <a class="govuk-link" href="mailto:emcs.helpdesk@hmrc.gov.uk">emcs.helpdesk@hmrc.gov.uk</a> to request the closure of the undischarged <abbr title="Administrative Reference Code">ARC</abbr>, as per the existing procedures in <a class="govuk-link" href="https://www.gov.uk/guidance/receive-goods-into-and-remove-goods-from-an-excise-warehouse-excise-notice-197#sect13">Notice 197, Section 13.10</a>.</p>
 
 <h3>Other issues</h3>
 
