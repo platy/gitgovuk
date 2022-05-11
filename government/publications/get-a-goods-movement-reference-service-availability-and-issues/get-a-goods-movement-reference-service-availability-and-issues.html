@@ -28,7 +28,7 @@
     Get a goods movement reference: service availability and issues
   </h1>
 </div>
-  <p class="publication-header__last-changed">Updated 5 May 2022</p>
+  <p class="publication-header__last-changed">Updated 11 May 2022</p>
 
   </header>
 
@@ -101,30 +101,30 @@
 <h2>Planned downtime</h2>
 
 <div class="call-to-action">
-<p>Tuesday 10 May 2022 10am to 12pm (midday)</p>
+<p>Tuesday 17 May 2022 11:59pm to 1am Wednesday 18 May 2022</p>
 </div>
 
-<p>Due to scheduled work on <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr>, there may be some disruption.</p>
+<p>Due to scheduled work on the Customs Declaration Service (<abbr title="Customs Declaration Service">CDS</abbr>), there may be some disruption to the following actions.</p>
 
-<h3>Actions linked to <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> that may be affected</h3>
+<h3>Actions which may be affected</h3>
 
-<h4>Create or update a Goods Movement Reference</h4>
+<h4>Create or update a Goods Movement Reference (<abbr title="goods movement reference">GMR</abbr>)</h4>
 
-<p>An error will occur if <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations are being associated to the goods movement reference (<abbr title="goods movement reference">GMR</abbr>).</p>
+<p><abbr title="goods movement references">GMRs</abbr> will go to a ‘non-finalisable’ state if a <abbr title="Customs Declaration Service">CDS</abbr> declaration is being attached during the maintenance.</p>
 
-<h4>Check-in goods movement references (<abbr title="goods movement references">GMRs</abbr>) (outbound)</h4>
+<h4>Check-in <abbr title="goods movement references">GMRs</abbr> (outbound)</h4>
 
-<p>Goods movement references with <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations will go to a ‘controlled’ state. When the maintenance ends:</p>
+<p><abbr title="goods movement references">GMRs</abbr> with Customs Handling of Import and Export Freight (<abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr>) declarations will go to a ‘controlled’ state. When the maintenance ends:</p>
 
 <ul>
   <li>queued messages will be processed</li>
   <li>the risking response may change from ‘controlled’ to ‘release’</li>
-  <li>embark goods movement reference (outbound) — departure messages will be queued, then processed and updated when downtime ends</li>
+  <li>embark <abbr title="goods movement reference">GMR</abbr> (outbound) — departure messages will be queued, then processed and updated when downtime ends</li>
 </ul>
 
-<h4>Embark goods movement reference (inbound)</h4>
+<h4>Embark <abbr title="goods movement reference">GMR</abbr> (inbound)</h4>
 
-<p>Goods movement references with <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations will go to a ‘controlled state’ . When downtime ends:</p>
+<p><abbr title="goods movement references">GMRs</abbr> with <abbr title="Customs Declaration Service">CDS</abbr> declarations will go to a ‘controlled state’ . When downtime ends:</p>
 
 <ul>
   <li>queued messages will be processed</li>
@@ -133,43 +133,13 @@
 
 <h3>What you can still do</h3>
 
-<p>You will still be able to enter and validate Customs Declaration Service and New Computerised Transit System (<abbr title="New Computerised Transit System">NCTS</abbr>) declarations to get a goods movement reference during this downtime.</p>
+<p>Carriers should continue to collect, validate and embark <abbr title="goods movement references">GMRs</abbr> for crossings during the period of downtime.</p>
 
-<h3>Carriers with inbound crossings on the short straits (Dover and Eurotunnel only)</h3>
+<p><abbr title="goods movement references">GMRs</abbr> remain mandatory for freight movements using goods vehicle movement service (<abbr title="goods vehicle movement service">GVMS</abbr>) and hauliers without a valid <abbr title="goods movement reference">GMR</abbr> should be turned away. You should not turn off <abbr title="goods movement reference">GMR</abbr> validation during this period of downtime.</p>
 
-<p>Due to the timings of the crossings, any <abbr title="goods movement references">GMRs</abbr> which are embarked during the period of downtime will not update by the end of the crossing and will remain in a ‘controlled’ status.</p>
+<p>The core services of <abbr title="goods vehicle movement service">GVMS</abbr> will be available. You will still be able to enter and validate New Computerised Transit System (<abbr title="New Computerised Transit System">NCTS</abbr>) and <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations to get <abbr title="goods movement references">GMRs</abbr> during the scheduled maintenance.</p>
 
-<p>Carriers should :</p>
-
-<ul>
-  <li>switch off the <abbr title="goods movement reference">GMR</abbr> validation step of the check-in process within their booking system for the down time period</li>
-  <li>continue to collect <abbr title="goods movement references">GMRs</abbr> for crossings during the period of downtime — <abbr title="goods movement references">GMRs</abbr> remain mandatory for freight movements using <abbr title="goods vehicle movement service">GVMS</abbr> and hauliers without a <abbr title="goods movement reference">GMR</abbr> should be turned away</li>
-  <li>where possible, take action to retrospectively check in and embark any <abbr title="goods movement references">GMRs</abbr> captured during the period of downtime once <abbr title="goods vehicle movement service">GVMS</abbr> is available again from midday Tuesday 10 May 2022</li>
-</ul>
-
-<p>During downtime, hauliers will not need to attend an Inland Border Facility:</p>
-
-<ul>
-  <li>unless they are instructed to by a customs officer</li>
-  <li>if they are moving goods that are going to an office of departure or office of destination (starting or ending a transit movement)</li>
-  <li>if they’re using any carnet or other document (such as a <abbr title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">CITES</abbr> permit) that needs to be processed by Border Force</li>
-</ul>
-
-<h3>Carriers using <abbr title="goods vehicle movement service">GVMS</abbr> at Standard Exports locations</h3>
-
-<p>During the downtime period, messages from <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> to <abbr title="goods vehicle movement service">GVMS</abbr> will be held in a queue and <abbr title="goods movement references">GMRs</abbr> containing <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> declarations will be initially set as a ‘controlled’ status.</p>
-
-<p>When <abbr title="Customs Handling of Import and Export Freight">CHIEF</abbr> becomes available the messages will be sent and any cleared <abbr title="goods movement references">GMRs</abbr> without outstanding inspections will update from ‘controlled’ to ‘release’.</p>
-
-<p>So in order to avoid congestion at check-in, for all outbound standard exports crossings, carriers should switch off the <abbr title="goods movement reference">GMR</abbr> validation step of the check in process within their booking system from 10am to midday Tuesday 10 May 2022.</p>
-
-<p>Continue to collect <abbr title="goods movement references">GMRs</abbr> for crossings during the period of downtime. <abbr title="goods movement references">GMRs</abbr> remain mandatory for freight movements using <abbr title="goods vehicle movement service">GVMS</abbr> and hauliers without a <abbr title="goods movement reference">GMR</abbr> should be turned away.</p>
-
-<p>Where possible, take action to retrospectively check in and or embark any <abbr title="goods movement references">GMRs</abbr> captured during the period of downtime once <abbr title="goods vehicle movement service">GVMS</abbr> is available again from midday Tuesday 10 May 2022.</p>
-
-<h3>All other carriers</h3>
-
-<p>Carriers should not turn off <abbr title="goods movement reference">GMR</abbr> validation during this period of downtime. They should continue to collect, validate and embark <abbr title="goods movement references">GMRs</abbr> for crossings during the period of downtime. <abbr title="goods movement references">GMRs</abbr> remain mandatory for freight movements using <abbr title="goods vehicle movement service">GVMS</abbr> and hauliers without a valid <abbr title="goods movement reference">GMR</abbr> should be turned away.</p>
+<p>We apologise for any inconvenience this may cause.</p>
 
 <h2>Service issues</h2>
 
