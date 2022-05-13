@@ -1,0 +1,180 @@
+<main class="html-publication" lang="en" role="main">
+      
+
+  <div class="publication-external">
+    <ul class="organisation-logos">
+        <li class="organisation-logos__logo">
+          
+<div class="gem-c-organisation-logo brand--department-of-health">
+    <a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--single-identity brand__border-color" href="/government/organisations/uk-health-security-agency">
+      <span class="gem-c-organisation-logo__name">UK Health<br>Security<br>Agency</span>
+</a>
+</div>
+        </li>
+    </ul>
+  </div>
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--padding-top ">
+    
+  
+
+<div class="gem-c-title gem-c-title--inverse govuk-!-margin-top-8 govuk-!-margin-bottom-0">
+      <span class="govuk-caption-xl gem-c-title__context">
+    Guidance
+  </span>
+
+
+  <h1 class="gem-c-title__text govuk-heading-xl">
+    NHS COVID-19 app: how the app works
+  </h1>
+</div>
+  <p class="publication-header__last-changed">Published 13 May 2022</p>
+
+  </header>
+
+
+
+<div class="govuk-grid-row sidebar-with-body" data-module="sticky-element-container">
+    <div class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
+        <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 1" data-track-category="contentsClicked" data-track-label="#the-algorithm-and-risk-score" data-track-options="{&quot;dimension29&quot;:&quot;The algorithm and risk score&quot;}" href="#the-algorithm-and-risk-score">The algorithm and risk score</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 2" data-track-category="contentsClicked" data-track-label="#mobile-or-wifi-data" data-track-options="{&quot;dimension29&quot;:&quot;Mobile or wifi data&quot;}" href="#mobile-or-wifi-data">Mobile or wifi data</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 3" data-track-category="contentsClicked" data-track-label="#how-we-know-the-app-works" data-track-options="{&quot;dimension29&quot;:&quot;How we know the app works&quot;}" href="#how-we-know-the-app-works">How we know the app works</a>
+
+        </li>
+    </ol>
+</nav>
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+    </div>
+
+  <div class="print-wrapper">
+    <div class="print-meta-data">
+      <p>
+  <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png">
+</p>
+<p>
+  © Crown copyright 2022
+</p>
+<p>
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3">nationalarchives.gov.uk/doc/open-government-licence/version/3</a> or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <a href="mailto:psi@nationalarchives.gov.uk">psi@nationalarchives.gov.uk</a>.
+</p>
+<p>
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+</p>
+<p>
+  This publication is available at https://www.gov.uk/government/publications/nhs-covid-19-app-user-guide/nhs-covid-19-app-how-the-app-works
+</p>
+
+
+    </div>
+  </div>
+
+  <div class="main-content-container">
+    <div class="gem-c-govspeak-html-publication">
+  
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+    
+      <div class="govspeak">
+<h2>The algorithm and risk score</h2>
+
+<p>The app uses Bluetooth signal strength between devices to estimate the distance between 2 close devices.</p>
+
+<p>Signal strength between 2 close devices is measured every 3.6 minutes (on average).</p>
+
+<p>Signal strength depends on a number of external factors, such as where the phone is on the body and the surrounding environment.</p>
+
+<p>While a Bluetooth signal continues to be detected between 2 devices (an encounter), Application Programming Interface (<abbr title="Application Programming Interface">API</abbr>) Mode 2 gathers signal strength measurements that are transmitted by another user’s device approximately 4 seconds every 3.6 minutes (on average).</p>
+
+<p>A range of sample measurements relating to the signal strength are gathered by the <abbr title="Application Programming Interface">API</abbr> and used together to estimate of distance. Sets of measurements within an encounter are shuffled to ensure anonymity and then assessed together to build an estimate of the distance between the 2 devices during this period.</p>
+
+<p>For each encounter, a score is calculated as follows:</p>
+
+<ul>
+  <li>estimated within 1m of the other device: total time spent within 1m</li>
+  <li>estimated 1m or beyond from the other device: sum of [total time at each distance / distance squared]</li>
+</ul>
+
+<p>These scores are summed across the interactions someone has had in a single day with the contact who has tested positive. The app does not look at interactions across multiple days as it uses new anonymous IDs every day in order to protect the privacy of users.</p>
+
+<p>Finally, the total score is multiplied by a factor recognising infectiousness (of the individual testing positive) on the day of the encounter.</p>
+
+<h3>Risk threshold and notifications</h3>
+
+<p>When an app user enters a positive test into the app, they are asked whether the app can notify other app users they may have passed the virus on to.</p>
+
+<p>The algorithm uses the date of symptom onset to calculate who they are most likely to have infected. If you said that you cannot remember when your symptoms started, the app will record it as 2 days before you entered your symptoms. The algorithm looks at the daily risk for every app user who they came into contact with from 2 days before symptoms first appeared, up to a maximum of 10 days after symptoms first appeared.</p>
+
+<p>If an app user’s risk score on any of these days crosses the risk threshold it is identified as high-risk and they will be notified and directed to further guidance.</p>
+
+<p>For the purposes of contact tracing, a high-risk encounter is classed as one where an individual has been within 2 metres of someone who has tested positive for coronavirus (COVID-19) for at least 15 minutes. The risk threshold for the app has been set to identify high-risk encounters based on this principle along with infectiousness (of the individual testing positive) on the day of the encounter; balancing the need to slow the rate of infection by identifying high-risk encounters whilst mitigating the risk that those at lower risk may be notified to self-isolate.</p>
+
+<p>This threshold can be changed as the app is updated, more data is available about the transmission rate of the virus, or due to behavioural factors.</p>
+
+<p>The algorithm has been optimised by scientific experts, based on the functionality provided by V1.6 of Google’s and V2.0 of Apple’s <abbr title="Application Programming Interface">API</abbr>.</p>
+
+<h2>Mobile or wifi data</h2>
+
+<p>The app requires an internet connection at regular intervals throughout the day. This is to download a list of anonymous IDs of people who have recently tested positive for COVID-19.</p>
+
+<p>The amount of data used will vary from day to day, depending on how many COVID-19 cases there are. The app team will be carefully monitoring data usage to make sure it remains at a reasonable level.</p>
+
+<p>Major phone operators in England and Wales, including Vodafone, Three, EE, O2 (including giffgaff and Tesco mobile), Sky, and Virgin, are supporting NHS COVID-19 app users by ‘zero-rating’ data charges for all in-app activity. This means customers will not be charged for data when using the in-app functions.</p>
+
+<p>Don’t worry if your internet connection is unreliable. Alerts and notifications from the app will be queued and sent to you as soon as you’re back online.</p>
+
+<h2>How we know the app works</h2>
+
+<p>The NHS COVID-19 app has been shown to help reduce the spread of COVID-19.</p>
+
+<p><a class="govuk-link" href="https://www.coronavirus-fraser-group.org/blog#2august2021" rel="external">Analysis from leading scientists</a> shows that in the first 3 weeks of July 2021, as cases were rising, the app averted up to 2,000 cases per day. It also shows the app reduces the spread of COVID-19 by around 4.3% each week, and for every 200 to 250 tests entered and shared in the app one person is prevented from being hospitalised from the virus.</p>
+
+<p>The app team works with a team of independent scientific advisers from University of Oxford’s Pathogen Dynamics Group at the Big Data Institute.</p>
+
+<p>Previously, <a class="govuk-link" href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Epidemiological_Impact_of_the_NHS_COVID_19_App_Public_Release_V1.pdf" rel="external">analysis done by the Alan Turing Institute, Warwick University and University of Oxford</a> reveals that for every 1% increase in app users, the number of COVID-19 cases in the population can be reduced by 2.3%.</p>
+
+<p>As of April 2022, the app had been downloaded over 30 million times. The Alan Turing Institute and University of Oxford analysis indicates that the app helped to prevent approximately 600,000 cases of COVID-19 between September 2020 and January 2021.</p>
+
+<div aria-label="Information" class="application-notice info-notice" role="note">
+<p><a class="govuk-link" href="https://stats.app.covid19.nhs.uk/" rel="external">Full data about app usage and uptake is published every 2 weeks.</a></p>
+</div>
+
+</div>
+
+
+</div>
+</div>
+  </div>
+
+  <div class="sticky-element" data-sticky-element="">
+    <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" focusable="false" height="17" viewBox="0 0 13 17" width="13" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" fill="currentColor"></path>
+    </svg>
+    Contents
+</a>
+
+    <div class="sticky-element__print-link">
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+    </div>
+  </div>
+</div>
+
+    </main>
