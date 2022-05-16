@@ -28,7 +28,7 @@
     Get a goods movement reference: service availability and issues
   </h1>
 </div>
-  <p class="publication-header__last-changed">Updated 13 May 2022</p>
+  <p class="publication-header__last-changed">Updated 16 May 2022</p>
 
   </header>
 
@@ -100,7 +100,46 @@
 
 <h2>Planned downtime</h2>
 
-<p>None.</p>
+<div class="call-to-action">
+<p>Saturday 21 May 2022 10:30pm to 1am Sunday 22 May 2022</p>
+</div>
+
+<p>Due to scheduled work on the Customs Declaration Service, there may be some disruption to the following actions.</p>
+
+<h3>Actions which may be affected</h3>
+
+<h4>Create or update a Goods Movement Reference</h4>
+
+<p>Goods Movement References will go to a ‘non-finalisable’ state if a Customs Declaration Service declaration is being attached during the maintenance.</p>
+
+<h4>Check-in Goods Movement References (outbound)</h4>
+
+<p>Goods Movement References with Customs Declaration Service declarations will go to a ‘controlled’ state. When the maintenance ends:</p>
+
+<ul>
+  <li>queued messages will be processed</li>
+  <li>the risking response may change from ‘controlled’ to ‘release’</li>
+  <li>embark Goods Movement Reference (outbound) — departure messages will be queued, then processed and updated when downtime ends</li>
+</ul>
+
+<h4>Embark Goods Movement Reference (inbound)</h4>
+
+<p>Goods Movement References with Customs Declaration Service declarations will go to a ‘controlled state’. When downtime ends:</p>
+
+<ul>
+  <li>queued messages will be processed</li>
+  <li>the risking response may change from ‘controlled’ to ‘release’</li>
+</ul>
+
+<h3>What you can still do</h3>
+
+<p>Carriers should continue to collect, validate and embark Goods Movement References for crossings during the period of downtime.</p>
+
+<p>Goods Movement References remain mandatory for freight movements using goods vehicle movement service and hauliers without a valid Goods Movement Reference should be turned away. You should not turn off Goods Movement Reference validation during this period of downtime.</p>
+
+<p>The core services of goods vehicle movement service will be available. You will still be able to enter and validate New Computerised Transit System and Customs Handling of Import and Export Freight declarations to get Goods Movement References during the scheduled maintenance.</p>
+
+<p>We apologise for any inconvenience this may cause.</p>
 
 <h2>Service issues</h2>
 
