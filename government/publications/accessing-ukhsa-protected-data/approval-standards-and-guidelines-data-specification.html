@@ -1,0 +1,448 @@
+<main class="html-publication" lang="en" role="main">
+      
+
+  <div class="publication-external">
+    <ul class="organisation-logos">
+        <li class="organisation-logos__logo">
+          
+<div class="gem-c-organisation-logo brand--department-of-health">
+    <a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--single-identity brand__border-color" href="/government/organisations/uk-health-security-agency">
+      <span class="gem-c-organisation-logo__name">UK Health<br>Security<br>Agency</span>
+</a>
+</div>
+        </li>
+    </ul>
+  </div>
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--padding-top ">
+    
+  
+
+<div class="gem-c-title gem-c-title--inverse govuk-!-margin-top-8 govuk-!-margin-bottom-0">
+      <span class="govuk-caption-xl gem-c-title__context">
+    Guidance
+  </span>
+
+
+  <h1 class="gem-c-title__text govuk-heading-xl">
+    Approval standards and guidelines: data specification
+  </h1>
+</div>
+  <p class="publication-header__last-changed">Updated 18 May 2022</p>
+
+  </header>
+
+
+
+<div class="govuk-grid-row sidebar-with-body" data-module="sticky-element-container">
+    <div class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
+        <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 1" data-track-category="contentsClicked" data-track-label="#approval-standard-data-specification" data-track-options="{&quot;dimension29&quot;:&quot;Approval standard: data specification&quot;}" href="#approval-standard-data-specification">Approval standard: data specification</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 2" data-track-category="contentsClicked" data-track-label="#guidelines" data-track-options="{&quot;dimension29&quot;:&quot;Guidelines&quot;}" href="#guidelines">Guidelines</a>
+
+        </li>
+    </ol>
+</nav>
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+    </div>
+
+  <div class="print-wrapper">
+    <div class="print-meta-data">
+      <p>
+  <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png">
+</p>
+<p>
+  © Crown copyright 2022
+</p>
+<p>
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3">nationalarchives.gov.uk/doc/open-government-licence/version/3</a> or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <a href="mailto:psi@nationalarchives.gov.uk">psi@nationalarchives.gov.uk</a>.
+</p>
+<p>
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+</p>
+<p>
+  This publication is available at https://www.gov.uk/government/publications/accessing-ukhsa-protected-data/approval-standards-and-guidelines-data-specification
+</p>
+
+
+    </div>
+  </div>
+
+  <div class="main-content-container">
+    <div class="gem-c-govspeak-html-publication">
+  
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+    
+      <div class="govspeak">
+<h2>Approval standard: data specification</h2>
+
+<h3>When must this standard be met</h3>
+
+<p>This standard must be met for all applications to access <abbr title="UK Health Security Agency">UKHSA</abbr> data classified as ‘Protected’.</p>
+
+<h3>Standard</h3>
+
+<p>1. All applications must include a data specification which describes in a precise and understandable manner the data necessary from <abbr title="UK Health Security Agency">UKHSA</abbr> for the conduct of the project:</p>
+
+<ul>
+  <li>where a <abbr title="UK Health Security Agency">UKHSA</abbr> data dictionary is available for the data, you must use it to capture the required data specification</li>
+  <li>the data specification must identify provenance of the data of interest (the <abbr title="UK Health Security Agency">UKHSA</abbr> system or systems which the data would be obtained from) – where multiple tables or data sources are required to form a relational database, the provenance of each data set must be identified and the table labelled accordingly</li>
+  <li>the data specification must list all data elements (the data items used within data sets) from the data set or data sets of interest using the clinical terminology and classification systems of the data set (herein ‘controlled vocabulary’ or ‘controlled vocabularies’)</li>
+  <li>the data specification must identify the format of the data (record-level or aggregated)</li>
+  <li>the data specification must identify the population or sampling frame of interest, and where available, use controlled vocabularies for classification and indexing of data subjects. The use of vague terms or references must be avoided</li>
+  <li>the data specification must, at a table-level, include any parameters that should be applied to restrict the data to the absolute minimum</li>
+  <li>the data specification must include any reference tables that will be used to apply data minimisation – all reference tables must be presented using the controlled vocabulary of the system and must be supplied in a comma-separated values (CSV) file</li>
+  <li>the data specification must include spatial, temporal or spatiotemporal parameters, for example the specific dates of interest for the sample of interest. It is recommended that any dates conform with the ISO standard: yyyy-mm-dd</li>
+  <li>where derived data elements are requested, the data specification must include relevant metadata that is descriptive of the technical processes that should be used to produce the derived field – for example, where a time interval variable is requested (measure of time between 2 date fields), the fields needed to derive it must be specified</li>
+  <li>where record-level data is requested, the data specification must include relevant person or object identifiers which contain values that uniquely identify each row in the data – where multiple tables are requested and such tables are relational, the data specification must provide the primary and foreign keys</li>
+  <li>the data specification must be consistent with other evidence supplied as part of the application</li>
+</ul>
+
+<p>2. All applications must clearly justify the scope, scale and complexity of the data being requested by including a brief justification alongside each data element which specifies why the item is necessary for the project. This justification of each data element must also be consistent with the overall justification for processing <abbr title="UK Health Security Agency">UKHSA</abbr> data provided in the protocol.</p>
+
+<p>3. The data specification must document only the data which are adequate, relevant and necessary for the purposes for which they are to be processed (data minimisation). Where options are available to limit the identifiability or granularity of a data element, data minimisation approaches must be applied.</p>
+
+<p>4. Where data linkage is required to merge person-level data processed by the applicant to <abbr title="UK Health Security Agency">UKHSA</abbr> person-level data, the data specification must describe the data elements that will be used for linkage and must demonstrate to <abbr title="UK Health Security Agency">UKHSA</abbr> the linkage will be appropriately sensitive and specific:</p>
+
+<ul>
+  <li>the data specification must identify the provenance of the data elements to be used for the data linkage</li>
+  <li>each data element must be defined using the controlled vocabularies of the system and justified</li>
+  <li>each data element must be unique and persistently identifying</li>
+  <li>the linkage methodology must be described in the project methods and/or data management plan in the protocol</li>
+  <li>the linkage must use the minimum data required</li>
+  <li>the linkage must have a clear and extant legal basis</li>
+  <li>where data linkage is required to access patient confidential data, NHS numbers will be required – if you do not have access to NHS numbers, you must contact <abbr title="UK Health Security Agency">UKHSA</abbr> to discuss</li>
+</ul>
+
+<p>5. Where multiple linkage files will be sent to <abbr title="UK Health Security Agency">UKHSA</abbr>, the data specification must set out how the linkage files will be standardised before disclosure to <abbr title="UK Health Security Agency">UKHSA</abbr>.</p>
+
+<h2>Guidelines</h2>
+
+<p>Article 5(1) of the UK General Data Protection Regulation (UK GDPR) requires that personal data shall be:</p>
+
+<blockquote>
+  <p class="last-child">(c) adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (data minimisation)</p>
+</blockquote>
+
+<p>It is therefore a requirement that any application for protected data demonstrates the data requested will be:</p>
+
+<ul>
+  <li>adequate – sufficient to properly fulfil your stated purpose (the aims, objectives and methodologies presented in your scientific protocol (<a class="govuk-link" href="https://www.gov.uk/government/publications/accessing-ukhsa-protected-data">see Approval standards and guidelines: scientific protocol</a> for further information)</li>
+  <li>relevant – has a rational link to that purpose</li>
+  <li>limited to what is necessary – no more than you need for that purpose</li>
+</ul>
+
+<p>You must evidence this through producing a detailed data specification in accordance with this approval standard.</p>
+
+<p>Where <abbr title="UK Health Security Agency">UKHSA</abbr> has published a data dictionary specification for the data of interest, the template will guide you through the information you must supply to comply with the standard. Where not available, it is recommended that you provide a standalone document using the practices recommended in these guidelines.</p>
+
+<p><abbr title="UK Health Security Agency">UKHSA</abbr> does not recommend including your data specification in the protocol, but it should be clear why the data you have requested is needed for your project by virtue of the explanation and justification of it given in the protocol.</p>
+
+<p>Should the application be favourably reviewed, unless otherwise agreed the data will be shared in a CSV file that can be exported into MS Excel, SAS, SPSS, or ASCII files.</p>
+
+<h3>Understanding the availability of <abbr title="UK Health Security Agency">UKHSA</abbr> data</h3>
+
+<p><abbr title="UK Health Security Agency">UKHSA</abbr> publish data dictionaries to enable you to identify and document their data requirements. Each data dictionary contains a detailed technical description for the data set, such as its format, structure and data elements. The main features include:</p>
+
+<ul>
+  <li>the name of each data element using the controlled vocabulary of the system</li>
+  <li>the definition of the data element</li>
+  <li>a description of the valid values for that data element, or where relevant, the location of the controlled vocabulary or reference tables</li>
+  <li>primary and foreign keys that could be used for linkage between records</li>
+</ul>
+
+<h3>Changes to the data dictionaries</h3>
+
+<p>Where changes are made to an existing data dictionary, these will be identified in a version log. The log will record if the change is an addition, refinement, discovered redundancy, or minor name change.</p>
+
+<h3>Selecting data elements</h3>
+
+<p>Should a <abbr title="UK Health Security Agency">UKHSA</abbr> data dictionary not be available for the data set or data sets of interest, it is recommended that your data specification is formatted to provide a clear and structured narrative of the data requested. As a minimum, it is recommended that your data specification includes:</p>
+
+<ul>
+  <li>the title of each data set, explaining the provenance of the data</li>
+  <li>the data element name (in accordance with the controlled vocabularies of the data set it is to be obtained from)</li>
+  <li>the description of the data element</li>
+  <li>the justification for requesting the data element</li>
+  <li>a description of the data as either record-level or aggregate</li>
+</ul>
+
+<h4>Example 1. An illustrative example of data requested from 2 <abbr title="UK Health Security Agency">UKHSA</abbr> data sets: CTAD Chlamydia Surveillance System (Table 1) and GUMCAD (Table 2)</h4>
+
+<p>In this example, the planned project will evaluate the demographics of people accessing self- sampling tests for Chlamydia trachomatis infections in England. The protocol for this project describes the following aims:</p>
+
+<ol>
+  <li>To compare the proportion of asymptomatic screens and symptomatic tests conducted through self-sampling to community-based services (such as GPs or pharmacies).</li>
+  <li>To compare the proportion of asymptomatic screens and symptomatic tests conducted through self-sampling to community-based services (such as GPs or pharmacies) by different demographic characteristics (age, ethnicity).</li>
+  <li>To look at temporal trends in uptake of self-sampling at MSOA unit level.</li>
+</ol>
+
+<h4>Table 1. CTAD Chlamydia Surveillance System. Record-level data is requested for all chlamydia tests undertaken in England from NHS laboratories, local authorities and NHS commissioned laboratories between 1 January 2020 and 31 December 2020</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Data element</th>
+      <th scope="col">Description of the data element</th>
+      <th scope="col">Justification for requesting</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PatientID (project specific   pseudonymised)</td>
+      <td>A unique number used to identify a   patient. By default, this ID will be pseudonymised on a project specific   basis by <abbr title="UK Health Security Agency">UKHSA</abbr>.</td>
+      <td>Will be used for linkage between Table   1 and Table 2, to associate demographic data in GUMCAD with the type of   testing services. This will allow the study to look at testing by different   demographic characteristics     (age, sex, ethnicity).</td>
+    </tr>
+    <tr>
+      <td>Test_Identifier (project specific   pseudonymised)</td>
+      <td>A unique identifier of the chlamydia   test performed. By default, this ID will be pseudonymised on a project     specific   basis by <abbr title="UK Health Security Agency">UKHSA</abbr>.</td>
+      <td>Will be used to identify each unique   test per individual and if the availability of self sampling has changed   behaviours over time.</td>
+    </tr>
+    <tr>
+      <td>Testing_Service_Type</td>
+      <td>The type of service or setting   providing chlamydia testing.</td>
+      <td>
+<abbr title="UK Health Security Agency">UKHSA</abbr> published literature has   identified that tests from internet services have increased by 34.4% in 2020.   We will expand this analysis to evaluate the proportion of Chlamydia testing   done via the internet compared to other services for     different demographic groups.</td>
+    </tr>
+    <tr>
+      <td>Specimen_Date</td>
+      <td>Date   specimen taken.</td>
+      <td>Will be used for temporal analysis of tests by   Testing_service_Type</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>Table 2. GUMCAD STI surveillance. Record-level data is requested on all people who are identified in Table 1</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Data element</th>
+      <th scope="col">Description of the data element</th>
+      <th scope="col">Justification for requesting</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PatientID (project specific   pseudonymised)</td>
+      <td>A unique number used to identify a   patient. By default, this ID will be pseudonymised on a project specific   basis by     <abbr title="UK Health Security Agency">UKHSA</abbr>.</td>
+      <td>Will be used for linkage between Table   1 and Table 2.</td>
+    </tr>
+    <tr>
+      <td>Age</td>
+      <td>Age at attendance – derived as the   number of completed years between the patient’s date of birth and   consultation date.</td>
+      <td>Aim 2 sets out to evaluate testing   uptake by sociodemographic characteristics. Our analysis plan describes that   we will look at number and rates of tests by age in single years and by   ethnicity.</td>
+    </tr>
+    <tr>
+      <td>Ethnicity</td>
+      <td>The patient’s ethnicity as stated by   the patient.</td>
+      <td>Aim 2 sets out to evaluate uptake by   sociodemographic characteristics. The analysis plan describes that we will   look at number and rates of tests by age and by     ethnicity.</td>
+    </tr>
+    <tr>
+      <td>MSOA (derived)</td>
+      <td>Middle Layer Super Output Areas. To be   derived by <abbr title="UK Health Security Agency">UKHSA</abbr> from LSOA using ONS output area lookup.</td>
+      <td>CTAD data does not include patient   residence data, therefore, to conduct spatial analysis of uptake of Chlamydia   testing, MSOA is sought from GUMCAD. This should be derived from MSOA using   ONS groupings. We will use MSOA to look at geographical differences in     uptake of different test services.</td>
+    </tr>
+    <tr>
+      <td>Consultation_ Sypmptomatic</td>
+      <td>Does the patient have symptoms of an   STI (Yes or No)?</td>
+      <td>Aims 1 and 2 evaluate differences in   symptomatic versus asymptomatic service users. This element will be used to   understand differences in uptake by whether the patient presents with   symptoms.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>As this example utilises relational tables, you will see that there is a ‘PatientID’ in both tables which allows linkage between them. Where row-level data is requested from multiple tables that can be linked together, ensure that each table includes the appropriate primary and foreign keys.</p>
+
+<h3>Inclusion and exclusion criteria</h3>
+
+<p>You must provide a clear definition of the inclusion and exclusion criteria to identify the population or sample frame of interest, using the controlled vocabulary of the system and avoiding vague terms or references.</p>
+
+<p>It is important that the inclusion and exclusion criteria are precisely defined so that <abbr title="UK Health Security Agency">UKHSA</abbr> can fully understand the population or persons you are interested in and relevancy to your purpose or purposes.</p>
+
+<p>It is recommended that you consider the baseline charactestics of the data subjects, such as age, sex, location, ethnicity, study-specific measures (for example, systolic blood pressure, prior antiobiotic treatment) and the presence or absence of other medical, psychosocial, or emotional conditions.</p>
+
+<p>An example of how to draft your inclusion and exclusion criteria is provided in <a class="govuk-link" href="#example2">Example 2</a>. In this example, a clinical trial wishes to enrol new participants into a randomised control trial to test a new drug. They want to contact adult patients who have recently been diagnosed with coronavirus (COVID-19) infection and were diagnosed with a heart attack up to 12 months before the onset of their COVID-19 infection. They do not want to cause distress to bereaved families by attempting to contact people who are deceased.</p>
+
+<p>In this example, the inclusion and exclusion criteria provided in column 1 would not provide sufficient detail to meet the approval standard. This is because the language is not specific enough to understand the exact requirements of the study and may lead to different intepretations.</p>
+
+<p>In column 2, the specificity of the inclusion and exclusion criteria has been improved to provide sufficient information to identify the correct data subjects. This includes a clear definition of the the age range the study is interested in and a clinical definition of ‘heart attack’ using the controlled vocabulary of the data set.</p>
+
+<h4>Example 2. An illustrative example of inclusion and exclusion criteria to be applied to identify participants for a randomised control trial</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Insufficient detail</th>
+      <th scope="col">Sufficient detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Inclusion criteria: <br>• adult   patients with previous diagnosis of a heart attack and recently infected with COVID-19, confirmed by a lab test <br> Exclusion criteria: <br>• deceased   patients</td>
+      <td>Inclusion criteria: <br> • adult patients aged 45 years or over and 75 years   or under at symptom_onset_date <br> • diagnosed with PCR confirmed COVID-19 infection (less than 12 months from diagnosis of   myocardial infarction) (MI) in HES Admitted Care; where MI is defined as   I21.3, I21.4, I21.9, I22, I22.0, I22.1, I22.8, I22.9, I23, I23.0, I23.1,   I23.2, I23.3, I23.4, I23.5,I23.6 or I23.8,   <br> • where COVID-19 infection confirmed between   2020-06-01 and 2021-06-01 using SPECIMEN_DATE <br> COUNTRY_CODE = E (resident in   England at diagnosis <br> <br> Exclusion criteria: <br> • deceased patients <br> • patients aged 44   years and under and 76 years and over   <br> • MI greater than 365.25 days prior to symptom_onset_date</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Reference tables</h3>
+<p>Where the data is to be limited to specific events, reference tables must be included in your application detailing these events in accordance with the relevant clinical coding system. All reference tables should be supplied using CSV files.</p>
+
+<p><a class="govuk-link" href="#example3">Example 3</a> is an illustrative example of OPCS-4.8 clinical classification codes to restrict the episodes within Hospital Episode Statistics (HES) data provided to episodes containing certain types of hip joint replacements. In this example, the file contains the code in column 1 and a description of the code in column 2.</p>
+
+<p>It is recommended that the code and a meaningful description are the minimum information provided for a reference table.</p>
+
+<h4>Example 3. Reference table of OPCS-4.8 classification codes provided to restrict to episodes to those containing the relevant procedures</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">OPCS-4.8_code</th>
+      <th scope="col">Procedure_desc</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>W37.1</td>
+      <td>Primary   total prosthetic replacement of hip joint using cement</td>
+    </tr>
+    <tr>
+      <td>W37.8</td>
+      <td>Other   specified total prosthetic replacement of hip joint using cement</td>
+    </tr>
+    <tr>
+      <td>W37.9</td>
+      <td>Unspecified   total prosthetic replacement of hip joint using cement</td>
+    </tr>
+    <tr>
+      <td>W38.1</td>
+      <td>Primary   total prosthetic replacement of hip joint not using cement</td>
+    </tr>
+    <tr>
+      <td>W38.8</td>
+      <td>Other   specified total prosthetic replacement of hip joint not using cement</td>
+    </tr>
+    <tr>
+      <td>W38.9</td>
+      <td>Unspecified   total prosthetic replacement of hip joint not using cement</td>
+    </tr>
+    <tr>
+      <td>W39.1</td>
+      <td>Primary total   prosthetic replacement of hip joint NEC</td>
+    </tr>
+    <tr>
+      <td>W39.8</td>
+      <td>Other   specified other total prosthetic replacement of hip joint</td>
+    </tr>
+    <tr>
+      <td>W39.9</td>
+      <td>Unspecified   other total prosthetic replacement of hip joint</td>
+    </tr>
+    <tr>
+      <td>W46.1</td>
+      <td>Primary   prosthetic replacement of head of femur using cement</td>
+    </tr>
+    <tr>
+      <td>W46.8</td>
+      <td>Other   specified prosthetic replacement of head of femur using cement</td>
+    </tr>
+    <tr>
+      <td>W46.9</td>
+      <td>Unspecified   prosthetic replacement of head of femur using cement</td>
+    </tr>
+    <tr>
+      <td>W47.1</td>
+      <td>Primary   prosthetic replacement of head of femur not using cement</td>
+    </tr>
+    <tr>
+      <td>W47.8</td>
+      <td>Other   specified prosthetic replacement of head of femur not using cement</td>
+    </tr>
+    <tr>
+      <td>W47.9</td>
+      <td>Unspecified   prosthetic replacement of head of femur not using cement</td>
+    </tr>
+    <tr>
+      <td>W48.1</td>
+      <td>Primary   prosthetic replacement of head of femur NEC</td>
+    </tr>
+    <tr>
+      <td>W48.8</td>
+      <td>Other   specified other prosthetic replacement of head of femur</td>
+    </tr>
+    <tr>
+      <td>W48.9</td>
+      <td>Unspecified   other prosthetic replacement of head of femur</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><abbr title="UK Health Security Agency">UKHSA</abbr> understands there will be some circumstances where medical terminology and clinical coding classifications evolve over time. It is recommended that applicants seek advice to ensure that their requirements can be interpreted in view of a current model.</p>
+
+<h3>Derived fields</h3>
+<p>Derived fields are data elements or values which do not exist directly in the data source but are calculated from one or more data elements which do. Some fields are derived internally to offer data minimisation approaches such as:</p>
+
+<ul>
+  <li>age bands supplied instead of precise age – these bandings may be in the standard 5 year banding or broader groups (aggregation)</li>
+  <li>dates (such as date of birth) supplied as month and year only or offset by plus or minus a random number of days (partial data removal or offsetting)</li>
+</ul>
+
+<p>Where the data specification for your project includes derived fields, you must provide sufficient information of the required technical processes to produce the derived field.</p>
+
+<p>For example, when documenting details about a time interval you must provide the 2 date fields needed to calculate the interval and the unit measure the calculated field should be presented in. <a class="govuk-link" href="#example4">Example 4</a> provides an illustrative example of a calculated survival interval.</p>
+
+<h4>Example 4. Illustrative example of how to present information on the technical processes to be followed to generate a derived field, in this case, a survival interval</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Data element</th>
+      <th scope="col">Description of the data element</th>
+      <th scope="col">Justification for requesting</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Derived_Survival_Interval</td>
+      <td>Calculated interval using   symptom_onset_date and death_date. Output to be expressed as a number of     days.</td>
+      <td>To produce a survival curve to look at   survival in the cohort.</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+</div>
+</div>
+  </div>
+
+  <div class="sticky-element" data-sticky-element="">
+    <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" focusable="false" height="17" viewBox="0 0 13 17" width="13" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" fill="currentColor"></path>
+    </svg>
+    Contents
+</a>
+
+    <div class="sticky-element__print-link">
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+    </div>
+  </div>
+</div>
+
+    </main>
