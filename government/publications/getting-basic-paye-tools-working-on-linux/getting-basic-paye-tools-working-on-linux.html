@@ -1,0 +1,184 @@
+<main class="html-publication" lang="en" role="main">
+      
+
+  <div class="publication-external">
+    <ul class="organisation-logos">
+        <li class="organisation-logos__logo">
+          
+<div class="gem-c-organisation-logo brand--hm-revenue-customs">
+    <a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--hmrc brand__border-color" href="/government/organisations/hm-revenue-customs">
+      <span class="gem-c-organisation-logo__name">HM Revenue<br>&amp; Customs</span>
+</a>
+</div>
+        </li>
+    </ul>
+  </div>
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--padding-top ">
+    
+  
+
+<div class="gem-c-title gem-c-title--inverse govuk-!-margin-top-8 govuk-!-margin-bottom-0">
+      <span class="govuk-caption-xl gem-c-title__context">
+    Guidance
+  </span>
+
+
+  <h1 class="gem-c-title__text govuk-heading-xl">
+    Basic PAYE Tools - Linux installation help
+  </h1>
+</div>
+  <p class="publication-header__last-changed">Updated 19 May 2022</p>
+
+  </header>
+
+
+
+<div class="govuk-grid-row sidebar-with-body" data-module="sticky-element-container">
+    <div class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
+        <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 1" data-track-category="contentsClicked" data-track-label="#basic-dependencies" data-track-options="{&quot;dimension29&quot;:&quot;Basic dependencies&quot;}" href="#basic-dependencies">Basic dependencies</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 2" data-track-category="contentsClicked" data-track-label="#running-the-installer" data-track-options="{&quot;dimension29&quot;:&quot;Running the installer&quot;}" href="#running-the-installer">Running the installer</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 3" data-track-category="contentsClicked" data-track-label="#running-the-basic-paye-tools-application" data-track-options="{&quot;dimension29&quot;:&quot;Running the Basic PAYE Tools application&quot;}" href="#running-the-basic-paye-tools-application">Running the Basic PAYE Tools application</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 4" data-track-category="contentsClicked" data-track-label="#assistive-mode-server" data-track-options="{&quot;dimension29&quot;:&quot;Assistive Mode Server&quot;}" href="#assistive-mode-server">Assistive Mode Server</a>
+
+        </li>
+    </ol>
+</nav>
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+    </div>
+
+  <div class="print-wrapper">
+    <div class="print-meta-data">
+      <p>
+  <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png">
+</p>
+<p>
+  © Crown copyright 2022
+</p>
+<p>
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3">nationalarchives.gov.uk/doc/open-government-licence/version/3</a> or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <a href="mailto:psi@nationalarchives.gov.uk">psi@nationalarchives.gov.uk</a>.
+</p>
+<p>
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+</p>
+<p>
+  This publication is available at https://www.gov.uk/government/publications/getting-basic-paye-tools-working-on-linux/getting-basic-paye-tools-working-on-linux
+</p>
+
+
+    </div>
+  </div>
+
+  <div class="main-content-container">
+    <div class="gem-c-govspeak-html-publication">
+  
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+    
+      <div class="govspeak">
+<p>This guide applies to Basic Pay As You Earn (<abbr title="Pay As You Earn">PAYE</abbr>) Tools (<abbr title="Basic PAYE Tools">BPT</abbr>) version 22.0 onwards.</p>
+
+<h2>Basic dependencies</h2>
+
+<p>Basic <abbr title="Pay As You Earn">PAYE</abbr> Tools is a 64-bit application which is designed to run in a graphical desktop environment. It has been tested on the following distributions:</p>
+
+<ul>
+  <li>Ubuntu 20.04 LTS</li>
+  <li>Ubuntu 21.10 (the most recent version available during development)</li>
+</ul>
+
+<p>In order to run, <abbr title="Basic PAYE Tools">BPT</abbr> depends on glibc &gt;= 2.28</p>
+
+<h2>Running the installer</h2>
+
+<p>The installer should be extracted from the zip download before running it. Some <abbr title="Graphic User Interface">GUI</abbr> tools, for example Ubuntu’s Archive Manager, will allow the installer application to be run from within their interface without extraction, but it may not run correctly that way.</p>
+
+<p>If nothing happens when you run the installer by double-clicking the program, you may be able to diagnose some problems by running it in text mode from the command line.</p>
+
+<p>Run the installer in text mode using the following command (replacing “./payetools-rti-xx.y.zzzzz.aaa-linux” with the filename of the installer you downloaded):</p>
+
+<p>$ ./payetools-rti-xx.y.zzzzz.aaa-linux –mode text</p>
+
+<p>If you see an error message like the following one when running the installer, then your Linux installation does not meet the requirements to run 64-bit applications and you will not be able to install Basic <abbr title="Pay As You Earn">PAYE</abbr> Tools.</p>
+
+<p>./payetools-rti-xx.y.zzzzz.aaa-linux:</p>
+
+<p>cannot execute binary file: Exec format error</p>
+
+<h2>Running the Basic <abbr title="Pay As You Earn">PAYE</abbr> Tools application</h2>
+
+<p>By default Basic <abbr title="Pay As You Earn">PAYE</abbr> Tools will install below your home folder, for example.<br>
+ ${HOME}/HMRC/payetools-rti</p>
+
+<p>The installer also attempts to provide a desktop icon and add Basic <abbr title="Pay As You Earn">PAYE</abbr> Tools to the desktop environment’s usual menu or launcher.</p>
+
+<p>The first time you run Basic <abbr title="Pay As You Earn">PAYE</abbr> Tools from the desktop shortcut, you may need to right-click on it and select “Allow Launching”. Alternatively on other desktop environments you may be prompted to “Trust and launch” the application.</p>
+
+<p>If nothing happens after this, you can again diagnose problems via the command line. Check the console output from running:</p>
+
+<p>$ ~/HMRC/payetools-rti/rti.linux</p>
+
+<p>A log file is also created at <code>/tmp/rti.log</code>.</p>
+
+<p>The console output and log file will contain details which may help you to resolve the issue yourself, for example, missing dependencies. However if you require help have the log file (and any other log files in <code>/tmp</code> named <code>rti*</code>) ready when you contact HMRC.</p>
+
+<p>Note: there is a known issue in Ubuntu 20.04 which prevents <code>rti.linux</code> from launching when double-clicking the file directly in the file explorer.<br>
+See https://bugs.launchpad.net/ubuntu/+source/file/+bug/1747711 .</p>
+
+<p>This results in the message:<br>
+Could Not Display “rti.linux”<br>
+There is no application installed for “shared library” files</p>
+
+<p>If you encounter this message, use the desktop shortcut, menu/Dash shortcut or the console command to launch Basic <abbr title="Pay As You Earn">PAYE</abbr> Tools.</p>
+
+<h2>Assistive Mode Server</h2>
+
+<p>If you choose to run Basic <abbr title="Pay As You Earn">PAYE</abbr> Tools with Assistive Software support enabled, <abbr title="Basic PAYE Tools">BPT</abbr> will run in the background as a server, and attempt to spawn its interface in your desktop environment’s default web browser.</p>
+
+<p>The server will remain running in the background. Most desktop environments will display a system tray icon with the HMRC logo which allows the server to be exited gracefully. However, some environments, such as Ubuntu Unity, do not display the system tray icon. An alternative method of exiting the server cleanly is to visit the following URL:</p>
+
+<p>http://127.0.0.1:46729/QUIT</p>
+
+</div>
+
+
+</div>
+</div>
+  </div>
+
+  <div class="sticky-element" data-sticky-element="">
+    <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" focusable="false" height="17" viewBox="0 0 13 17" width="13" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" fill="currentColor"></path>
+    </svg>
+    Contents
+</a>
+
+    <div class="sticky-element__print-link">
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+    </div>
+  </div>
+</div>
+
+    </main>
