@@ -28,9 +28,10 @@
     General Notes on Reading Data Element Completion Rules
   </h1>
 </div>
-  <p class="publication-header__last-changed">Updated 4 March 2022</p>
+  <p class="publication-header__last-changed">Updated 8 June 2022</p>
 
   </header>
+
 
 
 
@@ -68,7 +69,7 @@
   <div class="print-wrapper">
     <div class="print-meta-data">
       <p>
-  <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png">
+  <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png">
 </p>
 <p>
   © Crown copyright 2022
@@ -94,7 +95,7 @@
     
     
       <div class="govspeak">
-<p>This Data Element (<abbr title="Data Element">DE</abbr>) Completion Guide relates to Customs Declaration Service (CDS) Customs Clearance Requests ((<abbr title="Customs Clearance Request">CCR</abbr>) inventory releases previously referred to as C21s) for export purposes only.</p>
+<p>This Data Element Completion Guide relates to Customs Declaration Service (CDS) Customs Clearance Requests ((<abbr title="Customs Clearance Request">CCR</abbr>) inventory releases previously referred to as C21s) for export purposes only.</p>
 
 <p>It does not cover completion instructions for:</p>
 
@@ -104,7 +105,7 @@
   <li>Customs Clearance Requests (<abbr title="Customs Clearance Request">CCR</abbr>) for import purposes.</li>
 </ul>
 
-<p>For data element completion guidance for written import and export customs declarations and import <abbr title="Customs Clearance Requests">CCRs</abbr>, please refer to the appropriate <a class="govuk-link" href="https://www.gov.uk/government/collections/uk-trade-tariff-volume-3-for-cds--2">Declaration Completion Guide</a>.</p>
+<p>For data element completion guidance for written import and export customs declarations and import <abbr title="Customs Clearance Requests">CCRs</abbr>, please refer to the appropriate <a class="govuk-link" href="https://www.gov.uk/government/collections/uk-trade-tariff-volume-3-for-cds--2">Declaration Completion Instructions</a>.</p>
 
 <h2>Data element overview table</h2>
 
@@ -141,7 +142,7 @@
 
 <h2>Declaration Categories</h2>
 
-<p>The data element completion rules provided in this document indicate for which types (categories) of clearance requests the data element is required, for example, data element 1/1 needs to be completed for category: C21 exports (C21e)</p>
+<p>The data element completion rules provided in this document indicate for which types (categories) of clearance requests the data element is required, for example, data element 1/1 needs to be completed for category: C21 exports (C21e).</p>
 
 <p>The table below explains which Declaration Categories there are for export C21 Customs Clearance Requests (<abbr title="Customs Clearance Request">CCR</abbr>):</p>
 
@@ -155,12 +156,12 @@
   <tbody>
     <tr>
       <td>C21e</td>
-      <td>(Air) Port Customs Clearance Request - Exports</td>
+      <td>(Air) Port Customs Clearance Request — Exports</td>
     </tr>
     <tr>
       <td>C21e <abbr title="Entry in Declarant’s Records Notification of Presentation">EIDR NOP</abbr>
 </td>
-      <td>(Air) Port Customs Clearance Request – Exports released using Entry in Declarants Records (<abbr title="Entry in Declarant’s Records">EIDR</abbr>) where the export C21 is also used to provide the Notification of Presentation (<abbr title="Notification of Presentation">NOP</abbr>).<br><br>The C21e <abbr title="Entry in Declarant’s Records Notification of Presentation">EIDR NOP</abbr> data set should only be used for inventory releases where a procedure code from the UK Trade Tariff, CDS, Volume 3, Exports Tariff, Appendix 1 is used. It must not be used for inventory releases using a Procedure Code from this Tariff (procedure codes commencing with 00).</td>
+      <td>(Air) Port Customs Clearance Request — Exports released using Entry in Declarants Records (<abbr title="Entry in Declarant’s Records">EIDR</abbr>) where the export C21 is also used to provide the Notification of Presentation (<abbr title="Notification of Presentation">NOP</abbr>).<br><br>The C21e <abbr title="Entry in Declarant’s Records Notification of Presentation">EIDR NOP</abbr> data set should only be used for inventory releases where a procedure code from the CDS Declaration Instructions for Exports, Appendix 1 is used. It must not be used for inventory releases using a Procedure Code from this collection (procedure codes commencing with 00).</td>
     </tr>
   </tbody>
 </table>
@@ -193,7 +194,7 @@
 
 <ul>
   <li>If there are no dots between the character type indicator and the length of the field indicator, then the data element has a fixed length and the full number of characters must be completed. For example: a2 indicates that 2 alpha characters must be used.</li>
-  <li>Where there are  two dots before the length indicator mean that the data has no fixed length, but it can have up to a maximum number of digits, as specified by the length indicator. For example: an..4 indicates that a up to maximum of 4 alpha numeric characters may be used</li>
+  <li>Where there are two dots before the length indicator mean that the data has no fixed length, but it can have up to a maximum number of digits, as specified by the length indicator. For example: an..4 indicates that a up to maximum of 4 alpha numeric characters may be used</li>
   <li>A comma in the field length means that the data element can include decimals, the digit before the comma indicates the maximum length of the data element. The digit after the comma indicates the maximum number of digits that may be used after the decimal point.</li>
 </ul>
 
