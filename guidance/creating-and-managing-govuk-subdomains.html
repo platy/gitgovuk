@@ -1,0 +1,482 @@
+<main class="detailed-guide" lang="en" role="main">
+      
+
+
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    
+
+<div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
+      <span class="govuk-caption-xl gem-c-title__context">
+    Guidance
+  </span>
+
+
+  <h1 class="gem-c-title__text govuk-heading-l">
+    Creating and managing .gov.uk subdomains
+  </h1>
+</div>
+  </div>
+  
+  <div class="govuk-grid-column-two-thirds">
+        <p class="gem-c-lead-paragraph">Find out how to securely create and manage subdomains in the public sector.</p>
+
+  </div>
+</div>
+
+<div class="govuk-grid-row">
+  <div class="metadata-logo-wrapper">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+      <div class="gem-c-metadata govuk-!-margin-bottom-3" data-module="gem-toggle metadata">
+  <dl data-module="gem-track-click">
+      <dt class="gem-c-metadata__term">From:</dt>
+      <dd class="gem-c-metadata__definition">
+          <a class="govuk-link" href="/government/organisations/central-digital-and-data-office">Central Digital and Data Office</a>
+
+      </dd>
+      <dt class="gem-c-metadata__term">Published</dt>
+      <dd class="gem-c-metadata__definition">30 June 2022</dd>
+  </dl>
+</div>
+    </div>
+    <div class="govuk-grid-column-one-third">
+    </div>
+  </div>
+</div>
+
+<div class="govuk-!-display-none-print govuk-!-margin-bottom-6" data-module="gem-track-click">
+  <form action="/email/subscriptions/single-page/new" class="gem-c-single-page-notification-button" data-button-location="top" data-track-action="Subscribe-button-top" data-track-category="Single-page-notification-button" data-track-label="/guidance/creating-and-managing-govuk-subdomains" method="POST">
+    <input name="base_path" type="hidden" value="/guidance/creating-and-managing-govuk-subdomains">
+    <button class="govuk-body-s gem-c-single-page-notification-button__submit" type="submit">  <svg class="gem-c-single-page-notification-button__icon" height="18" viewBox="0 0 459.334 459.334" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M177.216 404.514c-.001.12-.009.239-.009.359 0 30.078 24.383 54.461 54.461 54.461s54.461-24.383 54.461-54.461c0-.12-.008-.239-.009-.359H175.216zM403.549 336.438l-49.015-72.002v-89.83c0-60.581-43.144-111.079-100.381-122.459V24.485C254.152 10.963 243.19 0 229.667 0s-24.485 10.963-24.485 24.485v27.663c-57.237 11.381-100.381 61.879-100.381 122.459v89.83l-49.015 72.002a24.76 24.76 0 0 0 20.468 38.693H383.08a24.761 24.761 0 0 0 20.469-38.694z" fill="currentColor"></path></svg>Get emails about this page
+</button>
+</form>
+</div>
+
+
+
+
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    
+
+
+      <div class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 1" data-track-category="contentsClicked" data-track-label="#what-happens-when-you-create-subdomains" data-track-options="{&quot;dimension29&quot;:&quot;1. What happens when you create subdomains&nbsp;&quot;}" href="#what-happens-when-you-create-subdomains">1. What happens when you create subdomains&nbsp;</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 2" data-track-category="contentsClicked" data-track-label="#before-you-delegate-subdomains" data-track-options="{&quot;dimension29&quot;:&quot;2. Before you delegate subdomains&nbsp;&quot;}" href="#before-you-delegate-subdomains">2. Before you delegate subdomains&nbsp;</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 3" data-track-category="contentsClicked" data-track-label="#managing-delegated-subdomains" data-track-options="{&quot;dimension29&quot;:&quot;3. Managing delegated subdomains&nbsp;&quot;}" href="#managing-delegated-subdomains">3. Managing delegated subdomains&nbsp;</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 4" data-track-category="contentsClicked" data-track-label="#managing-incidents-and-vulnerabilities" data-track-options="{&quot;dimension29&quot;:&quot;4. Managing incidents and vulnerabilities&quot;}" href="#managing-incidents-and-vulnerabilities">4. Managing incidents and vulnerabilities</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 5" data-track-category="contentsClicked" data-track-label="#check-if-you-need-a-service-level-agreement-for-a-subdomain-youve-delegated" data-track-options="{&quot;dimension29&quot;:&quot;5. Check if you need a service level agreement for a subdomain you’ve delegated&quot;}" href="#check-if-you-need-a-service-level-agreement-for-a-subdomain-youve-delegated">5. Check if you need a service level agreement for a subdomain you’ve delegated</a>
+
+        </li>
+    </ol>
+</nav>
+      </div>
+    
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+
+        
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+          <div class="govspeak">
+<p>In this guidance ‘domain’ is referencing a .gov.uk domain that’s been issued and approved by the Central and Digital Data Office (CDDO), for example, service.gov.uk. Subdomains refer to domains created from this level or below for example, tax.service.gov.uk or test.tax.service.gov.uk.</p>
+
+<p>The CDDO provides .gov.uk domain names to public sector organisations. Once you start using your own .gov.uk domain your organisation must take responsibility for using and protecting the domain.&nbsp;</p>
+
+<p>This includes being aware of how subdomains under your domain are being used and managed even if you have a supplier doing this on your behalf.</p>
+
+<p>Poor management of your domain and subdomains could have significant financial, security and reputational consequences for your organisation and other government services.</p>
+
+<div aria-label="Warning" class="application-notice help-notice" role="note">
+<p>There is a risk to all public sector digital services if any .gov.uk domains are compromised.</p>
+</div>
+
+<h2>1. What happens when you create subdomains&nbsp;</h2>
+
+<p>Your own team may be creating and managing subdomains for your organisation’s own use or you may be giving out (delegating) some subdomains for people in other teams or organisations to use.</p>
+
+<p>Subject to your organisation’s policy, domain name administrators may give out subdomains to: &nbsp;</p>
+
+<ul>
+  <li>
+    <p>internal teams or individuals in your organisation&nbsp;</p>
+  </li>
+  <li>
+    <p>teams or individuals in another public sector organisation</p>
+  </li>
+  <li>
+    <p>third parties like suppliers</p>
+  </li>
+</ul>
+
+<p>When a domain name administrator has delegated a subdomain, they:</p>
+
+<ul>
+  <li>
+    <p>still hold ultimate accountability for all subdomains they delegate and everything beneath those subdomains</p>
+  </li>
+  <li>
+    <p>must make sure the security, stability, integrity and reputation of your subdomains are not compromised</p>
+  </li>
+  <li>
+    <p>may also need to provide service level agreements for the delegated domain depending on how critical it is to the team or organisation using it (more information in section 5)</p>
+  </li>
+</ul>
+
+<p>By creating a subdomain the domain name administrator has become a registry operator. It is important to keep track of all your subdomains, what they’re used for and who is responsible for them, because this can spiral out of control quickly, lose track of ownership, and your domain may become vulnerable to hijack.</p>
+
+<p>Here is an example of delegating subdomains and how a domain name administrator has become a registry operator:</p>
+
+<ol>
+  <li>
+    <p>The CDDO issues <code>service.gov.uk</code> to GDS.</p>
+  </li>
+  <li>
+    <p>The GDS domain name administrator delegates a number of subdomains to different public sector organisations, including <code>tax.service.gov.uk</code> to HMRC and <code>check-mot.service.gov.uk</code> to DVSA.</p>
+  </li>
+  <li>
+    <p>This pattern can repeat. The HMRC domain name administrator can then delegate <code>test.tax service.gov.uk</code> to another internal agency, department or supplier.</p>
+  </li>
+</ol>
+
+<p>Your accountability for delegated domains starts when you approve a new subdomain of your .gov.uk domain.  You remain accountable for all subdomains even if there are any successive delegations.&nbsp;</p>
+
+<h2>2. Before you delegate subdomains&nbsp;</h2>
+
+<p>You can only delegate subdomains if you’re the <a class="govuk-link" href="https://www.gov.uk/guidance/appoint-a-govuk-domain-name-administrator?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f"><ins>domain name administrator</ins></a> and you’re managing your domain properly.</p>
+
+<p>As a reminder, you must:</p>
+
+<ul>
+  <li>
+    <p><a class="govuk-link" href="https://www.gov.uk/guidance/choose-a-good-registrar-or-dns-provider?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f"><ins>use a registrar or DNS supplier appropriate to the criticality of your service</ins></a></p>
+  </li>
+  <li>
+    <p>understand <a class="govuk-link" href="https://www.gov.uk/guidance/how-you-are-accountable-for-protecting-your-govuk-domain"><ins>how you are accountable for the protection of your .gov.uk domain</ins></a></p>
+  </li>
+  <li>
+    <p>renew your domain every 2 years</p>
+  </li>
+  <li>
+    <p>make sure your team is able to follow the <a class="govuk-link" href="https://www.gov.uk/guidance/keeping-your-domain-name-secure"><ins>keeping your domain secure</ins></a> guidance</p>
+  </li>
+  <li>
+    <p>use a good UK-based supplier so your domain is protected by UK laws</p>
+  </li>
+  <li>
+    <p><a class="govuk-link" href="https://www.gov.uk/guidance/how-to-stop-using-your-govuk-domain-name"><ins>make sure you stop using domains properly</ins></a> when they are not needed&nbsp;</p>
+  </li>
+  <li>
+    <p>create processes and agreements as outlined in the rest of this guidance</p>
+  </li>
+</ul>
+
+<p>It is also important that you and your team understand how poor management of a domain or subdomain can impact the security of public sector services. For example:</p>
+
+<ul>
+  <li>
+    <p>important digital services can be compromised or taken offline</p>
+  </li>
+  <li>
+    <p>unmanaged domains can be taken over and used to spread malicious content</p>
+  </li>
+  <li>
+    <p>inconsistent and incorrect technical records can lead to domains and sensitive content being hijacked</p>
+  </li>
+</ul>
+
+<h2>3. Managing delegated subdomains&nbsp;</h2>
+
+<p>It is important that you have some processes to manage the .gov.uk subdomains you delegate. You can use the following checklist as a starting point.</p>
+
+<h3>3.1.  Set your own criteria</h3>
+
+<p>Before accepting any subdomain requests you must:</p>
+
+<ul>
+  <li>
+    <p>choose who can have a subdomain&nbsp;</p>
+  </li>
+  <li>
+    <p>decide if you will allow critical services on your subdomains</p>
+  </li>
+  <li>
+    <p>set the rules for any naming criteria you may want to use&nbsp;</p>
+  </li>
+  <li>
+    <p>decide what your subdomains can be used for</p>
+  </li>
+</ul>
+
+<h3>3.2. Check the identity of the person applying</h3>
+
+<p>Always check the identity of anyone applying for a subdomain and that they have the authority to apply.</p>
+
+<p>For example you could:</p>
+
+<ul>
+  <li>
+    <p>contact a person you know in the same or parent organisation to confirm the applicant works there&nbsp;</p>
+  </li>
+  <li>
+    <p>ask to see identification using a channel other than email, such as a video call</p>
+  </li>
+  <li>
+    <p>ask for written confirmation that they have authority to apply</p>
+  </li>
+  <li>
+    <p>verify the identity of all applicants even if the request comes from a public sector email address</p>
+  </li>
+</ul>
+
+<h3>3.3.  Clarify the subdomain meets the rules and any special requirements</h3>
+
+<p>Before creating the subdomain you must:</p>
+
+<ul>
+  <li>
+    <p>check the subdomain name is clear and descriptive and follows any specific naming rules you may have</p>
+  </li>
+  <li>
+    <p>confirm what the domain is going to be used for&nbsp;</p>
+  </li>
+  <li>
+    <p>check if the domain requires a critical service level agreement (SLA) like 24 hour support and if you can provide this</p>
+  </li>
+</ul>
+
+<h3>3.4.  Collect information about the subdomain user</h3>
+
+<p>You must collect and keep up to date information from subdomain applicants. We recommend using a secure database or spreadsheet. Use your preferred tool to record:</p>
+
+<ul>
+  <li>
+    <p>the name of the domain name administrator</p>
+  </li>
+  <li>
+    <p>which team and organisation applied</p>
+  </li>
+  <li>
+    <p>the chosen domain name</p>
+  </li>
+  <li>
+    <p>what the domain is going to be used for</p>
+  </li>
+  <li>
+    <p>a role-based email like <a class="govuk-link" href="mailto:domains@yourorganisation.gov.uk"><ins>domains@yourorganisation.gov.uk</ins></a> and not the email of a named individual</p>
+  </li>
+  <li>
+    <p>who approved the domain name (if necessary)</p>
+  </li>
+  <li>
+    <p>delegation date</p>
+  </li>
+  <li>
+    <p>review date (to check if the domain is still being used)</p>
+  </li>
+  <li>
+    <p>any additional information</p>
+  </li>
+</ul>
+
+<h3>3.5. Pass on information about accountability</h3>
+
+<p>Make sure the person managing the new subdomain knows they are accountable for protecting their .gov.uk domain from the moment they start using it.</p>
+
+<h3>3.6. Keep subdomain contacts up to date</h3>
+
+<p>Check your records every 6 months to make sure you have up-to-date contact details.&nbsp;</p>
+
+<h3>3.7. Managing changes to subdomain data</h3>
+
+<p>You should make it clear how your subdomain contacts can make changes to registry data.&nbsp;</p>
+
+<p>You must provide a role-based email address that they have to contact to submit any change requests.</p>
+
+<div aria-label="Warning" class="application-notice help-notice" role="note">
+<p>You must always check important registry data like name servers are correct when any changes are made</p>
+</div>
+
+<h3>3.8. Reassigning subdomains</h3>
+
+<p>If the person you assigned a subdomain to wants to give the subdomain to another person, they must provide you with all the relevant contact information and confirm what the domain will be used for.</p>
+
+<h3>3.9. Notifying customers about the service&nbsp;</h3>
+
+<p>You must tell your subdomain users about service issues and changes. For example, you must email your contact about:</p>
+
+<ul>
+  <li>
+    <p>maintenance to the service of the registry including maintenance that does not necessarily result in downtime, but may present an increased risk</p>
+  </li>
+  <li>
+    <p>service outages</p>
+  </li>
+  <li>
+    <p>changes to your service</p>
+  </li>
+</ul>
+
+<h2>4. Managing incidents and vulnerabilities</h2>
+
+<p>We recommend you set up a role-based support email so that your subdomain contacts can report vulnerabilities or other issues to you.</p>
+
+<p>If you hear about any vulnerabilities which might affect other public sector organisations, you must report it to <a class="govuk-link" href="mailto:domainmanagement@digital.cabinet-office.gov.uk"><ins>domainmanagement@digital.cabinet-office.gov.uk</ins></a>.</p>
+
+<p>You must also:</p>
+
+<ul>
+  <li>
+    <p>know how to deal with any breaches or unacceptable use</p>
+  </li>
+  <li>
+    <p>make sure subdomain names when they are no longer needed or used</p>
+  </li>
+  <li>
+    <p>find a replacement contact for the subdomain if the contact you originally had no longer exists or cannot be reached</p>
+  </li>
+</ul>
+
+<h2>5. Check if you need a service level agreement for a subdomain you’ve delegated</h2>
+
+<h3>When an SLA is necessary</h3>
+
+<p>If your domain or one of its subdomains supports critical services, you must define a business continuity plan and SLAs. These must reflect the criticality of your .gov.uk domain and its subdomains in the event of loss of service.&nbsp;</p>
+
+<p>You are likely to need an SLA if you are delegating subdomains that are providing critical services to your users.&nbsp;</p>
+
+<p>If the user of a domain you have delegated out needs an SLA, for example a target level of availability, please contact CDDO to discuss this by emailing domainmanagement@digital.cabinet-office.gov.uk.</p>
+
+<h3>Essential service and performance levels</h3>
+
+<p>If you do create contracts or SLAs, you must have clear performance and service availability requirements for your .gov.uk domain and be able to implement them. This includes:</p>
+
+<ul>
+  <li>
+    <p>DNS performance and availability&nbsp;</p>
+  </li>
+  <li>
+    <p>changes and how long they take to be implemented</p>
+  </li>
+  <li>
+    <p>customer service response times and availability</p>
+  </li>
+</ul>
+
+<p>Any SLA you create must define customer service requirements and response times that are appropriate for your subdomain. For example:</p>
+
+<ul>
+  <li>
+    <p>how long it takes for a new subdomain to be approved</p>
+  </li>
+  <li>
+    <p>whether your customers have critical subdomains which need 24 hour support&nbsp;</p>
+  </li>
+  <li>
+    <p>how long customers will have to wait for technical changes to be implemented normally and during an emergency</p>
+  </li>
+</ul>
+
+<p>We also recommend that you securely backup the registry data and have a transition plan to a new DNS supplier.</p>
+</div>
+
+</div>
+
+      <div class="responsive-bottom-margin">
+        
+<div class="app-c-published-dates govuk-!-margin-bottom-3" lang="en">
+    Published 30 June 2022
+</div>
+
+<div class="govuk-!-display-none-print govuk-!-margin-bottom-0" data-module="gem-track-click">
+  <form action="/email/subscriptions/single-page/new" class="gem-c-single-page-notification-button" data-button-location="bottom" data-track-action="Subscribe-button-bottom" data-track-category="Single-page-notification-button" data-track-label="/guidance/creating-and-managing-govuk-subdomains" method="POST">
+    <input name="base_path" type="hidden" value="/guidance/creating-and-managing-govuk-subdomains">
+    <button class="govuk-body-s gem-c-single-page-notification-button__submit" type="submit">  <svg class="gem-c-single-page-notification-button__icon" height="18" viewBox="0 0 459.334 459.334" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M177.216 404.514c-.001.12-.009.239-.009.359 0 30.078 24.383 54.461 54.461 54.461s54.461-24.383 54.461-54.461c0-.12-.008-.239-.009-.359H175.216zM403.549 336.438l-49.015-72.002v-89.83c0-60.581-43.144-111.079-100.381-122.459V24.485C254.152 10.963 243.19 0 229.667 0s-24.485 10.963-24.485 24.485v27.663c-57.237 11.381-100.381 61.879-100.381 122.459v89.83l-49.015 72.002a24.76 24.76 0 0 0 20.468 38.693H383.08a24.761 24.761 0 0 0 20.469-38.694z" fill="currentColor"></path></svg>Get emails about this page
+</button>
+</form>
+</div>
+
+      </div>
+
+      <div class="app-c-contents-list-with-body__link-wrapper" data-sticky-element="">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" focusable="false" height="17" viewBox="0 0 13 17" width="13" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" fill="currentColor"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
+  </div>
+    
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+  </div>
+  
+<div class="govuk-grid-column-one-third">
+  
+
+
+</div>
+
+</div>
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+        
+  <div class="gem-c-contextual-footer">
+    
+  <div class="gem-c-related-navigation">
+
+
+
+
+
+      <nav class="gem-c-related-navigation__nav-section" data-module="gem-toggle" role="navigation">
+
+    <h2 class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="gem-track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="govuk-link govuk-link gem-c-related-navigation__section-link govuk-link gem-c-related-navigation__section-link--footer" data-track-action="1.1 Explore the topic" data-track-category="relatedLinkClicked" data-track-label="/government/cyber-security" data-track-options="{&quot;dimension28&quot;:&quot;1&quot;,&quot;dimension29&quot;:&quot;Cyber security&quot;}" href="/government/cyber-security">Cyber security</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
+  </div>
+
+
+    </div>
+  </div>
+
+
+    </main>
