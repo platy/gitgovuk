@@ -25,7 +25,7 @@
 
 
   <h1 class="gem-c-title__text govuk-heading-xl">
-    Apprenticeship service - upload specification for training providers V5
+    Apprenticeship service - upload specification for training providers V6 effective 1 August 2022
   </h1>
 </div>
   <p class="publication-header__last-changed">Updated 1 July 2022</p>
@@ -77,7 +77,11 @@
 
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
-          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 9" data-track-category="contentsClicked" data-track-label="#validation-rules" data-track-options="{&quot;dimension29&quot;:&quot;Validation Rules&quot;}" href="#validation-rules">Validation Rules</a>
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 9" data-track-category="contentsClicked" data-track-label="#changes-effective-from-1-august-2022" data-track-options="{&quot;dimension29&quot;:&quot;Changes effective from 1 August 2022&quot;}" href="#changes-effective-from-1-august-2022">Changes effective from 1 August 2022</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 10" data-track-category="contentsClicked" data-track-label="#validation-rules" data-track-options="{&quot;dimension29&quot;:&quot;Validation Rules&quot;}" href="#validation-rules">Validation Rules</a>
 
         </li>
     </ol>
@@ -103,7 +107,7 @@
   Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
 </p>
 <p>
-  This publication is available at https://www.gov.uk/government/publications/apprenticeship-service-bulk-upload-specification/apprenticeship-service-upload-specification-for-training-providers-v5
+  This publication is available at https://www.gov.uk/government/publications/apprenticeship-service-bulk-upload-specification/apprenticeship-service-upload-specification-for-training-providers-v6-effective-1-august-2022
 </p>
 
 
@@ -179,6 +183,17 @@
 <p>For employers that do not pay the apprenticeship levy, the reservation will automatically be created when using the upload file function; it will not use any existing reservations. If the employer has reached their reservation limit for the financial year, you will not be able to add apprentices.</p>
 
 <p>If a reservation has already been separately created, it will not be used for adding apprentices in file upload. It will need to be deleted from the Service manually.</p>
+
+<h2>Changes effective from 1 August 2022</h2>
+
+<p>We have added a new field to capture recognised prior learning for apprenticeship starts on or after 1 August 2022.</p>
+
+<p>If there is any recognised prior learning for an apprenticeship from this date we then capture:</p>
+
+<ul>
+  <li>the reduction in weeks, for training due to prior learning</li>
+  <li>the reduction in price, in whole pounds, for training due to prior learning</li>
+</ul>
 
 <h3>Table of fields and data definitions</h3>
 
@@ -324,6 +339,36 @@
 <br><br>
 </td>
     </tr>
+    <tr>
+      <td>RecognisePriorLearning</td>
+      <td>Boolean</td>
+      <td>&nbsp;</td>
+      <td>True / False, Yes / No, 1 / 0</td>
+      <td>N</td>
+      <td>
+<br><br>
+</td>
+    </tr>
+    <tr>
+      <td>DurationReducedBy</td>
+      <td>Int</td>
+      <td>3</td>
+      <td>0 - 999</td>
+      <td>N</td>
+      <td>
+<br><br>
+</td>
+    </tr>
+    <tr>
+      <td>PriceReducedBy</td>
+      <td>Int</td>
+      <td>6</td>
+      <td>0 - 100000</td>
+      <td>N</td>
+      <td>
+<br><br>
+</td>
+    </tr>
   </tbody>
 </table>
 
@@ -372,12 +417,6 @@
     </tr>
     <tr>
       <td>• The cohort reference uniquely identifies a specific group of apprentices being uploaded to the apprenticeship service  for one employer. There can be one or multiple apprentices in a cohort. <br> • The cohort must be in an editable status (‘Draft’ or ‘Ready for review’). Cohorts that are currently with the employer or with a transfer-sending employer cannot be added to a file.<br> • If the field is blank, a new cohort will be created for all apprentices in the upload file with the same employer. To do this, the employer must have given the training provider permission to add apprentices on their behalf.</td>
-    </tr>
-    <tr>
-      <th scope="row">Change management notes</th>
-    </tr>
-    <tr>
-      <td>Updated April 2022: Added new validation rules.</td>
     </tr>
   </tbody>
 </table>
@@ -429,12 +468,6 @@
     <tr>
       <td>•	The Agreement ID uniquely identifies the employer to the Service when adding apprentices through file upload <br> •	If the ‘CohortRef’ field is populated, then the Agreement ID must match the employer on the cohort <br> • If the ‘CohortRef’ field is not populated, then the Agreement ID must match an employer who has given the training provider permission to add apprentices on their behalf</td>
     </tr>
-    <tr>
-      <th scope="row">Change management notes</th>
-    </tr>
-    <tr>
-      <td>Updated April 2022: Added new validation rules</td>
-    </tr>
   </tbody>
 </table>
 </div>
@@ -448,7 +481,7 @@
     </tr>
     <tr>
       <th scope="row">Definition</th>
-      <td>The apprentice’s unique learner number (ULN), as held on the Learner Register, obtained from the Learning Records Service (LRS).</td>
+      <td>The apprentice’s unique learner number (ULN), as held on the Learner Register, obtained from the Learning Records Service (LRS)</td>
     </tr>
   </tbody>
 </table>
@@ -491,12 +524,6 @@
     <tr>
       <td>•	The ULN recorded here must be the same as the one recorded for the apprentice in the ILR in order for funding payments to be generated <br> • The ULN must be real; the value of 9999999999 cannot be used <br> • The ULN must be unique within the cohort and unique within the Service for the duration of the apprenticeship: that is, there cannot be other apprenticeship records with the same ULN that would overlap with the start and end date of this apprenticeship</td>
     </tr>
-    <tr>
-      <th scope="row">Change management notes</th>
-    </tr>
-    <tr>
-      <td>Updated April 2022: Added new validation rules</td>
-    </tr>
   </tbody>
 </table>
 </div>
@@ -510,7 +537,7 @@
     </tr>
     <tr>
       <th scope="row">Definition</th>
-      <td>The surname (last name or family name) of the apprentice.</td>
+      <td>The surname (last name or family name) of the apprentice</td>
     </tr>
   </tbody>
 </table>
@@ -545,7 +572,7 @@
 </th>
     </tr>
     <tr>
-      <td>•	The name recorded here should be the same as the one recorded for the apprentice in the ILR and the LRS.</td>
+      <td>•	The name recorded here should be the same as the one recorded for the apprentice in the ILR and the LRS</td>
     </tr>
   </tbody>
 </table>
@@ -560,7 +587,7 @@
     </tr>
     <tr>
       <th scope="row">Definition</th>
-      <td>The Forenames (first names or given names) of the apprentice.</td>
+      <td>The Forenames (first names or given names) of the apprentice</td>
     </tr>
   </tbody>
 </table>
@@ -595,7 +622,7 @@
 </th>
     </tr>
     <tr>
-      <td>•	The name(s) recorded here should be the same as the one recorded for the apprentice in the ILR and the LRS.</td>
+      <td>•	The name(s) recorded here should be the same as the one recorded for the apprentice in the ILR and the LRS</td>
     </tr>
   </tbody>
 </table>
@@ -610,7 +637,7 @@
     </tr>
     <tr>
       <th scope="row">Definition</th>
-      <td>The date of birth of the apprentice.</td>
+      <td>The date of birth of the apprentice</td>
     </tr>
   </tbody>
 </table>
@@ -670,7 +697,7 @@
     </tr>
     <tr>
       <th scope="row">Definition</th>
-      <td>The email address of the apprentice.</td>
+      <td>The email address of the apprentice</td>
     </tr>
   </tbody>
 </table>
@@ -711,13 +738,7 @@
 </th>
     </tr>
     <tr>
-      <td>•	This field holds the email address of the apprentice <br> •	The email address must be unique within the cohort and unique within the Service for the duration of the apprenticeship: that is, there cannot be other apprenticeship records with the same email address that would overlap with the start and end date of this apprenticeship.</td>
-    </tr>
-    <tr>
-      <th scope="row">Change management notes</th>
-    </tr>
-    <tr>
-      <td>Updated April 2022: Added new validation rules</td>
+      <td>•	This field holds the email address of the apprentice <br> •	The email address must be unique within the cohort and unique within the Service for the duration of the apprenticeship: that is, there cannot be other apprenticeship records with the same email address that would overlap with the start and end date of this apprenticeship</td>
     </tr>
   </tbody>
 </table>
@@ -773,13 +794,7 @@
 </th>
     </tr>
     <tr>
-      <td>•	The Standard code recorded here must be the same as the one recorded for the apprentice in the ILR in order for funding payments to be generated.<br> •If there are multiple versions of the standard, the standard version is calculated based on the StartDate. <br> • If the standard version has associated options, the option will be set to ‘not known’ by default. The user will need to set the option separately post-upload.</td>
-    </tr>
-    <tr>
-      <th scope="row">Change management notes</th>
-    </tr>
-    <tr>
-      <td>Updated June 2021:  This field is now mandatory.</td>
+      <td>•	The Standard code recorded here must be the same as the one recorded for the apprentice in the ILR in order for funding payments to be generated<br> •If there are multiple versions of the standard, the standard version is calculated based on the StartDate <br> • If the standard version has associated options, the option will be set to ‘not known’ by default. The user will need to set the option separately post-upload</td>
     </tr>
   </tbody>
 </table>
@@ -840,15 +855,7 @@
       <td><br></td>
     </tr>
     <tr>
-      <td>If you are using Microsoft Excel to edit or view a bulk upload file, please note that it will apply the default format of dd/mm/yyyyy whenever you open the file and so this will need to be reformatted to the valid format of yyyy-mm-dd before you save and upload the file. If you want to check the file without affecting the date format, then you can open it using Notepad.</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <th scope="row">Change management notes</th>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Updated  April 2022: Added new validation rules</td>
+      <td>If you are using Microsoft Excel to edit or view a bulk upload file, please note that it will apply the default format of dd/mm/yyyyy whenever you open the file and so this will need to be reformatted to the valid format of yyyy-mm-dd before you save and upload the file. If you want to check the file without affecting the date format, then you can open it using Notepad</td>
       <td>&nbsp;</td>
     </tr>
   </tbody>
@@ -905,7 +912,7 @@
 </th>
     </tr>
     <tr>
-      <td>•	This field should record the month and year in which the apprentice plans to complete their programme and the period over which funding will be released.<br> •	This date must include both the training and end-point assessment period. <br>  • This date must be later than the start date (StartDate).</td>
+      <td>•	This field should record the month and year in which the apprentice plans to complete their programme and the period over which funding will be released <br> •	This date must include both the training and end-point assessment period <br>  • This date must be later than the start date (StartDate)</td>
     </tr>
   </tbody>
 </table>
@@ -1079,6 +1086,207 @@
 </table>
 </div>
 
+<div class="call-to-action">
+<table>
+  <tbody>
+    <tr>
+      <th scope="row"> Recognise Prior Learning</th>
+      <td><br></td>
+    </tr>
+    <tr>
+      <th scope="row">Definition</th>
+      <td>Identifies if price and duration have been reduced due to recognised prior learning</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">       Data definitions</th>
+      <td><br></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Field name</th>
+      <td>RecognisePriorLearning</td>
+      <td>Mandatory</td>
+      <td>N</td>
+    </tr>
+    <tr>
+      <th scope="row">Field length</th>
+      <td>&nbsp;</td>
+      <td>Data type</td>
+      <td>boolean</td>
+    </tr>
+    <tr>
+      <th scope="row"> Valid entries</th>
+      <td>True / False, Yes / No, 1 / 0</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">Notes   <br>
+</th>
+    </tr>
+    <tr>
+      <td>• This field should record if prior learning has resulted in a reduction in price and duration of this apprenticeship <br> • This field is mandatory if the apprenticeship start date is on or after 1st August 2022</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">Change management notes</th>
+    </tr>
+    <tr>
+      <td>August 2022: New field</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="call-to-action">
+<table>
+  <tbody>
+    <tr>
+      <th scope="row"> Duration reduced due to prior learning</th>
+      <td><br></td>
+    </tr>
+    <tr>
+      <th scope="row">Definition</th>
+      <td>The number of weeks the apprenticeship has been reduced by  in recognition of prior learning</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">       Data definitions</th>
+      <td><br></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Field name</th>
+      <td>DurationReducedBy</td>
+      <td>Mandatory</td>
+      <td>N</td>
+    </tr>
+    <tr>
+      <th scope="row">Field length</th>
+      <td>3</td>
+      <td>Data type</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <th scope="row"> Valid entries</th>
+      <td>0-999</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">Notes   <br>
+</th>
+    </tr>
+    <tr>
+      <td>• This field should record the number of weeks the apprenticeship has been reduced by because of prior learning <br> • This field is mandatory if RecognisePriorLearning is true <br> • Data entered for apprenticeships that start prior to 1st August 2022 is ignored</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">Change management notes</th>
+    </tr>
+    <tr>
+      <td>August 2022: New field</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="call-to-action">
+<table>
+  <tbody>
+    <tr>
+      <th scope="row"> Price reduced due to prior learning</th>
+      <td><br></td>
+    </tr>
+    <tr>
+      <th scope="row">Definition</th>
+      <td>The price the apprenticeship has been reduced by in recognition of prior learning</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">       Data definitions</th>
+      <td><br></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="row">Field name</th>
+      <td>PriceReducedBy</td>
+      <td>Mandatory</td>
+      <td>N</td>
+    </tr>
+    <tr>
+      <th scope="row">Field length</th>
+      <td>6</td>
+      <td>Data type</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <th scope="row"> Valid entries</th>
+      <td>0-100000</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">Notes   <br>
+</th>
+    </tr>
+    <tr>
+      <td>• This field should record the price the apprenticeship has been reduced by because of prior learning <br> • This field is mandatory if RecognisePriorLearning is true <br> • Data entered for apprenticeships that start prior to 1st August 2022 is ignored</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">Change management notes</th>
+    </tr>
+    <tr>
+      <td>August 2022: New field</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 <h2>Validation Rules</h2>
 
 <p>Version 5 – The validation rules have been revised in this version of the specification. Some rules are not new – they have been enforced on the service previously but have not been documented before.</p>
@@ -1175,12 +1383,12 @@
     <tr>
       <td>AgreementID_05</td>
       <td>AgreementID matches an employer with no remaining reservation allowance</td>
-      <td>The employer has reached their reservations limit. Contact the employer</td>
+      <td>The employer has reached their <strong>reservations limit</strong>. Contact the employer</td>
     </tr>
     <tr>
       <td>AgreementID_06</td>
       <td>AgreementID matches an employer with insufficient remaining reservation allowance for all apprentices being added</td>
-      <td>The employer has reached their reservations limit. Contact the employer</td>
+      <td>The employer has reached their <strong>reservations limit</strong>. Contact the employer</td>
     </tr>
     <tr>
       <td>AgreementID_07</td>
@@ -1430,6 +1638,63 @@
       <td>ProviderRef_01</td>
       <td>Field length &gt; 20</td>
       <td>The <strong>Provider reference</strong> must not be longer than 20 characters</td>
+    </tr>
+    <tr>
+      <td>RecognisePriorLearning_01</td>
+      <td>Field is null / empty AND StartDate &gt;= 01.08.2022</td>
+      <td>Enter whether <strong>prior learning is recognised</strong>
+</td>
+    </tr>
+    <tr>
+      <td>RecognisePriorLearning_02</td>
+      <td>Field is NOT null / empty AND StartDate &lt; 01.08.2022</td>
+      <td>
+<strong>RPL data</strong> should not be entered when the start date is before 1 August 2022</td>
+    </tr>
+    <tr>
+      <td>RecognisePriorLearning_03</td>
+      <td>Value is NOT True, False, 0, 1, Yes, No</td>
+      <td>Enter whether <strong>prior learning</strong> is recognised as ‘true’ or ‘false’</td>
+    </tr>
+    <tr>
+      <td>DurationReducedBy_01</td>
+      <td>Field is null / empty AND RecognisePriorLearning is True</td>
+      <td>Enter the <strong>duration</strong> this apprenticeship has been reduced by in weeks due to prior learning</td>
+    </tr>
+    <tr>
+      <td>DurationReducedBy_02</td>
+      <td>Field is NOT null / empty AND RecognisePriorLearning is False</td>
+      <td>The <strong>duration</strong> this apprenticeship has been reduced by in weeks due to prior learning should not be entered when recognise prior learning is false</td>
+    </tr>
+    <tr>
+      <td>DurationReducedBy_03</td>
+      <td>Value contains non-numeric characters</td>
+      <td>Enter the <strong>duration</strong> this apprenticeship has been reduced by in weeks due to prior learning using numbers only</td>
+    </tr>
+    <tr>
+      <td>DurationReducedBy_04</td>
+      <td>Value is greater than 999</td>
+      <td>The <strong>duration</strong> this apprenticeship has been reduced by in weeks due to prior learning must be between 0 and 999</td>
+    </tr>
+    <tr>
+      <td>PriceReducedBy _01</td>
+      <td>Field is null / empty AND RecognisePriorLearning is True</td>
+      <td>Enter the <strong>price</strong> this apprenticeship has been reduced by due to prior learning</td>
+    </tr>
+    <tr>
+      <td>PriceReducedBy_02</td>
+      <td>Field is NOT null / empty AND RecognisePriorLearning is False</td>
+      <td>The <strong>price</strong> this apprenticeship has been reduced by due to prior learning should not be entered when recognise prior learning is false</td>
+    </tr>
+    <tr>
+      <td>PriceReducedBy_03</td>
+      <td>Value contains non-numeric characters</td>
+      <td>Enter the <strong>price</strong> this apprenticeship has been reduced by in whole pounds due to prior learning using numbers only</td>
+    </tr>
+    <tr>
+      <td>PriceReducedBy_04</td>
+      <td>Value is greater than 100,000</td>
+      <td>The <strong>price</strong> this apprenticeship has been reduced by in whole pounds due to prior learning must be between 0 and 100,000</td>
     </tr>
   </tbody>
 </table>
