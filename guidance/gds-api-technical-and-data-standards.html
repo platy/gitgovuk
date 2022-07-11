@@ -1,0 +1,460 @@
+<main class="detailed-guide" lang="en" role="main">
+      
+
+
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    
+
+<div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
+      <span class="govuk-caption-xl gem-c-title__context">
+    Guidance
+  </span>
+
+
+  <h1 class="gem-c-title__text govuk-heading-l">
+    API technical and data standards
+  </h1>
+</div>
+  </div>
+  
+  <div class="govuk-grid-column-two-thirds">
+        <p class="gem-c-lead-paragraph">Design, build and operate APIs in a consistent way</p>
+
+  </div>
+</div>
+
+<div class="govuk-grid-row">
+  <div class="metadata-logo-wrapper">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+      <div class="gem-c-metadata govuk-!-margin-bottom-3" data-module="gem-toggle metadata">
+  <dl data-module="gem-track-click">
+      <dt class="gem-c-metadata__term">From:</dt>
+      <dd class="gem-c-metadata__definition">
+          <a class="govuk-link" href="/government/organisations/central-digital-and-data-office">Central Digital and Data Office</a>
+
+      </dd>
+      <dt class="gem-c-metadata__term">Published</dt>
+      <dd class="gem-c-metadata__definition">7 February 2018</dd>
+      <dt class="gem-c-metadata__term">Last updated</dt>
+      <dd class="gem-c-metadata__definition">
+        11 July 2022
+          — <a class="gem-c-metadata__definition-link govuk-!-display-none-print js-see-all-updates-link" data-track-action="see-all-updates-link-clicked" data-track-category="content-history" data-track-label="history" href="#full-publication-update-history">
+            See all updates
+          </a>
+      </dd>
+  </dl>
+</div>
+    </div>
+    <div class="govuk-grid-column-one-third">
+    </div>
+  </div>
+</div>
+
+<div class="govuk-!-display-none-print govuk-!-margin-bottom-6" data-module="gem-track-click">
+  <form action="/email/subscriptions/single-page/new" class="gem-c-single-page-notification-button" data-button-location="top" data-track-action="Subscribe-button-top" data-track-category="Single-page-notification-button" data-track-label="/guidance/gds-api-technical-and-data-standards" method="POST">
+    <input name="base_path" type="hidden" value="/guidance/gds-api-technical-and-data-standards">
+    <button class="govuk-body-s gem-c-single-page-notification-button__submit" type="submit">  <svg class="gem-c-single-page-notification-button__icon" height="18" viewBox="0 0 459.334 459.334" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M177.216 404.514c-.001.12-.009.239-.009.359 0 30.078 24.383 54.461 54.461 54.461s54.461-24.383 54.461-54.461c0-.12-.008-.239-.009-.359H175.216zM403.549 336.438l-49.015-72.002v-89.83c0-60.581-43.144-111.079-100.381-122.459V24.485C254.152 10.963 243.19 0 229.667 0s-24.485 10.963-24.485 24.485v27.663c-57.237 11.381-100.381 61.879-100.381 122.459v89.83l-49.015 72.002a24.76 24.76 0 0 0 20.468 38.693H383.08a24.761 24.761 0 0 0 20.469-38.694z" fill="currentColor"></path></svg>Get emails about this page
+</button>
+</form>
+</div>
+
+
+
+
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    
+
+
+      <div class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 1" data-track-category="contentsClicked" data-track-label="#design-your-api" data-track-options="{&quot;dimension29&quot;:&quot;Design your API&quot;}" href="#design-your-api">Design your API</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 2" data-track-category="contentsClicked" data-track-label="#build-your-api" data-track-options="{&quot;dimension29&quot;:&quot;Build your API&quot;}" href="#build-your-api">Build your API</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 3" data-track-category="contentsClicked" data-track-label="#operate-your-api" data-track-options="{&quot;dimension29&quot;:&quot;Operate your API&quot;}" href="#operate-your-api">Operate your API</a>
+
+        </li>
+    </ol>
+</nav>
+      </div>
+    
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+
+        
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+          <div class="govspeak">
+<p>These standards are for people building APIs in government who want to:</p>
+
+<ul>
+  <li>save time</li>
+  <li>save resources</li>
+  <li>reassure users that their service meets minimum standards</li>
+  <li>use <a class="govuk-link" href="https://www.gov.uk/service-manual/agile-delivery">agile methods</a> to improve products and services through testing</li>
+  <li>take an API-first approach to development</li>
+</ul>
+
+<p>These standards will provide you with best practice guidance about how to design, build and operate your APIs for use in government and public services.</p>
+
+<p>By following these standards, you’ll work in the same way as other people and produce APIs that work better across different platforms and services.</p>
+
+<h2>Design your API</h2>
+
+<p>Before you build an API, you should carefully plan what it will do and how it will work. Your team should agree on a set of user needs, including who will use your API, and what they will need to do with it.</p>
+
+<p>Start by:</p>
+
+<ul>
+  <li>gathering user and business requirements to help define what the API needs to do</li>
+  <li>identifying the key business entities users need to interact with via the API</li>
+  <li>developing a specification before you start to code</li>
+  <li>testing your assumptions with users</li>
+  <li>iterating the design based on feedback</li>
+</ul>
+
+<p>This will allow you to focus on simplifying the interface, removing any features that are not useful to users.</p>
+
+<p>Consistency improves the developer experience by making it easier and more intuitive to integrate with the API. You need to make your API as easy to predict as possible as users may not read all of your documentation.</p>
+
+<p>You should avoid introducing breaking changes. Once an API is integrated with a service, people may be less willing or unable to update their code, because they will often want to make as few changes as possible after it goes live. You should think about services which depend on your API and how changes will impact them. If possible, do not make changes that will change how services have to interact with the API.</p>
+
+<p>Implementing user-centred design makes it more likely an API will meet user needs and need fewer changes over its lifetime. If you do need to introduce breaking changes, follow our guidance on versioning and <a class="govuk-link" href="https://www.gov.uk/guidance/defining-an-api-management-strategy#taking-your-api-out-of-service">taking your API out of service</a>.</p>
+
+<h3>Check for existing APIs</h3>
+
+<p>Establish whether there are any existing APIs which could be used instead of building a new one. These might be internal or external, or commercially available. You should look at internal API catalogues and the <a class="govuk-link" href="https://www.api.gov.uk/#uk-public-sector-apis" rel="external">cross-government UK API Catalogue</a>.</p>
+
+<p>It’s faster and simpler to reuse an existing API than build one from scratch. Building this discovery step into the design process prioritises reuse and means APIs are built only when necessary. You should also make sure any API you choose to use will work for your use case, in terms of licensing and functionality.</p>
+
+<h3>Follow the Technology Code of Practice, government data standards and all legal requirements</h3>
+
+<p>You should <a class="govuk-link" href="https://www.gov.uk/guidance/the-technology-code-of-practice">follow the Technology Code of Practice</a> when designing any technology in government, including APIs. <a class="govuk-link" href="https://www.gov.uk/guidance/make-better-use-of-data">Point 10 - Make better use of data</a> - may be particularly relevant when you’re working with APIs.</p>
+
+<p>You should design your API to follow all appropriate government data standards. You can find a list of endorsed standards in the <a class="govuk-link" href="https://alphagov.github.io/data-standards-authority/standards/" rel="external">Data Standards Catalogue</a>. Certain data standards endorsed by the government are particularly useful in API design. They are the:</p>
+
+<ul>
+  <li>
+<a class="govuk-link" href="https://www.gov.uk/government/publications/open-standards-for-government/date-times-and-time-stamps-standard">ISO 8601 standard</a>, which represents the date and time in your API’s payload response, helping people to read the time correctly</li>
+  <li>
+<a class="govuk-link" href="https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point">World Geodetic System 1984 and European Terrestrial Reference System 1989 standards</a>, which help you exchange location information in government</li>
+  <li>
+<a class="govuk-link" href="http://geojson.org/" rel="external">GeoJSON</a> format for encoding and exchanging location information</li>
+</ul>
+
+<p>You should follow all guidance and regulations around the <a class="govuk-link" href="https://www.gov.uk/government/publications/guide-to-the-general-data-protection-regulation">General Data Protection Regulation (GDPR)</a> and <a class="govuk-link" href="https://www.gov.uk/guidance/using-personal-data-in-your-business-or-other-organisation">using</a><a class="govuk-link" href="https://www.gov.uk/guidance/using-personal-data-in-your-business-or-other-organisation"> personal data in your organisation</a>.</p>
+
+<h3>Practice API-first design</h3>
+
+<p>API first is the practice of designing software with an API as the first interface to your data - and then having further interfaces such as web or mobile use that API as a way to access the data.</p>
+
+<p>Developing the API before the rest of the service means a platform or service can be built around the API. This would reduce the need to repeat work later if an external API is required.</p>
+
+<p>APIs are often an afterthought, built when a service already exists as a way for other services to access its data. If you’re building an API to a legacy system, that may be your only choice, but you should still think about the user needs for your API.</p>
+
+<p>Developing your API before any other interfaces has other advantages. These include:</p>
+
+<ul>
+  <li>other services being able to use your API</li>
+  <li>stress-testing of your API by your own internal services, allowing you to make continuous improvements to it and improve it for external users - this will improve developer experience by exposing the complexities of the API and making sure, for example, that documentation is fit for purpose</li>
+  <li>improved modularity and reuse of code, as the API will not have to be customised to fit an existing service - this leads to more consistent interfaces, meaning developers can be more comfortable with your API and can speed up integration</li>
+  <li>the underlying data structures of your API will be fit for purpose - starting with the API means that the design of the underlying data store must be considered from the beginning, and separated from the business logic of the service (see below ‘Abstract away your processes’)</li>
+</ul>
+
+<h3>Use REST to build your API</h3>
+
+<p>Representational state transfer (REST, which is sometimes known as RESTful) means an API follows the REST architectural style, and works with RESTful web services. This can make the API easier to use and faster to integrate with. REST principles are industry standard, which means developers will understand them more quickly. It also means you can use industry standard ways of documenting your API, and off the shelf testing software.</p>
+
+<p>Using REST is a good way to build an API, but other approaches <a class="govuk-link" href="https://www.gov.uk/guidance/using-graphql-for-your-api">such as GraphQL</a> may still be a better choice for specific projects. For example, GraphQL is useful for prototyping services, when you’re not sure what views of the data other developers will need.</p>
+
+<p>You should always choose the architectural style for your API based on your individual project or service’s needs.</p>
+
+<h3>Produce an OpenAPI document for your API</h3>
+
+<p>The <a class="govuk-link" href="https://swagger.io/specification/" rel="external">OpenAPI Specification</a> is a standardised way of describing RESTful web APIs - it allows you to produce a file (the OpenAPI document) which is both machine and human readable and which describes the format and responses of your API.</p>
+
+<p>A good principle is to produce an OpenAPI document as the first output of your design process, so the document is developed along with the API design.</p>
+
+<p>This can be used to:</p>
+
+<ul>
+  <li>show the API has been developed consistently with others from your organisation</li>
+  <li>test it against rules and for security issues using a software linter</li>
+  <li>generate reference documentation automatically - documentation generated in this way should be <a class="govuk-link" href="https://www.gov.uk/guidance/how-to-document-apis">supported by further resources</a>.</li>
+</ul>
+
+<p><a class="govuk-link" href="https://www.gov.uk/government/publications/recommended-open-standards-for-government/describing-restful-apis-with-openapi-3">OpenAPI is recommended</a> by the government Open Standards Board.</p>
+
+<h3>Plan your API securely</h3>
+
+<h4>Design securely</h4>
+
+<p>You should <a class="govuk-link" href="https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open">think about security</a> from the very beginning of the design process for your API. The National Cyber Security Centre provides advice about <a class="govuk-link" href="https://www.ncsc.gov.uk/collection/cyber-security-design-principles" rel="external">designing services securely</a>.</p>
+
+<p>API security is complicated, and involves:</p>
+
+<ul>
+  <li>data level security - making sure users only have access to the data provided by the API that they are authorised to see</li>
+  <li>application level security - making sure only authorised users can access the API</li>
+  <li>auditing - making sure the usage of the API is monitored</li>
+</ul>
+
+<p>The OWASP foundation has a list of <a class="govuk-link" href="https://owasp.org/www-project-api-security/" rel="external">top 10 security risks for APIs</a>. You should make sure to avoid these when designing your API.</p>
+
+<h4>Host your API securely</h4>
+
+<p>When you design an API, it’s important to think about where you will host it and how it will continue to work during its lifecycle.</p>
+
+<p>When you name and host your API, as well as its documentation, you should <a class="govuk-link" href="https://www.gov.uk/guidance/get-an-api-domain-on-govuk">follow guidance on choosing an API domain name</a>.</p>
+
+<p>Follow the Service Manual guidance on <a class="govuk-link" href="https://www.gov.uk/service-manual/technology/using-https">using HTTPS</a> when serving your API over the web, to make it as secure as possible. The National Cyber Security Centre also has guidance on <a class="govuk-link" href="https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data" rel="external">using TLS to securely deliver web services</a>.</p>
+
+<h2>Build your API</h2>
+
+<h3>Use the UTF-8 standard to encode your API</h3>
+
+<p><a class="govuk-link" href="https://home.unicode.org/" rel="external">Unicode</a> is the world standard for consistently encoding, representing and handling text in most global writing systems. You should use the <a class="govuk-link" href="https://www.gov.uk/government/publications/open-standards-for-government/cross-platform-character-encoding-profile">Unicode Transformation Format (UTF-8) standard</a> when encoding unicode character sets, to help you read, write, store and exchange text that will remain stable over time and across different technologies.</p>
+
+<h3>Use JSON for response formats</h3>
+
+<p>Use the JSON standard where possible when structuring your REST API’s response formats.</p>
+
+<p>You should use the <a class="govuk-link" href="https://www.json.org/json-en.html" rel="external">official specification for JSON - ECMA-404 The JSON Data Exchange Standard</a>. There are multiple JSON formats in use today, and if your organisation has not already specified one, we recommend <a class="govuk-link" href="https://jsonapi.org/" rel="external">JSON:API</a> which is specifically designed for API responses, and has the benefits of making some design choices for you by specifying conventions.</p>
+
+<p>Sometimes you’ll need an alternative to REST to match a data structure to a specific use case. For example, if you’re updating an API which currently provides responses in XML, it may be better for your users if you keep the same format. You should make sure this is well documented, because XML is increasingly uncommon.</p>
+
+<p>Choosing a broadly-adopted standard whenever possible gives you advantages, such as:</p>
+
+<ul>
+  <li>saving time by avoiding debate about what format to use</li>
+  <li>allowing you to follow industry best practices</li>
+  <li>making it easier for external developers to integrate with your API</li>
+</ul>
+
+<h3>Use consistent names for resources</h3>
+
+<p>Developers should be able to assume the names of the resources in your API from context. Use similar terms for similar resources, for example user_id and address_id.</p>
+
+<p>Your users should not have to reread documentation to be able to know what the name of a particular resource is.</p>
+
+<h3>Make your resources persistent</h3>
+
+<p>The resources your API provides (answers to requests) should not change, as this could break integrations.</p>
+
+<p>You should make sure your API design provides a level of abstraction from the underlying data sources. It should not matter if the columns in your database change name, for example, because the API should provide a map from the resource name to the underlying data.</p>
+
+<h3>Use standard HTTP responses</h3>
+
+<p>You should make sure you match error codes with HTTP responses. Standard HTTP response <a class="govuk-link" href="https://www.rfc-editor.org/rfc/rfc9110.html#name-status-codes" rel="external">codes are defined here</a>.</p>
+
+<p>Consistent and easy to read error codes are crucial to understanding where an error has occurred. There are often cases where the same endpoint could return the same HTTP status code for different conditions, so descriptive error messages will help users understand what’s gone wrong. You should document all error codes and make sure they’re easy to find.</p>
+
+<p>Make sure any custom error codes only contain information needed to diagnose the problem, and do not include any non-essential information, which could help an attacker target the service. For example, technical details of the system the API is running on.</p>
+
+<h3>Control levels of user authorisation</h3>
+
+<p>When you’re building your API, you need to decide the best way to authorise people to access its data. <a class="govuk-link" href="https://www.gov.uk/guidance/defining-an-api-management-strategy#managing-operations-with-an-api-gateway">Read the API management guidance</a>.</p>
+
+<p>User-level authentication is good for audit and access control. Use it if you want to control who can access your API. This is essential when dealing with personal or sensitive data.</p>
+
+<p>Use application-level authorisation if you want to control which applications can access your API without limiting who can access them. This is suitable if you want to do rate limiting, auditing, or billing functionality. Application-level authorisation may not be suitable for APIs holding personal or sensitive data.</p>
+
+<h3>
+Consider performance and scalability</h3>
+
+<p>You can measure your API’s performance by how fast it can deal with a single request and make a response. Its scalability is the amount of requests it can deal with at the same time while maintaining an acceptable performance level.</p>
+
+<p>You can improve the performance and scalability of your API response by making it cacheable. This means the API response can store copies of frequently-accessed data along its request and response path. This reduces bandwidth, latency and server load, as well as making network failures less of a problem for your users.</p>
+
+<p>A cacheable API response has other advantages, for example letting you use a Content Delivery Network (CDN). A CDN can make your API faster and more reliable by caching data for responses in locations that are closer to the user.</p>
+
+<h3>Provide an API test service</h3>
+
+<p>You should try to offer a testing service (also known as a sandbox) for your users. They may find an API harder to integrate without a test service, so providing one is a good use of your project’s time and budget. Sandboxes can also be generated much more easily with an OpenAPI document - tools are available which will convert these documents into test endpoints.</p>
+
+<p>You should make your test services available without authentication and make sure the test service never contains real data.</p>
+
+<p>Having a test service available also means your developers can start to get comfortable with an API in a sandbox environment very early in its development. It means your developers can work while other parts of the project are being completed. For example, work can begin in a test service, with test data, while a data sharing agreement is still being drawn up to access the real data for the finished API.</p>
+
+<p>However, providing a sandbox of good quality can be complicated, so you should carefully consider your options if you are going to do it. A good sandbox should include:</p>
+
+<ul>
+  <li>useful data that reflects the real API</li>
+  <li>implementation and dependencies behaviour that is properly simulated</li>
+  <li>the ability to save, protect and restore data</li>
+</ul>
+
+<h3>Test your API’s compliance</h3>
+
+<p>You need to make sure your API meets the standards your organisation or team’s legal requirements need.</p>
+
+<p>You must <a class="govuk-link" href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/" rel="external">comply with</a><a class="govuk-link" href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/" rel="external"> UK GDPR</a> when you do this.</p>
+
+<h3>Put your API in the cross-government API Catalogue</h3>
+
+<p>After you’ve tested your API’s compliance, you should add your API to the <a class="govuk-link" href="https://www.api.gov.uk/#uk-public-sector-apis" rel="external">cross-government API Catalogue</a>. Making your API discoverable means it’s more likely to get used.</p>
+
+<h3>Document your APIs</h3>
+
+<p>Your team’s developer, user researcher and technical writer should work together on your API’s documentation. You should follow guidance on:</p>
+
+<ul>
+  <li>
+    <p><a class="govuk-link" href="https://www.gov.uk/guidance/how-to-document-apis">documenting APIs</a></p>
+  </li>
+  <li>
+    <p><a class="govuk-link" href="https://www.gov.uk/guidance/writing-api-reference-documentation">writing API reference documentation</a></p>
+  </li>
+</ul>
+
+<h2>Operate your API</h2>
+
+<h3>Support older versions of your API</h3>
+
+<p>When you make new versions of your API, you should try to make sure you do not make changes that will stop older versions of your API working properly. If you cannot keep older versions working, you should tell users these older versions are no longer supported.</p>
+
+<p>You can think about <a class="govuk-link" href="https://www.gov.uk/guidance/defining-an-api-management-strategy#taking-your-api-out-of-service">retiring older versions of an API</a> if you can tell from the logs that few people are using it anymore.</p>
+
+<h3>Use an API management system or gateway</h3>
+
+<p>An API management platform provides services for your API that it rarely makes sense for you to build yourself. For example, access control and authorisation, audit and logging, and network management. In production all of these services are important, and can be more reliably and easily provided by an <a class="govuk-link" href="https://www.gov.uk/guidance/defining-an-api-management-strategy#managing-operations-with-an-api-gateway">API management tool or gateway</a> - of which there are several open source options.</p>
+
+<h3>When to authenticate your API</h3>
+
+<p>Authentication allows you to monitor who is using your API, and for what purpose. You need to authenticate your API to use:</p>
+
+<ul>
+  <li>rate limiting or throttling - making sure that users don’t overuse your resources</li>
+  <li>auditing - checking what data was accessed by which users</li>
+  <li>billing - if your API is chargeable</li>
+  <li>authorisation - enabling different levels of access based on users or roles</li>
+</ul>
+
+<p>We recommend using a third party tool for authentication, either as part of or in conjunction with an API gateway. Several open source options are available.</p>
+
+<p>It’s unlikely you’ll ever need to provide completely open access to your API, and for security reasons it’s never a good idea to do so. If you do want to provide open data in this way, you should consider <a class="govuk-link" href="https://www.gov.uk/guidance/using-csv-file-format">publishing it as a CSV file</a> to the internet, for example on <a class="govuk-link" href="https://data.gov.uk/" rel="external">data.gov.uk</a>.</p>
+
+<h3>Log your API’s use</h3>
+
+<p>If your API provides personal or sensitive data, you must log (ideally using the functionality of an API gateway, as above) when the data is provided and who you provide it to. This will help you follow <a class="govuk-link" href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/" rel="external">UK GDPR</a>, respond to data subject access requests, and detect fraud or misuse.</p>
+
+<h3>Monitor APIs for unusual activity</h3>
+
+<p>You must make sure all technology in your team or organisation is secure. APIs are no exception. <a class="govuk-link" href="https://www.gov.uk/guidance/make-things-secure">Read guidance from the Technology Code of Practice</a> to help you make things secure. Using the logging and audit tools from your API gateway will help you recognise when use of the API changes over time.</p>
+</div>
+
+</div>
+
+      <div class="responsive-bottom-margin">
+        
+<div class="app-c-published-dates app-c-published-dates--history govuk-!-margin-bottom-3" data-module="gem-toggle" lang="en">
+    Published 7 February 2018
+    <br>Last updated 11 July 2022
+      <a class="app-c-published-dates__toggle govuk-link" data-controls="full-history" data-expanded="false" data-toggled-text="-&nbsp;hide all updates" href="#full-history">+&nbsp;show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden">
+        <ol class="app-c-published-dates__list">
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2022-07-11T13:29:56.000+01:00">11 July 2022</time>
+              <p class="app-c-published-dates__change-note">Updated to improve the structure of the guidance, and clarified a few points.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2020-07-24T15:55:44.000+01:00">24 July 2020</time>
+              <p class="app-c-published-dates__change-note">Updated to remove references to 'whitelists' in line with the GDS style guide</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2019-08-01T14:15:27.000+01:00">1 August 2019</time>
+              <p class="app-c-published-dates__change-note">Version 2 of the API standards includes sections on linked data, namespaces, sub-resources and query arguments and providing a test service. We've also added to sections on reusing and managing personal data, responding to data requests and how to design data fields.</p>
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2018-02-07T12:30:00.000+00:00">7 February 2018</time>
+              <p class="app-c-published-dates__change-note">First published.</p>
+            </li>
+        </ol>
+      </div>
+</div>
+
+<div class="govuk-!-display-none-print govuk-!-margin-bottom-0" data-module="gem-track-click">
+  <form action="/email/subscriptions/single-page/new" class="gem-c-single-page-notification-button" data-button-location="bottom" data-track-action="Subscribe-button-bottom" data-track-category="Single-page-notification-button" data-track-label="/guidance/gds-api-technical-and-data-standards" method="POST">
+    <input name="base_path" type="hidden" value="/guidance/gds-api-technical-and-data-standards">
+    <button class="govuk-body-s gem-c-single-page-notification-button__submit" type="submit">  <svg class="gem-c-single-page-notification-button__icon" height="18" viewBox="0 0 459.334 459.334" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M177.216 404.514c-.001.12-.009.239-.009.359 0 30.078 24.383 54.461 54.461 54.461s54.461-24.383 54.461-54.461c0-.12-.008-.239-.009-.359H175.216zM403.549 336.438l-49.015-72.002v-89.83c0-60.581-43.144-111.079-100.381-122.459V24.485C254.152 10.963 243.19 0 229.667 0s-24.485 10.963-24.485 24.485v27.663c-57.237 11.381-100.381 61.879-100.381 122.459v89.83l-49.015 72.002a24.76 24.76 0 0 0 20.468 38.693H383.08a24.761 24.761 0 0 0 20.469-38.694z" fill="currentColor"></path></svg>Get emails about this page
+</button>
+</form>
+</div>
+
+      </div>
+
+      <div class="app-c-contents-list-with-body__link-wrapper" data-sticky-element="">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" focusable="false" height="17" viewBox="0 0 13 17" width="13" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" fill="currentColor"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
+  </div>
+    
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+  </div>
+  
+<div class="govuk-grid-column-one-third">
+  
+
+
+</div>
+
+</div>
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+        
+  <div class="gem-c-contextual-footer">
+    
+  <div class="gem-c-related-navigation">
+
+
+
+
+
+      <nav class="gem-c-related-navigation__nav-section" data-module="gem-toggle" role="navigation">
+
+    <h2 class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="gem-track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="govuk-link govuk-link gem-c-related-navigation__section-link govuk-link gem-c-related-navigation__section-link--footer" data-track-action="1.1 Explore the topic" data-track-category="relatedLinkClicked" data-track-label="/government/government-efficiency-transparency-and-accountability" data-track-options="{&quot;dimension28&quot;:&quot;1&quot;,&quot;dimension29&quot;:&quot;Government efficiency, transparency and accountability&quot;}" href="/government/government-efficiency-transparency-and-accountability">Government efficiency, transparency and accountability</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
+  </div>
+
+
+    </div>
+  </div>
+
+
+    </main>
