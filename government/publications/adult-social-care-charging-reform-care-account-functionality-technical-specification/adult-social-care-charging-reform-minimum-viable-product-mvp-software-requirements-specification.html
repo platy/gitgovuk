@@ -1,0 +1,988 @@
+<main class="html-publication" lang="en" role="main">
+      
+
+  <div class="publication-external">
+    <ul class="organisation-logos">
+        <li class="organisation-logos__logo">
+          
+<div class="gem-c-organisation-logo brand--department-of-health">
+    <a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--single-identity brand__border-color" href="/government/organisations/department-of-health-and-social-care">
+      <span class="gem-c-organisation-logo__name">Department<br>of Health &amp;<br>Social Care</span>
+</a>
+</div>
+        </li>
+    </ul>
+  </div>
+
+  <header class="gem-c-inverse-header  gem-c-inverse-header--padding-top ">
+    
+  
+
+<div class="gem-c-title gem-c-title--inverse govuk-!-margin-top-8 govuk-!-margin-bottom-0">
+      <span class="govuk-caption-xl gem-c-title__context">
+    Guidance
+  </span>
+
+
+  <h1 class="gem-c-title__text govuk-heading-xl">
+    Adult social care charging reform: minimum viable product (MVP) software requirements specification
+  </h1>
+</div>
+  <p class="publication-header__last-changed">Published 13 July 2022</p>
+
+  </header>
+
+
+
+
+  <section class="gem-c-devolved-nations">
+    <h2 class="govuk-heading-s govuk-!-margin-bottom-0">
+      Applies to England
+</h2>
+</section>
+
+<div class="govuk-grid-row sidebar-with-body" data-module="sticky-element-container">
+    <div class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
+        <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 1" data-track-category="contentsClicked" data-track-label="#introduction" data-track-options="{&quot;dimension29&quot;:&quot;Introduction&quot;}" href="#introduction">Introduction</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 2" data-track-category="contentsClicked" data-track-label="#roles-and-responsibilities" data-track-options="{&quot;dimension29&quot;:&quot;Roles and responsibilities&quot;}" href="#roles-and-responsibilities">Roles and responsibilities</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 3" data-track-category="contentsClicked" data-track-label="#minimum-requirements" data-track-options="{&quot;dimension29&quot;:&quot;Minimum requirements&quot;}" href="#minimum-requirements">Minimum requirements</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 4" data-track-category="contentsClicked" data-track-label="#non-functional-requirements" data-track-options="{&quot;dimension29&quot;:&quot;Non-functional requirements&quot;}" href="#non-functional-requirements">Non-functional requirements</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 5" data-track-category="contentsClicked" data-track-label="#annex-a-audience" data-track-options="{&quot;dimension29&quot;:&quot;Annex A: audience&quot;}" href="#annex-a-audience">Annex A: audience</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 6" data-track-category="contentsClicked" data-track-label="#annex-b-data-mapping" data-track-options="{&quot;dimension29&quot;:&quot;Annex B: data mapping&quot;}" href="#annex-b-data-mapping">Annex B: data mapping</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 7" data-track-category="contentsClicked" data-track-label="#annex-c-users-and-characteristics" data-track-options="{&quot;dimension29&quot;:&quot;Annex C: users and characteristics&quot;}" href="#annex-c-users-and-characteristics">Annex C: users and characteristics</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 8" data-track-category="contentsClicked" data-track-label="#annex-d-other-considerations" data-track-options="{&quot;dimension29&quot;:&quot;Annex D: other considerations&quot;}" href="#annex-d-other-considerations">Annex D: other considerations</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered">
+          <a class="gem-c-contents-list__link govuk-link govuk-link--no-underline" data-track-action="content_item 9" data-track-category="contentsClicked" data-track-label="#glossary" data-track-options="{&quot;dimension29&quot;:&quot;Glossary&quot;}" href="#glossary">Glossary</a>
+
+        </li>
+    </ol>
+</nav>
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+    </div>
+
+  <div class="print-wrapper">
+    <div class="print-meta-data">
+      <p>
+  <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png">
+</p>
+<p>
+  © Crown copyright 2022
+</p>
+<p>
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3">nationalarchives.gov.uk/doc/open-government-licence/version/3</a> or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <a href="mailto:psi@nationalarchives.gov.uk">psi@nationalarchives.gov.uk</a>.
+</p>
+<p>
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+</p>
+<p>
+  This publication is available at https://www.gov.uk/government/publications/adult-social-care-charging-reform-care-account-functionality-technical-specification/adult-social-care-charging-reform-minimum-viable-product-mvp-software-requirements-specification
+</p>
+
+
+    </div>
+  </div>
+
+  <div class="main-content-container">
+    <div class="gem-c-govspeak-html-publication">
+  
+<div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
+    
+    
+      <div class="govspeak">
+<h2>Introduction</h2>
+
+<p>On 7 September 2021, government set out its&nbsp;<a class="govuk-link" href="https://www.gov.uk/government/publications/build-back-better-our-plan-for-health-and-social-care">plan for adult social care reform in England</a>. This included a lifetime cap on the amount anyone in England will need to spend on their personal care, alongside a more generous means-test for local authority financial support. <a class="govuk-link" href="https://www.gov.uk/government/publications/build-back-better-our-plan-for-health-and-social-care/adult-social-care-charging-reform-further-details">Further details on adult social care charging reform</a> were published on 5 January 2022.</p>
+
+<p>From 4 March to 1 April 2022, the government carried out a public consultation seeking views on draft statutory guidance setting out how a cap on care costs would operate in practice. The government has now published a <a class="govuk-link" href="https://www.gov.uk/government/consultations/operational-guidance-to-implement-a-lifetime-cap-on-care-costs/operational-guidance-to-implement-a-lifetime-cap-on-care-costs">formal response to the consultation</a> and published revised guidance (<a class="govuk-link" href="https://www.gov.uk/government/publications/care-act-statutory-guidance">Care Act 2014: supporting implementation</a>).</p>
+
+<p>If a person’s care and support needs are assessed as meeting the eligibility criteria and they are ordinarily resident in the area of a local authority, the local authority must open a care account for the person. This is regardless of whether the local authority is meeting the person’s need. This will allow local authorities to monitor a person’s progress towards the cap.</p>
+
+<p>The Department of Health and Social Care (<abbr title="Department of Health and Social Care">DHSC</abbr>) and the NHS England Transformation Directorate (<abbr title="NHS England Transformation Directorate">NHSTD</abbr>, formerly NHSX) are working with stakeholders to support the introduction of the required technology capability in local authority IT systems to allow this monitoring of a person’s progress towards the cap. <abbr title="Department of Health and Social Care">DHSC</abbr> and <abbr title="NHS England Transformation Directorate">NHSTD</abbr> have worked with these organisations throughout an initial discovery phase (October 2021 to January 2022), to conduct detailed interviews with local authorities, care providers and people who draw on care, and IT suppliers in the sector. These include:</p>
+
+<ul>
+  <li>Local Government Association (<abbr title="Local Government Association">LGA</abbr>)</li>
+  <li>Association of Directors of Adult Social Services (<abbr title="Association of Directors of Adult Social Services">ADASS</abbr>)</li>
+  <li>National Association of Financial Assessment Officers (<abbr title="National Association of Financial Assessment Officers">NAFAO</abbr>)</li>
+  <li>Socitm Advisory</li>
+  <li>Mason Advisory</li>
+</ul>
+
+<p>This specification has been co-produced with local authority partners. This includes:</p>
+
+<ul>
+  <li>trailblazer authorities: local authorities that will be implementing charging reform early to test the approach and generate insights</li>
+  <li>pathfinder authorities: local authorities that have been identified to allow all current IT suppliers in the market access to a local authority that can assist in developing this specification</li>
+</ul>
+
+<p>This document should be read alongside the:</p>
+
+<ul>
+  <li><a class="govuk-link" href="https://www.gov.uk/government/publications/care-act-statutory-guidance">supporting local preparation</a></li>
+  <li><a class="govuk-link" href="https://www.gov.uk/government/consultations/operational-guidance-to-implement-a-lifetime-cap-on-care-costs/operational-guidance-to-implement-a-lifetime-cap-on-care-costs">implementing the cap on care costs revised operational guidance</a></li>
+  <li>glossary of terms (below)</li>
+</ul>
+
+<h3>Purpose</h3>
+
+<p>This software requirements specification (<abbr title="software requirements specification">SRS</abbr>) provides adult social care (<abbr title="adult social care">ASC</abbr>) IT system suppliers in England with the information they need to develop local systems for their customers to deploy as part of the implementation of the reform in each of their customer local authorities.</p>
+
+<p>Further information about the audience for this <abbr title="software requirements specification">SRS</abbr> is included in annex A (below).</p>
+
+<h3>Scope</h3>
+
+<p>Building on the initial discovery phase, this specification sets out the requirement for a minimum viable product (<abbr title="minimum viable product">MVP</abbr>). The <abbr title="minimum viable product">MVP</abbr> sets out the functionality that needs to be in place to meet the statutory requirements in time for charging reform go live in October 2023 (or earlier in 2023 for trailblazer authorities).</p>
+
+<h3>
+<abbr title="minimum viable product">MVP</abbr>: care account functionality</h3>
+
+<p>The scope of the care account focuses on the minimum statutory requirements for the reforms to go live in October 2023 (or earlier for trailblazers) is set out below.</p>
+
+<figure class="image embedded"><div class="img"><img alt="" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/156508/high-level-flow-diagram.png"></div></figure>
+
+<p>High-level flow diagram that shows the process for a funded and self-funded person to access the care account. The diagram also identifies the specific care account element of the overall process that will be delivered by the <abbr title="minimum viable product">MVP</abbr>.</p>
+
+<p>As set out in the diagram above, information from needs and financial assessments will need to flow into the care account for creating, managing and reviewing the care account. This functionality should be developed in, or surfaced through, existing case management systems and will also need to produce statements drawing on the information collected in the account. Therefore, the focus of the <abbr title="minimum viable product">MVP</abbr> is the new care account functionality, shown above by the elements within the large bordered box at the bottom of the diagram.</p>
+
+<h3>Out of scope</h3>
+
+<p>To ensure that all local authorities have the minimum statutory requirements in place by October 2023 (or earlier for trailblazer authorities), solutions to automate care and needs assessments and wider process or pathway transformation are out of scope for the <abbr title="minimum viable product">MVP</abbr> specification. Standard interoperability with any wider local authority systems or external partner systems are also out of scope of the <abbr title="minimum viable product">MVP</abbr> specification.</p>
+
+<p>Interoperability with any wider local authority systems or external partner systems is not included within the <abbr title="minimum viable product">MVP</abbr> specification, but consideration should be given to best practice guidance on the design and delivery of inclusive digital services and interoperability included in the <a class="govuk-link" href="https://www.localdigital.gov.uk/declaration/" rel="external">Local Digital Declaration</a> and the government <a class="govuk-link" href="https://www.gov.uk/service-manual/service-standard">Service Standard</a>.</p>
+
+<p>There are further digital opportunities to support the implementation of charging reform, but these are out of scope for the <abbr title="minimum viable product">MVP</abbr> care account functionality. These will be explored through separate workstreams jointly with <abbr title="NHS England Transformation Directorate">NHSTD</abbr> and <abbr title="Department of Health and Social Care">DHSC</abbr>. However, this does not preclude suppliers and local authorities from developing them as part of their planned development work, subject to individual business needs and having the core care account functionality in place.</p>
+
+<h3>Timelines and milestones</h3>
+
+<p>In line with wider programme timelines, the key milestones relevant to this specification are:</p>
+
+<ul>
+  <li>September 2022: early assessment commencement for trailblazers</li>
+  <li>by January 2023: supplier development complete and trailblazer implementation complete</li>
+  <li>April 2023: early assessments commencement for all local authorities (excluding trailblazers)</li>
+  <li>October 2023: implementation complete for all local authorities</li>
+</ul>
+
+<p>A full list of relevant milestones is included at annex D (below).</p>
+
+<p>It is expected that following the release of the final specification that IT suppliers and local authorities will be able to provide the government with indicative implementation plans to meet the project milestones and go live dates, with local authorities being phased into go live between January and October 2023.</p>
+
+<h2>Roles and responsibilities</h2>
+
+<h3>Local authorities</h3>
+
+<p>As per any IT upgrade, there will be business change and training requirements. These, and other implementation activities, will be the responsibility of the individual local authority. For example, each local authority must ensure that its workforce is well trained in any IT system upgrade ahead of October 2023.</p>
+
+<p>Work required under this specification does not change or alter the commercial relationship between local authorities and IT suppliers in any way. Local authorities should work with their suppliers as per business as usual, including managing implementation and testing of new products created. Local authorities will remain responsible for ensuring that appropriate data protections and safety and security standards are in place to ensure compliance with legal and regulatory responsibilities.</p>
+
+<p>Local authorities are expected to participate in <abbr title="Department of Health and Social Care">DHSC</abbr> operational readiness surveys, to help monitor progress against milestones and to highlight delivery challenges.</p>
+
+<h3>IT suppliers</h3>
+
+<p>IT suppliers will need to develop their IT systems to meet the requirements of the <abbr title="minimum viable product">MVP</abbr> specification. They will then need to provide a clear implementation plan to allow:</p>
+
+<ul>
+  <li>trailblazer local authorities to be live with a tested system by January</li>
+  <li>all other local authorities to be live with a tested system by October 2023</li>
+</ul>
+
+<p>This will require regular communication with <abbr title="NHS England Transformation Directorate">NHSTD</abbr> and <abbr title="Department of Health and Social Care">DHSC</abbr>, as well as contracted local authorities.</p>
+
+<p>IT suppliers will need to provide updates on their development and implementation plans, both to local authorities and to <abbr title="NHS England Transformation Directorate">NHSTD</abbr> and <abbr title="Department of Health and Social Care">DHSC</abbr> and set out in writing their formal implementation plan for all local authorities by August 2022.</p>
+
+<h3>Government</h3>
+
+<p>To ensure the successful delivery of the <abbr title="minimum viable product">MVP</abbr>, the government will:</p>
+
+<ul>
+  <li>publish this detailed specification with care accounts and work closely with all local authority IT suppliers, providing adult social care case management systems in England, to produce and implement the technology solution</li>
+  <li>support local authorities and IT suppliers to move at pace and meet key milestones for delivery</li>
+  <li>provide oversight and assurance of planning and activities, assessing the state of digital readiness and monitoring risks at the programme and project level</li>
+  <li>encourage and facilitate collaboration among local authorities and IT suppliers, through local authority working groups, webinars and strategic supplier fora</li>
+  <li>provide local authorities with regular updates on the progress of reform delivery, through programme-level bulletins and briefings, as well as ad hoc technology updates</li>
+  <li>encourage standards for the delivery approach through sharing best practice from trailblazer and pathfinder local authorities to facilitate greater consistency across the sector</li>
+</ul>
+
+<h2>Minimum requirements</h2>
+
+<p>The <a class="govuk-link" href="https://www.gov.uk/government/consultations/operational-guidance-to-implement-a-lifetime-cap-on-care-costs">implementing the cap on care costs revised operational guidance</a> sets out the high-level requirements of a care account. These have been used to generate a list of more detailed minimum requirements. These are specified below, broken down by requirement type.</p>
+
+<h3>Minimum functional requirements</h3>
+
+<p>This specification articulates the minimum functionality required of a system to meet the care account for October 2023 (and earlier in 2023 for trailblazer local authorities). It must have the following functionality:</p>
+
+<ul>
+  <li>the process maps (set out within the accompanying <a class="govuk-link" href="https://www.gov.uk/government/publications/adult-social-care-charging-reform-care-account-functionality-technical-specification"><abbr title="minimum viable product">MVP</abbr> process maps</a>), user personas and actors (set out in annex C below) and the data requirements (set out in annex B below) cover the key functions of the system</li>
+  <li>the account must be linked to the account holder’s personal record in the case management system and through that to assessment and review information</li>
+  <li>once access to the care account is agreed and the metered rate established, the care account must be set up and managed</li>
+  <li>the care account must:
+    <ul>
+      <li>enable changes in a person’s needs and/or financial circumstances to be taken account of and enable adjustments to the metered rate to reflect these changes where appropriate</li>
+      <li>be able to reflect changes in guidance and legislation – for example, the upper and lower capital limits or the level of the £86,000 cap</li>
+      <li>enable the viewing of the next finance and care needs review date</li>
+      <li>ensure the user can record that evidence has been reviewed and/or approved in relation to validated care payments</li>
+      <li>allow local authorities to regularly provide a statement to the person as defined by the operational guidance which sets out the current balance (accrual) for the care account and when the care cap will be reached. As well as a digital statement, the <abbr title="minimum viable product">MVP</abbr> allows for this to be a printed statement and must provide functionality to generate a statement at any point if requested</li>
+      <li>(as set out in the operational guidance), allow local authorities to provide a statement to the person notifying them they are about to reach the cap limit. This must be able to be merged with other information like steps for transition, including what action, if any, they need to take</li>
+      <li>support the creation of a summary output that can be shared with the new local authority when an account holder moves. The operational guidance defines what the outputs must cover</li>
+    </ul>
+  </li>
+  <li>care account data must be stored in such a way to enable operational, performance and statutory reporting</li>
+  <li>existing assessment processes will produce data outputs that must be used within the care account to set it up, maintain it and finally close it</li>
+  <li>the assessment process will generate:
+    <ul>
+      <li>the independent personal budget (<abbr title="independent personal budget">IPB</abbr>) or personal budget (<abbr title="personal budget">PB</abbr>)</li>
+      <li>the metered rate</li>
+      <li>previous care account accruals from another local authority</li>
+      <li>account start date and account change date</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Minimum data requirements</h3>
+
+<p>Minimum data requirements to be held in the care account, and within the wider IT supplier case management system, include care and financial assessment information, personal information and specific new information set out in charging reform guidance and legislation.</p>
+
+<p>The full data map is included at annex B (below).</p>
+
+<h3>Minimum statement outputs</h3>
+
+<p>There are 3 processes that require a defined standard to enable the solution to satisfy user stories.</p>
+
+<h4>Statement output</h4>
+
+<p>The following fields are required in all statements generated from the care account:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Field (as specified in operational guidance)</th>
+      <th scope="col">Data point (as shown in annex B below)</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Current level of the cap</td>
+      <td>Current care cap amount</td>
+      <td>Single national figure updated annually</td>
+    </tr>
+    <tr>
+      <td>Total cost of meeting the person’s care needs</td>
+      <td>
+<abbr title="independent personal budget">IPB</abbr> or <abbr title="personal budget">PB</abbr>
+</td>
+      <td>See definitions in glossary (below)</td>
+    </tr>
+    <tr>
+      <td>Current rate of progress towards the cap</td>
+      <td>Metered rate</td>
+      <td>See definitions in glossary (below)</td>
+    </tr>
+    <tr>
+      <td>Daily living costs</td>
+      <td>Current daily living costs amount</td>
+      <td>Single national figure updated annually.     This figure only applies if the account holder is in a   residential care setting and is paying for accommodation and meals as well as   care. In these cases the current daily living costs figure is deducted from  the <abbr title="independent personal budget">IPB</abbr> to calculate the metered rate.</td>
+    </tr>
+    <tr>
+      <td>Total accrued costs to date</td>
+      <td>Account balance</td>
+      <td>The amount that has accrued towards the care cap since the account was opened.<br><br>This will be:<br><br>- opening and previous balance<br>- plus (metered rate multiplied by number of weeks)<br>- plus or minus (manual adjustments)</td>
+    </tr>
+    <tr>
+      <td>Adjustments in the accrued costs</td>
+      <td>Manual adjustments</td>
+      <td>Manual adjustments may include: <br><br>- 	increase in the metered rate arising from increased provider costs<br>- increase or decrease in the metered rate arising from changes to care needs<br>- increase in the accrued balance arising from care cap uplift<br>- deduction arising from a long time (greater than 6 weeks) spent in hospital when the service user is not paying for care</td>
+    </tr>
+    <tr>
+      <td>Indicative date of when the person is expected to reach   the cap</td>
+      <td>Predicted date cap reached</td>
+      <td>(Current care cap minus account balance) divided by metered rate</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>Care account transfer output</h4>
+
+<p>Systems must include the ability to generate a transferable output of care account data to allow the transfer of information from one local authority to another, in the event a person drawing on care in their area moves to another. As set out in the roles and responsibilities, local authorities must consider how to manage this output in line with their data protection duties.</p>
+
+<p>As a minimum, outputs must include:</p>
+
+<ul>
+  <li>an up-to-date care account statement</li>
+  <li>a copy of the care account’s update history from the previous year</li>
+  <li>any other relevant information recorded in a care account and requested by the second local authority</li>
+</ul>
+
+<p>It is expected that these will be a csv or PDF file, or similar.</p>
+
+<p>Outputs must also include either:</p>
+
+<ul>
+  <li>a copy of any care and support plan prepared for the person</li>
+  <li>(if they are a self-funder) a copy of their <abbr title="independent personal budget">IPB</abbr> and their most recent needs and financial assessment</li>
+</ul>
+
+<h4>Local authority reporting data</h4>
+
+<p>Systems must also include the ability to generate reporting for the local authority on an ad-hoc, as-requested basis. These reports should include the data points in the care account and from the wider system, as set out in the ‘minimum data requirements’ section above and care reform evidence’ section below. It is expected that these will be a csv file or similar.</p>
+
+<h3>Early assessment: data take-on</h3>
+
+<div aria-label="Information" class="application-notice info-notice" role="note">
+<p>Please note: this will be required by April 2023 (or September 2022 for trailblazer local authorities).</p>
+</div>
+
+<p>The reform advises local authorities may begin early assessments from April 2023 for access to the care account to help manage demand. This will require local authorities to have assessments in place, where the relevant data about an account application can be held.</p>
+
+<p>Suppliers will need to consider how the early assessments can be loaded into the care account with the correct start date, facilitating the reduction of manual processes. As the assessments will be localised, suppliers may wish to standardise some requirements for these assessments to enable the care account load. There should be little or no difference between the assessments used for early assessment and the assessments used for business as usual.</p>
+
+<h3>Other system requirements</h3>
+
+<p>This section identifies requirements that are not part of the main care account functionality but are nonetheless required as part of the overall system to implement and manage the care reform.</p>
+
+<h4>Care reform evidence</h4>
+
+<p>In order to monitor the care reform, <abbr title="Department of Health and Social Care">DHSC</abbr> requires the following secondary data points to be part of the overall care account solution and implementation, facilitating the reduction of manual processes for local authorities in providing this data, and future-proofing data gathering requirements and interoperability:</p>
+
+<ul>
+  <li>local authority ID</li>
+  <li>date care account last updated</li>
+  <li>NHS number</li>
+  <li>date of latest financial assessment</li>
+  <li>funding status</li>
+  <li>chargeable income used in the latest financial assessment</li>
+  <li>capital assets used in the latest financial assessment</li>
+  <li>amount user paid towards their care (weekly and monthly)</li>
+  <li>amount state paid towards a user’s care (weekly and monthly)</li>
+  <li>amount paid attributable to social care (weekly and monthly)</li>
+</ul>
+
+<p>The majority of these data points will be derived from the needs and financial assessments. The next review date for a care account holder is identified as a requirement for the <abbr title="minimum viable product">MVP</abbr> in the data mapping section of this specification.</p>
+
+<h4>Existing personal budget holders</h4>
+
+<p>People in receipt of local authority funded support will already have:</p>
+
+<ul>
+  <li>a needs and financial assessment in place</li>
+  <li>an existing personal budget</li>
+  <li>a weekly contribution amount, where appropriate</li>
+</ul>
+
+<p>Suppliers will need to consider how care accounts can be created for this cohort as a data load.</p>
+
+<h4>Uplifts</h4>
+
+<p>It is likely that core data elements may change once the care account is live and running. These could include:</p>
+
+<ul>
+  <li>an up rate of daily living costs</li>
+  <li>changes to the lower and upper capital limit</li>
+  <li>changes to the care cap, which is currently set at £86,000</li>
+</ul>
+
+<p>Typically, uplifts in social care finance are done as an annual batch update process to reflect changes in provider rates and changes to benefits and allowances. Suppliers will need to consider how to enable system-wide uplifts, facilitating the reduction of manual processes.</p>
+
+<h4>External interface requirements</h4>
+
+<h5>1. User interfaces</h5>
+
+<p>There are no specific user interface requirements. Suppliers are encouraged to use their existing user interface to deliver the solution as this will support more effective user adoption due to familiarisation.</p>
+
+<h5>2. Hardware interfaces</h5>
+
+<p>No hardware interface requirements are anticipated as the solution will use existing solutions, hardware and infrastructure.</p>
+
+<h5>3. Software interfaces</h5>
+
+<p>Additional software interfaces, or amendment of existing ones, may be required depending on how the supplier architects their overall solution and/or whether local authorities use additional third-party software. These will be wholly the responsibility of the supplier and/or the local authority.</p>
+
+<p>Development of interfaces is more effective and reliable when underpinned by agreed data standards. The data points detailed in the data mapping section of this <abbr title="software requirements specification">SRS</abbr> are identified as a requirement and are not a fully developed standard. There has been insufficient time to complete a data standard for the <abbr title="minimum viable product">MVP</abbr>, but the data points identified within the <abbr title="software requirements specification">SRS</abbr> will be carried forward to any future work to develop one. See the examples in the boxes below.</p>
+
+<div class="call-to-action">
+<h5>Supplier example</h5>
+
+<p>Where the case management, including assessment capability, resides in a separate system from the financial information. Data from both may be required to build the care account data set.</p>
+</div>
+
+<div class="call-to-action">
+<h5>Local authority example</h5>
+
+<p>Where a local authority uses a third-party supplier to provide on-line self-assessment capability and the data captured on-line needs to be shared with the core case management system</p>
+</div>
+
+<h5>4. Communication interfaces</h5>
+
+<p>No additional communication interface requirements are anticipated as the solution will use existing solutions, hardware and infrastructure.</p>
+
+<h3>User stories and process map requirements</h3>
+
+<p>User stories have been created to articulate the requirements and help local authorities, suppliers and other stakeholders understand how the solution needs to function to meet the statutory requirements, which will be key in developing the IT solution.</p>
+
+<p>The user stories are presented in the standard format of:</p>
+
+<p>As a… [user]</p>
+
+<p>I need… [actions or functions]</p>
+
+<p>so that… [outcomes]</p>
+
+<p>The user stories have been developed building on the user research that came from the user research workstream to inform the persona and actor characteristics (see annex C below for a full list of personas and actors). The user stories are mapped to the actors and personas detailed above.</p>
+
+<p>High-level process maps were developed as additional support to the overall requirements development. These are also mapped to relevant user stories.</p>
+
+<p>The user stories are detailed in the accompanying spreadsheet <a class="govuk-link" href="https://www.gov.uk/government/publications/adult-social-care-charging-reform-care-account-functionality-technical-specification">User stories and data points</a> within the tab ‘User stories’. They will be developed further through work with the trailblazer authorities. These user stories include areas of potential future functionality for context only, and any content in the ‘Should, Could, …’ column are not part of the requirements for the <abbr title="minimum viable product">MVP</abbr>.</p>
+
+<p>Current process maps are within the accompanying <a class="govuk-link" href="https://www.gov.uk/government/publications/adult-social-care-charging-reform-care-account-functionality-technical-specification"><abbr title="minimum viable product">MVP</abbr> process maps</a> attachment. These show the anticipated processes for an individual’s user journey, including:</p>
+
+<ul>
+  <li>the set-up of their care account</li>
+  <li>the provision of ongoing care</li>
+  <li>care account review, needs review and financial review</li>
+  <li>annual changes to rates</li>
+  <li>short-term or one-off variations</li>
+  <li>changes of circumstance</li>
+</ul>
+
+<p>Like the user stories, the process maps include non-mandatory elements which are not part of the requirements for the <abbr title="minimum viable product">MVP</abbr>. These are shown in green text on a white background.</p>
+
+<h2>Non-functional requirements</h2>
+
+<h3>Performance requirements</h3>
+
+<p>These will be met through existing contractual arrangements where performance expectations are identified and agreed. Where those performance agreements are not met, they remain an issue between the customer and the supplier.</p>
+
+<p>We would recommend local authorities review their contract performance expectations and test these as part of the overall acceptance testing for the solution from the supplier.</p>
+
+<h3>Safety and security</h3>
+
+<p>There are no specific safety and security requirements that relate to this solution development.</p>
+
+<p>As set out in the roles and responsibilities section above, there is an expectation that suppliers will meet all relevant safety and security standards to safeguard personal data held in the solution as part of their standard system development and hosting services.</p>
+
+<p>Likewise, there is an expectation that local authorities will meet all relevant safety and security standards to safeguard personal data held in the solution and enable only authorised and authenticated access to the solution.</p>
+
+<h3>Accessibility</h3>
+
+<p>Accessibility compliance will be achieved through existing contractual arrangements where accessibility expectations are identified and agreed. Where those performance agreements are not met, they remain an issue between the local authority customers and the supplier.</p>
+
+<p>The expectation is that this includes the needs of system users who work for or on behalf of the local authority as well as residents and their proxies.</p>
+
+<p>If guidance is required, then we would suggest consulting <a class="govuk-link" href="https://www.w3.org/WAI/WCAG2AA-Conformance" rel="external">Web Content Accessibility Guidelines (WCAG) 2
+Level AA Conformance</a> for information.</p>
+
+<h3>Quality</h3>
+
+<p>There is an expectation that suppliers have already achieved or are in the process of applying for accreditation for a range of relevant standards and that this would be covered by existing local authority contracts.</p>
+
+<p>Local authorities will need to review the standards compliance within their contract and ensure the supplier has maintained relevant accreditation renewals and added new standards where applicable.</p>
+
+<h3>Business rules</h3>
+
+<p>There are no current business rules that need to be applied.</p>
+
+<h2>Annex A: audience</h2>
+
+<p>The <abbr title="software requirements specification">SRS</abbr> has been developed to enable both technical and non-technical audiences to understand the requirements. The <abbr title="software requirements specification">SRS</abbr> is aimed at 2 distinct groups.</p>
+
+<h3>
+<span class="number">1. </span> People who have a direct responsibility for the development, testing, delivery, configuration and implementation of the <abbr title="minimum viable product">MVP</abbr> to support the wider reform delivery</h3>
+
+<p>This would include:</p>
+
+<ul>
+  <li>local authorities</li>
+  <li>case management system lead or manager, and/or corporate IT or digital leads</li>
+  <li>programme or project lead or manager for <abbr title="adult social care">ASC</abbr> reform</li>
+  <li>senior leadership team – senior responsible officer for delivering the reform</li>
+  <li>reporting lead</li>
+  <li>system suppliers</li>
+  <li>product manager or owner</li>
+  <li>developers</li>
+  <li>configuration or deployment leads</li>
+  <li>project managers</li>
+  <li>reform delivery programme</li>
+  <li>policy team</li>
+  <li>reform delivery support</li>
+  <li>reform service design team</li>
+</ul>
+
+<h3>
+<span class="number">2. </span> People who have an indirect interest in the <abbr title="minimum viable product">MVP</abbr> development and implementation but a wider interest in the reform</h3>
+
+<p>This would include:</p>
+
+<ul>
+  <li>local authorities</li>
+  <li>financial assessment lead</li>
+  <li>commissioning or brokerage lead</li>
+  <li>practice lead</li>
+  <li>training lead</li>
+  <li>system suppliers</li>
+  <li>account managers</li>
+  <li>others</li>
+  <li>
+<abbr title="Association of Directors of Adult Social Services">ADASS</abbr> regional reform leads</li>
+</ul>
+
+<h2>Annex B: data mapping</h2>
+
+<p>An example of the data mapping approach is shown below. The data mapping is also provided in the accompanying spreadsheet <a class="govuk-link" href="https://www.gov.uk/government/publications/adult-social-care-charging-reform-care-account-functionality-technical-specification">User stories and data points</a> within the tabs ‘Data points’ and ‘Data points notes’.</p>
+
+<p>The following data points have been identified as required within the care account system:</p>
+
+<p>Account info:</p>
+
+<ul>
+  <li>care account ID</li>
+  <li>previous local authority and/or care account ID</li>
+  <li>account status</li>
+</ul>
+
+<p>Generic fields:</p>
+
+<ul>
+  <li>current care cap amount plus effective date</li>
+  <li>current daily living costs amount plus effective date</li>
+</ul>
+
+<p>Eligible care:</p>
+
+<ul>
+  <li>full cost paid by individual for eligible and non-eligible care (weekly rate)<sup role="doc-noteref"><a class="govuk-link" href="#fn:1" rel="footnote">[footnote 1]</a></sup>
+</li>
+  <li>metered rate (weekly rate)<sup role="doc-noteref"><a class="govuk-link" href="#fn:2" rel="footnote">[footnote 2]</a></sup>
+</li>
+  <li>start date for accrual</li>
+</ul>
+
+<p>Care account activity:</p>
+
+<ul>
+  <li>full amount paid by <abbr title="service user">SU</abbr> for eligible and non-eligible care costs (weekly rate multiplied by number of weeks)<sup role="doc-noteref"><a class="govuk-link" href="#fn:1" rel="footnote">[footnote 1]</a></sup>
+</li>
+  <li>total paid by <abbr title="service user">SU</abbr> for care (cumulative)<sup role="doc-noteref"><a class="govuk-link" href="#fn:1" rel="footnote">[footnote 1]</a></sup>
+</li>
+  <li>accruals towards cap (weekly metered rate multiplied by number of weeks)</li>
+  <li>account balance (cumulative metered rate plus or minus manual adjustments)</li>
+  <li>manual adjustments plus date incurred, date recorded, reason</li>
+  <li>date of last account validation</li>
+  <li>date of last <abbr title="personal budget">PB</abbr> or <abbr title="independent personal budget">IPB</abbr> review</li>
+  <li>outcomes of last <abbr title="personal budget">PB</abbr> or <abbr title="independent personal budget">IPB</abbr> review</li>
+  <li>date of next planned <abbr title="personal budget">PB</abbr> or <abbr title="independent personal budget">IPB</abbr> review</li>
+  <li>predicted date cap reached ((current care cap minus account balance) divided by metered rate)</li>
+</ul>
+
+<p>In addition to the above it is assumed that the following data points will be captured within the core case management system and its financial module. Some of these may be used to calculate or derive data to be held in the care account, but this will depend on the approach taken by individual authorities so is not prescribed in this specification.</p>
+
+<p>Account info:</p>
+
+<ul>
+  <li>customer ID</li>
+  <li>core demographic record</li>
+  <li>forenames</li>
+  <li>family name</li>
+  <li>aliases</li>
+  <li>address</li>
+  <li>date of birth</li>
+  <li>gender</li>
+  <li>ethnicity</li>
+  <li>NHS number</li>
+  <li>National Insurance number</li>
+  <li>date of death</li>
+</ul>
+
+<p>Needs assessment:</p>
+
+<ul>
+  <li>mental capacity</li>
+  <li>capabilities and care needs</li>
+  <li>eligible care required to meet needs</li>
+  <li>non-eligible care</li>
+  <li>NHS funded care</li>
+  <li>informal care available or in place</li>
+  <li>eligible care provision to be funded</li>
+  <li>validation of assessment</li>
+  <li>cost frequency (unit type)</li>
+  <li>planned units per week</li>
+  <li>
+<abbr title="independent personal budget">IPB</abbr> or <abbr title="personal budget">PB</abbr>
+</li>
+  <li>start date for eligible care</li>
+</ul>
+
+<p>Standard rates:</p>
+
+<ul>
+  <li>standard rates or bands</li>
+</ul>
+
+<p>Financial assessment:</p>
+
+<ul>
+  <li>service user’s (<abbr title="service user">SU</abbr>) disclosure choice</li>
+  <li>
+<abbr title="service user">SU</abbr>’s 18(3) choice</li>
+  <li>thresholds</li>
+  <li>capital assets</li>
+  <li>income</li>
+  <li>eligibility for <abbr title="adult social care">ASC</abbr> funding</li>
+  <li>contribution required</li>
+</ul>
+
+<p>Expenditure:</p>
+
+<ul>
+  <li>evidence of payment</li>
+</ul>
+
+<p>Review:</p>
+
+<ul>
+  <li>past care needs and financial assessment review dates</li>
+  <li>care needs and financial assessment review outcomes</li>
+  <li>next planned care needs and financial assessment review date</li>
+</ul>
+
+<p>Notes:</p>
+
+<ul>
+  <li>case notes</li>
+</ul>
+
+<p>The <abbr title="minimum viable product">MVP</abbr> does not include any provision for online self-assessment or portal access, but it is recognised that suppliers may wish to develop this functionality.</p>
+
+<h2>Annex C: users and characteristics</h2>
+
+<h3>Actors</h3>
+
+<p>The following actors have been defined as having roles within care account processes and the care account must have functionality developed to meet each role’s requirements under the specification:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Service users and carers</th>
+      <th scope="col">Definition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Service user (self-funded), where the local authority is not meeting their needs</td>
+      <td>A fully self-funded service user, who is either ineligible   for financial support or has chosen not to go through a financial assessment and who has chosen not to access local authority commissioning of care through section 18(3). This person’s only contact with the local authority is to establish their level of eligible need, confirm their metered rate or <abbr title="independent personal budget">IPB</abbr>, and provide any necessary evidence of   expenditure.</td>
+    </tr>
+    <tr>
+      <td>Service user (partly or fully local authority funded)</td>
+      <td>A service user who has completed both a care needs   assessment and a financial assessment, and is receiving a package of care   partly or fully funded by the local authority.</td>
+    </tr>
+    <tr>
+      <td>Service user (self-funded but receiving local authority   provided care under S.18(3)</td>
+      <td>A fully self-funded service user, who is either ineligible   for financial support or has chosen not to go through a financial assessment,   but whose care needs are provided by the local authority under section 18(3).</td>
+    </tr>
+    <tr>
+      <td>Informal carer or proxy</td>
+      <td>A friend or family member providing unpaid care and   support and acting informally on the service user’s behalf.</td>
+    </tr>
+    <tr>
+      <td>Financial proxy</td>
+      <td>A friend, family member or official appointee with the   right to make financial decisions on the service user’s behalf.</td>
+    </tr>
+    <tr>
+      <td>Health proxy</td>
+      <td>A friend, family member or official appointee with the   right to make health-related decisions on the service user’s behalf.</td>
+    </tr>
+    <tr>
+      <td>Social worker or occupational therapist</td>
+      <td>A professional involved in assessment and/or case   management.</td>
+    </tr>
+    <tr>
+      <td>Adviser</td>
+      <td>A front-door adviser who may be involved in giving   information, advice and guidance and/or in gathering information to inform an   assessment or review.  This role may be   within the local authority or contracted out to the third sector.</td>
+    </tr>
+    <tr>
+      <td>Business support officer</td>
+      <td>An admin support officer who may input or update data   about the service user’s case, but does not have an advisory or professional   role.</td>
+    </tr>
+    <tr>
+      <td>Finance officer</td>
+      <td>Responsible for financial assessment, billing and charging   and income recovery.  Also responsible   for decisions around first and third-party top-ups.</td>
+    </tr>
+    <tr>
+      <td>Senior leadership</td>
+      <td>Strategic oversight of the service. Their particular   interest in care account related matters is likely to be in reporting and   forecasting.</td>
+    </tr>
+    <tr>
+      <td>Care provider</td>
+      <td>Providing paid care to the service user, whether purchased   directly on a self-funded basis, via the local authority on a partly or fully   local authority-funded basis, or commissioned or brokered by the local authority under section 18(3).</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Personas</h3>
+
+<p>A number of personas have been developed to date and these have been mapped to actor roles.</p>
+
+<p>The persona-to-actor mapping is available in the spreadsheet <a class="govuk-link" href="https://www.gov.uk/government/publications/adult-social-care-charging-reform-care-account-functionality-technical-specification">User stories and data points</a> in the tab ‘Persona mapping’.</p>
+
+<h2>Annex D: other considerations</h2>
+
+<h3>Operating environment</h3>
+
+<p>The operating environment will be determined by each of the suppliers based on their assessment of the most effective means of delivering the solution to local authorities and the solution users.</p>
+
+<h3>Constraints: design and implementation</h3>
+
+<p>There are no specific constraints that need to be identified within this <abbr title="software requirements specification">SRS</abbr>.</p>
+
+<p>Where a constraint has a significant impact on the delivery effectiveness, quality or timescale then this must be shared with <abbr title="Department of Health and Social Care">DHSC</abbr> and <abbr title="NHS England Transformation Directorate">NHSTD</abbr> as soon as possible.</p>
+
+<p>Where suppliers develop capability beyond the <abbr title="minimum viable product">MVP</abbr> to support self-service there is an expectation that they will apply the principles established in the <a class="govuk-link" href="https://www.gov.uk/guidance/government-design-principles">Government Design Principles</a> (developed by the Government Digital Service) where appropriate.</p>
+
+<h3>User documentation</h3>
+
+<p>This <abbr title="software requirements specification">SRS</abbr> is the most detailed document that will be supplied by <abbr title="Department of Health and Social Care">DHSC</abbr> and <abbr title="NHS England Transformation Directorate">NHSTD</abbr> to support the development of each supplier’s care account <abbr title="minimum viable product">MVP</abbr> solution.</p>
+
+<p>Suppliers are expected to develop and provide suitable documentation for continuing support and development of the solution and for local authority customers deployment in the usual way.</p>
+
+<h3>Assumptions and dependencies</h3>
+
+<h4>Assumptions</h4>
+
+<p>The solution is deployed as part of the current local social care system, or the future one as part of an existing procurement and system replacement programme.</p>
+
+<p>Given the importance of delivering the reform by October 2023 (or earlier in 2023 for trailblazers), local authorities will review their existing system procurements, upgrades, replacement and improvement activities to ensure they do not compromise the reform implementation.</p>
+
+<p>Suppliers will have reviewed their current roadmap commitments and amended them to ensure the delivery of the reform solution is not compromised.</p>
+
+<p>The trailblazer and pathfinder local authorities have been identified and are engaged with the overall delivery programme.</p>
+
+<h4>Dependencies</h4>
+
+<p>There are no dependencies to be considered at this stage.</p>
+
+<h3>Detailed milestones</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Ref.</th>
+      <th scope="col">Milestone</th>
+      <th scope="col">Baselined   date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>M1</td>
+      <td>Specification finalised</td>
+      <td>July   2022</td>
+    </tr>
+    <tr>
+      <td>M2</td>
+      <td>High-level implementation plan developed</td>
+      <td>July   2022</td>
+    </tr>
+    <tr>
+      <td>M3</td>
+      <td>Trailblazer early assessment commencement</td>
+      <td>September   2022</td>
+    </tr>
+    <tr>
+      <td>M4</td>
+      <td>IT supplier development complete</td>
+      <td>January   2023</td>
+    </tr>
+    <tr>
+      <td>M5</td>
+      <td>Implementation complete for trailblazer local authorities</td>
+      <td>January   2023</td>
+    </tr>
+    <tr>
+      <td>M6</td>
+      <td>Remaining local authorities early assessment commencement</td>
+      <td>April   2023</td>
+    </tr>
+    <tr>
+      <td>M7</td>
+      <td>Implementation complete for remaining local authorities</td>
+      <td>October   2023</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Glossary</h2>
+
+<h3>Adult social care charging reform</h3>
+
+<p>On 7 September 2021, government set out its new plan for adult social care reform in England. This includes reform of how local authorities should charge for adult social care, introducing:</p>
+
+<ul>
+  <li>a new lifetime cap on the amount anyone in England who enters care after October 2023 will need to spend on care</li>
+  <li>a more generous means-test and further roll-out of section 18(3) of the Care Act to allow more self-funders to access local authority care rates</li>
+</ul>
+
+<h3>Care account</h3>
+
+<p>The care account, among other things, records the costs a person drawing on care has accrued towards the cap and can be used to help the person plan their finances to meet their needs until such time as they reach the cap.</p>
+
+<h3>Care account holder</h3>
+
+<p>The person drawing on care, who has approached the local authority for support to meet their care needs or to start accruing spend towards the cap on cost.</p>
+
+<h3>Care account module</h3>
+
+<p>The module within a local authority’s existing social care case management system that supports the creation and management of a care account.</p>
+
+<h3>Care account statement</h3>
+
+<p>A statement provided by the local authority to the person drawing on care every 12 months to inform a person of their progress in accruing towards the care cap. It will also include the following information:</p>
+
+<ul>
+  <li>the current level of the cap</li>
+  <li>the total cost of meeting the person’s eligible needs</li>
+  <li>their rate of progress towards the cap</li>
+  <li>any daily living costs</li>
+  <li>adjustments to their accrued costs (since the last statement)</li>
+  <li>an indicative date of when the person is expected to reach the cap (when the statement is issued within 18 months of the person reaching the cap)</li>
+</ul>
+
+<h3>Care cap</h3>
+
+<p>The cap on care costs protects people from unpredictable care costs by limiting the costs a person in England will need to face to meet their eligible care and support needs in their lifetime.</p>
+
+<p>From October 2023 the cap will be set at £86,000. After this an annual review will determine changes to the cap based on inflation.</p>
+
+<h3>Daily living costs (<abbr title="daily living costs">DLCs</abbr>)</h3>
+
+<p>To ensure fairness between residential and domiciliary care, everyone in residential care will remain responsible for meeting their <abbr title="daily living costs">DLCs</abbr> (representing spend towards things like rent, food and utility bills). The regulations set a national, notional amount that is attributable to <abbr title="daily living costs">DLCs</abbr>, which is £200 in 2021 to 2022 prices. The amount is to be reviewed annually and uprated as considered appropriate.</p>
+
+<p>Costs attributable to <abbr title="daily living costs">DLCs</abbr> will not accrue towards the cap, and people remain responsible for paying <abbr title="daily living costs">DLCs</abbr> once they reach the cap and continue to receive care in a residential home.</p>
+
+<h3>Early assessment</h3>
+
+<p>To help manage the overall demand for assessments, local authorities may conduct needs and financial assessments of self-funders (newly captured for the means test or seeking to access the cap) where appropriate from April 2023 onwards (6 months in advance of ‘go live’). Local authorities have discretion to determine when (following April 2023) and for whom assessments are conducted early.</p>
+
+<h3>Eligible need</h3>
+
+<p>As defined within the <a class="govuk-link" href="https://www.legislation.gov.uk/ukpga/2014/23/contents/enacted" rel="external">Care Act 2014</a>.</p>
+
+<h3>Financial assessment</h3>
+
+<p>A financial assessment is carried out by local authorities to determine how much they should charge a person drawing on care to meet their eligible needs.</p>
+
+<h3>Independent personal budget (<abbr title="independent personal budget">IPB</abbr>)</h3>
+
+<p>Where a local authority is not responsible for meeting a person’s eligible needs or a self-funder is arranging their own care they will be provided an independent personal budget.</p>
+
+<p>This will set out what the cost would be to the local authority if the local authority was meeting the person’s eligible needs and the amount of <abbr title="daily living costs">DLCs</abbr> (where applicable). The amount set out in the <abbr title="independent personal budget">IPB</abbr> of what it would cost the local authority, less <abbr title="daily living costs">DLCs</abbr> (where applicable), will be the amount that accrues towards the cap.</p>
+
+<h3>Lower capital limit (<abbr title="lower capital limit">LCL</abbr>)</h3>
+
+<p>Assets below the lower capital limit are not chargeable. The <abbr title="lower capital limit">LCL</abbr> is set at £20,000 from October 2023. Individuals with capital below this limit may still contribute to care costs through any chargeable income.</p>
+
+<h3>Metered rate</h3>
+
+<p>The rate at which an individual’s expenditure progresses towards the care cap. This will either be the amount they are charged towards the cost of meeting their eligible needs as set out in their <abbr title="personal budget">PB</abbr> (less <abbr title="daily living costs">DLCs</abbr> if they are in residential care), or the costs set out in their <abbr title="independent personal budget">IPB</abbr> (less <abbr title="daily living costs">DLCs</abbr> if they are in residential care).</p>
+
+<p>Also identified as ‘rate of progress towards the cap’.</p>
+
+<h3>Minimum viable product (<abbr title="minimum viable product">MVP</abbr>)</h3>
+
+<p>Description of the minimum requirements of the system enabling the care account module.</p>
+
+<h3>Needs assessment</h3>
+
+<p>Carried out by the local authority to assess a person’s eligible needs.</p>
+
+<h3>Pathfinder</h3>
+
+<p>A local authority that has agreed to support the testing of the care account module and early assessment within their case management system but will not go live with charging reform early.</p>
+
+<h3>Personal budget (<abbr title="personal budget">PB</abbr>)</h3>
+
+<p>Everyone whose needs are met by the local authority must receive a personal budget as part of the care and support plan, or support plan. The personal budget is an important tool that gives the person clear information regarding the money that has been allocated to meet the needs identified in the assessment and recorded in the plan</p>
+
+<p>It will also record how much of that cost the adult will be charged by the local authority, and the amount that the local authority pays (that is, the balance). It is only the amount that the person is charged by the local authority, minus <abbr title="daily living costs">DLCs</abbr> where applicable, that will count towards the cap. Any financial contribution a local authority makes towards meeting a person’s care and support needs does not accrue towards the cap.</p>
+
+<h3>Self-assessment</h3>
+
+<p>Where the person drawing on care completes the assessment themselves and the local authority assures itself that this is an accurate reflection of the person’s needs.</p>
+
+<p>This is out of scope for the <abbr title="minimum viable product">MVP</abbr> but some local authorities may use existing capabilities to offer this to their community.</p>
+
+<h3>Technology enhancement</h3>
+
+<p>An initiative to support local authorities to improve their online self-service capability which can support better management of demand.</p>
+
+<h3>Trailblazer</h3>
+
+<p>A local authority that has agreed to go live with charging reform earlier in 2023 – including business change and system implementation.</p>
+
+<h3>Upper capital limit (UCL)</h3>
+
+<p>Individuals with chargeable assets above the UCL will be responsible for the full cost of their care. The UCL has been set at £100,000 with effect from October 2023.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li role="doc-endnote">
+      <p>These fields are a mandatory requirement for the <abbr title="minimum viable product">MVP</abbr>, as the service user must be offered the option to record his or her full expenditure. However, it is not mandatory for these fields to be completed for every care account, as some service users will not wish to disclose this.&nbsp;<a aria-label="go to where this is referenced" class="govuk-link" href="#fnref:1" role="doc-backlink">↩</a>&nbsp;<a aria-label="go to where this is referenced 2" class="govuk-link" href="#fnref:1:1" role="doc-backlink">↩<sup>2</sup></a>&nbsp;<a aria-label="go to where this is referenced 3" class="govuk-link" href="#fnref:1:2" role="doc-backlink">↩<sup>3</sup></a></p>
+    </li>
+    <li role="doc-endnote">
+      <p>A formula for calculation of the metered rate is included in the accompanying spreadsheet <a class="govuk-link" href="https://www.gov.uk/government/publications/adult-social-care-charging-reform-care-account-functionality-technical-specification">User stories and data points</a>.&nbsp;<a aria-label="go to where this is referenced" class="govuk-link" href="#fnref:2" role="doc-backlink">↩</a></p>
+    </li>
+  </ol>
+</div>
+</div>
+
+
+</div>
+</div>
+  </div>
+
+  <div class="sticky-element" data-sticky-element="">
+    <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" focusable="false" height="17" viewBox="0 0 13 17" width="13" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" fill="currentColor"></path>
+    </svg>
+    Contents
+</a>
+
+    <div class="sticky-element__print-link">
+      
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
+</div>
+    </div>
+  </div>
+</div>
+
+    </main>
