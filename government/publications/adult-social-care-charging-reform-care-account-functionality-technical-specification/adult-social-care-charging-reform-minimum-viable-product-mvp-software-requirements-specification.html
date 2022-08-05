@@ -28,7 +28,7 @@
     Adult social care charging reform: minimum viable product (MVP) software requirements specification
   </h1>
 </div>
-  <p class="publication-header__last-changed">Published 13 July 2022</p>
+  <p class="publication-header__last-changed">Updated 5 August 2022</p>
 
   </header>
 
@@ -41,9 +41,10 @@
 </h2>
 </section>
 
-<div class="govuk-grid-row sidebar-with-body" data-module="sticky-element-container">
-    <div class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
-        <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
+<div class="sidebar-with-body">
+  <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
+          <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
     <h2 class="gem-c-contents-list__title">
       Contents
 </h2>
@@ -86,15 +87,15 @@
         </li>
     </ol>
 </nav>
-      
+        
 <div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
     <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
 </div>
-    </div>
+      </div>
 
-  <div class="print-wrapper">
-    <div class="print-meta-data">
-      <p>
+    <div class="print-wrapper">
+      <div class="print-meta-data">
+        <p>
   <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png">
 </p>
 <p>
@@ -111,16 +112,16 @@
 </p>
 
 
+      </div>
     </div>
-  </div>
 
-  <div class="main-content-container">
-    <div class="gem-c-govspeak-html-publication">
+    <div class="main-content-container">
+      <div class="gem-c-govspeak-html-publication">
   
 <div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
     
     
-      <div class="govspeak">
+        <div class="govspeak">
 <h2>Introduction</h2>
 
 <p>On 7 September 2021, government set out its&nbsp;<a class="govuk-link" href="https://www.gov.uk/government/publications/build-back-better-our-plan-for-health-and-social-care">plan for adult social care reform in England</a>. This included a lifetime cap on the amount anyone in England will need to spend on their personal care, alongside a more generous means-test for local authority financial support. <a class="govuk-link" href="https://www.gov.uk/government/publications/build-back-better-our-plan-for-health-and-social-care/adult-social-care-charging-reform-further-details">Further details on adult social care charging reform</a> were published on 5 January 2022.</p>
@@ -149,8 +150,8 @@
 <p>This document should be read alongside the:</p>
 
 <ul>
-  <li><a class="govuk-link" href="https://www.gov.uk/government/publications/care-act-statutory-guidance">supporting local preparation</a></li>
-  <li><a class="govuk-link" href="https://www.gov.uk/government/consultations/operational-guidance-to-implement-a-lifetime-cap-on-care-costs/operational-guidance-to-implement-a-lifetime-cap-on-care-costs">implementing the cap on care costs revised operational guidance</a></li>
+  <li><a class="govuk-link" href="https://www.gov.uk/government/publications/care-act-statutory-guidance/care-and-support-statutory-guidance">Care and support statutory guidance: supporting local preparation (chapter 23)</a></li>
+  <li><a class="govuk-link" href="https://www.gov.uk/government/consultations/operational-guidance-to-implement-a-lifetime-cap-on-care-costs">Implementing the cap on care costs: revised draft operational guidance</a></li>
   <li>glossary of terms (below)</li>
 </ul>
 
@@ -169,11 +170,19 @@
 
 <p>The scope of the care account focuses on the minimum statutory requirements for the reforms to go live in October 2023 (or earlier for trailblazers) is set out below.</p>
 
-<figure class="image embedded"><div class="img"><img alt="" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/156508/high-level-flow-diagram.png"></div></figure>
+<figure class="image embedded"><div class="img"><img alt="" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/158891/care-account-diagram-v2-960x640.jpg"></div></figure>
 
-<p>High-level flow diagram that shows the process for a funded and self-funded person to access the care account. The diagram also identifies the specific care account element of the overall process that will be delivered by the <abbr title="minimum viable product">MVP</abbr>.</p>
+<p>High-level flow diagram showing the process for a funded and self-funded person to access the care account.</p>
 
-<p>As set out in the diagram above, information from needs and financial assessments will need to flow into the care account for creating, managing and reviewing the care account. This functionality should be developed in, or surfaced through, existing case management systems and will also need to produce statements drawing on the information collected in the account. Therefore, the focus of the <abbr title="minimum viable product">MVP</abbr> is the new care account functionality, shown above by the elements within the large bordered box at the bottom of the diagram.</p>
+<h4>Text alternative to diagram</h4>
+
+<p>For both local authority-funded and self-funded people, information from needs and financial assessments will need to flow into the care account for creating, managing and reviewing the care account. This functionality should be developed in, or surfaced through, existing case management systems. It will also need to produce statements drawing on the information collected in the account. Therefore, the focus of the <abbr title="minimum viable product">MVP</abbr> is the new care account functionality, namely:</p>
+
+<ul>
+  <li>creating, managing and reviewing the care account</li>
+  <li>tracking a person’s accrual towards the cap</li>
+  <li>producing statements (print and digital)</li>
+</ul>
 
 <h3>Out of scope</h3>
 
@@ -966,22 +975,17 @@ Level AA Conformance</a> for information.</p>
 
 </div>
 </div>
+    </div>
   </div>
 
-  <div class="sticky-element" data-sticky-element="">
+  <div class="govuk-grid-row">
     <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" focusable="false" height="17" viewBox="0 0 13 17" width="13" xmlns="http://www.w3.org/2000/svg">
       <path d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" fill="currentColor"></path>
     </svg>
-    Contents
+    Back to top
 </a>
 
-    <div class="sticky-element__print-link">
-      
-<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
-    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
-</div>
-    </div>
   </div>
 </div>
 
