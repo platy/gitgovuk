@@ -28,7 +28,7 @@
     Additional Procedure Code E-Series (Appendix 2A)
   </h1>
 </div>
-  <p class="publication-header__last-changed">Updated 11 June 2022</p>
+  <p class="publication-header__last-changed">Updated 14 September 2022</p>
 
   </header>
 
@@ -37,9 +37,10 @@
 
 
 
-<div class="govuk-grid-row sidebar-with-body" data-module="sticky-element-container">
-    <div class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
-        <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
+<div class="sidebar-with-body">
+  <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
+          <nav aria-label="Contents" class="gem-c-contents-list" data-module="gem-track-click" role="navigation">
     <h2 class="gem-c-contents-list__title">
       Contents
 </h2>
@@ -58,15 +59,16 @@
         </li>
     </ol>
 </nav>
-      
-<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
-    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
-</div>
-    </div>
 
-  <div class="print-wrapper">
-    <div class="print-meta-data">
-      <p>
+        
+<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-ga4="{&quot;event_name&quot;:&quot;print_page&quot;,&quot;type&quot;:&quot;Print this page&quot;,&quot;index&quot;:1,&quot;index_total&quot;:1,&quot;section&quot;:&quot;Contents&quot;}" data-module="ga4-event-tracker print-link">Print this page</button>
+</div>
+      </div>
+
+    <div class="print-wrapper">
+      <div class="print-meta-data">
+        <p>
   <img class="print-meta-data-licence" src="/assets/government-frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png">
 </p>
 <p>
@@ -83,16 +85,16 @@
 </p>
 
 
+      </div>
     </div>
-  </div>
 
-  <div class="main-content-container">
-    <div class="gem-c-govspeak-html-publication">
+    <div class="main-content-container">
+      <div class="gem-c-govspeak-html-publication">
   
 <div class="gem-c-govspeak govuk-govspeak " data-module="govspeak">
     
     
-      <div class="govspeak">
+        <div class="govspeak">
 <p>This Appendix contains the specific completion rules instructions for the E-series Union Additional Procedure codes for Data Element (<abbr title="Data Element">DE</abbr>) 1/11 for Imports.</p>
 
 <p>Use the <abbr title="Data Element">DE</abbr> 1/10 — 1/11 correlation matrix, Additional Procedure Code index list and their respective completion notes to help you identify the correct code to use and for additional guidance on how to complete the declaration. This Appendix includes Additional Procedure Codes:</p>
@@ -137,15 +139,30 @@
 
 <p>Imports of fresh fruit and vegetables with the customs value and duty calculated using a Simplified Procedure Value (<abbr title="Simplified Procedure Value">SPV</abbr>).</p>
 
+<h3>Permitted Import Movements:</h3>
+
+<p>This Additional Procedure Code may be used to declare goods moving from:</p>
+
+<ul>
+  <li>RoW to Northern Ireland (unless NIREM is declared in <abbr title="Data Element">DE</abbr> 2/2)</li>
+  <li>GB to Northern Ireland (unless NIREM is declared in <abbr title="Data Element">DE</abbr> 2/2)</li>
+</ul>
+
 <h3>Conditions for use:</h3>
 
 <p>For use with imports of fresh fruit and vegetables which are not covered by an invoice value for the transaction.</p>
 
 <h3>Restrictions on usage:</h3>
 
-<p>This Additional Procedure Code must not be used if there is an invoice value for the transaction.</p>
+<p>This Additional Procedure Code must not be used:</p>
 
-<p>This Additional Procedure Code cannot be used with Entry in Declarant’s Records (<abbr title="Entry in Declarant’s Records">EIDR</abbr>).</p>
+<ul>
+  <li>if there is an invoice value for the transaction</li>
+  <li>with Entry in Declarant’s Records (<abbr title="Entry in Declarant’s Records">EIDR</abbr>)</li>
+  <li>where NIIMP is declared without NIREM in <abbr title="Data Element">DE</abbr> 2/2</li>
+  <li>where NIDOM is declared in <abbr title="Data Element">DE</abbr> 2/2</li>
+  <li>where E02, 1FV or 1SV are declared in <abbr title="Data Element">DE</abbr> 1/11</li>
+</ul>
 
 <h3>Notices:</h3>
 
@@ -211,6 +228,15 @@
 
 <p>Imports of fresh fruit and vegetables with the customs value and duty calculated using a Standard Import Value (<abbr title="Standard Import Values">SIV</abbr>) (as listed in Annex VII, Part A Commission Delegated Regulation (EU) No 2017/891) and the Official Journals (<abbr title="Official Journal">OJ</abbr>) of the EU.</p>
 
+<h3>Permitted Import Movements:</h3>
+
+<p>This Additional Procedure Code may be used to declare goods moving from:</p>
+
+<ul>
+  <li>RoW to Northern Ireland (unless NIREM is declared in <abbr title="Data Element">DE</abbr> 2/2)</li>
+  <li>GB to Northern Ireland (unless NIREM is declared in <abbr title="Data Element">DE</abbr> 2/2)</li>
+</ul>
+
 <h3>Conditions for use:</h3>
 
 <p>For use with imports of fresh fruit and vegetables which are not covered by an invoice value for the transaction and where an <abbr title="Standard Import Values">SIV</abbr> rate is published in the <abbr title="Official Journal">OJ</abbr>.</p>
@@ -219,9 +245,16 @@
 
 <p>This Additional Procedure Code is only to be used during periods for which a <abbr title="Standard Import Values">SIV</abbr> is in force for the product being declared.</p>
 
-<p>This Additional Procedure Code must not be used if there is an invoice value for the transaction.</p>
+<p>This Additional Procedure Code must not be used:</p>
 
-<p>This Additional Procedure Code cannot be used with Entry in Declarant’s Records (<abbr title="Entry in Declarant’s Records">EIDR</abbr>).</p>
+<ul>
+  <li>if there is an invoice value for the transaction</li>
+  <li>with Entry in Declarant’s Records (<abbr title="Entry in Declarant’s Records">EIDR</abbr>)</li>
+  <li>for imports in GB</li>
+  <li>where NIIMP is declared with NIREM in <abbr title="Data Element">DE</abbr> 2/2</li>
+  <li>where NIDOM is declared with NIREM in <abbr title="Data Element">DE</abbr> 2/2</li>
+  <li>where E01, 1FV or 1SV are declared in <abbr title="Data Element">DE</abbr> 1/11</li>
+</ul>
 
 <h3>Notices:</h3>
 
@@ -286,22 +319,17 @@
 
 </div>
 </div>
+    </div>
   </div>
 
-  <div class="sticky-element" data-sticky-element="">
+  <div class="govuk-grid-row">
     <a class="govuk-link app-c-back-to-top dont-print" href="#contents">
     <svg class="app-c-back-to-top__icon" focusable="false" height="17" viewBox="0 0 13 17" width="13" xmlns="http://www.w3.org/2000/svg">
       <path d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" fill="currentColor"></path>
     </svg>
-    Contents
+    Back to top
 </a>
 
-    <div class="sticky-element__print-link">
-      
-<div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
-    <button class="govuk-link govuk-body-s gem-c-print-link__button" data-module="print-link">Print this page</button>
-</div>
-    </div>
   </div>
 </div>
 
