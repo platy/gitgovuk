@@ -1,5 +1,7 @@
 # UK Government advice and publications
 
+__No longer updated__: eventually, after several years it was clear how unsuitable git was for this data, the data is still being collected by the website at https://govdiff.njk.onl, but it using a different backend storage.
+
 This is a mirror in git of publications and guidance from the UK government provided at www.gov.uk. The files are generally those related to Brexit and the purpose is to enable usr to see haw the advise has changed using diffs.
 
 I made this because I was tired of seeing that guidance relevant to me was updated on www.gov.uk and not being able to find what had changed in very long documents.
